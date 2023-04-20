@@ -30,6 +30,7 @@
   "scripts": {
     "build": "unbuild",
     "format": "prettier --write src/**/*.ts test/**/*.ts",
+    "release": "release-it",
     "test": "vitest",
     "test:ci": "vitest --run",
     "typecheck": "tsc --noEmit"
@@ -39,5 +40,15 @@
   },
   "engines": {
     "node": ">=v18.15.0"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore(bgmd): release v${version}",
+      "tag": false,
+      "push": true
+    },
+    "npm": {
+      "publish": true
+    }
   }
 }

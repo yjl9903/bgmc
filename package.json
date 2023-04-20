@@ -6,7 +6,8 @@
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
     "format": "turbo run format --parallel",
-    "release": "bumpp package.json packages/*/package.json --commit --push --tag && pnpm -r publish --access public",
+    "release:bgmc": "pnpm -C packages/bgmc release",
+    "release:bgmd": "pnpm -C packages/bgmd release",
     "test:ci": "turbo run test:ci",
     "typecheck": "turbo run typecheck",
     "preversion": "turbo run test:ci",
@@ -15,6 +16,7 @@
   "devDependencies": {
     "@types/node": "^18.15.11",
     "bumpp": "latest",
+    "release-it": "^15.10.1",
     "turbo": "^1.9.3",
     "typescript": "^5.0.4",
     "unbuild": "^1.2.1",
