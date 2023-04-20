@@ -7,10 +7,10 @@ export class BgmClient {
 
   private readonly maxRetry;
 
-  private readonly fetch: (url: RequestInfo | URL, init?: RequestInit) => Promise<Response>;
+  private readonly fetch: (request: RequestInfo, init?: RequestInit) => Promise<Response>;
 
   constructor(
-    fetch: (url: RequestInfo | URL, init?: RequestInit) => Promise<Response>,
+    fetch: (request: RequestInfo, init?: RequestInit) => Promise<Response>,
     { maxRetry = 5 }: { maxRetry?: number } = {}
   ) {
     this.fetch = fetch;
@@ -51,9 +51,9 @@ export class BgmClient {
     const maxRetry = this.maxRetry;
     for (let i = 0; i < maxRetry; i++) {
       try {
-        return await this.fetch(url, { headers: { 'User-Agent': BgmClient.userAgent } }).then((r) =>
-          r.json()
-        );
+        return await this.fetch(url.toString(), {
+          headers: { 'User-Agent': BgmClient.userAgent }
+        }).then((r) => r.json());
       } catch (err) {
         if (i + 1 === maxRetry) {
           throw err;
