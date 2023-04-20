@@ -1,4 +1,4 @@
-import type { BGMSubject } from 'bgm-types';
+import type { BGMSearch, BGMSearchParams, BGMSubject, Query } from 'bgm-types';
 
 export class BgmClient {
   static baseURL = 'https://api.bgm.tv';
@@ -37,11 +37,20 @@ export class BgmClient {
     return this.request<BGMSubject.Subjects>(`/v0/subjects/${id}/subjects`);
   }
 
-  public async request<T>(pathname: string): Promise<T> {
+  public search(keywords: string, query?: Query<BGMSearchParams.Search>) {
+    return this.request<BGMSearch.Search>(`/search/subject/${keywords}`, query);
+  }
+
+  public async request<T>(pathname: string, query: Record<string, any> = {}): Promise<T> {
+    const url = new URL(pathname, BgmClient.baseURL);
+    for (const [key, value] of Object.entries(query)) {
+      if (value !== null && value !== undefined) {
+        url.searchParams.set(key, String(value));
+      }
+    }
     const maxRetry = this.maxRetry;
     for (let i = 0; i < maxRetry; i++) {
       try {
-        const url = new URL(pathname, BgmClient.baseURL);
         return await this.fetch(url, { headers: { 'User-Agent': BgmClient.userAgent } }).then((r) =>
           r.json()
         );
