@@ -30,6 +30,10 @@ importers:
         version: 0.30.1
 
   packages/bgmc:
+    dependencies:
+      bgm-types:
+        specifier: ^3.1.1
+        version: 3.1.1
     devDependencies:
       vitest:
         specifier: ^0.30.1
@@ -948,6 +952,10 @@ packages:
   /before-after-hook@2.2.3:
     resolution: {integrity: sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ==}
     dev: true
+
+  /bgm-types@3.1.1:
+    resolution: {integrity: sha512-sR+W10xnSKlDaANEhcorxGLJXjDm6giCqKFepN80YHwMJQkQICX/W5RSy5jfVLRIkyBLS1YxaQeoPgwgFOKr6Q==}
+    dev: false
 
   /big-integer@1.6.51:
     resolution: {integrity: sha512-GPEid2Y9QU1Exl1rpO9B2IPJGHPSupF5GnVIP0blYvNOMer2bTvSWs1jGOUg04hTmu67nmLsQ9TBo1puaotBHg==}
@@ -2497,7 +2505,7 @@ packages:
   /jsonfile@4.0.0:
     resolution: {integrity: sha512-m6F1R3z8jjlf2imQHS2Qez5sjKWQzbuuhuJ/FKYFRZvPE3PuHcSMVZzfsLhGVOkfd20obL5SWEBew5ShlquNxg==}
     optionalDependencies:
-      graceful-fs: 4.2.9
+      graceful-fs: 4.2.10
     dev: true
 
   /jsonfile@6.1.0:
@@ -2505,7 +2513,7 @@ packages:
     dependencies:
       universalify: 2.0.0
     optionalDependencies:
-      graceful-fs: 4.2.9
+      graceful-fs: 4.2.10
     dev: true
 
   /keyv@4.5.2:
