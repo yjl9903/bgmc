@@ -28,6 +28,7 @@
     "dist"
   ],
   "scripts": {
+    "before:init": "pnpm run build && pnpm run test:ci",
     "build": "unbuild",
     "format": "prettier --write src/**/*.ts test/**/*.ts",
     "release": "release-it",
