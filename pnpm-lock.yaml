@@ -11,8 +11,8 @@ importers:
         specifier: latest
         version: 9.1.0
       release-it:
-        specifier: ^15.10.2
-        version: 15.10.2
+        specifier: ^15.10.3
+        version: 15.10.3
       turbo:
         specifier: ^1.9.3
         version: 1.9.3
@@ -3236,8 +3236,8 @@ packages:
       rc: 1.2.8
     dev: true
 
-  /release-it@15.10.2:
-    resolution: {integrity: sha512-fm1MtEG6IFxMMmOhUzpw9FTx8k9Ln5iiM+bikjrg3oZ5JLJO1uR1yxloPqc4A2gIXUq+bQp8/g4wipOwgDmEcw==}
+  /release-it@15.10.3:
+    resolution: {integrity: sha512-OSdHOg76gwkpLbSLBK09GZQj5XWXwBP+S6v//rSoQKkjqklaCLK04Gl5NkTwNrQOHHiihs4ToesDNh2+w55k3w==}
     engines: {node: '>=14.9'}
     hasBin: true
     dependencies:
