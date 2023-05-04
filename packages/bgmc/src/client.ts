@@ -1,4 +1,11 @@
-import type { BGMSearch, BGMSearchParams, BGMSubject, Query } from 'bgm-types';
+import type {
+  BGMCollection,
+  BGMCollectionParams,
+  BGMSearch,
+  BGMSearchParams,
+  BGMSubject,
+  Query
+} from 'bgm-types';
 
 export class BgmClient {
   static baseURL = 'https://api.bgm.tv';
@@ -39,6 +46,10 @@ export class BgmClient {
 
   public search(keywords: string, query?: Query<BGMSearchParams.Search>) {
     return this.request<BGMSearch.Search>(`/search/subject/${keywords}`, query);
+  }
+
+  public getCollections(username: string, query?: Query<BGMCollectionParams.Information>) {
+    return this.request<BGMCollection.Information>(`/v0/users/${username}/collections`, query);
   }
 
   public async request<T>(pathname: string, query: Record<string, any> = {}): Promise<T> {
