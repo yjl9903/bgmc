@@ -5,7 +5,7 @@ import type {
   BGMSearchParams,
   BGMSubject,
   Query
-} from 'bgm-types';
+} from './types';
 
 export class BgmClient {
   static baseURL = 'https://api.bgm.tv';

@@ -1,3 +1,3 @@
-export * from 'bgm-types';
+export * from './types';
 
 export * from './client';

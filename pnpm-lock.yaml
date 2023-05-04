@@ -31,9 +31,6 @@ importers:
 
   packages/bgmc:
     dependencies:
-      bgm-types:
-        specifier: ^3.1.1
-        version: 3.1.1
       breadc:
         specifier: ^0.9.3
         version: 0.9.3
@@ -41,6 +38,9 @@ importers:
         specifier: ^1.0.1
         version: 1.0.1
     devDependencies:
+      bgm-types:
+        specifier: ^3.1.1
+        version: 3.1.1
       vitest:
         specifier: ^0.31.0
         version: 0.31.0
@@ -965,7 +965,7 @@ packages:
 
   /bgm-types@3.1.1:
     resolution: {integrity: sha512-sR+W10xnSKlDaANEhcorxGLJXjDm6giCqKFepN80YHwMJQkQICX/W5RSy5jfVLRIkyBLS1YxaQeoPgwgFOKr6Q==}
-    dev: false
+    dev: true
 
   /big-integer@1.6.51:
     resolution: {integrity: sha512-GPEid2Y9QU1Exl1rpO9B2IPJGHPSupF5GnVIP0blYvNOMer2bTvSWs1jGOUg04hTmu67nmLsQ9TBo1puaotBHg==}
