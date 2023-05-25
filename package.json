@@ -14,7 +14,7 @@
     "postversion": "turbo run build"
   },
   "devDependencies": {
-    "@types/node": "^18.15.11",
+    "@types/node": "^18.16.14",
     "bumpp": "latest",
     "release-it": "^15.10.3",
     "turbo": "^1.9.9",
@@ -25,6 +25,6 @@
   },
   "packageManager": "pnpm@8.5.1",
   "engines": {
-    "node": ">=v18.15.0"
+    "node": ">=v18.16.0"
   }
 }
