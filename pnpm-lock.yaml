@@ -11,8 +11,8 @@ importers:
         specifier: latest
         version: 9.1.1
       release-it:
-        specifier: ^15.10.5
-        version: 15.10.5
+        specifier: ^15.11.0
+        version: 15.11.0
       turbo:
         specifier: ^1.10.1
         version: 1.10.1
@@ -552,7 +552,7 @@ packages:
       '@octokit/graphql': 5.0.5
       '@octokit/request': 6.2.3
       '@octokit/request-error': 3.0.3
-      '@octokit/types': 9.1.0
+      '@octokit/types': 9.2.3
       before-after-hook: 2.2.3
       universal-user-agent: 6.0.0
     transitivePeerDependencies:
@@ -577,10 +577,6 @@ packages:
       universal-user-agent: 6.0.0
     transitivePeerDependencies:
       - encoding
-    dev: true
-
-  /@octokit/openapi-types@16.1.0:
-    resolution: {integrity: sha512-+m6+376kp4gZAYtg64aXGHK2qM2LtIiZctqtbTnETdUaD7OSuX7zDV5kciqw1QIN13lg9jWz039OF7NZUdYEeQ==}
     dev: true
 
   /@octokit/openapi-types@17.2.0:
@@ -654,12 +650,6 @@ packages:
 
   /@octokit/tsconfig@1.0.2:
     resolution: {integrity: sha512-I0vDR0rdtP8p2lGMzvsJzbhdOWy405HcGovrspJ8RRibHnyRgggUSNO5AIox5LmqiwmatHKYsvj6VGFHkqS7lA==}
-    dev: true
-
-  /@octokit/types@9.1.0:
-    resolution: {integrity: sha512-MPKlN20dSKZ2JGV8KHNO4Y9z6xs74p5sQ2a5++5/uVme44K/5UEntIpai2n1WIrVtMlafYLdfN27BiBs2taY6g==}
-    dependencies:
-      '@octokit/openapi-types': 16.1.0
     dev: true
 
   /@octokit/types@9.2.3:
@@ -3353,8 +3343,8 @@ packages:
       rc: 1.2.8
     dev: true
 
-  /release-it@15.10.5:
-    resolution: {integrity: sha512-6AWkcOYsEfCzegtAKvXekUG+CLjlFXztDwGzxFOGa8VJRuXbPONfM8rvaPYJX1hTlL5+KC4MWOEoKKzWhQ65gA==}
+  /release-it@15.11.0:
+    resolution: {integrity: sha512-lZwoGEnKYKwGnfxxlA7vtR7vvozPrOSsIgQaHO4bgQ5ARbG3IA6Dmo0IVusv6nR1KmnjH70QIeNAgsWs6Ji/tw==}
     engines: {node: '>=14.9'}
     hasBin: true
     dependencies:
