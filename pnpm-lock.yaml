@@ -39,8 +39,8 @@ importers:
         specifier: ^0.9.5
         version: 0.9.5
       ofetch:
-        specifier: ^1.0.1
-        version: 1.0.1
+        specifier: ^1.1.0
+        version: 1.1.0
     devDependencies:
       bgm-types:
         specifier: ^3.1.1
@@ -1933,7 +1933,7 @@ packages:
       defu: 6.1.2
       https-proxy-agent: 5.0.1
       mri: 1.2.0
-      node-fetch-native: 1.0.2
+      node-fetch-native: 1.2.0
       pathe: 1.1.0
       tar: 6.1.13
     transitivePeerDependencies:
@@ -2851,7 +2851,7 @@ packages:
       acorn: 8.8.2
       pathe: 1.1.0
       pkg-types: 1.0.2
-      ufo: 1.1.1
+      ufo: 1.1.2
     dev: true
 
   /mri@1.2.0:
@@ -2891,8 +2891,8 @@ packages:
     engines: {node: '>=10.5.0'}
     dev: true
 
-  /node-fetch-native@1.0.2:
-    resolution: {integrity: sha512-KIkvH1jl6b3O7es/0ShyCgWLcfXxlBrLBbP3rOr23WArC66IMcU4DeZEeYEOwnopYhawLTn7/y+YtmASe8DFVQ==}
+  /node-fetch-native@1.2.0:
+    resolution: {integrity: sha512-5IAMBTl9p6PaAjYCnMv5FmqIF6GcZnawAVnzaCG0rX2aYZJ4CxEkZNtVPuTRug7fL7wyM5BQYTlAzcyMPi6oTQ==}
 
   /node-fetch@2.6.9:
     resolution: {integrity: sha512-DJm/CJkZkRjKKj4Zi4BsKVZh3ValV5IR5s7LVZnW+6YMh0W1BfNA8XSs6DLMGYlId5F3KnA70uu2qepcR08Qqg==}
@@ -2962,12 +2962,12 @@ packages:
       object-keys: 1.1.1
     dev: true
 
-  /ofetch@1.0.1:
-    resolution: {integrity: sha512-icBz2JYfEpt+wZz1FRoGcrMigjNKjzvufE26m9+yUiacRQRHwnNlGRPiDnW4op7WX/MR6aniwS8xw8jyVelF2g==}
+  /ofetch@1.1.0:
+    resolution: {integrity: sha512-yjq2ZUUMto1ITpge2J5vNlUfteLzxfHn9aJC55WtVGD3okKwSfPoLaKpcHXmmKd2kZZUGo+jdkFuuj09Blyeig==}
     dependencies:
       destr: 1.2.2
-      node-fetch-native: 1.0.2
-      ufo: 1.1.1
+      node-fetch-native: 1.2.0
+      ufo: 1.1.2
     dev: false
 
   /ohash@1.1.2:
@@ -3921,8 +3921,8 @@ packages:
     hasBin: true
     dev: true
 
-  /ufo@1.1.1:
-    resolution: {integrity: sha512-MvlCc4GHrmZdAllBc0iUDowff36Q9Ndw/UzqmEKyrfSzokTd9ZCy1i+IIk5hrYKkjoYVQyNbrw7/F8XJ2rEwTg==}
+  /ufo@1.1.2:
+    resolution: {integrity: sha512-TrY6DsjTQQgyS3E3dBaOXf0TpPD8u9FVrVYmKVegJuFw51n/YB9XPt+U6ydzFG5ZIN7+DIjPbNmXoBj9esYhgQ==}
 
   /unbox-primitive@1.0.2:
     resolution: {integrity: sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw==}
