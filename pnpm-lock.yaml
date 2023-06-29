@@ -36,8 +36,8 @@ importers:
   packages/bgmc:
     dependencies:
       breadc:
-        specifier: ^0.9.5
-        version: 0.9.5
+        specifier: ^0.9.6
+        version: 0.9.6
       ofetch:
         specifier: ^1.1.1
         version: 1.1.1
@@ -265,8 +265,8 @@ packages:
       to-fast-properties: 2.0.0
     dev: true
 
-  /@breadc/color@0.9.5:
-    resolution: {integrity: sha512-dcd4Nsw7E6A2dFiji3W/C+jlqaXq8W4LydGnqH9blsxUlUmFwGd1dyt9B1E/8+PEkL3L7M96YM/M9AB8fAgHcA==}
+  /@breadc/color@0.9.6:
+    resolution: {integrity: sha512-a2/ANjnrg7zGw+RF4GLQMCw/umI+T8us79Qha/l9NdEUzqEEk+STZHCA9fYjLsnBh7jfDGaW72a7HkmSIr3h4Q==}
     dev: false
 
   /@esbuild/android-arm64@0.17.19:
@@ -1069,10 +1069,10 @@ packages:
       fill-range: 7.0.1
     dev: true
 
-  /breadc@0.9.5:
-    resolution: {integrity: sha512-BtVdCTEULkeM9CYczwosUSKZHQSfTGU0oMVb+Mk3/ZRvuyIaHA29M6e1SchsQBqrrAPDwoUX8HXdKq6+3dUHpQ==}
+  /breadc@0.9.6:
+    resolution: {integrity: sha512-EEpIMOXHneAc3+65keu9sugIIEfOeFYaVVbgMlf581bb2Gr3Ib7QajLTtL1a3rnmzR4hBEgr8WdpDuJIdaRQDQ==}
     dependencies:
-      '@breadc/color': 0.9.5
+      '@breadc/color': 0.9.6
     dev: false
 
   /browserslist@4.21.9:
