@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@types/node':
-        specifier: ^18.17.19
-        version: 18.17.19
+        specifier: ^18.18.0
+        version: 18.18.0
       bumpp:
         specifier: latest
         version: 9.2.0
@@ -28,7 +28,7 @@ importers:
         version: 2.0.0(typescript@5.2.2)
       vite:
         specifier: ^4.4.9
-        version: 4.4.9(@types/node@18.17.19)
+        version: 4.4.9(@types/node@18.18.0)
       vitest:
         specifier: ^0.34.5
         version: 0.34.5
@@ -1015,6 +1015,10 @@ packages:
 
   /@types/node@18.17.19:
     resolution: {integrity: sha512-+pMhShR3Or5GR0/sp4Da7FnhVmTalWm81M6MkEldbwjETSaPalw138Z4KdpQaistvqQxLB7Cy4xwYdxpbSOs9Q==}
+    dev: true
+
+  /@types/node@18.18.0:
+    resolution: {integrity: sha512-3xA4X31gHT1F1l38ATDIL9GpRLdwVhnEFC8Uikv5ZLlXATwrCYyPq7ZWHxzxc3J/30SUiwiYT+bQe0/XvKlWbw==}
     dev: true
 
   /@types/resolve@1.20.2:
@@ -4372,6 +4376,42 @@ packages:
         optional: true
     dependencies:
       '@types/node': 18.17.19
+      esbuild: 0.18.20
+      postcss: 8.4.30
+      rollup: 3.29.3
+    optionalDependencies:
+      fsevents: 2.3.3
+    dev: true
+
+  /vite@4.4.9(@types/node@18.18.0):
+    resolution: {integrity: sha512-2mbUn2LlUmNASWwSCNSJ/EG2HuSRTnVNaydp6vMCm5VIqJsjMfbIWtbH2kDuwUVW5mMUKKZvGPX/rqeqVvv1XA==}
+    engines: {node: ^14.18.0 || >=16.0.0}
+    hasBin: true
+    peerDependencies:
+      '@types/node': '>= 14'
+      less: '*'
+      lightningcss: ^1.21.0
+      sass: '*'
+      stylus: '*'
+      sugarss: '*'
+      terser: ^5.4.0
+    peerDependenciesMeta:
+      '@types/node':
+        optional: true
+      less:
+        optional: true
+      lightningcss:
+        optional: true
+      sass:
+        optional: true
+      stylus:
+        optional: true
+      sugarss:
+        optional: true
+      terser:
+        optional: true
+    dependencies:
+      '@types/node': 18.18.0
       esbuild: 0.18.20
       postcss: 8.4.30
       rollup: 3.29.3
