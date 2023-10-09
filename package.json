@@ -4,6 +4,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "bgmc": "tsx packages/bgmc/src/cli.ts",
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
     "format": "turbo run format --parallel",

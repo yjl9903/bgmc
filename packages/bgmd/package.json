@@ -41,6 +41,7 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "bangumi-data": "^0.3.123",
     "bgmc": "workspace:*",
     "vitest": "^0.34.6"
   },
