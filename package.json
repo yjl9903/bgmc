@@ -2,6 +2,7 @@
   "name": "@bgmc/monorepo",
   "version": "0.0.1",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
@@ -23,8 +24,11 @@
     "vite": "^4.4.11",
     "vitest": "^0.34.6"
   },
-  "packageManager": "pnpm@8.8.0",
+  "packageManager": "pnpm@8.9.0",
   "engines": {
-    "node": ">=v18.16.0"
+    "node": ">=v20.8.0"
+  },
+  "volta": {
+    "node": "20.8.0"
   }
 }

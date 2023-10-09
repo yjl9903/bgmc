@@ -1,4 +1,4 @@
-# BanGuMi Data
+# Bangumi Data
 
 ## License
 

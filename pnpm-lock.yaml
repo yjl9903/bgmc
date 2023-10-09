@@ -51,6 +51,9 @@ importers:
 
   packages/bgmd:
     devDependencies:
+      bgmc:
+        specifier: workspace:*
+        version: link:../bgmc
       vitest:
         specifier: ^0.34.6
         version: 0.34.6

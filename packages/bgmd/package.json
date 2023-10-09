@@ -17,6 +17,7 @@
   "license": "MIT",
   "author": "XLor",
   "sideEffects": false,
+  "type": "module",
   "exports": {
     ".": {
       "require": "./dist/index.cjs",
@@ -40,10 +41,11 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
+    "bgmc": "workspace:*",
     "vitest": "^0.34.6"
   },
   "engines": {
-    "node": ">=v18.16.0"
+    "node": ">=v20.8.0"
   },
   "release-it": {
     "git": {

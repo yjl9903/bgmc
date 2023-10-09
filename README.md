@@ -1,4 +1,4 @@
-# BanGuMi Client
+# Bangumi Client
 
 ## License
 
