@@ -23,6 +23,11 @@
       "require": "./dist/index.cjs",
       "import": "./dist/index.mjs",
       "types": "./dist/index.d.ts"
+    },
+    "./types": {
+      "require": "./dist/types.cjs",
+      "import": "./dist/types.mjs",
+      "types": "./dist/types.d.ts"
     }
   },
   "main": "dist/index.cjs",

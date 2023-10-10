@@ -1,11 +1,25 @@
 import type {
+  Query,
   BGMCollection,
   BGMCollectionParams,
   BGMSearch,
   BGMSearchParams,
-  BGMSubject,
-  Query
+  BGMSubject
 } from './types';
+
+export type Calendar = BGMSubject.Calendar;
+
+export type SubjectInformation = BGMSubject.Information;
+
+export type SubjectPersons = BGMSubject.Persons;
+
+export type SubjectCharacters = BGMSubject.Characters;
+
+export type Subjects = BGMSubject.Subjects;
+
+export type Search = BGMSearch.Search;
+
+export type CollectionInformation = BGMCollection.Information;
 
 export class BgmClient {
   static baseURL = 'https://api.bgm.tv';
@@ -25,31 +39,31 @@ export class BgmClient {
   }
 
   public calendar() {
-    return this.request<BGMSubject.Calendar>('/calendar');
+    return this.request<Calendar>('/calendar');
   }
 
   public subject(id: number) {
-    return this.request<BGMSubject.Information>(`/v0/subjects/${id}`);
+    return this.request<SubjectInformation>(`/v0/subjects/${id}`);
   }
 
   public subjectPersons(id: number) {
-    return this.request<BGMSubject.Persons>(`/v0/subjects/${id}/persons`);
+    return this.request<SubjectPersons>(`/v0/subjects/${id}/persons`);
   }
 
   public subjectCharacters(id: number) {
-    return this.request<BGMSubject.Characters>(`/v0/subjects/${id}/characters`);
+    return this.request<SubjectCharacters>(`/v0/subjects/${id}/characters`);
   }
 
   public subjectRelated(id: number) {
-    return this.request<BGMSubject.Subjects>(`/v0/subjects/${id}/subjects`);
+    return this.request<Subjects>(`/v0/subjects/${id}/subjects`);
   }
 
   public search(keywords: string, query?: Query<BGMSearchParams.Search>) {
-    return this.request<BGMSearch.Search>(`/search/subject/${keywords}`, query);
+    return this.request<Search>(`/search/subject/${keywords}`, query);
   }
 
   public getCollections(username: string, query?: Query<BGMCollectionParams.Information>) {
-    return this.request<BGMCollection.Information>(`/v0/users/${username}/collections`, query);
+    return this.request<CollectionInformation>(`/v0/users/${username}/collections`, query);
   }
 
   public async request<T>(pathname: string, query: Record<string, any> = {}): Promise<T> {
