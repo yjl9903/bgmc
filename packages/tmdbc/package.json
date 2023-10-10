@@ -1,10 +1,9 @@
 {
-  "name": "bgmc",
+  "name": "tmdbc",
   "version": "0.0.4",
-  "description": "Bangumi Client",
+  "description": "TMDB Client",
   "keywords": [
-    "bangumi",
-    "bgm"
+    "tmdb"
   ],
   "homepage": "https://github.com/yjl9903/bgmc#readme",
   "bugs": {
@@ -23,18 +22,13 @@
       "require": "./dist/index.cjs",
       "import": "./dist/index.mjs",
       "types": "./dist/index.d.ts"
-    },
-    "./types": {
-      "require": "./dist/types.cjs",
-      "import": "./dist/types.mjs",
-      "types": "./dist/types.d.ts"
     }
   },
   "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "bin": {
-    "bgmc": "./cli.mjs"
+    "tmdbc": "./cli.mjs"
   },
   "files": [
     "*.mjs",
@@ -54,7 +48,6 @@
     "breadc": "^0.9.6"
   },
   "devDependencies": {
-    "bgm-types": "^3.1.1",
     "vitest": "^0.34.6"
   },
   "engines": {
@@ -62,7 +55,7 @@
   },
   "release-it": {
     "git": {
-      "commitMessage": "chore(bgmc): release v${version}",
+      "commitMessage": "chore(tmdbc): release v${version}",
       "tag": true,
       "push": true
     },

@@ -1,4 +1,3 @@
-import { ofetch } from 'ofetch';
 import { breadc } from 'breadc';
 
 import { version } from '../package.json';
@@ -7,7 +6,7 @@ import { BgmClient } from './client';
 
 const cli = breadc('bgmc', { version });
 
-const client = new BgmClient(ofetch.native);
+const client = new BgmClient(fetch);
 
 cli.command('subject <id>', 'Get Subject').action(async (id, _options) => {
   const subject = await client.subject(+id);

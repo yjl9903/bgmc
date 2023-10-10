@@ -9,6 +9,7 @@
     "dev": "turbo run dev --parallel",
     "format": "turbo run format --parallel",
     "release:bgmc": "pnpm -C packages/bgmc release",
+    "release:tmdbc": "pnpm -C packages/tmdbc release",
     "release:bgmd": "pnpm -C packages/bgmd release",
     "test:ci": "turbo run test:ci",
     "typecheck": "turbo run typecheck",
