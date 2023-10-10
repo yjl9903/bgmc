@@ -1,12 +1,11 @@
-import { defineBuildConfig } from 'unbuild'
+import { defineBuildConfig } from 'unbuild';
 
 export default defineBuildConfig({
-  entries: [
-    'src/index',
-  ],
+  entries: ['src/transform'],
+  clean: false,
   declaration: true,
-  clean: true,
   rollup: {
-    emitCJS: true,
+    emitCJS: true
   },
+  externals: ['bangumi-data']
 });
