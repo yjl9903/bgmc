@@ -29,7 +29,7 @@ export class TMDBClient {
 
   public constructor(options: TMDBClientOptions) {
     this.fetch = options.fetch ?? fetch;
-    this.baseURL = options.baseURL ?? 'https://api.themoviedb.org/3/';
+    this.baseURL = ensureSuffix(options.baseURL ?? 'https://api.themoviedb.org/3/', '/');
     this.maxRetry = options.maxRetry ?? 5;
     this.token = options.token;
   }
@@ -53,7 +53,7 @@ export class TMDBClient {
   }
 
   private async request<T>(pathname: string, query: Record<string, any> = {}): Promise<T> {
-    const url = new URL(pathname, this.baseURL);
+    const url = new URL(this.baseURL + pathname.slice(1));
     for (const [key, value] of Object.entries(query)) {
       if (value !== null && value !== undefined) {
         url.searchParams.set(key, String(value));
@@ -73,5 +73,13 @@ export class TMDBClient {
       }
     }
     throw new Error('unreachable');
+  }
+}
+
+function ensureSuffix(str: string, suffix: string) {
+  if (str.endsWith(suffix)) {
+    return str;
+  } else {
+    return str + suffix;
   }
 }

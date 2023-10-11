@@ -37,7 +37,7 @@ function groupByBegin(items: Item[]) {
 }
 
 async function downloadSubject(file: string, items: Item[]) {
-  const client = new TMDBClient({ baseURL: 'https://movies-proxy.vercel.app/tmdb', token: '' });
+  const client = new TMDBClient({ baseURL: 'https://movies-proxy.vercel.app/tmdb/', token: '' });
   const bangumis: SearchResultItem[] = [];
   for (const item of items) {
     const resp =
