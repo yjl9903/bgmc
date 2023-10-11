@@ -1,4 +1,10 @@
-import type { SearchTVQuery, SearchMovieQuery, SearchResult, SearchResultItem } from './types';
+import type {
+  SearchTVQuery,
+  SearchMovieQuery,
+  SearchResult,
+  SearchResultItem,
+  SearchQuery
+} from './types';
 
 export type { SearchTVQuery, SearchMovieQuery, SearchResult, SearchResultItem };
 
@@ -45,6 +51,15 @@ export class TMDBClient {
 
   public async searchTV(query: SearchTVQuery) {
     return this.request<SearchResult<SearchResultItem>>(`/search/tv`, <SearchTVQuery>{
+      include_adult: false,
+      language: 'en-US',
+      page: 1,
+      ...query
+    });
+  }
+
+  public async searchMulti(query: SearchQuery) {
+    return this.request<SearchResult<SearchResultItem>>(`/search/multi`, <SearchQuery>{
       include_adult: false,
       language: 'en-US',
       page: 1,

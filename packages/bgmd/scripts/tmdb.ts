@@ -47,17 +47,41 @@ async function downloadSubject(file: string, items: Item[]) {
 
   const bangumis: SearchResultItem[] = [];
   for (const item of items) {
-    const resp =
-      item.type === 'movie'
-        ? await client.searchMovie({ query: item.title, language: 'zh-CN' })
-        : await client.searchTV({ query: item.title, language: 'zh-CN' });
+    const result = await search(item);
+    if (result) {
+      bangumis.push(result);
+    }
 
-    if (resp.results.length === 1) {
-      bangumis.push(resp.results[0]);
-    } else if (resp.results.length === 0) {
-      console.log(`There is no search result for ${item.title}`);
-    } else {
-      console.log(`There is multiple search results for ${item.title}`);
+    async function search(item: Item) {
+      const all: SearchResultItem[] = [];
+      const names = new Set([item.title, ...Object.values(item.titleTranslate).flat()]);
+      for (const query of names) {
+        const resp =
+          item.type === 'movie'
+            ? await client.searchMovie({ query, language: 'zh-CN' })
+            : item.type === 'tv'
+            ? await client.searchTV({ query, language: 'zh-CN' })
+            : await client.searchMulti({ query, language: 'zh-CN' });
+        if (resp.results.length > 0) {
+          all.push(...resp.results);
+          const result = inferBangumi(item, resp.results);
+          if (result) {
+            return result;
+          }
+        }
+      }
+      if (all.length === 0) {
+        console.log(`Error: There is no search result for ${item.title}`);
+      } else {
+        console.log(`Error: There is multiple search results for ${item.title}`);
+      }
+    }
+
+    function inferBangumi(item: Item, resp: SearchResultItem[]) {
+      if (resp.length === 1) {
+        return resp[0];
+      } else {
+      }
     }
   }
 

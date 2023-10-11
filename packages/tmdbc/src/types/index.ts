@@ -1,20 +1,20 @@
-interface SearchQuery {
+export interface SearchQuery {
   query: string;
-
-  first_air_date_year?: string;
 
   include_adult?: boolean;
 
   language?: string;
 
   page?: number;
+}
+
+export interface SearchTVQuery extends SearchQuery {
+  first_air_date_year?: string;
 
   year?: number | string;
 }
 
-export interface SearchTVQuery extends SearchQuery {}
-
-export interface SearchMovieQuery extends SearchQuery {
+export interface SearchMovieQuery extends SearchTVQuery {
   primary_release_year?: number | string;
 
   region?: string;
