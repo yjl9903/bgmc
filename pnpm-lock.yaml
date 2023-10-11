@@ -73,8 +73,8 @@ importers:
         specifier: workspace:*
         version: link:../tmdbc
       undici:
-        specifier: ^5.26.0
-        version: 5.26.0
+        specifier: ^5.26.3
+        version: 5.26.3
       vitest:
         specifier: ^0.34.6
         version: 0.34.6
@@ -4428,8 +4428,8 @@ packages:
       - supports-color
     dev: true
 
-  /undici@5.26.0:
-    resolution: {integrity: sha512-MLqGMyaJk2ubSl7FrmWuV7ZOsYWmdF7gcBHDRxm4AR8NoodQhgy3vO/D1god79HoetxR0uAeVNB65yj2lNRQnQ==}
+  /undici@5.26.3:
+    resolution: {integrity: sha512-H7n2zmKEWgOllKkIUkLvFmsJQj062lSm3uA4EYApG8gLuiOM0/go9bIoC3HVaSnfg4xunowDE2i9p8drkXuvDw==}
     engines: {node: '>=14.0'}
     dependencies:
       '@fastify/busboy': 2.0.0
