@@ -6,6 +6,8 @@ import { MutableMap } from '@onekuma/map';
 import { items, type Item } from 'bangumi-data';
 import { TMDBClient, type SearchResultItem } from 'tmdbc';
 
+import { ufetch } from './ufetch';
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const dataRoot = path.join(__dirname, '../../../data/tmdb');
@@ -37,7 +39,12 @@ function groupByBegin(items: Item[]) {
 }
 
 async function downloadSubject(file: string, items: Item[]) {
-  const client = new TMDBClient({ baseURL: 'https://movies-proxy.vercel.app/tmdb/', token: '' });
+  const client = new TMDBClient({
+    baseURL: 'https://movies-proxy.vercel.app/tmdb/',
+    fetch: ufetch,
+    token: ''
+  });
+
   const bangumis: SearchResultItem[] = [];
   for (const item of items) {
     const resp =
