@@ -13,8 +13,8 @@ await clearOutDir(outDir);
 await build(path.join(outDir, 'data.json'));
 
 async function build(output: string) {
-  const bgms = items.map(transform);
-  await fs.writeFile(output, JSON.stringify(bgms));
+  const bangumis = items.map(transform);
+  await fs.writeFile(output, JSON.stringify({ bangumis }));
 }
 
 async function clearOutDir(outDir: string) {
