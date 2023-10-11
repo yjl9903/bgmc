@@ -51,6 +51,9 @@ importers:
 
   packages/bgmd:
     devDependencies:
+      '@onekuma/map':
+        specifier: ^0.1.10
+        version: 0.1.10
       '@types/fs-extra':
         specifier: ^11.0.2
         version: 11.0.2
@@ -901,6 +904,25 @@ packages:
     resolution: {integrity: sha512-D4iHGTdAnEEVsB8fl95m1hiz7D5YiRdQ9b/OEb3BYRVwbLsGHcRVPz+u+BgRLNk0Q0/4iZCBqDN96j2XNxfXrA==}
     dependencies:
       '@octokit/openapi-types': 18.1.1
+    dev: true
+
+  /@onekuma/map@0.1.10:
+    resolution: {integrity: sha512-Qqqp7Us1Dn5hlTmfRk2UXK9GLcvX4dq2HPB1IxVn1YcFwoUdJBOZKMF5YEP6oC3gR8RqkuTINtoyEq86FCA7Yw==}
+    engines: {node: '>=v18.15.0'}
+    dependencies:
+      '@onekuma/seq': 0.1.10
+    dev: true
+
+  /@onekuma/option@0.1.10:
+    resolution: {integrity: sha512-JMQjvGyCcjn6ShBFkaN29+kWD5dAjqnNxNIHfxxuMP0644FdZxuxRMEdhQWbqqxsWqU08fIsWcFlq/IB0jkk1A==}
+    engines: {node: '>=v18.15.0'}
+    dev: true
+
+  /@onekuma/seq@0.1.10:
+    resolution: {integrity: sha512-Wg/ZnGsKFTx8FlCD1fbpOD9L92x9EJ02I7f5FjPwFMGI7JjUrY2UnHgdn5sL1JC9FND4EqAmno8aSzJYfNkmOg==}
+    engines: {node: '>=v18.15.0'}
+    dependencies:
+      '@onekuma/option': 0.1.10
     dev: true
 
   /@pkgjs/parseargs@0.11.0:
