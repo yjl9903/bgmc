@@ -18,6 +18,9 @@
     "paths": {
       "bgmc": [
         "./packages/bgmc/src/index.ts"
+      ],
+      "tmdbc": [
+        "./packages/tmdbc/src/index.ts"
       ]
     }
   },

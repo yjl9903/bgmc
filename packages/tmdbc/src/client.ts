@@ -1,4 +1,6 @@
-import type { SearchMovieQuery, SearchResult, SearchResultItem, SearchTVQuery } from './types';
+import type { SearchTVQuery, SearchMovieQuery, SearchResult, SearchResultItem } from './types';
+
+export type { SearchTVQuery, SearchMovieQuery, SearchResult, SearchResultItem };
 
 export interface TMDBClientOptions {
   fetch?: (request: RequestInfo, init?: RequestInit) => Promise<Response>;
