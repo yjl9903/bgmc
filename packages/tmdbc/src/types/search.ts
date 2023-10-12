@@ -1,9 +1,9 @@
-export interface SearchQuery {
+import type { LanguageQuery } from './common';
+
+export interface SearchQuery extends LanguageQuery {
   query: string;
 
   include_adult?: boolean;
-
-  language?: string;
 
   page?: number;
 }

@@ -6,7 +6,10 @@ import type {
   SearchQuery,
   SearchTVResultItem,
   SearchMovieResultItem,
-  SearchMultiResultItem
+  SearchMultiResultItem,
+  TVDetail,
+  LanguageQuery,
+  TVSeasonDetail
 } from './types';
 
 export type {
@@ -74,6 +77,24 @@ export class TMDBClient {
       include_adult: false,
       language: 'en-US',
       page: 1,
+      ...query
+    });
+  }
+
+  public async getTVDetail(seriesId: number, query: LanguageQuery = {}) {
+    return this.request<TVDetail>(`/tv/${seriesId}`, {
+      language: 'en-US',
+      ...query
+    });
+  }
+
+  public async getTVSeasonDetail(
+    seriesId: number,
+    seasonNumber: number,
+    query: LanguageQuery = {}
+  ) {
+    return this.request<TVSeasonDetail>(`/tv/${seriesId}/season/${seasonNumber}`, {
+      language: 'en-US',
       ...query
     });
   }
