@@ -64,6 +64,7 @@ async function downloadSubject(file: string, items: Item[]) {
         bangumi: { id: bgm.id },
         tmdb: {
           id: result.ok.id,
+          season: result.season,
           search: result.ok
         }
       });
@@ -93,11 +94,38 @@ async function search(item: Item) {
     }
   }
 
+  // Check prequel
   if (all.length === 0 && item.type === 'tv') {
+    const begin = new Date(item.begin);
     const pres = bangumiDB.listPrequel(item);
     for (const bgm of pres) {
       const resp = await client.searchTV({ query: bgm.title, language: 'zh-CN' });
+
       if (resp.results.length > 0) {
+        const filtered: Array<{ ok: SearchTVResultItem; season: number }> = [];
+        for (const r of resp.results) {
+          const detail = await client.getTVDetail(r.id, { language: 'zh-CN' });
+          for (const s of detail.seasons) {
+            if (checkInterval(begin, new Date(s.air_date))) {
+              filtered.push({ ok: r, season: s.season_number });
+            }
+          }
+        }
+        all.push(...filtered.map((f) => f.ok));
+
+        if (filtered.length === 1) {
+          const result = filtered[0];
+          console.log(
+            `Info: infer ${item.title} to ${getOriginalNameOrTitle(result.ok)} (id: ${
+              result.ok.id
+            }, season: ${result.season})`
+          );
+          return {
+            ok: result.ok,
+            season: result.season,
+            all
+          };
+        }
       }
     }
   }
@@ -108,7 +136,7 @@ async function search(item: Item) {
     console.log(`Error: There is multiple search results for ${item.title}`);
   }
 
-  return { ok: undefined, all };
+  return { ok: undefined, season: undefined, all };
 
   function inferBangumi(
     item: Item,
@@ -123,9 +151,9 @@ async function search(item: Item) {
         console.log(
           `Info: infer ${item.title} to ${getOriginalNameOrTitle(result)} (id: ${result.id})`
         );
-        return { ok: result, all: filtered };
+        return { ok: result, season: undefined, all: filtered };
       }
-      return { ok: undefined, all: filtered };
+      return { ok: undefined, season: undefined, all: filtered };
     }
   }
 
@@ -137,10 +165,14 @@ async function search(item: Item) {
     // @ts-ignore
     const d2 = new Date(result.first_air_date || result.release_date);
     // Onair date should be less than 7 days
-    if (Math.abs(d1.getTime() - d2.getTime()) > 7 * 24 * 60 * 60 * 1000) {
+    if (!checkInterval(d1, d2)) {
       return false;
     }
     return true;
+  }
+
+  function checkInterval(d1: Date, d2: Date) {
+    return Math.abs(d1.getTime() - d2.getTime()) <= 7 * 24 * 60 * 60 * 1000;
   }
 
   function getNameOrTitle(
