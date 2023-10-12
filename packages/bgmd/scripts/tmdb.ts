@@ -13,7 +13,7 @@ import {
 
 import { ufetch } from './ufetch';
 import { groupByBegin } from './utils';
-import { TMDBDataRoot, type TMDBItem } from './offline';
+import { OfflineBangumi, TMDBDataRoot, type TMDBItem } from './offline';
 
 await fs.ensureDir(TMDBDataRoot);
 
@@ -23,7 +23,11 @@ const client = new TMDBClient({
   token: ''
 });
 
+const bangumiDB = new OfflineBangumi();
+
 async function main() {
+  await bangumiDB.load();
+
   const files = groupByBegin(items);
   for (const [year, yearData] of files) {
     const dir = path.join(TMDBDataRoot, '' + year);
@@ -36,9 +40,9 @@ async function main() {
 }
 
 async function downloadSubject(file: string, items: Item[]) {
-  const cache: TMDBItem[] | undefined = await fs
+  const cache = await fs
     .readFile(file, 'utf-8')
-    .then((c) => JSON.parse(c))
+    .then((c) => JSON.parse(c) as TMDBItem[])
     .catch(() => undefined);
   const found = new Map<string, TMDBItem>(cache?.map((c) => [c.title, c]));
 
@@ -58,7 +62,10 @@ async function downloadSubject(file: string, items: Item[]) {
       bangumis.push({
         title: item.title,
         bangumi: { id: bgm.id },
-        tmdb: result.ok
+        tmdb: {
+          id: result.ok.id,
+          search: result.ok
+        }
       });
     }
   }
@@ -69,6 +76,7 @@ async function downloadSubject(file: string, items: Item[]) {
 async function search(item: Item) {
   const all: SearchResultItem[] = [];
   const names = new Set([item.title, ...Object.values(item.titleTranslate).flat()]);
+
   for (const query of names) {
     const resp =
       item.type === 'movie'
@@ -84,11 +92,22 @@ async function search(item: Item) {
       }
     }
   }
+
+  if (all.length === 0 && item.type === 'tv') {
+    const pres = bangumiDB.listPrequel(item);
+    for (const bgm of pres) {
+      const resp = await client.searchTV({ query: bgm.title, language: 'zh-CN' });
+      if (resp.results.length > 0) {
+      }
+    }
+  }
+
   if (all.length === 0) {
     console.log(`Error: There is no search result for ${item.title}`);
   } else {
     console.log(`Error: There is multiple search results for ${item.title}`);
   }
+
   return { ok: undefined, all };
 
   function inferBangumi(
