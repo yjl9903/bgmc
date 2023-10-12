@@ -1,4 +1,29 @@
-# Bangumi Client
+# Bangumi Data / API Clients
+
+[![version](https://img.shields.io/npm/v/bgmd?label=bgmd)](https://www.npmjs.com/package/bgmd)
+[![version](https://img.shields.io/npm/v/bgmc?label=bgmc)](https://www.npmjs.com/package/bgmc)
+[![version](https://img.shields.io/npm/v/tmdbc?label=tmdbc)](https://www.npmjs.com/package/tmdbc)
+[![CI](https://github.com/yjl9903/bgmc/actions/workflows/ci.yml/badge.svg)](https://github.com/yjl9903/bgmc/actions/workflows/ci.yml)
+
+## Usage
+
+### bgmd
+
+```bash
+npm i bgmd
+```
+
+### bgmc
+
+```bash
+npm i bgmc
+```
+
+### tmdbc
+
+```bash
+npm i tmdbc
+```
 
 ## License
 
