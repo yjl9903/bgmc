@@ -49,9 +49,20 @@ interface TMDBItem {
 }
 
 async function downloadSubject(file: string, items: Item[]) {
+  const cache: TMDBItem[] = await fs
+    .readFile(file, 'utf-8')
+    .then((c) => JSON.parse(c))
+    .catch(() => undefined);
+  const found = new Map<string, TMDBItem>(cache.map((c) => [c.title, c]));
+
   const bangumis: TMDBItem[] = [];
 
   for (const item of items) {
+    if (found.has(item.title)) {
+      bangumis.push(found.get(item.title)!);
+      continue;
+    }
+
     const bgm = item.sites.find((site) => site.site === 'bangumi');
     if (!bgm) continue;
 
