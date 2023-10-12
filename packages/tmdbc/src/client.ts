@@ -3,10 +3,21 @@ import type {
   SearchMovieQuery,
   SearchResult,
   SearchResultItem,
-  SearchQuery
+  SearchQuery,
+  SearchTVResultItem,
+  SearchMovieResultItem,
+  SearchMultiResultItem
 } from './types';
 
-export type { SearchTVQuery, SearchMovieQuery, SearchResult, SearchResultItem };
+export type {
+  SearchTVQuery,
+  SearchMovieQuery,
+  SearchResult,
+  SearchResultItem,
+  SearchTVResultItem,
+  SearchMovieResultItem,
+  SearchMultiResultItem
+};
 
 export interface TMDBClientOptions {
   fetch?: (request: RequestInfo, init?: RequestInit) => Promise<Response>;
@@ -41,7 +52,7 @@ export class TMDBClient {
   }
 
   public async searchMovie(query: SearchMovieQuery) {
-    return this.request<SearchResult<SearchResultItem>>(`/search/movie`, <SearchTVQuery>{
+    return this.request<SearchResult<SearchMovieResultItem>>(`/search/movie`, <SearchTVQuery>{
       include_adult: false,
       language: 'en-US',
       page: 1,
@@ -50,7 +61,7 @@ export class TMDBClient {
   }
 
   public async searchTV(query: SearchTVQuery) {
-    return this.request<SearchResult<SearchResultItem>>(`/search/tv`, <SearchTVQuery>{
+    return this.request<SearchResult<SearchTVResultItem>>(`/search/tv`, <SearchTVQuery>{
       include_adult: false,
       language: 'en-US',
       page: 1,
@@ -59,7 +70,7 @@ export class TMDBClient {
   }
 
   public async searchMulti(query: SearchQuery) {
-    return this.request<SearchResult<SearchResultItem>>(`/search/multi`, <SearchQuery>{
+    return this.request<SearchResult<SearchMultiResultItem>>(`/search/multi`, <SearchQuery>{
       include_adult: false,
       language: 'en-US',
       page: 1,

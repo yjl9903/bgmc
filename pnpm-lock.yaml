@@ -63,6 +63,12 @@ importers:
       bgmc:
         specifier: workspace:*
         version: link:../bgmc
+      breadc:
+        specifier: ^0.9.6
+        version: 0.9.6
+      fastest-levenshtein:
+        specifier: ^1.0.16
+        version: 1.0.16
       fs-extra:
         specifier: ^11.1.1
         version: 11.1.1
@@ -298,7 +304,6 @@ packages:
 
   /@breadc/color@0.9.6:
     resolution: {integrity: sha512-a2/ANjnrg7zGw+RF4GLQMCw/umI+T8us79Qha/l9NdEUzqEEk+STZHCA9fYjLsnBh7jfDGaW72a7HkmSIr3h4Q==}
-    dev: false
 
   /@esbuild/android-arm64@0.18.20:
     resolution: {integrity: sha512-Nz4rJcchGDtENV0eMKUNa6L12zz2zBDXuhj/Vjh18zGqB44Bi7MBMSXjgunJgjRhCmKOjnPuZp4Mb6OKqtMHLQ==}
@@ -1391,7 +1396,6 @@ packages:
     resolution: {integrity: sha512-EEpIMOXHneAc3+65keu9sugIIEfOeFYaVVbgMlf581bb2Gr3Ib7QajLTtL1a3rnmzR4hBEgr8WdpDuJIdaRQDQ==}
     dependencies:
       '@breadc/color': 0.9.6
-    dev: false
 
   /browserslist@4.21.11:
     resolution: {integrity: sha512-xn1UXOKUz7DjdGlg9RrUr0GGiWzI97UQJnugHtH0OLDfJB7jMgoIkYvRIEO1l9EeEERVqeqLYOcFBW9ldjypbQ==}
@@ -2131,6 +2135,11 @@ packages:
       glob-parent: 5.1.2
       merge2: 1.4.1
       micromatch: 4.0.5
+    dev: true
+
+  /fastest-levenshtein@1.0.16:
+    resolution: {integrity: sha512-eRnCtTTtGZFpQCwhJiUOuxPQWRXVKYDn0b2PeHfXL6/Zi53SLAzAHfVhVWK2AryC/WH05kGfxhFIPvTF0SXQzg==}
+    engines: {node: '>= 4.9.1'}
     dev: true
 
   /fastq@1.15.0:

@@ -35,15 +35,9 @@ export interface SearchResultItem {
 
   backdrop_path: string;
 
-  genre_ids: number[];
-
   id: number;
 
-  origin_country: string[];
-
   original_language: string;
-
-  original_name: string;
 
   overview: string;
 
@@ -51,11 +45,31 @@ export interface SearchResultItem {
 
   poster_path: string;
 
-  first_air_date: string;
-
-  name: string;
-
   vote_average: number;
 
   vote_count: number;
 }
+
+export interface SearchTVResultItem extends SearchResultItem {
+  genre_ids: number[];
+
+  origin_country: string[];
+
+  original_name: string;
+
+  first_air_date: string;
+
+  name: string;
+}
+
+export interface SearchMovieResultItem extends SearchResultItem {
+  genre_ids: number[];
+
+  original_title: string;
+
+  title: string;
+
+  release_date: string;
+}
+
+export interface SearchMultiResultItem extends SearchMovieResultItem {}
