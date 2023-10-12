@@ -99,7 +99,9 @@ async function downloadSubject(file: string, items: Item[]) {
         const filtered = resp.filter((r) => matchBangumi(item, r));
         if (filtered.length === 1) {
           const result = filtered[0];
-          console.log(`Info: infer ${item.title} to ${getNameOrTitle(result)} (id: ${result.id})`);
+          console.log(
+            `Info: infer ${item.title} to ${getOriginalNameOrTitle(result)} (id: ${result.id})`
+          );
           return { ok: result, all: filtered };
         }
         return { ok: undefined, all: filtered };
@@ -125,6 +127,13 @@ async function downloadSubject(file: string, items: Item[]) {
     ) {
       // @ts-ignore
       return resp.name || resp.title;
+    }
+
+    function getOriginalNameOrTitle(
+      resp: SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem
+    ) {
+      // @ts-ignore
+      return resp.original_name || resp.original_title;
     }
   }
 
