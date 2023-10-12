@@ -2,11 +2,11 @@ import fs from 'fs-extra';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { MutableMap } from '@onekuma/map';
 import { items, type Item } from 'bangumi-data';
 import { TMDBClient, type SearchResultItem } from 'tmdbc';
 
 import { ufetch } from './ufetch';
+import { groupByBegin } from './utils';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -21,21 +21,6 @@ for (const [year, yearData] of files) {
     const file = path.join(dir, `${String(month).padStart(2, '0')}.json`);
     await downloadSubject(file, monthData);
   }
-}
-
-function groupByBegin(items: Item[]) {
-  const map = new MutableMap<number, MutableMap<number, Item[]>>();
-  for (const item of items) {
-    if (!item.begin) continue;
-    const begin = new Date(item.begin);
-    const year = begin.getFullYear();
-    const month = begin.getMonth() + 1;
-    map
-      .getOrPut(year, () => new MutableMap())
-      .getOrPut(month, () => [])
-      .push(item);
-  }
-  return map;
 }
 
 async function downloadSubject(file: string, items: Item[]) {
