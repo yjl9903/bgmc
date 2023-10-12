@@ -93,10 +93,10 @@ async function downloadSubject(file: string, items: Item[]) {
       item: Item,
       resp: (SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem)[]
     ) {
-      if (resp.length === 1) {
-        return { ok: resp[0], all: resp };
+      const filtered = resp.filter((r) => matchBangumi(item, r));
+      if (resp.length === 1 && filtered.length === 1) {
+        return { ok: resp[0], all: filtered };
       } else {
-        const filtered = resp.filter((r) => matchBangumi(item, r));
         if (filtered.length === 1) {
           const result = filtered[0];
           console.log(
