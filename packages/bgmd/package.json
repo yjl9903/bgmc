@@ -57,6 +57,14 @@
     "undici": "^5.26.3",
     "vitest": "^0.34.6"
   },
+  "peerDependencies": {
+    "bangumi-data": ">=0.3.124"
+  },
+  "peerDependenciesMeta": {
+    "bangumi-data": {
+      "optional": true
+    }
+  },
   "engines": {
     "node": ">=v20.8.0"
   },
