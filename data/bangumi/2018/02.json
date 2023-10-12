@@ -1,1631 +1,2189 @@
 [
   {
-    "date": "2018-02-04",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/31/228046_THyGs.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/31/228046_THyGs.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/21/31/228046_THyGs.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/31/228046_THyGs.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/31/228046_THyGs.jpg"
-    },
-    "summary": "主人公野乃花是个想成为大姐姐的冒失女孩，有一天碰到了不可思议的婴儿及照顾婴儿的仓鼠妖精－哈利哈姆·哈利，这时“黑暗明日社”的敌人召唤了怪物袭来，小花因保护婴儿的意念，变身成喝采天使参战。为了保卫大家的未来，守护重要的事物以及小女婴小抱，喝采天使的战斗正式开幕。",
-    "name": "HUGっと! プリキュア",
-    "name_cn": "拥抱！光之美少女",
-    "tags": [
-      {
-        "name": "光之美少女",
-        "count": 186
+    "title": "HUGっと！プリキュア",
+    "bangumi": {
+      "date": "2018-02-04",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/31/228046_THyGs.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/31/228046_THyGs.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/21/31/228046_THyGs.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/31/228046_THyGs.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/31/228046_THyGs.jpg"
       },
-      {
-        "name": "东映",
-        "count": 142
+      "summary": "主人公野乃花是个想成为大姐姐的冒失女孩，有一天碰到了不可思议的婴儿及照顾婴儿的仓鼠妖精－哈利哈姆·哈利，这时“黑暗明日社”的敌人召唤了怪物袭来，小花因保护婴儿的意念，变身成喝采天使参战。为了保卫大家的未来，守护重要的事物以及小女婴小抱，喝采天使的战斗正式开幕。",
+      "name": "HUGっと! プリキュア",
+      "name_cn": "拥抱！光之美少女",
+      "tags": [
+        {
+          "name": "光之美少女",
+          "count": 186
+        },
+        {
+          "name": "东映",
+          "count": 142
+        },
+        {
+          "name": "2018",
+          "count": 135
+        },
+        {
+          "name": "TV",
+          "count": 130
+        },
+        {
+          "name": "原创",
+          "count": 108
+        },
+        {
+          "name": "佐藤顺一",
+          "count": 67
+        },
+        {
+          "name": "東映アニメーション",
+          "count": 60
+        },
+        {
+          "name": "プリキュア",
+          "count": 59
+        },
+        {
+          "name": "幼女向",
+          "count": 29
+        },
+        {
+          "name": "2018年2月",
+          "count": 28
+        },
+        {
+          "name": "座古明史",
+          "count": 27
+        },
+        {
+          "name": "坪田文",
+          "count": 12
+        },
+        {
+          "name": "2018年",
+          "count": 11
+        },
+        {
+          "name": "续作",
+          "count": 6
+        },
+        {
+          "name": "TVA",
+          "count": 6
+        },
+        {
+          "name": "东映动画",
+          "count": 6
+        },
+        {
+          "name": "2018年1月",
+          "count": 6
+        },
+        {
+          "name": "年番",
+          "count": 6
+        },
+        {
+          "name": "川村敏江",
+          "count": 4
+        },
+        {
+          "name": "佐藤順一",
+          "count": 4
+        },
+        {
+          "name": "百合",
+          "count": 4
+        },
+        {
+          "name": "子供向",
+          "count": 3
+        },
+        {
+          "name": "Q娃",
+          "count": 3
+        },
+        {
+          "name": "魔法少女",
+          "count": 3
+        },
+        {
+          "name": "奇幻",
+          "count": 3
+        },
+        {
+          "name": "引坂理絵",
+          "count": 2
+        },
+        {
+          "name": "萌",
+          "count": 2
+        },
+        {
+          "name": "战斗",
+          "count": 2
+        },
+        {
+          "name": "渡边巧大",
+          "count": 2
+        },
+        {
+          "name": "6分",
+          "count": 2
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "拥抱！光之美少女"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "HUG! 光之美少女"
+            },
+            {
+              "v": "HUGtto！光之美少女"
+            },
+            {
+              "v": "抱Q"
+            },
+            {
+              "v": "拥抱Q娃"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "49"
+        },
+        {
+          "key": "放送开始",
+          "value": "2018年2月4日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.toei-anim.co.jp/tv/hugtto_precure/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "ABC・テレビ朝日系"
+        },
+        {
+          "key": "播放结束",
+          "value": "2019年1月27日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©ABC-A・東映アニメーション"
+        },
+        {
+          "key": "导演",
+          "value": "佐藤順一、座古明史"
+        }
+      ],
+      "rating": {
+        "rank": 438,
+        "total": 492,
+        "count": {
+          "1": 3,
+          "2": 2,
+          "3": 1,
+          "4": 7,
+          "5": 6,
+          "6": 33,
+          "7": 111,
+          "8": 187,
+          "9": 100,
+          "10": 42
+        },
+        "score": 7.8
       },
-      {
-        "name": "2018",
-        "count": 135
+      "total_episodes": 49,
+      "collection": {
+        "on_hold": 94,
+        "dropped": 63,
+        "wish": 358,
+        "collect": 633,
+        "doing": 186
       },
-      {
-        "name": "TV",
-        "count": 130
-      },
-      {
-        "name": "原创",
-        "count": 108
-      },
-      {
-        "name": "佐藤顺一",
-        "count": 67
-      },
-      {
-        "name": "東映アニメーション",
-        "count": 60
-      },
-      {
-        "name": "プリキュア",
-        "count": 59
-      },
-      {
-        "name": "幼女向",
-        "count": 29
-      },
-      {
-        "name": "2018年2月",
-        "count": 28
-      },
-      {
-        "name": "座古明史",
-        "count": 27
-      },
-      {
-        "name": "坪田文",
-        "count": 12
-      },
-      {
-        "name": "2018年",
-        "count": 11
-      },
-      {
-        "name": "续作",
-        "count": 6
-      },
-      {
-        "name": "TVA",
-        "count": 6
-      },
-      {
-        "name": "东映动画",
-        "count": 6
-      },
-      {
-        "name": "2018年1月",
-        "count": 6
-      },
-      {
-        "name": "年番",
-        "count": 6
-      },
-      {
-        "name": "川村敏江",
-        "count": 4
-      },
-      {
-        "name": "佐藤順一",
-        "count": 4
-      },
-      {
-        "name": "百合",
-        "count": 4
-      },
-      {
-        "name": "子供向",
-        "count": 3
-      },
-      {
-        "name": "Q娃",
-        "count": 3
-      },
-      {
-        "name": "魔法少女",
-        "count": 3
-      },
-      {
-        "name": "奇幻",
-        "count": 3
-      },
-      {
-        "name": "引坂理絵",
-        "count": 2
-      },
-      {
-        "name": "萌",
-        "count": 2
-      },
-      {
-        "name": "战斗",
-        "count": 2
-      },
-      {
-        "name": "渡边巧大",
-        "count": 2
-      },
-      {
-        "name": "6分",
-        "count": 2
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "拥抱！光之美少女"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "HUG! 光之美少女"
+      "id": 228046,
+      "eps": 49,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/25/196053_1JzOS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/25/196053_1JzOS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b5/25/196053_1JzOS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/25/196053_1JzOS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/25/196053_1JzOS.jpg"
           },
-          {
-            "v": "HUGtto！光之美少女"
+          "name": "キラキラ☆プリキュアアラモード",
+          "name_cn": "光之美少女 食尚甜心",
+          "relation": "前传",
+          "type": 2,
+          "id": 196053
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/e0/231716_l9lje.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/e0/231716_l9lje.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/e0/231716_l9lje.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/e0/231716_l9lje.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/e0/231716_l9lje.jpg"
           },
-          {
-            "v": "抱Q"
+          "name": "映画 プリキュアスーパースターズ!",
+          "name_cn": "电影 光之美少女 Super Stars！",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 231716
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/74/240583_T5pNJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/74/240583_T5pNJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/74/240583_T5pNJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/74/240583_T5pNJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/74/240583_T5pNJ.jpg"
           },
-          {
-            "v": "拥抱Q娃"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "49"
-      },
-      {
-        "key": "放送开始",
-        "value": "2018年2月4日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.toei-anim.co.jp/tv/hugtto_precure/"
-      },
-      {
-        "key": "播放电视台",
-        "value": "ABC・テレビ朝日系"
-      },
-      {
-        "key": "播放结束",
-        "value": "2019年1月27日"
-      },
-      {
-        "key": "Copyright",
-        "value": "©ABC-A・東映アニメーション"
-      },
-      {
-        "key": "导演",
-        "value": "佐藤順一、座古明史"
-      }
-    ],
-    "rating": {
-      "rank": 430,
-      "total": 490,
-      "count": {
-        "1": 3,
-        "2": 2,
-        "3": 1,
-        "4": 7,
-        "5": 6,
-        "6": 33,
-        "7": 110,
-        "8": 187,
-        "9": 99,
-        "10": 42
-      },
-      "score": 7.8
-    },
-    "total_episodes": 49,
-    "collection": {
-      "on_hold": 94,
-      "dropped": 63,
-      "wish": 358,
-      "collect": 632,
-      "doing": 187
-    },
-    "id": 228046,
-    "eps": 49,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "映画 HUGっと!プリキュア♡ふたりはプリキュア オールスターズメモリーズ",
+          "name_cn": "电影 拥抱！光之美少女♡光之美少女 All Stars Memories",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 240583
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/5c/247502_8vzym.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/5c/247502_8vzym.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c9/5c/247502_8vzym.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/5c/247502_8vzym.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/5c/247502_8vzym.jpg"
+          },
+          "name": "HUGっと!プリキュア キャラクターシングル",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 247502
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/10/252574_cD80h.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/10/252574_cD80h.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6a/10/252574_cD80h.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/10/252574_cD80h.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/10/252574_cD80h.jpg"
+          },
+          "name": "HUGっと!プリキュア ボーカルアルバム パワフル♥エール",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 252574
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/43/62/256877_5OiV5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/43/62/256877_5OiV5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/43/62/256877_5OiV5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/43/62/256877_5OiV5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/62/256877_5OiV5.jpg"
+          },
+          "name": "HUGっと!YELL FOR YOU / LOVE &amp; LOVE",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 256877
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/56/264588_X7RM5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/56/264588_X7RM5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/09/56/264588_X7RM5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/56/264588_X7RM5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/56/264588_X7RM5.jpg"
+          },
+          "name": "スター☆トゥインクルプリキュア",
+          "name_cn": "Star☆Twinkle 光之美少女",
+          "relation": "续集",
+          "type": 2,
+          "id": 264588
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/6a/270279_BrrmH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/6a/270279_BrrmH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/92/6a/270279_BrrmH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/6a/270279_BrrmH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/6a/270279_BrrmH.jpg"
+          },
+          "name": "映画 プリキュアミラクルユニバース",
+          "name_cn": "电影 光之美少女 Miracle Universe",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 270279
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/20/272277_pun4t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/20/272277_pun4t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1c/20/272277_pun4t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/20/272277_pun4t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/20/272277_pun4t.jpg"
+          },
+          "name": "HUGっと!プリキュア ボーカルベストアルバム Cheerful Songs Best",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 272277
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/3f/297318_ZhHbR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/3f/297318_ZhHbR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4f/3f/297318_ZhHbR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/3f/297318_ZhHbR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/3f/297318_ZhHbR.jpg"
+          },
+          "name": "映画 プリキュアミラクルリープ みんなとの不思議な1日",
+          "name_cn": "电影 光之美少女 Miracle Leap 与大家不可思议的一天",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 297318
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/db/7e/307826_Maooc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/db/7e/307826_Maooc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/db/7e/307826_Maooc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/db/7e/307826_Maooc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/db/7e/307826_Maooc.jpg"
+          },
+          "name": "HUGっと!プリキュア プリキュアコレクション",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 307826
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7a/5a/237401_q40QO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7a/5a/237401_q40QO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7a/5a/237401_q40QO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/5a/237401_q40QO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/5a/237401_q40QO.jpg"
+          },
+          "name": "We can!! HUGっと! プリキュア / HUGっと! 未来☆ドリーマー",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 237401
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/62/243961_O2q28.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/62/243961_O2q28.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c1/62/243961_O2q28.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/62/243961_O2q28.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/62/243961_O2q28.jpg"
+          },
+          "name": "HUGっと!プリキュア オリジナル・サウンドトラック1 プリキュア・サウンド・フォー・ユー!!",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 243961
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/7e/270163_oQvg2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/7e/270163_oQvg2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/83/7e/270163_oQvg2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/7e/270163_oQvg2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/7e/270163_oQvg2.jpg"
+          },
+          "name": "HUGっと!プリキュア オリジナル・サウンドトラック2 プリキュア・チアフル・サウンド!!",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 270163
+        }
+      ]
+    }
   },
   {
-    "date": "2018-02-04",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/76/238831_Kzvbk.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/76/238831_Kzvbk.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/98/76/238831_Kzvbk.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/76/238831_Kzvbk.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/76/238831_Kzvbk.jpg"
-    },
-    "summary": "",
-    "name": "がんがんがんこちゃん 第2期",
-    "name_cn": "吵闹的顽固小子 第2期",
-    "tags": [
-      {
-        "name": "泡面",
-        "count": 1
+    "title": "がん がん がんこちゃん(第2シリーズ)",
+    "bangumi": {
+      "date": "2018-02-04",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/76/238831_Kzvbk.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/76/238831_Kzvbk.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/98/76/238831_Kzvbk.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/76/238831_Kzvbk.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/76/238831_Kzvbk.jpg"
       },
-      {
-        "name": "泡面番",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "吵闹的顽固小子 第2期"
+      "summary": "",
+      "name": "がんがんがんこちゃん 第2期",
+      "name_cn": "吵闹的顽固小子 第2期",
+      "tags": [
+        {
+          "name": "泡面",
+          "count": 1
+        },
+        {
+          "name": "泡面番",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "吵闹的顽固小子 第2期"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "がんがんがんこちゃん 新シリーズ"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "8"
+        },
+        {
+          "key": "放送开始",
+          "value": "2018年2月4日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www6.nhk.or.jp/anime/program/detail.html?i=ganko"
+        },
+        {
+          "key": "播放电视台",
+          "value": "NHK-BSプレミアム"
+        },
+        {
+          "key": "播放结束",
+          "value": "2018年3月25日"
+        },
+        {
+          "key": "原案",
+          "value": "末吉暁子"
+        },
+        {
+          "key": "系列构成",
+          "value": "赤尾でこ"
+        },
+        {
+          "key": "脚本",
+          "value": "赤尾でこ"
+        },
+        {
+          "key": "人物原案",
+          "value": "武田美穂"
+        },
+        {
+          "key": "人物设定",
+          "value": "竹田睦美"
+        },
+        {
+          "key": "动画制作",
+          "value": "10GAUGE"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 1,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 5
       },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "がんがんがんこちゃん 新シリーズ"
-          }
-        ]
+      "total_episodes": 8,
+      "collection": {
+        "on_hold": 1,
+        "dropped": 7,
+        "wish": 2,
+        "collect": 2,
+        "doing": 0
       },
-      {
-        "key": "话数",
-        "value": "8"
-      },
-      {
-        "key": "放送开始",
-        "value": "2018年2月4日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www6.nhk.or.jp/anime/program/detail.html?i=ganko"
-      },
-      {
-        "key": "播放电视台",
-        "value": "NHK-BSプレミアム"
-      },
-      {
-        "key": "播放结束",
-        "value": "2018年3月25日"
-      },
-      {
-        "key": "原案",
-        "value": "末吉暁子"
-      },
-      {
-        "key": "系列构成",
-        "value": "赤尾でこ"
-      },
-      {
-        "key": "脚本",
-        "value": "赤尾でこ"
-      },
-      {
-        "key": "人物原案",
-        "value": "武田美穂"
-      },
-      {
-        "key": "人物设定",
-        "value": "竹田睦美"
-      },
-      {
-        "key": "动画制作",
-        "value": "10GAUGE"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 1,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 1,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 5
-    },
-    "total_episodes": 8,
-    "collection": {
-      "on_hold": 1,
-      "dropped": 7,
-      "wish": 2,
-      "collect": 2,
-      "doing": 0
-    },
-    "id": 238831,
-    "eps": 8,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 238831,
+      "eps": 8,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/26/200543_1Q13I.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/26/200543_1Q13I.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c7/26/200543_1Q13I.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/26/200543_1Q13I.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/26/200543_1Q13I.jpg"
+          },
+          "name": "がんがんがんこちゃん",
+          "name_cn": "吵闹的顽固小子",
+          "relation": "前传",
+          "type": 2,
+          "id": 200543
+        }
+      ]
+    }
   },
   {
-    "date": "2018-02-23",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/18/233615_5U7Kd.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/18/233615_5U7Kd.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/bf/18/233615_5U7Kd.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/18/233615_5U7Kd.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/18/233615_5U7Kd.jpg"
-    },
-    "summary": " 絶強の霊力を持ち、自らの命を削りながら天脈地流のバランスを保つ祭司を陽冥司（ようめいし）という。陽冥司を務める端木煕（たんもく・き）は、世間の万霊を沈めることを責務としている。しかし、陽冥司の命と霊力を狙い続けている悪霊だけに止まらず、その地位や権力を巧む人間たちかも常に狙われるという宿命を背負っていた。彼らの攻撃は一刻も止むことがなく、端木煕は常に戦い続けなければならない境遇である。そんな状況の中で、唯一、端木煕が自分自身として向き合うことが出来た存在──それが楊敬華（よう・けいか）、陽冥司である端木煕と運命をともにする守護霊──「影霊（えいれい）」であった。二人の関係は単なる「陽冥司」と「影霊」というだけなのか？　どのような因縁によって二人は出会ったのか？　第1期アニメでは語りきれなかった端木煕の過去。そして新たなストーリーが幕を上げる。彼の記憶に眠っていた“章軒（しょうけん）”という人物は一体何者なのか……。",
-    "name": "スピリットパクト -黄泉の契り-",
-    "name_cn": "灵契·黄泉之契",
-    "tags": [
-      {
-        "name": "国产",
-        "count": 23
+    "title": "SPIRITPACT -黄泉の契り-",
+    "bangumi": {
+      "date": "2018-02-23",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/18/233615_5U7Kd.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/18/233615_5U7Kd.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/bf/18/233615_5U7Kd.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/18/233615_5U7Kd.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/18/233615_5U7Kd.jpg"
       },
-      {
-        "name": "BL",
-        "count": 14
+      "summary": " 絶強の霊力を持ち、自らの命を削りながら天脈地流のバランスを保つ祭司を陽冥司（ようめいし）という。陽冥司を務める端木煕（たんもく・き）は、世間の万霊を沈めることを責務としている。しかし、陽冥司の命と霊力を狙い続けている悪霊だけに止まらず、その地位や権力を巧む人間たちかも常に狙われるという宿命を背負っていた。彼らの攻撃は一刻も止むことがなく、端木煕は常に戦い続けなければならない境遇である。そんな状況の中で、唯一、端木煕が自分自身として向き合うことが出来た存在──それが楊敬華（よう・けいか）、陽冥司である端木煕と運命をともにする守護霊──「影霊（えいれい）」であった。二人の関係は単なる「陽冥司」と「影霊」というだけなのか？　どのような因縁によって二人は出会ったのか？　第1期アニメでは語りきれなかった端木煕の過去。そして新たなストーリーが幕を上げる。彼の記憶に眠っていた“章軒（しょうけん）”という人物は一体何者なのか……。",
+      "name": "スピリットパクト -黄泉の契り-",
+      "name_cn": "灵契·黄泉之契",
+      "tags": [
+        {
+          "name": "国产",
+          "count": 23
+        },
+        {
+          "name": "BL",
+          "count": 14
+        },
+        {
+          "name": "耽美",
+          "count": 11
+        },
+        {
+          "name": "漫改",
+          "count": 7
+        },
+        {
+          "name": "2018",
+          "count": 7
+        },
+        {
+          "name": "漫画改",
+          "count": 5
+        },
+        {
+          "name": "2018年2月",
+          "count": 4
+        },
+        {
+          "name": "腐",
+          "count": 3
+        },
+        {
+          "name": "基",
+          "count": 3
+        },
+        {
+          "name": "国漫",
+          "count": 3
+        },
+        {
+          "name": "动画",
+          "count": 2
+        },
+        {
+          "name": "国产动画",
+          "count": 2
+        },
+        {
+          "name": "恋爱番",
+          "count": 1
+        },
+        {
+          "name": "垃圾",
+          "count": 1
+        },
+        {
+          "name": "TV",
+          "count": 1
+        },
+        {
+          "name": "恋爱",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "灵契·黄泉之契"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "灵鬼在线"
+            },
+            {
+              "v": "灵契 -黄泉之契-"
+            },
+            {
+              "v": "Spiritpact -黄泉の契り-"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "12"
+        },
+        {
+          "key": "放送开始",
+          "value": "2018年2月23日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期五"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://spiritpact2.com/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "TOKYO MX"
+        },
+        {
+          "key": "Copyright",
+          "value": "©TENCENT Animation＆Comics /SPIRITPACT 製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "瓶子「灵契」腾讯动漫（テンセント動漫）连载"
+        },
+        {
+          "key": "导演",
+          "value": "李豪凌"
+        },
+        {
+          "key": "脚本",
+          "value": "琦玲子"
+        },
+        {
+          "key": "企画",
+          "value": "邹正宇(腾讯动漫)"
+        },
+        {
+          "key": "制作人",
+          "value": "李豪凌"
+        },
+        {
+          "key": "总执行制作人",
+          "value": "李筱婷"
+        },
+        {
+          "key": "执行制作人",
+          "value": "沉默的章鱼、ASKASK"
+        },
+        {
+          "key": "プランニングマネージャー",
+          "value": "ASKASK"
+        },
+        {
+          "key": "漫画編集担当",
+          "value": "故乡"
+        },
+        {
+          "key": "宣传",
+          "value": "杉肉盖饭、小惑、莫小美、小迪"
+        },
+        {
+          "key": "业务",
+          "value": "高澎涛"
+        },
+        {
+          "key": "人物设计",
+          "value": "权恩京"
+        },
+        {
+          "key": "总作画监督",
+          "value": "权恩京"
+        },
+        {
+          "key": "制作管理",
+          "value": "康君、金敏准"
+        },
+        {
+          "key": "制作管理補佐",
+          "value": "沈海燕"
+        },
+        {
+          "key": "色彩设计",
+          "value": "金金珠"
+        },
+        {
+          "key": "总演出",
+          "value": "梁真哲"
+        },
+        {
+          "key": "美术监督",
+          "value": "金荣在"
+        },
+        {
+          "key": "摄影监督",
+          "value": "中村慎太郎"
+        },
+        {
+          "key": "音响监督",
+          "value": "伍婷、藤新"
+        },
+        {
+          "key": "編集",
+          "value": "李豪凌"
+        },
+        {
+          "key": "动画制作",
+          "value": "绘梦"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 46,
+        "count": {
+          "1": 1,
+          "2": 0,
+          "3": 2,
+          "4": 3,
+          "5": 12,
+          "6": 15,
+          "7": 10,
+          "8": 3,
+          "9": 0,
+          "10": 0
+        },
+        "score": 5.7
       },
-      {
-        "name": "耽美",
-        "count": 11
+      "total_episodes": 12,
+      "collection": {
+        "on_hold": 5,
+        "dropped": 20,
+        "wish": 12,
+        "collect": 91,
+        "doing": 7
       },
-      {
-        "name": "漫改",
-        "count": 7
-      },
-      {
-        "name": "2018",
-        "count": 7
-      },
-      {
-        "name": "漫画改",
-        "count": 5
-      },
-      {
-        "name": "2018年2月",
-        "count": 4
-      },
-      {
-        "name": "腐",
-        "count": 3
-      },
-      {
-        "name": "基",
-        "count": 3
-      },
-      {
-        "name": "国漫",
-        "count": 3
-      },
-      {
-        "name": "动画",
-        "count": 2
-      },
-      {
-        "name": "国产动画",
-        "count": 2
-      },
-      {
-        "name": "恋爱番",
-        "count": 1
-      },
-      {
-        "name": "垃圾",
-        "count": 1
-      },
-      {
-        "name": "TV",
-        "count": 1
-      },
-      {
-        "name": "恋爱",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "灵契·黄泉之契"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "灵鬼在线"
+      "id": 233615,
+      "eps": 12,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/28/175461_555fZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/28/175461_555fZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c3/28/175461_555fZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/28/175461_555fZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/28/175461_555fZ.jpg"
           },
-          {
-            "v": "灵契 -黄泉之契-"
+          "name": "灵契",
+          "name_cn": "灵契",
+          "relation": "书籍",
+          "type": 1,
+          "id": 175461
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/0e/207451_zYV0Q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1d/0e/207451_zYV0Q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1d/0e/207451_zYV0Q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1d/0e/207451_zYV0Q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1d/0e/207451_zYV0Q.jpg"
           },
-          {
-            "v": "Spiritpact -黄泉の契り-"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "12"
-      },
-      {
-        "key": "放送开始",
-        "value": "2018年2月23日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期五"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://spiritpact2.com/"
-      },
-      {
-        "key": "播放电视台",
-        "value": "TOKYO MX"
-      },
-      {
-        "key": "Copyright",
-        "value": "©TENCENT Animation＆Comics /SPIRITPACT 製作委員会"
-      },
-      {
-        "key": "原作",
-        "value": "瓶子「灵契」腾讯动漫（テンセント動漫）连载"
-      },
-      {
-        "key": "导演",
-        "value": "李豪凌"
-      },
-      {
-        "key": "脚本",
-        "value": "琦玲子"
-      },
-      {
-        "key": "企画",
-        "value": "邹正宇(腾讯动漫)"
-      },
-      {
-        "key": "制作人",
-        "value": "李豪凌"
-      },
-      {
-        "key": "总执行制作人",
-        "value": "李筱婷"
-      },
-      {
-        "key": "执行制作人",
-        "value": "沉默的章鱼、ASKASK"
-      },
-      {
-        "key": "プランニングマネージャー",
-        "value": "ASKASK"
-      },
-      {
-        "key": "漫画編集担当",
-        "value": "故乡"
-      },
-      {
-        "key": "宣传",
-        "value": "杉肉盖饭、小惑、莫小美、小迪"
-      },
-      {
-        "key": "业务",
-        "value": "高澎涛"
-      },
-      {
-        "key": "人物设计",
-        "value": "权恩京"
-      },
-      {
-        "key": "总作画监督",
-        "value": "权恩京"
-      },
-      {
-        "key": "制作管理",
-        "value": "康君、金敏准"
-      },
-      {
-        "key": "制作管理補佐",
-        "value": "沈海燕"
-      },
-      {
-        "key": "色彩设计",
-        "value": "金金珠"
-      },
-      {
-        "key": "总演出",
-        "value": "梁真哲"
-      },
-      {
-        "key": "美术监督",
-        "value": "金荣在"
-      },
-      {
-        "key": "摄影监督",
-        "value": "中村慎太郎"
-      },
-      {
-        "key": "音响监督",
-        "value": "伍婷、藤新"
-      },
-      {
-        "key": "編集",
-        "value": "李豪凌"
-      },
-      {
-        "key": "动画制作",
-        "value": "绘梦"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 46,
-      "count": {
-        "1": 1,
-        "2": 0,
-        "3": 2,
-        "4": 3,
-        "5": 12,
-        "6": 15,
-        "7": 10,
-        "8": 3,
-        "9": 0,
-        "10": 0
-      },
-      "score": 5.7
-    },
-    "total_episodes": 12,
-    "collection": {
-      "on_hold": 5,
-      "dropped": 20,
-      "wish": 12,
-      "collect": 91,
-      "doing": 7
-    },
-    "id": 233615,
-    "eps": 12,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "スピリットパクト",
+          "name_cn": "灵契",
+          "relation": "前传",
+          "type": 2,
+          "id": 207451
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/80/245559_23Fy9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/80/245559_23Fy9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9d/80/245559_23Fy9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/80/245559_23Fy9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/80/245559_23Fy9.jpg"
+          },
+          "name": "I'll be there",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 245559
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/bf/245700_r25yb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/bf/245700_r25yb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/51/bf/245700_r25yb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/bf/245700_r25yb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/bf/245700_r25yb.jpg"
+          },
+          "name": "JACK IN THE BOX",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 245700
+        }
+      ]
+    }
   },
   {
-    "date": "2018-02-10",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/07/223517_4NnG7.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/07/223517_4NnG7.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/ef/07/223517_4NnG7.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/07/223517_4NnG7.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/07/223517_4NnG7.jpg"
-    },
-    "summary": "人気アイドルグループの3MajestyとX.I.P.は、デビュー5周年と言う節目を迎えるに当たり、自分たちを応援してくれているファンに、今までにない特別な恩返しをするにはどうすれば良いか悩んでいた。\r\nある日、所属事務所PRINCE REPUBLIC (プリンス リパブリック)の社長から、両グループのリーダー、霧島と伊達が呼び出され、デビュー5周年イベントの開催決定の知らせと、そのための新曲が手渡される。しかし、その曲は両グループともに同じ曲…。実は手渡された新曲は、社長自身がまだアイドルとして活躍していた頃に挑戦するも、歌う事が叶わなかった伝説の曲「白と黒」だった。\r\n実は、「白と黒」は名曲だが、この曲に挑戦したグループは歌を披露する前に次々と解散していたことから、グループに別れをもたらす《呪いの曲》とささやかれる曲でもあったのだ。自分たちこそ伝説の曲を披露するのに相応しいと争う3MajestyとX.I.P.は、5周年ライブのラストに伝説の曲を披露できる権利をかけ、スペシャルVSライブを実施することに！\r\n3MajestyとX.I.P.、6人の力がひとつになるとき、奇跡が起きる…!!",
-    "name": "劇場版 ときめきレストラン☆☆☆ MIRACLE6",
-    "name_cn": "剧场版 心跳餐厅 MIRACLE6",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 4
+    "title": "劇場版 ときめきレストラン☆☆☆ MIRACLE6",
+    "bangumi": {
+      "date": "2018-02-10",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/07/223517_4NnG7.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/07/223517_4NnG7.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ef/07/223517_4NnG7.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/07/223517_4NnG7.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/07/223517_4NnG7.jpg"
       },
-      {
-        "name": "改编",
-        "count": 2
+      "summary": "人気アイドルグループの3MajestyとX.I.P.は、デビュー5周年と言う節目を迎えるに当たり、自分たちを応援してくれているファンに、今までにない特別な恩返しをするにはどうすれば良いか悩んでいた。\r\nある日、所属事務所PRINCE REPUBLIC (プリンス リパブリック)の社長から、両グループのリーダー、霧島と伊達が呼び出され、デビュー5周年イベントの開催決定の知らせと、そのための新曲が手渡される。しかし、その曲は両グループともに同じ曲…。実は手渡された新曲は、社長自身がまだアイドルとして活躍していた頃に挑戦するも、歌う事が叶わなかった伝説の曲「白と黒」だった。\r\n実は、「白と黒」は名曲だが、この曲に挑戦したグループは歌を披露する前に次々と解散していたことから、グループに別れをもたらす《呪いの曲》とささやかれる曲でもあったのだ。自分たちこそ伝説の曲を披露するのに相応しいと争う3MajestyとX.I.P.は、5周年ライブのラストに伝説の曲を披露できる権利をかけ、スペシャルVSライブを実施することに！\r\n3MajestyとX.I.P.、6人の力がひとつになるとき、奇跡が起きる…!!",
+      "name": "劇場版 ときめきレストラン☆☆☆ MIRACLE6",
+      "name_cn": "剧场版 心跳餐厅 MIRACLE6",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 4
+        },
+        {
+          "name": "改编",
+          "count": 2
+        },
+        {
+          "name": "游戏改",
+          "count": 2
+        },
+        {
+          "name": "2018年2月",
+          "count": 1
+        },
+        {
+          "name": "2018年一月番",
+          "count": 1
+        },
+        {
+          "name": "2018年",
+          "count": 1
+        },
+        {
+          "name": "2018",
+          "count": 1
+        },
+        {
+          "name": "游戏改编",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "剧场版 心跳餐厅 MIRACLE6"
+        },
+        {
+          "key": "上映年度",
+          "value": "2018年2月10日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://tokires-movie.com/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©劇場版ときめきレストラン☆☆☆製作委員会"
+        },
+        {
+          "key": "配给",
+          "value": "アスミック・エース"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
       },
-      {
-        "name": "游戏改",
-        "count": 2
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 3,
+        "dropped": 5,
+        "wish": 17,
+        "collect": 2,
+        "doing": 0
       },
-      {
-        "name": "2018年2月",
-        "count": 1
-      },
-      {
-        "name": "2018年一月番",
-        "count": 1
-      },
-      {
-        "name": "2018年",
-        "count": 1
-      },
-      {
-        "name": "2018",
-        "count": 1
-      },
-      {
-        "name": "游戏改编",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "剧场版 心跳餐厅 MIRACLE6"
-      },
-      {
-        "key": "上映年度",
-        "value": "2018年2月10日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://tokires-movie.com/"
-      },
-      {
-        "key": "Copyright",
-        "value": "©劇場版ときめきレストラン☆☆☆製作委員会"
-      },
-      {
-        "key": "配给",
-        "value": "アスミック・エース"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 0,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 0
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 3,
-      "dropped": 5,
-      "wish": 17,
-      "collect": 2,
-      "doing": 0
-    },
-    "id": 223517,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 223517,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/6f/65988_PkKpD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/6f/65988_PkKpD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/34/6f/65988_PkKpD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/6f/65988_PkKpD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/6f/65988_PkKpD.jpg"
+          },
+          "name": "ときめきレストラン☆☆☆",
+          "name_cn": "心跳餐厅",
+          "relation": "游戏",
+          "type": 4,
+          "id": 65988
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/8e/296218_If9mP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/8e/296218_If9mP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cc/8e/296218_If9mP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/8e/296218_If9mP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/8e/296218_If9mP.jpg"
+          },
+          "name": "Let’s make a miracle",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 296218
+        }
+      ]
+    }
   },
   {
-    "date": "2018-02-24",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/ac/223398_g36kk.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/ac/223398_g36kk.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/0b/ac/223398_g36kk.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/ac/223398_g36kk.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/ac/223398_g36kk.jpg"
-    },
-    "summary": "",
-    "name": "劇場版Infini-T Force／ガッチャマン さらば友よ",
-    "name_cn": "剧场版Infini-T Force 飞鹰侠 再见了朋友",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 33
+    "title": "劇場版Infini-T Force／ガッチャマン さらば友よ",
+    "bangumi": {
+      "date": "2018-02-24",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/ac/223398_g36kk.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/ac/223398_g36kk.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0b/ac/223398_g36kk.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/ac/223398_g36kk.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/ac/223398_g36kk.jpg"
       },
-      {
-        "name": "2018",
-        "count": 17
+      "summary": "",
+      "name": "劇場版Infini-T Force／ガッチャマン さらば友よ",
+      "name_cn": "剧场版Infini-T Force 飞鹰侠 再见了朋友",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 33
+        },
+        {
+          "name": "2018",
+          "count": 17
+        },
+        {
+          "name": "龙之子",
+          "count": 17
+        },
+        {
+          "name": "科幻",
+          "count": 10
+        },
+        {
+          "name": "原创",
+          "count": 6
+        },
+        {
+          "name": "SF",
+          "count": 6
+        },
+        {
+          "name": "3D",
+          "count": 6
+        },
+        {
+          "name": "松本淳",
+          "count": 5
+        },
+        {
+          "name": "Infini-T_Force",
+          "count": 5
+        },
+        {
+          "name": "日式超级英雄",
+          "count": 5
+        },
+        {
+          "name": "熊谷纯",
+          "count": 5
+        },
+        {
+          "name": "DigitalFrontier",
+          "count": 4
+        },
+        {
+          "name": "2018年",
+          "count": 4
+        },
+        {
+          "name": "2018年2月",
+          "count": 3
+        },
+        {
+          "name": "樱井孝宏",
+          "count": 3
+        },
+        {
+          "name": "アニメ映画",
+          "count": 1
+        },
+        {
+          "name": "オリジナル",
+          "count": 1
+        },
+        {
+          "name": "熊谷純",
+          "count": 1
+        },
+        {
+          "name": "齐藤壮马",
+          "count": 1
+        },
+        {
+          "name": "2018年一月番",
+          "count": 1
+        },
+        {
+          "name": "二〇一八年",
+          "count": 1
+        },
+        {
+          "name": "数字幻想",
+          "count": 1
+        },
+        {
+          "name": "2010-2019",
+          "count": 1
+        },
+        {
+          "name": "2018年剧场版",
+          "count": 1
+        },
+        {
+          "name": "i.差强人意且有突出迷醉我之处(4星)",
+          "count": 1
+        },
+        {
+          "name": "f.日本",
+          "count": 1
+        },
+        {
+          "name": "b.Movie",
+          "count": 1
+        },
+        {
+          "name": "联动",
+          "count": 1
+        },
+        {
+          "name": "a.Anime",
+          "count": 1
+        },
+        {
+          "name": "龙之子Production",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "剧场版Infini-T Force 飞鹰侠 再见了朋友"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "科学忍者队"
+            },
+            {
+              "v": "科学小飞侠"
+            },
+            {
+              "v": "剧场版 Infini-T Force"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2018年2月24日"
+        },
+        {
+          "key": "片长",
+          "value": "91分"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.infini-tforce.com/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©タツノコプロ/Infini-T Force製作委員会"
+        },
+        {
+          "key": "製作",
+          "value": "「Infini-T Force」製作委員会（日本テレビ放送網、タツノコプロ、デジタル・フロンティア、松竹、ビリビリ、日本テレビ音楽、Hulu、読売テレビ放送、ポニーキャニオン、ホリプロ、KADOKAWA、ブシロード、札幌テレビ放送、宮城テレビ放送、静岡第一テレビ、中京テレビ放送、広島テレビ放送、福岡放送）"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 5728,
+        "total": 66,
+        "count": {
+          "1": 1,
+          "2": 2,
+          "3": 2,
+          "4": 1,
+          "5": 19,
+          "6": 25,
+          "7": 13,
+          "8": 2,
+          "9": 1,
+          "10": 0
+        },
+        "score": 5.7
       },
-      {
-        "name": "龙之子",
-        "count": 17
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 7,
+        "dropped": 11,
+        "wish": 39,
+        "collect": 113,
+        "doing": 3
       },
-      {
-        "name": "科幻",
-        "count": 10
-      },
-      {
-        "name": "原创",
-        "count": 6
-      },
-      {
-        "name": "SF",
-        "count": 6
-      },
-      {
-        "name": "3D",
-        "count": 6
-      },
-      {
-        "name": "松本淳",
-        "count": 5
-      },
-      {
-        "name": "Infini-T_Force",
-        "count": 5
-      },
-      {
-        "name": "日式超级英雄",
-        "count": 5
-      },
-      {
-        "name": "熊谷纯",
-        "count": 5
-      },
-      {
-        "name": "DigitalFrontier",
-        "count": 4
-      },
-      {
-        "name": "2018年",
-        "count": 4
-      },
-      {
-        "name": "2018年2月",
-        "count": 3
-      },
-      {
-        "name": "樱井孝宏",
-        "count": 3
-      },
-      {
-        "name": "アニメ映画",
-        "count": 1
-      },
-      {
-        "name": "オリジナル",
-        "count": 1
-      },
-      {
-        "name": "熊谷純",
-        "count": 1
-      },
-      {
-        "name": "齐藤壮马",
-        "count": 1
-      },
-      {
-        "name": "2018年一月番",
-        "count": 1
-      },
-      {
-        "name": "二〇一八年",
-        "count": 1
-      },
-      {
-        "name": "数字幻想",
-        "count": 1
-      },
-      {
-        "name": "2010-2019",
-        "count": 1
-      },
-      {
-        "name": "2018年剧场版",
-        "count": 1
-      },
-      {
-        "name": "i.差强人意且有突出迷醉我之处(4星)",
-        "count": 1
-      },
-      {
-        "name": "f.日本",
-        "count": 1
-      },
-      {
-        "name": "b.Movie",
-        "count": 1
-      },
-      {
-        "name": "联动",
-        "count": 1
-      },
-      {
-        "name": "a.Anime",
-        "count": 1
-      },
-      {
-        "name": "龙之子Production",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "剧场版Infini-T Force 飞鹰侠 再见了朋友"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "科学忍者队"
+      "id": 223398,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/c1/175530_0BYXR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/c1/175530_0BYXR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2a/c1/175530_0BYXR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/c1/175530_0BYXR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/c1/175530_0BYXR.jpg"
           },
-          {
-            "v": "科学小飞侠"
+          "name": "Infini-T Force",
+          "name_cn": "",
+          "relation": "前传",
+          "type": 2,
+          "id": 175530
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/c8/231122_pxCmt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/c8/231122_pxCmt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/44/c8/231122_pxCmt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/c8/231122_pxCmt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/c8/231122_pxCmt.jpg"
           },
-          {
-            "v": "剧场版 Infini-T Force"
-          }
-        ]
-      },
-      {
-        "key": "上映年度",
-        "value": "2018年2月24日"
-      },
-      {
-        "key": "片长",
-        "value": "91分"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.infini-tforce.com/"
-      },
-      {
-        "key": "Copyright",
-        "value": "©タツノコプロ/Infini-T Force製作委員会"
-      },
-      {
-        "key": "製作",
-        "value": "「Infini-T Force」製作委員会（日本テレビ放送網、タツノコプロ、デジタル・フロンティア、松竹、ビリビリ、日本テレビ音楽、Hulu、読売テレビ放送、ポニーキャニオン、ホリプロ、KADOKAWA、ブシロード、札幌テレビ放送、宮城テレビ放送、静岡第一テレビ、中京テレビ放送、広島テレビ放送、福岡放送）"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 5718,
-      "total": 66,
-      "count": {
-        "1": 1,
-        "2": 2,
-        "3": 2,
-        "4": 1,
-        "5": 19,
-        "6": 25,
-        "7": 13,
-        "8": 2,
-        "9": 1,
-        "10": 0
-      },
-      "score": 5.7
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 7,
-      "dropped": 11,
-      "wish": 39,
-      "collect": 113,
-      "doing": 3
-    },
-    "id": 223398,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "とうとい",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 231122
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/d1/236210_4XdOp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/d1/236210_4XdOp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/d1/236210_4XdOp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/d1/236210_4XdOp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/d1/236210_4XdOp.jpg"
+          },
+          "name": "Infini-T Force オリジナル・サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 236210
+        }
+      ]
+    }
   },
   {
-    "date": "2018-02-03",
-    "platform": "WEB",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/94/237133_l0f66.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/94/237133_l0f66.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/a1/94/237133_l0f66.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/94/237133_l0f66.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/94/237133_l0f66.jpg"
-    },
-    "summary": "Join the cast of RWBY in a new series of cute, comedy shorts with infinite possibilities! It's playing tag! It's baking cookies! It's posing as police officers! It's... really quite absurd. It's RWBY CHIBI!",
-    "name": "RWBY Chibi Season 3",
-    "name_cn": "",
-    "tags": [
-      {
-        "name": "泡面番",
-        "count": 32
+    "title": "RWBY Chibi Season 3",
+    "bangumi": {
+      "date": "2018-02-03",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/94/237133_l0f66.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/94/237133_l0f66.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a1/94/237133_l0f66.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/94/237133_l0f66.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/94/237133_l0f66.jpg"
       },
-      {
-        "name": "欧美",
-        "count": 26
+      "summary": "Join the cast of RWBY in a new series of cute, comedy shorts with infinite possibilities! It's playing tag! It's baking cookies! It's posing as police officers! It's... really quite absurd. It's RWBY CHIBI!",
+      "name": "RWBY Chibi Season 3",
+      "name_cn": "",
+      "tags": [
+        {
+          "name": "泡面番",
+          "count": 32
+        },
+        {
+          "name": "欧美",
+          "count": 26
+        },
+        {
+          "name": "RWBY",
+          "count": 25
+        },
+        {
+          "name": "2018",
+          "count": 13
+        },
+        {
+          "name": "泡面",
+          "count": 11
+        },
+        {
+          "name": "番外",
+          "count": 10
+        },
+        {
+          "name": "WEB",
+          "count": 9
+        },
+        {
+          "name": "3D",
+          "count": 8
+        },
+        {
+          "name": "TV",
+          "count": 8
+        },
+        {
+          "name": "搞笑",
+          "count": 8
+        },
+        {
+          "name": "RoosterTeeth",
+          "count": 7
+        },
+        {
+          "name": "美国",
+          "count": 6
+        },
+        {
+          "name": "动画",
+          "count": 5
+        },
+        {
+          "name": "2018年2月",
+          "count": 4
+        },
+        {
+          "name": "美国动画",
+          "count": 4
+        },
+        {
+          "name": "RWBY_CHIBI",
+          "count": 2
+        },
+        {
+          "name": "原创",
+          "count": 2
+        },
+        {
+          "name": "Rooster_Teeth",
+          "count": 2
+        },
+        {
+          "name": "MontyOum",
+          "count": 1
+        },
+        {
+          "name": "KerryShawcross",
+          "count": 1
+        },
+        {
+          "name": "RoosterTeethProductions",
+          "count": 1
+        },
+        {
+          "name": "已保存",
+          "count": 1
+        },
+        {
+          "name": "BD1",
+          "count": 1
+        },
+        {
+          "name": "2018年1月",
+          "count": 1
+        },
+        {
+          "name": "ShaneNewville",
+          "count": 1
+        },
+        {
+          "name": "SP",
+          "count": 1
+        },
+        {
+          "name": "SF",
+          "count": 1
+        },
+        {
+          "name": "日本",
+          "count": 1
+        },
+        {
+          "name": "百合",
+          "count": 1
+        },
+        {
+          "name": "治愈系",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "话数",
+          "value": "16"
+        },
+        {
+          "key": "放送开始",
+          "value": "2018-02-03"
+        },
+        {
+          "key": "放送星期",
+          "value": "周六"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://roosterteeth.com/show/rwby-chibi"
+        }
+      ],
+      "rating": {
+        "rank": 3439,
+        "total": 124,
+        "count": {
+          "1": 2,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 6,
+          "6": 43,
+          "7": 55,
+          "8": 11,
+          "9": 2,
+          "10": 4
+        },
+        "score": 6.6
       },
-      {
-        "name": "RWBY",
-        "count": 25
+      "total_episodes": 17,
+      "collection": {
+        "on_hold": 6,
+        "dropped": 11,
+        "wish": 33,
+        "collect": 218,
+        "doing": 5
       },
-      {
-        "name": "2018",
-        "count": 13
-      },
-      {
-        "name": "泡面",
-        "count": 11
-      },
-      {
-        "name": "番外",
-        "count": 10
-      },
-      {
-        "name": "WEB",
-        "count": 9
-      },
-      {
-        "name": "3D",
-        "count": 8
-      },
-      {
-        "name": "TV",
-        "count": 8
-      },
-      {
-        "name": "搞笑",
-        "count": 8
-      },
-      {
-        "name": "RoosterTeeth",
-        "count": 7
-      },
-      {
-        "name": "美国",
-        "count": 6
-      },
-      {
-        "name": "动画",
-        "count": 5
-      },
-      {
-        "name": "2018年2月",
-        "count": 4
-      },
-      {
-        "name": "美国动画",
-        "count": 4
-      },
-      {
-        "name": "RWBY_CHIBI",
-        "count": 2
-      },
-      {
-        "name": "原创",
-        "count": 2
-      },
-      {
-        "name": "Rooster_Teeth",
-        "count": 2
-      },
-      {
-        "name": "MontyOum",
-        "count": 1
-      },
-      {
-        "name": "KerryShawcross",
-        "count": 1
-      },
-      {
-        "name": "RoosterTeethProductions",
-        "count": 1
-      },
-      {
-        "name": "已保存",
-        "count": 1
-      },
-      {
-        "name": "BD1",
-        "count": 1
-      },
-      {
-        "name": "2018年1月",
-        "count": 1
-      },
-      {
-        "name": "ShaneNewville",
-        "count": 1
-      },
-      {
-        "name": "SP",
-        "count": 1
-      },
-      {
-        "name": "SF",
-        "count": 1
-      },
-      {
-        "name": "日本",
-        "count": 1
-      },
-      {
-        "name": "百合",
-        "count": 1
-      },
-      {
-        "name": "治愈系",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "话数",
-        "value": "16"
-      },
-      {
-        "key": "放送开始",
-        "value": "2018-02-03"
-      },
-      {
-        "key": "放送星期",
-        "value": "周六"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://roosterteeth.com/show/rwby-chibi"
-      }
-    ],
-    "rating": {
-      "rank": 3410,
-      "total": 124,
-      "count": {
-        "1": 2,
-        "2": 1,
-        "3": 0,
-        "4": 0,
-        "5": 6,
-        "6": 43,
-        "7": 55,
-        "8": 11,
-        "9": 2,
-        "10": 4
-      },
-      "score": 6.6
-    },
-    "total_episodes": 17,
-    "collection": {
-      "on_hold": 6,
-      "dropped": 11,
-      "wish": 33,
-      "collect": 218,
-      "doing": 5
-    },
-    "id": 237133,
-    "eps": 16,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 237133,
+      "eps": 16,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/63/e7/215096_A07zx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/63/e7/215096_A07zx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/63/e7/215096_A07zx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/63/e7/215096_A07zx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/63/e7/215096_A07zx.jpg"
+          },
+          "name": "RWBY Chibi Season 2",
+          "name_cn": "",
+          "relation": "前传",
+          "type": 2,
+          "id": 215096
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/b3/224720_SBBgF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/b3/224720_SBBgF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/b3/224720_SBBgF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/b3/224720_SBBgF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/b3/224720_SBBgF.jpg"
+          },
+          "name": "RWBY Volume 5",
+          "name_cn": "红白黑黄 第五季",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 224720
+        }
+      ]
+    }
   },
   {
-    "date": "2018-02-10",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/46/199230_ARJt5.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/46/199230_ARJt5.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/34/46/199230_ARJt5.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/46/199230_ARJt5.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/46/199230_ARJt5.jpg"
-    },
-    "summary": "人気テレビアニメ「コードギアス　反逆のルルーシュ」を再構成した劇場版3部作の第2部。2006～08年に計2シーズン・全50話が放送されたテレビシリーズに新作パートを加え、全編にわたり新たにアフレコが行われた。仮面の反逆者「ゼロ」として反ブリタニア勢力「黒の騎士団」を率いるルルーシュ。親友のスザクはブリタニア第3皇女ユーフェミアの騎士に任命され、それぞれの立場で力をつけていく2人だったが、ユーフェミアがエリア11副総督として行政特区「日本」の発足を発表し、大きな転機が訪れる。行政特区日本が実現すれば黒の騎士団の存在意義が失われてしまうことから、ルルーシュはユーフェミアとの面会を試みるが……。",
-    "name": "コードギアス 反逆のルルーシュ II 叛道",
-    "name_cn": "Code Geass 反叛的鲁路修 II 叛道",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 275
+    "title": "コードギアス 反逆のルルーシュ II 叛道",
+    "bangumi": {
+      "date": "2018-02-10",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/46/199230_ARJt5.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/46/199230_ARJt5.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/34/46/199230_ARJt5.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/46/199230_ARJt5.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/46/199230_ARJt5.jpg"
       },
-      {
-        "name": "SUNRISE",
-        "count": 162
+      "summary": "人気テレビアニメ「コードギアス　反逆のルルーシュ」を再構成した劇場版3部作の第2部。2006～08年に計2シーズン・全50話が放送されたテレビシリーズに新作パートを加え、全編にわたり新たにアフレコが行われた。仮面の反逆者「ゼロ」として反ブリタニア勢力「黒の騎士団」を率いるルルーシュ。親友のスザクはブリタニア第3皇女ユーフェミアの騎士に任命され、それぞれの立場で力をつけていく2人だったが、ユーフェミアがエリア11副総督として行政特区「日本」の発足を発表し、大きな転機が訪れる。行政特区日本が実現すれば黒の騎士団の存在意義が失われてしまうことから、ルルーシュはユーフェミアとの面会を試みるが……。",
+      "name": "コードギアス 反逆のルルーシュ II 叛道",
+      "name_cn": "Code Geass 反叛的鲁路修 II 叛道",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 275
+        },
+        {
+          "name": "SUNRISE",
+          "count": 162
+        },
+        {
+          "name": "2018",
+          "count": 116
+        },
+        {
+          "name": "总集篇",
+          "count": 113
+        },
+        {
+          "name": "原创",
+          "count": 103
+        },
+        {
+          "name": "大河内一楼",
+          "count": 92
+        },
+        {
+          "name": "反叛的鲁路修",
+          "count": 82
+        },
+        {
+          "name": "谷口悟朗",
+          "count": 72
+        },
+        {
+          "name": "萝卜",
+          "count": 48
+        },
+        {
+          "name": "机战",
+          "count": 31
+        },
+        {
+          "name": "2018年2月",
+          "count": 24
+        },
+        {
+          "name": "2018年",
+          "count": 19
+        },
+        {
+          "name": "战斗",
+          "count": 13
+        },
+        {
+          "name": "codegeass",
+          "count": 10
+        },
+        {
+          "name": "鲁鲁修",
+          "count": 8
+        },
+        {
+          "name": "科幻",
+          "count": 7
+        },
+        {
+          "name": "日本",
+          "count": 5
+        },
+        {
+          "name": "战争",
+          "count": 5
+        },
+        {
+          "name": "动画",
+          "count": 4
+        },
+        {
+          "name": "CLAMP",
+          "count": 4
+        },
+        {
+          "name": "动画电影",
+          "count": 4
+        },
+        {
+          "name": "日升",
+          "count": 3
+        },
+        {
+          "name": "福山润",
+          "count": 3
+        },
+        {
+          "name": "妹控",
+          "count": 3
+        },
+        {
+          "name": "ゆかな",
+          "count": 3
+        },
+        {
+          "name": "日本动画",
+          "count": 3
+        },
+        {
+          "name": "劇場版",
+          "count": 2
+        },
+        {
+          "name": "アニメ映画",
+          "count": 2
+        },
+        {
+          "name": "电影",
+          "count": 2
+        },
+        {
+          "name": "鲁路修",
+          "count": 2
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "Code Geass 反叛的鲁路修 II 叛道"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Code Geass: Hangyaku no Lelouch II - Handou"
+            },
+            {
+              "v": "Code Geass 反叛的鲁路修 Ⅱ 叛道"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2018年2月10日"
+        },
+        {
+          "key": "片长",
+          "value": "133分"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.geass.jp/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©SUNRISE／PROJECT GEASS"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 4515,
+        "total": 662,
+        "count": {
+          "1": 5,
+          "2": 1,
+          "3": 9,
+          "4": 23,
+          "5": 74,
+          "6": 211,
+          "7": 207,
+          "8": 91,
+          "9": 19,
+          "10": 22
+        },
+        "score": 6.5
       },
-      {
-        "name": "2018",
-        "count": 116
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 30,
+        "dropped": 24,
+        "wish": 266,
+        "collect": 1278,
+        "doing": 22
       },
-      {
-        "name": "总集篇",
-        "count": 113
-      },
-      {
-        "name": "原创",
-        "count": 103
-      },
-      {
-        "name": "大河内一楼",
-        "count": 92
-      },
-      {
-        "name": "反叛的鲁路修",
-        "count": 82
-      },
-      {
-        "name": "谷口悟朗",
-        "count": 72
-      },
-      {
-        "name": "萝卜",
-        "count": 48
-      },
-      {
-        "name": "机战",
-        "count": 31
-      },
-      {
-        "name": "2018年2月",
-        "count": 24
-      },
-      {
-        "name": "2018年",
-        "count": 19
-      },
-      {
-        "name": "战斗",
-        "count": 13
-      },
-      {
-        "name": "codegeass",
-        "count": 10
-      },
-      {
-        "name": "鲁鲁修",
-        "count": 8
-      },
-      {
-        "name": "科幻",
-        "count": 7
-      },
-      {
-        "name": "日本",
-        "count": 5
-      },
-      {
-        "name": "战争",
-        "count": 5
-      },
-      {
-        "name": "动画",
-        "count": 4
-      },
-      {
-        "name": "CLAMP",
-        "count": 4
-      },
-      {
-        "name": "动画电影",
-        "count": 4
-      },
-      {
-        "name": "日升",
-        "count": 3
-      },
-      {
-        "name": "福山润",
-        "count": 3
-      },
-      {
-        "name": "妹控",
-        "count": 3
-      },
-      {
-        "name": "ゆかな",
-        "count": 3
-      },
-      {
-        "name": "日本动画",
-        "count": 3
-      },
-      {
-        "name": "劇場版",
-        "count": 2
-      },
-      {
-        "name": "アニメ映画",
-        "count": 2
-      },
-      {
-        "name": "电影",
-        "count": 2
-      },
-      {
-        "name": "鲁路修",
-        "count": 2
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "Code Geass 反叛的鲁路修 II 叛道"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Code Geass: Hangyaku no Lelouch II - Handou"
+      "id": 199230,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/f0/8_wK0z3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/f0/8_wK0z3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c9/f0/8_wK0z3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/f0/8_wK0z3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/f0/8_wK0z3.jpg"
           },
-          {
-            "v": "Code Geass 反叛的鲁路修 Ⅱ 叛道"
-          }
-        ]
-      },
-      {
-        "key": "上映年度",
-        "value": "2018年2月10日"
-      },
-      {
-        "key": "片长",
-        "value": "133分"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.geass.jp/"
-      },
-      {
-        "key": "Copyright",
-        "value": "©SUNRISE／PROJECT GEASS"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 4514,
-      "total": 662,
-      "count": {
-        "1": 5,
-        "2": 1,
-        "3": 9,
-        "4": 23,
-        "5": 74,
-        "6": 211,
-        "7": 207,
-        "8": 91,
-        "9": 19,
-        "10": 22
-      },
-      "score": 6.5
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 30,
-      "dropped": 24,
-      "wish": 266,
-      "collect": 1278,
-      "doing": 22
-    },
-    "id": 199230,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "コードギアス 反逆のルルーシュR2",
+          "name_cn": "Code Geass 反叛的鲁路修R2",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 8
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/8c/793_3y432.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/8c/793_3y432.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/da/8c/793_3y432.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/8c/793_3y432.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/8c/793_3y432.jpg"
+          },
+          "name": "コードギアス 反逆のルルーシュ",
+          "name_cn": "Code Geass 反叛的鲁路修",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 793
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/6a/199229_cHlVV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/6a/199229_cHlVV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/02/6a/199229_cHlVV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/6a/199229_cHlVV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/6a/199229_cHlVV.jpg"
+          },
+          "name": "コードギアス 反逆のルルーシュ I 興道",
+          "name_cn": "Code Geass 反叛的鲁路修 I 兴道",
+          "relation": "前传",
+          "type": 2,
+          "id": 199229
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/c4/199231_FWw0Z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/c4/199231_FWw0Z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4d/c4/199231_FWw0Z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/c4/199231_FWw0Z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/c4/199231_FWw0Z.jpg"
+          },
+          "name": "コードギアス 反逆のルルーシュ III 皇道",
+          "name_cn": "Code Geass 反叛的鲁路修 III 皇道",
+          "relation": "续集",
+          "type": 2,
+          "id": 199231
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/c2/231198_ZRNzL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/c2/231198_ZRNzL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/c2/231198_ZRNzL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/c2/231198_ZRNzL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/c2/231198_ZRNzL.jpg"
+          },
+          "name": "屋上の真ん中　で君の心は青く香るまま",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 231198
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/d0/237174_Drfpb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/d0/237174_Drfpb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2a/d0/237174_Drfpb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/d0/237174_Drfpb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/d0/237174_Drfpb.jpg"
+          },
+          "name": "The Moon",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 237174
+        }
+      ]
+    }
   },
   {
-    "date": "2018-02-24",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/1e/218971_PC00Z.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/1e/218971_PC00Z.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/0e/1e/218971_PC00Z.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0e/1e/218971_PC00Z.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/0e/1e/218971_PC00Z.jpg"
-    },
-    "summary": "经为流逝的日月。纬为人们的生业。\r\n住在远离尘嚣的土地，一边将每天的事情编织成名为希比欧的布，一边静静生活的伊欧夫人民。在15岁左右外表就停止成长，拥有数百年寿命的他们，被称为“离别的一族”，并被视为活着的传说。没有双亲的伊欧夫少女玛奇亚，过着被伙伴包围的平稳日子，却总感觉“孤身一人”。他们的这种日常，一瞬间就崩溃消失。追求伊欧夫的长寿之血，梅萨蒂军乘坐着名为雷纳特的古代兽发动了进攻。在绝望与混乱之中，伊欧夫的第一美女蕾莉亚被梅萨蒂带走，而玛奇亚暗恋的少年克里姆也失踪了。玛奇亚虽然总算逃脱了，却失去了伙伴和归去之地……。\r\n玛奇亚怀着空虚的心灵在黑暗的森林中徘徊。如同被召唤一般，她在那里遇到了刚刚失去双亲的“孤身一人”的婴儿。逐渐成长为少年的艾瑞尔。即使时间流逝也仍然保持少女样貌的玛奇亚。在同样的季节中，经过着不同的时间。在变化的时代当中，两人的牵绊逐渐变化着色调——。\r\n两名孤身一人之人的相遇，编织出无可替代的时间的故事。",
-    "name": "さよならの朝に約束の花をかざろう",
-    "name_cn": "朝花夕誓——于离别之朝束起约定之花",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 1866
+    "title": "さよならの朝に約束の花をかざろう",
+    "bangumi": {
+      "date": "2018-02-24",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/1e/218971_PC00Z.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/1e/218971_PC00Z.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0e/1e/218971_PC00Z.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0e/1e/218971_PC00Z.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0e/1e/218971_PC00Z.jpg"
       },
-      {
-        "name": "P.A.WORKS",
-        "count": 1796
+      "summary": "经为流逝的日月。纬为人们的生业。\r\n住在远离尘嚣的土地，一边将每天的事情编织成名为希比欧的布，一边静静生活的伊欧夫人民。在15岁左右外表就停止成长，拥有数百年寿命的他们，被称为“离别的一族”，并被视为活着的传说。没有双亲的伊欧夫少女玛奇亚，过着被伙伴包围的平稳日子，却总感觉“孤身一人”。他们的这种日常，一瞬间就崩溃消失。追求伊欧夫的长寿之血，梅萨蒂军乘坐着名为雷纳特的古代兽发动了进攻。在绝望与混乱之中，伊欧夫的第一美女蕾莉亚被梅萨蒂带走，而玛奇亚暗恋的少年克里姆也失踪了。玛奇亚虽然总算逃脱了，却失去了伙伴和归去之地……。\r\n玛奇亚怀着空虚的心灵在黑暗的森林中徘徊。如同被召唤一般，她在那里遇到了刚刚失去双亲的“孤身一人”的婴儿。逐渐成长为少年的艾瑞尔。即使时间流逝也仍然保持少女样貌的玛奇亚。在同样的季节中，经过着不同的时间。在变化的时代当中，两人的牵绊逐渐变化着色调——。\r\n两名孤身一人之人的相遇，编织出无可替代的时间的故事。",
+      "name": "さよならの朝に約束の花をかざろう",
+      "name_cn": "朝花夕誓——于离别之朝束起约定之花",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 1866
+        },
+        {
+          "name": "P.A.WORKS",
+          "count": 1796
+        },
+        {
+          "name": "岡田麿里",
+          "count": 1251
+        },
+        {
+          "name": "原创",
+          "count": 1008
+        },
+        {
+          "name": "2018",
+          "count": 727
+        },
+        {
+          "name": "亲情",
+          "count": 613
+        },
+        {
+          "name": "奇幻",
+          "count": 487
+        },
+        {
+          "name": "治愈",
+          "count": 486
+        },
+        {
+          "name": "动画电影",
+          "count": 415
+        },
+        {
+          "name": "川井憲次",
+          "count": 357
+        },
+        {
+          "name": "催泪",
+          "count": 343
+        },
+        {
+          "name": "冈田麿里",
+          "count": 244
+        },
+        {
+          "name": "2018年2月",
+          "count": 195
+        },
+        {
+          "name": "東地和生",
+          "count": 69
+        },
+        {
+          "name": "2018年",
+          "count": 57
+        },
+        {
+          "name": "川井宪次",
+          "count": 28
+        },
+        {
+          "name": "冈田磨里",
+          "count": 27
+        },
+        {
+          "name": "篠原俊哉",
+          "count": 27
+        },
+        {
+          "name": "原创动画",
+          "count": 26
+        },
+        {
+          "name": "井上俊之",
+          "count": 26
+        },
+        {
+          "name": "电影",
+          "count": 20
+        },
+        {
+          "name": "映画",
+          "count": 20
+        },
+        {
+          "name": "母爱",
+          "count": 19
+        },
+        {
+          "name": "石井百合子",
+          "count": 16
+        },
+        {
+          "name": "日本",
+          "count": 16
+        },
+        {
+          "name": "入野自由",
+          "count": 11
+        },
+        {
+          "name": "朝花夕誓",
+          "count": 11
+        },
+        {
+          "name": "茅野爱衣",
+          "count": 10
+        },
+        {
+          "name": "2018年1月",
+          "count": 9
+        },
+        {
+          "name": "寿命论",
+          "count": 9
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "朝花夕誓——于离别之朝束起约定之花"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "k": "罗马名",
+              "v": "Sayonara no Asa ni Yakusoku no Hana o Kazarou"
+            },
+            {
+              "k": "其他2",
+              "v": "朝花夕誓 让誓约的花儿点缀起别离的晨曦"
+            },
+            {
+              "k": "中國臺灣",
+              "v": "道別的早晨就用約定之花點綴吧"
+            },
+            {
+              "k": "英语",
+              "v": "MAQUIA: When the Promised Flower Blooms"
+            },
+            {
+              "k": "其他1",
+              "v": "朝花夕誓--于离别之朝竖起约定之花"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2018年2月24日"
+        },
+        {
+          "key": "片长",
+          "value": "115分"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://sayoasa.jp/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©PROJECT MAQUIA"
+        },
+        {
+          "key": "配给",
+          "value": "ショウゲート"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "製作",
+          "value": "PROJECT MAQUIA"
+        },
+        {
+          "key": "原作",
+          "value": "Iorph"
+        },
+        {
+          "key": "人物原案",
+          "value": "吉田明彦 (CyDesignation)"
+        },
+        {
+          "key": "人物设定",
+          "value": "キャラクターデザイン：石井百合子‖サブキャラクターデザイン：井上俊之、平松禎史"
+        },
+        {
+          "key": "总作画监督",
+          "value": "石井百合子"
+        },
+        {
+          "key": "副导演",
+          "value": "副監督：篠原俊哉"
+        },
+        {
+          "key": "美术监督",
+          "value": "東地和生"
+        },
+        {
+          "key": "概念设计",
+          "value": "コンセプトデザイン：岡田有章"
+        },
+        {
+          "key": "美术设计",
+          "value": "美術設定：岡田有章"
+        },
+        {
+          "key": "色彩设计",
+          "value": "井上佳津枝"
+        },
+        {
+          "key": "主动画师",
+          "value": "メインアニメーター：井上俊之"
+        },
+        {
+          "key": "系列监督",
+          "value": "コア･ディレクター（Core Director）： 平松禎史"
+        },
+        {
+          "key": "VFXスーパーバイザー",
+          "value": "加藤道哉"
+        },
+        {
+          "key": "CG監督",
+          "value": "設楽友久"
+        },
+        {
+          "key": "摄影监督",
+          "value": "並木智"
+        },
+        {
+          "key": "剪辑",
+          "value": "高橋歩"
+        },
+        {
+          "key": "音乐",
+          "value": "川井憲次"
+        },
+        {
+          "key": "音响监督",
+          "value": "若林和弘"
+        },
+        {
+          "key": "音乐制作",
+          "value": "Lantis"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "吉江輝成"
+        },
+        {
+          "key": "制片人",
+          "value": "遠藤直子、京谷知美、竹中信広、菊池宣広"
+        },
+        {
+          "key": "动画制作",
+          "value": "P.A.WORKS"
+        },
+        {
+          "key": "动画制片人",
+          "value": "堀川憲司"
+        },
+        {
+          "key": "导演",
+          "value": "岡田麿里"
+        },
+        {
+          "key": "脚本",
+          "value": "岡田麿里"
+        },
+        {
+          "key": "分镜",
+          "value": "篠原俊哉、平松禎史、安藤真裕、小林寛、塩谷直義、橘正紀、岡田麿里"
+        },
+        {
+          "key": "演出",
+          "value": "篠原俊哉、平松禎史、長井龍雪、許琮、橋本昌和"
+        },
+        {
+          "key": "道具设计",
+          "value": "石本剛啓"
+        },
+        {
+          "key": "サブ衣装デザイン",
+          "value": "竹下美紀"
+        },
+        {
+          "key": "タイトルロゴデザイン",
+          "value": "黒木香、新井隼也"
+        }
+      ],
+      "rating": {
+        "rank": 933,
+        "total": 5897,
+        "count": {
+          "1": 22,
+          "2": 18,
+          "3": 36,
+          "4": 70,
+          "5": 197,
+          "6": 653,
+          "7": 1695,
+          "8": 2223,
+          "9": 719,
+          "10": 264
+        },
+        "score": 7.5
       },
-      {
-        "name": "岡田麿里",
-        "count": 1251
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 175,
+        "dropped": 58,
+        "wish": 1861,
+        "collect": 8504,
+        "doing": 147
       },
-      {
-        "name": "原创",
-        "count": 1008
-      },
-      {
-        "name": "2018",
-        "count": 727
-      },
-      {
-        "name": "亲情",
-        "count": 613
-      },
-      {
-        "name": "奇幻",
-        "count": 487
-      },
-      {
-        "name": "治愈",
-        "count": 486
-      },
-      {
-        "name": "动画电影",
-        "count": 414
-      },
-      {
-        "name": "川井憲次",
-        "count": 357
-      },
-      {
-        "name": "催泪",
-        "count": 343
-      },
-      {
-        "name": "冈田麿里",
-        "count": 244
-      },
-      {
-        "name": "2018年2月",
-        "count": 195
-      },
-      {
-        "name": "東地和生",
-        "count": 69
-      },
-      {
-        "name": "2018年",
-        "count": 57
-      },
-      {
-        "name": "川井宪次",
-        "count": 28
-      },
-      {
-        "name": "冈田磨里",
-        "count": 27
-      },
-      {
-        "name": "篠原俊哉",
-        "count": 27
-      },
-      {
-        "name": "原创动画",
-        "count": 26
-      },
-      {
-        "name": "井上俊之",
-        "count": 26
-      },
-      {
-        "name": "电影",
-        "count": 20
-      },
-      {
-        "name": "映画",
-        "count": 20
-      },
-      {
-        "name": "母爱",
-        "count": 19
-      },
-      {
-        "name": "石井百合子",
-        "count": 16
-      },
-      {
-        "name": "日本",
-        "count": 16
-      },
-      {
-        "name": "入野自由",
-        "count": 11
-      },
-      {
-        "name": "朝花夕誓",
-        "count": 11
-      },
-      {
-        "name": "茅野爱衣",
-        "count": 10
-      },
-      {
-        "name": "2018年1月",
-        "count": 9
-      },
-      {
-        "name": "寿命论",
-        "count": 9
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "朝花夕誓——于离别之朝束起约定之花"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "k": "罗马名",
-            "v": "Sayonara no Asa ni Yakusoku no Hana o Kazarou"
+      "id": 218971,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/32/232387_5YpH5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/32/232387_5YpH5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f2/32/232387_5YpH5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/32/232387_5YpH5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/32/232387_5YpH5.jpg"
           },
-          {
-            "k": "其他2",
-            "v": "朝花夕誓 让誓约的花儿点缀起别离的晨曦"
+          "name": "映画『さよならの朝に約束の花をかざろう』オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 232387
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/8f/238729_yJmyd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/8f/238729_yJmyd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/52/8f/238729_yJmyd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/8f/238729_yJmyd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/8f/238729_yJmyd.jpg"
           },
-          {
-            "k": "中國臺灣",
-            "v": "道別的早晨就用約定之花點綴吧"
+          "name": "さよならの朝に約束の花をかざろう 公式美術画集",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 238729
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b6/eb/238731_1fsMo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b6/eb/238731_1fsMo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b6/eb/238731_1fsMo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b6/eb/238731_1fsMo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b6/eb/238731_1fsMo.jpg"
           },
-          {
-            "k": "英语",
-            "v": "MAQUIA: When the Promised Flower Blooms"
+          "name": "さよならの朝に約束の花をかざろう 公式設定資料集",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 238731
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/d6/243914_NX1QU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/d6/243914_NX1QU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/d6/243914_NX1QU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/d6/243914_NX1QU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/d6/243914_NX1QU.jpg"
           },
-          {
-            "k": "其他1",
-            "v": "朝花夕誓--于离别之朝竖起约定之花"
-          }
-        ]
-      },
-      {
-        "key": "上映年度",
-        "value": "2018年2月24日"
-      },
-      {
-        "key": "片长",
-        "value": "115分"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://sayoasa.jp/"
-      },
-      {
-        "key": "Copyright",
-        "value": "©PROJECT MAQUIA"
-      },
-      {
-        "key": "配给",
-        "value": "ショウゲート"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "製作",
-        "value": "PROJECT MAQUIA"
-      },
-      {
-        "key": "原作",
-        "value": "Iorph"
-      },
-      {
-        "key": "人物原案",
-        "value": "吉田明彦 (CyDesignation)"
-      },
-      {
-        "key": "人物设定",
-        "value": "キャラクターデザイン：石井百合子‖サブキャラクターデザイン：井上俊之、平松禎史"
-      },
-      {
-        "key": "总作画监督",
-        "value": "石井百合子"
-      },
-      {
-        "key": "副导演",
-        "value": "副監督：篠原俊哉"
-      },
-      {
-        "key": "美术监督",
-        "value": "東地和生"
-      },
-      {
-        "key": "概念设计",
-        "value": "コンセプトデザイン：岡田有章"
-      },
-      {
-        "key": "美术设计",
-        "value": "美術設定：岡田有章"
-      },
-      {
-        "key": "色彩设计",
-        "value": "井上佳津枝"
-      },
-      {
-        "key": "主动画师",
-        "value": "メインアニメーター：井上俊之"
-      },
-      {
-        "key": "系列监督",
-        "value": "コア･ディレクター（Core Director）： 平松禎史"
-      },
-      {
-        "key": "VFXスーパーバイザー",
-        "value": "加藤道哉"
-      },
-      {
-        "key": "CG監督",
-        "value": "設楽友久"
-      },
-      {
-        "key": "摄影监督",
-        "value": "並木智"
-      },
-      {
-        "key": "剪辑",
-        "value": "高橋歩"
-      },
-      {
-        "key": "音乐",
-        "value": "川井憲次"
-      },
-      {
-        "key": "音响监督",
-        "value": "若林和弘"
-      },
-      {
-        "key": "音乐制作",
-        "value": "Lantis"
-      },
-      {
-        "key": "音乐制作人",
-        "value": "吉江輝成"
-      },
-      {
-        "key": "制片人",
-        "value": "遠藤直子、京谷知美、竹中信広、菊池宣広"
-      },
-      {
-        "key": "动画制作",
-        "value": "P.A.WORKS"
-      },
-      {
-        "key": "动画制片人",
-        "value": "堀川憲司"
-      },
-      {
-        "key": "导演",
-        "value": "岡田麿里"
-      },
-      {
-        "key": "脚本",
-        "value": "岡田麿里"
-      },
-      {
-        "key": "分镜",
-        "value": "篠原俊哉、平松禎史、安藤真裕、小林寛、塩谷直義、橘正紀、岡田麿里"
-      },
-      {
-        "key": "演出",
-        "value": "篠原俊哉、平松禎史、長井龍雪、許琮、橋本昌和"
-      },
-      {
-        "key": "道具设计",
-        "value": "石本剛啓"
-      },
-      {
-        "key": "サブ衣装デザイン",
-        "value": "竹下美紀"
-      },
-      {
-        "key": "タイトルロゴデザイン",
-        "value": "黒木香、新井隼也"
-      }
-    ],
-    "rating": {
-      "rank": 932,
-      "total": 5896,
-      "count": {
-        "1": 22,
-        "2": 18,
-        "3": 36,
-        "4": 70,
-        "5": 197,
-        "6": 653,
-        "7": 1695,
-        "8": 2222,
-        "9": 718,
-        "10": 265
-      },
-      "score": 7.5
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 174,
-      "dropped": 57,
-      "wish": 1861,
-      "collect": 8498,
-      "doing": 147
-    },
-    "id": 218971,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "さよならの朝に約束の花をかざろう",
+          "name_cn": "于离别之朝束起约定之花",
+          "relation": "书籍",
+          "type": 1,
+          "id": 243914
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/0a/330878_pG13a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/0a/330878_pG13a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/57/0a/330878_pG13a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/0a/330878_pG13a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/0a/330878_pG13a.jpg"
+          },
+          "name": "P.A.WORKS 20th Anniversary Theme Song Collection",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 330878
+        }
+      ]
+    }
   }
 ]

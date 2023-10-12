@@ -1,577 +1,858 @@
 [
   {
-    "date": "1980-10-01",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/a4/28287_ih7je.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/a4/28287_ih7je.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/4e/a4/28287_ih7je.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/a4/28287_ih7je.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/a4/28287_ih7je.jpg"
-    },
-    "summary": "《铁臂阿童木》是日本漫画界一代宗師手塚治虫的首部長篇连载作品。故事講述少年仿生人阿童木在未來21世紀裏為了人類的福祉而活躍。日本電視網在1980年重新繪製了同劇彩色版，共52集。1980年代中臺灣、香港均有播放了此版本《小戰士》。同年12月中國中央電視台引進黑白版播放，成為最早引進中國大陸的日本動畫作品之一，播出後廣受歡迎。",
-    "name": "鉄腕アトム",
-    "name_cn": "铁臂阿童木",
-    "tags": [
-      {
-        "name": "童年",
-        "count": 129
+    "title": "鉄腕アトム",
+    "bangumi": {
+      "date": "1980-10-01",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/a4/28287_ih7je.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/a4/28287_ih7je.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/4e/a4/28287_ih7je.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/a4/28287_ih7je.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/a4/28287_ih7je.jpg"
       },
-      {
-        "name": "TV",
-        "count": 86
+      "summary": "《铁臂阿童木》是日本漫画界一代宗師手塚治虫的首部長篇连载作品。故事講述少年仿生人阿童木在未來21世紀裏為了人類的福祉而活躍。日本電視網在1980年重新繪製了同劇彩色版，共52集。1980年代中臺灣、香港均有播放了此版本《小戰士》。同年12月中國中央電視台引進黑白版播放，成為最早引進中國大陸的日本動畫作品之一，播出後廣受歡迎。",
+      "name": "鉄腕アトム",
+      "name_cn": "铁臂阿童木",
+      "tags": [
+        {
+          "name": "童年",
+          "count": 130
+        },
+        {
+          "name": "TV",
+          "count": 87
+        },
+        {
+          "name": "手冢治虫",
+          "count": 74
+        },
+        {
+          "name": "1980",
+          "count": 52
+        },
+        {
+          "name": "没看全",
+          "count": 38
+        },
+        {
+          "name": "经典",
+          "count": 37
+        },
+        {
+          "name": "萝卜",
+          "count": 19
+        },
+        {
+          "name": "手塚PRODUCTION",
+          "count": 19
+        },
+        {
+          "name": "补旧番",
+          "count": 17
+        },
+        {
+          "name": "机器人",
+          "count": 14
+        },
+        {
+          "name": "漫画改",
+          "count": 13
+        },
+        {
+          "name": "科幻",
+          "count": 13
+        },
+        {
+          "name": "漫改",
+          "count": 11
+        },
+        {
+          "name": "手塚治虫",
+          "count": 7
+        },
+        {
+          "name": "日本",
+          "count": 7
+        },
+        {
+          "name": "1980年",
+          "count": 4
+        },
+        {
+          "name": "铁臂阿童木",
+          "count": 4
+        },
+        {
+          "name": "动画",
+          "count": 3
+        },
+        {
+          "name": "undefined",
+          "count": 3
+        },
+        {
+          "name": "童年系",
+          "count": 3
+        },
+        {
+          "name": "石黑升",
+          "count": 2
+        },
+        {
+          "name": "童年系列",
+          "count": 2
+        },
+        {
+          "name": "80年代",
+          "count": 2
+        },
+        {
+          "name": "年番",
+          "count": 2
+        },
+        {
+          "name": "日本动画",
+          "count": 2
+        },
+        {
+          "name": "奇幻",
+          "count": 2
+        },
+        {
+          "name": "战斗",
+          "count": 2
+        },
+        {
+          "name": "1970.80",
+          "count": 1
+        },
+        {
+          "name": "原子小金刚",
+          "count": 1
+        },
+        {
+          "name": "80s",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "铁臂阿童木"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "鉄腕アトム (1980)"
+            },
+            {
+              "v": "小戰士"
+            },
+            {
+              "v": "Astro Boy (1980)"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "52"
+        },
+        {
+          "key": "放送开始",
+          "value": "1980年10月1日"
+        },
+        {
+          "key": "播放结束",
+          "value": "1981年12月23日"
+        }
+      ],
+      "rating": {
+        "rank": 1406,
+        "total": 374,
+        "count": {
+          "1": 0,
+          "2": 1,
+          "3": 1,
+          "4": 1,
+          "5": 8,
+          "6": 54,
+          "7": 158,
+          "8": 115,
+          "9": 21,
+          "10": 15
+        },
+        "score": 7.3
       },
-      {
-        "name": "手冢治虫",
-        "count": 73
+      "total_episodes": 52,
+      "collection": {
+        "on_hold": 48,
+        "dropped": 31,
+        "wish": 75,
+        "collect": 714,
+        "doing": 19
       },
-      {
-        "name": "1980",
-        "count": 51
-      },
-      {
-        "name": "没看全",
-        "count": 37
-      },
-      {
-        "name": "经典",
-        "count": 36
-      },
-      {
-        "name": "手塚PRODUCTION",
-        "count": 19
-      },
-      {
-        "name": "萝卜",
-        "count": 18
-      },
-      {
-        "name": "补旧番",
-        "count": 16
-      },
-      {
-        "name": "机器人",
-        "count": 13
-      },
-      {
-        "name": "漫画改",
-        "count": 13
-      },
-      {
-        "name": "科幻",
-        "count": 13
-      },
-      {
-        "name": "漫改",
-        "count": 11
-      },
-      {
-        "name": "手塚治虫",
-        "count": 7
-      },
-      {
-        "name": "日本",
-        "count": 7
-      },
-      {
-        "name": "1980年",
-        "count": 4
-      },
-      {
-        "name": "铁臂阿童木",
-        "count": 4
-      },
-      {
-        "name": "动画",
-        "count": 3
-      },
-      {
-        "name": "undefined",
-        "count": 3
-      },
-      {
-        "name": "童年系",
-        "count": 3
-      },
-      {
-        "name": "石黑升",
-        "count": 2
-      },
-      {
-        "name": "童年系列",
-        "count": 2
-      },
-      {
-        "name": "80年代",
-        "count": 2
-      },
-      {
-        "name": "年番",
-        "count": 2
-      },
-      {
-        "name": "日本动画",
-        "count": 2
-      },
-      {
-        "name": "奇幻",
-        "count": 2
-      },
-      {
-        "name": "战斗",
-        "count": 2
-      },
-      {
-        "name": "1970.80",
-        "count": 1
-      },
-      {
-        "name": "原子小金刚",
-        "count": 1
-      },
-      {
-        "name": "80s",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "铁臂阿童木"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "鉄腕アトム (1980)"
+      "id": 28287,
+      "eps": 52,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/80/806_30VAB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/80/806_30VAB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d5/80/806_30VAB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/80/806_30VAB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/80/806_30VAB.jpg"
           },
-          {
-            "v": "小戰士"
+          "name": "鉄腕アトム",
+          "name_cn": "铁臂阿童木",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 806
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/c3/3151_F90q0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/c3/3151_F90q0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/98/c3/3151_F90q0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/c3/3151_F90q0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/c3/3151_F90q0.jpg"
           },
-          {
-            "v": "Astro Boy (1980)"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "52"
-      },
-      {
-        "key": "放送开始",
-        "value": "1980年10月1日"
-      },
-      {
-        "key": "播放结束",
-        "value": "1981年12月23日"
-      }
-    ],
-    "rating": {
-      "rank": 1420,
-      "total": 373,
-      "count": {
-        "1": 0,
-        "2": 1,
-        "3": 1,
-        "4": 1,
-        "5": 8,
-        "6": 54,
-        "7": 157,
-        "8": 115,
-        "9": 21,
-        "10": 15
-      },
-      "score": 7.3
-    },
-    "total_episodes": 52,
-    "collection": {
-      "on_hold": 48,
-      "dropped": 31,
-      "wish": 75,
-      "collect": 712,
-      "doing": 19
-    },
-    "id": 28287,
-    "eps": 52,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "Astro Boy",
+          "name_cn": "阿童木",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 3151
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/ad/28288_7Fv28.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/ad/28288_7Fv28.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/ad/28288_7Fv28.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/ad/28288_7Fv28.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/ad/28288_7Fv28.jpg"
+          },
+          "name": "ASTRO BOY 鉄腕アトム",
+          "name_cn": "铁臂阿童木",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 28288
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/35/44146_3i4ok.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/35/44146_3i4ok.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/35/44146_3i4ok.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/35/44146_3i4ok.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/35/44146_3i4ok.jpg"
+          },
+          "name": "鉄腕アトム",
+          "name_cn": "铁臂阿童木",
+          "relation": "书籍",
+          "type": 1,
+          "id": 44146
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/6a/217021_JJ9Hu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/6a/217021_JJ9Hu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/6a/217021_JJ9Hu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/6a/217021_JJ9Hu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/6a/217021_JJ9Hu.jpg"
+          },
+          "name": "PLUTO",
+          "name_cn": "冥王",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 217021
+        },
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
+          },
+          "name": "鉄腕アトム 新作TVアニメ",
+          "name_cn": "铁臂阿童木 新作",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 226541
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/12/421833_W3388.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/12/421833_W3388.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/48/12/421833_W3388.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/48/12/421833_W3388.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/12/421833_W3388.jpg"
+          },
+          "name": "鉄腕アトム / 新撰組",
+          "name_cn": "铁臂阿童木 / 新选组",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 421833
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/1c/425942_JVFGc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/1c/425942_JVFGc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/88/1c/425942_JVFGc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/1c/425942_JVFGc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/1c/425942_JVFGc.jpg"
+          },
+          "name": "鉄腕アトム〜地球最後の日〜",
+          "name_cn": "铁臂阿童木 地球最后一日",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 425942
+        }
+      ]
+    }
   },
   {
-    "date": "1980-10-03",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/1d/37259_goNl0.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/1d/37259_goNl0.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/4f/1d/37259_goNl0.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/1d/37259_goNl0.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/1d/37259_goNl0.jpg"
-    },
-    "summary": "横山光輝原作の漫画『鉄人28号』のTVアニメ化作品第2作目。設定・ストーリーとも、原作漫画から大幅な改定が行われ、敷島博士の家族が登場し、娘の牧子が正太郎のガールフレンドであるなど、新たな設定になっている。鉄人28号のデザインは当時ポピー所属のデザイナーであった村上克司が担当し、原作漫画に比べてスマートな体型になっている。\r\n\r\n今は亡き父・金田博士の遺産「鉄人28号」を受け継いだ金田正太郎は、ブランチら悪人から世界の平和を守るため戦う。",
-    "name": "太陽の使者 鉄人28号",
-    "name_cn": "太阳的使者 铁人28号",
-    "tags": [
-      {
-        "name": "1980",
-        "count": 4
+    "title": "太陽の使者 鉄人28号",
+    "bangumi": {
+      "date": "1980-10-03",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/1d/37259_goNl0.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/1d/37259_goNl0.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/4f/1d/37259_goNl0.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/1d/37259_goNl0.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/1d/37259_goNl0.jpg"
       },
-      {
-        "name": "日本动画",
-        "count": 3
+      "summary": "横山光輝原作の漫画『鉄人28号』のTVアニメ化作品第2作目。設定・ストーリーとも、原作漫画から大幅な改定が行われ、敷島博士の家族が登場し、娘の牧子が正太郎のガールフレンドであるなど、新たな設定になっている。鉄人28号のデザインは当時ポピー所属のデザイナーであった村上克司が担当し、原作漫画に比べてスマートな体型になっている。\r\n\r\n今は亡き父・金田博士の遺産「鉄人28号」を受け継いだ金田正太郎は、ブランチら悪人から世界の平和を守るため戦う。",
+      "name": "太陽の使者 鉄人28号",
+      "name_cn": "太阳的使者 铁人28号",
+      "tags": [
+        {
+          "name": "1980",
+          "count": 4
+        },
+        {
+          "name": "日本动画",
+          "count": 3
+        },
+        {
+          "name": "TV",
+          "count": 2
+        },
+        {
+          "name": "金田正太郎",
+          "count": 2
+        },
+        {
+          "name": "横山光輝",
+          "count": 1
+        },
+        {
+          "name": "太阳的使者－铁人28号",
+          "count": 1
+        },
+        {
+          "name": "山田栄子",
+          "count": 1
+        },
+        {
+          "name": "铁人28号",
+          "count": 1
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1
+        },
+        {
+          "name": "藤川桂介",
+          "count": 1
+        },
+        {
+          "name": "富山耕生",
+          "count": 1
+        },
+        {
+          "name": "80s",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "机甲",
+          "count": 1
+        },
+        {
+          "name": "东京movie",
+          "count": 1
+        },
+        {
+          "name": "今沢哲男",
+          "count": 1
+        },
+        {
+          "name": "萝卜",
+          "count": 1
+        },
+        {
+          "name": "1980年",
+          "count": 1
+        },
+        {
+          "name": "robo",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "太阳的使者 铁人28号"
+        },
+        {
+          "key": "话数",
+          "value": "51"
+        },
+        {
+          "key": "放送开始",
+          "value": "1980年10月3日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "日本テレビ系"
+        },
+        {
+          "key": "播放结束",
+          "value": "1981年9月25日"
+        },
+        {
+          "key": "原作",
+          "value": "横山光輝"
+        },
+        {
+          "key": "監督",
+          "value": "今沢哲男"
+        },
+        {
+          "key": "脚本",
+          "value": "藤川桂介、城山昇、荒木芳久、"
+        },
+        {
+          "key": "メカニックデザイン",
+          "value": "前田実"
+        },
+        {
+          "key": "製作",
+          "value": "東京ムービー新社・日本テレビ"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 7,
+        "count": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 2,
+          "7": 3,
+          "8": 1,
+          "9": 0,
+          "10": 0
+        },
+        "score": 6
       },
-      {
-        "name": "TV",
-        "count": 2
+      "total_episodes": 50,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 9,
+        "wish": 28,
+        "collect": 14,
+        "doing": 1
       },
-      {
-        "name": "金田正太郎",
-        "count": 2
-      },
-      {
-        "name": "横山光輝",
-        "count": 1
-      },
-      {
-        "name": "太阳的使者－铁人28号",
-        "count": 1
-      },
-      {
-        "name": "山田栄子",
-        "count": 1
-      },
-      {
-        "name": "铁人28号",
-        "count": 1
-      },
-      {
-        "name": "赛璐珞",
-        "count": 1
-      },
-      {
-        "name": "藤川桂介",
-        "count": 1
-      },
-      {
-        "name": "富山耕生",
-        "count": 1
-      },
-      {
-        "name": "80s",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "机甲",
-        "count": 1
-      },
-      {
-        "name": "东京movie",
-        "count": 1
-      },
-      {
-        "name": "今沢哲男",
-        "count": 1
-      },
-      {
-        "name": "萝卜",
-        "count": 1
-      },
-      {
-        "name": "1980年",
-        "count": 1
-      },
-      {
-        "name": "robo",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "太阳的使者 铁人28号"
-      },
-      {
-        "key": "话数",
-        "value": "51"
-      },
-      {
-        "key": "放送开始",
-        "value": "1980年10月3日"
-      },
-      {
-        "key": "播放电视台",
-        "value": "日本テレビ系"
-      },
-      {
-        "key": "播放结束",
-        "value": "1981年9月25日"
-      },
-      {
-        "key": "原作",
-        "value": "横山光輝"
-      },
-      {
-        "key": "監督",
-        "value": "今沢哲男"
-      },
-      {
-        "key": "脚本",
-        "value": "藤川桂介、城山昇、荒木芳久、"
-      },
-      {
-        "key": "メカニックデザイン",
-        "value": "前田実"
-      },
-      {
-        "key": "製作",
-        "value": "東京ムービー新社・日本テレビ"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 7,
-      "count": {
-        "1": 1,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 2,
-        "7": 3,
-        "8": 1,
-        "9": 0,
-        "10": 0
-      },
-      "score": 6
-    },
-    "total_episodes": 50,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 9,
-      "wish": 28,
-      "collect": 14,
-      "doing": 1
-    },
-    "id": 37259,
-    "eps": 51,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 37259,
+      "eps": 51,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/db/33389_WqDLu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/db/33389_WqDLu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/53/db/33389_WqDLu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/db/33389_WqDLu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/db/33389_WqDLu.jpg"
+          },
+          "name": "第2次スーパーロボット大戦Z 再世篇",
+          "name_cn": "第2次超级机器人大战Z 再世篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 33389
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/78/37258_V45VC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/78/37258_V45VC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/78/37258_V45VC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/78/37258_V45VC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/78/37258_V45VC.jpg"
+          },
+          "name": "鉄人28号",
+          "name_cn": "铁人28号",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 37258
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/27/91493_WwOQj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/27/91493_WwOQj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/27/91493_WwOQj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/27/91493_WwOQj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/27/91493_WwOQj.jpg"
+          },
+          "name": "第3次スーパーロボット大戦Z 時獄篇",
+          "name_cn": "第3次超级机器人大战Z 时狱篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 91493
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/3c/102098_lGZgL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/3c/102098_lGZgL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/3c/102098_lGZgL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/3c/102098_lGZgL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/3c/102098_lGZgL.jpg"
+          },
+          "name": "第3次スーパーロボット大戦Z 天獄篇",
+          "name_cn": "第3次超级机器人大战Z 天狱篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 102098
+        }
+      ]
+    }
   },
   {
-    "date": "1980-10-13",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/34/67753_OYWBt.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/34/67753_OYWBt.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/e5/34/67753_OYWBt.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/34/67753_OYWBt.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/34/67753_OYWBt.jpg"
-    },
-    "summary": "前作の続編だが、下記の再編集劇場版の続きという位置付けのためストーリーは力石との対戦後から始まり、カーロス戦までは事実上のリメイクとなっている。ただし原作やアニメ前作にあった矢吹丈がドサ回りのボクサーになり、そこからはい上がるストーリーは省略されている。また原作にないオリジナルストーリーがふんだんに盛り込まれ、オリジナルキャラクター（須賀清など）も多数登場させている。原作が完結して何年もたってから整理しての制作なので、矛盾点もクリアされており、登場人物の心理表現も丁寧に描かれている。特に終盤のテレビ関東による世界バンタム級1位のレオン・スマイリーとのマッチメイクや、WBA王者カロルド・ゴメスとWBC王者ホセによる王座統一戦のくだりなどは、よりリアルにプロボクシングの世界を描きたいという意図[5]からの追加で、オリジナルの部分からは主に監督である出﨑統が「あしたのジョー」という作品世界をどう解釈しているか、がうかがえる。ほとんどの話数で絵コンテを担当しているさきまくらは出崎統の別名義である。なおサブタイトルには第4話と第33話を除く残りすべてに「…」が挿入されている。",
-    "name": "あしたのジョー2",
-    "name_cn": "明日之丈2",
-    "tags": [
-      {
-        "name": "TV",
-        "count": 114
+    "title": "あしたのジョー2",
+    "bangumi": {
+      "date": "1980-10-13",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/34/67753_OYWBt.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/34/67753_OYWBt.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/e5/34/67753_OYWBt.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/34/67753_OYWBt.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/34/67753_OYWBt.jpg"
       },
-      {
-        "name": "1980",
-        "count": 92
+      "summary": "前作の続編だが、下記の再編集劇場版の続きという位置付けのためストーリーは力石との対戦後から始まり、カーロス戦までは事実上のリメイクとなっている。ただし原作やアニメ前作にあった矢吹丈がドサ回りのボクサーになり、そこからはい上がるストーリーは省略されている。また原作にないオリジナルストーリーがふんだんに盛り込まれ、オリジナルキャラクター（須賀清など）も多数登場させている。原作が完結して何年もたってから整理しての制作なので、矛盾点もクリアされており、登場人物の心理表現も丁寧に描かれている。特に終盤のテレビ関東による世界バンタム級1位のレオン・スマイリーとのマッチメイクや、WBA王者カロルド・ゴメスとWBC王者ホセによる王座統一戦のくだりなどは、よりリアルにプロボクシングの世界を描きたいという意図[5]からの追加で、オリジナルの部分からは主に監督である出﨑統が「あしたのジョー」という作品世界をどう解釈しているか、がうかがえる。ほとんどの話数で絵コンテを担当しているさきまくらは出崎統の別名義である。なおサブタイトルには第4話と第33話を除く残りすべてに「…」が挿入されている。",
+      "name": "あしたのジョー2",
+      "name_cn": "明日之丈2",
+      "tags": [
+        {
+          "name": "TV",
+          "count": 114
+        },
+        {
+          "name": "1980",
+          "count": 92
+        },
+        {
+          "name": "明日之丈",
+          "count": 78
+        },
+        {
+          "name": "出崎统",
+          "count": 73
+        },
+        {
+          "name": "漫画改",
+          "count": 58
+        },
+        {
+          "name": "拳击",
+          "count": 56
+        },
+        {
+          "name": "TMS",
+          "count": 33
+        },
+        {
+          "name": "出﨑統",
+          "count": 24
+        },
+        {
+          "name": "漫改",
+          "count": 24
+        },
+        {
+          "name": "杉野昭夫",
+          "count": 20
+        },
+        {
+          "name": "运动",
+          "count": 16
+        },
+        {
+          "name": "体育",
+          "count": 15
+        },
+        {
+          "name": "东京movie",
+          "count": 10
+        },
+        {
+          "name": "日本动画",
+          "count": 9
+        },
+        {
+          "name": "1980年",
+          "count": 6
+        },
+        {
+          "name": "战斗",
+          "count": 4
+        },
+        {
+          "name": "竞技",
+          "count": 3
+        },
+        {
+          "name": "80s",
+          "count": 3
+        },
+        {
+          "name": "经典",
+          "count": 2
+        },
+        {
+          "name": "燃尽的神场景",
+          "count": 2
+        },
+        {
+          "name": "热血",
+          "count": 2
+        },
+        {
+          "name": "TMSEntertainment",
+          "count": 2
+        },
+        {
+          "name": "神作",
+          "count": 2
+        },
+        {
+          "name": "1980年10月",
+          "count": 2
+        },
+        {
+          "name": "TVA",
+          "count": 2
+        },
+        {
+          "name": "東京ムービー",
+          "count": 2
+        },
+        {
+          "name": "日本",
+          "count": 2
+        },
+        {
+          "name": "トムス・エンタテインメント",
+          "count": 2
+        },
+        {
+          "name": "伊東恒久",
+          "count": 1
+        },
+        {
+          "name": "あおい輝彦",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "明日之丈2"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Ashita no Joe 2"
+            },
+            {
+              "v": "Champion Joe 2"
+            },
+            {
+              "v": "疾风铁拳霸"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "47"
+        },
+        {
+          "key": "放送开始",
+          "value": "1980年10月13日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期一"
+        },
+        {
+          "key": "播放结束",
+          "value": "1981年8月31日"
+        },
+        {
+          "key": "脚本",
+          "value": "善福次郎(26、27話，出﨑統在分鏡階段大幅度修改腳本而造出的筆名)"
+        },
+        {
+          "key": "音乐",
+          "value": "鈴木清司(選曲)"
+        }
+      ],
+      "rating": {
+        "rank": 40,
+        "total": 306,
+        "count": {
+          "1": 6,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 5,
+          "6": 10,
+          "7": 21,
+          "8": 55,
+          "9": 93,
+          "10": 115
+        },
+        "score": 8.7
       },
-      {
-        "name": "明日之丈",
-        "count": 78
+      "total_episodes": 47,
+      "collection": {
+        "on_hold": 62,
+        "dropped": 36,
+        "wish": 479,
+        "collect": 464,
+        "doing": 67
       },
-      {
-        "name": "出崎统",
-        "count": 73
-      },
-      {
-        "name": "漫画改",
-        "count": 58
-      },
-      {
-        "name": "拳击",
-        "count": 56
-      },
-      {
-        "name": "TMS",
-        "count": 33
-      },
-      {
-        "name": "出﨑統",
-        "count": 24
-      },
-      {
-        "name": "漫改",
-        "count": 24
-      },
-      {
-        "name": "杉野昭夫",
-        "count": 20
-      },
-      {
-        "name": "运动",
-        "count": 16
-      },
-      {
-        "name": "体育",
-        "count": 15
-      },
-      {
-        "name": "东京movie",
-        "count": 10
-      },
-      {
-        "name": "日本动画",
-        "count": 9
-      },
-      {
-        "name": "1980年",
-        "count": 6
-      },
-      {
-        "name": "战斗",
-        "count": 4
-      },
-      {
-        "name": "竞技",
-        "count": 3
-      },
-      {
-        "name": "80s",
-        "count": 3
-      },
-      {
-        "name": "经典",
-        "count": 2
-      },
-      {
-        "name": "燃尽的神场景",
-        "count": 2
-      },
-      {
-        "name": "热血",
-        "count": 2
-      },
-      {
-        "name": "TMSEntertainment",
-        "count": 2
-      },
-      {
-        "name": "神作",
-        "count": 2
-      },
-      {
-        "name": "1980年10月",
-        "count": 2
-      },
-      {
-        "name": "TVA",
-        "count": 2
-      },
-      {
-        "name": "東京ムービー",
-        "count": 2
-      },
-      {
-        "name": "日本",
-        "count": 2
-      },
-      {
-        "name": "トムス・エンタテインメント",
-        "count": 2
-      },
-      {
-        "name": "伊東恒久",
-        "count": 1
-      },
-      {
-        "name": "あおい輝彦",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "明日之丈2"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Ashita no Joe 2"
+      "id": 67753,
+      "eps": 47,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/50/10404_xGV8a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/50/10404_xGV8a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0a/50/10404_xGV8a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/50/10404_xGV8a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/50/10404_xGV8a.jpg"
           },
-          {
-            "v": "Champion Joe 2"
+          "name": "あしたのジョー",
+          "name_cn": "明日之丈",
+          "relation": "前传",
+          "type": 2,
+          "id": 10404
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/54/48094_nYQxa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/54/48094_nYQxa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e5/54/48094_nYQxa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/54/48094_nYQxa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/54/48094_nYQxa.jpg"
           },
-          {
-            "v": "疾风铁拳霸"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "47"
-      },
-      {
-        "key": "放送开始",
-        "value": "1980年10月13日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期一"
-      },
-      {
-        "key": "播放结束",
-        "value": "1981年8月31日"
-      },
-      {
-        "key": "脚本",
-        "value": "善福次郎(26、27話，出﨑統在分鏡階段大幅度修改腳本而造出的筆名)"
-      },
-      {
-        "key": "音乐",
-        "value": "鈴木清司(選曲)"
-      }
-    ],
-    "rating": {
-      "rank": 40,
-      "total": 306,
-      "count": {
-        "1": 6,
-        "2": 0,
-        "3": 0,
-        "4": 1,
-        "5": 5,
-        "6": 10,
-        "7": 21,
-        "8": 55,
-        "9": 93,
-        "10": 115
-      },
-      "score": 8.7
-    },
-    "total_episodes": 47,
-    "collection": {
-      "on_hold": 63,
-      "dropped": 35,
-      "wish": 478,
-      "collect": 464,
-      "doing": 67
-    },
-    "id": 67753,
-    "eps": 47,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "あしたのジョー",
+          "name_cn": "明日之丈",
+          "relation": "书籍",
+          "type": 1,
+          "id": 48094
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/a7/67755_ZlhnK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/a7/67755_ZlhnK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/a7/67755_ZlhnK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/a7/67755_ZlhnK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/a7/67755_ZlhnK.jpg"
+          },
+          "name": "あしたのジョー2",
+          "name_cn": "剧场版 明日之丈2",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 67755
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/69/75500_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/69/75500_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/57/69/75500_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/69/75500_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/69/75500_jp.jpg"
+          },
+          "name": "PACHISLOT あしたのジョー2~Original Sound Track~",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 75500
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/00/6e/132921_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/00/6e/132921_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/00/6e/132921_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/00/6e/132921_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/00/6e/132921_jp.jpg"
+          },
+          "name": "あしたのジョー ソングファイル ( サウンド・トラック ) TKCA-72506-K",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 132921
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/c4/132922_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/c4/132922_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/c4/132922_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/c4/132922_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/c4/132922_jp.jpg"
+          },
+          "name": "あしたのジョー2 サントラ",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 132922
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/0b/294836_9szM2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/0b/294836_9szM2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/28/0b/294836_9szM2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/0b/294836_9szM2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/0b/294836_9szM2.jpg"
+          },
+          "name": "NOMAD メガロボクス2",
+          "name_cn": "NOMAD MEGALO BOX 2",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 294836
+        }
+      ]
+    }
   }
 ]

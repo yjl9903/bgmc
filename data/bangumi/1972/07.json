@@ -1,231 +1,390 @@
 [
   {
-    "date": "1972-07-08",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/2a/24146_1qa34.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/2a/24146_1qa34.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/71/2a/24146_1qa34.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/2a/24146_1qa34.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/2a/24146_1qa34.jpg"
-    },
-    "summary": "　　普通少年不动明，在偶然的情况下，卷入好友飞鸟了的父亲对恶魔的研究之中：飞鸟了的父亲发现太古时代曾君临过地球的恶魔一族至今仍存活着，而且被冰封在南极的冰壁之中，现在，它们已经复苏，准备再度与人类争夺地球。恶魔一族的力量主要在于，它们能与任何生物合体，然后进化；为了与恶魔对抗，保护人类，不动明毅然放弃普通正常人类的身份，吸引恶魔族的勇者阿蒙（Amon，所罗门72柱恶魔之一）与自己合体，从此就能变身成力量超强的恶魔人。终于，恶魔开始向人类发动总攻击，而在大魔王撒旦的计谋下，那种攻击的方式，竟然是……在这种极端攻势下全人类都开始变得疯狂起来，最后一直发展到敌视自己周围的人、敌视人类本身。所有的恶魔人，以及跟他们保持联系的人，全都受到犹如中世纪宗教裁判所一般的迫害和杀戮；不动明为了保护人类，自愿变成恶魔，而人类对他的回报，则是……。",
-    "name": "デビルマン",
-    "name_cn": "恶魔人",
-    "tags": [
-      {
-        "name": "TV",
-        "count": 37
+    "title": "デビルマン",
+    "bangumi": {
+      "date": "1972-07-08",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/2a/24146_1qa34.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/2a/24146_1qa34.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/71/2a/24146_1qa34.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/2a/24146_1qa34.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/2a/24146_1qa34.jpg"
       },
-      {
-        "name": "永井豪",
-        "count": 33
+      "summary": "　　普通少年不动明，在偶然的情况下，卷入好友飞鸟了的父亲对恶魔的研究之中：飞鸟了的父亲发现太古时代曾君临过地球的恶魔一族至今仍存活着，而且被冰封在南极的冰壁之中，现在，它们已经复苏，准备再度与人类争夺地球。恶魔一族的力量主要在于，它们能与任何生物合体，然后进化；为了与恶魔对抗，保护人类，不动明毅然放弃普通正常人类的身份，吸引恶魔族的勇者阿蒙（Amon，所罗门72柱恶魔之一）与自己合体，从此就能变身成力量超强的恶魔人。终于，恶魔开始向人类发动总攻击，而在大魔王撒旦的计谋下，那种攻击的方式，竟然是……在这种极端攻势下全人类都开始变得疯狂起来，最后一直发展到敌视自己周围的人、敌视人类本身。所有的恶魔人，以及跟他们保持联系的人，全都受到犹如中世纪宗教裁判所一般的迫害和杀戮；不动明为了保护人类，自愿变成恶魔，而人类对他的回报，则是……。",
+      "name": "デビルマン",
+      "name_cn": "恶魔人",
+      "tags": [
+        {
+          "name": "TV",
+          "count": 38
+        },
+        {
+          "name": "永井豪",
+          "count": 34
+        },
+        {
+          "name": "1972",
+          "count": 31
+        },
+        {
+          "name": "漫画改",
+          "count": 24
+        },
+        {
+          "name": "恶魔人",
+          "count": 21
+        },
+        {
+          "name": "东映",
+          "count": 14
+        },
+        {
+          "name": "漫改",
+          "count": 13
+        },
+        {
+          "name": "补旧番",
+          "count": 11
+        },
+        {
+          "name": "日番",
+          "count": 8
+        },
+        {
+          "name": "日本动画",
+          "count": 7
+        },
+        {
+          "name": "东映动画",
+          "count": 4
+        },
+        {
+          "name": "田中亮一",
+          "count": 3
+        },
+        {
+          "name": "动画",
+          "count": 3
+        },
+        {
+          "name": "不动明",
+          "count": 2
+        },
+        {
+          "name": "東映アニメーション",
+          "count": 2
+        },
+        {
+          "name": "日本",
+          "count": 2
+        },
+        {
+          "name": "奇幻",
+          "count": 2
+        },
+        {
+          "name": "动画（TV）",
+          "count": 1
+        },
+        {
+          "name": "1972年7月",
+          "count": 1
+        },
+        {
+          "name": "魔性",
+          "count": 1
+        },
+        {
+          "name": "表番",
+          "count": 1
+        },
+        {
+          "name": "1970s",
+          "count": 1
+        },
+        {
+          "name": "谁？",
+          "count": 1
+        },
+        {
+          "name": "滝口顺平",
+          "count": 1
+        },
+        {
+          "name": "s1",
+          "count": 1
+        },
+        {
+          "name": "无导演",
+          "count": 1
+        },
+        {
+          "name": "2006前",
+          "count": 1
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1
+        },
+        {
+          "name": "1970.80",
+          "count": 1
+        },
+        {
+          "name": "，不太敢看",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶魔人"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "DEVILMAN"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "39"
+        },
+        {
+          "key": "放送开始",
+          "value": "1972年7月8日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.toei-anim.co.jp/lineup/tv/devilman/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "NET系（現テレビ朝日）"
+        },
+        {
+          "key": "播放结束",
+          "value": "1973年3月31日"
+        },
+        {
+          "key": "原作",
+          "value": "永井豪"
+        },
+        {
+          "key": "企画",
+          "value": "有賀健、籏野義文"
+        },
+        {
+          "key": "OP・ED动画演出",
+          "value": "及部保雄"
+        },
+        {
+          "key": "OP・ED动画作画监督",
+          "value": "小松原一男"
+        },
+        {
+          "key": "OP・ED动画背景美术",
+          "value": "福本智雄"
+        },
+        {
+          "key": "制作",
+          "value": "NET、東映"
+        }
+      ],
+      "rating": {
+        "rank": 4791,
+        "total": 110,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 2,
+          "4": 5,
+          "5": 26,
+          "6": 37,
+          "7": 20,
+          "8": 15,
+          "9": 3,
+          "10": 2
+        },
+        "score": 6.2
       },
-      {
-        "name": "1972",
-        "count": 30
+      "total_episodes": 39,
+      "collection": {
+        "on_hold": 45,
+        "dropped": 30,
+        "wish": 183,
+        "collect": 172,
+        "doing": 20
       },
-      {
-        "name": "漫画改",
-        "count": 23
-      },
-      {
-        "name": "恶魔人",
-        "count": 20
-      },
-      {
-        "name": "东映",
-        "count": 13
-      },
-      {
-        "name": "漫改",
-        "count": 12
-      },
-      {
-        "name": "补旧番",
-        "count": 10
-      },
-      {
-        "name": "日番",
-        "count": 7
-      },
-      {
-        "name": "日本动画",
-        "count": 6
-      },
-      {
-        "name": "东映动画",
-        "count": 4
-      },
-      {
-        "name": "田中亮一",
-        "count": 3
-      },
-      {
-        "name": "动画",
-        "count": 3
-      },
-      {
-        "name": "不动明",
-        "count": 2
-      },
-      {
-        "name": "東映アニメーション",
-        "count": 2
-      },
-      {
-        "name": "日本",
-        "count": 2
-      },
-      {
-        "name": "奇幻",
-        "count": 2
-      },
-      {
-        "name": "动画（TV）",
-        "count": 1
-      },
-      {
-        "name": "1972年7月",
-        "count": 1
-      },
-      {
-        "name": "魔性",
-        "count": 1
-      },
-      {
-        "name": "表番",
-        "count": 1
-      },
-      {
-        "name": "1970s",
-        "count": 1
-      },
-      {
-        "name": "谁？",
-        "count": 1
-      },
-      {
-        "name": "滝口顺平",
-        "count": 1
-      },
-      {
-        "name": "s1",
-        "count": 1
-      },
-      {
-        "name": "无导演",
-        "count": 1
-      },
-      {
-        "name": "2006前",
-        "count": 1
-      },
-      {
-        "name": "赛璐珞",
-        "count": 1
-      },
-      {
-        "name": "1970.80",
-        "count": 1
-      },
-      {
-        "name": "，不太敢看",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "恶魔人"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "DEVILMAN"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "39"
-      },
-      {
-        "key": "放送开始",
-        "value": "1972年7月8日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期六"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.toei-anim.co.jp/lineup/tv/devilman/"
-      },
-      {
-        "key": "播放电视台",
-        "value": "NET系（現テレビ朝日）"
-      },
-      {
-        "key": "播放结束",
-        "value": "1973年3月31日"
-      },
-      {
-        "key": "原作",
-        "value": "永井豪"
-      },
-      {
-        "key": "企画",
-        "value": "有賀健、籏野義文"
-      },
-      {
-        "key": "OP・ED动画演出",
-        "value": "及部保雄"
-      },
-      {
-        "key": "OP・ED动画作画监督",
-        "value": "小松原一男"
-      },
-      {
-        "key": "OP・ED动画背景美术",
-        "value": "福本智雄"
-      },
-      {
-        "key": "制作",
-        "value": "NET、東映"
-      }
-    ],
-    "rating": {
-      "rank": 4759,
-      "total": 109,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 2,
-        "4": 5,
-        "5": 25,
-        "6": 37,
-        "7": 20,
-        "8": 15,
-        "9": 3,
-        "10": 2
-      },
-      "score": 6.2
-    },
-    "total_episodes": 39,
-    "collection": {
-      "on_hold": 45,
-      "dropped": 30,
-      "wish": 183,
-      "collect": 171,
-      "doing": 20
-    },
-    "id": 24146,
-    "eps": 39,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 24146,
+      "eps": 39,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/43/7d/7570_T6080.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/43/7d/7570_T6080.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/43/7d/7570_T6080.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/43/7d/7570_T6080.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/7d/7570_T6080.jpg"
+          },
+          "name": "デビルマンレディー",
+          "name_cn": "女恶魔人",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 7570
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/2b/22956_2BeE6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/2b/22956_2BeE6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/79/2b/22956_2BeE6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/2b/22956_2BeE6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/2b/22956_2BeE6.jpg"
+          },
+          "name": "AMON デビルマン黙示録",
+          "name_cn": "AMON 恶魔人默示录",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 22956
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/8a/24145_BgMhz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/8a/24145_BgMhz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/59/8a/24145_BgMhz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/8a/24145_BgMhz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/8a/24145_BgMhz.jpg"
+          },
+          "name": "デビルマン",
+          "name_cn": "恶魔人",
+          "relation": "书籍",
+          "type": 1,
+          "id": 24145
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/4f/24153_F7W8E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/4f/24153_F7W8E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e0/4f/24153_F7W8E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/4f/24153_F7W8E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/4f/24153_F7W8E.jpg"
+          },
+          "name": "デビルマン 誕生編",
+          "name_cn": "恶魔人 诞生篇",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 24153
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/eb/24154_0Dxmh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/eb/24154_0Dxmh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1e/eb/24154_0Dxmh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/eb/24154_0Dxmh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/eb/24154_0Dxmh.jpg"
+          },
+          "name": "デビルマン 妖鳥死麗濡編",
+          "name_cn": "恶魔人 妖鸟死丽濡篇",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 24154
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/5c/70670_zbJ8h.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/5c/70670_zbJ8h.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/af/5c/70670_zbJ8h.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/5c/70670_zbJ8h.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/5c/70670_zbJ8h.jpg"
+          },
+          "name": "マジンガーZ/デビルマン",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 51082
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/d7/92947_tdL34.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/d7/92947_tdL34.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f3/d7/92947_tdL34.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/d7/92947_tdL34.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/d7/92947_tdL34.jpg"
+          },
+          "name": "CBキャラ 永井豪ワールド",
+          "name_cn": "永井豪的Q版世界",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 92947
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/a5/115882_IJQaW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/a5/115882_IJQaW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/a5/115882_IJQaW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/a5/115882_IJQaW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/a5/115882_IJQaW.jpg"
+          },
+          "name": "マジンガーZ対デビルマン",
+          "name_cn": "魔神Z对恶魔人",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 115882
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/19/129976_LKXR0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/19/129976_LKXR0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c1/19/129976_LKXR0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/19/129976_LKXR0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/19/129976_LKXR0.jpg"
+          },
+          "name": "サイボーグ009VSデビルマン",
+          "name_cn": "人造人009VS恶魔人",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 129976
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/9d/207769_yQ85O.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/9d/207769_yQ85O.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/9d/207769_yQ85O.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/9d/207769_yQ85O.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/9d/207769_yQ85O.jpg"
+          },
+          "name": "デビルマン",
+          "name_cn": "超级恶魔人",
+          "relation": "三次元",
+          "type": 6,
+          "id": 207769
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/c7/211311_778A7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/c7/211311_778A7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c2/c7/211311_778A7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/c7/211311_778A7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/c7/211311_778A7.jpg"
+          },
+          "name": "DEVILMAN crybaby",
+          "name_cn": "恶魔人 crybaby",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 211311
+        }
+      ]
+    }
   }
 ]

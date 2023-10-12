@@ -1,171 +1,232 @@
 [
   {
-    "date": "1963-10-20",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/78/37258_V45VC.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/78/37258_V45VC.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/06/78/37258_V45VC.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/78/37258_V45VC.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/78/37258_V45VC.jpg"
-    },
-    "summary": "『鉄人28号 (テレビアニメ第1作)』（てつじん28ごう）は、横山光輝の漫画作品『鉄人28号』の最初のテレビアニメ化作品。\r\n\r\n1963年10月20日～1966年5月25日、フジテレビ系列で放送された。84話で終了し、3か月後に新作13話が放送され、全97話となった。その後第28話から第52話を再放送し第84話で終了した。モノクロ作品。",
-    "name": "鉄人28号",
-    "name_cn": "铁人28号",
-    "tags": [
-      {
-        "name": "1963",
-        "count": 12
+    "title": "鉄人28号",
+    "bangumi": {
+      "date": "1963-10-20",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/78/37258_V45VC.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/78/37258_V45VC.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/06/78/37258_V45VC.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/78/37258_V45VC.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/78/37258_V45VC.jpg"
       },
-      {
-        "name": "萝卜",
-        "count": 6
+      "summary": "『鉄人28号 (テレビアニメ第1作)』（てつじん28ごう）は、横山光輝の漫画作品『鉄人28号』の最初のテレビアニメ化作品。\r\n\r\n1963年10月20日～1966年5月25日、フジテレビ系列で放送された。84話で終了し、3か月後に新作13話が放送され、全97話となった。その後第28話から第52話を再放送し第84話で終了した。モノクロ作品。",
+      "name": "鉄人28号",
+      "name_cn": "铁人28号",
+      "tags": [
+        {
+          "name": "1963",
+          "count": 12
+        },
+        {
+          "name": "萝卜",
+          "count": 6
+        },
+        {
+          "name": "TV",
+          "count": 6
+        },
+        {
+          "name": "TCJ動画センター",
+          "count": 5
+        },
+        {
+          "name": "日本动画",
+          "count": 4
+        },
+        {
+          "name": "日番",
+          "count": 4
+        },
+        {
+          "name": "铁人28号",
+          "count": 3
+        },
+        {
+          "name": "robo",
+          "count": 1
+        },
+        {
+          "name": "渡辺米彦",
+          "count": 1
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1
+        },
+        {
+          "name": "岡本欣三",
+          "count": 1
+        },
+        {
+          "name": "1963年",
+          "count": 1
+        },
+        {
+          "name": "若林忠雄",
+          "count": 1
+        },
+        {
+          "name": "生肉",
+          "count": 1
+        },
+        {
+          "name": "日本",
+          "count": 1
+        },
+        {
+          "name": "黑白",
+          "count": 1
+        },
+        {
+          "name": "漫画",
+          "count": 1
+        },
+        {
+          "name": "机甲",
+          "count": 1
+        },
+        {
+          "name": "机器人",
+          "count": 1
+        },
+        {
+          "name": "经典",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "60s",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "铁人28号"
+        },
+        {
+          "key": "话数",
+          "value": "97"
+        },
+        {
+          "key": "放送开始",
+          "value": "1963年10月20日"
+        },
+        {
+          "key": "播放结束",
+          "value": "1966年5月25日"
+        },
+        {
+          "key": "原作",
+          "value": "横山光輝"
+        },
+        {
+          "key": "監督",
+          "value": "渡辺米彦"
+        },
+        {
+          "key": "脚本",
+          "value": "岡本欣三"
+        },
+        {
+          "key": "製作",
+          "value": "TCJ動画センター"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 13,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 1,
+          "6": 2,
+          "7": 5,
+          "8": 2,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.6
       },
-      {
-        "name": "TV",
-        "count": 6
+      "total_episodes": 50,
+      "collection": {
+        "on_hold": 10,
+        "dropped": 12,
+        "wish": 32,
+        "collect": 16,
+        "doing": 2
       },
-      {
-        "name": "TCJ動画センター",
-        "count": 5
-      },
-      {
-        "name": "日本动画",
-        "count": 4
-      },
-      {
-        "name": "日番",
-        "count": 4
-      },
-      {
-        "name": "铁人28号",
-        "count": 3
-      },
-      {
-        "name": "robo",
-        "count": 1
-      },
-      {
-        "name": "渡辺米彦",
-        "count": 1
-      },
-      {
-        "name": "赛璐珞",
-        "count": 1
-      },
-      {
-        "name": "岡本欣三",
-        "count": 1
-      },
-      {
-        "name": "1963年",
-        "count": 1
-      },
-      {
-        "name": "若林忠雄",
-        "count": 1
-      },
-      {
-        "name": "生肉",
-        "count": 1
-      },
-      {
-        "name": "日本",
-        "count": 1
-      },
-      {
-        "name": "黑白",
-        "count": 1
-      },
-      {
-        "name": "漫画",
-        "count": 1
-      },
-      {
-        "name": "机甲",
-        "count": 1
-      },
-      {
-        "name": "机器人",
-        "count": 1
-      },
-      {
-        "name": "经典",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "60s",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "铁人28号"
-      },
-      {
-        "key": "话数",
-        "value": "97"
-      },
-      {
-        "key": "放送开始",
-        "value": "1963年10月20日"
-      },
-      {
-        "key": "播放结束",
-        "value": "1966年5月25日"
-      },
-      {
-        "key": "原作",
-        "value": "横山光輝"
-      },
-      {
-        "key": "監督",
-        "value": "渡辺米彦"
-      },
-      {
-        "key": "脚本",
-        "value": "岡本欣三"
-      },
-      {
-        "key": "製作",
-        "value": "TCJ動画センター"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 13,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 2,
-        "5": 1,
-        "6": 2,
-        "7": 5,
-        "8": 2,
-        "9": 0,
-        "10": 1
-      },
-      "score": 6.6
-    },
-    "total_episodes": 50,
-    "collection": {
-      "on_hold": 10,
-      "dropped": 12,
-      "wish": 32,
-      "collect": 16,
-      "doing": 2
-    },
-    "id": 37258,
-    "eps": 97,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 37258,
+      "eps": 97,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/1d/37259_goNl0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/1d/37259_goNl0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4f/1d/37259_goNl0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/1d/37259_goNl0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/1d/37259_goNl0.jpg"
+          },
+          "name": "太陽の使者 鉄人28号",
+          "name_cn": "太阳的使者 铁人28号",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 37259
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/b2/37260_pIDQM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/b2/37260_pIDQM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/b2/37260_pIDQM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/b2/37260_pIDQM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/b2/37260_pIDQM.jpg"
+          },
+          "name": "超電動ロボ 鉄人28号FX",
+          "name_cn": "超电动机器人 铁人28号FX",
+          "relation": "续集",
+          "type": 2,
+          "id": 37260
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/d4/37262_3ww1A.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/d4/37262_3ww1A.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/d4/37262_3ww1A.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/d4/37262_3ww1A.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/d4/37262_3ww1A.jpg"
+          },
+          "name": "鉄人28号",
+          "name_cn": "铁人28号",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 37262
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/fa/62282_33OoU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/fa/62282_33OoU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/fa/62282_33OoU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/fa/62282_33OoU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/fa/62282_33OoU.jpg"
+          },
+          "name": "鉄人28号ガオ！",
+          "name_cn": "铁人28号GAO！",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 62282
+        }
+      ]
+    }
   }
 ]

@@ -1,638 +1,1059 @@
 [
   {
-    "date": "1993-10-16",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/af/1608_3I59P.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/af/1608_3I59P.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/fa/af/1608_3I59P.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/af/1608_3I59P.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/af/1608_3I59P.jpg"
-    },
-    "summary": "　　樱木花道，湘北高校一年级生。在初中有被50个女生连续抛弃的历史。因第50个女生的一句“我喜欢的是篮球队的小田同学。”而对篮球深恶痛绝。上高中不经意被美少女赤木晴子的一句：“你喜欢篮球吗？”又燃起希望。为得到晴子的芳心，花道不顾一切的加入篮球队，并以惊人的速度进步。\r\n　　在湘北篮球队中，队长赤木刚宪是一位一直因无良好队友而无法出人头地的DUNK高手。然而在这一年初中时已是篮球高手的流川枫，大病初愈的宫城良田，曾误入歧途的初中时MVP三井寿加入湘北篮球队，使赤木队长的称霸全国不再只是梦想。在县大赛时，赤木刚宪，流川枫，宫城良田，三井寿和新手樱木花道通力合作，终于拿到全国大赛的入场券。",
-    "name": "スラムダンク",
-    "name_cn": "灌篮高手",
-    "tags": [
-      {
-        "name": "灌篮高手",
-        "count": 1768
+    "title": "スラムダンク",
+    "bangumi": {
+      "date": "1993-10-16",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/af/1608_3I59P.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/af/1608_3I59P.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/fa/af/1608_3I59P.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/af/1608_3I59P.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/af/1608_3I59P.jpg"
       },
-      {
-        "name": "热血",
-        "count": 1485
+      "summary": "　　樱木花道，湘北高校一年级生。在初中有被50个女生连续抛弃的历史。因第50个女生的一句“我喜欢的是篮球队的小田同学。”而对篮球深恶痛绝。上高中不经意被美少女赤木晴子的一句：“你喜欢篮球吗？”又燃起希望。为得到晴子的芳心，花道不顾一切的加入篮球队，并以惊人的速度进步。\r\n　　在湘北篮球队中，队长赤木刚宪是一位一直因无良好队友而无法出人头地的DUNK高手。然而在这一年初中时已是篮球高手的流川枫，大病初愈的宫城良田，曾误入歧途的初中时MVP三井寿加入湘北篮球队，使赤木队长的称霸全国不再只是梦想。在县大赛时，赤木刚宪，流川枫，宫城良田，三井寿和新手樱木花道通力合作，终于拿到全国大赛的入场券。",
+      "name": "スラムダンク",
+      "name_cn": "灌篮高手",
+      "tags": [
+        {
+          "name": "灌篮高手",
+          "count": 1769
+        },
+        {
+          "name": "热血",
+          "count": 1486
+        },
+        {
+          "name": "教练我想打篮球",
+          "count": 1052
+        },
+        {
+          "name": "经典",
+          "count": 966
+        },
+        {
+          "name": "SLAM_DUNK",
+          "count": 860
+        },
+        {
+          "name": "童年",
+          "count": 723
+        },
+        {
+          "name": "樱木花道",
+          "count": 550
+        },
+        {
+          "name": "体育",
+          "count": 484
+        },
+        {
+          "name": "篮球",
+          "count": 402
+        },
+        {
+          "name": "TV",
+          "count": 375
+        },
+        {
+          "name": "流川枫",
+          "count": 303
+        },
+        {
+          "name": "男儿当入樽",
+          "count": 290
+        },
+        {
+          "name": "1993",
+          "count": 229
+        },
+        {
+          "name": "漫画改",
+          "count": 137
+        },
+        {
+          "name": "樱木花道安西叫你回家打篮球",
+          "count": 117
+        },
+        {
+          "name": "运动",
+          "count": 107
+        },
+        {
+          "name": "东映",
+          "count": 99
+        },
+        {
+          "name": "漫改",
+          "count": 74
+        },
+        {
+          "name": "井上雄彦",
+          "count": 53
+        },
+        {
+          "name": "1993年10月",
+          "count": 45
+        },
+        {
+          "name": "动画",
+          "count": 40
+        },
+        {
+          "name": "JUMP",
+          "count": 39
+        },
+        {
+          "name": "校园",
+          "count": 33
+        },
+        {
+          "name": "竞技",
+          "count": 33
+        },
+        {
+          "name": "神作",
+          "count": 32
+        },
+        {
+          "name": "東映アニメーション",
+          "count": 27
+        },
+        {
+          "name": "青春",
+          "count": 23
+        },
+        {
+          "name": "东映动画",
+          "count": 22
+        },
+        {
+          "name": "西沢信孝",
+          "count": 22
+        },
+        {
+          "name": "灌籃高手",
+          "count": 21
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "灌篮高手"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "SLAM DUNK"
+            },
+            {
+              "v": "男儿当入樽"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "101"
+        },
+        {
+          "key": "放送开始",
+          "value": "1993年10月16日"
+        },
+        {
+          "key": "播放结束",
+          "value": "1996年3月23日"
+        },
+        {
+          "key": "其他",
+          "value": "2013年11月3日（HD）"
+        },
+        {
+          "key": "原作",
+          "value": "井上雄彦"
+        },
+        {
+          "key": "音乐",
+          "value": "増田隆宣（第1話 - 第69話）→BMF（第70話 - ）"
+        }
+      ],
+      "rating": {
+        "rank": 22,
+        "total": 7539,
+        "count": {
+          "1": 25,
+          "2": 11,
+          "3": 16,
+          "4": 26,
+          "5": 59,
+          "6": 202,
+          "7": 672,
+          "8": 1843,
+          "9": 2519,
+          "10": 2166
+        },
+        "score": 8.7
       },
-      {
-        "name": "教练我想打篮球",
-        "count": 1051
+      "total_episodes": 101,
+      "collection": {
+        "on_hold": 604,
+        "dropped": 239,
+        "wish": 1061,
+        "collect": 10356,
+        "doing": 410
       },
-      {
-        "name": "经典",
-        "count": 965
-      },
-      {
-        "name": "SLAM_DUNK",
-        "count": 860
-      },
-      {
-        "name": "童年",
-        "count": 723
-      },
-      {
-        "name": "樱木花道",
-        "count": 549
-      },
-      {
-        "name": "体育",
-        "count": 483
-      },
-      {
-        "name": "篮球",
-        "count": 401
-      },
-      {
-        "name": "TV",
-        "count": 374
-      },
-      {
-        "name": "流川枫",
-        "count": 303
-      },
-      {
-        "name": "男儿当入樽",
-        "count": 290
-      },
-      {
-        "name": "1993",
-        "count": 229
-      },
-      {
-        "name": "漫画改",
-        "count": 137
-      },
-      {
-        "name": "樱木花道安西叫你回家打篮球",
-        "count": 117
-      },
-      {
-        "name": "运动",
-        "count": 107
-      },
-      {
-        "name": "东映",
-        "count": 99
-      },
-      {
-        "name": "漫改",
-        "count": 74
-      },
-      {
-        "name": "井上雄彦",
-        "count": 53
-      },
-      {
-        "name": "1993年10月",
-        "count": 45
-      },
-      {
-        "name": "动画",
-        "count": 40
-      },
-      {
-        "name": "JUMP",
-        "count": 39
-      },
-      {
-        "name": "校园",
-        "count": 33
-      },
-      {
-        "name": "竞技",
-        "count": 33
-      },
-      {
-        "name": "神作",
-        "count": 32
-      },
-      {
-        "name": "東映アニメーション",
-        "count": 27
-      },
-      {
-        "name": "青春",
-        "count": 23
-      },
-      {
-        "name": "东映动画",
-        "count": 22
-      },
-      {
-        "name": "西沢信孝",
-        "count": 22
-      },
-      {
-        "name": "灌籃高手",
-        "count": 21
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "灌篮高手"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "SLAM DUNK"
+      "id": 1608,
+      "eps": 101,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/d5/9117_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/d5/9117_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/d5/9117_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/d5/9117_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/d5/9117_jp.jpg"
           },
-          {
-            "v": "男儿当入樽"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "101"
-      },
-      {
-        "key": "放送开始",
-        "value": "1993年10月16日"
-      },
-      {
-        "key": "播放结束",
-        "value": "1996年3月23日"
-      },
-      {
-        "key": "其他",
-        "value": "2013年11月3日（HD）"
-      },
-      {
-        "key": "原作",
-        "value": "井上雄彦"
-      },
-      {
-        "key": "音乐",
-        "value": "増田隆宣（第1話 - 第69話）→BMF（第70話 - ）"
-      }
-    ],
-    "rating": {
-      "rank": 22,
-      "total": 7536,
-      "count": {
-        "1": 25,
-        "2": 11,
-        "3": 16,
-        "4": 26,
-        "5": 59,
-        "6": 202,
-        "7": 671,
-        "8": 1843,
-        "9": 2517,
-        "10": 2166
-      },
-      "score": 8.7
-    },
-    "total_episodes": 101,
-    "collection": {
-      "on_hold": 604,
-      "dropped": 240,
-      "wish": 1059,
-      "collect": 10352,
-      "doing": 411
-    },
-    "id": 1608,
-    "eps": 101,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "INOUE TAKEHIKO ILLUSTRATIONS",
+          "name_cn": "灌篮高手 原画集",
+          "relation": "画集",
+          "type": 1,
+          "id": 9117
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/0b/451099_zCky9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/0b/451099_zCky9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/04/0b/451099_zCky9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/0b/451099_zCky9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/0b/451099_zCky9.jpg"
+          },
+          "name": "灌篮高手 手游",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 451099
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/fd/324720_tk4k6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/fd/324720_tk4k6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/fd/324720_tk4k6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/fd/324720_tk4k6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/fd/324720_tk4k6.jpg"
+          },
+          "name": "THE FIRST SLAM DUNK",
+          "name_cn": "灌篮高手",
+          "relation": "续集",
+          "type": 2,
+          "id": 324720
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/8a/285038_H8Mf3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/8a/285038_H8Mf3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ba/8a/285038_H8Mf3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/8a/285038_H8Mf3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/8a/285038_H8Mf3.jpg"
+          },
+          "name": "テレビアニメ スラムダンク 強豪 真っ向対決!",
+          "name_cn": "灌篮高手：强队 正面对决！",
+          "relation": "游戏",
+          "type": 4,
+          "id": 285038
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/d6/36752_9tOt7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/d6/36752_9tOt7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/d6/36752_9tOt7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/d6/36752_9tOt7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/d6/36752_9tOt7.jpg"
+          },
+          "name": "SLAM DUNK",
+          "name_cn": "灌篮高手",
+          "relation": "书籍",
+          "type": 1,
+          "id": 36752
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/46/18462_r2N1o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/46/18462_r2N1o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/92/46/18462_r2N1o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/46/18462_r2N1o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/46/18462_r2N1o.jpg"
+          },
+          "name": "SLAM DUNK 完全版",
+          "name_cn": "灌篮高手 完全版",
+          "relation": "书籍",
+          "type": 1,
+          "id": 18462
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/36/8848_Xz166.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/36/8848_Xz166.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/36/8848_Xz166.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/36/8848_Xz166.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/36/8848_Xz166.jpg"
+          },
+          "name": "君が好きだと叫びたい",
+          "name_cn": "好想大声说喜欢你",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 8848
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/c3/3731_tjHJI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/c3/3731_tjHJI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/c3/3731_tjHJI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/c3/3731_tjHJI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/c3/3731_tjHJI.jpg"
+          },
+          "name": "スラムダンク",
+          "name_cn": "灌篮高手 剧场版",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 3731
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/96/8846_33Zx7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/96/8846_33Zx7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/96/8846_33Zx7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/96/8846_33Zx7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/96/8846_33Zx7.jpg"
+          },
+          "name": "ぜったいに 誰も",
+          "name_cn": "谁也不能左右我",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 8846
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/23/3732_7mMU2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/23/3732_7mMU2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ee/23/3732_7mMU2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/23/3732_7mMU2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/23/3732_7mMU2.jpg"
+          },
+          "name": "スラムダンク 全国制覇だ！桜木花道",
+          "name_cn": "灌篮高手 全国制霸吧！樱木花道",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 3732
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/2e/26259_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/2e/26259_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/2e/26259_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/2e/26259_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/2e/26259_jp.jpg"
+          },
+          "name": "あなただけ見つめてる",
+          "name_cn": "只凝视着你",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 26259
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/d5/3733_hLt0z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/d5/3733_hLt0z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/d5/3733_hLt0z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/d5/3733_hLt0z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/d5/3733_hLt0z.jpg"
+          },
+          "name": "スラムダンク 湘北最大の危機！燃えろ桜木花道",
+          "name_cn": "灌篮高手 湘北最大的危机！燃烧吧樱木花道",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 3733
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/82/8845_OoOFs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/82/8845_OoOFs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/82/8845_OoOFs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/82/8845_OoOFs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/82/8845_OoOFs.jpg"
+          },
+          "name": "世界が終るまでは…",
+          "name_cn": "直到世界尽头",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 8845
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/75/3734_UzTeY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/75/3734_UzTeY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9d/75/3734_UzTeY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/75/3734_UzTeY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/75/3734_UzTeY.jpg"
+          },
+          "name": "スラムダンク 吠えろバスケットマン魂!!花道と流川の熱き夏",
+          "name_cn": "灌篮高手 咆哮吧篮球员的灵魂！！花道和流川的灼热夏季",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 3734
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/2c/26258_yKe7H.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/2c/26258_yKe7H.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/90/2c/26258_yKe7H.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/2c/26258_yKe7H.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/2c/26258_yKe7H.jpg"
+          },
+          "name": "煌めく瞬間に捕らわれて",
+          "name_cn": "捕捉闪耀的瞬间",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 26258
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/44/8844_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/44/8844_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9c/44/8844_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/44/8844_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/44/8844_jp.jpg"
+          },
+          "name": "MY FRIEND",
+          "name_cn": "我的朋友",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 8844
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/3c/41686_uL3aJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/3c/41686_uL3aJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/3c/41686_uL3aJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/3c/41686_uL3aJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/3c/41686_uL3aJ.jpg"
+          },
+          "name": "スラム・ダンク",
+          "name_cn": "灌篮高手 OST",
+          "relation": "原声集",
+          "type": 3,
+          "id": 41686
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/56/26257_8kXt8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/56/26257_8kXt8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/76/56/26257_8kXt8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/56/26257_8kXt8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/56/26257_8kXt8.jpg"
+          },
+          "name": "スラムダンク",
+          "name_cn": "SLAM DUNK OST Special TV Version",
+          "relation": "原声集",
+          "type": 3,
+          "id": 26257
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/22/8847_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/22/8847_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/22/8847_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/22/8847_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/22/8847_jp.jpg"
+          },
+          "name": "スラムダンク ― オリジナル・サウンドトラック 3 '95サマー",
+          "name_cn": "SLAM DUNK OST",
+          "relation": "原声集",
+          "type": 3,
+          "id": 8847
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1b/76/8610_p0ZPR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1b/76/8610_p0ZPR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1b/76/8610_p0ZPR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1b/76/8610_p0ZPR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1b/76/8610_p0ZPR.jpg"
+          },
+          "name": "THE BEST OF TV ANIMATION SLAM DUNK ~Single Collection~",
+          "name_cn": "灌篮高手 最佳单曲辑",
+          "relation": "其他",
+          "type": 3,
+          "id": 8610
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/70/41492_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/70/41492_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/70/41492_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/70/41492_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/70/41492_jp.jpg"
+          },
+          "name": "スラムダンク テーマソング集",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 41492
+        }
+      ]
+    }
   },
   {
-    "date": "1993-10-21",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/39/28712_7WNf7.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/39/28712_7WNf7.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/02/39/28712_7WNf7.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/39/28712_7WNf7.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/39/28712_7WNf7.jpg"
-    },
-    "summary": "　　强盛的帕尔斯王国，因为链接东西方的大陆公路贯穿王国，故其文化和经济都非常繁盛，王都──叶克巴达那更是可以媲美东方「绢之国」首都的繁荣。但在帕尔斯历320年，帕尔斯被西方蛮族「鲁西达尼亚」入侵，本来不费吹灰之力便可获胜的帕尔斯，却因为其中一名万骑长的叛变，在平原「亚特罗帕提尼」的会战中惨败，大陆强国竟在一日之间陷入亡国的边缘。败走的帕尔斯国王安德拉寇拉斯三世，在逃亡之际被一名戴著银假面的骑士所捕。而第一次出征的王太子亚尔斯兰，在忠臣达龙的协助下从混乱的战场中死里逃生，最后到了巴休尔山找寻不被国王所重用的那尔撒斯。王太子亚尔斯兰在一智一勇的二人，以及其他投奔麾下的忠臣辅助下，踏上了艰苦的复国之路.......",
-    "name": "アルスラーン戦記III 東の城、西の城",
-    "name_cn": "亚尔斯兰战记III 东之城 西之城",
-    "tags": [
-      {
-        "name": "OVA",
-        "count": 41
+    "title": "アルスラーン戦記III 東の城、西の城",
+    "bangumi": {
+      "date": "1993-10-21",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/39/28712_7WNf7.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/39/28712_7WNf7.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/02/39/28712_7WNf7.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/39/28712_7WNf7.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/39/28712_7WNf7.jpg"
       },
-      {
-        "name": "田中芳树",
-        "count": 18
+      "summary": "　　强盛的帕尔斯王国，因为链接东西方的大陆公路贯穿王国，故其文化和经济都非常繁盛，王都──叶克巴达那更是可以媲美东方「绢之国」首都的繁荣。但在帕尔斯历320年，帕尔斯被西方蛮族「鲁西达尼亚」入侵，本来不费吹灰之力便可获胜的帕尔斯，却因为其中一名万骑长的叛变，在平原「亚特罗帕提尼」的会战中惨败，大陆强国竟在一日之间陷入亡国的边缘。败走的帕尔斯国王安德拉寇拉斯三世，在逃亡之际被一名戴著银假面的骑士所捕。而第一次出征的王太子亚尔斯兰，在忠臣达龙的协助下从混乱的战场中死里逃生，最后到了巴休尔山找寻不被国王所重用的那尔撒斯。王太子亚尔斯兰在一智一勇的二人，以及其他投奔麾下的忠臣辅助下，踏上了艰苦的复国之路.......",
+      "name": "アルスラーン戦記III 東の城、西の城",
+      "name_cn": "亚尔斯兰战记III 东之城 西之城",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 41
+        },
+        {
+          "name": "田中芳树",
+          "count": 18
+        },
+        {
+          "name": "亚尔斯兰战记",
+          "count": 15
+        },
+        {
+          "name": "1993",
+          "count": 14
+        },
+        {
+          "name": "独立剧场版",
+          "count": 8
+        },
+        {
+          "name": "90~94年",
+          "count": 7
+        },
+        {
+          "name": "AnimateFilm",
+          "count": 7
+        },
+        {
+          "name": "小说改",
+          "count": 7
+        },
+        {
+          "name": "奇幻",
+          "count": 4
+        },
+        {
+          "name": "都留教博",
+          "count": 4
+        },
+        {
+          "name": "アルスラーン戦記",
+          "count": 3
+        },
+        {
+          "name": "补旧番",
+          "count": 3
+        },
+        {
+          "name": "盐泽兼人",
+          "count": 2
+        },
+        {
+          "name": "井上和彦",
+          "count": 2
+        },
+        {
+          "name": "轻小说改",
+          "count": 2
+        },
+        {
+          "name": "山口胜平",
+          "count": 2
+        },
+        {
+          "name": "網野哲郎",
+          "count": 1
+        },
+        {
+          "name": "Arslan",
+          "count": 1
+        },
+        {
+          "name": "1993年秋",
+          "count": 1
+        },
+        {
+          "name": "1990-1999",
+          "count": 1
+        },
+        {
+          "name": "OVA-01",
+          "count": 1
+        },
+        {
+          "name": "90代",
+          "count": 1
+        },
+        {
+          "name": "短片&OVA",
+          "count": 1
+        },
+        {
+          "name": "杉原めぐみ",
+          "count": 1
+        },
+        {
+          "name": "OVA&OAD",
+          "count": 1
+        },
+        {
+          "name": "90-94",
+          "count": 1
+        },
+        {
+          "name": "OVA&OAD&SP",
+          "count": 1
+        },
+        {
+          "name": "アミノテツロー",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "7",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "亚尔斯兰战记III 东之城 西之城"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "阿尔斯兰战记III 东之城 西之城"
+            },
+            {
+              "v": "アルスラーン戦記III（東の城、西の城）"
+            },
+            {
+              "v": "Heroic Legend of Arslan III"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "1993年10月21日"
+        },
+        {
+          "key": "导演",
+          "value": "アミノテツロー"
+        },
+        {
+          "key": "脚本",
+          "value": "杉原めぐみ"
+        },
+        {
+          "key": "人物设定",
+          "value": "神村幸子"
+        },
+        {
+          "key": "作画监督",
+          "value": "越智信次"
+        },
+        {
+          "key": "美术监督",
+          "value": "金村勝義、西倉力"
+        },
+        {
+          "key": "音乐",
+          "value": "都留教博"
+        },
+        {
+          "key": "撮影监督",
+          "value": "鈴木秀男"
+        }
+      ],
+      "rating": {
+        "rank": 3184,
+        "total": 69,
+        "count": {
+          "1": 0,
+          "2": 2,
+          "3": 0,
+          "4": 1,
+          "5": 6,
+          "6": 17,
+          "7": 29,
+          "8": 13,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.6
       },
-      {
-        "name": "亚尔斯兰战记",
-        "count": 15
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 8,
+        "dropped": 7,
+        "wish": 36,
+        "collect": 110,
+        "doing": 3
       },
-      {
-        "name": "1993",
-        "count": 14
-      },
-      {
-        "name": "独立剧场版",
-        "count": 8
-      },
-      {
-        "name": "90~94年",
-        "count": 7
-      },
-      {
-        "name": "AnimateFilm",
-        "count": 7
-      },
-      {
-        "name": "小说改",
-        "count": 7
-      },
-      {
-        "name": "奇幻",
-        "count": 4
-      },
-      {
-        "name": "都留教博",
-        "count": 4
-      },
-      {
-        "name": "アルスラーン戦記",
-        "count": 3
-      },
-      {
-        "name": "补旧番",
-        "count": 3
-      },
-      {
-        "name": "盐泽兼人",
-        "count": 2
-      },
-      {
-        "name": "井上和彦",
-        "count": 2
-      },
-      {
-        "name": "轻小说改",
-        "count": 2
-      },
-      {
-        "name": "山口胜平",
-        "count": 2
-      },
-      {
-        "name": "網野哲郎",
-        "count": 1
-      },
-      {
-        "name": "Arslan",
-        "count": 1
-      },
-      {
-        "name": "1993年秋",
-        "count": 1
-      },
-      {
-        "name": "1990-1999",
-        "count": 1
-      },
-      {
-        "name": "OVA-01",
-        "count": 1
-      },
-      {
-        "name": "90代",
-        "count": 1
-      },
-      {
-        "name": "短片&OVA",
-        "count": 1
-      },
-      {
-        "name": "杉原めぐみ",
-        "count": 1
-      },
-      {
-        "name": "OVA&OAD",
-        "count": 1
-      },
-      {
-        "name": "90-94",
-        "count": 1
-      },
-      {
-        "name": "OVA&OAD&SP",
-        "count": 1
-      },
-      {
-        "name": "アミノテツロー",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "7",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "亚尔斯兰战记III 东之城 西之城"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "阿尔斯兰战记III 东之城 西之城"
+      "id": 28712,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/75/41859_rP88u.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/75/41859_rP88u.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/75/41859_rP88u.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/75/41859_rP88u.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/75/41859_rP88u.jpg"
           },
-          {
-            "v": "アルスラーン戦記III（東の城、西の城）"
+          "name": "アルスラーン戦記Ⅲ・Ⅳ オリジナルサントラ",
+          "name_cn": "亚尔斯兰战记 III·IV OST",
+          "relation": "原声集",
+          "type": 3,
+          "id": 41859
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/23/41863_dO399.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/23/41863_dO399.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ad/23/41863_dO399.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/23/41863_dO399.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/23/41863_dO399.jpg"
           },
-          {
-            "v": "Heroic Legend of Arslan III"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "发售日",
-        "value": "1993年10月21日"
-      },
-      {
-        "key": "导演",
-        "value": "アミノテツロー"
-      },
-      {
-        "key": "脚本",
-        "value": "杉原めぐみ"
-      },
-      {
-        "key": "人物设定",
-        "value": "神村幸子"
-      },
-      {
-        "key": "作画监督",
-        "value": "越智信次"
-      },
-      {
-        "key": "美术监督",
-        "value": "金村勝義、西倉力"
-      },
-      {
-        "key": "音乐",
-        "value": "都留教博"
-      },
-      {
-        "key": "撮影监督",
-        "value": "鈴木秀男"
-      }
-    ],
-    "rating": {
-      "rank": 3183,
-      "total": 69,
-      "count": {
-        "1": 0,
-        "2": 2,
-        "3": 0,
-        "4": 1,
-        "5": 6,
-        "6": 17,
-        "7": 29,
-        "8": 13,
-        "9": 0,
-        "10": 1
-      },
-      "score": 6.6
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 8,
-      "dropped": 7,
-      "wish": 36,
-      "collect": 110,
-      "doing": 3
-    },
-    "id": 28712,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "アルスラーン戦記IV",
+          "name_cn": "亚尔斯兰战记IV 汗血公路",
+          "relation": "续集",
+          "type": 2,
+          "id": 41863
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/40/41867_1tUsU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/40/41867_1tUsU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e6/40/41867_1tUsU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/40/41867_1tUsU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/40/41867_1tUsU.jpg"
+          },
+          "name": "アルスラーン戦記II",
+          "name_cn": "亚尔斯兰战记II",
+          "relation": "前传",
+          "type": 2,
+          "id": 41867
+        }
+      ]
+    }
   },
   {
-    "date": "1993-10-01",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/ea/38723_t3cqZ.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/ea/38723_t3cqZ.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/73/ea/38723_t3cqZ.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/ea/38723_t3cqZ.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/ea/38723_t3cqZ.jpg"
-    },
-    "summary": "魔神英雄传第二部OVA，在TV版第二部之后制作发行，共三话。本可作为为系列画上句号的作品。\r\n　　第一话：救世主再临\r\n　　以阎罗王为首的魔界势力突袭创界山，使创界山受到严重损坏，山体的一部分被炸毁。而同时在现生界，已经升上五年级的战部渡也隐约感觉到了异常，但当他赶往龙神池时，却没有像往常一样看见有龙神前来接他。只遇到了一位神秘的钓鱼老人，钓鱼老人和渡说了关于“另一个世界的操龙之族”的传说。当天晚上，骑着一匹白色飞马的虎王在月光中突然出现，告诉了渡情况并将渡带往创界山，可是当渡醒来时虎王已经不知所踪。此时他才看到创界山的惨状。并遭受魔界怪兽的袭击，但魔界的邪气使所有的魔神都失去了作用，渡和朋友们在没有魔神的情况下一番苦战终于暂时安全。\r\n　　创界山女王圣龙妃告诉渡，要击退魔界，必须前往天部界取到“拳龙之勾玉”封住魔界之门，于是渡和星界山皇子海火子通过圣龙妃竭尽全力架设的光之桥前往天部界。\r\n　　第二话：天部界的风暴\r\n　　天部界，是现生界、神部界的人都不能进入的禁地。渡和海火子在此遇上了天部界神子四天龙王，经过一番波折，四天龙王告诉渡必须前往操龙一族的聚居地才能拿到“拳龙之勾玉”。但是当两人在四天龙王的帮助下来到操龙一族的领地时，却被告知“拳龙之勾玉是由拳龙的眼泪所化，是属于操龙一族中每千年才诞生一个的拳龙士的，不能交给别人。”正好他们赶上了千年一度的拳龙降临，而此时，阎罗王突然尾随渡而来。意欲毁坏拳龙之勾玉并伤害拳龙生下的幼仔。渡拼死保护拳龙。而新的“拳龙之勾玉”也被阎罗王毁坏。关键时刻，四天龙王出现，阎罗王暂时退却。\r\n　　操龙一族的长老和四天龙王告诉渡，其实渡就是上一位拳龙士，“拳龙之勾玉”就在渡自己体内！这时，被渡保护的拳龙幼仔变成了白色的飞马——天龙马——这是拳龙为报答拳龙士的相救而变。不知为什么虎王也骑在天龙马马背上。渡、虎王、海火子随即骑着天龙马和四天龙王借予的天马麟王返回神部界。\r\n　　第三话：永远的传说\r\n　　在魔界的大举入侵面前，神部界生灵涂炭，除了人以外，花草树木，一切都在魔界邪气的侵袭之下石化。空手而回的渡等人看到了创界山的难民对自己企盼的目光后下定决心前往魔渊。在魔渊，他们遇上了阎罗王。最后的决战爆发，海火子在战斗中受了伤，渡的剑也被阎罗王斩断。危急时刻，渡体内的拳龙之勾玉突然出现帮渡挡住了阎罗王的剑，同时在虎王的帮助下，渡对阎罗王发出了逆转的一击，将阎罗王打败。但是，他也对自己一直以来战斗的意义产生了怀疑。\r\n　　阎罗王已被打败，剩下的只有用拳龙之勾玉封印位于魔渊的魔界湖下的魔界之扉。但是魔界湖常人无法承受其有毒的湖水。且封印后湖水马上就会结冰。人只能永远被玄冰封在里面。就在渡决心牺牲自己时，虎王用计将渡绑在了天龙马上并让天龙马带渡离开。自己则拿上勾玉潜入湖中封印魔界之扉。创界山得救了，魔界之湖的玄冰支撑住了残缺的创界山，渡也全身而退，但虎王却被封在了那永远不会融化，也不可能被毁掉的玄冰之中，渡也因失去拳龙之勾玉，卸下了救世主的职责。\r\n　　渡带着哀伤回到了现生界。时间慢慢过去，转眼已是第二年的春天，渡已是小学六年级了。在一个春日的晚上，他又一次看到了月光照耀下的天龙马的身影，当他赶往龙神池时，在老樱花树的落瓣之下，骑在天龙马上的，不是别人，正是好朋友虎王！　",
-    "name": "魔神英雄伝ワタル 終わりなき時の物語",
-    "name_cn": "魔神英雄传 永恒传说",
-    "tags": [
-      {
-        "name": "OVA",
-        "count": 30
+    "title": "魔神英雄伝ワタル 終わりなき時の物語",
+    "bangumi": {
+      "date": "1993-10-01",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/ea/38723_t3cqZ.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/ea/38723_t3cqZ.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/73/ea/38723_t3cqZ.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/ea/38723_t3cqZ.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/ea/38723_t3cqZ.jpg"
       },
-      {
-        "name": "魔神英雄传",
-        "count": 21
+      "summary": "魔神英雄传第二部OVA，在TV版第二部之后制作发行，共三话。本可作为为系列画上句号的作品。\r\n　　第一话：救世主再临\r\n　　以阎罗王为首的魔界势力突袭创界山，使创界山受到严重损坏，山体的一部分被炸毁。而同时在现生界，已经升上五年级的战部渡也隐约感觉到了异常，但当他赶往龙神池时，却没有像往常一样看见有龙神前来接他。只遇到了一位神秘的钓鱼老人，钓鱼老人和渡说了关于“另一个世界的操龙之族”的传说。当天晚上，骑着一匹白色飞马的虎王在月光中突然出现，告诉了渡情况并将渡带往创界山，可是当渡醒来时虎王已经不知所踪。此时他才看到创界山的惨状。并遭受魔界怪兽的袭击，但魔界的邪气使所有的魔神都失去了作用，渡和朋友们在没有魔神的情况下一番苦战终于暂时安全。\r\n　　创界山女王圣龙妃告诉渡，要击退魔界，必须前往天部界取到“拳龙之勾玉”封住魔界之门，于是渡和星界山皇子海火子通过圣龙妃竭尽全力架设的光之桥前往天部界。\r\n　　第二话：天部界的风暴\r\n　　天部界，是现生界、神部界的人都不能进入的禁地。渡和海火子在此遇上了天部界神子四天龙王，经过一番波折，四天龙王告诉渡必须前往操龙一族的聚居地才能拿到“拳龙之勾玉”。但是当两人在四天龙王的帮助下来到操龙一族的领地时，却被告知“拳龙之勾玉是由拳龙的眼泪所化，是属于操龙一族中每千年才诞生一个的拳龙士的，不能交给别人。”正好他们赶上了千年一度的拳龙降临，而此时，阎罗王突然尾随渡而来。意欲毁坏拳龙之勾玉并伤害拳龙生下的幼仔。渡拼死保护拳龙。而新的“拳龙之勾玉”也被阎罗王毁坏。关键时刻，四天龙王出现，阎罗王暂时退却。\r\n　　操龙一族的长老和四天龙王告诉渡，其实渡就是上一位拳龙士，“拳龙之勾玉”就在渡自己体内！这时，被渡保护的拳龙幼仔变成了白色的飞马——天龙马——这是拳龙为报答拳龙士的相救而变。不知为什么虎王也骑在天龙马马背上。渡、虎王、海火子随即骑着天龙马和四天龙王借予的天马麟王返回神部界。\r\n　　第三话：永远的传说\r\n　　在魔界的大举入侵面前，神部界生灵涂炭，除了人以外，花草树木，一切都在魔界邪气的侵袭之下石化。空手而回的渡等人看到了创界山的难民对自己企盼的目光后下定决心前往魔渊。在魔渊，他们遇上了阎罗王。最后的决战爆发，海火子在战斗中受了伤，渡的剑也被阎罗王斩断。危急时刻，渡体内的拳龙之勾玉突然出现帮渡挡住了阎罗王的剑，同时在虎王的帮助下，渡对阎罗王发出了逆转的一击，将阎罗王打败。但是，他也对自己一直以来战斗的意义产生了怀疑。\r\n　　阎罗王已被打败，剩下的只有用拳龙之勾玉封印位于魔渊的魔界湖下的魔界之扉。但是魔界湖常人无法承受其有毒的湖水。且封印后湖水马上就会结冰。人只能永远被玄冰封在里面。就在渡决心牺牲自己时，虎王用计将渡绑在了天龙马上并让天龙马带渡离开。自己则拿上勾玉潜入湖中封印魔界之扉。创界山得救了，魔界之湖的玄冰支撑住了残缺的创界山，渡也全身而退，但虎王却被封在了那永远不会融化，也不可能被毁掉的玄冰之中，渡也因失去拳龙之勾玉，卸下了救世主的职责。\r\n　　渡带着哀伤回到了现生界。时间慢慢过去，转眼已是第二年的春天，渡已是小学六年级了。在一个春日的晚上，他又一次看到了月光照耀下的天龙马的身影，当他赶往龙神池时，在老樱花树的落瓣之下，骑在天龙马上的，不是别人，正是好朋友虎王！　",
+      "name": "魔神英雄伝ワタル 終わりなき時の物語",
+      "name_cn": "魔神英雄传 永恒传说",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 30
+        },
+        {
+          "name": "魔神英雄传",
+          "count": 21
+        },
+        {
+          "name": "SUNRISE",
+          "count": 14
+        },
+        {
+          "name": "1993",
+          "count": 11
+        },
+        {
+          "name": "童年",
+          "count": 6
+        },
+        {
+          "name": "神龙斗士",
+          "count": 6
+        },
+        {
+          "name": "虎王",
+          "count": 4
+        },
+        {
+          "name": "日本动画",
+          "count": 3
+        },
+        {
+          "name": "魔神英雄伝ワタル",
+          "count": 3
+        },
+        {
+          "name": "动画",
+          "count": 2
+        },
+        {
+          "name": "日本",
+          "count": 2
+        },
+        {
+          "name": "怀旧",
+          "count": 2
+        },
+        {
+          "name": "萝卜",
+          "count": 2
+        },
+        {
+          "name": "井内秀治",
+          "count": 2
+        },
+        {
+          "name": "机战",
+          "count": 2
+        },
+        {
+          "name": "小山高生",
+          "count": 1
+        },
+        {
+          "name": "1993年",
+          "count": 1
+        },
+        {
+          "name": "robo",
+          "count": 1
+        },
+        {
+          "name": "1990-1999",
+          "count": 1
+        },
+        {
+          "name": "OVA-01",
+          "count": 1
+        },
+        {
+          "name": "爷青回",
+          "count": 1
+        },
+        {
+          "name": "8+",
+          "count": 1
+        },
+        {
+          "name": "六星",
+          "count": 1
+        },
+        {
+          "name": "大长篇",
+          "count": 1
+        },
+        {
+          "name": "芦田丰雄",
+          "count": 1
+        },
+        {
+          "name": "伊倉一恵",
+          "count": 1
+        },
+        {
+          "name": "机甲",
+          "count": 1
+        },
+        {
+          "name": "儿时萌",
+          "count": 1
+        },
+        {
+          "name": "原创",
+          "count": 1
+        },
+        {
+          "name": "サンライズ",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "魔神英雄传 永恒传说"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "魔神英雄传 没有终结时的传说"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "3"
+        },
+        {
+          "key": "发售日",
+          "value": "1993年10月1日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.mashin-eiyuuden-wataru.net/ova2/"
+        },
+        {
+          "key": "开始",
+          "value": "1993年10月1日"
+        },
+        {
+          "key": "结束",
+          "value": "1994年2月1日"
+        },
+        {
+          "key": "监督",
+          "value": "井内秀治"
+        }
+      ],
+      "rating": {
+        "rank": 2352,
+        "total": 77,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 1,
+          "5": 5,
+          "6": 19,
+          "7": 25,
+          "8": 18,
+          "9": 7,
+          "10": 1
+        },
+        "score": 7
       },
-      {
-        "name": "SUNRISE",
-        "count": 14
+      "total_episodes": 3,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 10,
+        "wish": 58,
+        "collect": 131,
+        "doing": 9
       },
-      {
-        "name": "1993",
-        "count": 11
-      },
-      {
-        "name": "童年",
-        "count": 6
-      },
-      {
-        "name": "神龙斗士",
-        "count": 6
-      },
-      {
-        "name": "虎王",
-        "count": 4
-      },
-      {
-        "name": "日本动画",
-        "count": 3
-      },
-      {
-        "name": "魔神英雄伝ワタル",
-        "count": 3
-      },
-      {
-        "name": "动画",
-        "count": 2
-      },
-      {
-        "name": "日本",
-        "count": 2
-      },
-      {
-        "name": "怀旧",
-        "count": 2
-      },
-      {
-        "name": "萝卜",
-        "count": 2
-      },
-      {
-        "name": "井内秀治",
-        "count": 2
-      },
-      {
-        "name": "机战",
-        "count": 2
-      },
-      {
-        "name": "小山高生",
-        "count": 1
-      },
-      {
-        "name": "1993年",
-        "count": 1
-      },
-      {
-        "name": "robo",
-        "count": 1
-      },
-      {
-        "name": "1990-1999",
-        "count": 1
-      },
-      {
-        "name": "OVA-01",
-        "count": 1
-      },
-      {
-        "name": "爷青回",
-        "count": 1
-      },
-      {
-        "name": "8+",
-        "count": 1
-      },
-      {
-        "name": "六星",
-        "count": 1
-      },
-      {
-        "name": "大长篇",
-        "count": 1
-      },
-      {
-        "name": "芦田丰雄",
-        "count": 1
-      },
-      {
-        "name": "伊倉一恵",
-        "count": 1
-      },
-      {
-        "name": "机甲",
-        "count": 1
-      },
-      {
-        "name": "儿时萌",
-        "count": 1
-      },
-      {
-        "name": "原创",
-        "count": 1
-      },
-      {
-        "name": "サンライズ",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "魔神英雄传 永恒传说"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "魔神英雄传 没有终结时的传说"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "3"
-      },
-      {
-        "key": "发售日",
-        "value": "1993年10月1日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.mashin-eiyuuden-wataru.net/ova2/"
-      },
-      {
-        "key": "开始",
-        "value": "1993年10月1日"
-      },
-      {
-        "key": "结束",
-        "value": "1994年2月1日"
-      },
-      {
-        "key": "监督",
-        "value": "井内秀治"
-      }
-    ],
-    "rating": {
-      "rank": 2366,
-      "total": 77,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 1,
-        "4": 1,
-        "5": 5,
-        "6": 19,
-        "7": 25,
-        "8": 18,
-        "9": 7,
-        "10": 1
-      },
-      "score": 7
-    },
-    "total_episodes": 3,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 10,
-      "wish": 58,
-      "collect": 131,
-      "doing": 9
-    },
-    "id": 38723,
-    "eps": 3,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 38723,
+      "eps": 3,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c4/de/1972_3wXVY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c4/de/1972_3wXVY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c4/de/1972_3wXVY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c4/de/1972_3wXVY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c4/de/1972_3wXVY.jpg"
+          },
+          "name": "魔神英雄伝ワタル",
+          "name_cn": "魔神英雄传",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 1972
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/de/b5/1973_mC02a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/de/b5/1973_mC02a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/de/b5/1973_mC02a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/de/b5/1973_mC02a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/de/b5/1973_mC02a.jpg"
+          },
+          "name": "魔神英雄伝ワタル2",
+          "name_cn": "魔神英雄传2",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 1973
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/c9/45071_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/c9/45071_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/c9/45071_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/c9/45071_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/c9/45071_jp.jpg"
+          },
+          "name": "魔神英雄伝ワタル メモリアルブック",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 45071
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/d0/51092_6100i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/d0/51092_6100i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/d0/51092_6100i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/d0/51092_6100i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/d0/51092_6100i.jpg"
+          },
+          "name": "魔神英雄伝ワタル〜終わりなき時の物語",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 51092
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/6f/51146_1s991.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/6f/51146_1s991.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/92/6f/51146_1s991.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/6f/51146_1s991.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/6f/51146_1s991.jpg"
+          },
+          "name": "永遠の扉",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 51146
+        }
+      ]
+    }
   }
 ]

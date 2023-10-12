@@ -1,790 +1,1146 @@
 [
   {
-    "date": "1998-01-07",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/cd/49886_LY1aY.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/cd/49886_LY1aY.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/80/cd/49886_LY1aY.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/cd/49886_LY1aY.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/cd/49886_LY1aY.jpg"
-    },
-    "summary": "万能文化猫娘・TV版\r\n1998年1月7日－3月25日播出，共12集，外加两集特别篇。",
-    "name": "万能文化猫娘",
-    "name_cn": "万能文化猫娘 TV",
-    "tags": [
-      {
-        "name": "TV",
-        "count": 16
+    "title": "万能文化猫娘",
+    "bangumi": {
+      "date": "1998-01-07",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/cd/49886_LY1aY.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/cd/49886_LY1aY.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/80/cd/49886_LY1aY.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/cd/49886_LY1aY.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/cd/49886_LY1aY.jpg"
       },
-      {
-        "name": "林原めぐみ",
-        "count": 9
+      "summary": "万能文化猫娘・TV版\r\n1998年1月7日－3月25日播出，共12集，外加两集特别篇。",
+      "name": "万能文化猫娘",
+      "name_cn": "万能文化猫娘 TV",
+      "tags": [
+        {
+          "name": "TV",
+          "count": 16
+        },
+        {
+          "name": "林原めぐみ",
+          "count": 9
+        },
+        {
+          "name": "1998",
+          "count": 8
+        },
+        {
+          "name": "战斗",
+          "count": 4
+        },
+        {
+          "name": "ProductionReed",
+          "count": 3
+        },
+        {
+          "name": "机器人",
+          "count": 3
+        },
+        {
+          "name": "恋爱",
+          "count": 3
+        },
+        {
+          "name": "1998年01月",
+          "count": 3
+        },
+        {
+          "name": "苇PRODUCTION",
+          "count": 3
+        },
+        {
+          "name": "山口宏",
+          "count": 2
+        },
+        {
+          "name": "90s",
+          "count": 1
+        },
+        {
+          "name": "藤本義孝",
+          "count": 1
+        },
+        {
+          "name": "福利向",
+          "count": 1
+        },
+        {
+          "name": "漫画改",
+          "count": 1
+        },
+        {
+          "name": "原创",
+          "count": 1
+        },
+        {
+          "name": "在2024",
+          "count": 1
+        },
+        {
+          "name": "必補",
+          "count": 1
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "旧番",
+          "count": 1
+        },
+        {
+          "name": "林原惠美",
+          "count": 1
+        },
+        {
+          "name": "童年",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "搞笑",
+          "count": 1
+        },
+        {
+          "name": "有病",
+          "count": 1
+        },
+        {
+          "name": "漫改",
+          "count": 1
+        },
+        {
+          "name": "1998年",
+          "count": 1
+        },
+        {
+          "name": "补番",
+          "count": 1
+        },
+        {
+          "name": "猫",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "万能文化猫娘 TV"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "万能文化猫娘・TV版"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "14"
+        },
+        {
+          "key": "放送开始",
+          "value": "1998年1月7日"
+        },
+        {
+          "key": "播放结束",
+          "value": "1998年3月25日"
+        },
+        {
+          "key": "导演",
+          "value": "ふじもとよしたか"
+        },
+        {
+          "key": "系列构成",
+          "value": "山口宏"
+        },
+        {
+          "key": "人物设定",
+          "value": "きしもとせいじ"
+        },
+        {
+          "key": "音乐",
+          "value": "B-cats"
+        },
+        {
+          "key": "动画制作",
+          "value": "苇プロダクション"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 24,
+        "count": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 1,
+          "5": 3,
+          "6": 9,
+          "7": 6,
+          "8": 4,
+          "9": 0,
+          "10": 0
+        },
+        "score": 6.2
       },
-      {
-        "name": "1998",
-        "count": 8
+      "total_episodes": 12,
+      "collection": {
+        "on_hold": 9,
+        "dropped": 6,
+        "wish": 43,
+        "collect": 41,
+        "doing": 5
       },
-      {
-        "name": "战斗",
-        "count": 4
-      },
-      {
-        "name": "ProductionReed",
-        "count": 3
-      },
-      {
-        "name": "机器人",
-        "count": 3
-      },
-      {
-        "name": "恋爱",
-        "count": 3
-      },
-      {
-        "name": "1998年01月",
-        "count": 3
-      },
-      {
-        "name": "苇PRODUCTION",
-        "count": 3
-      },
-      {
-        "name": "山口宏",
-        "count": 2
-      },
-      {
-        "name": "90s",
-        "count": 1
-      },
-      {
-        "name": "藤本義孝",
-        "count": 1
-      },
-      {
-        "name": "福利向",
-        "count": 1
-      },
-      {
-        "name": "漫画改",
-        "count": 1
-      },
-      {
-        "name": "原创",
-        "count": 1
-      },
-      {
-        "name": "在2024",
-        "count": 1
-      },
-      {
-        "name": "必補",
-        "count": 1
-      },
-      {
-        "name": "赛璐珞",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "旧番",
-        "count": 1
-      },
-      {
-        "name": "林原惠美",
-        "count": 1
-      },
-      {
-        "name": "童年",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "搞笑",
-        "count": 1
-      },
-      {
-        "name": "有病",
-        "count": 1
-      },
-      {
-        "name": "漫改",
-        "count": 1
-      },
-      {
-        "name": "1998年",
-        "count": 1
-      },
-      {
-        "name": "补番",
-        "count": 1
-      },
-      {
-        "name": "猫",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "万能文化猫娘 TV"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "万能文化猫娘・TV版"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "14"
-      },
-      {
-        "key": "放送开始",
-        "value": "1998年1月7日"
-      },
-      {
-        "key": "播放结束",
-        "value": "1998年3月25日"
-      },
-      {
-        "key": "导演",
-        "value": "ふじもとよしたか"
-      },
-      {
-        "key": "系列构成",
-        "value": "山口宏"
-      },
-      {
-        "key": "人物设定",
-        "value": "きしもとせいじ"
-      },
-      {
-        "key": "音乐",
-        "value": "B-cats"
-      },
-      {
-        "key": "动画制作",
-        "value": "苇プロダクション"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 24,
-      "count": {
-        "1": 0,
-        "2": 1,
-        "3": 0,
-        "4": 1,
-        "5": 3,
-        "6": 9,
-        "7": 6,
-        "8": 4,
-        "9": 0,
-        "10": 0
-      },
-      "score": 6.2
-    },
-    "total_episodes": 12,
-    "collection": {
-      "on_hold": 9,
-      "dropped": 6,
-      "wish": 43,
-      "collect": 41,
-      "doing": 5
-    },
-    "id": 49886,
-    "eps": 14,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 49886,
+      "eps": 14,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/d3/3390_BGCbI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/d3/3390_BGCbI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/d3/3390_BGCbI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/d3/3390_BGCbI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/d3/3390_BGCbI.jpg"
+          },
+          "name": "万能文化猫娘",
+          "name_cn": "万能文化猫娘",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 3390
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/92/49887_8J5lN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/92/49887_8J5lN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/92/49887_8J5lN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/92/49887_8J5lN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/92/49887_8J5lN.jpg"
+          },
+          "name": "万能文化猫娘DASH!",
+          "name_cn": "万能文化猫娘DASH!",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 49887
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/fb/96659_Oo8zh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/fb/96659_Oo8zh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6d/fb/96659_Oo8zh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/fb/96659_Oo8zh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/fb/96659_Oo8zh.jpg"
+          },
+          "name": "Fine colorday",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 96659
+        }
+      ]
+    }
   },
   {
-    "date": "1998-01-05",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/ab/47760_1HMSM.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/ab/47760_1HMSM.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/82/ab/47760_1HMSM.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/ab/47760_1HMSM.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/ab/47760_1HMSM.jpg"
-    },
-    "summary": "ミニ四駆に情熱を燃やす少年の戦いを描くレースアクション。1996年に放映された「爆走兄弟レッツ＆ゴー!!」、1997年に放映された「爆走兄弟レッツ＆ゴー!! ＷＧＰ」の続編で、今作はキャラクターデザインを一新、主人公も新しくした。一文字豪樹は、自称世界一のミニ四駆レーサー。だが、ミニ四グランプリ世界チャンピオンのＴＲＦビクトリーズや、ボルゾイのトップレーサー・左京たちにレースを挑んでみたものの、負けてばかり。奮起した彼は、必殺技を研究するが…。",
-    "name": "爆走兄弟レッツ&amp;ゴー!!MAX",
-    "name_cn": "四驱兄弟MAX",
-    "tags": [
-      {
-        "name": "童年",
-        "count": 65
+    "title": "爆走兄弟レッツ&ゴー!!MAX",
+    "bangumi": {
+      "date": "1998-01-05",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/ab/47760_1HMSM.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/ab/47760_1HMSM.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/82/ab/47760_1HMSM.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/ab/47760_1HMSM.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/ab/47760_1HMSM.jpg"
       },
-      {
-        "name": "TV",
-        "count": 49
+      "summary": "ミニ四駆に情熱を燃やす少年の戦いを描くレースアクション。1996年に放映された「爆走兄弟レッツ＆ゴー!!」、1997年に放映された「爆走兄弟レッツ＆ゴー!! ＷＧＰ」の続編で、今作はキャラクターデザインを一新、主人公も新しくした。一文字豪樹は、自称世界一のミニ四駆レーサー。だが、ミニ四グランプリ世界チャンピオンのＴＲＦビクトリーズや、ボルゾイのトップレーサー・左京たちにレースを挑んでみたものの、負けてばかり。奮起した彼は、必殺技を研究するが…。",
+      "name": "爆走兄弟レッツ&amp;ゴー!!MAX",
+      "name_cn": "四驱兄弟MAX",
+      "tags": [
+        {
+          "name": "童年",
+          "count": 65
+        },
+        {
+          "name": "TV",
+          "count": 49
+        },
+        {
+          "name": "1998",
+          "count": 42
+        },
+        {
+          "name": "XEBEC",
+          "count": 34
+        },
+        {
+          "name": "四驱兄弟",
+          "count": 34
+        },
+        {
+          "name": "热血",
+          "count": 25
+        },
+        {
+          "name": "原创",
+          "count": 16
+        },
+        {
+          "name": "童年回憶",
+          "count": 14
+        },
+        {
+          "name": "四驱车",
+          "count": 11
+        },
+        {
+          "name": "1998年1月",
+          "count": 10
+        },
+        {
+          "name": "爆走兄弟",
+          "count": 7
+        },
+        {
+          "name": "TVA",
+          "count": 4
+        },
+        {
+          "name": "加戸誉夫",
+          "count": 4
+        },
+        {
+          "name": "星山博之",
+          "count": 4
+        },
+        {
+          "name": "四驅車",
+          "count": 3
+        },
+        {
+          "name": "日本",
+          "count": 3
+        },
+        {
+          "name": "TVB",
+          "count": 2
+        },
+        {
+          "name": "1998年",
+          "count": 2
+        },
+        {
+          "name": "90年代",
+          "count": 2
+        },
+        {
+          "name": "日本动画",
+          "count": 2
+        },
+        {
+          "name": "漫画改",
+          "count": 2
+        },
+        {
+          "name": "搞笑",
+          "count": 2
+        },
+        {
+          "name": "加户誉夫",
+          "count": 2
+        },
+        {
+          "name": "动画",
+          "count": 2
+        },
+        {
+          "name": "6分",
+          "count": 1
+        },
+        {
+          "name": "7JA",
+          "count": 1
+        },
+        {
+          "name": "六分",
+          "count": 1
+        },
+        {
+          "name": "童",
+          "count": 1
+        },
+        {
+          "name": "小出克彦",
+          "count": 1
+        },
+        {
+          "name": "以前",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "四驱兄弟MAX"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "四驱兄弟 第三期"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "51"
+        },
+        {
+          "key": "放送开始",
+          "value": "1998年1月5日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期一"
+        },
+        {
+          "key": "播放结束",
+          "value": "1998年12月21日"
+        }
+      ],
+      "rating": {
+        "rank": 4262,
+        "total": 258,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 5,
+          "5": 32,
+          "6": 92,
+          "7": 87,
+          "8": 30,
+          "9": 7,
+          "10": 4
+        },
+        "score": 6.5
       },
-      {
-        "name": "1998",
-        "count": 42
+      "total_episodes": 51,
+      "collection": {
+        "on_hold": 18,
+        "dropped": 16,
+        "wish": 38,
+        "collect": 454,
+        "doing": 7
       },
-      {
-        "name": "XEBEC",
-        "count": 34
-      },
-      {
-        "name": "四驱兄弟",
-        "count": 34
-      },
-      {
-        "name": "热血",
-        "count": 25
-      },
-      {
-        "name": "原创",
-        "count": 16
-      },
-      {
-        "name": "童年回憶",
-        "count": 14
-      },
-      {
-        "name": "四驱车",
-        "count": 11
-      },
-      {
-        "name": "1998年1月",
-        "count": 10
-      },
-      {
-        "name": "爆走兄弟",
-        "count": 7
-      },
-      {
-        "name": "TVA",
-        "count": 4
-      },
-      {
-        "name": "加戸誉夫",
-        "count": 4
-      },
-      {
-        "name": "星山博之",
-        "count": 4
-      },
-      {
-        "name": "四驅車",
-        "count": 3
-      },
-      {
-        "name": "日本",
-        "count": 3
-      },
-      {
-        "name": "TVB",
-        "count": 2
-      },
-      {
-        "name": "1998年",
-        "count": 2
-      },
-      {
-        "name": "90年代",
-        "count": 2
-      },
-      {
-        "name": "日本动画",
-        "count": 2
-      },
-      {
-        "name": "漫画改",
-        "count": 2
-      },
-      {
-        "name": "搞笑",
-        "count": 2
-      },
-      {
-        "name": "加户誉夫",
-        "count": 2
-      },
-      {
-        "name": "动画",
-        "count": 2
-      },
-      {
-        "name": "6分",
-        "count": 1
-      },
-      {
-        "name": "7JA",
-        "count": 1
-      },
-      {
-        "name": "六分",
-        "count": 1
-      },
-      {
-        "name": "童",
-        "count": 1
-      },
-      {
-        "name": "小出克彦",
-        "count": 1
-      },
-      {
-        "name": "以前",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "四驱兄弟MAX"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "四驱兄弟 第三期"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "51"
-      },
-      {
-        "key": "放送开始",
-        "value": "1998年1月5日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期一"
-      },
-      {
-        "key": "播放结束",
-        "value": "1998年12月21日"
-      }
-    ],
-    "rating": {
-      "rank": 4221,
-      "total": 258,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 1,
-        "4": 5,
-        "5": 32,
-        "6": 92,
-        "7": 87,
-        "8": 30,
-        "9": 7,
-        "10": 4
-      },
-      "score": 6.5
-    },
-    "total_episodes": 51,
-    "collection": {
-      "on_hold": 17,
-      "dropped": 16,
-      "wish": 38,
-      "collect": 454,
-      "doing": 7
-    },
-    "id": 47760,
-    "eps": 51,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 47760,
+      "eps": 51,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8b/3a/33260_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8b/3a/33260_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8b/3a/33260_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8b/3a/33260_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/3a/33260_jp.jpg"
+          },
+          "name": "爆走兄弟レッツ&amp;ゴー!!Girl &lt;レディース・グランプリ開幕!!&gt;",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 33260
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/87/33261_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/87/33261_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ba/87/33261_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/87/33261_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/87/33261_jp.jpg"
+          },
+          "name": "「爆走兄弟レッツ&amp;ゴーMAX」ミュージック・コレクション",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 33261
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/ab/33262_cjf61.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/ab/33262_cjf61.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/ab/33262_cjf61.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/ab/33262_cjf61.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/ab/33262_cjf61.jpg"
+          },
+          "name": "「爆走兄弟レッツ&amp;ゴーMAX」ミュージック・コレクション2",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 33262
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/3b/47759_61jRv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/3b/47759_61jRv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/47/3b/47759_61jRv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/3b/47759_61jRv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/3b/47759_61jRv.jpg"
+          },
+          "name": "爆走兄弟レッツ&amp;ゴー!!WGP",
+          "name_cn": "四驱兄弟WGP",
+          "relation": "前传",
+          "type": 2,
+          "id": 47759
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/71/50772_klLN7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/71/50772_klLN7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/71/50772_klLN7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/71/50772_klLN7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/71/50772_klLN7.jpg"
+          },
+          "name": "僕らのFREEDOM",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 50772
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/a1/76622_s1CMm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/a1/76622_s1CMm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/a1/76622_s1CMm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/a1/76622_s1CMm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/a1/76622_s1CMm.jpg"
+          },
+          "name": "My name is カーボーイ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 76622
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/4f/76623_T6d8r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/4f/76623_T6d8r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/4f/76623_T6d8r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/4f/76623_T6d8r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/4f/76623_T6d8r.jpg"
+          },
+          "name": "BRAVE HEART",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 76623
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/4c/189702_3DB0p.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/4c/189702_3DB0p.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/4c/189702_3DB0p.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/4c/189702_3DB0p.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/4c/189702_3DB0p.jpg"
+          },
+          "name": "爆走兄弟レッツ＆ゴー！！",
+          "name_cn": "四驱兄弟",
+          "relation": "书籍",
+          "type": 1,
+          "id": 189702
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/70/417311_G02Zv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/70/417311_G02Zv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/70/417311_G02Zv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/70/417311_G02Zv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/70/417311_G02Zv.jpg"
+          },
+          "name": "爆走兄弟レッツ&amp;ゴー!!MAX",
+          "name_cn": "爆走兄弟Let's&amp;Go!!MAX",
+          "relation": "书籍",
+          "type": 1,
+          "id": 417311
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/16/448379_6zO0T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/16/448379_6zO0T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6a/16/448379_6zO0T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/16/448379_6zO0T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/16/448379_6zO0T.jpg"
+          },
+          "name": "ミニ四駆GB Let's&amp;Go!! オールスターバトルMAX",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 448379
+        }
+      ]
+    }
   },
   {
-    "date": "1998-01-08",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/b5/8292_gRj75.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/b5/8292_gRj75.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/d6/b5/8292_gRj75.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/b5/8292_gRj75.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/b5/8292_gRj75.jpg"
-    },
-    "summary": "　　在浩瀚并充满神秘的宇宙中,隐藏着许多令人趋之若骛之处！横行无阻的宇宙海盗，拥有强大兵力的军事王朝，以及热爱自由，享受冒险并坚持个人理想的宇宙游侠--Outlaw，三方人马虽然各自目的不同，却有共同目标，那就是---银河龙脉！\r\n　　无法者比路达为宝藏和宇宙海盗发生争执，带著宝藏逃到某个星球，并委托战˙星风当保镖。经过一番战斗后，成功逃出。\r\n　　在战˙星风的要求下比路达说出目的——\"取得能冲入地底的草猛舰朝宇宙龙脉前进\"。以21世纪异世界太阳系宇宙为舞台的故事正式开始…… 这个片子是上世纪末期与星际牛仔(cowboy bebop)等同时期出现的，在美国也是相当受欢迎。",
-    "name": "星方武侠アウトロースター",
-    "name_cn": "星方武侠",
-    "tags": [
-      {
-        "name": "SUNRISE",
-        "count": 40
+    "title": "星方武侠アウトロースター",
+    "bangumi": {
+      "date": "1998-01-08",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/b5/8292_gRj75.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/b5/8292_gRj75.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/d6/b5/8292_gRj75.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/b5/8292_gRj75.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/b5/8292_gRj75.jpg"
       },
-      {
-        "name": "TV",
-        "count": 37
+      "summary": "　　在浩瀚并充满神秘的宇宙中,隐藏着许多令人趋之若骛之处！横行无阻的宇宙海盗，拥有强大兵力的军事王朝，以及热爱自由，享受冒险并坚持个人理想的宇宙游侠--Outlaw，三方人马虽然各自目的不同，却有共同目标，那就是---银河龙脉！\r\n　　无法者比路达为宝藏和宇宙海盗发生争执，带著宝藏逃到某个星球，并委托战˙星风当保镖。经过一番战斗后，成功逃出。\r\n　　在战˙星风的要求下比路达说出目的——\"取得能冲入地底的草猛舰朝宇宙龙脉前进\"。以21世纪异世界太阳系宇宙为舞台的故事正式开始…… 这个片子是上世纪末期与星际牛仔(cowboy bebop)等同时期出现的，在美国也是相当受欢迎。",
+      "name": "星方武侠アウトロースター",
+      "name_cn": "星方武侠",
+      "tags": [
+        {
+          "name": "SUNRISE",
+          "count": 40
+        },
+        {
+          "name": "TV",
+          "count": 37
+        },
+        {
+          "name": "1998",
+          "count": 23
+        },
+        {
+          "name": "科幻",
+          "count": 20
+        },
+        {
+          "name": "漫画改",
+          "count": 14
+        },
+        {
+          "name": "搞笑",
+          "count": 11
+        },
+        {
+          "name": "1998年1月",
+          "count": 8
+        },
+        {
+          "name": "星方武侠",
+          "count": 8
+        },
+        {
+          "name": "伊東岳彦",
+          "count": 7
+        },
+        {
+          "name": "川澄绫子",
+          "count": 5
+        },
+        {
+          "name": "宇宙",
+          "count": 4
+        },
+        {
+          "name": "1998年",
+          "count": 4
+        },
+        {
+          "name": "原创",
+          "count": 4
+        },
+        {
+          "name": "TVA",
+          "count": 3
+        },
+        {
+          "name": "千葉克彦",
+          "count": 2
+        },
+        {
+          "name": "动画",
+          "count": 2
+        },
+        {
+          "name": "本郷みつる",
+          "count": 2
+        },
+        {
+          "name": "补完",
+          "count": 2
+        },
+        {
+          "name": "被推荐",
+          "count": 1
+        },
+        {
+          "name": "旧番",
+          "count": 1
+        },
+        {
+          "name": "6分",
+          "count": 1
+        },
+        {
+          "name": "乳首",
+          "count": 1
+        },
+        {
+          "name": "渋谷茂",
+          "count": 1
+        },
+        {
+          "name": "待補2",
+          "count": 1
+        },
+        {
+          "name": "西部",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "日本",
+          "count": 1
+        },
+        {
+          "name": "海贼王",
+          "count": 1
+        },
+        {
+          "name": "机战",
+          "count": 1
+        },
+        {
+          "name": "后宫",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "星方武侠"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "OUTLAW STAR"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "26"
+        },
+        {
+          "key": "放送开始",
+          "value": "1998年1月8日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.sunrise-inc.co.jp/seihou/OUTLAW-STAR/story.html"
+        },
+        {
+          "key": "播放结束",
+          "value": "1998年6月25日"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇、伊東岳彦"
+        },
+        {
+          "key": "导演",
+          "value": "本郷みつる"
+        },
+        {
+          "key": "制作",
+          "value": "創通映像(現・創通エンタテインメント)、サンライズ"
+        }
+      ],
+      "rating": {
+        "rank": 4177,
+        "total": 62,
+        "count": {
+          "1": 1,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 17,
+          "6": 18,
+          "7": 18,
+          "8": 5,
+          "9": 2,
+          "10": 1
+        },
+        "score": 6.3
       },
-      {
-        "name": "1998",
-        "count": 23
+      "total_episodes": 26,
+      "collection": {
+        "on_hold": 19,
+        "dropped": 15,
+        "wish": 165,
+        "collect": 92,
+        "doing": 13
       },
-      {
-        "name": "科幻",
-        "count": 20
-      },
-      {
-        "name": "漫画改",
-        "count": 14
-      },
-      {
-        "name": "搞笑",
-        "count": 11
-      },
-      {
-        "name": "1998年1月",
-        "count": 8
-      },
-      {
-        "name": "星方武侠",
-        "count": 8
-      },
-      {
-        "name": "伊東岳彦",
-        "count": 7
-      },
-      {
-        "name": "川澄绫子",
-        "count": 5
-      },
-      {
-        "name": "宇宙",
-        "count": 4
-      },
-      {
-        "name": "1998年",
-        "count": 4
-      },
-      {
-        "name": "原创",
-        "count": 4
-      },
-      {
-        "name": "TVA",
-        "count": 3
-      },
-      {
-        "name": "千葉克彦",
-        "count": 2
-      },
-      {
-        "name": "动画",
-        "count": 2
-      },
-      {
-        "name": "本郷みつる",
-        "count": 2
-      },
-      {
-        "name": "补完",
-        "count": 2
-      },
-      {
-        "name": "被推荐",
-        "count": 1
-      },
-      {
-        "name": "旧番",
-        "count": 1
-      },
-      {
-        "name": "6分",
-        "count": 1
-      },
-      {
-        "name": "乳首",
-        "count": 1
-      },
-      {
-        "name": "渋谷茂",
-        "count": 1
-      },
-      {
-        "name": "待補2",
-        "count": 1
-      },
-      {
-        "name": "西部",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "日本",
-        "count": 1
-      },
-      {
-        "name": "海贼王",
-        "count": 1
-      },
-      {
-        "name": "机战",
-        "count": 1
-      },
-      {
-        "name": "后宫",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "星方武侠"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "OUTLAW STAR"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "26"
-      },
-      {
-        "key": "放送开始",
-        "value": "1998年1月8日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.sunrise-inc.co.jp/seihou/OUTLAW-STAR/story.html"
-      },
-      {
-        "key": "播放结束",
-        "value": "1998年6月25日"
-      },
-      {
-        "key": "原作",
-        "value": "矢立肇、伊東岳彦"
-      },
-      {
-        "key": "导演",
-        "value": "本郷みつる"
-      },
-      {
-        "key": "制作",
-        "value": "創通映像(現・創通エンタテインメント)、サンライズ"
-      }
-    ],
-    "rating": {
-      "rank": 4173,
-      "total": 62,
-      "count": {
-        "1": 1,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 17,
-        "6": 18,
-        "7": 18,
-        "8": 5,
-        "9": 2,
-        "10": 1
-      },
-      "score": 6.3
-    },
-    "total_episodes": 26,
-    "collection": {
-      "on_hold": 19,
-      "dropped": 15,
-      "wish": 165,
-      "collect": 92,
-      "doing": 13
-    },
-    "id": 8292,
-    "eps": 26,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 8292,
+      "eps": 26,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/a4/30520_5bA10.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/a4/30520_5bA10.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/a4/30520_5bA10.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/a4/30520_5bA10.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/a4/30520_5bA10.jpg"
+          },
+          "name": "星方天使エンジェルリンクス",
+          "name_cn": "星方天使",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 30520
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/00/0d/50738_0102m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/00/0d/50738_0102m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/00/0d/50738_0102m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/00/0d/50738_0102m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/00/0d/50738_0102m.jpg"
+          },
+          "name": "Through The Night",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 50738
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/86/98614_6g2g0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/86/98614_6g2g0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/86/98614_6g2g0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/86/98614_6g2g0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/86/98614_6g2g0.jpg"
+          },
+          "name": "昼の月",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 98614
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/48/98615_DZ5DR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/48/98615_DZ5DR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f2/48/98615_DZ5DR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/48/98615_DZ5DR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/48/98615_DZ5DR.jpg"
+          },
+          "name": "月の家",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 98615
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/36/327669_jnf8d.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/36/327669_jnf8d.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/36/327669_jnf8d.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/36/327669_jnf8d.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/36/327669_jnf8d.jpg"
+          },
+          "name": "星方武侠アウトロースター サウンド&amp;シナリオトラック",
+          "name_cn": "星方武侠广播剧",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 327669
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/5c/438234_VCnCL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/5c/438234_VCnCL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/82/5c/438234_VCnCL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/5c/438234_VCnCL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/5c/438234_VCnCL.jpg"
+          },
+          "name": "アウトロースター",
+          "name_cn": "星方武侠",
+          "relation": "书籍",
+          "type": 1,
+          "id": 438234
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/3c/327671_E9Te9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/3c/327671_E9Te9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/08/3c/327671_E9Te9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/3c/327671_E9Te9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/3c/327671_E9Te9.jpg"
+          },
+          "name": "星方武侠アウトロースター オリジナル・サウンドトラック I",
+          "name_cn": "星方武侠OST1",
+          "relation": "原声集",
+          "type": 3,
+          "id": 327671
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/65/327670_3dTRm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/65/327670_3dTRm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/65/327670_3dTRm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/65/327670_3dTRm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/65/327670_3dTRm.jpg"
+          },
+          "name": "星方武侠アウトロースター オリジナル・サウンドトラック II",
+          "name_cn": "星方武侠OST2",
+          "relation": "原声集",
+          "type": 3,
+          "id": 327670
+        }
+      ]
+    }
   },
   {
-    "date": "1998-01-07",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/e1/81173_hHefd.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/e1/81173_hHefd.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/5d/e1/81173_hHefd.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/e1/81173_hHefd.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/e1/81173_hHefd.jpg"
-    },
-    "summary": "引退したミーズにかわり新たな水の大神官であるクァウール・タウラスが到着したが、就任式の日に誠たちは次元転移装置の暴走により異世界クレタリアの各地へと飛ばされてしまった。",
-    "name": "異次元の世界エルハザード",
-    "name_cn": "异次元的世界",
-    "tags": [
-      {
-        "name": "TV",
-        "count": 11
+    "title": "異次元の世界エルハザード",
+    "bangumi": {
+      "date": "1998-01-07",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/e1/81173_hHefd.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/e1/81173_hHefd.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/5d/e1/81173_hHefd.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/e1/81173_hHefd.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/e1/81173_hHefd.jpg"
       },
-      {
-        "name": "1998",
-        "count": 10
+      "summary": "引退したミーズにかわり新たな水の大神官であるクァウール・タウラスが到着したが、就任式の日に誠たちは次元転移装置の暴走により異世界クレタリアの各地へと飛ばされてしまった。",
+      "name": "異次元の世界エルハザード",
+      "name_cn": "异次元的世界",
+      "tags": [
+        {
+          "name": "TV",
+          "count": 11
+        },
+        {
+          "name": "1998",
+          "count": 10
+        },
+        {
+          "name": "AIC",
+          "count": 5
+        },
+        {
+          "name": "番组",
+          "count": 4
+        },
+        {
+          "name": "El-Hazard",
+          "count": 4
+        },
+        {
+          "name": "1998年",
+          "count": 4
+        },
+        {
+          "name": "奇幻",
+          "count": 4
+        },
+        {
+          "name": "补旧番",
+          "count": 3
+        },
+        {
+          "name": "林宏樹",
+          "count": 3
+        },
+        {
+          "name": "原创",
+          "count": 2
+        },
+        {
+          "name": "石井康嗣",
+          "count": 2
+        },
+        {
+          "name": "旧番",
+          "count": 2
+        },
+        {
+          "name": "山田光洋",
+          "count": 2
+        },
+        {
+          "name": "1998年1月",
+          "count": 2
+        },
+        {
+          "name": "1998年一月番",
+          "count": 1
+        },
+        {
+          "name": "SF",
+          "count": 1
+        },
+        {
+          "name": "岩永哲哉",
+          "count": 1
+        },
+        {
+          "name": "90年代",
+          "count": 1
+        },
+        {
+          "name": "OP",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "山口宏",
+          "count": 1
+        },
+        {
+          "name": "菊地康仁",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "夏樹リオ",
+          "count": 1
+        },
+        {
+          "name": "异世界",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "异次元的世界"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "异次元的世界EL-HAZARD"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "13"
+        },
+        {
+          "key": "放送开始",
+          "value": "1998年1月7日"
+        },
+        {
+          "key": "播放结束",
+          "value": "1998年3月25日"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 16,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 2,
+          "6": 7,
+          "7": 3,
+          "8": 2,
+          "9": 0,
+          "10": 0
+        },
+        "score": 6.1
       },
-      {
-        "name": "AIC",
-        "count": 5
+      "total_episodes": 13,
+      "collection": {
+        "on_hold": 4,
+        "dropped": 4,
+        "wish": 28,
+        "collect": 25,
+        "doing": 3
       },
-      {
-        "name": "番组",
-        "count": 4
-      },
-      {
-        "name": "El-Hazard",
-        "count": 4
-      },
-      {
-        "name": "1998年",
-        "count": 4
-      },
-      {
-        "name": "奇幻",
-        "count": 4
-      },
-      {
-        "name": "补旧番",
-        "count": 3
-      },
-      {
-        "name": "林宏樹",
-        "count": 3
-      },
-      {
-        "name": "原创",
-        "count": 2
-      },
-      {
-        "name": "石井康嗣",
-        "count": 2
-      },
-      {
-        "name": "旧番",
-        "count": 2
-      },
-      {
-        "name": "山田光洋",
-        "count": 2
-      },
-      {
-        "name": "1998年1月",
-        "count": 2
-      },
-      {
-        "name": "1998年一月番",
-        "count": 1
-      },
-      {
-        "name": "SF",
-        "count": 1
-      },
-      {
-        "name": "岩永哲哉",
-        "count": 1
-      },
-      {
-        "name": "90年代",
-        "count": 1
-      },
-      {
-        "name": "OP",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "山口宏",
-        "count": 1
-      },
-      {
-        "name": "菊地康仁",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "夏樹リオ",
-        "count": 1
-      },
-      {
-        "name": "异世界",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "异次元的世界"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "异次元的世界EL-HAZARD"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "13"
-      },
-      {
-        "key": "放送开始",
-        "value": "1998年1月7日"
-      },
-      {
-        "key": "播放结束",
-        "value": "1998年3月25日"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 16,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 2,
-        "5": 2,
-        "6": 7,
-        "7": 3,
-        "8": 2,
-        "9": 0,
-        "10": 0
-      },
-      "score": 6.1
-    },
-    "total_episodes": 13,
-    "collection": {
-      "on_hold": 4,
-      "dropped": 4,
-      "wish": 28,
-      "collect": 25,
-      "doing": 3
-    },
-    "id": 81173,
-    "eps": 13,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 81173,
+      "eps": 13,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/ea/81172_UDOgc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/ea/81172_UDOgc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/ea/81172_UDOgc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/ea/81172_UDOgc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/ea/81172_UDOgc.jpg"
+          },
+          "name": "神秘の世界エルハザード2",
+          "name_cn": "神秘的世界2",
+          "relation": "前传",
+          "type": 2,
+          "id": 81172
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/87/f2/142300_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/87/f2/142300_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/87/f2/142300_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/87/f2/142300_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/87/f2/142300_jp.jpg"
+          },
+          "name": "異次元の世界エルハザード 音楽篇",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 142300
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/6f/240020_p8LD0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/6f/240020_p8LD0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2b/6f/240020_p8LD0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/6f/240020_p8LD0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/6f/240020_p8LD0.jpg"
+          },
+          "name": "幻双の世界エルハザード（仮）",
+          "name_cn": "幻双的世界（暂定）",
+          "relation": "动画",
+          "type": 2,
+          "id": 240020
+        }
+      ]
+    }
   }
 ]

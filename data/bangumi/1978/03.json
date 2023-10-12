@@ -1,206 +1,379 @@
 [
   {
-    "date": "1978-03-14",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/be/38639_YXM23.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/be/38639_YXM23.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/9f/be/38639_YXM23.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/be/38639_YXM23.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/be/38639_YXM23.jpg"
-    },
-    "summary": "松本零士のSFワールドを代表する名キャラクターの主演アニメ第一弾。少女まゆや敵役・切田長官らアニメオリジナルの登場人物も物語の幅を広げた。西暦2977年。腐敗した体制の地球を、美女の姿をした異星の植物人間マゾーンが狙っていた。人類の未来のため物資の強奪とその備蓄を図る宇宙海賊ハーロックとその四十余名の仲間。彼らはマゾーンの侵略に気づき、孤高の戦いを開始する。だがマゾーンと人類の間には意外な秘密が……。",
-    "name": "宇宙海賊キャプテンハーロック",
-    "name_cn": "宇宙海盗哈洛克",
-    "tags": [
-      {
-        "name": "1978",
-        "count": 25
+    "title": "宇宙海賊キャプテンハーロック",
+    "bangumi": {
+      "date": "1978-03-14",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/be/38639_YXM23.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/be/38639_YXM23.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/9f/be/38639_YXM23.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/be/38639_YXM23.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/be/38639_YXM23.jpg"
       },
-      {
-        "name": "TV",
-        "count": 25
+      "summary": "松本零士のSFワールドを代表する名キャラクターの主演アニメ第一弾。少女まゆや敵役・切田長官らアニメオリジナルの登場人物も物語の幅を広げた。西暦2977年。腐敗した体制の地球を、美女の姿をした異星の植物人間マゾーンが狙っていた。人類の未来のため物資の強奪とその備蓄を図る宇宙海賊ハーロックとその四十余名の仲間。彼らはマゾーンの侵略に気づき、孤高の戦いを開始する。だがマゾーンと人類の間には意外な秘密が……。",
+      "name": "宇宙海賊キャプテンハーロック",
+      "name_cn": "宇宙海盗哈洛克",
+      "tags": [
+        {
+          "name": "1978",
+          "count": 25
+        },
+        {
+          "name": "TV",
+          "count": 25
+        },
+        {
+          "name": "松本零士",
+          "count": 23
+        },
+        {
+          "name": "科幻",
+          "count": 17
+        },
+        {
+          "name": "東映アニメーション",
+          "count": 12
+        },
+        {
+          "name": "东映",
+          "count": 7
+        },
+        {
+          "name": "宇宙船长",
+          "count": 5
+        },
+        {
+          "name": "东映动画",
+          "count": 5
+        },
+        {
+          "name": "漫画改",
+          "count": 5
+        },
+        {
+          "name": "补旧番",
+          "count": 4
+        },
+        {
+          "name": "林重行",
+          "count": 3
+        },
+        {
+          "name": "りんたろう",
+          "count": 3
+        },
+        {
+          "name": "小松原一男",
+          "count": 3
+        },
+        {
+          "name": "海贼王",
+          "count": 2
+        },
+        {
+          "name": "被推荐",
+          "count": 2
+        },
+        {
+          "name": "70s",
+          "count": 1
+        },
+        {
+          "name": "3月",
+          "count": 1
+        },
+        {
+          "name": "动",
+          "count": 1
+        },
+        {
+          "name": "井上真樹夫",
+          "count": 1
+        },
+        {
+          "name": "1970.80",
+          "count": 1
+        },
+        {
+          "name": "哈洛克",
+          "count": 1
+        },
+        {
+          "name": "待補1",
+          "count": 1
+        },
+        {
+          "name": "經典向",
+          "count": 1
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1
+        },
+        {
+          "name": "上原正三",
+          "count": 1
+        },
+        {
+          "name": "星辰大海",
+          "count": 1
+        },
+        {
+          "name": "2022",
+          "count": 1
+        },
+        {
+          "name": "乳首",
+          "count": 1
+        },
+        {
+          "name": "1分钟弃",
+          "count": 1
+        },
+        {
+          "name": "漫改",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "宇宙海盗哈洛克"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "宇宙海盗哈洛克船长"
+            },
+            {
+              "v": "宇宙海贼哈洛克船长"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "42"
+        },
+        {
+          "key": "放送开始",
+          "value": "1978年3月14日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.toei-anim.co.jp/herlock/outline.html"
+        },
+        {
+          "key": "播放结束",
+          "value": "1979年2月13日"
+        },
+        {
+          "key": "Copyright",
+          "value": "(C)松本零士・東映アニメーション"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 27,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 2,
+          "7": 4,
+          "8": 15,
+          "9": 2,
+          "10": 4
+        },
+        "score": 8.1
       },
-      {
-        "name": "松本零士",
-        "count": 23
+      "total_episodes": 42,
+      "collection": {
+        "on_hold": 14,
+        "dropped": 8,
+        "wish": 131,
+        "collect": 32,
+        "doing": 13
       },
-      {
-        "name": "科幻",
-        "count": 17
-      },
-      {
-        "name": "東映アニメーション",
-        "count": 12
-      },
-      {
-        "name": "东映",
-        "count": 7
-      },
-      {
-        "name": "宇宙船长",
-        "count": 5
-      },
-      {
-        "name": "东映动画",
-        "count": 5
-      },
-      {
-        "name": "漫画改",
-        "count": 5
-      },
-      {
-        "name": "补旧番",
-        "count": 4
-      },
-      {
-        "name": "林重行",
-        "count": 3
-      },
-      {
-        "name": "りんたろう",
-        "count": 3
-      },
-      {
-        "name": "小松原一男",
-        "count": 3
-      },
-      {
-        "name": "海贼王",
-        "count": 2
-      },
-      {
-        "name": "被推荐",
-        "count": 2
-      },
-      {
-        "name": "70s",
-        "count": 1
-      },
-      {
-        "name": "3月",
-        "count": 1
-      },
-      {
-        "name": "动",
-        "count": 1
-      },
-      {
-        "name": "井上真樹夫",
-        "count": 1
-      },
-      {
-        "name": "1970.80",
-        "count": 1
-      },
-      {
-        "name": "哈洛克",
-        "count": 1
-      },
-      {
-        "name": "待補1",
-        "count": 1
-      },
-      {
-        "name": "經典向",
-        "count": 1
-      },
-      {
-        "name": "赛璐珞",
-        "count": 1
-      },
-      {
-        "name": "上原正三",
-        "count": 1
-      },
-      {
-        "name": "星辰大海",
-        "count": 1
-      },
-      {
-        "name": "2022",
-        "count": 1
-      },
-      {
-        "name": "乳首",
-        "count": 1
-      },
-      {
-        "name": "1分钟弃",
-        "count": 1
-      },
-      {
-        "name": "漫改",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "宇宙海盗哈洛克"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "宇宙海盗哈洛克船长"
+      "id": 38639,
+      "eps": 42,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/ed/10392_sUzgW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/ed/10392_sUzgW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/26/ed/10392_sUzgW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/ed/10392_sUzgW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/ed/10392_sUzgW.jpg"
           },
-          {
-            "v": "宇宙海贼哈洛克船长"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "42"
-      },
-      {
-        "key": "放送开始",
-        "value": "1978年3月14日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.toei-anim.co.jp/herlock/outline.html"
-      },
-      {
-        "key": "播放结束",
-        "value": "1979年2月13日"
-      },
-      {
-        "key": "Copyright",
-        "value": "(C)松本零士・東映アニメーション"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 27,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 2,
-        "7": 4,
-        "8": 15,
-        "9": 2,
-        "10": 4
-      },
-      "score": 8.1
-    },
-    "total_episodes": 42,
-    "collection": {
-      "on_hold": 14,
-      "dropped": 8,
-      "wish": 131,
-      "collect": 32,
-      "doing": 13
-    },
-    "id": 38639,
-    "eps": 42,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "銀河鉄道999",
+          "name_cn": "银河铁道999",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 10392
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/7e/38640_CC00E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/7e/38640_CC00E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/7e/38640_CC00E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/7e/38640_CC00E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/7e/38640_CC00E.jpg"
+          },
+          "name": "SPACE PIRATE CAPTAIN HERLOCK",
+          "name_cn": "宇宙海盗哈罗克",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 38640
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/55/68607_I9o2c.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/55/68607_I9o2c.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c8/55/68607_I9o2c.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/55/68607_I9o2c.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/55/68607_I9o2c.jpg"
+          },
+          "name": "ハーロック・サーガ ニーベルングの指環",
+          "name_cn": "宇宙海盗哈洛克 尼伯龙根的指环-莱茵河的黄金",
+          "relation": "续集",
+          "type": 2,
+          "id": 68607
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/8c/69698_41vLl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/be/8c/69698_41vLl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/be/8c/69698_41vLl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/be/8c/69698_41vLl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/be/8c/69698_41vLl.jpg"
+          },
+          "name": "ガンフロンティア",
+          "name_cn": "枪之国度",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 69698
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/4b/73439_4YMyM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/4b/73439_4YMyM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/4b/73439_4YMyM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/4b/73439_4YMyM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/4b/73439_4YMyM.jpg"
+          },
+          "name": "クイーン・エメラルダス",
+          "name_cn": "银河女黑侠",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 73439
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/50/89594_8Mbz9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/50/89594_8Mbz9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/50/89594_8Mbz9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/50/89594_8Mbz9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/50/89594_8Mbz9.jpg"
+          },
+          "name": "キャプテンハーロック -SPACE PIRATE CAPTAIN HARLOCK-",
+          "name_cn": "宇宙海盗船长哈洛克",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 89594
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/d8/94731_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/d8/94731_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b7/d8/94731_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/d8/94731_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/d8/94731_jp.jpg"
+          },
+          "name": "宇宙海賊キャプテンハーロック 豪華版",
+          "name_cn": "宇宙海贼船长哈洛克",
+          "relation": "单行本",
+          "type": 1,
+          "id": 94731
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/59/98514_8oprF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/59/98514_8oprF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/59/98514_8oprF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/59/98514_8oprF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/59/98514_8oprF.jpg"
+          },
+          "name": "火聖旅団 ダナサイト999.9",
+          "name_cn": "火圣旅团999.9",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 98514
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/24/127353_00Rgy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/24/127353_00Rgy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e1/24/127353_00Rgy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/24/127353_00Rgy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/24/127353_00Rgy.jpg"
+          },
+          "name": "コスモウォーリアー零",
+          "name_cn": "零战士",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 127353
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/31/127778_VZ6m3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/31/127778_VZ6m3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/31/127778_VZ6m3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/31/127778_VZ6m3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/31/127778_VZ6m3.jpg"
+          },
+          "name": "宇宙海賊キャプテンハーロック アルカディア号の謎",
+          "name_cn": "",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 127778
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/00/6a/127779_3DH3s.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/00/6a/127779_3DH3s.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/00/6a/127779_3DH3s.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/00/6a/127779_3DH3s.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/00/6a/127779_3DH3s.jpg"
+          },
+          "name": "わが青春のアルカディア",
+          "name_cn": "我青春的世外桃源",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 127779
+        },
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
+          },
+          "name": "THE ZERO CENTURY HERLOCK",
+          "name_cn": "零世纪 哈洛克",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 219098
+        }
+      ]
+    }
   }
 ]

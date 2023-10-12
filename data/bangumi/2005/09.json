@@ -1,453 +1,589 @@
 [
   {
-    "date": "2005-09-14",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/5d/1890_NPF65.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/5d/1890_NPF65.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/86/5d/1890_NPF65.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/5d/1890_NPF65.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/5d/1890_NPF65.jpg"
-    },
-    "summary": "　　故事从97年《最终幻想VII》结局两年之后开始，当人们以为世界已经和平之时，所谓的“星痕症候群”的病却开始四处蔓延，世界再度面临危机。同时曾经为拯救世界而战的英雄克劳德却与世隔绝孤独的生活着…… \r\n　　剧情叙述主角们打倒赛菲罗斯（Sephiroth），拯救星球免于巨大陨石的侵袭后两年，神秘的怪病「星痕症候群」在各地陆续传出病例。而主角克劳德（Cloud）在与爱莉斯（Aerith）死别后，便郁郁寡欢。某日突然出现了与赛菲罗斯有未知关联的神秘3人组，除了直接对克劳德造成威胁之外，还进行着一连串秘密的计划，将已回归各自生活的主角群们，再次的卷入风波中……",
-    "name": "FINAL FANTASY VII ADVENT CHILDREN",
-    "name_cn": "最终幻想VII：降临之子",
-    "tags": [
-      {
-        "name": "FF7",
-        "count": 770
+    "title": "ファイナルファンタジーVII アドベントチルドレン",
+    "bangumi": {
+      "date": "2005-09-14",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/5d/1890_NPF65.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/5d/1890_NPF65.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/86/5d/1890_NPF65.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/5d/1890_NPF65.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/5d/1890_NPF65.jpg"
       },
-      {
-        "name": "剧场版",
-        "count": 560
+      "summary": "　　故事从97年《最终幻想VII》结局两年之后开始，当人们以为世界已经和平之时，所谓的“星痕症候群”的病却开始四处蔓延，世界再度面临危机。同时曾经为拯救世界而战的英雄克劳德却与世隔绝孤独的生活着…… \r\n　　剧情叙述主角们打倒赛菲罗斯（Sephiroth），拯救星球免于巨大陨石的侵袭后两年，神秘的怪病「星痕症候群」在各地陆续传出病例。而主角克劳德（Cloud）在与爱莉斯（Aerith）死别后，便郁郁寡欢。某日突然出现了与赛菲罗斯有未知关联的神秘3人组，除了直接对克劳德造成威胁之外，还进行着一连串秘密的计划，将已回归各自生活的主角群们，再次的卷入风波中……",
+      "name": "FINAL FANTASY VII ADVENT CHILDREN",
+      "name_cn": "最终幻想VII：降临之子",
+      "tags": [
+        {
+          "name": "FF7",
+          "count": 770
+        },
+        {
+          "name": "剧场版",
+          "count": 560
+        },
+        {
+          "name": "克劳德",
+          "count": 465
+        },
+        {
+          "name": "圣子降临",
+          "count": 425
+        },
+        {
+          "name": "SQUARE",
+          "count": 255
+        },
+        {
+          "name": "科幻",
+          "count": 169
+        },
+        {
+          "name": "2005",
+          "count": 160
+        },
+        {
+          "name": "FF",
+          "count": 132
+        },
+        {
+          "name": "FF7ACC",
+          "count": 111
+        },
+        {
+          "name": "幻想",
+          "count": 105
+        },
+        {
+          "name": "游戏改",
+          "count": 97
+        },
+        {
+          "name": "爱丽丝",
+          "count": 90
+        },
+        {
+          "name": "SE",
+          "count": 75
+        },
+        {
+          "name": "扎克司",
+          "count": 66
+        },
+        {
+          "name": "日本",
+          "count": 52
+        },
+        {
+          "name": "动画",
+          "count": 46
+        },
+        {
+          "name": "3D",
+          "count": 36
+        },
+        {
+          "name": "最终幻想",
+          "count": 31
+        },
+        {
+          "name": "战斗",
+          "count": 30
+        },
+        {
+          "name": "ff7ac",
+          "count": 25
+        },
+        {
+          "name": "奇幻",
+          "count": 23
+        },
+        {
+          "name": "OVA",
+          "count": 21
+        },
+        {
+          "name": "野村哲也",
+          "count": 19
+        },
+        {
+          "name": "2005年",
+          "count": 16
+        },
+        {
+          "name": "CG",
+          "count": 14
+        },
+        {
+          "name": "动画电影",
+          "count": 13
+        },
+        {
+          "name": "樱井孝宏",
+          "count": 12
+        },
+        {
+          "name": "萨菲罗斯",
+          "count": 11
+        },
+        {
+          "name": "SQUARE_ENIX",
+          "count": 11
+        },
+        {
+          "name": "2009",
+          "count": 9
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "最终幻想VII：降临之子"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Fainaru fantajî sebun adobento chirudoren"
+            },
+            {
+              "v": "最终幻想7：圣子降临"
+            },
+            {
+              "v": "ファイナルファンタジーVII アドベントチルドレン"
+            },
+            {
+              "v": "FF7 降临之子"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "2005年9月14日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.square-enix.co.jp/dvd/ff7ac/"
+        },
+        {
+          "key": "片长",
+          "value": "101min"
+        },
+        {
+          "key": "导演",
+          "value": "野村哲也"
+        },
+        {
+          "key": "脚本",
+          "value": "野島一成"
+        },
+        {
+          "key": "音乐",
+          "value": "植松伸夫"
+        },
+        {
+          "key": "人物设定",
+          "value": "野村哲也"
+        },
+        {
+          "key": "机械设定",
+          "value": "竹谷隆之"
+        },
+        {
+          "key": "企画",
+          "value": "北瀬佳範、橋本真司"
+        },
+        {
+          "key": "製作",
+          "value": "スクウェア・エニックス"
+        },
+        {
+          "key": "imdb_id",
+          "value": "tt0385700"
+        }
+      ],
+      "rating": {
+        "rank": 577,
+        "total": 3205,
+        "count": {
+          "1": 2,
+          "2": 2,
+          "3": 7,
+          "4": 14,
+          "5": 57,
+          "6": 291,
+          "7": 995,
+          "8": 1235,
+          "9": 404,
+          "10": 198
+        },
+        "score": 7.7
       },
-      {
-        "name": "克劳德",
-        "count": 465
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 61,
+        "dropped": 23,
+        "wish": 331,
+        "collect": 4718,
+        "doing": 23
       },
-      {
-        "name": "圣子降临",
-        "count": 425
-      },
-      {
-        "name": "SQUARE",
-        "count": 255
-      },
-      {
-        "name": "科幻",
-        "count": 169
-      },
-      {
-        "name": "2005",
-        "count": 159
-      },
-      {
-        "name": "FF",
-        "count": 132
-      },
-      {
-        "name": "FF7ACC",
-        "count": 111
-      },
-      {
-        "name": "幻想",
-        "count": 105
-      },
-      {
-        "name": "游戏改",
-        "count": 97
-      },
-      {
-        "name": "爱丽丝",
-        "count": 90
-      },
-      {
-        "name": "SE",
-        "count": 75
-      },
-      {
-        "name": "扎克司",
-        "count": 66
-      },
-      {
-        "name": "日本",
-        "count": 52
-      },
-      {
-        "name": "动画",
-        "count": 46
-      },
-      {
-        "name": "3D",
-        "count": 36
-      },
-      {
-        "name": "最终幻想",
-        "count": 31
-      },
-      {
-        "name": "战斗",
-        "count": 30
-      },
-      {
-        "name": "ff7ac",
-        "count": 25
-      },
-      {
-        "name": "奇幻",
-        "count": 23
-      },
-      {
-        "name": "OVA",
-        "count": 21
-      },
-      {
-        "name": "野村哲也",
-        "count": 19
-      },
-      {
-        "name": "2005年",
-        "count": 16
-      },
-      {
-        "name": "CG",
-        "count": 14
-      },
-      {
-        "name": "动画电影",
-        "count": 13
-      },
-      {
-        "name": "樱井孝宏",
-        "count": 12
-      },
-      {
-        "name": "萨菲罗斯",
-        "count": 11
-      },
-      {
-        "name": "SQUARE_ENIX",
-        "count": 11
-      },
-      {
-        "name": "2009",
-        "count": 9
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "最终幻想VII：降临之子"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Fainaru fantajî sebun adobento chirudoren"
+      "id": 1890,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/a8/1259_RrJXb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/a8/1259_RrJXb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/a8/1259_RrJXb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/a8/1259_RrJXb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/a8/1259_RrJXb.jpg"
           },
-          {
-            "v": "最终幻想7：圣子降临"
+          "name": "ファイナルファンタジーVII",
+          "name_cn": "最终幻想7",
+          "relation": "游戏",
+          "type": 4,
+          "id": 1259
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/64/20116_mh4ca.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/64/20116_mh4ca.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/64/20116_mh4ca.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/64/20116_mh4ca.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/64/20116_mh4ca.jpg"
           },
-          {
-            "v": "ファイナルファンタジーVII アドベントチルドレン"
+          "name": "On the Way to a Smile",
+          "name_cn": "最终幻想VII：通往笑容之路 丁塞尔篇",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 20116
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/c5/20117_b0j9C.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/c5/20117_b0j9C.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/c5/20117_b0j9C.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/c5/20117_b0j9C.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/c5/20117_b0j9C.jpg"
           },
-          {
-            "v": "FF7 降临之子"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "发售日",
-        "value": "2005年9月14日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.square-enix.co.jp/dvd/ff7ac/"
-      },
-      {
-        "key": "片长",
-        "value": "101min"
-      },
-      {
-        "key": "导演",
-        "value": "野村哲也"
-      },
-      {
-        "key": "脚本",
-        "value": "野島一成"
-      },
-      {
-        "key": "音乐",
-        "value": "植松伸夫"
-      },
-      {
-        "key": "人物设定",
-        "value": "野村哲也"
-      },
-      {
-        "key": "机械设定",
-        "value": "竹谷隆之"
-      },
-      {
-        "key": "企画",
-        "value": "北瀬佳範、橋本真司"
-      },
-      {
-        "key": "製作",
-        "value": "スクウェア・エニックス"
-      },
-      {
-        "key": "imdb_id",
-        "value": "tt0385700"
-      }
-    ],
-    "rating": {
-      "rank": 577,
-      "total": 3204,
-      "count": {
-        "1": 2,
-        "2": 2,
-        "3": 7,
-        "4": 14,
-        "5": 57,
-        "6": 291,
-        "7": 995,
-        "8": 1234,
-        "9": 404,
-        "10": 198
-      },
-      "score": 7.7
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 61,
-      "dropped": 23,
-      "wish": 330,
-      "collect": 4716,
-      "doing": 23
-    },
-    "id": 1890,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "LAST ORDER -FINAL FANTASY VII-",
+          "name_cn": "最终幻想VII 最终密令",
+          "relation": "前传",
+          "type": 2,
+          "id": 20117
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/04/20711_7q547.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/04/20711_7q547.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9c/04/20711_7q547.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/04/20711_7q547.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/04/20711_7q547.jpg"
+          },
+          "name": "ダージュ オブ ケルベロス -ファイナルファンタジーVII-",
+          "name_cn": "地狱犬的挽歌 -最终幻想7-",
+          "relation": "资料片、外传",
+          "type": 4,
+          "id": 20711
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/a6/356474_GRGHA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/a6/356474_GRGHA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/a6/356474_GRGHA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/a6/356474_GRGHA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/a6/356474_GRGHA.jpg"
+          },
+          "name": "FINAL FANTASY VII ADVENT CHILDREN COMPLETE",
+          "name_cn": "最终幻想VII：降临之子 完全版",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 356474
+        }
+      ]
+    }
   },
   {
-    "date": "2005-09-24",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/ea/3153_Z9s63.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/ea/3153_Z9s63.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/9a/ea/3153_Z9s63.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/ea/3153_Z9s63.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/ea/3153_Z9s63.jpg"
-    },
-    "summary": "春天晴空万里的一天，去赏花的万事屋的一行人，撞上了一样到那里去赏花的真选组。在赏花地点开始了万事屋和真选组之间的争斗，由于在有平民的地方动刀不好，所以就以“打打戴戴包剪锤”决胜负。因私怨而击溃近藤的妙，一上来就相互殴打的神乐和冲田，比试酒量而醉得一塌糊涂的银和土方……乱七八糟的规则，胡搅蛮缠气氛的赏花会场。在那里，突然出现的迷一般巨大的机器人把会场弄成火之海。坐在机器人里的是想消灭真选组，热心攘夷的桂。但是可靠的土方却一直呕吐不停，毫无用处。就连阿银也是一样醉得不行。到底赏花变成怎样了？在那发生的对抗又会是怎样的结局？混战的银魂，传说中的第0话！请好好回忆那值得怀念的时候。",
-    "name": "銀魂 〜何事も最初が肝心なので多少背伸びするくらいが丁度良い〜",
-    "name_cn": "银魂 JUMP动画巡回展 2005",
-    "tags": [
-      {
-        "name": "银他妈",
-        "count": 185
+    "title": "銀魂 〜何事も最初が肝心なので多少背伸びするくらいが丁度良い〜",
+    "bangumi": {
+      "date": "2005-09-24",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/ea/3153_Z9s63.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/ea/3153_Z9s63.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/9a/ea/3153_Z9s63.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/ea/3153_Z9s63.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/ea/3153_Z9s63.jpg"
       },
-      {
-        "name": "OVA",
-        "count": 120
+      "summary": "春天晴空万里的一天，去赏花的万事屋的一行人，撞上了一样到那里去赏花的真选组。在赏花地点开始了万事屋和真选组之间的争斗，由于在有平民的地方动刀不好，所以就以“打打戴戴包剪锤”决胜负。因私怨而击溃近藤的妙，一上来就相互殴打的神乐和冲田，比试酒量而醉得一塌糊涂的银和土方……乱七八糟的规则，胡搅蛮缠气氛的赏花会场。在那里，突然出现的迷一般巨大的机器人把会场弄成火之海。坐在机器人里的是想消灭真选组，热心攘夷的桂。但是可靠的土方却一直呕吐不停，毫无用处。就连阿银也是一样醉得不行。到底赏花变成怎样了？在那发生的对抗又会是怎样的结局？混战的银魂，传说中的第0话！请好好回忆那值得怀念的时候。",
+      "name": "銀魂 〜何事も最初が肝心なので多少背伸びするくらいが丁度良い〜",
+      "name_cn": "银魂 JUMP动画巡回展 2005",
+      "tags": [
+        {
+          "name": "银他妈",
+          "count": 185
+        },
+        {
+          "name": "OVA",
+          "count": 120
+        },
+        {
+          "name": "吐槽",
+          "count": 120
+        },
+        {
+          "name": "JUMP",
+          "count": 100
+        },
+        {
+          "name": "银魂",
+          "count": 96
+        },
+        {
+          "name": "杉田智和",
+          "count": 79
+        },
+        {
+          "name": "GINTAMA",
+          "count": 62
+        },
+        {
+          "name": "在银他妈面前我们都是斗M",
+          "count": 56
+        },
+        {
+          "name": "SUNRISE",
+          "count": 55
+        },
+        {
+          "name": "钉宫理惠",
+          "count": 40
+        },
+        {
+          "name": "自然卷",
+          "count": 39
+        },
+        {
+          "name": "石田彰",
+          "count": 27
+        },
+        {
+          "name": "2005",
+          "count": 19
+        },
+        {
+          "name": "白夜叉",
+          "count": 19
+        },
+        {
+          "name": "搞笑",
+          "count": 15
+        },
+        {
+          "name": "银八老师",
+          "count": 12
+        },
+        {
+          "name": "2009",
+          "count": 11
+        },
+        {
+          "name": "漫画改",
+          "count": 10
+        },
+        {
+          "name": "铃村健一",
+          "count": 10
+        },
+        {
+          "name": "高松信司",
+          "count": 10
+        },
+        {
+          "name": "銀魂",
+          "count": 8
+        },
+        {
+          "name": "少年jump",
+          "count": 6
+        },
+        {
+          "name": "漫改",
+          "count": 6
+        },
+        {
+          "name": "釘宮理恵",
+          "count": 5
+        },
+        {
+          "name": "阪口大助",
+          "count": 4
+        },
+        {
+          "name": "在银他妈面前我们都是抖M",
+          "count": 4
+        },
+        {
+          "name": "中井和哉",
+          "count": 4
+        },
+        {
+          "name": "坑爹",
+          "count": 3
+        },
+        {
+          "name": "动画",
+          "count": 3
+        },
+        {
+          "name": "恶搞",
+          "count": 3
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "银魂 JUMP动画巡回展 2005"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "銀魂 ジャンプアニメツアー 2005"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "2009年9月30日"
+        },
+        {
+          "key": "原作",
+          "value": "空知英秋"
+        },
+        {
+          "key": "脚本",
+          "value": "大和屋暁"
+        },
+        {
+          "key": "作画监督",
+          "value": "竹内進二"
+        },
+        {
+          "key": "音乐",
+          "value": "Audio Highs"
+        },
+        {
+          "key": "制作",
+          "value": "銀魂製作委員会"
+        },
+        {
+          "key": "上映年度",
+          "value": "2005年9月24日"
+        }
+      ],
+      "rating": {
+        "rank": 346,
+        "total": 677,
+        "count": {
+          "1": 17,
+          "2": 3,
+          "3": 2,
+          "4": 3,
+          "5": 13,
+          "6": 55,
+          "7": 148,
+          "8": 200,
+          "9": 85,
+          "10": 151
+        },
+        "score": 7.9
       },
-      {
-        "name": "吐槽",
-        "count": 120
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 47,
+        "dropped": 35,
+        "wish": 296,
+        "collect": 1095,
+        "doing": 25
       },
-      {
-        "name": "JUMP",
-        "count": 100
-      },
-      {
-        "name": "银魂",
-        "count": 96
-      },
-      {
-        "name": "杉田智和",
-        "count": 79
-      },
-      {
-        "name": "GINTAMA",
-        "count": 62
-      },
-      {
-        "name": "在银他妈面前我们都是斗M",
-        "count": 56
-      },
-      {
-        "name": "SUNRISE",
-        "count": 55
-      },
-      {
-        "name": "钉宫理惠",
-        "count": 40
-      },
-      {
-        "name": "自然卷",
-        "count": 39
-      },
-      {
-        "name": "石田彰",
-        "count": 27
-      },
-      {
-        "name": "2005",
-        "count": 19
-      },
-      {
-        "name": "白夜叉",
-        "count": 19
-      },
-      {
-        "name": "搞笑",
-        "count": 15
-      },
-      {
-        "name": "银八老师",
-        "count": 12
-      },
-      {
-        "name": "2009",
-        "count": 11
-      },
-      {
-        "name": "漫画改",
-        "count": 10
-      },
-      {
-        "name": "铃村健一",
-        "count": 10
-      },
-      {
-        "name": "高松信司",
-        "count": 10
-      },
-      {
-        "name": "銀魂",
-        "count": 8
-      },
-      {
-        "name": "少年jump",
-        "count": 6
-      },
-      {
-        "name": "漫改",
-        "count": 6
-      },
-      {
-        "name": "釘宮理恵",
-        "count": 5
-      },
-      {
-        "name": "阪口大助",
-        "count": 4
-      },
-      {
-        "name": "在银他妈面前我们都是抖M",
-        "count": 4
-      },
-      {
-        "name": "中井和哉",
-        "count": 4
-      },
-      {
-        "name": "坑爹",
-        "count": 3
-      },
-      {
-        "name": "动画",
-        "count": 3
-      },
-      {
-        "name": "恶搞",
-        "count": 3
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "银魂 JUMP动画巡回展 2005"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "銀魂 ジャンプアニメツアー 2005"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "发售日",
-        "value": "2009年9月30日"
-      },
-      {
-        "key": "原作",
-        "value": "空知英秋"
-      },
-      {
-        "key": "脚本",
-        "value": "大和屋暁"
-      },
-      {
-        "key": "作画监督",
-        "value": "竹内進二"
-      },
-      {
-        "key": "音乐",
-        "value": "Audio Highs"
-      },
-      {
-        "key": "制作",
-        "value": "銀魂製作委員会"
-      },
-      {
-        "key": "上映年度",
-        "value": "2005年9月24日"
-      }
-    ],
-    "rating": {
-      "rank": 345,
-      "total": 677,
-      "count": {
-        "1": 17,
-        "2": 3,
-        "3": 2,
-        "4": 3,
-        "5": 13,
-        "6": 55,
-        "7": 148,
-        "8": 200,
-        "9": 85,
-        "10": 151
-      },
-      "score": 7.9
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 47,
-      "dropped": 35,
-      "wish": 296,
-      "collect": 1095,
-      "doing": 25
-    },
-    "id": 3153,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 3153,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/ec/247_MnPPU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/ec/247_MnPPU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3c/ec/247_MnPPU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/ec/247_MnPPU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/ec/247_MnPPU.jpg"
+          },
+          "name": "銀魂",
+          "name_cn": "银魂",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 247
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/dc/4475_ZATYj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/dc/4475_ZATYj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/60/dc/4475_ZATYj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/dc/4475_ZATYj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/dc/4475_ZATYj.jpg"
+          },
+          "name": "劇場版 銀魂 新訳紅桜篇",
+          "name_cn": "银魂剧场版 新译红樱篇",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 4475
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/31/4705_S7P06.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/31/4705_S7P06.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/31/4705_S7P06.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/31/4705_S7P06.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/31/4705_S7P06.jpg"
+          },
+          "name": "銀魂",
+          "name_cn": "银魂",
+          "relation": "书籍",
+          "type": 1,
+          "id": 4705
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/57/255029_Bb9Gb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/57/255029_Bb9Gb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/57/255029_Bb9Gb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/57/255029_Bb9Gb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/57/255029_Bb9Gb.jpg"
+          },
+          "name": "銀魂 JF・AT版 何事も最初が肝心なので多少背伸びするくらいが丁度良",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 255029
+        }
+      ]
+    }
   }
 ]

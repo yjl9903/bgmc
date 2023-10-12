@@ -1,263 +1,534 @@
 [
   {
-    "date": "1999-11-30",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f0/39301_yw20W.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f0/39301_yw20W.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/ad/f0/39301_yw20W.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/f0/39301_yw20W.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f0/39301_yw20W.jpg"
-    },
-    "summary": "Di Gi Charat（又译滴骰孖妹（香港无线电视）、铃铛猫娘（香港译名）、叮当小魔女（台湾译名））是Broccoli为其角色精品店所做的角色企画，原作者是コゲどんぼ（小夏钝帆，Koge-Donbo）。由于其独特的造型，很快就成为了Broccoli的精品连锁店GAMERS的吉祥物，因大受欢迎亦被多次改编动画、电子游戏等。",
-    "name": "Di Gi Charat",
-    "name_cn": "Di Gi Charat",
-    "tags": [
-      {
-        "name": "泡面番",
-        "count": 51
+    "title": "デ・ジ・キャラット",
+    "bangumi": {
+      "date": "1999-11-30",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f0/39301_yw20W.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f0/39301_yw20W.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ad/f0/39301_yw20W.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/f0/39301_yw20W.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f0/39301_yw20W.jpg"
       },
-      {
-        "name": "1999",
-        "count": 45
+      "summary": "Di Gi Charat（又译滴骰孖妹（香港无线电视）、铃铛猫娘（香港译名）、叮当小魔女（台湾译名））是Broccoli为其角色精品店所做的角色企画，原作者是コゲどんぼ（小夏钝帆，Koge-Donbo）。由于其独特的造型，很快就成为了Broccoli的精品连锁店GAMERS的吉祥物，因大受欢迎亦被多次改编动画、电子游戏等。",
+      "name": "Di Gi Charat",
+      "name_cn": "Di Gi Charat",
+      "tags": [
+        {
+          "name": "泡面番",
+          "count": 51
+        },
+        {
+          "name": "1999",
+          "count": 45
+        },
+        {
+          "name": "TV",
+          "count": 38
+        },
+        {
+          "name": "MADHouse",
+          "count": 33
+        },
+        {
+          "name": "搞笑",
+          "count": 26
+        },
+        {
+          "name": "治愈系",
+          "count": 17
+        },
+        {
+          "name": "超级铃铛猫",
+          "count": 16
+        },
+        {
+          "name": "TVB",
+          "count": 14
+        },
+        {
+          "name": "1999年11月",
+          "count": 7
+        },
+        {
+          "name": "樱井弘明",
+          "count": 7
+        },
+        {
+          "name": "原创",
+          "count": 5
+        },
+        {
+          "name": "桜井弘明",
+          "count": 5
+        },
+        {
+          "name": "1999年",
+          "count": 4
+        },
+        {
+          "name": "日本动画",
+          "count": 4
+        },
+        {
+          "name": "治愈",
+          "count": 4
+        },
+        {
+          "name": "萌",
+          "count": 3
+        },
+        {
+          "name": "沢城みゆき",
+          "count": 2
+        },
+        {
+          "name": "90s",
+          "count": 2
+        },
+        {
+          "name": "[NBG]",
+          "count": 2
+        },
+        {
+          "name": "日本",
+          "count": 2
+        },
+        {
+          "name": "真田アサミ",
+          "count": 2
+        },
+        {
+          "name": "童年",
+          "count": 2
+        },
+        {
+          "name": "待補1",
+          "count": 1
+        },
+        {
+          "name": "电波萌系",
+          "count": 1
+        },
+        {
+          "name": "氷上恭子",
+          "count": 1
+        },
+        {
+          "name": "数码子",
+          "count": 1
+        },
+        {
+          "name": "萌宠",
+          "count": 1
+        },
+        {
+          "name": "滴骰孖妹",
+          "count": 1
+        },
+        {
+          "name": "2话",
+          "count": 1
+        },
+        {
+          "name": "1900s",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "Di Gi Charat"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "DiGiCharat"
+            },
+            {
+              "v": "デ・ジ・キャラット"
+            },
+            {
+              "v": "デ・ジ・キャラット ワンダフル版"
+            },
+            {
+              "v": "Di.Gi.Charat Wonderful"
+            },
+            {
+              "v": "Di Gi Charat Fantasy"
+            },
+            {
+              "v": "叮当小魔女"
+            },
+            {
+              "v": "铃铛猫娘"
+            },
+            {
+              "v": "滴骰孖妹"
+            },
+            {
+              "v": "超级铃铛猫"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "16"
+        },
+        {
+          "key": "放送开始",
+          "value": "1999年11月30日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期二至星期五"
+        },
+        {
+          "key": "播放电视台",
+          "value": "TBS"
+        },
+        {
+          "key": "播放结束",
+          "value": "1999年12月24日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©ブロッコリー·TBS"
+        },
+        {
+          "key": "首播时间段",
+          "value": "00:40-00:50"
+        },
+        {
+          "key": "原作",
+          "value": "コゲどんぼ(こげどんぼ)"
+        },
+        {
+          "key": "导演",
+          "value": "桜井弘明"
+        },
+        {
+          "key": "人物设定",
+          "value": "山川吉樹"
+        },
+        {
+          "key": "宣传",
+          "value": "鈴木誠二（フィールドワイ）、中田知宏"
+        },
+        {
+          "key": "制片人",
+          "value": "落合芳行、源生哲雄"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "根津洋子"
+        },
+        {
+          "key": "作画监督",
+          "value": "柄本正弘"
+        }
+      ],
+      "rating": {
+        "rank": 4242,
+        "total": 128,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 3,
+          "4": 2,
+          "5": 15,
+          "6": 45,
+          "7": 44,
+          "8": 18,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.4
       },
-      {
-        "name": "TV",
-        "count": 38
+      "total_episodes": 16,
+      "collection": {
+        "on_hold": 28,
+        "dropped": 18,
+        "wish": 157,
+        "collect": 207,
+        "doing": 19
       },
-      {
-        "name": "MADHouse",
-        "count": 33
-      },
-      {
-        "name": "搞笑",
-        "count": 26
-      },
-      {
-        "name": "治愈系",
-        "count": 17
-      },
-      {
-        "name": "超级铃铛猫",
-        "count": 16
-      },
-      {
-        "name": "TVB",
-        "count": 14
-      },
-      {
-        "name": "1999年11月",
-        "count": 7
-      },
-      {
-        "name": "樱井弘明",
-        "count": 7
-      },
-      {
-        "name": "原创",
-        "count": 5
-      },
-      {
-        "name": "桜井弘明",
-        "count": 5
-      },
-      {
-        "name": "1999年",
-        "count": 4
-      },
-      {
-        "name": "日本动画",
-        "count": 4
-      },
-      {
-        "name": "治愈",
-        "count": 4
-      },
-      {
-        "name": "萌",
-        "count": 3
-      },
-      {
-        "name": "沢城みゆき",
-        "count": 2
-      },
-      {
-        "name": "90s",
-        "count": 2
-      },
-      {
-        "name": "[NBG]",
-        "count": 2
-      },
-      {
-        "name": "日本",
-        "count": 2
-      },
-      {
-        "name": "真田アサミ",
-        "count": 2
-      },
-      {
-        "name": "童年",
-        "count": 2
-      },
-      {
-        "name": "待補1",
-        "count": 1
-      },
-      {
-        "name": "电波萌系",
-        "count": 1
-      },
-      {
-        "name": "氷上恭子",
-        "count": 1
-      },
-      {
-        "name": "数码子",
-        "count": 1
-      },
-      {
-        "name": "萌宠",
-        "count": 1
-      },
-      {
-        "name": "滴骰孖妹",
-        "count": 1
-      },
-      {
-        "name": "2话",
-        "count": 1
-      },
-      {
-        "name": "1900s",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "Di Gi Charat"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "DiGiCharat"
+      "id": 38072,
+      "eps": 16,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/57/258798_6B92S.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/57/258798_6B92S.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ac/57/258798_6B92S.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/57/258798_6B92S.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/57/258798_6B92S.jpg"
           },
-          {
-            "v": "デ・ジ・キャラット"
+          "name": "only one, No.1",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 258798
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/fb/130607_nXiz8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/fb/130607_nXiz8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c9/fb/130607_nXiz8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/fb/130607_nXiz8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/fb/130607_nXiz8.jpg"
           },
-          {
-            "v": "デ・ジ・キャラット ワンダフル版"
+          "name": "ゴシックは魔法乙女～さっさと契約しなさい！～",
+          "name_cn": "哥特式魔法少女",
+          "relation": "游戏",
+          "type": 4,
+          "id": 130607
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/30/82369_sgSQ0.jpg"
           },
-          {
-            "v": "Di.Gi.Charat Wonderful"
+          "name": "AKIBA'S TRIP 2",
+          "name_cn": "秋叶脱物语2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 82369
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/b0/91175_BOhah.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/b0/91175_BOhah.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/09/b0/91175_BOhah.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/b0/91175_BOhah.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/b0/91175_BOhah.jpg"
           },
-          {
-            "v": "Di Gi Charat Fantasy"
+          "name": "超ヒロイン戦記",
+          "name_cn": "超级女主角战记",
+          "relation": "游戏",
+          "type": 4,
+          "id": 91175
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/d5/205280_q8z00.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/d5/205280_q8z00.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/d5/205280_q8z00.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/d5/205280_q8z00.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/d5/205280_q8z00.jpg"
           },
-          {
-            "v": "叮当小魔女"
+          "name": "Di Gi Charat サマースペシャル 2000",
+          "name_cn": "Di Gi Charat 夏季特别篇 2000",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 205280
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/b5/41577_gWaFj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/b5/41577_gWaFj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ee/b5/41577_gWaFj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/b5/41577_gWaFj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/b5/41577_gWaFj.jpg"
           },
-          {
-            "v": "铃铛猫娘"
+          "name": "デ・ジ・キャラット ファンタジー",
+          "name_cn": "Di Gi Charat Fantasy ~仲夏夜之梦~",
+          "relation": "游戏",
+          "type": 4,
+          "id": 41577
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/db/217248_Ypf0l.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/db/217248_Ypf0l.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/db/217248_Ypf0l.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/db/217248_Ypf0l.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/db/217248_Ypf0l.jpg"
           },
-          {
-            "v": "滴骰孖妹"
+          "name": "デ・ジ・キャラット でじこミュニケーション",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 217248
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/0d/205296_oZEVe.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/0d/205296_oZEVe.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/36/0d/205296_oZEVe.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/36/0d/205296_oZEVe.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/36/0d/205296_oZEVe.jpg"
           },
-          {
-            "v": "超级铃铛猫"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "16"
-      },
-      {
-        "key": "放送开始",
-        "value": "1999年11月30日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期二至星期五"
-      },
-      {
-        "key": "播放电视台",
-        "value": "TBS"
-      },
-      {
-        "key": "播放结束",
-        "value": "1999年12月24日"
-      },
-      {
-        "key": "Copyright",
-        "value": "©ブロッコリー·TBS"
-      },
-      {
-        "key": "首播时间段",
-        "value": "00:40-00:50"
-      },
-      {
-        "key": "原作",
-        "value": "コゲどんぼ(こげどんぼ)"
-      },
-      {
-        "key": "导演",
-        "value": "桜井弘明"
-      },
-      {
-        "key": "人物设定",
-        "value": "山川吉樹"
-      },
-      {
-        "key": "宣传",
-        "value": "鈴木誠二（フィールドワイ）、中田知宏"
-      },
-      {
-        "key": "制片人",
-        "value": "落合芳行、源生哲雄"
-      },
-      {
-        "key": "主题歌作词",
-        "value": "根津洋子"
-      },
-      {
-        "key": "作画监督",
-        "value": "柄本正弘"
-      }
-    ],
-    "rating": {
-      "rank": 4249,
-      "total": 128,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 3,
-        "4": 2,
-        "5": 15,
-        "6": 45,
-        "7": 44,
-        "8": 18,
-        "9": 0,
-        "10": 1
-      },
-      "score": 6.4
-    },
-    "total_episodes": 16,
-    "collection": {
-      "on_hold": 28,
-      "dropped": 18,
-      "wish": 157,
-      "collect": 207,
-      "doing": 19
-    },
-    "id": 38072,
-    "eps": 16,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "Di Gi Charat クリスマススペシャル",
+          "name_cn": "Di Gi Charat 圣诞特别篇",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 205296
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/b6/205297_IPhT6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/b6/205297_IPhT6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/b6/205297_IPhT6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/b6/205297_IPhT6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/b6/205297_IPhT6.jpg"
+          },
+          "name": "Di Gi Charat お花見すぺしゃる",
+          "name_cn": "Di Gi Charat 赏花特别篇",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 205297
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/a3/205299_E11JJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/a3/205299_E11JJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/a3/205299_E11JJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/a3/205299_E11JJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/a3/205299_E11JJ.jpg"
+          },
+          "name": "Di Gi Charat 夏休みスペシャル",
+          "name_cn": "Di Gi Charat 暑假特别篇",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 205299
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/07/217245_opOhn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/07/217245_opOhn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/07/217245_opOhn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/07/217245_opOhn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/07/217245_opOhn.jpg"
+          },
+          "name": "でじこミュニケーション2 打倒!ブラックゲマゲマ団",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 217245
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/4c/205300_U588r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/4c/205300_U588r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/4c/205300_U588r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/4c/205300_U588r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/4c/205300_U588r.jpg"
+          },
+          "name": "Di Gi Charat 星の旅",
+          "name_cn": "Di Gi Charat 星之旅",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 205300
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/bb/40257_avE8M.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/bb/40257_avE8M.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b8/bb/40257_avE8M.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/bb/40257_avE8M.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/bb/40257_avE8M.jpg"
+          },
+          "name": "ぱにょぱにょ デ・ジ・キャラット",
+          "name_cn": "Panyo Panyo Di Gi Charat",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 40257
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/f0/98517_M581k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/f0/98517_M581k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a3/f0/98517_M581k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/f0/98517_M581k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/f0/98517_M581k.jpg"
+          },
+          "name": "デ・ジ・キャラット劇場 ぴよこにおまかせぴょ!",
+          "name_cn": "Di Gi Charat剧场 就交给初子吧！",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 98517
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/ae/14389_yGq11.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/ae/14389_yGq11.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/ae/14389_yGq11.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/ae/14389_yGq11.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/ae/14389_yGq11.jpg"
+          },
+          "name": "デ・ジ・キャラットにょ",
+          "name_cn": "Di Gi Charat NYO",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 14389
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/e4/8590_g5IGh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/e4/8590_g5IGh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/e4/8590_g5IGh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/e4/8590_g5IGh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/e4/8590_g5IGh.jpg"
+          },
+          "name": "ウィンターガーデン",
+          "name_cn": "冬季花园",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 8590
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/fc/4634_f2FFh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/fc/4634_f2FFh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/18/fc/4634_f2FFh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/fc/4634_f2FFh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/fc/4634_f2FFh.jpg"
+          },
+          "name": "ギャラクシーエンジェル",
+          "name_cn": "银河天使",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 4634
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/b1/4043_f42Fj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/b1/4043_f42Fj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/b1/4043_f42Fj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/b1/4043_f42Fj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/b1/4043_f42Fj.jpg"
+          },
+          "name": "魁!!クロマティ高校",
+          "name_cn": "魁！！库洛马迪高校",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 4043
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/47/338802_4FuVF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/47/338802_4FuVF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/af/47/338802_4FuVF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/47/338802_4FuVF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/47/338802_4FuVF.jpg"
+          },
+          "name": "令和のデ・ジ・キャラット",
+          "name_cn": "令和的Di Gi Charat",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 338802
+        }
+      ]
+    }
   }
 ]

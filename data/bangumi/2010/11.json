@@ -1,1814 +1,2132 @@
 [
   {
-    "date": "2010-11-01",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/5b/9851_aZUs1.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/5b/9851_aZUs1.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/d3/5b/9851_aZUs1.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/5b/9851_aZUs1.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/5b/9851_aZUs1.jpg"
-    },
-    "summary": "改编自法国绘本「Rita et Machin」，讲述了早熟的5岁女孩Rita与小狗Machin充满趣味的日常生活。\r\n动画于NHK教育每周一～周五早间7:35～7:40播出。\r\nNHK网站：http://www9.nhk.or.jp/anime/rita/\r\n\r\nCAST：稲垣鈴夏，平田広明，木村亜希子，白熊寛嗣\r\n\r\n原作绘本系列诞生于2006年，由法国作家Jean-Philippe Arrou-Vicnod原著、插画师Olivier Tallec绘制插图，在英国、美国、日本等15个国家也有出版。原作讲述了5岁的早熟小女孩Rita和因为懒没有名字的小狗Machin愉快的日常生活，但这里的愉快并不是普通意义上的愉快，Rita的臭美和Machin的我行我素，都给每天的生活带来了另一种可爱和有趣。",
-    "name": "リタとナントカ",
-    "name_cn": "莉塔和无名小狗",
-    "tags": [
-      {
-        "name": "想补的旧番",
-        "count": 1
+    "title": "リタとナントカ",
+    "bangumi": {
+      "date": "2010-11-01",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/5b/9851_aZUs1.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/5b/9851_aZUs1.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/d3/5b/9851_aZUs1.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/5b/9851_aZUs1.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/5b/9851_aZUs1.jpg"
       },
-      {
-        "name": "估计是冷番",
-        "count": 1
+      "summary": "改编自法国绘本「Rita et Machin」，讲述了早熟的5岁女孩Rita与小狗Machin充满趣味的日常生活。\r\n动画于NHK教育每周一～周五早间7:35～7:40播出。\r\nNHK网站：http://www9.nhk.or.jp/anime/rita/\r\n\r\nCAST：稲垣鈴夏，平田広明，木村亜希子，白熊寛嗣\r\n\r\n原作绘本系列诞生于2006年，由法国作家Jean-Philippe Arrou-Vicnod原著、插画师Olivier Tallec绘制插图，在英国、美国、日本等15个国家也有出版。原作讲述了5岁的早熟小女孩Rita和因为懒没有名字的小狗Machin愉快的日常生活，但这里的愉快并不是普通意义上的愉快，Rita的臭美和Machin的我行我素，都给每天的生活带来了另一种可爱和有趣。",
+      "name": "リタとナントカ",
+      "name_cn": "莉塔和无名小狗",
+      "tags": [
+        {
+          "name": "想补的旧番",
+          "count": 1
+        },
+        {
+          "name": "估计是冷番",
+          "count": 1
+        },
+        {
+          "name": "绘本",
+          "count": 1
+        },
+        {
+          "name": "2010",
+          "count": 1
+        },
+        {
+          "name": "TV",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "莉塔和无名小狗"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Rita et Machin"
+            },
+            {
+              "v": "リタエマシャン"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "26"
+        },
+        {
+          "key": "放送开始",
+          "value": "2010年11月1日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.rita-machin.jp"
+        },
+        {
+          "key": "播放电视台",
+          "value": "NHK教育"
+        },
+        {
+          "key": "播放结束",
+          "value": "2010年12月3日"
+        },
+        {
+          "key": "原作",
+          "value": "Jean-Philippe Arrou-Vicnod"
+        },
+        {
+          "key": "人物原案",
+          "value": "Olivier Tallec"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 1,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 1,
+          "9": 0,
+          "10": 0
+        },
+        "score": 8
       },
-      {
-        "name": "绘本",
-        "count": 1
+      "total_episodes": 26,
+      "collection": {
+        "on_hold": 1,
+        "dropped": 6,
+        "wish": 19,
+        "collect": 3,
+        "doing": 1
       },
-      {
-        "name": "2010",
-        "count": 1
+      "id": 9851,
+      "eps": 26,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": []
+    }
+  },
+  {
+    "title": "カッコカワイイ宣言！",
+    "bangumi": {
+      "date": "2010-11-05",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/90/10494_363ph.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/90/10494_363ph.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/7d/90/10494_363ph.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/90/10494_363ph.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/90/10494_363ph.jpg"
       },
-      {
-        "name": "TV",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "莉塔和无名小狗"
+      "summary": "反响热烈(如果是这样就好了～♪)的超新感觉恶搞短剧场，主要角色包括拥有世上数一数二凶残美貌的天然呆少女、帅得不可理喻的学长、在漆黑与白银之间诞生的华丽金色堕天使…\r\n但其实，这部作品中并不会有什么帅哥或者软妹登场。真的。",
+      "name": "カッコカワイイ宣言!",
+      "name_cn": "好帅好可爱宣言!",
+      "tags": [
+        {
+          "name": "泡面番",
+          "count": 42
+        },
+        {
+          "name": "雷",
+          "count": 24
+        },
+        {
+          "name": "很帅很可爱宣言！",
+          "count": 23
+        },
+        {
+          "name": "日笠陽子",
+          "count": 19
+        },
+        {
+          "name": "搞笑",
+          "count": 14
+        },
+        {
+          "name": "地狱人设",
+          "count": 13
+        },
+        {
+          "name": "2010",
+          "count": 11
+        },
+        {
+          "name": "2010年11月",
+          "count": 11
+        },
+        {
+          "name": "天然",
+          "count": 11
+        },
+        {
+          "name": "WEB",
+          "count": 11
+        },
+        {
+          "name": "TV",
+          "count": 11
+        },
+        {
+          "name": "想去屎",
+          "count": 10
+        },
+        {
+          "name": "GATHERING",
+          "count": 10
+        },
+        {
+          "name": "小剧场",
+          "count": 9
+        },
+        {
+          "name": "藤原启治",
+          "count": 7
+        },
+        {
+          "name": "漫画改",
+          "count": 5
+        },
+        {
+          "name": "动画",
+          "count": 4
+        },
+        {
+          "name": "短片",
+          "count": 3
+        },
+        {
+          "name": "OVA",
+          "count": 3
+        },
+        {
+          "name": "泡面",
+          "count": 3
+        },
+        {
+          "name": "タイトル詐欺",
+          "count": 3
+        },
+        {
+          "name": "噗",
+          "count": 3
+        },
+        {
+          "name": "2010年11月番",
+          "count": 2
+        },
+        {
+          "name": "与标题无关",
+          "count": 2
+        },
+        {
+          "name": "ONA",
+          "count": 2
+        },
+        {
+          "name": "まんきゅう",
+          "count": 2
+        },
+        {
+          "name": "日本动画",
+          "count": 2
+        },
+        {
+          "name": "ギャザリング",
+          "count": 2
+        },
+        {
+          "name": "爆笑",
+          "count": 2
+        },
+        {
+          "name": "短篇",
+          "count": 2
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "好帅好可爱宣言!"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "很帅很可爱宣言！"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "5"
+        },
+        {
+          "key": "放送开始",
+          "value": "2010年11月5日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期五"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://jumpsq.shueisha.co.jp/contents/kakkokawaii/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "ニコニコ動画"
+        },
+        {
+          "key": "其他电视台",
+          "value": "テレビ東京系"
+        },
+        {
+          "key": "其他",
+          "value": "http://ch.nicovideo.jp/video/ch390"
+        },
+        {
+          "key": "原作",
+          "value": "地獄のミサワ"
+        }
+      ],
+      "rating": {
+        "rank": 3863,
+        "total": 205,
+        "count": {
+          "1": 2,
+          "2": 6,
+          "3": 5,
+          "4": 13,
+          "5": 20,
+          "6": 35,
+          "7": 66,
+          "8": 34,
+          "9": 13,
+          "10": 11
+        },
+        "score": 6.6
       },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Rita et Machin"
+      "total_episodes": 5,
+      "collection": {
+        "on_hold": 6,
+        "dropped": 25,
+        "wish": 85,
+        "collect": 272,
+        "doing": 11
+      },
+      "id": 10494,
+      "eps": 5,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/75/b8/20528_kIUIn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/75/b8/20528_kIUIn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/75/b8/20528_kIUIn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/75/b8/20528_kIUIn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/75/b8/20528_kIUIn.jpg"
           },
-          {
-            "v": "リタエマシャン"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "26"
-      },
-      {
-        "key": "放送开始",
-        "value": "2010年11月1日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.rita-machin.jp"
-      },
-      {
-        "key": "播放电视台",
-        "value": "NHK教育"
-      },
-      {
-        "key": "播放结束",
-        "value": "2010年12月3日"
-      },
-      {
-        "key": "原作",
-        "value": "Jean-Philippe Arrou-Vicnod"
-      },
-      {
-        "key": "人物原案",
-        "value": "Olivier Tallec"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 1,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 1,
-        "9": 0,
-        "10": 0
-      },
-      "score": 8
-    },
-    "total_episodes": 26,
-    "collection": {
-      "on_hold": 1,
-      "dropped": 6,
-      "wish": 19,
-      "collect": 3,
-      "doing": 1
-    },
-    "id": 9851,
-    "eps": 26,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "カッコカワイイ宣言! 2nd Season",
+          "name_cn": "好帅好可爱宣言! 第2期",
+          "relation": "续集",
+          "type": 2,
+          "id": 20528
+        }
+      ]
+    }
   },
   {
-    "date": "2010-11-05",
-    "platform": "WEB",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/90/10494_363ph.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/90/10494_363ph.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/7d/90/10494_363ph.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/90/10494_363ph.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/90/10494_363ph.jpg"
-    },
-    "summary": "反响热烈(如果是这样就好了～♪)的超新感觉恶搞短剧场，主要角色包括拥有世上数一数二凶残美貌的天然呆少女、帅得不可理喻的学长、在漆黑与白银之间诞生的华丽金色堕天使…\r\n但其实，这部作品中并不会有什么帅哥或者软妹登场。真的。",
-    "name": "カッコカワイイ宣言!",
-    "name_cn": "好帅好可爱宣言!",
-    "tags": [
-      {
-        "name": "泡面番",
-        "count": 42
+    "title": "ネリーとセザール",
+    "bangumi": {
+      "date": "2010-11-09",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/be/9852_X47x4.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/be/9852_X47x4.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/c8/be/9852_X47x4.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/be/9852_X47x4.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/be/9852_X47x4.jpg"
       },
-      {
-        "name": "雷",
-        "count": 24
+      "summary": "Nelly & Caesar是一套面向2-4岁学龄前儿童的比利时绘本，主角是老鼠女孩奈丽和青蛙男孩塞泽尔以及他们的伙伴们，描述他们在日常生活中对于生活和自然的探索以及情感的发展，由比利时动画公司Averbode和法国动画公司Planet Nemo制作成52集动画并播出(2008)。\r\n日本电视台CSフジテレビONE由2010年11月9日起每周一～周五6:00～6:30(日本时间)播出此动画。\r\nCAST\r\nセザール：松本梨香　ネリー：沢城みゆき　レオ：斎藤千和\r\nミーナ：廣田詩夢　　フレッド：福井美樹",
+      "name": "ネリーとセザール",
+      "name_cn": "奈丽和塞泽尔",
+      "tags": [
+        {
+          "name": "TVA-02",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "奈丽和塞泽尔"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Nelly &amp; Caesar"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "52"
+        },
+        {
+          "key": "放送开始",
+          "value": "2010年11月9日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://nelly-caesar.com/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "CSフジテレビONE"
+        },
+        {
+          "key": "原作",
+          "value": "Ingrid Gordon"
+        },
+        {
+          "key": "动画制作",
+          "value": "Averbode, Planet Nemo"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
       },
-      {
-        "name": "很帅很可爱宣言！",
-        "count": 23
+      "total_episodes": 50,
+      "collection": {
+        "on_hold": 1,
+        "dropped": 5,
+        "wish": 6,
+        "collect": 3,
+        "doing": 0
       },
-      {
-        "name": "日笠陽子",
-        "count": 19
-      },
-      {
-        "name": "搞笑",
-        "count": 14
-      },
-      {
-        "name": "地狱人设",
-        "count": 13
-      },
-      {
-        "name": "2010",
-        "count": 11
-      },
-      {
-        "name": "2010年11月",
-        "count": 11
-      },
-      {
-        "name": "天然",
-        "count": 11
-      },
-      {
-        "name": "WEB",
-        "count": 11
-      },
-      {
-        "name": "TV",
-        "count": 11
-      },
-      {
-        "name": "想去屎",
-        "count": 10
-      },
-      {
-        "name": "GATHERING",
-        "count": 10
-      },
-      {
-        "name": "小剧场",
-        "count": 9
-      },
-      {
-        "name": "藤原启治",
-        "count": 7
-      },
-      {
-        "name": "漫画改",
-        "count": 5
-      },
-      {
-        "name": "动画",
-        "count": 4
-      },
-      {
-        "name": "短片",
-        "count": 3
-      },
-      {
-        "name": "OVA",
-        "count": 3
-      },
-      {
-        "name": "泡面",
-        "count": 3
-      },
-      {
-        "name": "タイトル詐欺",
-        "count": 3
-      },
-      {
-        "name": "噗",
-        "count": 3
-      },
-      {
-        "name": "2010年11月番",
-        "count": 2
-      },
-      {
-        "name": "与标题无关",
-        "count": 2
-      },
-      {
-        "name": "ONA",
-        "count": 2
-      },
-      {
-        "name": "まんきゅう",
-        "count": 2
-      },
-      {
-        "name": "日本动画",
-        "count": 2
-      },
-      {
-        "name": "ギャザリング",
-        "count": 2
-      },
-      {
-        "name": "爆笑",
-        "count": 2
-      },
-      {
-        "name": "短篇",
-        "count": 2
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "好帅好可爱宣言!"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "很帅很可爱宣言！"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "5"
-      },
-      {
-        "key": "放送开始",
-        "value": "2010年11月5日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期五"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://jumpsq.shueisha.co.jp/contents/kakkokawaii/"
-      },
-      {
-        "key": "播放电视台",
-        "value": "ニコニコ動画"
-      },
-      {
-        "key": "其他电视台",
-        "value": "テレビ東京系"
-      },
-      {
-        "key": "其他",
-        "value": "http://ch.nicovideo.jp/video/ch390"
-      },
-      {
-        "key": "原作",
-        "value": "地獄のミサワ"
-      }
-    ],
-    "rating": {
-      "rank": 3838,
-      "total": 205,
-      "count": {
-        "1": 2,
-        "2": 6,
-        "3": 5,
-        "4": 13,
-        "5": 20,
-        "6": 35,
-        "7": 66,
-        "8": 34,
-        "9": 13,
-        "10": 11
-      },
-      "score": 6.6
-    },
-    "total_episodes": 5,
-    "collection": {
-      "on_hold": 6,
-      "dropped": 25,
-      "wish": 85,
-      "collect": 272,
-      "doing": 11
-    },
-    "id": 10494,
-    "eps": 5,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 9852,
+      "eps": 52,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": []
+    }
   },
   {
-    "date": "2010-11-09",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/be/9852_X47x4.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/be/9852_X47x4.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/c8/be/9852_X47x4.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/be/9852_X47x4.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/be/9852_X47x4.jpg"
-    },
-    "summary": "Nelly & Caesar是一套面向2-4岁学龄前儿童的比利时绘本，主角是老鼠女孩奈丽和青蛙男孩塞泽尔以及他们的伙伴们，描述他们在日常生活中对于生活和自然的探索以及情感的发展，由比利时动画公司Averbode和法国动画公司Planet Nemo制作成52集动画并播出(2008)。\r\n日本电视台CSフジテレビONE由2010年11月9日起每周一～周五6:00～6:30(日本时间)播出此动画。\r\nCAST\r\nセザール：松本梨香　ネリー：沢城みゆき　レオ：斎藤千和\r\nミーナ：廣田詩夢　　フレッド：福井美樹",
-    "name": "ネリーとセザール",
-    "name_cn": "奈丽和塞泽尔",
-    "tags": [
-      {
-        "name": "TVA-02",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "奈丽和塞泽尔"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Nelly &amp; Caesar"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "52"
-      },
-      {
-        "key": "放送开始",
-        "value": "2010年11月9日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://nelly-caesar.com/"
-      },
-      {
-        "key": "播放电视台",
-        "value": "CSフジテレビONE"
-      },
-      {
-        "key": "原作",
-        "value": "Ingrid Gordon"
-      },
-      {
-        "key": "动画制作",
-        "value": "Averbode, Planet Nemo"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 0,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 0
-    },
-    "total_episodes": 50,
-    "collection": {
-      "on_hold": 1,
-      "dropped": 5,
-      "wish": 6,
-      "collect": 3,
-      "doing": 0
-    },
-    "id": 9852,
-    "eps": 52,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
-  },
-  {
-    "date": "2010-11-16",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/10/210466_K2DNW.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/10/210466_K2DNW.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/44/10/210466_K2DNW.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/10/210466_K2DNW.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/10/210466_K2DNW.jpg"
-    },
-    "summary": "",
-    "name": "SHIN-MEN",
-    "name_cn": "小新超人",
-    "tags": [
-      {
-        "name": "2010",
-        "count": 11
-      },
-      {
-        "name": "TV",
-        "count": 9
-      },
-      {
-        "name": "蜡笔小新",
-        "count": 8
-      },
-      {
-        "name": "汤浅政明",
-        "count": 5
-      },
-      {
-        "name": "SHIN-EI",
-        "count": 4
-      },
-      {
-        "name": "漫改",
-        "count": 4
-      },
-      {
-        "name": "2010年秋",
-        "count": 2
-      },
-      {
-        "name": "ムトウユージ",
-        "count": 1
-      },
-      {
-        "name": "武藤裕治",
-        "count": 1
-      },
-      {
-        "name": "ならはしみき",
-        "count": 1
-      },
-      {
-        "name": "きむらひでふみ",
-        "count": 1
-      },
-      {
-        "name": "10年代",
-        "count": 1
-      },
-      {
-        "name": "シンエイ動画",
-        "count": 1
-      },
-      {
-        "name": "漫画原案",
-        "count": 1
-      },
-      {
-        "name": "藤原啓治",
-        "count": 1
-      },
-      {
-        "name": "漫画改",
-        "count": 1
-      },
-      {
-        "name": "原创",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "湯浅政明",
-        "count": 1
-      },
-      {
-        "name": "矢島晶子",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "短篇动画",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "小新超人"
-      },
-      {
-        "key": "话数",
-        "value": "14"
-      },
-      {
-        "key": "放送开始",
-        "value": "2010年11月16日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.tv-asahi.co.jp/shinchan/"
-      },
-      {
-        "key": "播放结束",
-        "value": "2012年9月14日"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 29,
-      "count": {
-        "1": 0,
-        "2": 1,
-        "3": 0,
-        "4": 1,
-        "5": 8,
-        "6": 9,
-        "7": 5,
-        "8": 3,
-        "9": 1,
-        "10": 1
-      },
-      "score": 6.1
-    },
-    "total_episodes": 14,
-    "collection": {
-      "on_hold": 0,
-      "dropped": 10,
-      "wish": 9,
-      "collect": 43,
-      "doing": 0
-    },
-    "id": 210466,
-    "eps": 14,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
-  },
-  {
-    "date": "2010-11-29",
-    "platform": "WEB",
-    "images": {
-      "small": "",
-      "grid": "",
-      "large": "",
-      "medium": "",
-      "common": ""
-    },
-    "summary": "",
-    "name": "製品用途擬人化劇場 ピュアスキンジェリー邸の潤わしき人々",
-    "name_cn": "产品用途拟人化剧场 pure skin jelly 滋润的众人",
-    "tags": [
-      {
-        "name": "空",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "产品用途拟人化剧场 pure skin jelly 滋润的众人"
-      },
-      {
-        "key": "话数",
-        "value": "15"
-      },
-      {
-        "key": "放送开始",
-        "value": "2010-11-29"
-      },
-      {
-        "key": "播放结束",
-        "value": "2011-02-14"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 1,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 1,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 3
-    },
-    "total_episodes": 15,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 6,
-      "wish": 0,
-      "collect": 3,
-      "doing": 1
-    },
-    "id": 210761,
-    "eps": 15,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
-  },
-  {
-    "date": "2010-11-26",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/ad/8452_xCgma.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/ad/8452_xCgma.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/a1/ad/8452_xCgma.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/ad/8452_xCgma.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ad/8452_xCgma.jpg"
-    },
-    "summary": "是以瀬戸内沿岸一带的竹原市为舞台，以一位喜欢摄影的女高中生泽渡枫和她朋友的故事。以《水星领航员》的工作人员为中心的制作阵容。\r\n\r\n在作品中忠实地再现竹原的街道和风景",
-    "name": "たまゆら",
-    "name_cn": "玉响",
-    "tags": [
-      {
-        "name": "治愈",
-        "count": 489
-      },
-      {
-        "name": "OVA",
-        "count": 477
-      },
-      {
-        "name": "2010",
-        "count": 253
-      },
-      {
-        "name": "百合",
-        "count": 190
-      },
-      {
-        "name": "原创",
-        "count": 184
-      },
-      {
-        "name": "幸福光斑",
-        "count": 177
-      },
-      {
-        "name": "摄影",
-        "count": 152
-      },
-      {
-        "name": "玉响",
-        "count": 147
-      },
-      {
-        "name": "HalFilmMaker",
-        "count": 117
-      },
-      {
-        "name": "治癒系",
-        "count": 85
-      },
-      {
-        "name": "佐藤顺一",
-        "count": 82
-      },
-      {
-        "name": "竹达彩奈",
-        "count": 67
-      },
-      {
-        "name": "日常",
-        "count": 61
-      },
-      {
-        "name": "阿澄佳奈",
-        "count": 42
-      },
-      {
-        "name": "超治愈",
-        "count": 27
-      },
-      {
-        "name": "ARIA再來",
-        "count": 20
-      },
-      {
-        "name": "佐藤順一",
-        "count": 15
-      },
-      {
-        "name": "2010年",
-        "count": 13
-      },
-      {
-        "name": "HAL_FILM_MAKER",
-        "count": 12
-      },
-      {
-        "name": "2010年11月",
-        "count": 12
-      },
-      {
-        "name": "治愈系",
-        "count": 11
-      },
-      {
-        "name": "吉田玲子",
-        "count": 11
-      },
-      {
-        "name": "TV",
-        "count": 9
-      },
-      {
-        "name": "日本",
-        "count": 7
-      },
-      {
-        "name": "地域振興",
-        "count": 6
-      },
-      {
-        "name": "轻百合",
-        "count": 6
-      },
-      {
-        "name": "补番",
-        "count": 6
-      },
-      {
-        "name": "黑丝",
-        "count": 6
-      },
-      {
-        "name": "2010年10月",
-        "count": 6
-      },
-      {
-        "name": "萌",
-        "count": 6
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "玉响"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "幸福光斑"
+    "title": "SHIN-MEN",
+    "bangumi": {
+      "date": "2010-11-16",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/10/210466_K2DNW.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/10/210466_K2DNW.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/44/10/210466_K2DNW.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/10/210466_K2DNW.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/10/210466_K2DNW.jpg"
+      },
+      "summary": "",
+      "name": "SHIN-MEN",
+      "name_cn": "小新超人",
+      "tags": [
+        {
+          "name": "2010",
+          "count": 11
+        },
+        {
+          "name": "TV",
+          "count": 9
+        },
+        {
+          "name": "蜡笔小新",
+          "count": 8
+        },
+        {
+          "name": "汤浅政明",
+          "count": 5
+        },
+        {
+          "name": "SHIN-EI",
+          "count": 4
+        },
+        {
+          "name": "漫改",
+          "count": 4
+        },
+        {
+          "name": "2010年秋",
+          "count": 2
+        },
+        {
+          "name": "ムトウユージ",
+          "count": 1
+        },
+        {
+          "name": "武藤裕治",
+          "count": 1
+        },
+        {
+          "name": "ならはしみき",
+          "count": 1
+        },
+        {
+          "name": "きむらひでふみ",
+          "count": 1
+        },
+        {
+          "name": "10年代",
+          "count": 1
+        },
+        {
+          "name": "シンエイ動画",
+          "count": 1
+        },
+        {
+          "name": "漫画原案",
+          "count": 1
+        },
+        {
+          "name": "藤原啓治",
+          "count": 1
+        },
+        {
+          "name": "漫画改",
+          "count": 1
+        },
+        {
+          "name": "原创",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "湯浅政明",
+          "count": 1
+        },
+        {
+          "name": "矢島晶子",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "短篇动画",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "小新超人"
+        },
+        {
+          "key": "话数",
+          "value": "14"
+        },
+        {
+          "key": "放送开始",
+          "value": "2010年11月16日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.tv-asahi.co.jp/shinchan/"
+        },
+        {
+          "key": "播放结束",
+          "value": "2012年9月14日"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 29,
+        "count": {
+          "1": 0,
+          "2": 1,
+          "3": 0,
+          "4": 1,
+          "5": 8,
+          "6": 9,
+          "7": 5,
+          "8": 3,
+          "9": 1,
+          "10": 1
+        },
+        "score": 6.1
+      },
+      "total_episodes": 14,
+      "collection": {
+        "on_hold": 0,
+        "dropped": 10,
+        "wish": 9,
+        "collect": 43,
+        "doing": 0
+      },
+      "id": 210466,
+      "eps": 14,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/b8/24823_0a06k.jpg"
           },
-          {
-            "v": "那一瞬间的光芒"
+          "name": "クレヨンしんちゃん",
+          "name_cn": "蜡笔小新",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 24823
+        }
+      ]
+    }
+  },
+  {
+    "title": "製品用途擬人化劇場 ピュアスキンジェリー邸の潤わしき人々",
+    "bangumi": {
+      "date": "2010-11-29",
+      "platform": "WEB",
+      "images": {
+        "small": "",
+        "grid": "",
+        "large": "",
+        "medium": "",
+        "common": ""
+      },
+      "summary": "",
+      "name": "製品用途擬人化劇場 ピュアスキンジェリー邸の潤わしき人々",
+      "name_cn": "产品用途拟人化剧场 pure skin jelly 滋润的众人",
+      "tags": [
+        {
+          "name": "空",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "产品用途拟人化剧场 pure skin jelly 滋润的众人"
+        },
+        {
+          "key": "话数",
+          "value": "15"
+        },
+        {
+          "key": "放送开始",
+          "value": "2010-11-29"
+        },
+        {
+          "key": "播放结束",
+          "value": "2011-02-14"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 1,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 3
+      },
+      "total_episodes": 15,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 6,
+        "wish": 0,
+        "collect": 3,
+        "doing": 1
+      },
+      "id": 210761,
+      "eps": 15,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
           },
-          {
-            "v": "幸福光晕"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "4"
-      },
-      {
-        "key": "发售日",
-        "value": "2010年11月26日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.tamayura.info/"
-      },
-      {
-        "key": "开始",
-        "value": "2010年11月26日"
-      },
-      {
-        "key": "结束",
-        "value": "2010年12月23日"
-      },
-      {
-        "key": "原作",
-        "value": "佐藤順一"
-      },
-      {
-        "key": "导演",
-        "value": "佐藤順一"
-      },
-      {
-        "key": "系列构成",
-        "value": "佐藤順一"
-      },
-      {
-        "key": "脚本",
-        "value": "吉田玲子"
-      },
-      {
-        "key": "人物设定",
-        "value": "飯塚晴子"
-      },
-      {
-        "key": "作画监督",
-        "value": "音地正行"
-      },
-      {
-        "key": "美术监督",
-        "value": "田尻健一"
-      },
-      {
-        "key": "色彩设计",
-        "value": "川上善美"
-      },
-      {
-        "key": "摄影监督",
-        "value": "和田尚之"
-      },
-      {
-        "key": "音乐",
-        "value": "中島ノブユキ"
-      },
-      {
-        "key": "动画制作",
-        "value": "HAL FILM MAKER"
-      },
-      {
-        "key": "制作",
-        "value": "たまゆら製作委員会"
-      },
-      {
-        "key": "Copyright",
-        "value": "©佐藤順一・TYA/たまゆら製作委員会"
-      }
-    ],
-    "rating": {
-      "rank": 1263,
-      "total": 1421,
-      "count": {
-        "1": 3,
-        "2": 3,
-        "3": 2,
-        "4": 7,
-        "5": 64,
-        "6": 189,
-        "7": 487,
-        "8": 512,
-        "9": 86,
-        "10": 68
-      },
-      "score": 7.4
-    },
-    "total_episodes": 4,
-    "collection": {
-      "on_hold": 211,
-      "dropped": 84,
-      "wish": 1271,
-      "collect": 1969,
-      "doing": 134
-    },
-    "id": 8452,
-    "eps": 4,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "製品用途擬人化劇場 ピュアスキンジェリー邸の潤わしき人々～2nd Season～",
+          "name_cn": "产品用途拟人化剧场 pure skin jelly 滋润的众人 第二季",
+          "relation": "续集",
+          "type": 2,
+          "id": 210763
+        }
+      ]
+    }
   },
   {
-    "date": "2010-11-10",
-    "platform": "WEB",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/ab/10070_5n5Nn.jpg"
-    },
-    "summary": "主人公ゾッコ是“ビビット”王国的魔王与美丽的人类女子所生的混血小孩，为了寻找行踪不明的母亲而踏上了旅途。她的同伴是一只名叫ミミメ的绒毛玩具兔子。\r\n\r\nCast\r\n小林ゆう、宮野真守、井上喜久子、浪川大輔 等。\r\n\r\nOP 「夢の中へ TRIP TREK ver」\r\n作詞/作曲:井上陽水　編曲:PONY　歌:小林ゆう・Tassee田代\r\nED 「天国に昇ったら」\r\n作詞/作曲:Tassee田代　歌・演奏:PONY",
-    "name": "TRIP TREK",
-    "name_cn": "",
-    "tags": [
-      {
-        "name": "补",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "トリップトレック"
-          }
-        ]
+    "title": "たまゆら",
+    "bangumi": {
+      "date": "2010-11-26",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/ad/8452_xCgma.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/ad/8452_xCgma.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a1/ad/8452_xCgma.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/ad/8452_xCgma.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/ad/8452_xCgma.jpg"
       },
-      {
-        "key": "话数",
-        "value": "12"
+      "summary": "是以瀬戸内沿岸一带的竹原市为舞台，以一位喜欢摄影的女高中生泽渡枫和她朋友的故事。以《水星领航员》的工作人员为中心的制作阵容。\r\n\r\n在作品中忠实地再现竹原的街道和风景",
+      "name": "たまゆら",
+      "name_cn": "玉响",
+      "tags": [
+        {
+          "name": "治愈",
+          "count": 489
+        },
+        {
+          "name": "OVA",
+          "count": 477
+        },
+        {
+          "name": "2010",
+          "count": 253
+        },
+        {
+          "name": "百合",
+          "count": 190
+        },
+        {
+          "name": "原创",
+          "count": 184
+        },
+        {
+          "name": "幸福光斑",
+          "count": 177
+        },
+        {
+          "name": "摄影",
+          "count": 152
+        },
+        {
+          "name": "玉响",
+          "count": 147
+        },
+        {
+          "name": "HalFilmMaker",
+          "count": 117
+        },
+        {
+          "name": "治癒系",
+          "count": 85
+        },
+        {
+          "name": "佐藤顺一",
+          "count": 82
+        },
+        {
+          "name": "竹达彩奈",
+          "count": 67
+        },
+        {
+          "name": "日常",
+          "count": 61
+        },
+        {
+          "name": "阿澄佳奈",
+          "count": 42
+        },
+        {
+          "name": "超治愈",
+          "count": 27
+        },
+        {
+          "name": "ARIA再來",
+          "count": 20
+        },
+        {
+          "name": "佐藤順一",
+          "count": 15
+        },
+        {
+          "name": "2010年",
+          "count": 13
+        },
+        {
+          "name": "HAL_FILM_MAKER",
+          "count": 12
+        },
+        {
+          "name": "2010年11月",
+          "count": 12
+        },
+        {
+          "name": "治愈系",
+          "count": 11
+        },
+        {
+          "name": "吉田玲子",
+          "count": 11
+        },
+        {
+          "name": "TV",
+          "count": 9
+        },
+        {
+          "name": "日本",
+          "count": 7
+        },
+        {
+          "name": "地域振興",
+          "count": 6
+        },
+        {
+          "name": "轻百合",
+          "count": 6
+        },
+        {
+          "name": "补番",
+          "count": 6
+        },
+        {
+          "name": "黑丝",
+          "count": 6
+        },
+        {
+          "name": "2010年10月",
+          "count": 6
+        },
+        {
+          "name": "萌",
+          "count": 6
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "玉响"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "幸福光斑"
+            },
+            {
+              "v": "那一瞬间的光芒"
+            },
+            {
+              "v": "幸福光晕"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "4"
+        },
+        {
+          "key": "发售日",
+          "value": "2010年11月26日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.tamayura.info/"
+        },
+        {
+          "key": "开始",
+          "value": "2010年11月26日"
+        },
+        {
+          "key": "结束",
+          "value": "2010年12月23日"
+        },
+        {
+          "key": "原作",
+          "value": "佐藤順一"
+        },
+        {
+          "key": "导演",
+          "value": "佐藤順一"
+        },
+        {
+          "key": "系列构成",
+          "value": "佐藤順一"
+        },
+        {
+          "key": "脚本",
+          "value": "吉田玲子"
+        },
+        {
+          "key": "人物设定",
+          "value": "飯塚晴子"
+        },
+        {
+          "key": "作画监督",
+          "value": "音地正行"
+        },
+        {
+          "key": "美术监督",
+          "value": "田尻健一"
+        },
+        {
+          "key": "色彩设计",
+          "value": "川上善美"
+        },
+        {
+          "key": "摄影监督",
+          "value": "和田尚之"
+        },
+        {
+          "key": "音乐",
+          "value": "中島ノブユキ"
+        },
+        {
+          "key": "动画制作",
+          "value": "HAL FILM MAKER"
+        },
+        {
+          "key": "制作",
+          "value": "たまゆら製作委員会"
+        },
+        {
+          "key": "Copyright",
+          "value": "©佐藤順一・TYA/たまゆら製作委員会"
+        }
+      ],
+      "rating": {
+        "rank": 1257,
+        "total": 1423,
+        "count": {
+          "1": 3,
+          "2": 3,
+          "3": 2,
+          "4": 7,
+          "5": 64,
+          "6": 189,
+          "7": 487,
+          "8": 513,
+          "9": 87,
+          "10": 68
+        },
+        "score": 7.4
       },
-      {
-        "key": "放送开始",
-        "value": "2010-11-10"
+      "total_episodes": 4,
+      "collection": {
+        "on_hold": 211,
+        "dropped": 84,
+        "wish": 1272,
+        "collect": 1971,
+        "doing": 133
       },
-      {
-        "key": "放送星期",
-        "value": "周三"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://trip.oh-news.net/"
-      },
-      {
-        "key": "播放电视台",
-        "value": "Web动画"
-      },
-      {
-        "key": "播放结束",
-        "value": "2011-01-26"
-      },
-      {
-        "key": "Copyright",
-        "value": "ESTRELLA/manglobe・bb-anime・SUNRISE"
-      },
-      {
-        "key": "原作",
-        "value": "ESTRELLA/manglobe"
-      },
-      {
-        "key": "导演",
-        "value": "西本祥冶"
-      },
-      {
-        "key": "作画监督",
-        "value": "萩田憲司"
-      },
-      {
-        "key": "音响监督",
-        "value": "土井武志"
-      },
-      {
-        "key": "音乐制作",
-        "value": "bb-anime"
-      },
-      {
-        "key": "动画制作",
-        "value": "西本祥冶"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 0,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 0
-    },
-    "total_episodes": 12,
-    "collection": {
-      "on_hold": 1,
-      "dropped": 5,
-      "wish": 6,
-      "collect": 1,
-      "doing": 1
-    },
-    "id": 10070,
-    "eps": 12,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 8452,
+      "eps": 4,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7b/86/9525_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7b/86/9525_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7b/86/9525_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7b/86/9525_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7b/86/9525_jp.jpg"
+          },
+          "name": "DOWN TOWN / やさしさに包まれたなら",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 9525
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/79/10260_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/79/10260_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/da/79/10260_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/79/10260_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/79/10260_jp.jpg"
+          },
+          "name": "メロディ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 10260
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/8d/18605_VTtTJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/8d/18605_VTtTJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/8d/18605_VTtTJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/8d/18605_VTtTJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/8d/18605_VTtTJ.jpg"
+          },
+          "name": "たまゆら～hitotose～",
+          "name_cn": "玉响～hitotose～",
+          "relation": "续集",
+          "type": 2,
+          "id": 18605
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/f4/75877_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/f4/75877_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/f4/75877_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/f4/75877_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/f4/75877_jp.jpg"
+          },
+          "name": "オリジナルビデオアニメーション たまゆら オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 75877
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/0b/174747_CaRrW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/0b/174747_CaRrW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/0b/174747_CaRrW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/0b/174747_CaRrW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/0b/174747_CaRrW.jpg"
+          },
+          "name": "「たまゆら」主題歌コレクション～卒業写真～",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 174747
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/91/91/287028_4yWD9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/91/91/287028_4yWD9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/91/91/287028_4yWD9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/91/91/287028_4yWD9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/91/91/287028_4yWD9.jpg"
+          },
+          "name": "飯塚晴子画集 ハレハレ",
+          "name_cn": "饭塚晴子画集",
+          "relation": "书籍",
+          "type": 1,
+          "id": 287028
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/97/445401_LLa7d.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/97/445401_LLa7d.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/18/97/445401_LLa7d.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/97/445401_LLa7d.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/97/445401_LLa7d.jpg"
+          },
+          "name": "たまゆら 設定資料集",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 445401
+        }
+      ]
+    }
   },
   {
-    "date": "2010-11-25",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/68/9368_VZ9tz.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/68/9368_VZ9tz.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/ec/68/9368_VZ9tz.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/68/9368_VZ9tz.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/68/9368_VZ9tz.jpg"
-    },
-    "summary": "以眼镜为卖点的作品，由TOBI所作漫画改编。原作是以多部短篇故事集合的形式组成，当中各种各样的女主角的相同特征就是眼镜娘。OVA选择了其中人气很高的4篇改编。",
-    "name": "眼鏡なカノジョ",
-    "name_cn": "眼镜女友",
-    "tags": [
-      {
-        "name": "OVA",
-        "count": 64
+    "title": "TRIP TREK",
+    "bangumi": {
+      "date": "2010-11-10",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/ab/10070_5n5Nn.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/ab/10070_5n5Nn.jpg"
       },
-      {
-        "name": "2010",
-        "count": 33
+      "summary": "主人公ゾッコ是“ビビット”王国的魔王与美丽的人类女子所生的混血小孩，为了寻找行踪不明的母亲而踏上了旅途。她的同伴是一只名叫ミミメ的绒毛玩具兔子。\r\n\r\nCast\r\n小林ゆう、宮野真守、井上喜久子、浪川大輔 等。\r\n\r\nOP 「夢の中へ TRIP TREK ver」\r\n作詞/作曲:井上陽水　編曲:PONY　歌:小林ゆう・Tassee田代\r\nED 「天国に昇ったら」\r\n作詞/作曲:Tassee田代　歌・演奏:PONY",
+      "name": "TRIP TREK",
+      "name_cn": "",
+      "tags": [
+        {
+          "name": "补",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "トリップトレック"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "12"
+        },
+        {
+          "key": "放送开始",
+          "value": "2010-11-10"
+        },
+        {
+          "key": "放送星期",
+          "value": "周三"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://trip.oh-news.net/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "Web动画"
+        },
+        {
+          "key": "播放结束",
+          "value": "2011-01-26"
+        },
+        {
+          "key": "Copyright",
+          "value": "ESTRELLA/manglobe・bb-anime・SUNRISE"
+        },
+        {
+          "key": "原作",
+          "value": "ESTRELLA/manglobe"
+        },
+        {
+          "key": "导演",
+          "value": "西本祥冶"
+        },
+        {
+          "key": "作画监督",
+          "value": "萩田憲司"
+        },
+        {
+          "key": "音响监督",
+          "value": "土井武志"
+        },
+        {
+          "key": "音乐制作",
+          "value": "bb-anime"
+        },
+        {
+          "key": "动画制作",
+          "value": "西本祥冶"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
       },
-      {
-        "name": "眼镜",
-        "count": 29
+      "total_episodes": 12,
+      "collection": {
+        "on_hold": 1,
+        "dropped": 5,
+        "wish": 6,
+        "collect": 1,
+        "doing": 1
       },
-      {
-        "name": "花泽香菜",
-        "count": 23
-      },
-      {
-        "name": "AIC",
-        "count": 20
-      },
-      {
-        "name": "漫画改",
-        "count": 19
-      },
-      {
-        "name": "治愈",
-        "count": 18
-      },
-      {
-        "name": "治愈系",
-        "count": 14
-      },
-      {
-        "name": "今井麻美",
-        "count": 9
-      },
-      {
-        "name": "下野紘",
-        "count": 9
-      },
-      {
-        "name": "OAD",
-        "count": 8
-      },
-      {
-        "name": "闪",
-        "count": 8
-      },
-      {
-        "name": "眼镜彼女",
-        "count": 8
-      },
-      {
-        "name": "伊藤浩二",
-        "count": 7
-      },
-      {
-        "name": "早見沙織",
-        "count": 7
-      },
-      {
-        "name": "眼镜女友",
-        "count": 6
-      },
-      {
-        "name": "漫改",
-        "count": 6
-      },
-      {
-        "name": "短篇",
-        "count": 4
-      },
-      {
-        "name": "恋爱",
-        "count": 3
-      },
-      {
-        "name": "☆OVA",
-        "count": 3
-      },
-      {
-        "name": "花澤香菜",
-        "count": 3
-      },
-      {
-        "name": "岡本信彦",
-        "count": 2
-      },
-      {
-        "name": "独立ova",
-        "count": 2
-      },
-      {
-        "name": "2010年11月",
-        "count": 2
-      },
-      {
-        "name": "平川大輔",
-        "count": 2
-      },
-      {
-        "name": "日本动画",
-        "count": 2
-      },
-      {
-        "name": "阿部敦",
-        "count": 2
-      },
-      {
-        "name": "校园",
-        "count": 2
-      },
-      {
-        "name": "ovaoad",
-        "count": 1
-      },
-      {
-        "name": "动画",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "眼镜女友"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "眼镜彼女"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "4"
-      },
-      {
-        "key": "发售日",
-        "value": "2010年11月25日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://meganenakanojo.com/"
-      },
-      {
-        "key": "原作",
-        "value": "TOBI"
-      },
-      {
-        "key": "作画监督",
-        "value": "永田正美"
-      },
-      {
-        "key": "音乐",
-        "value": "5pb."
-      },
-      {
-        "key": "动画制作",
-        "value": "AIC"
-      },
-      {
-        "key": "导演",
-        "value": "伊藤浩二"
-      },
-      {
-        "key": "脚本",
-        "value": "伊藤浩二"
-      },
-      {
-        "key": "分镜",
-        "value": "伊藤浩二"
-      }
-    ],
-    "rating": {
-      "rank": 3756,
-      "total": 147,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 4,
-        "5": 22,
-        "6": 43,
-        "7": 55,
-        "8": 15,
-        "9": 2,
-        "10": 6
-      },
-      "score": 6.6
-    },
-    "total_episodes": 4,
-    "collection": {
-      "on_hold": 18,
-      "dropped": 24,
-      "wish": 104,
-      "collect": 223,
-      "doing": 8
-    },
-    "id": 9368,
-    "eps": 4,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 10070,
+      "eps": 12,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": []
+    }
   },
   {
-    "date": "2010-11-17",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/e8/10299_gY3GT.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/e8/10299_gY3GT.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/5f/e8/10299_gY3GT.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/e8/10299_gY3GT.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/e8/10299_gY3GT.jpg"
-    },
-    "summary": "講談社限定版企画として、第1話（Trick1）は2010年11月17日発売のコミックス第30巻限定版同梱(OAD=オリジナル・アニメーション・ディスク)DVD収録のOVA。原作16巻掲載のイッキとリンゴの対決を映像化。2011年3月17日発売のコミックス第31巻収録の第2話（Trick2）、および2011年6月17日発売のコミックス第32巻収録の第3話（Trick3）では、原作24、25巻の小烏丸vs眠りの森の伝説のバトルを映像化。",
-    "name": "エア・ギア 黒の羽と眠りの森 -Break on the sky-",
-    "name_cn": "飞轮少年 黑翼与沉睡森林 -Break on the sky-",
-    "tags": [
-      {
-        "name": "OVA",
-        "count": 34
+    "title": "眼鏡なカノジョ",
+    "bangumi": {
+      "date": "2010-11-25",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/68/9368_VZ9tz.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/68/9368_VZ9tz.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ec/68/9368_VZ9tz.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/68/9368_VZ9tz.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/68/9368_VZ9tz.jpg"
       },
-      {
-        "name": "飞轮少年",
-        "count": 28
+      "summary": "以眼镜为卖点的作品，由TOBI所作漫画改编。原作是以多部短篇故事集合的形式组成，当中各种各样的女主角的相同特征就是眼镜娘。OVA选择了其中人气很高的4篇改编。",
+      "name": "眼鏡なカノジョ",
+      "name_cn": "眼镜女友",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 64
+        },
+        {
+          "name": "2010",
+          "count": 33
+        },
+        {
+          "name": "眼镜",
+          "count": 29
+        },
+        {
+          "name": "花泽香菜",
+          "count": 23
+        },
+        {
+          "name": "AIC",
+          "count": 20
+        },
+        {
+          "name": "漫画改",
+          "count": 19
+        },
+        {
+          "name": "治愈",
+          "count": 18
+        },
+        {
+          "name": "治愈系",
+          "count": 14
+        },
+        {
+          "name": "今井麻美",
+          "count": 9
+        },
+        {
+          "name": "下野紘",
+          "count": 9
+        },
+        {
+          "name": "OAD",
+          "count": 8
+        },
+        {
+          "name": "闪",
+          "count": 8
+        },
+        {
+          "name": "眼镜彼女",
+          "count": 8
+        },
+        {
+          "name": "伊藤浩二",
+          "count": 7
+        },
+        {
+          "name": "早見沙織",
+          "count": 7
+        },
+        {
+          "name": "眼镜女友",
+          "count": 6
+        },
+        {
+          "name": "漫改",
+          "count": 6
+        },
+        {
+          "name": "短篇",
+          "count": 4
+        },
+        {
+          "name": "恋爱",
+          "count": 3
+        },
+        {
+          "name": "☆OVA",
+          "count": 3
+        },
+        {
+          "name": "花澤香菜",
+          "count": 3
+        },
+        {
+          "name": "岡本信彦",
+          "count": 2
+        },
+        {
+          "name": "独立ova",
+          "count": 2
+        },
+        {
+          "name": "2010年11月",
+          "count": 2
+        },
+        {
+          "name": "平川大輔",
+          "count": 2
+        },
+        {
+          "name": "日本动画",
+          "count": 2
+        },
+        {
+          "name": "阿部敦",
+          "count": 2
+        },
+        {
+          "name": "校园",
+          "count": 2
+        },
+        {
+          "name": "ovaoad",
+          "count": 1
+        },
+        {
+          "name": "动画",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "眼镜女友"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "眼镜彼女"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "4"
+        },
+        {
+          "key": "发售日",
+          "value": "2010年11月25日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://meganenakanojo.com/"
+        },
+        {
+          "key": "原作",
+          "value": "TOBI"
+        },
+        {
+          "key": "作画监督",
+          "value": "永田正美"
+        },
+        {
+          "key": "音乐",
+          "value": "5pb."
+        },
+        {
+          "key": "动画制作",
+          "value": "AIC"
+        },
+        {
+          "key": "导演",
+          "value": "伊藤浩二"
+        },
+        {
+          "key": "脚本",
+          "value": "伊藤浩二"
+        },
+        {
+          "key": "分镜",
+          "value": "伊藤浩二"
+        }
+      ],
+      "rating": {
+        "rank": 3737,
+        "total": 147,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 4,
+          "5": 22,
+          "6": 43,
+          "7": 55,
+          "8": 15,
+          "9": 2,
+          "10": 6
+        },
+        "score": 6.6
       },
-      {
-        "name": "大暮维人",
-        "count": 27
+      "total_episodes": 4,
+      "collection": {
+        "on_hold": 18,
+        "dropped": 24,
+        "wish": 104,
+        "collect": 223,
+        "doing": 8
       },
-      {
-        "name": "漫画改",
-        "count": 14
-      },
-      {
-        "name": "2010",
-        "count": 12
-      },
-      {
-        "name": "热血",
-        "count": 9
-      },
-      {
-        "name": "乌鸦君",
-        "count": 9
-      },
-      {
-        "name": "各种王",
-        "count": 7
-      },
-      {
-        "name": "Satelight",
-        "count": 5
-      },
-      {
-        "name": "FANS向",
-        "count": 5
-      },
-      {
-        "name": "2010年11月",
-        "count": 4
-      },
-      {
-        "name": "运动",
-        "count": 4
-      },
-      {
-        "name": "戸松遥",
-        "count": 4
-      },
-      {
-        "name": "竞技",
-        "count": 3
-      },
-      {
-        "name": "动画",
-        "count": 2
-      },
-      {
-        "name": "漫改",
-        "count": 2
-      },
-      {
-        "name": "TV",
-        "count": 1
-      },
-      {
-        "name": "前作烂",
-        "count": 1
-      },
-      {
-        "name": "佐藤利奈",
-        "count": 1
-      },
-      {
-        "name": "福井裕佳梨",
-        "count": 1
-      },
-      {
-        "name": "滑板鞋",
-        "count": 1
-      },
-      {
-        "name": "白石涼子",
-        "count": 1
-      },
-      {
-        "name": "OVA-01",
-        "count": 1
-      },
-      {
-        "name": "川澄绫子",
-        "count": 1
-      },
-      {
-        "name": "伊瀬茉莉也",
-        "count": 1
-      },
-      {
-        "name": "前川淳",
-        "count": 1
-      },
-      {
-        "name": "死而无憾",
-        "count": 1
-      },
-      {
-        "name": "皮哥叫我看的",
-        "count": 1
-      },
-      {
-        "name": "已看",
-        "count": 1
-      },
-      {
-        "name": "大原さやか",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "飞轮少年 黑翼与沉睡森林 -Break on the sky-"
-      },
-      {
-        "key": "话数",
-        "value": "3"
-      },
-      {
-        "key": "发售日",
-        "value": "2010年11月17日"
-      },
-      {
-        "key": "开始",
-        "value": "2010年11月17日"
-      },
-      {
-        "key": "结束",
-        "value": "2011年6月17日"
-      },
-      {
-        "key": "原作",
-        "value": "大暮維人"
-      },
-      {
-        "key": "导演",
-        "value": "石平信司"
-      },
-      {
-        "key": "人物设定",
-        "value": "堀内修"
-      }
-    ],
-    "rating": {
-      "rank": 2561,
-      "total": 133,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 2,
-        "5": 8,
-        "6": 41,
-        "7": 45,
-        "8": 24,
-        "9": 8,
-        "10": 5
-      },
-      "score": 6.9
-    },
-    "total_episodes": 3,
-    "collection": {
-      "on_hold": 16,
-      "dropped": 20,
-      "wish": 89,
-      "collect": 245,
-      "doing": 6
-    },
-    "id": 10299,
-    "eps": 3,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 9368,
+      "eps": 4,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3b/0d/23210_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3b/0d/23210_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3b/0d/23210_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3b/0d/23210_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3b/0d/23210_jp.jpg"
+          },
+          "name": "眼鏡なカノジョ",
+          "name_cn": "眼镜彼女",
+          "relation": "书籍",
+          "type": 1,
+          "id": 23210
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/73/133454_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/73/133454_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e1/73/133454_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/73/133454_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/73/133454_jp.jpg"
+          },
+          "name": "フレーム越しの恋",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 133454
+        }
+      ]
+    }
   },
   {
-    "date": "2010-11-06",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/24/13406_JTow1.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/24/13406_JTow1.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/ad/24/13406_JTow1.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/24/13406_JTow1.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/24/13406_JTow1.jpg"
-    },
-    "summary": "故事以一个名为亚斯特拉纽斯银河中的“百年战争”为舞台，主角齐力可‧裘比被迫参与甚至不知目的为何的作战，并在执行任务作战时，命运般遇见了一名置于培养槽中的神秘女性“幽灵淑女”。在同僚的攻击下，齐力可屡次面临死亡危机，但却总是奇迹地捡回一条命，并逃亡到乌德街；但在那儿仍然被持续追杀。他历经地下赌博比赛“战斗竞技场”及库绵的内乱等战场，不断地追寻着自己一直被追杀的谜，还有幽灵淑女的身影，而在银河中流浪…",
-    "name": "装甲騎兵ボトムズ Case;IRVINE",
-    "name_cn": "装甲骑兵 Case;IRVINE",
-    "tags": [
-      {
-        "name": "OVA",
-        "count": 30
+    "title": "エア・ギア 黒の羽と眠りの森 -Break on the sky-",
+    "bangumi": {
+      "date": "2010-11-17",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/e8/10299_gY3GT.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/e8/10299_gY3GT.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/5f/e8/10299_gY3GT.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/e8/10299_gY3GT.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/e8/10299_gY3GT.jpg"
       },
-      {
-        "name": "SUNRISE",
-        "count": 23
+      "summary": "講談社限定版企画として、第1話（Trick1）は2010年11月17日発売のコミックス第30巻限定版同梱(OAD=オリジナル・アニメーション・ディスク)DVD収録のOVA。原作16巻掲載のイッキとリンゴの対決を映像化。2011年3月17日発売のコミックス第31巻収録の第2話（Trick2）、および2011年6月17日発売のコミックス第32巻収録の第3話（Trick3）では、原作24、25巻の小烏丸vs眠りの森の伝説のバトルを映像化。",
+      "name": "エア・ギア 黒の羽と眠りの森 -Break on the sky-",
+      "name_cn": "飞轮少年 黑翼与沉睡森林 -Break on the sky-",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 34
+        },
+        {
+          "name": "飞轮少年",
+          "count": 28
+        },
+        {
+          "name": "大暮维人",
+          "count": 27
+        },
+        {
+          "name": "漫画改",
+          "count": 14
+        },
+        {
+          "name": "2010",
+          "count": 12
+        },
+        {
+          "name": "热血",
+          "count": 9
+        },
+        {
+          "name": "乌鸦君",
+          "count": 9
+        },
+        {
+          "name": "各种王",
+          "count": 7
+        },
+        {
+          "name": "Satelight",
+          "count": 5
+        },
+        {
+          "name": "FANS向",
+          "count": 5
+        },
+        {
+          "name": "2010年11月",
+          "count": 4
+        },
+        {
+          "name": "运动",
+          "count": 4
+        },
+        {
+          "name": "戸松遥",
+          "count": 4
+        },
+        {
+          "name": "竞技",
+          "count": 3
+        },
+        {
+          "name": "动画",
+          "count": 2
+        },
+        {
+          "name": "漫改",
+          "count": 2
+        },
+        {
+          "name": "TV",
+          "count": 1
+        },
+        {
+          "name": "前作烂",
+          "count": 1
+        },
+        {
+          "name": "佐藤利奈",
+          "count": 1
+        },
+        {
+          "name": "福井裕佳梨",
+          "count": 1
+        },
+        {
+          "name": "滑板鞋",
+          "count": 1
+        },
+        {
+          "name": "白石涼子",
+          "count": 1
+        },
+        {
+          "name": "OVA-01",
+          "count": 1
+        },
+        {
+          "name": "川澄绫子",
+          "count": 1
+        },
+        {
+          "name": "伊瀬茉莉也",
+          "count": 1
+        },
+        {
+          "name": "前川淳",
+          "count": 1
+        },
+        {
+          "name": "死而无憾",
+          "count": 1
+        },
+        {
+          "name": "皮哥叫我看的",
+          "count": 1
+        },
+        {
+          "name": "已看",
+          "count": 1
+        },
+        {
+          "name": "大原さやか",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "飞轮少年 黑翼与沉睡森林 -Break on the sky-"
+        },
+        {
+          "key": "话数",
+          "value": "3"
+        },
+        {
+          "key": "发售日",
+          "value": "2010年11月17日"
+        },
+        {
+          "key": "开始",
+          "value": "2010年11月17日"
+        },
+        {
+          "key": "结束",
+          "value": "2011年6月17日"
+        },
+        {
+          "key": "原作",
+          "value": "大暮維人"
+        },
+        {
+          "key": "导演",
+          "value": "石平信司"
+        },
+        {
+          "key": "人物设定",
+          "value": "堀内修"
+        }
+      ],
+      "rating": {
+        "rank": 2541,
+        "total": 133,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 8,
+          "6": 41,
+          "7": 45,
+          "8": 24,
+          "9": 8,
+          "10": 5
+        },
+        "score": 6.9
       },
-      {
-        "name": "装甲骑兵",
-        "count": 18
+      "total_episodes": 3,
+      "collection": {
+        "on_hold": 16,
+        "dropped": 20,
+        "wish": 89,
+        "collect": 245,
+        "doing": 6
       },
-      {
-        "name": "2010",
-        "count": 15
-      },
-      {
-        "name": "萝卜",
-        "count": 10
-      },
-      {
-        "name": "佐藤卓哉",
-        "count": 5
-      },
-      {
-        "name": "机战",
-        "count": 5
-      },
-      {
-        "name": "日本动画",
-        "count": 3
-      },
-      {
-        "name": "装甲騎兵ボトムズ",
-        "count": 3
-      },
-      {
-        "name": "原创",
-        "count": 3
-      },
-      {
-        "name": "平川大輔",
-        "count": 2
-      },
-      {
-        "name": "五十岚紫樟",
-        "count": 1
-      },
-      {
-        "name": "robo",
-        "count": 1
-      },
-      {
-        "name": "中庸",
-        "count": 1
-      },
-      {
-        "name": "五十岚达也",
-        "count": 1
-      },
-      {
-        "name": "單集長篇",
-        "count": 1
-      },
-      {
-        "name": "OVA-01",
-        "count": 1
-      },
-      {
-        "name": "五十嵐達也",
-        "count": 1
-      },
-      {
-        "name": "户外",
-        "count": 1
-      },
-      {
-        "name": "独立ova",
-        "count": 1
-      },
-      {
-        "name": "其他",
-        "count": 1
-      },
-      {
-        "name": "OVA8",
-        "count": 1
-      },
-      {
-        "name": "高橋良輔",
-        "count": 1
-      },
-      {
-        "name": "机甲",
-        "count": 1
-      },
-      {
-        "name": "日本",
-        "count": 1
-      },
-      {
-        "name": "动画",
-        "count": 1
-      },
-      {
-        "name": "科幻",
-        "count": 1
-      },
-      {
-        "name": "福山潤",
-        "count": 1
-      },
-      {
-        "name": "森川智之",
-        "count": 1
-      },
-      {
-        "name": "2011",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "装甲骑兵 Case;IRVINE"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "发售日",
-        "value": "2011年2月25日"
-      },
-      {
-        "key": "上映年度",
-        "value": "2010年11月6日"
-      },
-      {
-        "key": "原作",
-        "value": "矢立肇、高橋良輔"
-      },
-      {
-        "key": "导演",
-        "value": "五十嵐達也"
-      },
-      {
-        "key": "脚本",
-        "value": "佐藤卓哉"
-      },
-      {
-        "key": "人物设定",
-        "value": "久行宏和"
-      },
-      {
-        "key": "原画",
-        "value": "大塚健、高瀬健一"
-      },
-      {
-        "key": "动画制作",
-        "value": "サンライズ"
-      }
-    ],
-    "rating": {
-      "rank": 5514,
-      "total": 62,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 3,
-        "4": 9,
-        "5": 12,
-        "6": 21,
-        "7": 14,
-        "8": 1,
-        "9": 1,
-        "10": 1
-      },
-      "score": 5.7
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 13,
-      "wish": 62,
-      "collect": 88,
-      "doing": 4
-    },
-    "id": 13406,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 10299,
+      "eps": 3,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/ba/2469_2Q10f.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/ba/2469_2Q10f.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/57/ba/2469_2Q10f.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/ba/2469_2Q10f.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/ba/2469_2Q10f.jpg"
+          },
+          "name": "エア・ギア",
+          "name_cn": "飞轮少年",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 2469
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/d4/23363_psr5E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/d4/23363_psr5E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/d4/23363_psr5E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/d4/23363_psr5E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/d4/23363_psr5E.jpg"
+          },
+          "name": "エア・ギア",
+          "name_cn": "飞轮少年",
+          "relation": "书籍",
+          "type": 1,
+          "id": 23363
+        }
+      ]
+    }
   },
   {
-    "date": "2010-11-13",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/ef/111231_r2L64.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/ef/111231_r2L64.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/65/ef/111231_r2L64.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/ef/111231_r2L64.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/ef/111231_r2L64.jpg"
-    },
-    "summary": "映画第2弾で3D映画として『劇場版3D あたしンち 情熱のちょ〜超能力♪ 母大暴走!』（げきじょうばんすりーでぃーあたしんちじょうねつのちょーちょうのうりょくははだいぼうそう）が2010年11月13日に公開された。東映配給。上映時間は43分。シンエイ動画初の3D映画。監督は長編映画初監督作品となる高橋渉。脚本は大野木寛。主題歌は矢沢洋子が担当。なお、前作及びテレビシリーズにて監督を担当したやすみ哲夫は監修を担当する。\r\nキャッチコピーは「発表します!母が、超能力を使えるようになりました!!」。",
-    "name": "劇場版3D あたしンち -情熱の超ちょ?能力?母大暴走！-",
-    "name_cn": "剧场版3D 我们这一家 -热情的超能力- 母亲大暴走！",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 9
+    "title": "装甲騎兵ボトムズ Case;IRVINE",
+    "bangumi": {
+      "date": "2010-11-06",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/24/13406_JTow1.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/24/13406_JTow1.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ad/24/13406_JTow1.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/24/13406_JTow1.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/24/13406_JTow1.jpg"
       },
-      {
-        "name": "日常",
-        "count": 3
+      "summary": "故事以一个名为亚斯特拉纽斯银河中的“百年战争”为舞台，主角齐力可‧裘比被迫参与甚至不知目的为何的作战，并在执行任务作战时，命运般遇见了一名置于培养槽中的神秘女性“幽灵淑女”。在同僚的攻击下，齐力可屡次面临死亡危机，但却总是奇迹地捡回一条命，并逃亡到乌德街；但在那儿仍然被持续追杀。他历经地下赌博比赛“战斗竞技场”及库绵的内乱等战场，不断地追寻着自己一直被追杀的谜，还有幽灵淑女的身影，而在银河中流浪…",
+      "name": "装甲騎兵ボトムズ Case;IRVINE",
+      "name_cn": "装甲骑兵 Case;IRVINE",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 31
+        },
+        {
+          "name": "SUNRISE",
+          "count": 24
+        },
+        {
+          "name": "装甲骑兵",
+          "count": 18
+        },
+        {
+          "name": "2010",
+          "count": 15
+        },
+        {
+          "name": "萝卜",
+          "count": 10
+        },
+        {
+          "name": "佐藤卓哉",
+          "count": 5
+        },
+        {
+          "name": "机战",
+          "count": 5
+        },
+        {
+          "name": "日本动画",
+          "count": 3
+        },
+        {
+          "name": "装甲騎兵ボトムズ",
+          "count": 3
+        },
+        {
+          "name": "原创",
+          "count": 3
+        },
+        {
+          "name": "平川大輔",
+          "count": 2
+        },
+        {
+          "name": "五十岚紫樟",
+          "count": 1
+        },
+        {
+          "name": "robo",
+          "count": 1
+        },
+        {
+          "name": "中庸",
+          "count": 1
+        },
+        {
+          "name": "五十岚达也",
+          "count": 1
+        },
+        {
+          "name": "單集長篇",
+          "count": 1
+        },
+        {
+          "name": "OVA-01",
+          "count": 1
+        },
+        {
+          "name": "五十嵐達也",
+          "count": 1
+        },
+        {
+          "name": "户外",
+          "count": 1
+        },
+        {
+          "name": "独立ova",
+          "count": 1
+        },
+        {
+          "name": "其他",
+          "count": 1
+        },
+        {
+          "name": "OVA8",
+          "count": 1
+        },
+        {
+          "name": "高橋良輔",
+          "count": 1
+        },
+        {
+          "name": "机甲",
+          "count": 1
+        },
+        {
+          "name": "日本",
+          "count": 1
+        },
+        {
+          "name": "动画",
+          "count": 1
+        },
+        {
+          "name": "科幻",
+          "count": 1
+        },
+        {
+          "name": "福山潤",
+          "count": 1
+        },
+        {
+          "name": "森川智之",
+          "count": 1
+        },
+        {
+          "name": "2011",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "装甲骑兵 Case;IRVINE"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "2011年2月25日"
+        },
+        {
+          "key": "上映年度",
+          "value": "2010年11月6日"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇、高橋良輔"
+        },
+        {
+          "key": "导演",
+          "value": "五十嵐達也"
+        },
+        {
+          "key": "脚本",
+          "value": "佐藤卓哉"
+        },
+        {
+          "key": "人物设定",
+          "value": "久行宏和"
+        },
+        {
+          "key": "原画",
+          "value": "大塚健、高瀬健一"
+        },
+        {
+          "key": "动画制作",
+          "value": "サンライズ"
+        }
+      ],
+      "rating": {
+        "rank": 5527,
+        "total": 62,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 3,
+          "4": 9,
+          "5": 12,
+          "6": 21,
+          "7": 14,
+          "8": 1,
+          "9": 1,
+          "10": 1
+        },
+        "score": 5.7
       },
-      {
-        "name": "あたしンち",
-        "count": 2
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 13,
+        "wish": 62,
+        "collect": 89,
+        "doing": 4
       },
-      {
-        "name": "2010",
-        "count": 2
+      "id": 13406,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/ba/10379_y3cGG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/ba/10379_y3cGG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c1/ba/10379_y3cGG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/ba/10379_y3cGG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/ba/10379_y3cGG.jpg"
+          },
+          "name": "装甲騎兵ボトムズ",
+          "name_cn": "装甲骑兵VOTOMS",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 10379
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/30/11763_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/30/11763_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d6/30/11763_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/30/11763_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/30/11763_jp.jpg"
+          },
+          "name": "星を求めて",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 11763
+        }
+      ]
+    }
+  },
+  {
+    "title": "劇場版3D あたしンち -情熱の超ちょ?能力?母大暴走！-",
+    "bangumi": {
+      "date": "2010-11-13",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/ef/111231_r2L64.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/ef/111231_r2L64.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/65/ef/111231_r2L64.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/ef/111231_r2L64.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/ef/111231_r2L64.jpg"
       },
-      {
-        "name": "SHIN-EI",
-        "count": 2
+      "summary": "映画第2弾で3D映画として『劇場版3D あたしンち 情熱のちょ〜超能力♪ 母大暴走!』（げきじょうばんすりーでぃーあたしんちじょうねつのちょーちょうのうりょくははだいぼうそう）が2010年11月13日に公開された。東映配給。上映時間は43分。シンエイ動画初の3D映画。監督は長編映画初監督作品となる高橋渉。脚本は大野木寛。主題歌は矢沢洋子が担当。なお、前作及びテレビシリーズにて監督を担当したやすみ哲夫は監修を担当する。\r\nキャッチコピーは「発表します!母が、超能力を使えるようになりました!!」。",
+      "name": "劇場版3D あたしンち -情熱の超ちょ?能力?母大暴走！-",
+      "name_cn": "剧场版3D 我们这一家 -热情的超能力- 母亲大暴走！",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 9
+        },
+        {
+          "name": "日常",
+          "count": 3
+        },
+        {
+          "name": "あたしンち",
+          "count": 2
+        },
+        {
+          "name": "2010",
+          "count": 2
+        },
+        {
+          "name": "SHIN-EI",
+          "count": 2
+        },
+        {
+          "name": "家庭",
+          "count": 2
+        },
+        {
+          "name": "搞笑",
+          "count": 2
+        },
+        {
+          "name": "6.5",
+          "count": 1
+        },
+        {
+          "name": "¬",
+          "count": 1
+        },
+        {
+          "name": "我们这一家",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "剧场版3D 我们这一家 -热情的超能力- 母亲大暴走！"
+        },
+        {
+          "key": "上映年度",
+          "value": "2010-11-13"
+        },
+        {
+          "key": "片长",
+          "value": "43分钟"
+        },
+        {
+          "key": "原作",
+          "value": "けらえいこ"
+        },
+        {
+          "key": "导演",
+          "value": "高橋渉"
+        },
+        {
+          "key": "企画",
+          "value": "平城隆司（テレビ朝日）、加藤良雄（シンエイ動画）"
+        },
+        {
+          "key": "S3D导演",
+          "value": "三田邦彦（キュー・テック）"
+        },
+        {
+          "key": "补间动画",
+          "value": "じゃんぐるじむ"
+        },
+        {
+          "key": "上色检查",
+          "value": "山崎大輔"
+        },
+        {
+          "key": "上色",
+          "value": "ライトフット"
+        },
+        {
+          "key": "背景美术",
+          "value": "スタジオユニ"
+        },
+        {
+          "key": "剪辑助手",
+          "value": "中葉由美子"
+        },
+        {
+          "key": "音响制作",
+          "value": "AUDIO PLANNING U"
+        },
+        {
+          "key": "录音场所",
+          "value": "APU MEGURO STUDIO"
+        },
+        {
+          "key": "制作主任",
+          "value": "永田雄一（シンエイ動画）"
+        },
+        {
+          "key": "执行制片人",
+          "value": "北井敦朗（シンエイ動画）"
+        },
+        {
+          "key": "制片人",
+          "value": "魁生聡（シンエイ動画）、齋藤幸夫（メディアファクトリー）、今川朋美（テレビ朝日）、杉澤義文（ADK）"
+        },
+        {
+          "key": "宣传制作人",
+          "value": "西口なおみ（シンエイ動画）"
+        },
+        {
+          "key": "製作",
+          "value": "「劇場版3D あたしンち」製作委員会（シンエイ動画、メディアファクトリー、テレビ朝日、ADK）"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 20,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 2,
+          "6": 8,
+          "7": 4,
+          "8": 4,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.6
       },
-      {
-        "name": "家庭",
-        "count": 2
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 4,
+        "dropped": 8,
+        "wish": 8,
+        "collect": 33,
+        "doing": 0
       },
-      {
-        "name": "搞笑",
-        "count": 2
-      },
-      {
-        "name": "6.5",
-        "count": 1
-      },
-      {
-        "name": "¬",
-        "count": 1
-      },
-      {
-        "name": "我们这一家",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "剧场版3D 我们这一家 -热情的超能力- 母亲大暴走！"
-      },
-      {
-        "key": "上映年度",
-        "value": "2010-11-13"
-      },
-      {
-        "key": "片长",
-        "value": "43分钟"
-      },
-      {
-        "key": "原作",
-        "value": "けらえいこ"
-      },
-      {
-        "key": "导演",
-        "value": "高橋渉"
-      },
-      {
-        "key": "企画",
-        "value": "平城隆司（テレビ朝日）、加藤良雄（シンエイ動画）"
-      },
-      {
-        "key": "S3D导演",
-        "value": "三田邦彦（キュー・テック）"
-      },
-      {
-        "key": "补间动画",
-        "value": "じゃんぐるじむ"
-      },
-      {
-        "key": "上色检查",
-        "value": "山崎大輔"
-      },
-      {
-        "key": "上色",
-        "value": "ライトフット"
-      },
-      {
-        "key": "背景美术",
-        "value": "スタジオユニ"
-      },
-      {
-        "key": "剪辑助手",
-        "value": "中葉由美子"
-      },
-      {
-        "key": "音响制作",
-        "value": "AUDIO PLANNING U"
-      },
-      {
-        "key": "录音场所",
-        "value": "APU MEGURO STUDIO"
-      },
-      {
-        "key": "制作主任",
-        "value": "永田雄一（シンエイ動画）"
-      },
-      {
-        "key": "执行制片人",
-        "value": "北井敦朗（シンエイ動画）"
-      },
-      {
-        "key": "制片人",
-        "value": "魁生聡（シンエイ動画）、齋藤幸夫（メディアファクトリー）、今川朋美（テレビ朝日）、杉澤義文（ADK）"
-      },
-      {
-        "key": "宣传制作人",
-        "value": "西口なおみ（シンエイ動画）"
-      },
-      {
-        "key": "製作",
-        "value": "「劇場版3D あたしンち」製作委員会（シンエイ動画、メディアファクトリー、テレビ朝日、ADK）"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 20,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 1,
-        "5": 2,
-        "6": 8,
-        "7": 4,
-        "8": 4,
-        "9": 0,
-        "10": 1
-      },
-      "score": 6.6
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 4,
-      "dropped": 8,
-      "wish": 8,
-      "collect": 33,
-      "doing": 0
-    },
-    "id": 111231,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 111231,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/17/40388_r8WuD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/17/40388_r8WuD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4d/17/40388_r8WuD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/17/40388_r8WuD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/17/40388_r8WuD.jpg"
+          },
+          "name": "あたしンち",
+          "name_cn": "我们这一家",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 40388
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/7e/49287_thjjX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/7e/49287_thjjX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/01/7e/49287_thjjX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/7e/49287_thjjX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/7e/49287_thjjX.jpg"
+          },
+          "name": "映画 あたしンち",
+          "name_cn": "电影 我们这一家",
+          "relation": "前传",
+          "type": 2,
+          "id": 49287
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/b0/115858_4l8Gw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/b0/115858_4l8Gw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7c/b0/115858_4l8Gw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/b0/115858_4l8Gw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/b0/115858_4l8Gw.jpg"
+          },
+          "name": "あたしンち",
+          "name_cn": "我们这一家",
+          "relation": "书籍",
+          "type": 1,
+          "id": 115858
+        }
+      ]
+    }
   }
 ]

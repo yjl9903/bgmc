@@ -1,178 +1,211 @@
 [
   {
-    "date": "1968-09-03",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/8e/150325_ZZA2I.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/8e/150325_ZZA2I.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/30/8e/150325_ZZA2I.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/8e/150325_ZZA2I.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/8e/150325_ZZA2I.jpg"
-    },
-    "summary": "1968年9月3日から1969年3月25日までTBS系列局で放送。TCJ（現・エイケン）とTBS（東京放送）の共同製作。森永製菓の一社提供。カラー作品。全29話。最高視聴率は20.8%。",
-    "name": "サスケ",
-    "name_cn": "死神少年",
-    "tags": [
-      {
-        "name": "1968",
-        "count": 3
+    "title": "サスケ",
+    "bangumi": {
+      "date": "1968-09-03",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/8e/150325_ZZA2I.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/8e/150325_ZZA2I.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/30/8e/150325_ZZA2I.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/8e/150325_ZZA2I.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/8e/150325_ZZA2I.jpg"
       },
-      {
-        "name": "佐助",
-        "count": 3
+      "summary": "1968年9月3日から1969年3月25日までTBS系列局で放送。TCJ（現・エイケン）とTBS（東京放送）の共同製作。森永製菓の一社提供。カラー作品。全29話。最高視聴率は20.8%。",
+      "name": "サスケ",
+      "name_cn": "死神少年",
+      "tags": [
+        {
+          "name": "1968",
+          "count": 3
+        },
+        {
+          "name": "佐助",
+          "count": 3
+        },
+        {
+          "name": "TV",
+          "count": 2
+        },
+        {
+          "name": "TCJ動画センター",
+          "count": 1
+        },
+        {
+          "name": "白土三平",
+          "count": 1
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1
+        },
+        {
+          "name": "雷門ケン坊",
+          "count": 1
+        },
+        {
+          "name": "田代淳二",
+          "count": 1
+        },
+        {
+          "name": "生肉",
+          "count": 1
+        },
+        {
+          "name": "日本",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "bilibili",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "60s",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "死神少年"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "佐助"
+            },
+            {
+              "v": "SASUKE"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "29"
+        },
+        {
+          "key": "放送开始",
+          "value": "1968年9月3日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期二"
+        },
+        {
+          "key": "播放结束",
+          "value": "1969年3月25日"
+        },
+        {
+          "key": "企画",
+          "value": "TBS＜映画部＞"
+        },
+        {
+          "key": "原作",
+          "value": "白土三平"
+        },
+        {
+          "key": "制片人",
+          "value": "大友和夫"
+        },
+        {
+          "key": "脚本",
+          "value": "田代淳二"
+        },
+        {
+          "key": "音乐",
+          "value": "田中正史"
+        },
+        {
+          "key": "作画",
+          "value": "菰岡静子、芦田豊雄、木村光男"
+        },
+        {
+          "key": "动画",
+          "value": "毛内節夫、月川秀茂、金子勲、福田皖"
+        },
+        {
+          "key": "美术",
+          "value": "大隅敏弘、遠藤守俊、久保陽彦、泉谷実"
+        },
+        {
+          "key": "音响监督",
+          "value": "小松恒弘"
+        },
+        {
+          "key": "製作",
+          "value": "TCJ、TBS"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 1,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 1,
+          "9": 0,
+          "10": 0
+        },
+        "score": 8
       },
-      {
-        "name": "TV",
-        "count": 2
+      "total_episodes": 29,
+      "collection": {
+        "on_hold": 4,
+        "dropped": 3,
+        "wish": 11,
+        "collect": 3,
+        "doing": 1
       },
-      {
-        "name": "TCJ動画センター",
-        "count": 1
-      },
-      {
-        "name": "白土三平",
-        "count": 1
-      },
-      {
-        "name": "赛璐珞",
-        "count": 1
-      },
-      {
-        "name": "雷門ケン坊",
-        "count": 1
-      },
-      {
-        "name": "田代淳二",
-        "count": 1
-      },
-      {
-        "name": "生肉",
-        "count": 1
-      },
-      {
-        "name": "日本",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "bilibili",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "60s",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "死神少年"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "佐助"
+      "id": 150325,
+      "eps": 29,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/fc/150319_gZtg7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/fc/150319_gZtg7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/17/fc/150319_gZtg7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/fc/150319_gZtg7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/fc/150319_gZtg7.jpg"
           },
-          {
-            "v": "SASUKE"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "29"
-      },
-      {
-        "key": "放送开始",
-        "value": "1968年9月3日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期二"
-      },
-      {
-        "key": "播放结束",
-        "value": "1969年3月25日"
-      },
-      {
-        "key": "企画",
-        "value": "TBS＜映画部＞"
-      },
-      {
-        "key": "原作",
-        "value": "白土三平"
-      },
-      {
-        "key": "制片人",
-        "value": "大友和夫"
-      },
-      {
-        "key": "脚本",
-        "value": "田代淳二"
-      },
-      {
-        "key": "音乐",
-        "value": "田中正史"
-      },
-      {
-        "key": "作画",
-        "value": "菰岡静子、芦田豊雄、木村光男"
-      },
-      {
-        "key": "动画",
-        "value": "毛内節夫、月川秀茂、金子勲、福田皖"
-      },
-      {
-        "key": "美术",
-        "value": "大隅敏弘、遠藤守俊、久保陽彦、泉谷実"
-      },
-      {
-        "key": "音响监督",
-        "value": "小松恒弘"
-      },
-      {
-        "key": "製作",
-        "value": "TCJ、TBS"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 1,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 1,
-        "9": 0,
-        "10": 0
-      },
-      "score": 8
-    },
-    "total_episodes": 29,
-    "collection": {
-      "on_hold": 4,
-      "dropped": 3,
-      "wish": 11,
-      "collect": 3,
-      "doing": 1
-    },
-    "id": 150325,
-    "eps": 29,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "サスケ / サスケのわらべうた かあさんのうた",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 150319
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/a4/155627_e6BIe.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/a4/155627_e6BIe.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c7/a4/155627_e6BIe.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/a4/155627_e6BIe.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/a4/155627_e6BIe.jpg"
+          },
+          "name": "サスケ",
+          "name_cn": "死神少年",
+          "relation": "书籍",
+          "type": 1,
+          "id": 155627
+        }
+      ]
+    }
   }
 ]

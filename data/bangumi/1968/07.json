@@ -1,82 +1,115 @@
 [
   {
-    "date": "1968-07-21",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/eb/211091_3jUpS.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/eb/211091_3jUpS.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/2e/eb/211091_3jUpS.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/eb/211091_3jUpS.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/eb/211091_3jUpS.jpg"
-    },
-    "summary": "",
-    "name": "ゲゲゲの鬼太郎",
-    "name_cn": "鬼太郎",
-    "tags": [
-      {
-        "name": "1968",
-        "count": 2
+    "title": "ゲゲゲの鬼太郎",
+    "bangumi": {
+      "date": "1968-07-21",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/eb/211091_3jUpS.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/eb/211091_3jUpS.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2e/eb/211091_3jUpS.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/eb/211091_3jUpS.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/eb/211091_3jUpS.jpg"
       },
-      {
-        "name": "旧物",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "鬼太郎"
+      "summary": "",
+      "name": "ゲゲゲの鬼太郎",
+      "name_cn": "鬼太郎",
+      "tags": [
+        {
+          "name": "1968",
+          "count": 2
+        },
+        {
+          "name": "旧物",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "鬼太郎"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Gegege no Kitarou"
+            },
+            {
+              "v": "Spooky Kitaro"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "1968年7月21日"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 3,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 1,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.7
       },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Gegege no Kitarou"
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 5,
+        "wish": 1,
+        "collect": 7,
+        "doing": 0
+      },
+      "id": 211091,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/ca/40379_42YBZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/ca/40379_42YBZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/14/ca/40379_42YBZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/ca/40379_42YBZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/ca/40379_42YBZ.jpg"
           },
-          {
-            "v": "Spooky Kitaro"
-          }
-        ]
-      },
-      {
-        "key": "上映年度",
-        "value": "1968年7月21日"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 3,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 1,
-        "5": 0,
-        "6": 1,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 1
-      },
-      "score": 6.7
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 5,
-      "wish": 1,
-      "collect": 7,
-      "doing": 0
-    },
-    "id": 211091,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "ゲゲゲの鬼太郎",
+          "name_cn": "鬼太郎第一季",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 40379
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/3f/116538_qQ13S.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/3f/116538_qQ13S.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5f/3f/116538_qQ13S.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/3f/116538_qQ13S.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/3f/116538_qQ13S.jpg"
+          },
+          "name": "ゲゲゲの鬼太郎",
+          "name_cn": "鬼太郎",
+          "relation": "书籍",
+          "type": 1,
+          "id": 116538
+        }
+      ]
+    }
   }
 ]

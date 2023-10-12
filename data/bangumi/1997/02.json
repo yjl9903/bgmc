@@ -1,239 +1,566 @@
 [
   {
-    "date": "1997-02-01",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/a9/1894_JQQyr.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/a9/1894_JQQyr.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/5f/a9/1894_JQQyr.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/a9/1894_JQQyr.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/a9/1894_JQQyr.jpg"
-    },
-    "summary": "故事讲述2003年，一架神秘的机械生命体“EI-01”出现，把当时是太空人的狮子王凯的太空船击落，然后在地球上消失了。同一时间，一架神秘的机械狮子Galeon出现并救起狮子王凯。\r\n这架机械狮子Galeon带来了名为G-Stone的动力源和无限情报集体回路。除了把狮子王凯救活并改造成机器人外，也带来了一系列超越地球的科技和有关机械生命体易情报。而日本政府为了对抗机械生命体，成立了地球防卫勇者队3G，Gutsy Geoid Guard。\r\n两年后机械生命体正式开始进攻，而地球的未来就依靠地球防卫勇者队3G的队员，故事也由于展开。",
-    "name": "勇者王ガオガイガー",
-    "name_cn": "勇者王GaoGaiGar",
-    "tags": [
-      {
-        "name": "SUNRISE",
-        "count": 109
+    "title": "勇者王ガオガイガー",
+    "bangumi": {
+      "date": "1997-02-01",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/a9/1894_JQQyr.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/a9/1894_JQQyr.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/5f/a9/1894_JQQyr.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/a9/1894_JQQyr.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/a9/1894_JQQyr.jpg"
       },
-      {
-        "name": "勇者王",
-        "count": 101
+      "summary": "故事讲述2003年，一架神秘的机械生命体“EI-01”出现，把当时是太空人的狮子王凯的太空船击落，然后在地球上消失了。同一时间，一架神秘的机械狮子Galeon出现并救起狮子王凯。\r\n这架机械狮子Galeon带来了名为G-Stone的动力源和无限情报集体回路。除了把狮子王凯救活并改造成机器人外，也带来了一系列超越地球的科技和有关机械生命体易情报。而日本政府为了对抗机械生命体，成立了地球防卫勇者队3G，Gutsy Geoid Guard。\r\n两年后机械生命体正式开始进攻，而地球的未来就依靠地球防卫勇者队3G的队员，故事也由于展开。",
+      "name": "勇者王ガオガイガー",
+      "name_cn": "勇者王GaoGaiGar",
+      "tags": [
+        {
+          "name": "SUNRISE",
+          "count": 109
+        },
+        {
+          "name": "勇者王",
+          "count": 101
+        },
+        {
+          "name": "热血",
+          "count": 97
+        },
+        {
+          "name": "TV",
+          "count": 87
+        },
+        {
+          "name": "萝卜",
+          "count": 84
+        },
+        {
+          "name": "1997",
+          "count": 57
+        },
+        {
+          "name": "勇者系列",
+          "count": 53
+        },
+        {
+          "name": "燃",
+          "count": 46
+        },
+        {
+          "name": "童年",
+          "count": 30
+        },
+        {
+          "name": "GAOGAIGA",
+          "count": 28
+        },
+        {
+          "name": "狮子王凯",
+          "count": 28
+        },
+        {
+          "name": "原创",
+          "count": 23
+        },
+        {
+          "name": "GGG",
+          "count": 22
+        },
+        {
+          "name": "神作",
+          "count": 17
+        },
+        {
+          "name": "不灭的勇气",
+          "count": 17
+        },
+        {
+          "name": "机战",
+          "count": 12
+        },
+        {
+          "name": "90年代",
+          "count": 9
+        },
+        {
+          "name": "熱血",
+          "count": 9
+        },
+        {
+          "name": "科幻",
+          "count": 8
+        },
+        {
+          "name": "TVB",
+          "count": 7
+        },
+        {
+          "name": "田中公平",
+          "count": 5
+        },
+        {
+          "name": "天海护",
+          "count": 5
+        },
+        {
+          "name": "米谷良知",
+          "count": 4
+        },
+        {
+          "name": "勇者シリーズ",
+          "count": 4
+        },
+        {
+          "name": "也没看完",
+          "count": 3
+        },
+        {
+          "name": "五武冬史",
+          "count": 3
+        },
+        {
+          "name": "米たにヨシトモ",
+          "count": 3
+        },
+        {
+          "name": "废萝卜",
+          "count": 3
+        },
+        {
+          "name": "木村贵宏",
+          "count": 3
+        },
+        {
+          "name": "勇者！",
+          "count": 3
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "勇者王GaoGaiGar"
+        },
+        {
+          "key": "话数",
+          "value": "49"
+        },
+        {
+          "key": "放送开始",
+          "value": "1997年2月1日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.gaogaigar.net/"
+        },
+        {
+          "key": "播放结束",
+          "value": "1998年1月31日"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇"
+        },
+        {
+          "key": "导演",
+          "value": "米たにヨシトモ"
+        },
+        {
+          "key": "系列构成",
+          "value": "五武冬史"
+        },
+        {
+          "key": "人物设定",
+          "value": "木村貴宏"
+        },
+        {
+          "key": "机械设定",
+          "value": "大河原邦男"
+        },
+        {
+          "key": "美术监督",
+          "value": "岡田有章"
+        },
+        {
+          "key": "色彩设计",
+          "value": "柴田亜紀子"
+        },
+        {
+          "key": "摄影监督",
+          "value": "関戸宏樹、黒木康之"
+        },
+        {
+          "key": "音响",
+          "value": "千葉耕市"
+        },
+        {
+          "key": "音乐",
+          "value": "田中公平"
+        },
+        {
+          "key": "製作",
+          "value": "名古屋电视台、東急エージェンシー、サンライズ"
+        }
+      ],
+      "rating": {
+        "rank": 486,
+        "total": 415,
+        "count": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 2,
+          "5": 8,
+          "6": 34,
+          "7": 100,
+          "8": 175,
+          "9": 59,
+          "10": 35
+        },
+        "score": 7.8
       },
-      {
-        "name": "热血",
-        "count": 97
+      "total_episodes": 49,
+      "collection": {
+        "on_hold": 76,
+        "dropped": 47,
+        "wish": 385,
+        "collect": 596,
+        "doing": 63
       },
-      {
-        "name": "TV",
-        "count": 87
-      },
-      {
-        "name": "萝卜",
-        "count": 84
-      },
-      {
-        "name": "1997",
-        "count": 57
-      },
-      {
-        "name": "勇者系列",
-        "count": 53
-      },
-      {
-        "name": "燃",
-        "count": 46
-      },
-      {
-        "name": "童年",
-        "count": 30
-      },
-      {
-        "name": "GAOGAIGA",
-        "count": 28
-      },
-      {
-        "name": "狮子王凯",
-        "count": 28
-      },
-      {
-        "name": "原创",
-        "count": 23
-      },
-      {
-        "name": "GGG",
-        "count": 22
-      },
-      {
-        "name": "神作",
-        "count": 17
-      },
-      {
-        "name": "不灭的勇气",
-        "count": 17
-      },
-      {
-        "name": "机战",
-        "count": 12
-      },
-      {
-        "name": "90年代",
-        "count": 9
-      },
-      {
-        "name": "熱血",
-        "count": 9
-      },
-      {
-        "name": "科幻",
-        "count": 8
-      },
-      {
-        "name": "TVB",
-        "count": 7
-      },
-      {
-        "name": "田中公平",
-        "count": 5
-      },
-      {
-        "name": "天海护",
-        "count": 5
-      },
-      {
-        "name": "米谷良知",
-        "count": 4
-      },
-      {
-        "name": "勇者シリーズ",
-        "count": 4
-      },
-      {
-        "name": "也没看完",
-        "count": 3
-      },
-      {
-        "name": "五武冬史",
-        "count": 3
-      },
-      {
-        "name": "米たにヨシトモ",
-        "count": 3
-      },
-      {
-        "name": "废萝卜",
-        "count": 3
-      },
-      {
-        "name": "木村贵宏",
-        "count": 3
-      },
-      {
-        "name": "勇者！",
-        "count": 3
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "勇者王GaoGaiGar"
-      },
-      {
-        "key": "话数",
-        "value": "49"
-      },
-      {
-        "key": "放送开始",
-        "value": "1997年2月1日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期六"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.gaogaigar.net/"
-      },
-      {
-        "key": "播放结束",
-        "value": "1998年1月31日"
-      },
-      {
-        "key": "原作",
-        "value": "矢立肇"
-      },
-      {
-        "key": "导演",
-        "value": "米たにヨシトモ"
-      },
-      {
-        "key": "系列构成",
-        "value": "五武冬史"
-      },
-      {
-        "key": "人物设定",
-        "value": "木村貴宏"
-      },
-      {
-        "key": "机械设定",
-        "value": "大河原邦男"
-      },
-      {
-        "key": "美术监督",
-        "value": "岡田有章"
-      },
-      {
-        "key": "色彩设计",
-        "value": "柴田亜紀子"
-      },
-      {
-        "key": "摄影监督",
-        "value": "関戸宏樹、黒木康之"
-      },
-      {
-        "key": "音响",
-        "value": "千葉耕市"
-      },
-      {
-        "key": "音乐",
-        "value": "田中公平"
-      },
-      {
-        "key": "製作",
-        "value": "名古屋电视台、東急エージェンシー、サンライズ"
-      }
-    ],
-    "rating": {
-      "rank": 484,
-      "total": 415,
-      "count": {
-        "1": 1,
-        "2": 0,
-        "3": 1,
-        "4": 2,
-        "5": 8,
-        "6": 34,
-        "7": 100,
-        "8": 175,
-        "9": 59,
-        "10": 35
-      },
-      "score": 7.8
-    },
-    "total_episodes": 49,
-    "collection": {
-      "on_hold": 77,
-      "dropped": 47,
-      "wish": 385,
-      "collect": 595,
-      "doing": 63
-    },
-    "id": 1894,
-    "eps": 49,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 1894,
+      "eps": 49,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/96/49603_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/96/49603_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/96/49603_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/96/49603_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/96/49603_jp.jpg"
+          },
+          "name": "SUNRISE ART WORKS／勇者王ガオガイガー TVシリーズ",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 49603
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/7f/441157_xDxIE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/7f/441157_xDxIE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d5/7f/441157_xDxIE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/7f/441157_xDxIE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/7f/441157_xDxIE.jpg"
+          },
+          "name": "20th ANNIVERSARY 勇者王ガオガイガー イラストワークス",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 441157
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/ad/354950_lVvrb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/ad/354950_lVvrb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e9/ad/354950_lVvrb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/ad/354950_lVvrb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/ad/354950_lVvrb.jpg"
+          },
+          "name": "覇界王~ガオガイガー対ベターマン~",
+          "name_cn": "霸界王～GaoGaiGar对Betterman～",
+          "relation": "书籍",
+          "type": 1,
+          "id": 354950
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/5d/348266_f14p3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/5d/348266_f14p3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/5d/348266_f14p3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/5d/348266_f14p3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/5d/348266_f14p3.jpg"
+          },
+          "name": "新世紀勇者大戦",
+          "name_cn": "新世纪勇者大战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 348266
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/49/348260_oLw7B.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/49/348260_oLw7B.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/49/348260_oLw7B.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/49/348260_oLw7B.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/49/348260_oLw7B.jpg"
+          },
+          "name": "ブレイブサーガ2",
+          "name_cn": "BRAVESAGA2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 348260
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
+          },
+          "name": "スーパーロボット大戦DD",
+          "name_cn": "超级机器人大战DD",
+          "relation": "游戏",
+          "type": 4,
+          "id": 271927
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/80/267261_z9znE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/80/267261_z9znE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cc/80/267261_z9znE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/80/267261_z9znE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/80/267261_z9znE.jpg"
+          },
+          "name": "スーパーロボット大戦T",
+          "name_cn": "超级机器人大战T",
+          "relation": "游戏",
+          "type": 4,
+          "id": 267261
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/b9/194741_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/be/b9/194741_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/be/b9/194741_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/be/b9/194741_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/be/b9/194741_jp.jpg"
+          },
+          "name": "勇者シリーズ20周年記念企画 More BRAVEST",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 194741
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/d7/145455_f5ypf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/d7/145455_f5ypf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/d7/145455_f5ypf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/d7/145455_f5ypf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/d7/145455_f5ypf.jpg"
+          },
+          "name": "サンライズ英雄譚",
+          "name_cn": "日升英雄谭",
+          "relation": "游戏",
+          "type": 4,
+          "id": 145455
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
+          },
+          "name": "スーパーロボット大戦X-Ω",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 141050
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/27/134396_dnY3Y.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/27/134396_dnY3Y.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/49/27/134396_dnY3Y.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/27/134396_dnY3Y.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/27/134396_dnY3Y.jpg"
+          },
+          "name": "スーパーロボット大戦BX",
+          "name_cn": "超级机器人大战BX",
+          "relation": "游戏",
+          "type": 4,
+          "id": 134396
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/10/134040_ZJL4E.jpg"
+          },
+          "name": "第2次スーパーロボット大戦α",
+          "name_cn": "第2次超级机器人大战α",
+          "relation": "游戏",
+          "type": 4,
+          "id": 134040
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f5/7a/905_pK3xW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f5/7a/905_pK3xW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f5/7a/905_pK3xW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f5/7a/905_pK3xW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f5/7a/905_pK3xW.jpg"
+          },
+          "name": "スーパーロボット大戦W",
+          "name_cn": "超级机器人大战W",
+          "relation": "游戏",
+          "type": 4,
+          "id": 905
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/87/75/25804_Z8l1E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/87/75/25804_Z8l1E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/87/75/25804_Z8l1E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/87/75/25804_Z8l1E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/87/75/25804_Z8l1E.jpg"
+          },
+          "name": "勇者王誕生!",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 25804
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/4d/25802_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/4d/25802_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/67/4d/25802_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/4d/25802_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/4d/25802_jp.jpg"
+          },
+          "name": "勇者王ガオガイガー ― ソング・コレクション",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 25802
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/24/25801_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/24/25801_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2b/24/25801_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/24/25801_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/24/25801_jp.jpg"
+          },
+          "name": "勇者王ガオガイガー ― オリジナル・サウンドトラック 2",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 25801
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/4a/25800_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/4a/25800_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6d/4a/25800_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/4a/25800_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/4a/25800_jp.jpg"
+          },
+          "name": "勇者王ガオガイガー ― オリジナル・サウンドトラック 1",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 25800
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/93/22581_7G29f.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/93/22581_7G29f.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/23/93/22581_7G29f.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/93/22581_7G29f.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/93/22581_7G29f.jpg"
+          },
+          "name": "ガ王 勇者王誕生!10連発!!",
+          "name_cn": "我王 勇者王诞生！10连发！！",
+          "relation": "其他",
+          "type": 3,
+          "id": 22581
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/40/20202_5DRMB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/40/20202_5DRMB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e2/40/20202_5DRMB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/40/20202_5DRMB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/40/20202_5DRMB.jpg"
+          },
+          "name": "第3次スーパーロボット大戦α 終焉の銀河へ",
+          "name_cn": "第3次超级机器人大战α 去往终焉的银河",
+          "relation": "游戏",
+          "type": 4,
+          "id": 20202
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/2d/13231_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/2d/13231_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/2d/13231_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/2d/13231_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/2d/13231_jp.jpg"
+          },
+          "name": "勇者シリーズ20周年記念企画 HARVEST",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 13231
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/5f/10417_08V64.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/5f/10417_08V64.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/5f/10417_08V64.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/5f/10417_08V64.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/5f/10417_08V64.jpg"
+          },
+          "name": "ベターマン",
+          "name_cn": "进化战记",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 10417
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/f0/2981_QGdCY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/f0/2981_QGdCY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/f0/2981_QGdCY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/f0/2981_QGdCY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/f0/2981_QGdCY.jpg"
+          },
+          "name": "勇者王ガオガイガーFINAL GRAND GLORIOUS GATHERING",
+          "name_cn": "勇者王GaoGaiGar Final Grand Glorious Gathering",
+          "relation": "续集",
+          "type": 2,
+          "id": 2981
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/71/2979_VygjJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/71/2979_VygjJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2d/71/2979_VygjJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/71/2979_VygjJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/71/2979_VygjJ.jpg"
+          },
+          "name": "勇者王ガオガイガーFINAL",
+          "name_cn": "勇者王GaoGaiGar Final",
+          "relation": "续集",
+          "type": 2,
+          "id": 2979
+        }
+      ]
+    }
   }
 ]

@@ -1,83 +1,87 @@
 [
   {
-    "date": "1960-01-15",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/63/213759_Ug344.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/63/213759_Ug344.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/a1/63/213759_Ug344.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/63/213759_Ug344.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/63/213759_Ug344.jpg"
-    },
-    "summary": "",
-    "name": "新しい動画 3つのはなし",
-    "name_cn": "新动画 三个故事",
-    "tags": [
-      {
-        "name": "短片",
-        "count": 2
+    "title": "新しい動画 3つのはなし",
+    "bangumi": {
+      "date": "1960-01-15",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/63/213759_Ug344.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/63/213759_Ug344.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a1/63/213759_Ug344.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/63/213759_Ug344.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/63/213759_Ug344.jpg"
       },
-      {
-        "name": "1960",
-        "count": 2
+      "summary": "",
+      "name": "新しい動画 3つのはなし",
+      "name_cn": "新动画 三个故事",
+      "tags": [
+        {
+          "name": "短片",
+          "count": 2
+        },
+        {
+          "name": "1960",
+          "count": 2
+        },
+        {
+          "name": "日本",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "新动画 三个故事"
+        },
+        {
+          "key": "话数",
+          "value": "3"
+        },
+        {
+          "key": "放送开始",
+          "value": "1960年1月15日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "NHK"
+        },
+        {
+          "key": "播放结束",
+          "value": "1960年1月15日"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 1,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 3
       },
-      {
-        "name": "日本",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "新动画 三个故事"
+      "total_episodes": 3,
+      "collection": {
+        "on_hold": 0,
+        "dropped": 2,
+        "wish": 3,
+        "collect": 6,
+        "doing": 0
       },
-      {
-        "key": "话数",
-        "value": "3"
-      },
-      {
-        "key": "放送开始",
-        "value": "1960年1月15日"
-      },
-      {
-        "key": "播放电视台",
-        "value": "NHK"
-      },
-      {
-        "key": "播放结束",
-        "value": "1960年1月15日"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 1,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 1,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 3
-    },
-    "total_episodes": 3,
-    "collection": {
-      "on_hold": 0,
-      "dropped": 2,
-      "wish": 3,
-      "collect": 6,
-      "doing": 0
-    },
-    "id": 213759,
-    "eps": 3,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 213759,
+      "eps": 3,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": []
+    }
   }
 ]

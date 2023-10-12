@@ -1,751 +1,1055 @@
 [
   {
-    "date": "2019-05-11",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/b5/285664_LFC55.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/b5/285664_LFC55.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/35/b5/285664_LFC55.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/b5/285664_LFC55.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/b5/285664_LFC55.jpg"
-    },
-    "summary": "",
-    "name": "カードファイト!! ヴァンガード 続・高校生編",
-    "name_cn": "卡片战斗先导者 续・高校生篇",
-    "tags": [
-      {
-        "name": "2019",
-        "count": 4
+    "title": "カードファイト!! ヴァンガード(続・高校生編)",
+    "bangumi": {
+      "date": "2019-05-11",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/b5/285664_LFC55.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/b5/285664_LFC55.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/35/b5/285664_LFC55.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/b5/285664_LFC55.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/b5/285664_LFC55.jpg"
       },
-      {
-        "name": "OLM",
-        "count": 3
+      "summary": "",
+      "name": "カードファイト!! ヴァンガード 続・高校生編",
+      "name_cn": "卡片战斗先导者 续・高校生篇",
+      "tags": [
+        {
+          "name": "2019",
+          "count": 4
+        },
+        {
+          "name": "OLM",
+          "count": 3
+        },
+        {
+          "name": "宫野真守",
+          "count": 2
+        },
+        {
+          "name": "OLMTEAMOTA",
+          "count": 2
+        },
+        {
+          "name": "2019年5月",
+          "count": 2
+        },
+        {
+          "name": "赤星政尚",
+          "count": 2
+        },
+        {
+          "name": "佐藤拓也",
+          "count": 2
+        },
+        {
+          "name": "代永翼",
+          "count": 2
+        },
+        {
+          "name": "川崎逸朗",
+          "count": 2
+        },
+        {
+          "name": "屹青",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "TV",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "卡片战斗先导者 续・高校生篇"
+        },
+        {
+          "key": "话数",
+          "value": "14"
+        },
+        {
+          "key": "放送开始",
+          "value": "2019年5月11日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://anime.cf-vanguard.com/"
+        },
+        {
+          "key": "播放结束",
+          "value": "2019年8月10日"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 4,
+        "count": {
+          "1": 1,
+          "2": 1,
+          "3": 0,
+          "4": 0,
+          "5": 1,
+          "6": 1,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 3.5
       },
-      {
-        "name": "宫野真守",
-        "count": 2
+      "total_episodes": 14,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 8,
+        "wish": 11,
+        "collect": 13,
+        "doing": 3
       },
-      {
-        "name": "OLMTEAMOTA",
-        "count": 2
-      },
-      {
-        "name": "2019年5月",
-        "count": 2
-      },
-      {
-        "name": "赤星政尚",
-        "count": 2
-      },
-      {
-        "name": "佐藤拓也",
-        "count": 2
-      },
-      {
-        "name": "代永翼",
-        "count": 2
-      },
-      {
-        "name": "川崎逸朗",
-        "count": 2
-      },
-      {
-        "name": "屹青",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "TV",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "卡片战斗先导者 续・高校生篇"
-      },
-      {
-        "key": "话数",
-        "value": "14"
-      },
-      {
-        "key": "放送开始",
-        "value": "2019年5月11日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期六"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://anime.cf-vanguard.com/"
-      },
-      {
-        "key": "播放结束",
-        "value": "2019年8月10日"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 4,
-      "count": {
-        "1": 1,
-        "2": 1,
-        "3": 0,
-        "4": 0,
-        "5": 1,
-        "6": 1,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 3.5
-    },
-    "total_episodes": 14,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 8,
-      "wish": 11,
-      "collect": 13,
-      "doing": 3
-    },
-    "id": 285664,
-    "eps": 14,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 285664,
+      "eps": 14,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/8b/209764_ptW7G.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/8b/209764_ptW7G.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/8b/209764_ptW7G.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/8b/209764_ptW7G.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/8b/209764_ptW7G.jpg"
+          },
+          "name": "カードファイト!! ヴァンガード",
+          "name_cn": "卡片战斗先导者!!Vanguard",
+          "relation": "前传",
+          "type": 2,
+          "id": 209764
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/2e/279221_EW7b7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/2e/279221_EW7b7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/2e/279221_EW7b7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/2e/279221_EW7b7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/2e/279221_EW7b7.jpg"
+          },
+          "name": "Invincible Fighter",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 279221
+        }
+      ]
+    }
   },
   {
-    "date": "2019-05-11",
-    "platform": "WEB",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/7d/270294_5ybVy.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/7d/270294_5ybVy.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/f1/7d/270294_5ybVy.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/7d/270294_5ybVy.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/7d/270294_5ybVy.jpg"
-    },
-    "summary": "４月。雨の朝。散り始めた桜が雨に打たれ、水たまりに浮かんでいる。生徒たちが色とりどりの傘が高校の校門をくぐり抜けていく。\r\n\r\n「おはよ、レン」。下駄箱の前で、濡れたタイツのレンにユアが話しかける。憂鬱そうに振り向くレンに、そこにいっそうびしょ濡れのホミが、跳ねるようにやってきて話に花を咲かせる。他愛無い３人女子生徒の会話が、新学期の訪れを教室に告げる。\r\n\r\n少女たちのかけがえのない時間が駆け抜けて、季節が移り変わっていく…",
-    "name": "みるタイツ",
-    "name_cn": "裤袜视界",
-    "tags": [
-      {
-        "name": "泡面番",
-        "count": 560
+    "title": "みるタイツ",
+    "bangumi": {
+      "date": "2019-05-11",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/7d/270294_5ybVy.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/7d/270294_5ybVy.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/f1/7d/270294_5ybVy.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/7d/270294_5ybVy.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/7d/270294_5ybVy.jpg"
       },
-      {
-        "name": "原创",
-        "count": 324
+      "summary": "４月。雨の朝。散り始めた桜が雨に打たれ、水たまりに浮かんでいる。生徒たちが色とりどりの傘が高校の校門をくぐり抜けていく。\r\n\r\n「おはよ、レン」。下駄箱の前で、濡れたタイツのレンにユアが話しかける。憂鬱そうに振り向くレンに、そこにいっそうびしょ濡れのホミが、跳ねるようにやってきて話に花を咲かせる。他愛無い３人女子生徒の会話が、新学期の訪れを教室に告げる。\r\n\r\n少女たちのかけがえのない時間が駆け抜けて、季節が移り変わっていく…",
+      "name": "みるタイツ",
+      "name_cn": "裤袜视界",
+      "tags": [
+        {
+          "name": "泡面番",
+          "count": 561
+        },
+        {
+          "name": "原创",
+          "count": 324
+        },
+        {
+          "name": "2019年4月",
+          "count": 305
+        },
+        {
+          "name": "裤袜",
+          "count": 305
+        },
+        {
+          "name": "卖肉",
+          "count": 273
+        },
+        {
+          "name": "WEB",
+          "count": 245
+        },
+        {
+          "name": "丸戸史明",
+          "count": 200
+        },
+        {
+          "name": "2019",
+          "count": 189
+        },
+        {
+          "name": "TV",
+          "count": 132
+        },
+        {
+          "name": "裤袜视界",
+          "count": 115
+        },
+        {
+          "name": "横浜アニメーションラボ",
+          "count": 92
+        },
+        {
+          "name": "百合",
+          "count": 65
+        },
+        {
+          "name": "2019年5月",
+          "count": 31
+        },
+        {
+          "name": "泡面",
+          "count": 30
+        },
+        {
+          "name": "校园",
+          "count": 25
+        },
+        {
+          "name": "小川優樹",
+          "count": 24
+        },
+        {
+          "name": "肉",
+          "count": 22
+        },
+        {
+          "name": "福利",
+          "count": 18
+        },
+        {
+          "name": "横滨AnimationLABO",
+          "count": 18
+        },
+        {
+          "name": "日常",
+          "count": 16
+        },
+        {
+          "name": "肉番",
+          "count": 15
+        },
+        {
+          "name": "黑丝",
+          "count": 12
+        },
+        {
+          "name": "YAL",
+          "count": 11
+        },
+        {
+          "name": "小川优树",
+          "count": 10
+        },
+        {
+          "name": "丸户史明",
+          "count": 9
+        },
+        {
+          "name": "2019年",
+          "count": 9
+        },
+        {
+          "name": "よむ",
+          "count": 6
+        },
+        {
+          "name": "擦边球",
+          "count": 6
+        },
+        {
+          "name": "戸松遥",
+          "count": 6
+        },
+        {
+          "name": "茅野愛衣",
+          "count": 5
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "裤袜视界"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "赏袜"
+            },
+            {
+              "v": "丝袜视界"
+            },
+            {
+              "v": "从裤袜下看"
+            },
+            {
+              "v": "黑丝袜风情"
+            },
+            {
+              "v": "Miru Tights"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "12"
+        },
+        {
+          "key": "放送开始",
+          "value": "2019年5月11日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "mirutights.jp"
+        },
+        {
+          "key": "播放结束",
+          "value": "2019年7月27日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©よむ/TRUSS"
+        },
+        {
+          "key": "原作",
+          "value": "よむ"
+        },
+        {
+          "key": "人物设定",
+          "value": "日比野ゆかり"
+        },
+        {
+          "key": "製作",
+          "value": "TRUSS"
+        },
+        {
+          "key": "导演",
+          "value": "小川優樹"
+        }
+      ],
+      "rating": {
+        "rank": 4322,
+        "total": 1789,
+        "count": {
+          "1": 9,
+          "2": 9,
+          "3": 22,
+          "4": 39,
+          "5": 177,
+          "6": 535,
+          "7": 665,
+          "8": 236,
+          "9": 51,
+          "10": 46
+        },
+        "score": 6.6
       },
-      {
-        "name": "2019年4月",
-        "count": 305
+      "total_episodes": 13,
+      "collection": {
+        "on_hold": 150,
+        "dropped": 123,
+        "wish": 686,
+        "collect": 2747,
+        "doing": 210
       },
-      {
-        "name": "裤袜",
-        "count": 304
-      },
-      {
-        "name": "卖肉",
-        "count": 272
-      },
-      {
-        "name": "WEB",
-        "count": 245
-      },
-      {
-        "name": "丸戸史明",
-        "count": 199
-      },
-      {
-        "name": "2019",
-        "count": 189
-      },
-      {
-        "name": "TV",
-        "count": 132
-      },
-      {
-        "name": "裤袜视界",
-        "count": 114
-      },
-      {
-        "name": "横浜アニメーションラボ",
-        "count": 92
-      },
-      {
-        "name": "百合",
-        "count": 65
-      },
-      {
-        "name": "2019年5月",
-        "count": 31
-      },
-      {
-        "name": "泡面",
-        "count": 30
-      },
-      {
-        "name": "校园",
-        "count": 25
-      },
-      {
-        "name": "小川優樹",
-        "count": 24
-      },
-      {
-        "name": "肉",
-        "count": 22
-      },
-      {
-        "name": "福利",
-        "count": 18
-      },
-      {
-        "name": "横滨AnimationLABO",
-        "count": 18
-      },
-      {
-        "name": "日常",
-        "count": 16
-      },
-      {
-        "name": "肉番",
-        "count": 15
-      },
-      {
-        "name": "YAL",
-        "count": 11
-      },
-      {
-        "name": "黑丝",
-        "count": 11
-      },
-      {
-        "name": "小川优树",
-        "count": 10
-      },
-      {
-        "name": "丸户史明",
-        "count": 9
-      },
-      {
-        "name": "2019年",
-        "count": 9
-      },
-      {
-        "name": "よむ",
-        "count": 6
-      },
-      {
-        "name": "擦边球",
-        "count": 6
-      },
-      {
-        "name": "戸松遥",
-        "count": 6
-      },
-      {
-        "name": "茅野愛衣",
-        "count": 5
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "裤袜视界"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "赏袜"
+      "id": 270294,
+      "eps": 12,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/ca/266088_pRxKD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/ca/266088_pRxKD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2c/ca/266088_pRxKD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/ca/266088_pRxKD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/ca/266088_pRxKD.jpg"
           },
-          {
-            "v": "丝袜视界"
+          "name": "くろタイツ",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 266088
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/c8/287687_dLvym.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/c8/287687_dLvym.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/c8/287687_dLvym.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/c8/287687_dLvym.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/c8/287687_dLvym.jpg"
           },
-          {
-            "v": "从裤袜下看"
+          "name": "True Days (レンver.)",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 287687
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/57/287688_lo4M9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/57/287688_lo4M9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/57/287688_lo4M9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/57/287688_lo4M9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/57/287688_lo4M9.jpg"
           },
-          {
-            "v": "黑丝袜风情"
+          "name": "True Days (ユアver.)",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 287688
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/c0/287690_dsztk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/c0/287690_dsztk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/82/c0/287690_dsztk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/c0/287690_dsztk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/c0/287690_dsztk.jpg"
           },
-          {
-            "v": "Miru Tights"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "12"
-      },
-      {
-        "key": "放送开始",
-        "value": "2019年5月11日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期六"
-      },
-      {
-        "key": "官方网站",
-        "value": "mirutights.jp"
-      },
-      {
-        "key": "播放结束",
-        "value": "2019年7月27日"
-      },
-      {
-        "key": "Copyright",
-        "value": "©よむ/TRUSS"
-      },
-      {
-        "key": "原作",
-        "value": "よむ"
-      },
-      {
-        "key": "人物设定",
-        "value": "日比野ゆかり"
-      },
-      {
-        "key": "製作",
-        "value": "TRUSS"
-      },
-      {
-        "key": "导演",
-        "value": "小川優樹"
-      }
-    ],
-    "rating": {
-      "rank": 4346,
-      "total": 1788,
-      "count": {
-        "1": 9,
-        "2": 9,
-        "3": 22,
-        "4": 39,
-        "5": 177,
-        "6": 534,
-        "7": 666,
-        "8": 236,
-        "9": 51,
-        "10": 45
-      },
-      "score": 6.6
-    },
-    "total_episodes": 13,
-    "collection": {
-      "on_hold": 150,
-      "dropped": 123,
-      "wish": 685,
-      "collect": 2744,
-      "doing": 210
-    },
-    "id": 270294,
-    "eps": 12,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "True Days (ホミver.)",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 287690
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/2c/287692_cMDT6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/2c/287692_cMDT6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a6/2c/287692_cMDT6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/2c/287692_cMDT6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/2c/287692_cMDT6.jpg"
+          },
+          "name": "True Days",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 287692
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/e1/289512_4XoWj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/e1/289512_4XoWj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/e1/289512_4XoWj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/e1/289512_4XoWj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/e1/289512_4XoWj.jpg"
+          },
+          "name": "みるタイツ サウンドトラックCD",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 289512
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/ef/305387_318C7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/ef/305387_318C7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/ef/305387_318C7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/ef/305387_318C7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/ef/305387_318C7.jpg"
+          },
+          "name": "よむタイツ セピア",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 305387
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/58/36/332466_xDd4A.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/58/36/332466_xDd4A.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/58/36/332466_xDd4A.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/58/36/332466_xDd4A.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/58/36/332466_xDd4A.jpg"
+          },
+          "name": "みるタイツ・アナザー",
+          "name_cn": "裤袜视界 Another",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 332466
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/4c/333465_eMH3U.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/4c/333465_eMH3U.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/4c/333465_eMH3U.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/4c/333465_eMH3U.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/4c/333465_eMH3U.jpg"
+          },
+          "name": "あそぶタイツ パズルレッスン",
+          "name_cn": "丝袜游戏拼图课",
+          "relation": "游戏",
+          "type": 4,
+          "id": 333465
+        }
+      ]
+    }
   },
   {
-    "date": "2019-05-29",
-    "platform": "WEB",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/8d/285672_xDom8.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/8d/285672_xDom8.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/a0/8d/285672_xDom8.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/8d/285672_xDom8.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/8d/285672_xDom8.jpg"
-    },
-    "summary": "",
-    "name": "こんぷれっくす×コンプレックス",
-    "name_cn": "",
-    "tags": [
-      {
-        "name": "ふくだみゆき",
-        "count": 1
+    "title": "こんぷれっくす×コンプレックス",
+    "bangumi": {
+      "date": "2019-05-29",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/8d/285672_xDom8.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/8d/285672_xDom8.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a0/8d/285672_xDom8.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/8d/285672_xDom8.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/8d/285672_xDom8.jpg"
       },
-      {
-        "name": "PANPOKOPINA",
-        "count": 1
+      "summary": "",
+      "name": "こんぷれっくす×コンプレックス",
+      "name_cn": "",
+      "tags": [
+        {
+          "name": "ふくだみゆき",
+          "count": 1
+        },
+        {
+          "name": "PANPOKOPINA",
+          "count": 1
+        },
+        {
+          "name": "2019",
+          "count": 1
+        },
+        {
+          "name": "WEB",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "短片",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "放送开始",
+          "value": "2019年5月29日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.wakige-anime.com/"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
       },
-      {
-        "name": "2019",
-        "count": 1
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 0,
+        "dropped": 5,
+        "wish": 4,
+        "collect": 3,
+        "doing": 0
       },
-      {
-        "name": "WEB",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "短片",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "放送开始",
-        "value": "2019年5月29日"
-      },
-      {
-        "key": "官方网站",
-        "value": "https://www.wakige-anime.com/"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 0,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 0
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 0,
-      "dropped": 5,
-      "wish": 4,
-      "collect": 3,
-      "doing": 0
-    },
-    "id": 285672,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 285672,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": []
+    }
   },
   {
-    "date": "2019-05-04",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/b8/249249_aitO9.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/b8/249249_aitO9.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/b5/b8/249249_aitO9.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/b8/249249_aitO9.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/b8/249249_aitO9.jpg"
-    },
-    "summary": "人気アニメ「KING OF PRISM」シリーズ第3弾で、シリーズ初のテレビアニメとして描かれる「KING OF PRISM Shiny Seven Stars」の劇場編集版第4章。全12話のテレビアニメのうち、第10～12話の3話で構成されるほか、テレビ放映にはない特別映像が週替わりで上映される。",
-    "name": "KING OF PRISM -Shiny Seven Stars- IV ルヰ×シン×Unknown",
-    "name_cn": "KING OF PRISM -Shiny Seven Stars- Ⅳ 琉依×新×Unknown",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 2
+    "title": "KING OF PRISM -Shiny Seven Stars- IV ルヰ×シン×Unknown",
+    "bangumi": {
+      "date": "2019-05-04",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/b8/249249_aitO9.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/b8/249249_aitO9.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/b5/b8/249249_aitO9.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/b8/249249_aitO9.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/b8/249249_aitO9.jpg"
       },
-      {
-        "name": "畠中祐",
-        "count": 1
+      "summary": "人気アニメ「KING OF PRISM」シリーズ第3弾で、シリーズ初のテレビアニメとして描かれる「KING OF PRISM Shiny Seven Stars」の劇場編集版第4章。全12話のテレビアニメのうち、第10～12話の3話で構成されるほか、テレビ放映にはない特別映像が週替わりで上映される。",
+      "name": "KING OF PRISM -Shiny Seven Stars- IV ルヰ×シン×Unknown",
+      "name_cn": "KING OF PRISM -Shiny Seven Stars- Ⅳ 琉依×新×Unknown",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 2
+        },
+        {
+          "name": "畠中祐",
+          "count": 1
+        },
+        {
+          "name": "2019",
+          "count": 1
+        },
+        {
+          "name": "寺島惇太",
+          "count": 1
+        },
+        {
+          "name": "斉藤壮馬",
+          "count": 1
+        },
+        {
+          "name": "菱田正和",
+          "count": 1
+        },
+        {
+          "name": "龙之子",
+          "count": 1
+        },
+        {
+          "name": "音乐",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "KING OF PRISM -Shiny Seven Stars- Ⅳ 琉依×新×Unknown"
+        },
+        {
+          "key": "上映年度",
+          "value": "2019年5月4日"
+        },
+        {
+          "key": "片长",
+          "value": "70分"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://kinpri.com/"
+        },
+        {
+          "key": "Copyright",
+          "value": "Ⓒ T-ARTS / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ / キングオブプリズムSSS製作委員会"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 2,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 2,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 5
       },
-      {
-        "name": "2019",
-        "count": 1
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 3,
+        "wish": 8,
+        "collect": 5,
+        "doing": 0
       },
-      {
-        "name": "寺島惇太",
-        "count": 1
-      },
-      {
-        "name": "斉藤壮馬",
-        "count": 1
-      },
-      {
-        "name": "菱田正和",
-        "count": 1
-      },
-      {
-        "name": "龙之子",
-        "count": 1
-      },
-      {
-        "name": "音乐",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "KING OF PRISM -Shiny Seven Stars- Ⅳ 琉依×新×Unknown"
-      },
-      {
-        "key": "上映年度",
-        "value": "2019年5月4日"
-      },
-      {
-        "key": "片长",
-        "value": "70分"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://kinpri.com/"
-      },
-      {
-        "key": "Copyright",
-        "value": "Ⓒ T-ARTS / syn Sophia / エイベックス・ピクチャーズ / タツノコプロ / キングオブプリズムSSS製作委員会"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 2,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 2,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 5
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 3,
-      "wish": 8,
-      "collect": 5,
-      "doing": 0
-    },
-    "id": 249249,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 249249,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/53/249245_wBXfw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/53/249245_wBXfw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/53/249245_wBXfw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/53/249245_wBXfw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/53/249245_wBXfw.jpg"
+          },
+          "name": "KING OF PRISM -Shiny Seven Stars-",
+          "name_cn": "",
+          "relation": "全集",
+          "type": 2,
+          "id": 249245
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ab/a8/249248_gTb0p.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ab/a8/249248_gTb0p.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ab/a8/249248_gTb0p.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ab/a8/249248_gTb0p.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ab/a8/249248_gTb0p.jpg"
+          },
+          "name": "KING OF PRISM -Shiny Seven Stars- III レオ×ユウ×アレク",
+          "name_cn": "KING OF PRISM -Shiny Seven Stars- Ⅲ 玲央×优×亚历",
+          "relation": "前传",
+          "type": 2,
+          "id": 249248
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/1c/276604_A16LL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/1c/276604_A16LL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/04/1c/276604_A16LL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/1c/276604_A16LL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/1c/276604_A16LL.jpg"
+          },
+          "name": "Shiny Seven Stars!/366LOVEダイアリー",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 276604
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/61/286286_pm1Cr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/61/286286_pm1Cr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/61/286286_pm1Cr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/61/286286_pm1Cr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/61/286286_pm1Cr.jpg"
+          },
+          "name": "KING OF PRISM -Shiny Seven Stars- Song&amp;Soundtrack",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 286286
+        }
+      ]
+    }
   },
   {
-    "date": "2019-05-10",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/4a/202270_wpsqD.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/4a/202270_wpsqD.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/bf/4a/202270_wpsqD.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/4a/202270_wpsqD.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/4a/202270_wpsqD.jpg"
-    },
-    "summary": "　　全世界被产业革命的浪潮所席卷，从近世即将进入近代之时，突然，不死的怪物出现了。不击穿其被钢铁皮膜所覆盖的心脏就不能杀死的怪物，以及被其所啃咬的人类死后，会复生成为怪物再度袭击人类。被取名为“尸(卡巴内)”的怪物爆发性地增殖，不久就遍布了全世界。\r\n　　极东岛国·日之本，立于前线与“尸”正面对抗的装备着厚实装甲的蒸汽机关车(通称·骏城)之一——甲铁城。依靠甲铁城生存下来的生驹与同伴在“尸”与人的攻防战地——面日本海的废坑站「海门」，与玄路、虎落、海门的民众组成了“联合军”，定下击退“尸”的策略。\r\n　　期间，生驹发现海门的“尸”有着被统治并采取着集体行动的特征。将此信息报告给联合军的生驹却并未被理睬，反而被讥讽了自己的“尸人(卡巴内利)”身份。因怒火而失去了冷静的生驹决意单身进入敌方阵营。\r\n另一方的无名，对一直以来支撑着自己的生驹萌芽了前所未有的感情。这时又传来了生驹打算单身一人闯入敌地的消息——。\r\n　　与“尸”的新的战斗、以及无名与生驹的命运将会如何发展——！？",
-    "name": "甲鉄城のカバネリ～海門決戦～",
-    "name_cn": "甲铁城的卡巴内利～海门决战～",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 694
+    "title": "甲鉄城のカバネリ～海門決戦～",
+    "bangumi": {
+      "date": "2019-05-10",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/4a/202270_wpsqD.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/4a/202270_wpsqD.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/bf/4a/202270_wpsqD.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/4a/202270_wpsqD.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/4a/202270_wpsqD.jpg"
       },
-      {
-        "name": "WITSTUDIO",
-        "count": 429
+      "summary": "　　全世界被产业革命的浪潮所席卷，从近世即将进入近代之时，突然，不死的怪物出现了。不击穿其被钢铁皮膜所覆盖的心脏就不能杀死的怪物，以及被其所啃咬的人类死后，会复生成为怪物再度袭击人类。被取名为“尸(卡巴内)”的怪物爆发性地增殖，不久就遍布了全世界。\r\n　　极东岛国·日之本，立于前线与“尸”正面对抗的装备着厚实装甲的蒸汽机关车(通称·骏城)之一——甲铁城。依靠甲铁城生存下来的生驹与同伴在“尸”与人的攻防战地——面日本海的废坑站「海门」，与玄路、虎落、海门的民众组成了“联合军”，定下击退“尸”的策略。\r\n　　期间，生驹发现海门的“尸”有着被统治并采取着集体行动的特征。将此信息报告给联合军的生驹却并未被理睬，反而被讥讽了自己的“尸人(卡巴内利)”身份。因怒火而失去了冷静的生驹决意单身进入敌方阵营。\r\n另一方的无名，对一直以来支撑着自己的生驹萌芽了前所未有的感情。这时又传来了生驹打算单身一人闯入敌地的消息——。\r\n　　与“尸”的新的战斗、以及无名与生驹的命运将会如何发展——！？",
+      "name": "甲鉄城のカバネリ～海門決戦～",
+      "name_cn": "甲铁城的卡巴内利～海门决战～",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 694
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 429
+        },
+        {
+          "name": "原创",
+          "count": 363
+        },
+        {
+          "name": "2019",
+          "count": 290
+        },
+        {
+          "name": "荒木哲郎",
+          "count": 251
+        },
+        {
+          "name": "大河内一楼",
+          "count": 228
+        },
+        {
+          "name": "战斗",
+          "count": 208
+        },
+        {
+          "name": "甲铁城的卡巴内利",
+          "count": 186
+        },
+        {
+          "name": "僵尸",
+          "count": 122
+        },
+        {
+          "name": "奇幻",
+          "count": 100
+        },
+        {
+          "name": "2019年",
+          "count": 49
+        },
+        {
+          "name": "WIT_STUDIO",
+          "count": 33
+        },
+        {
+          "name": "热血",
+          "count": 24
+        },
+        {
+          "name": "泽野弘之",
+          "count": 14
+        },
+        {
+          "name": "2019年5月",
+          "count": 13
+        },
+        {
+          "name": "恋爱",
+          "count": 12
+        },
+        {
+          "name": "丧尸",
+          "count": 9
+        },
+        {
+          "name": "科幻",
+          "count": 8
+        },
+        {
+          "name": "澤野弘之",
+          "count": 7
+        },
+        {
+          "name": "电影",
+          "count": 7
+        },
+        {
+          "name": "日本",
+          "count": 7
+        },
+        {
+          "name": "末世",
+          "count": 6
+        },
+        {
+          "name": "江原康之",
+          "count": 6
+        },
+        {
+          "name": "卡巴司机",
+          "count": 6
+        },
+        {
+          "name": "2019年4月",
+          "count": 5
+        },
+        {
+          "name": "续作",
+          "count": 5
+        },
+        {
+          "name": "动画",
+          "count": 4
+        },
+        {
+          "name": "搞笑",
+          "count": 4
+        },
+        {
+          "name": "作画",
+          "count": 4
+        },
+        {
+          "name": "2018",
+          "count": 4
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "甲铁城的卡巴内利～海门决战～"
+        },
+        {
+          "key": "上映年度",
+          "value": "2019年5月10日"
+        },
+        {
+          "key": "片长",
+          "value": "01:22:17"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://kabaneri.com/"
+        },
+        {
+          "key": "话数",
+          "value": "3"
+        },
+        {
+          "key": "导演",
+          "value": "荒木哲郎"
+        },
+        {
+          "key": "人物设定",
+          "value": "江原康之"
+        }
+      ],
+      "rating": {
+        "rank": 5130,
+        "total": 1920,
+        "count": {
+          "1": 5,
+          "2": 5,
+          "3": 13,
+          "4": 57,
+          "5": 210,
+          "6": 706,
+          "7": 682,
+          "8": 203,
+          "9": 17,
+          "10": 22
+        },
+        "score": 6.4
       },
-      {
-        "name": "原创",
-        "count": 363
+      "total_episodes": 3,
+      "collection": {
+        "on_hold": 64,
+        "dropped": 29,
+        "wish": 479,
+        "collect": 3111,
+        "doing": 61
       },
-      {
-        "name": "2019",
-        "count": 290
-      },
-      {
-        "name": "荒木哲郎",
-        "count": 251
-      },
-      {
-        "name": "大河内一楼",
-        "count": 228
-      },
-      {
-        "name": "战斗",
-        "count": 208
-      },
-      {
-        "name": "甲铁城的卡巴内利",
-        "count": 186
-      },
-      {
-        "name": "僵尸",
-        "count": 122
-      },
-      {
-        "name": "奇幻",
-        "count": 100
-      },
-      {
-        "name": "2019年",
-        "count": 49
-      },
-      {
-        "name": "WIT_STUDIO",
-        "count": 33
-      },
-      {
-        "name": "热血",
-        "count": 24
-      },
-      {
-        "name": "泽野弘之",
-        "count": 14
-      },
-      {
-        "name": "2019年5月",
-        "count": 13
-      },
-      {
-        "name": "恋爱",
-        "count": 12
-      },
-      {
-        "name": "丧尸",
-        "count": 9
-      },
-      {
-        "name": "科幻",
-        "count": 8
-      },
-      {
-        "name": "澤野弘之",
-        "count": 7
-      },
-      {
-        "name": "电影",
-        "count": 7
-      },
-      {
-        "name": "日本",
-        "count": 7
-      },
-      {
-        "name": "末世",
-        "count": 6
-      },
-      {
-        "name": "江原康之",
-        "count": 6
-      },
-      {
-        "name": "卡巴司机",
-        "count": 6
-      },
-      {
-        "name": "2019年4月",
-        "count": 5
-      },
-      {
-        "name": "续作",
-        "count": 5
-      },
-      {
-        "name": "动画",
-        "count": 4
-      },
-      {
-        "name": "搞笑",
-        "count": 4
-      },
-      {
-        "name": "作画",
-        "count": 4
-      },
-      {
-        "name": "2018",
-        "count": 4
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "甲铁城的卡巴内利～海门决战～"
-      },
-      {
-        "key": "上映年度",
-        "value": "2019年5月10日"
-      },
-      {
-        "key": "片长",
-        "value": "01:22:17"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://kabaneri.com/"
-      },
-      {
-        "key": "话数",
-        "value": "3"
-      },
-      {
-        "key": "导演",
-        "value": "荒木哲郎"
-      },
-      {
-        "key": "人物设定",
-        "value": "江原康之"
-      }
-    ],
-    "rating": {
-      "rank": 5131,
-      "total": 1918,
-      "count": {
-        "1": 5,
-        "2": 5,
-        "3": 13,
-        "4": 57,
-        "5": 210,
-        "6": 705,
-        "7": 681,
-        "8": 203,
-        "9": 17,
-        "10": 22
-      },
-      "score": 6.4
-    },
-    "total_episodes": 3,
-    "collection": {
-      "on_hold": 64,
-      "dropped": 29,
-      "wish": 479,
-      "collect": 3108,
-      "doing": 61
-    },
-    "id": 202270,
-    "eps": 3,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 202270,
+      "eps": 3,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/0a/118781_ZHz9k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/0a/118781_ZHz9k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/0a/118781_ZHz9k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/0a/118781_ZHz9k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/0a/118781_ZHz9k.jpg"
+          },
+          "name": "甲鉄城のカバネリ",
+          "name_cn": "甲铁城的卡巴内利",
+          "relation": "前传",
+          "type": 2,
+          "id": 118781
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/75/183804_11117.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/75/183804_11117.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/75/183804_11117.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/75/183804_11117.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/75/183804_11117.jpg"
+          },
+          "name": "甲鉄城のカバネリ -乱- 始まる軌跡",
+          "name_cn": "甲铁城的卡巴内利 -乱- 起始的轨迹",
+          "relation": "游戏",
+          "type": 4,
+          "id": 183804
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/ec/278677_jg2ak.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/ec/278677_jg2ak.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/ec/278677_jg2ak.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/ec/278677_jg2ak.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/ec/278677_jg2ak.jpg"
+          },
+          "name": "甲鉄城のカバネリ COMPLETE SOUNDTRACK",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 278677
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/98/279157_q77M3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/98/279157_q77M3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e9/98/279157_q77M3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/98/279157_q77M3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/98/279157_q77M3.jpg"
+          },
+          "name": "咲かせや咲かせ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 279157
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/44/437940_T332t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/44/437940_T332t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6f/44/437940_T332t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/44/437940_T332t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/44/437940_T332t.jpg"
+          },
+          "name": "甲鉄城のカバネリ 海門決戦 原画集",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 437940
+        }
+      ]
+    }
   }
 ]

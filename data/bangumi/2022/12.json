@@ -1,1383 +1,1730 @@
 [
   {
-    "date": "2022-12-04",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/3c/385411_9wqf5.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/3c/385411_9wqf5.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/64/3c/385411_9wqf5.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/3c/385411_9wqf5.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/3c/385411_9wqf5.jpg"
-    },
-    "summary": "鬱屈した世の中に、ニーキック！\r\n令和のニューヒロイン爆誕！\r\n\r\n西暦20ＸＸ年――\r\n美少女メイドロボ「オーダーメイド」が一家に一台普及した時代\r\n平凡すぎる小学生・平凡人は、念願の美少女オーダーメイドに心躍らせていた。\r\nしかし、家にきたのは――!?\r\n\r\n想定外に規格外!?\r\n史上最強のハチャメチャメイドロボ・ロボコが、\r\n令和の日本を（やや強引に）元気にします！!\r\nこの冬、日本中がロボコのトリコになる――！",
-    "name": "僕とロボコ",
-    "name_cn": "我与机器子",
-    "tags": [
-      {
-        "name": "泡面番",
-        "count": 104
+    "title": "僕とロボコ",
+    "bangumi": {
+      "date": "2022-12-04",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/3c/385411_9wqf5.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/3c/385411_9wqf5.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/64/3c/385411_9wqf5.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/3c/385411_9wqf5.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/3c/385411_9wqf5.jpg"
       },
-      {
-        "name": "搞笑",
-        "count": 66
+      "summary": "鬱屈した世の中に、ニーキック！\r\n令和のニューヒロイン爆誕！\r\n\r\n西暦20ＸＸ年――\r\n美少女メイドロボ「オーダーメイド」が一家に一台普及した時代\r\n平凡すぎる小学生・平凡人は、念願の美少女オーダーメイドに心躍らせていた。\r\nしかし、家にきたのは――!?\r\n\r\n想定外に規格外!?\r\n史上最強のハチャメチャメイドロボ・ロボコが、\r\n令和の日本を（やや強引に）元気にします！!\r\nこの冬、日本中がロボコのトリコになる――！",
+      "name": "僕とロボコ",
+      "name_cn": "我与机器子",
+      "tags": [
+        {
+          "name": "泡面番",
+          "count": 104
+        },
+        {
+          "name": "搞笑",
+          "count": 66
+        },
+        {
+          "name": "TV",
+          "count": 63
+        },
+        {
+          "name": "2022",
+          "count": 56
+        },
+        {
+          "name": "漫画改",
+          "count": 49
+        },
+        {
+          "name": "大地丙太郎",
+          "count": 41
+        },
+        {
+          "name": "StudioGallop",
+          "count": 32
+        },
+        {
+          "name": "2023年1月",
+          "count": 30
+        },
+        {
+          "name": "漫改",
+          "count": 18
+        },
+        {
+          "name": "2022年10月",
+          "count": 12
+        },
+        {
+          "name": "2022年12月",
+          "count": 10
+        },
+        {
+          "name": "日常",
+          "count": 4
+        },
+        {
+          "name": "泡面",
+          "count": 4
+        },
+        {
+          "name": "GALLOP",
+          "count": 3
+        },
+        {
+          "name": "ぎゃろっぷ",
+          "count": 3
+        },
+        {
+          "name": "奇幻",
+          "count": 3
+        },
+        {
+          "name": "萝卜",
+          "count": 2
+        },
+        {
+          "name": "我与机器妹",
+          "count": 2
+        },
+        {
+          "name": "松尾駿",
+          "count": 2
+        },
+        {
+          "name": "津田美波",
+          "count": 2
+        },
+        {
+          "name": "日本",
+          "count": 2
+        },
+        {
+          "name": "2020-2029",
+          "count": 2
+        },
+        {
+          "name": "战斗",
+          "count": 2
+        },
+        {
+          "name": "大場小ゆり",
+          "count": 2
+        },
+        {
+          "name": "2023",
+          "count": 2
+        },
+        {
+          "name": "动画",
+          "count": 2
+        },
+        {
+          "name": "TVA",
+          "count": 2
+        },
+        {
+          "name": "喜剧",
+          "count": 1
+        },
+        {
+          "name": "ミニ番組",
+          "count": 1
+        },
+        {
+          "name": "Studio_Gallop",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "我与机器子"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "我与机器妹"
+            },
+            {
+              "v": "Me &amp; Roboco"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "28"
+        },
+        {
+          "key": "放送开始",
+          "value": "2022年12月4日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://boku-to-roboco.com/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ東京系"
+        },
+        {
+          "key": "其他电视台",
+          "value": "AT-X"
+        },
+        {
+          "key": "Copyright",
+          "value": "©宮崎周平／集英社・僕とロボコ製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "宮崎周平 『僕とロボコ』（集英社「週刊少年ジャンプ」)"
+        },
+        {
+          "key": "导演",
+          "value": "大地丙太郎"
+        },
+        {
+          "key": "副导演",
+          "value": "佐藤道拓"
+        },
+        {
+          "key": "系列构成",
+          "value": "大場小ゆり"
+        },
+        {
+          "key": "人物设定",
+          "value": "荏原裕子"
+        },
+        {
+          "key": "道具设计",
+          "value": "佐藤よしひろ"
+        },
+        {
+          "key": "美术监督",
+          "value": "湖山真奈美"
+        },
+        {
+          "key": "色彩设计",
+          "value": "箕輪綾美"
+        },
+        {
+          "key": "摄影监督",
+          "value": "谷本玲奈"
+        },
+        {
+          "key": "剪辑",
+          "value": "楫野允史"
+        },
+        {
+          "key": "音响监督",
+          "value": "たなかかずや"
+        },
+        {
+          "key": "音乐",
+          "value": "安部純、武藤星児"
+        },
+        {
+          "key": "音乐协力",
+          "value": "テレビ東京ミュージック"
+        },
+        {
+          "key": "音效",
+          "value": "武藤晶子"
+        },
+        {
+          "key": "音响",
+          "value": "青二プロダクション"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "GANG PARADE"
+        },
+        {
+          "key": "动画制作",
+          "value": "ぎゃろっぷ"
+        },
+        {
+          "key": "执行制片人",
+          "value": "關口彩香、長渕陽介"
+        },
+        {
+          "key": "制片人",
+          "value": "西村修、砂子達也"
+        },
+        {
+          "key": "动画制片人",
+          "value": "諸岡光歩"
+        },
+        {
+          "key": "助理制片人",
+          "value": "牧田麻由子、松本彩歩、川迫麻佑美"
+        },
+        {
+          "key": "企画",
+          "value": "企画协力：藤尾明史、村井佑梨羽"
+        },
+        {
+          "key": "原作协力",
+          "value": "「週刊少年ジャンプ」編集部（中野博之、本田佑行、杉田卓、田中陽理）"
+        },
+        {
+          "key": "宣传",
+          "value": "塩塚優香、前川亮、若生洋樹"
+        },
+        {
+          "key": "製作",
+          "value": "僕とロボコ製作委員会"
+        },
+        {
+          "key": "分镜",
+          "value": "大地丙太郎、佐藤道拓、西田章二"
+        },
+        {
+          "key": "演出",
+          "value": "佐藤道拓"
+        },
+        {
+          "key": "脚本",
+          "value": "大場小ゆり"
+        },
+        {
+          "key": "总作画监督",
+          "value": "荏原裕子"
+        },
+        {
+          "key": "色彩指定",
+          "value": "箕輪綾美"
+        },
+        {
+          "key": "原画",
+          "value": "時永宜幸、上田温子、小吹唯翔、広江克己、吉田光昭"
+        }
+      ],
+      "rating": {
+        "rank": 3007,
+        "total": 245,
+        "count": {
+          "1": 1,
+          "2": 0,
+          "3": 1,
+          "4": 5,
+          "5": 13,
+          "6": 47,
+          "7": 132,
+          "8": 40,
+          "9": 5,
+          "10": 1
+        },
+        "score": 6.8
       },
-      {
-        "name": "TV",
-        "count": 63
+      "total_episodes": 28,
+      "collection": {
+        "on_hold": 26,
+        "dropped": 34,
+        "wish": 66,
+        "collect": 305,
+        "doing": 117
       },
-      {
-        "name": "2022",
-        "count": 56
-      },
-      {
-        "name": "漫画改",
-        "count": 49
-      },
-      {
-        "name": "大地丙太郎",
-        "count": 41
-      },
-      {
-        "name": "StudioGallop",
-        "count": 32
-      },
-      {
-        "name": "2023年1月",
-        "count": 30
-      },
-      {
-        "name": "漫改",
-        "count": 18
-      },
-      {
-        "name": "2022年10月",
-        "count": 12
-      },
-      {
-        "name": "2022年12月",
-        "count": 10
-      },
-      {
-        "name": "日常",
-        "count": 4
-      },
-      {
-        "name": "泡面",
-        "count": 4
-      },
-      {
-        "name": "GALLOP",
-        "count": 3
-      },
-      {
-        "name": "ぎゃろっぷ",
-        "count": 3
-      },
-      {
-        "name": "奇幻",
-        "count": 3
-      },
-      {
-        "name": "萝卜",
-        "count": 2
-      },
-      {
-        "name": "我与机器妹",
-        "count": 2
-      },
-      {
-        "name": "松尾駿",
-        "count": 2
-      },
-      {
-        "name": "津田美波",
-        "count": 2
-      },
-      {
-        "name": "日本",
-        "count": 2
-      },
-      {
-        "name": "2020-2029",
-        "count": 2
-      },
-      {
-        "name": "战斗",
-        "count": 2
-      },
-      {
-        "name": "大場小ゆり",
-        "count": 2
-      },
-      {
-        "name": "2023",
-        "count": 2
-      },
-      {
-        "name": "动画",
-        "count": 2
-      },
-      {
-        "name": "TVA",
-        "count": 2
-      },
-      {
-        "name": "喜剧",
-        "count": 1
-      },
-      {
-        "name": "ミニ番組",
-        "count": 1
-      },
-      {
-        "name": "Studio_Gallop",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "我与机器子"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "我与机器妹"
+      "id": 385411,
+      "eps": 28,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/52/310688_J9NNJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1d/52/310688_J9NNJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1d/52/310688_J9NNJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1d/52/310688_J9NNJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1d/52/310688_J9NNJ.jpg"
           },
-          {
-            "v": "Me &amp; Roboco"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "28"
-      },
-      {
-        "key": "放送开始",
-        "value": "2022年12月4日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期日"
-      },
-      {
-        "key": "官方网站",
-        "value": "https://boku-to-roboco.com/"
-      },
-      {
-        "key": "播放电视台",
-        "value": "テレビ東京系"
-      },
-      {
-        "key": "其他电视台",
-        "value": "AT-X"
-      },
-      {
-        "key": "Copyright",
-        "value": "©宮崎周平／集英社・僕とロボコ製作委員会"
-      },
-      {
-        "key": "原作",
-        "value": "宮崎周平 『僕とロボコ』（集英社「週刊少年ジャンプ」)"
-      },
-      {
-        "key": "导演",
-        "value": "大地丙太郎"
-      },
-      {
-        "key": "副导演",
-        "value": "佐藤道拓"
-      },
-      {
-        "key": "系列构成",
-        "value": "大場小ゆり"
-      },
-      {
-        "key": "人物设定",
-        "value": "荏原裕子"
-      },
-      {
-        "key": "道具设计",
-        "value": "佐藤よしひろ"
-      },
-      {
-        "key": "美术监督",
-        "value": "湖山真奈美"
-      },
-      {
-        "key": "色彩设计",
-        "value": "箕輪綾美"
-      },
-      {
-        "key": "摄影监督",
-        "value": "谷本玲奈"
-      },
-      {
-        "key": "剪辑",
-        "value": "楫野允史"
-      },
-      {
-        "key": "音响监督",
-        "value": "たなかかずや"
-      },
-      {
-        "key": "音乐",
-        "value": "安部純、武藤星児"
-      },
-      {
-        "key": "音乐协力",
-        "value": "テレビ東京ミュージック"
-      },
-      {
-        "key": "音效",
-        "value": "武藤晶子"
-      },
-      {
-        "key": "音响",
-        "value": "青二プロダクション"
-      },
-      {
-        "key": "主题歌演出",
-        "value": "GANG PARADE"
-      },
-      {
-        "key": "动画制作",
-        "value": "ぎゃろっぷ"
-      },
-      {
-        "key": "执行制片人",
-        "value": "關口彩香、長渕陽介"
-      },
-      {
-        "key": "制片人",
-        "value": "西村修、砂子達也"
-      },
-      {
-        "key": "动画制片人",
-        "value": "諸岡光歩"
-      },
-      {
-        "key": "助理制片人",
-        "value": "牧田麻由子、松本彩歩、川迫麻佑美"
-      },
-      {
-        "key": "企画",
-        "value": "企画协力：藤尾明史、村井佑梨羽"
-      },
-      {
-        "key": "原作协力",
-        "value": "「週刊少年ジャンプ」編集部（中野博之、本田佑行、杉田卓、田中陽理）"
-      },
-      {
-        "key": "宣传",
-        "value": "塩塚優香、前川亮、若生洋樹"
-      },
-      {
-        "key": "製作",
-        "value": "僕とロボコ製作委員会"
-      },
-      {
-        "key": "分镜",
-        "value": "大地丙太郎、佐藤道拓、西田章二"
-      },
-      {
-        "key": "演出",
-        "value": "佐藤道拓"
-      },
-      {
-        "key": "脚本",
-        "value": "大場小ゆり"
-      },
-      {
-        "key": "总作画监督",
-        "value": "荏原裕子"
-      },
-      {
-        "key": "色彩指定",
-        "value": "箕輪綾美"
-      },
-      {
-        "key": "原画",
-        "value": "時永宜幸、上田温子、小吹唯翔、広江克己、吉田光昭"
-      }
-    ],
-    "rating": {
-      "rank": 3029,
-      "total": 245,
-      "count": {
-        "1": 1,
-        "2": 0,
-        "3": 1,
-        "4": 5,
-        "5": 12,
-        "6": 48,
-        "7": 132,
-        "8": 40,
-        "9": 5,
-        "10": 1
-      },
-      "score": 6.8
-    },
-    "total_episodes": 28,
-    "collection": {
-      "on_hold": 26,
-      "dropped": 34,
-      "wish": 66,
-      "collect": 304,
-      "doing": 117
-    },
-    "id": 385411,
-    "eps": 28,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "僕とロボコ",
+          "name_cn": "我与机器子",
+          "relation": "书籍",
+          "type": 1,
+          "id": 310688
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/00/6a/414117_aJa1P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/00/6a/414117_aJa1P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/00/6a/414117_aJa1P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/00/6a/414117_aJa1P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/00/6a/414117_aJa1P.jpg"
+          },
+          "name": "lol",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 414117
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/db/441940_5loo4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/db/441940_5loo4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/34/db/441940_5loo4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/db/441940_5loo4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/db/441940_5loo4.jpg"
+          },
+          "name": "劇場版 僕とロボコ",
+          "name_cn": "剧场版 我与机器子",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 441940
+        }
+      ]
+    }
   },
   {
-    "date": "2022-12-20",
-    "platform": "WEB",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/44/356670_Z97R4.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/44/356670_Z97R4.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/0c/44/356670_Z97R4.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/44/356670_Z97R4.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/44/356670_Z97R4.jpg"
-    },
-    "summary": "「七つの大罪 怨嗟のエジンバラ」は、鈴木が描き下ろした新作オリジナルストーリー。メリオダスとエリザベスの息子であるトリスタンを軸に、新たな物語が展開される。女神族の力を受け継ぎながらも、魔神族としての力を制御できずに人を傷つけた過去を持つトリスタンは、新たな仲間と出会い、愛する家族を守るためにエジンバラ城へと向うが……。",
-    "name": "七つの大罪 怨嗟のエジンバラ 前編",
-    "name_cn": "七大罪 怨嗟的爱丁堡 前篇",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 16
+    "title": "七つの大罪 怨嗟のエジンバラ 前編",
+    "bangumi": {
+      "date": "2022-12-20",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/44/356670_Z97R4.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/44/356670_Z97R4.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0c/44/356670_Z97R4.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/44/356670_Z97R4.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/44/356670_Z97R4.jpg"
       },
-      {
-        "name": "2022",
-        "count": 8
+      "summary": "「七つの大罪 怨嗟のエジンバラ」は、鈴木が描き下ろした新作オリジナルストーリー。メリオダスとエリザベスの息子であるトリスタンを軸に、新たな物語が展開される。女神族の力を受け継ぎながらも、魔神族としての力を制御できずに人を傷つけた過去を持つトリスタンは、新たな仲間と出会い、愛する家族を守るためにエジンバラ城へと向うが……。",
+      "name": "七つの大罪 怨嗟のエジンバラ 前編",
+      "name_cn": "七大罪 怨嗟的爱丁堡 前篇",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 16
+        },
+        {
+          "name": "2022",
+          "count": 8
+        },
+        {
+          "name": "雨宮天",
+          "count": 5
+        },
+        {
+          "name": "WEB",
+          "count": 4
+        },
+        {
+          "name": "Netflix",
+          "count": 3
+        },
+        {
+          "name": "studiodeen",
+          "count": 3
+        },
+        {
+          "name": "ボブ白旗",
+          "count": 3
+        },
+        {
+          "name": "续集",
+          "count": 2
+        },
+        {
+          "name": "漫改",
+          "count": 2
+        },
+        {
+          "name": "七大罪",
+          "count": 1
+        },
+        {
+          "name": "MARVYJACK",
+          "count": 1
+        },
+        {
+          "name": "AlfredImageworks",
+          "count": 1
+        },
+        {
+          "name": "池田臨太郎",
+          "count": 1
+        },
+        {
+          "name": "undefined",
+          "count": 1
+        },
+        {
+          "name": "阿部記之",
+          "count": 1
+        },
+        {
+          "name": "漫画改",
+          "count": 1
+        },
+        {
+          "name": "奇幻",
+          "count": 1
+        },
+        {
+          "name": "3D",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "梶裕貴",
+          "count": 1
+        },
+        {
+          "name": "六星",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "七大罪 怨嗟的爱丁堡 前篇"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "The Seven Deadly Sins: Grudge of Edinburgh"
+            },
+            {
+              "v": "Nanatsu no Taizai: Ensa no Edinburgh"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "放送开始",
+          "value": "2022年12月20日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "Netlix"
+        },
+        {
+          "key": "原作",
+          "value": "鈴木央『七つの大罪』（講談社「週刊少年マガジン」）"
+        },
+        {
+          "key": "总导演",
+          "value": "阿部記之"
+        },
+        {
+          "key": "导演",
+          "value": "ボブ白旗"
+        },
+        {
+          "key": "脚本",
+          "value": "池田臨太郎"
+        },
+        {
+          "key": "动画制作",
+          "value": "Alfred Imageworks×Marvy Jack(マーヴィージャック)"
+        },
+        {
+          "key": "网络平台",
+          "value": "Netflix"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 36,
+        "count": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 3,
+          "5": 12,
+          "6": 16,
+          "7": 2,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 5.2
       },
-      {
-        "name": "雨宮天",
-        "count": 5
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 6,
+        "dropped": 7,
+        "wish": 41,
+        "collect": 69,
+        "doing": 6
       },
-      {
-        "name": "WEB",
-        "count": 4
-      },
-      {
-        "name": "Netflix",
-        "count": 3
-      },
-      {
-        "name": "studiodeen",
-        "count": 3
-      },
-      {
-        "name": "ボブ白旗",
-        "count": 3
-      },
-      {
-        "name": "续集",
-        "count": 2
-      },
-      {
-        "name": "漫改",
-        "count": 2
-      },
-      {
-        "name": "七大罪",
-        "count": 1
-      },
-      {
-        "name": "MARVYJACK",
-        "count": 1
-      },
-      {
-        "name": "AlfredImageworks",
-        "count": 1
-      },
-      {
-        "name": "池田臨太郎",
-        "count": 1
-      },
-      {
-        "name": "undefined",
-        "count": 1
-      },
-      {
-        "name": "阿部記之",
-        "count": 1
-      },
-      {
-        "name": "漫画改",
-        "count": 1
-      },
-      {
-        "name": "奇幻",
-        "count": 1
-      },
-      {
-        "name": "3D",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "梶裕貴",
-        "count": 1
-      },
-      {
-        "name": "六星",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "七大罪 怨嗟的爱丁堡 前篇"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "The Seven Deadly Sins: Grudge of Edinburgh"
+      "id": 356670,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/4d/64051_psrfH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/4d/64051_psrfH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e7/4d/64051_psrfH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e7/4d/64051_psrfH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e7/4d/64051_psrfH.jpg"
           },
-          {
-            "v": "Nanatsu no Taizai: Ensa no Edinburgh"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "放送开始",
-        "value": "2022年12月20日"
-      },
-      {
-        "key": "播放电视台",
-        "value": "Netlix"
-      },
-      {
-        "key": "原作",
-        "value": "鈴木央『七つの大罪』（講談社「週刊少年マガジン」）"
-      },
-      {
-        "key": "总导演",
-        "value": "阿部記之"
-      },
-      {
-        "key": "导演",
-        "value": "ボブ白旗"
-      },
-      {
-        "key": "脚本",
-        "value": "池田臨太郎"
-      },
-      {
-        "key": "动画制作",
-        "value": "Alfred Imageworks×Marvy Jack(マーヴィージャック)"
-      },
-      {
-        "key": "网络平台",
-        "value": "Netflix"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 35,
-      "count": {
-        "1": 1,
-        "2": 1,
-        "3": 1,
-        "4": 3,
-        "5": 11,
-        "6": 16,
-        "7": 2,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 5.2
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 6,
-      "dropped": 7,
-      "wish": 41,
-      "collect": 68,
-      "doing": 7
-    },
-    "id": 356670,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "七つの大罪",
+          "name_cn": "七大罪",
+          "relation": "书籍",
+          "type": 1,
+          "id": 64051
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/8d/101820_Pd0Ph.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/8d/101820_Pd0Ph.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/48/8d/101820_Pd0Ph.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/48/8d/101820_Pd0Ph.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/8d/101820_Pd0Ph.jpg"
+          },
+          "name": "七つの大罪",
+          "name_cn": "七大罪",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 101820
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/59/408442_30ABP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/59/408442_30ABP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/19/59/408442_30ABP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/59/408442_30ABP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/59/408442_30ABP.jpg"
+          },
+          "name": "V",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 408442
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/ee/446249_i6v0i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/ee/446249_i6v0i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/ee/446249_i6v0i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/ee/446249_i6v0i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/ee/446249_i6v0i.jpg"
+          },
+          "name": "七つの大罪 怨嗟のエジンバラ 後編",
+          "name_cn": "七大罪 怨嗟的爱丁堡 后篇",
+          "relation": "续集",
+          "type": 2,
+          "id": 446249
+        }
+      ]
+    }
   },
   {
-    "date": "2022-12-13",
-    "platform": "WEB",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/63/387346_eB567.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/63/387346_eB567.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/54/63/387346_eB567.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/63/387346_eB567.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/63/387346_eB567.jpg"
-    },
-    "summary": "ぐでっとしていたい全ての人に贈る、脱力と共感の親探しロードムービー！\r\nどうせ食べられるだけだと自分の運命を諦め、いつもぐでっとしていたいぐでたまが、前向きで暑苦しいヒヨコのしゃきぴよに巻き込まれ、冷蔵庫から外の世界へ。正反対のデコボココンビは、母親探しの旅に出ることに！\r\n\r\nNetflixシリーズ「ぐでたま 〜母をたずねてどんくらい〜」は、2022年全世界配独占信スタート！",
-    "name": "ぐでたま 〜母をたずねてどんくらい〜",
-    "name_cn": "蛋黄哥大冒险",
-    "tags": [
-      {
-        "name": "Netflix",
-        "count": 14
+    "title": "ぐでたま 〜母をたずねてどんくらい〜",
+    "bangumi": {
+      "date": "2022-12-13",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/63/387346_eB567.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/63/387346_eB567.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/54/63/387346_eB567.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/63/387346_eB567.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/63/387346_eB567.jpg"
       },
-      {
-        "name": "2022",
-        "count": 10
+      "summary": "ぐでっとしていたい全ての人に贈る、脱力と共感の親探しロードムービー！\r\nどうせ食べられるだけだと自分の運命を諦め、いつもぐでっとしていたいぐでたまが、前向きで暑苦しいヒヨコのしゃきぴよに巻き込まれ、冷蔵庫から外の世界へ。正反対のデコボココンビは、母親探しの旅に出ることに！\r\n\r\nNetflixシリーズ「ぐでたま 〜母をたずねてどんくらい〜」は、2022年全世界配独占信スタート！",
+      "name": "ぐでたま 〜母をたずねてどんくらい〜",
+      "name_cn": "蛋黄哥大冒险",
+      "tags": [
+        {
+          "name": "Netflix",
+          "count": 14
+        },
+        {
+          "name": "2022",
+          "count": 10
+        },
+        {
+          "name": "WEB",
+          "count": 8
+        },
+        {
+          "name": "原创",
+          "count": 7
+        },
+        {
+          "name": "泡面番",
+          "count": 5
+        },
+        {
+          "name": "治愈",
+          "count": 5
+        },
+        {
+          "name": "ぐでたま",
+          "count": 4
+        },
+        {
+          "name": "TV",
+          "count": 4
+        },
+        {
+          "name": "混合",
+          "count": 4
+        },
+        {
+          "name": "搞笑",
+          "count": 2
+        },
+        {
+          "name": "OLM",
+          "count": 1
+        },
+        {
+          "name": "可爱",
+          "count": 1
+        },
+        {
+          "name": "三丽鸥",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "蛋黄哥大冒险"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Gudetama: An Eggcellent Adventure"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "10"
+        },
+        {
+          "key": "放送开始",
+          "value": "2022年12月13日"
+        },
+        {
+          "key": "播放结束",
+          "value": "2022年12月13日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©️ 2022 SANRIO CO., LTD. S／D・G 著作 株式会社サンリオ"
+        },
+        {
+          "key": "在线播放平台",
+          "value": "Netflix"
+        },
+        {
+          "key": "原作",
+          "value": "サンリオ"
+        },
+        {
+          "key": "原作设计",
+          "value": "Amy"
+        },
+        {
+          "key": "导演",
+          "value": "榊原幹典"
+        },
+        {
+          "key": "副导演",
+          "value": "窪田祐介、吉見拓真"
+        },
+        {
+          "key": "系列构成",
+          "value": "加藤陽一"
+        },
+        {
+          "key": "脚本",
+          "value": "加藤陽一"
+        },
+        {
+          "key": "音乐",
+          "value": "遠藤浩二"
+        },
+        {
+          "key": "监修",
+          "value": "VFX监修：太田垣香織；角色监修：前田勇弥"
+        },
+        {
+          "key": "製作",
+          "value": "『ぐでたま』製作委員会【サンリオ（村井将之、沖崎麗、西山芙実）、ギャザリングホールディングス（清水香梨子、師水大助、松元智美）、電通（藤田浩幸、新居祐介、松本整、小杉純善、北尾優佳）】"
+        },
+        {
+          "key": "执行制片人",
+          "value": "後藤太郎、小原康平"
+        },
+        {
+          "key": "制片人",
+          "value": "坂美佐子；製作制片人：奧村心雪、戸田和宏、張瞳"
+        },
+        {
+          "key": "企画",
+          "value": "渡辺周作、斎藤朋之"
+        },
+        {
+          "key": "助理制片人",
+          "value": "土川はな；須藤研人"
+        },
+        {
+          "key": "制作",
+          "value": "OLM"
+        },
+        {
+          "key": "制作协力",
+          "value": "レスパスフィルム"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 49,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 2,
+          "5": 1,
+          "6": 22,
+          "7": 15,
+          "8": 8,
+          "9": 1,
+          "10": 0
+        },
+        "score": 6.6
       },
-      {
-        "name": "WEB",
-        "count": 8
+      "total_episodes": 10,
+      "collection": {
+        "on_hold": 4,
+        "dropped": 7,
+        "wish": 26,
+        "collect": 70,
+        "doing": 5
       },
-      {
-        "name": "原创",
-        "count": 7
-      },
-      {
-        "name": "泡面番",
-        "count": 5
-      },
-      {
-        "name": "治愈",
-        "count": 5
-      },
-      {
-        "name": "ぐでたま",
-        "count": 4
-      },
-      {
-        "name": "TV",
-        "count": 4
-      },
-      {
-        "name": "混合",
-        "count": 4
-      },
-      {
-        "name": "搞笑",
-        "count": 2
-      },
-      {
-        "name": "OLM",
-        "count": 1
-      },
-      {
-        "name": "可爱",
-        "count": 1
-      },
-      {
-        "name": "三丽鸥",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "蛋黄哥大冒险"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Gudetama: An Eggcellent Adventure"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "10"
-      },
-      {
-        "key": "放送开始",
-        "value": "2022年12月13日"
-      },
-      {
-        "key": "播放结束",
-        "value": "2022年12月13日"
-      },
-      {
-        "key": "Copyright",
-        "value": "©️ 2022 SANRIO CO., LTD. S／D・G 著作 株式会社サンリオ"
-      },
-      {
-        "key": "在线播放平台",
-        "value": "Netflix"
-      },
-      {
-        "key": "原作",
-        "value": "サンリオ"
-      },
-      {
-        "key": "原作设计",
-        "value": "Amy"
-      },
-      {
-        "key": "导演",
-        "value": "榊原幹典"
-      },
-      {
-        "key": "副导演",
-        "value": "窪田祐介、吉見拓真"
-      },
-      {
-        "key": "系列构成",
-        "value": "加藤陽一"
-      },
-      {
-        "key": "脚本",
-        "value": "加藤陽一"
-      },
-      {
-        "key": "音乐",
-        "value": "遠藤浩二"
-      },
-      {
-        "key": "监修",
-        "value": "VFX监修：太田垣香織；角色监修：前田勇弥"
-      },
-      {
-        "key": "製作",
-        "value": "『ぐでたま』製作委員会【サンリオ（村井将之、沖崎麗、西山芙実）、ギャザリングホールディングス（清水香梨子、師水大助、松元智美）、電通（藤田浩幸、新居祐介、松本整、小杉純善、北尾優佳）】"
-      },
-      {
-        "key": "执行制片人",
-        "value": "後藤太郎、小原康平"
-      },
-      {
-        "key": "制片人",
-        "value": "坂美佐子；製作制片人：奧村心雪、戸田和宏、張瞳"
-      },
-      {
-        "key": "企画",
-        "value": "渡辺周作、斎藤朋之"
-      },
-      {
-        "key": "助理制片人",
-        "value": "土川はな；須藤研人"
-      },
-      {
-        "key": "制作",
-        "value": "OLM"
-      },
-      {
-        "key": "制作协力",
-        "value": "レスパスフィルム"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 49,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 2,
-        "5": 1,
-        "6": 22,
-        "7": 15,
-        "8": 8,
-        "9": 1,
-        "10": 0
-      },
-      "score": 6.6
-    },
-    "total_episodes": 10,
-    "collection": {
-      "on_hold": 4,
-      "dropped": 7,
-      "wish": 26,
-      "collect": 70,
-      "doing": 5
-    },
-    "id": 387346,
-    "eps": 10,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 387346,
+      "eps": 10,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/21/107928_DcPIZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/21/107928_DcPIZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/21/107928_DcPIZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/21/107928_DcPIZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/21/107928_DcPIZ.jpg"
+          },
+          "name": "ぐでたま",
+          "name_cn": "懒蛋蛋",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 107928
+        }
+      ]
+    }
   },
   {
-    "date": "2022-12-17",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/b6/389474_tzbrl.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/b6/389474_tzbrl.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/ca/b6/389474_tzbrl.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/b6/389474_tzbrl.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/b6/389474_tzbrl.jpg"
-    },
-    "summary": "两人冻结的内心，在没有下雪的东京夜空渐渐融化。\r\n\r\n爱情喜剧，在特别却又平凡的圣诞节，重新归来 —\r\n\r\n副会长・四宫辉夜与学生会长・白银御行在秀知院学园的学生会相遇，两名天才在历经了漫长的恋爱头脑战后，终于向对方表达了自己的心意，​在“奉心祭”首度接吻。\r\n\r\n然而两人还是没有做出明确的告白，原以为就要成为恋人了，但却依然维持著暧昧关係，反而变得更加在意彼此。\r\n\r\n两人就这么迎向了圣诞节，“渴望变得完美”的白银，与追求他的“不完美”的辉夜，这是天才们极其“普通”的恋爱故事。\r\n\r\n初吻，永不结束 —",
-    "name": "かぐや様は告らせたい-ファーストキッスは終わらない-",
-    "name_cn": "辉夜大小姐想让我告白-初吻不会结束-",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 754
+    "title": "かぐや様は告らせたい-ファーストキッスは終わらない-",
+    "bangumi": {
+      "date": "2022-12-17",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/b6/389474_tzbrl.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/b6/389474_tzbrl.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ca/b6/389474_tzbrl.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/b6/389474_tzbrl.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/b6/389474_tzbrl.jpg"
       },
-      {
-        "name": "恋爱",
-        "count": 613
+      "summary": "两人冻结的内心，在没有下雪的东京夜空渐渐融化。\r\n\r\n爱情喜剧，在特别却又平凡的圣诞节，重新归来 —\r\n\r\n副会长・四宫辉夜与学生会长・白银御行在秀知院学园的学生会相遇，两名天才在历经了漫长的恋爱头脑战后，终于向对方表达了自己的心意，​在“奉心祭”首度接吻。\r\n\r\n然而两人还是没有做出明确的告白，原以为就要成为恋人了，但却依然维持著暧昧关係，反而变得更加在意彼此。\r\n\r\n两人就这么迎向了圣诞节，“渴望变得完美”的白银，与追求他的“不完美”的辉夜，这是天才们极其“普通”的恋爱故事。\r\n\r\n初吻，永不结束 —",
+      "name": "かぐや様は告らせたい-ファーストキッスは終わらない-",
+      "name_cn": "辉夜大小姐想让我告白-初吻不会结束-",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 760
+        },
+        {
+          "name": "恋爱",
+          "count": 616
+        },
+        {
+          "name": "A-1Pictures",
+          "count": 560
+        },
+        {
+          "name": "校园",
+          "count": 416
+        },
+        {
+          "name": "辉夜大小姐想让我告白",
+          "count": 297
+        },
+        {
+          "name": "2022",
+          "count": 293
+        },
+        {
+          "name": "搞笑",
+          "count": 288
+        },
+        {
+          "name": "漫画改",
+          "count": 262
+        },
+        {
+          "name": "漫改",
+          "count": 184
+        },
+        {
+          "name": "日常",
+          "count": 163
+        },
+        {
+          "name": "喜剧",
+          "count": 121
+        },
+        {
+          "name": "2022年12月",
+          "count": 71
+        },
+        {
+          "name": "TV",
+          "count": 36
+        },
+        {
+          "name": "小俣真一",
+          "count": 24
+        },
+        {
+          "name": "畠山守",
+          "count": 16
+        },
+        {
+          "name": "神作",
+          "count": 12
+        },
+        {
+          "name": "2022年10月",
+          "count": 7
+        },
+        {
+          "name": "OVA",
+          "count": 5
+        },
+        {
+          "name": "2023",
+          "count": 5
+        },
+        {
+          "name": "2022年",
+          "count": 5
+        },
+        {
+          "name": "未定档",
+          "count": 4
+        },
+        {
+          "name": "狗粮",
+          "count": 4
+        },
+        {
+          "name": "小原好美",
+          "count": 4
+        },
+        {
+          "name": "日本",
+          "count": 4
+        },
+        {
+          "name": "青春",
+          "count": 4
+        },
+        {
+          "name": "2023年1月",
+          "count": 3
+        },
+        {
+          "name": "续作",
+          "count": 3
+        },
+        {
+          "name": "恋爱喜剧",
+          "count": 3
+        },
+        {
+          "name": "中西泰博",
+          "count": 3
+        },
+        {
+          "name": "日本动画",
+          "count": 3
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "辉夜大小姐想让我告白-初吻不会结束-"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+            },
+            {
+              "v": "Kaguya-sama: Love Is War - The First Kiss That Never Ends"
+            },
+            {
+              "v": "辉夜大小姐想让我告白-初吻永不结束-"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2022年12月17日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://kaguya.love"
+        },
+        {
+          "key": "Copyright",
+          "value": "©赤坂アカ／集英社・かぐや様は告らせたい製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "赤坂アカ（集英社「週刊ヤングジャンプ」連載）"
+        },
+        {
+          "key": "导演",
+          "value": "畠山守(小俣真一)"
+        },
+        {
+          "key": "人物设定",
+          "value": "八尋裕子"
+        },
+        {
+          "key": "製作",
+          "value": "かぐや様は告らせたい製作委員会"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 230,
+        "total": 2197,
+        "count": {
+          "1": 5,
+          "2": 6,
+          "3": 4,
+          "4": 3,
+          "5": 35,
+          "6": 100,
+          "7": 366,
+          "8": 1040,
+          "9": 453,
+          "10": 185
+        },
+        "score": 8
       },
-      {
-        "name": "A-1Pictures",
-        "count": 557
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 76,
+        "dropped": 43,
+        "wish": 1340,
+        "collect": 3499,
+        "doing": 215
       },
-      {
-        "name": "校园",
-        "count": 415
-      },
-      {
-        "name": "辉夜大小姐想让我告白",
-        "count": 295
-      },
-      {
-        "name": "2022",
-        "count": 291
-      },
-      {
-        "name": "搞笑",
-        "count": 287
-      },
-      {
-        "name": "漫画改",
-        "count": 261
-      },
-      {
-        "name": "漫改",
-        "count": 183
-      },
-      {
-        "name": "日常",
-        "count": 162
-      },
-      {
-        "name": "喜剧",
-        "count": 121
-      },
-      {
-        "name": "2022年12月",
-        "count": 71
-      },
-      {
-        "name": "TV",
-        "count": 36
-      },
-      {
-        "name": "小俣真一",
-        "count": 24
-      },
-      {
-        "name": "畠山守",
-        "count": 16
-      },
-      {
-        "name": "神作",
-        "count": 12
-      },
-      {
-        "name": "2022年10月",
-        "count": 7
-      },
-      {
-        "name": "OVA",
-        "count": 5
-      },
-      {
-        "name": "2023",
-        "count": 5
-      },
-      {
-        "name": "2022年",
-        "count": 5
-      },
-      {
-        "name": "未定档",
-        "count": 4
-      },
-      {
-        "name": "狗粮",
-        "count": 4
-      },
-      {
-        "name": "小原好美",
-        "count": 4
-      },
-      {
-        "name": "日本",
-        "count": 4
-      },
-      {
-        "name": "青春",
-        "count": 4
-      },
-      {
-        "name": "2023年1月",
-        "count": 3
-      },
-      {
-        "name": "续作",
-        "count": 3
-      },
-      {
-        "name": "恋爱喜剧",
-        "count": 3
-      },
-      {
-        "name": "中西泰博",
-        "count": 3
-      },
-      {
-        "name": "日本动画",
-        "count": 3
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "辉夜大小姐想让我告白-初吻不会结束-"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai"
+      "id": 389474,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/c9/135218_YYbSq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/c9/135218_YYbSq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/c9/135218_YYbSq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/c9/135218_YYbSq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/c9/135218_YYbSq.jpg"
           },
-          {
-            "v": "Kaguya-sama: Love Is War - The First Kiss That Never Ends"
+          "name": "かぐや様は告らせたい～天才たちの恋愛頭脳戦～",
+          "name_cn": "辉夜大小姐想让我告白 ~天才们的恋爱头脑战~",
+          "relation": "书籍",
+          "type": 1,
+          "id": 135218
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/9c/317613_bpGX4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/9c/317613_bpGX4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/9c/317613_bpGX4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/9c/317613_bpGX4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/9c/317613_bpGX4.jpg"
           },
-          {
-            "v": "辉夜大小姐想让我告白-初吻永不结束-"
-          }
-        ]
-      },
-      {
-        "key": "上映年度",
-        "value": "2022年12月17日"
-      },
-      {
-        "key": "官方网站",
-        "value": "https://kaguya.love"
-      },
-      {
-        "key": "Copyright",
-        "value": "©赤坂アカ／集英社・かぐや様は告らせたい製作委員会"
-      },
-      {
-        "key": "原作",
-        "value": "赤坂アカ（集英社「週刊ヤングジャンプ」連載）"
-      },
-      {
-        "key": "导演",
-        "value": "畠山守(小俣真一)"
-      },
-      {
-        "key": "人物设定",
-        "value": "八尋裕子"
-      },
-      {
-        "key": "製作",
-        "value": "かぐや様は告らせたい製作委員会"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 231,
-      "total": 2191,
-      "count": {
-        "1": 5,
-        "2": 6,
-        "3": 4,
-        "4": 3,
-        "5": 35,
-        "6": 99,
-        "7": 364,
-        "8": 1038,
-        "9": 452,
-        "10": 185
-      },
-      "score": 8
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 76,
-      "dropped": 43,
-      "wish": 1341,
-      "collect": 3491,
-      "doing": 215
-    },
-    "id": 389474,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "かぐや様は告らせたい-ウルトラロマンティック-",
+          "name_cn": "辉夜大小姐想让我告白-超级浪漫-",
+          "relation": "前传",
+          "type": 2,
+          "id": 317613
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/88/409051_XLb5c.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/88/409051_XLb5c.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/88/409051_XLb5c.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/88/409051_XLb5c.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/88/409051_XLb5c.jpg"
+          },
+          "name": "nolca solca",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 409051
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/1c/411159_utDvV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/1c/411159_utDvV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e2/1c/411159_utDvV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/1c/411159_utDvV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/1c/411159_utDvV.jpg"
+          },
+          "name": "Love is Show",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 411159
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/a8/411564_mCtxJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/a8/411564_mCtxJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/a8/411564_mCtxJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/a8/411564_mCtxJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/a8/411564_mCtxJ.jpg"
+          },
+          "name": "heart notes",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 411564
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/79/425211_bPbra.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/79/425211_bPbra.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/79/425211_bPbra.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/79/425211_bPbra.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/79/425211_bPbra.jpg"
+          },
+          "name": "かぐや様は告らせたい-ファーストキッスは終わらない-",
+          "name_cn": "辉夜大小姐想让我告白-初吻不会结束-",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 425211
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/87/427514_tcxxu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/87/427514_tcxxu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/28/87/427514_tcxxu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/87/427514_tcxxu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/87/427514_tcxxu.jpg"
+          },
+          "name": "かぐや様は告らせたい-ファーストキッスは終わらない- オリジナル・サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 427514
+        }
+      ]
+    }
   },
   {
-    "date": "2022-12-23",
-    "platform": "WEB",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/db/383649_fql6o.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/db/383649_fql6o.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/03/db/383649_fql6o.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/db/383649_fql6o.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/db/383649_fql6o.jpg"
-    },
-    "summary": "龙门城中有奇人曰老鲤，自题为“鲤氏侦探”，携阿、吽和槐琥三人居于幽巷，终日毕力排解四邻之难，或跑腿探事，或斡旋左右，所遇奇异之事繁多，此处取几件书以原委，兹以佐酒下饭。",
-    "name": "鲤氏侦探事务所",
-    "name_cn": "",
-    "tags": [
-      {
-        "name": "国产",
-        "count": 64
-      },
-      {
-        "name": "游戏改",
-        "count": 51
-      },
-      {
-        "name": "重力井动画",
-        "count": 45
-      },
-      {
-        "name": "明日方舟",
-        "count": 39
-      },
-      {
-        "name": "短片",
-        "count": 25
-      },
-      {
-        "name": "WEB",
-        "count": 22
-      },
-      {
-        "name": "2023年1月",
-        "count": 21
-      },
-      {
-        "name": "泡面番",
-        "count": 20
-      },
-      {
-        "name": "搞笑",
-        "count": 19
-      },
-      {
-        "name": "2022",
-        "count": 17
-      },
-      {
-        "name": "鹰角网络",
-        "count": 15
-      },
-      {
-        "name": "YostarPictures",
-        "count": 12
-      },
-      {
-        "name": "福瑞",
-        "count": 7
-      },
-      {
-        "name": "2022年12月",
-        "count": 6
-      },
-      {
-        "name": "2023",
-        "count": 5
-      },
-      {
-        "name": "日常",
-        "count": 5
-      },
-      {
-        "name": "国创",
-        "count": 4
-      },
-      {
-        "name": "2022年10月",
-        "count": 3
-      },
-      {
-        "name": "TV",
-        "count": 2
-      },
-      {
-        "name": "动画",
-        "count": 2
-      },
-      {
-        "name": "重力井",
-        "count": 2
-      },
-      {
-        "name": "成都风之谷",
-        "count": 1
-      },
-      {
-        "name": "杰里米",
-        "count": 1
-      },
-      {
-        "name": "SF",
-        "count": 1
-      },
-      {
-        "name": "董芳辰",
-        "count": 1
-      },
-      {
-        "name": "2023观",
-        "count": 1
-      },
-      {
-        "name": "杰里米里杰",
-        "count": 1
-      },
-      {
-        "name": "2022年",
-        "count": 1
-      },
-      {
-        "name": "合作",
-        "count": 1
-      },
-      {
-        "name": "中国",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "话数",
-        "value": "6"
-      },
-      {
-        "key": "放送开始",
-        "value": "2022年12月23日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期五"
-      },
-      {
-        "key": "官方网站",
-        "value": "https://ak.hypergryph.com/lee"
-      },
-      {
-        "key": "企划",
-        "value": "鹰角网络、重力井动画"
-      },
-      {
-        "key": "出品人",
-        "value": "黄一峰"
-      },
-      {
-        "key": "总制片人",
-        "value": "海猫络合物"
-      },
-      {
-        "key": "监制",
-        "value": "Ametora"
-      },
-      {
-        "key": "IP总监",
-        "value": "唯@W"
-      },
-      {
-        "key": "系列构成",
-        "value": "杰里米(杰里米里杰)、董芳辰"
-      },
-      {
-        "key": "设定原案",
-        "value": "KuroBlood"
-      },
-      {
-        "key": "美术设计",
-        "value": "美术设定：麻油、Eruh、杰里米(杰里米里杰)、郭伊妮"
-      },
-      {
-        "key": "音乐制作",
-        "value": "顾忠山、Damien Banzigou"
-      },
-      {
-        "key": "音乐支持",
-        "value": "DCTAVEDGE"
-      },
-      {
-        "key": "制片人",
-        "value": "老鱼"
-      },
-      {
-        "key": "制作统筹",
-        "value": "李宇驰"
-      },
-      {
-        "key": "导演",
-        "value": "杰里米(杰里米里杰)"
-      },
-      {
-        "key": "总作画监督",
-        "value": "杰里米(杰里米里杰)"
-      },
-      {
-        "key": "脚本",
-        "value": "剧本：董芳辰、杰里米(杰里米里杰)，剧本协力：阿林、风音、贾琨帆"
-      },
-      {
-        "key": "分镜",
-        "value": "分镜：杰里米(杰里米里杰)、张峻峰、付强(傅强)(1,3-5)；片头曲片尾曲画面制作-分镜：杰里米(杰里米里杰)、张峻峰"
-      },
-      {
-        "key": "执行导演",
-        "value": "付强(傅强)"
-      },
-      {
-        "key": "动画制片人",
-        "value": "徐小敏"
-      },
-      {
-        "key": "执行制片",
-        "value": "陈曦、王子荷、吴娟、廖戎晖(1-2)、施雯伟"
-      },
-      {
-        "key": "人物设定",
-        "value": "角色设定：闫广薇、麻油、邱浩林(2)"
-      },
-      {
-        "key": "场景设定",
-        "value": "史明朗、李莉"
-      },
-      {
-        "key": "道具设定",
-        "value": "廖雷"
-      },
-      {
-        "key": "色彩设计",
-        "value": "闫广薇、廖雷、邱浩林"
-      },
-      {
-        "key": "色指定",
-        "value": "闫广薇、廖雷、邱浩林"
-      },
-      {
-        "key": "作画监督",
-        "value": "作画监督：付强(傅强)、闫广薇、罗睿、麻油；片头曲片尾曲画面制作-作画监督：付强(傅强)、闫广薇、罗睿、杰里米(杰里米里杰)"
-      },
-      {
-        "key": "设计稿",
-        "value": "设计稿：史明朗、李莉、王黎黎；片头曲片尾曲画面制作-设计稿：史明朗、李莉、王黎黎"
-      },
-      {
-        "key": "原画",
-        "value": "原画：王航(1-6)、赵睿麟(1-3,5-6)、廖俊涵(1,6)、付强(傅强)(1,5-6)、成都童心影视动画制作有限公司(1-6)、成都盛世动力文化传媒有限公司(1,4,6)、杭州神在动漫(1,4)、Eli Xiao(1,3)、胡芷怡(2-3,5-6)、高宾睿(2-3,5-6)、廖雅莹(2,5-6)、齐美贡布(2,5-6)、杜欣怡(2)、重庆百谷网合数字传媒有限公司(2,4-6)、苏州笔趣文化有限公司(4)；片头曲片尾曲画面制作-原画：廖俊涵、胡芷怡、高宾睿、王经国、廖雷、成都童心影视动画制作有限公司、重庆百谷网合数字传媒有限公司"
-      },
-      {
-        "key": "第二原画",
-        "value": "罗睿(1-2,5-6)、王经国(1-6)、王艺淼(1-3,5-6)、廖雷(1-3,5-6)、成都童心影视动画制作有限公司(1-6)、成都盛世动力文化传媒有限公司(1)、杭州神在动漫(1,4)、重庆百谷网合数字传媒有限公司(2,4-6)、胡芷怡(3-4,6)、高宾睿(3-4,6)、付强(傅强)(4)、邱浩林(4,6)、苏州笔趣文化有限公司(4)"
-      },
-      {
-        "key": "动画检查",
-        "value": "罗睿(1-2)、赖自强、朱孟男(3)"
-      },
-      {
-        "key": "补间动画",
-        "value": "动画：李威(1-2,5)、张云翔(1-2,5-6)、何金龙(1-6)、璧山区酷漫动漫设计中心(1-6)、重庆百谷网合数字传媒有限公司(1-2,4-6)、苏州工业园区图智动漫设计工作室(1,6)、李青山(2)、四川梦之达动漫有限公司(2)、刘霄蓉(4)、李娜(4)、苏州笔趣文化有限公司(4)、杭州神在动漫(4)；片头曲片尾曲画面制作-动画：赖自强、李威、张云翔、璧山区酷漫动漫设计中心"
-      },
-      {
-        "key": "色彩检查",
-        "value": "潘佳杰(1,3-6)、何巍(1,3,6)、赖自强(2,5)"
-      },
-      {
-        "key": "上色",
-        "value": "上色：刘霄蓉(1-6)、李娜(1-6)、重庆百谷网合数字传媒有限公司(1-2,4-6)、合肥板绘动漫设计有限公司(1,6)、黄琳(2)、四川梦之达动漫有限公司(2)、何金龙(4)、璧山区酷漫动漫设计中心(4)、苏州笔趣文化有限公司(4)、杭州神在动漫(4)；片头曲片尾曲画面制作-上色：潘佳杰、何巍、刘霄蓉、李娜"
-      },
-      {
-        "key": "三维片段制作-制片",
-        "value": "潘静雯(2)、陈辞渊(2)"
-      },
-      {
-        "key": "三维片段制作-美术",
-        "value": "罗凯峰(2)"
-      },
-      {
-        "key": "三维片段制作-角色模型",
-        "value": "冷劲秋(2)、万子恒(2)、刘一(2)、卓子威(2)"
-      },
-      {
-        "key": "三维片段制作-场景模型",
-        "value": "范政(2)"
-      },
-      {
-        "key": "三维片段制作-绑定",
-        "value": "马蕊(2)"
-      },
-      {
-        "key": "三维片段制作-动画",
-        "value": "徐俊洁(2)、马帅(2)"
-      },
-      {
-        "key": "三维片段制作-特效",
-        "value": "王昊城(2)"
-      },
-      {
-        "key": "三维片段制作-后期",
-        "value": "张子钧(2)、吴晓茵(2)、陆桐(2)、曹翔(2)、二锅(2)"
-      },
-      {
-        "key": "场景监督",
-        "value": "史明朗、Eruh"
-      },
-      {
-        "key": "场景绘制",
-        "value": "场景绘制：成都铭日科技有限公司(1,3-4,6)、成都市蓝水晶数码图像设计制作有限公司(2,5)、杨杰(3)；片头曲片尾曲画面制作-场景绘制：史明朗、Eruh、杨杰"
-      },
-      {
-        "key": "3D场景",
-        "value": "杨琴(1,3)、徐波(1-2,5-6)、刘懿康(1,3)、何倩(1,3)、胡逸龙(2)、成都舞之光影动漫科技有限公司(6)"
-      },
-      {
-        "key": "3D道具",
-        "value": "徐波(1-2,5-6)、成都舞之光影动漫科技有限公司(1,6)、杨琴(3)"
-      },
-      {
-        "key": "3DCGI",
-        "value": "徐波(1-3,5-6)、成都舞之光影动漫科技有限公司(1,3,6)"
-      },
-      {
-        "key": "3D协助",
-        "value": "魏乾豪(6)、赵红云(6)、迟玮良(6)、徐俊洁(6)、潘静雯(6)"
-      },
-      {
-        "key": "片头曲片尾曲画面制作-3D制作",
-        "value": "徐波"
-      },
-      {
-        "key": "摄影监督",
-        "value": "潘佳杰、罗沛楠(5)"
-      },
-      {
-        "key": "动画摄影",
-        "value": "动画摄影：二锅(1-2,4-5)、潘佳杰(1-6)、罗沛楠(1-2,4,6)、何巍(1,3,5-6)、vivell(2)、豚豚(3)、张勇(4-6)；片头曲片尾曲画面制作-动画摄影：潘佳杰、罗沛楠、何巍"
-      },
-      {
-        "key": "剪辑",
-        "value": "潘佳杰、李宇驰"
-      },
-      {
-        "key": "音乐",
-        "value": "杨光、黄健怡、Chris Trczinski、武勇恒、Alec Haavik、Nicholas McBride、赵可、Toby Mak、胡清文"
-      },
-      {
-        "key": "音效混音",
-        "value": "上海唧咪文化传播有限公司"
-      },
-      {
-        "key": "主题网页制作",
-        "value": "文案撰写：阿林，网页制作：羅馬、狐尾，素材制作：麻油、杰里米"
-      },
-      {
-        "key": "监修支持",
-        "value": "KuroBlood、Monostew、啊辽、Jell、SVK、塔库、文岸"
-      },
-      {
-        "key": "配音支持",
-        "value": "苏恺淇、朱菁婕、南光日、具根辉、ARIA、吕真一"
-      },
-      {
-        "key": "音频支持",
-        "value": "Janfansy、云翔、凯文、彼得"
-      },
-      {
-        "key": "设定·文案支持",
-        "value": "阿瓢、茅加俊、小卡"
-      },
-      {
-        "key": "校对支持",
-        "value": "石狩"
-      },
-      {
-        "key": "商务支持",
-        "value": "陈圣韵、吴映寰、张宇飞、Meiko、蒋77、沙拉、Sawyer、阿星、四石、鄢然"
-      },
-      {
-        "key": "设计支持",
-        "value": "鹰角设计三七组"
-      },
-      {
-        "key": "周边支持",
-        "value": "朝陇山"
-      },
-      {
-        "key": "法务支持",
-        "value": "高佳琪、李颖健、Fiona"
-      },
-      {
-        "key": "海外本地化",
-        "value": "丁怡丹、贾博龙、Stantan IV Thomas William、陈明慧、乔天怡、费佳迪、임웅빈、金铂、NON、冷雪煜、俞天乐"
-      },
-      {
-        "key": "海外视频制作",
-        "value": "宋娜、蔡毓锴、禾冉、海星、白雁雁"
-      },
-      {
-        "key": "动画制作",
-        "value": "重力井动画、成都风之谷网络科技有限公司"
-      },
-      {
-        "key": "出品",
-        "value": "鹰角网络"
-      }
-    ],
-    "rating": {
-      "rank": 4165,
-      "total": 209,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 3,
-        "5": 16,
-        "6": 75,
-        "7": 102,
-        "8": 12,
-        "9": 0,
-        "10": 1
-      },
-      "score": 6.5
-    },
-    "total_episodes": 10,
-    "collection": {
-      "on_hold": 23,
-      "dropped": 22,
-      "wish": 35,
-      "collect": 296,
-      "doing": 58
-    },
-    "id": 383649,
-    "eps": 6,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+    "title": "鲤氏侦探事务所",
+    "bangumi": {
+      "date": "2022-12-23",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/db/383649_fql6o.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/db/383649_fql6o.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/03/db/383649_fql6o.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/db/383649_fql6o.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/db/383649_fql6o.jpg"
+      },
+      "summary": "龙门城中有奇人曰老鲤，自题为“鲤氏侦探”，携阿、吽和槐琥三人居于幽巷，终日毕力排解四邻之难，或跑腿探事，或斡旋左右，所遇奇异之事繁多，此处取几件书以原委，兹以佐酒下饭。",
+      "name": "鲤氏侦探事务所",
+      "name_cn": "",
+      "tags": [
+        {
+          "name": "国产",
+          "count": 64
+        },
+        {
+          "name": "游戏改",
+          "count": 51
+        },
+        {
+          "name": "重力井动画",
+          "count": 45
+        },
+        {
+          "name": "明日方舟",
+          "count": 39
+        },
+        {
+          "name": "短片",
+          "count": 25
+        },
+        {
+          "name": "WEB",
+          "count": 22
+        },
+        {
+          "name": "2023年1月",
+          "count": 22
+        },
+        {
+          "name": "泡面番",
+          "count": 20
+        },
+        {
+          "name": "搞笑",
+          "count": 19
+        },
+        {
+          "name": "2022",
+          "count": 17
+        },
+        {
+          "name": "鹰角网络",
+          "count": 15
+        },
+        {
+          "name": "YostarPictures",
+          "count": 12
+        },
+        {
+          "name": "福瑞",
+          "count": 7
+        },
+        {
+          "name": "2022年12月",
+          "count": 6
+        },
+        {
+          "name": "2023",
+          "count": 5
+        },
+        {
+          "name": "日常",
+          "count": 5
+        },
+        {
+          "name": "国创",
+          "count": 4
+        },
+        {
+          "name": "2022年10月",
+          "count": 3
+        },
+        {
+          "name": "TV",
+          "count": 2
+        },
+        {
+          "name": "动画",
+          "count": 2
+        },
+        {
+          "name": "重力井",
+          "count": 2
+        },
+        {
+          "name": "成都风之谷",
+          "count": 1
+        },
+        {
+          "name": "杰里米",
+          "count": 1
+        },
+        {
+          "name": "SF",
+          "count": 1
+        },
+        {
+          "name": "董芳辰",
+          "count": 1
+        },
+        {
+          "name": "2023观",
+          "count": 1
+        },
+        {
+          "name": "杰里米里杰",
+          "count": 1
+        },
+        {
+          "name": "2022年",
+          "count": 1
+        },
+        {
+          "name": "合作",
+          "count": 1
+        },
+        {
+          "name": "中国",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "话数",
+          "value": "6"
+        },
+        {
+          "key": "放送开始",
+          "value": "2022年12月23日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期五"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://ak.hypergryph.com/lee"
+        },
+        {
+          "key": "企划",
+          "value": "鹰角网络、重力井动画"
+        },
+        {
+          "key": "出品人",
+          "value": "黄一峰"
+        },
+        {
+          "key": "总制片人",
+          "value": "海猫络合物"
+        },
+        {
+          "key": "监制",
+          "value": "Ametora"
+        },
+        {
+          "key": "IP总监",
+          "value": "唯@W"
+        },
+        {
+          "key": "系列构成",
+          "value": "杰里米(杰里米里杰)、董芳辰"
+        },
+        {
+          "key": "设定原案",
+          "value": "KuroBlood"
+        },
+        {
+          "key": "美术设计",
+          "value": "美术设定：麻油、Eruh、杰里米(杰里米里杰)、郭伊妮"
+        },
+        {
+          "key": "音乐制作",
+          "value": "顾忠山、Damien Banzigou"
+        },
+        {
+          "key": "音乐支持",
+          "value": "DCTAVEDGE"
+        },
+        {
+          "key": "制片人",
+          "value": "老鱼"
+        },
+        {
+          "key": "制作统筹",
+          "value": "李宇驰"
+        },
+        {
+          "key": "导演",
+          "value": "杰里米(杰里米里杰)"
+        },
+        {
+          "key": "总作画监督",
+          "value": "杰里米(杰里米里杰)"
+        },
+        {
+          "key": "脚本",
+          "value": "剧本：董芳辰、杰里米(杰里米里杰)，剧本协力：阿林、风音、贾琨帆"
+        },
+        {
+          "key": "分镜",
+          "value": "分镜：杰里米(杰里米里杰)、张峻峰、付强(傅强)(1,3-5)；片头曲片尾曲画面制作-分镜：杰里米(杰里米里杰)、张峻峰"
+        },
+        {
+          "key": "执行导演",
+          "value": "付强(傅强)"
+        },
+        {
+          "key": "动画制片人",
+          "value": "徐小敏"
+        },
+        {
+          "key": "执行制片",
+          "value": "陈曦、王子荷、吴娟、廖戎晖(1-2)、施雯伟"
+        },
+        {
+          "key": "人物设定",
+          "value": "角色设定：闫广薇、麻油、邱浩林(2)"
+        },
+        {
+          "key": "场景设定",
+          "value": "史明朗、李莉"
+        },
+        {
+          "key": "道具设定",
+          "value": "廖雷"
+        },
+        {
+          "key": "色彩设计",
+          "value": "闫广薇、廖雷、邱浩林"
+        },
+        {
+          "key": "色指定",
+          "value": "闫广薇、廖雷、邱浩林"
+        },
+        {
+          "key": "作画监督",
+          "value": "作画监督：付强(傅强)、闫广薇、罗睿、麻油；片头曲片尾曲画面制作-作画监督：付强(傅强)、闫广薇、罗睿、杰里米(杰里米里杰)"
+        },
+        {
+          "key": "设计稿",
+          "value": "设计稿：史明朗、李莉、王黎黎；片头曲片尾曲画面制作-设计稿：史明朗、李莉、王黎黎"
+        },
+        {
+          "key": "原画",
+          "value": "原画：王航(1-6)、赵睿麟(1-3,5-6)、廖俊涵(1,6)、付强(傅强)(1,5-6)、成都童心影视动画制作有限公司(1-6)、成都盛世动力文化传媒有限公司(1,4,6)、杭州神在动漫(1,4)、Eli Xiao(1,3)、胡芷怡(2-3,5-6)、高宾睿(2-3,5-6)、廖雅莹(2,5-6)、齐美贡布(2,5-6)、杜欣怡(2)、重庆百谷网合数字传媒有限公司(2,4-6)、苏州笔趣文化有限公司(4)；片头曲片尾曲画面制作-原画：廖俊涵、胡芷怡、高宾睿、王经国、廖雷、成都童心影视动画制作有限公司、重庆百谷网合数字传媒有限公司"
+        },
+        {
+          "key": "第二原画",
+          "value": "罗睿(1-2,5-6)、王经国(1-6)、王艺淼(1-3,5-6)、廖雷(1-3,5-6)、成都童心影视动画制作有限公司(1-6)、成都盛世动力文化传媒有限公司(1)、杭州神在动漫(1,4)、重庆百谷网合数字传媒有限公司(2,4-6)、胡芷怡(3-4,6)、高宾睿(3-4,6)、付强(傅强)(4)、邱浩林(4,6)、苏州笔趣文化有限公司(4)"
+        },
+        {
+          "key": "动画检查",
+          "value": "罗睿(1-2)、赖自强、朱孟男(3)"
+        },
+        {
+          "key": "补间动画",
+          "value": "动画：李威(1-2,5)、张云翔(1-2,5-6)、何金龙(1-6)、璧山区酷漫动漫设计中心(1-6)、重庆百谷网合数字传媒有限公司(1-2,4-6)、苏州工业园区图智动漫设计工作室(1,6)、李青山(2)、四川梦之达动漫有限公司(2)、刘霄蓉(4)、李娜(4)、苏州笔趣文化有限公司(4)、杭州神在动漫(4)；片头曲片尾曲画面制作-动画：赖自强、李威、张云翔、璧山区酷漫动漫设计中心"
+        },
+        {
+          "key": "色彩检查",
+          "value": "潘佳杰(1,3-6)、何巍(1,3,6)、赖自强(2,5)"
+        },
+        {
+          "key": "上色",
+          "value": "上色：刘霄蓉(1-6)、李娜(1-6)、重庆百谷网合数字传媒有限公司(1-2,4-6)、合肥板绘动漫设计有限公司(1,6)、黄琳(2)、四川梦之达动漫有限公司(2)、何金龙(4)、璧山区酷漫动漫设计中心(4)、苏州笔趣文化有限公司(4)、杭州神在动漫(4)；片头曲片尾曲画面制作-上色：潘佳杰、何巍、刘霄蓉、李娜"
+        },
+        {
+          "key": "三维片段制作-制片",
+          "value": "潘静雯(2)、陈辞渊(2)"
+        },
+        {
+          "key": "三维片段制作-美术",
+          "value": "罗凯峰(2)"
+        },
+        {
+          "key": "三维片段制作-角色模型",
+          "value": "冷劲秋(2)、万子恒(2)、刘一(2)、卓子威(2)"
+        },
+        {
+          "key": "三维片段制作-场景模型",
+          "value": "范政(2)"
+        },
+        {
+          "key": "三维片段制作-绑定",
+          "value": "马蕊(2)"
+        },
+        {
+          "key": "三维片段制作-动画",
+          "value": "徐俊洁(2)、马帅(2)"
+        },
+        {
+          "key": "三维片段制作-特效",
+          "value": "王昊城(2)"
+        },
+        {
+          "key": "三维片段制作-后期",
+          "value": "张子钧(2)、吴晓茵(2)、陆桐(2)、曹翔(2)、二锅(2)"
+        },
+        {
+          "key": "场景监督",
+          "value": "史明朗、Eruh"
+        },
+        {
+          "key": "场景绘制",
+          "value": "场景绘制：成都铭日科技有限公司(1,3-4,6)、成都市蓝水晶数码图像设计制作有限公司(2,5)、杨杰(3)；片头曲片尾曲画面制作-场景绘制：史明朗、Eruh、杨杰"
+        },
+        {
+          "key": "3D场景",
+          "value": "杨琴(1,3)、徐波(1-2,5-6)、刘懿康(1,3)、何倩(1,3)、胡逸龙(2)、成都舞之光影动漫科技有限公司(6)"
+        },
+        {
+          "key": "3D道具",
+          "value": "徐波(1-2,5-6)、成都舞之光影动漫科技有限公司(1,6)、杨琴(3)"
+        },
+        {
+          "key": "3DCGI",
+          "value": "徐波(1-3,5-6)、成都舞之光影动漫科技有限公司(1,3,6)"
+        },
+        {
+          "key": "3D协助",
+          "value": "魏乾豪(6)、赵红云(6)、迟玮良(6)、徐俊洁(6)、潘静雯(6)"
+        },
+        {
+          "key": "片头曲片尾曲画面制作-3D制作",
+          "value": "徐波"
+        },
+        {
+          "key": "摄影监督",
+          "value": "潘佳杰、罗沛楠(5)"
+        },
+        {
+          "key": "动画摄影",
+          "value": "动画摄影：二锅(1-2,4-5)、潘佳杰(1-6)、罗沛楠(1-2,4,6)、何巍(1,3,5-6)、vivell(2)、豚豚(3)、张勇(4-6)；片头曲片尾曲画面制作-动画摄影：潘佳杰、罗沛楠、何巍"
+        },
+        {
+          "key": "剪辑",
+          "value": "潘佳杰、李宇驰"
+        },
+        {
+          "key": "音乐",
+          "value": "杨光、黄健怡、Chris Trczinski、武勇恒、Alec Haavik、Nicholas McBride、赵可、Toby Mak、胡清文"
+        },
+        {
+          "key": "音效混音",
+          "value": "上海唧咪文化传播有限公司"
+        },
+        {
+          "key": "主题网页制作",
+          "value": "文案撰写：阿林，网页制作：羅馬、狐尾，素材制作：麻油、杰里米"
+        },
+        {
+          "key": "监修支持",
+          "value": "KuroBlood、Monostew、啊辽、Jell、SVK、塔库、文岸"
+        },
+        {
+          "key": "配音支持",
+          "value": "苏恺淇、朱菁婕、南光日、具根辉、ARIA、吕真一"
+        },
+        {
+          "key": "音频支持",
+          "value": "Janfansy、云翔、凯文、彼得"
+        },
+        {
+          "key": "设定·文案支持",
+          "value": "阿瓢、茅加俊、小卡"
+        },
+        {
+          "key": "校对支持",
+          "value": "石狩"
+        },
+        {
+          "key": "商务支持",
+          "value": "陈圣韵、吴映寰、张宇飞、Meiko、蒋77、沙拉、Sawyer、阿星、四石、鄢然"
+        },
+        {
+          "key": "设计支持",
+          "value": "鹰角设计三七组"
+        },
+        {
+          "key": "周边支持",
+          "value": "朝陇山"
+        },
+        {
+          "key": "法务支持",
+          "value": "高佳琪、李颖健、Fiona"
+        },
+        {
+          "key": "海外本地化",
+          "value": "丁怡丹、贾博龙、Stantan IV Thomas William、陈明慧、乔天怡、费佳迪、임웅빈、金铂、NON、冷雪煜、俞天乐"
+        },
+        {
+          "key": "海外视频制作",
+          "value": "宋娜、蔡毓锴、禾冉、海星、白雁雁"
+        },
+        {
+          "key": "动画制作",
+          "value": "重力井动画、成都风之谷网络科技有限公司"
+        },
+        {
+          "key": "出品",
+          "value": "鹰角网络"
+        }
+      ],
+      "rating": {
+        "rank": 4165,
+        "total": 209,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 3,
+          "5": 16,
+          "6": 75,
+          "7": 102,
+          "8": 12,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.5
+      },
+      "total_episodes": 10,
+      "collection": {
+        "on_hold": 23,
+        "dropped": 22,
+        "wish": 35,
+        "collect": 296,
+        "doing": 58
+      },
+      "id": 383649,
+      "eps": 6,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/34/225878_ox8Ax.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/34/225878_ox8Ax.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b5/34/225878_ox8Ax.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/34/225878_ox8Ax.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/34/225878_ox8Ax.jpg"
+          },
+          "name": "明日方舟",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 225878
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/13/326110_OEU8V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/13/326110_OEU8V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/13/326110_OEU8V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/13/326110_OEU8V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/13/326110_OEU8V.jpg"
+          },
+          "name": "Holy Knight Light",
+          "name_cn": "",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 326110
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/43/354189_Uv058.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/43/354189_Uv058.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/43/354189_Uv058.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/43/354189_Uv058.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/43/354189_Uv058.jpg"
+          },
+          "name": "可露希尔的秘密档案",
+          "name_cn": "",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 354189
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/90/354190_Sg11j.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/90/354190_Sg11j.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/90/354190_Sg11j.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/90/354190_Sg11j.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/90/354190_Sg11j.jpg"
+          },
+          "name": "アークナイツ【黎明前奏/PRELUDE TO DAWN】",
+          "name_cn": "明日方舟：黎明前奏",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 354190
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/a6/379035_p1L2p.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/a6/379035_p1L2p.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b7/a6/379035_p1L2p.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/a6/379035_p1L2p.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/a6/379035_p1L2p.jpg"
+          },
+          "name": "小刻的画图写话",
+          "name_cn": "",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 379035
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/08/414710_5K3zR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/08/414710_5K3zR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/08/414710_5K3zR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/08/414710_5K3zR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/08/414710_5K3zR.jpg"
+          },
+          "name": "《鲤氏侦探事务所》迷你剧先行短片 - Home Service",
+          "name_cn": "",
+          "relation": "前传",
+          "type": 2,
+          "id": 414710
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/89/417314_WvvAV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/89/417314_WvvAV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5f/89/417314_WvvAV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/89/417314_WvvAV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/89/417314_WvvAV.jpg"
+          },
+          "name": "鲤氏侦探事务所 动画原声带",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 417314
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/da/418660_Q84cq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/da/418660_Q84cq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ac/da/418660_Q84cq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/da/418660_Q84cq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/da/418660_Q84cq.jpg"
+          },
+          "name": "鲤氏侦探事务所OST",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 418660
+        }
+      ]
+    }
   }
 ]

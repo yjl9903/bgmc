@@ -1,548 +1,745 @@
 [
   {
-    "date": "2018-06-02",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/e2/242978_Zz4aA.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/e2/242978_Zz4aA.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/78/e2/242978_Zz4aA.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/e2/242978_Zz4aA.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/e2/242978_Zz4aA.jpg"
-    },
-    "summary": "",
-    "name": "フューチャーカード 神バディファイト",
-    "name_cn": "未来卡 神搭档对战",
-    "tags": [
-      {
-        "name": "斉藤壮馬",
-        "count": 4
+    "title": "フューチャーカード 神バディファイト",
+    "bangumi": {
+      "date": "2018-06-02",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/e2/242978_Zz4aA.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/e2/242978_Zz4aA.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/78/e2/242978_Zz4aA.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/e2/242978_Zz4aA.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/e2/242978_Zz4aA.jpg"
       },
-      {
-        "name": "XEBEC",
-        "count": 3
+      "summary": "",
+      "name": "フューチャーカード 神バディファイト",
+      "name_cn": "未来卡 神搭档对战",
+      "tags": [
+        {
+          "name": "斉藤壮馬",
+          "count": 4
+        },
+        {
+          "name": "XEBEC",
+          "count": 3
+        },
+        {
+          "name": "OLMTEAMOTA",
+          "count": 3
+        },
+        {
+          "name": "水野麻里絵",
+          "count": 3
+        },
+        {
+          "name": "2018",
+          "count": 2
+        },
+        {
+          "name": "川崎ヒロユキ",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "加戸誉夫",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "未来卡 神搭档对战"
+        },
+        {
+          "key": "话数",
+          "value": "47"
+        },
+        {
+          "key": "放送开始",
+          "value": "2018年6月2日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "播放结束",
+          "value": "2019年4月27日"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 3,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 2,
+          "7": 0,
+          "8": 1,
+          "9": 0,
+          "10": 0
+        },
+        "score": 6.7
       },
-      {
-        "name": "OLMTEAMOTA",
-        "count": 3
+      "total_episodes": 47,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 4,
+        "wish": 6,
+        "collect": 8,
+        "doing": 1
       },
-      {
-        "name": "水野麻里絵",
-        "count": 3
-      },
-      {
-        "name": "2018",
-        "count": 2
-      },
-      {
-        "name": "川崎ヒロユキ",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "加戸誉夫",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "未来卡 神搭档对战"
-      },
-      {
-        "key": "话数",
-        "value": "47"
-      },
-      {
-        "key": "放送开始",
-        "value": "2018年6月2日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期六"
-      },
-      {
-        "key": "播放结束",
-        "value": "2019年4月27日"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 3,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 2,
-        "7": 0,
-        "8": 1,
-        "9": 0,
-        "10": 0
-      },
-      "score": 6.7
-    },
-    "total_episodes": 47,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 4,
-      "wish": 6,
-      "collect": 8,
-      "doing": 1
-    },
-    "id": 242978,
-    "eps": 47,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
-  },
-  {
-    "date": "2018-06-09",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/86/223818_II9yT.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/86/223818_II9yT.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/22/86/223818_II9yT.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/86/223818_II9yT.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/86/223818_II9yT.jpg"
-    },
-    "summary": "「ピュアでまっすぐな少女たちの、恋と青春の輝きだけを詰め込んだ物語」\r\n\r\n2018年6月9日にOVAを期間限定劇場上映することが決定。",
-    "name": "あさがおと加瀬さん。",
-    "name_cn": "牵牛花与加濑同学。",
-    "tags": [
-      {
-        "name": "百合",
-        "count": 917
-      },
-      {
-        "name": "OVA",
-        "count": 571
-      },
-      {
-        "name": "剧场版",
-        "count": 372
-      },
-      {
-        "name": "2018",
-        "count": 345
-      },
-      {
-        "name": "ZEXCS",
-        "count": 327
-      },
-      {
-        "name": "恋爱",
-        "count": 297
-      },
-      {
-        "name": "漫画改",
-        "count": 281
-      },
-      {
-        "name": "校园",
-        "count": 226
-      },
-      {
-        "name": "佐藤卓哉",
-        "count": 176
-      },
-      {
-        "name": "佐仓绫音",
-        "count": 151
-      },
-      {
-        "name": "漫改",
-        "count": 146
-      },
-      {
-        "name": "青春",
-        "count": 86
-      },
-      {
-        "name": "2018年",
-        "count": 64
-      },
-      {
-        "name": "坂井久太",
-        "count": 34
-      },
-      {
-        "name": "佐倉綾音",
-        "count": 19
-      },
-      {
-        "name": "2018年6月",
-        "count": 11
-      },
-      {
-        "name": "日常",
-        "count": 9
-      },
-      {
-        "name": "高桥未奈美",
-        "count": 7
-      },
-      {
-        "name": "治愈",
-        "count": 6
-      },
-      {
-        "name": "未确定",
-        "count": 5
-      },
-      {
-        "name": "牵牛花与加濑同学。",
-        "count": 5
-      },
-      {
-        "name": "日本动画",
-        "count": 4
-      },
-      {
-        "name": "2018年10月",
-        "count": 4
-      },
-      {
-        "name": "真百合",
-        "count": 4
-      },
-      {
-        "name": "2018年11月",
-        "count": 4
-      },
-      {
-        "name": "续作",
-        "count": 4
-      },
-      {
-        "name": "甜",
-        "count": 4
-      },
-      {
-        "name": "8分",
-        "count": 3
-      },
-      {
-        "name": "10年代",
-        "count": 3
-      },
-      {
-        "name": "牵牛花与加濑同学",
-        "count": 3
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "牵牛花与加濑同学。"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Kase-san and Morning Glories."
+      "id": 242978,
+      "eps": 47,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/91/67/242454_N2E5w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/91/67/242454_N2E5w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/91/67/242454_N2E5w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/91/67/242454_N2E5w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/91/67/242454_N2E5w.jpg"
           },
-          {
-            "v": "Asagao to Kase-san."
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "发售日",
-        "value": "2018年11月21日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://asagao-anime.com"
-      },
-      {
-        "key": "其他",
-        "value": "©2018 高嶋ひろみ・新書館／「あさがおと加瀬さん。」製作委員会"
-      },
-      {
-        "key": "上映年度",
-        "value": "2018年6月9日"
-      },
-      {
-        "key": "原作",
-        "value": "高嶋ひろみ"
-      },
-      {
-        "key": "导演",
-        "value": "佐藤卓哉"
-      },
-      {
-        "key": "音乐",
-        "value": "rionos"
-      },
-      {
-        "key": "人物设定",
-        "value": "坂井久太"
-      },
-      {
-        "key": "美术监督",
-        "value": "橋本和幸"
-      },
-      {
-        "key": "色彩设计",
-        "value": "岩井田洋"
-      },
-      {
-        "key": "摄影监督",
-        "value": "口羽毅"
-      },
-      {
-        "key": "剪辑",
-        "value": "後藤正浩"
-      },
-      {
-        "key": "动画制作",
-        "value": "ZEXCS"
-      },
-      {
-        "key": "企画",
-        "value": "佐藤卓哉、坂井久太"
-      },
-      {
-        "key": "制片人",
-        "value": "寺田悠輔、熊谷文明、相島豪太、工藤雅世、新宅潔"
-      },
-      {
-        "key": "製作",
-        "value": "「あさがおと加瀬さん。」製作委員会（ポニーキャニオン、新書館、GYAO!、創通、ZEXCS）古川陽子、石川美紀、柳村努、難波秀行"
-      },
-      {
-        "key": "脚本",
-        "value": "佐藤卓哉；协力：鈴木祐哉"
-      },
-      {
-        "key": "监制",
-        "value": "伊藤裕史"
-      },
-      {
-        "key": "助理制片人",
-        "value": "中沢莉奈、松尾明子"
-      },
-      {
-        "key": "动画制片人",
-        "value": "新宅潔"
-      }
-    ],
-    "rating": {
-      "rank": 1803,
-      "total": 1985,
-      "count": {
-        "1": 1,
-        "2": 0,
-        "3": 4,
-        "4": 16,
-        "5": 71,
-        "6": 357,
-        "7": 800,
-        "8": 588,
-        "9": 91,
-        "10": 57
-      },
-      "score": 7.2
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 91,
-      "dropped": 36,
-      "wish": 978,
-      "collect": 3103,
-      "doing": 123
-    },
-    "id": 223818,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "フューチャーカード バディファイト バッツ オールスターファイト",
+          "name_cn": "未来卡搭档对战X 全明星对战",
+          "relation": "前传",
+          "type": 2,
+          "id": 242454
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/76/246433_VQ3w3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/76/246433_VQ3w3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/76/246433_VQ3w3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/76/246433_VQ3w3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/76/246433_VQ3w3.jpg"
+          },
+          "name": "二重の虹(ダブル レインボウ)／最高(さあ行こう)！",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 246433
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/d4/295844_e4bAB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/d4/295844_e4bAB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/14/d4/295844_e4bAB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/d4/295844_e4bAB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/d4/295844_e4bAB.jpg"
+          },
+          "name": "バディ☆ファニーDAYS",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 295844
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/df/295845_OIffb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/df/295845_OIffb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c3/df/295845_OIffb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/df/295845_OIffb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/df/295845_OIffb.jpg"
+          },
+          "name": "虹の約束",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 295845
+        }
+      ]
+    }
   },
   {
-    "date": "2018-06-09",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/f9/218214_fuU4h.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/f9/218214_fuU4h.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/66/f9/218214_fuU4h.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/f9/218214_fuU4h.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/f9/218214_fuU4h.jpg"
-    },
-    "summary": "",
-    "name": "曇天に笑う＜外伝＞～宿命、双頭の風魔～",
-    "name_cn": "笑对昙天 &lt;外传&gt; ～宿命、双头的风魔～",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 23
+    "title": "あさがおと加瀬さん。",
+    "bangumi": {
+      "date": "2018-06-09",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/86/223818_II9yT.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/86/223818_II9yT.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/22/86/223818_II9yT.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/86/223818_II9yT.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/86/223818_II9yT.jpg"
       },
-      {
-        "name": "WITSTUDIO",
-        "count": 10
+      "summary": "「ピュアでまっすぐな少女たちの、恋と青春の輝きだけを詰め込んだ物語」\r\n\r\n2018年6月9日にOVAを期間限定劇場上映することが決定。",
+      "name": "あさがおと加瀬さん。",
+      "name_cn": "牵牛花与加濑同学。",
+      "tags": [
+        {
+          "name": "百合",
+          "count": 917
+        },
+        {
+          "name": "OVA",
+          "count": 570
+        },
+        {
+          "name": "剧场版",
+          "count": 373
+        },
+        {
+          "name": "2018",
+          "count": 345
+        },
+        {
+          "name": "ZEXCS",
+          "count": 327
+        },
+        {
+          "name": "恋爱",
+          "count": 297
+        },
+        {
+          "name": "漫画改",
+          "count": 281
+        },
+        {
+          "name": "校园",
+          "count": 226
+        },
+        {
+          "name": "佐藤卓哉",
+          "count": 176
+        },
+        {
+          "name": "佐仓绫音",
+          "count": 151
+        },
+        {
+          "name": "漫改",
+          "count": 146
+        },
+        {
+          "name": "青春",
+          "count": 86
+        },
+        {
+          "name": "2018年",
+          "count": 64
+        },
+        {
+          "name": "坂井久太",
+          "count": 34
+        },
+        {
+          "name": "佐倉綾音",
+          "count": 19
+        },
+        {
+          "name": "2018年6月",
+          "count": 11
+        },
+        {
+          "name": "日常",
+          "count": 9
+        },
+        {
+          "name": "高桥未奈美",
+          "count": 7
+        },
+        {
+          "name": "治愈",
+          "count": 6
+        },
+        {
+          "name": "未确定",
+          "count": 5
+        },
+        {
+          "name": "牵牛花与加濑同学。",
+          "count": 5
+        },
+        {
+          "name": "日本动画",
+          "count": 4
+        },
+        {
+          "name": "2018年10月",
+          "count": 4
+        },
+        {
+          "name": "真百合",
+          "count": 4
+        },
+        {
+          "name": "2018年11月",
+          "count": 4
+        },
+        {
+          "name": "续作",
+          "count": 4
+        },
+        {
+          "name": "甜",
+          "count": 4
+        },
+        {
+          "name": "8分",
+          "count": 3
+        },
+        {
+          "name": "10年代",
+          "count": 3
+        },
+        {
+          "name": "牵牛花与加濑同学",
+          "count": 3
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "牵牛花与加濑同学。"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Kase-san and Morning Glories."
+            },
+            {
+              "v": "Asagao to Kase-san."
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "2018年11月21日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://asagao-anime.com"
+        },
+        {
+          "key": "其他",
+          "value": "©2018 高嶋ひろみ・新書館／「あさがおと加瀬さん。」製作委員会"
+        },
+        {
+          "key": "上映年度",
+          "value": "2018年6月9日"
+        },
+        {
+          "key": "原作",
+          "value": "高嶋ひろみ"
+        },
+        {
+          "key": "导演",
+          "value": "佐藤卓哉"
+        },
+        {
+          "key": "音乐",
+          "value": "rionos"
+        },
+        {
+          "key": "人物设定",
+          "value": "坂井久太"
+        },
+        {
+          "key": "美术监督",
+          "value": "橋本和幸"
+        },
+        {
+          "key": "色彩设计",
+          "value": "岩井田洋"
+        },
+        {
+          "key": "摄影监督",
+          "value": "口羽毅"
+        },
+        {
+          "key": "剪辑",
+          "value": "後藤正浩"
+        },
+        {
+          "key": "动画制作",
+          "value": "ZEXCS"
+        },
+        {
+          "key": "企画",
+          "value": "佐藤卓哉、坂井久太"
+        },
+        {
+          "key": "制片人",
+          "value": "寺田悠輔、熊谷文明、相島豪太、工藤雅世、新宅潔"
+        },
+        {
+          "key": "製作",
+          "value": "「あさがおと加瀬さん。」製作委員会（ポニーキャニオン、新書館、GYAO!、創通、ZEXCS）古川陽子、石川美紀、柳村努、難波秀行"
+        },
+        {
+          "key": "脚本",
+          "value": "佐藤卓哉；协力：鈴木祐哉"
+        },
+        {
+          "key": "监制",
+          "value": "伊藤裕史"
+        },
+        {
+          "key": "助理制片人",
+          "value": "中沢莉奈、松尾明子"
+        },
+        {
+          "key": "动画制片人",
+          "value": "新宅潔"
+        }
+      ],
+      "rating": {
+        "rank": 1778,
+        "total": 1985,
+        "count": {
+          "1": 1,
+          "2": 0,
+          "3": 4,
+          "4": 16,
+          "5": 71,
+          "6": 357,
+          "7": 800,
+          "8": 588,
+          "9": 91,
+          "10": 57
+        },
+        "score": 7.2
       },
-      {
-        "name": "漫画改",
-        "count": 7
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 91,
+        "dropped": 36,
+        "wish": 980,
+        "collect": 3103,
+        "doing": 123
       },
-      {
-        "name": "笑对阴天",
-        "count": 6
+      "id": 223818,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/6a/122272_Z0zJw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/6a/122272_Z0zJw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0c/6a/122272_Z0zJw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/6a/122272_Z0zJw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/6a/122272_Z0zJw.jpg"
+          },
+          "name": "加瀬さんシリーズ",
+          "name_cn": "XXX与加濑同学",
+          "relation": "书籍",
+          "type": 1,
+          "id": 122272
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/4f/211882_jjJJ7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/4f/211882_jjJJ7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a7/4f/211882_jjJJ7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/4f/211882_jjJJ7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/4f/211882_jjJJ7.jpg"
+          },
+          "name": "キミノヒカリ~あさがおと加瀬さん。~",
+          "name_cn": "你的光芒~牵牛花与加濑同学~",
+          "relation": "前传",
+          "type": 2,
+          "id": 211882
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/a3/243143_1aGTC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/a3/243143_1aGTC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e2/a3/243143_1aGTC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/a3/243143_1aGTC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/a3/243143_1aGTC.jpg"
+          },
+          "name": "「あさがおと加瀬さん。」カバーソング＆オーディオドラマアルバム",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 243143
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/7e/243144_6ZxI9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/7e/243144_6ZxI9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/28/7e/243144_6ZxI9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/7e/243144_6ZxI9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/7e/243144_6ZxI9.jpg"
+          },
+          "name": "「あさがおと加瀬さん。」オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 243144
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/4c/243145_O8DSW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/4c/243145_O8DSW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6d/4c/243145_O8DSW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/4c/243145_O8DSW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/4c/243145_O8DSW.jpg"
+          },
+          "name": "明日への扉",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 243145
+        }
+      ]
+    }
+  },
+  {
+    "title": "曇天に笑う＜外伝＞～宿命、双頭の風魔～",
+    "bangumi": {
+      "date": "2018-06-09",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/f9/218214_fuU4h.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/f9/218214_fuU4h.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/66/f9/218214_fuU4h.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/f9/218214_fuU4h.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/f9/218214_fuU4h.jpg"
       },
-      {
-        "name": "2018",
-        "count": 6
+      "summary": "",
+      "name": "曇天に笑う＜外伝＞～宿命、双頭の風魔～",
+      "name_cn": "笑对昙天 &lt;外传&gt; ～宿命、双头的风魔～",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 23
+        },
+        {
+          "name": "WITSTUDIO",
+          "count": 10
+        },
+        {
+          "name": "漫画改",
+          "count": 7
+        },
+        {
+          "name": "笑对阴天",
+          "count": 6
+        },
+        {
+          "name": "2018",
+          "count": 6
+        },
+        {
+          "name": "奇幻",
+          "count": 5
+        },
+        {
+          "name": "梅原英司",
+          "count": 2
+        },
+        {
+          "name": "『剧场版』",
+          "count": 1
+        },
+        {
+          "name": "若野哲也",
+          "count": 1
+        },
+        {
+          "name": "剧集",
+          "count": 1
+        },
+        {
+          "name": "2018年剧场版",
+          "count": 1
+        },
+        {
+          "name": "2018春",
+          "count": 1
+        },
+        {
+          "name": "动画工房",
+          "count": 1
+        },
+        {
+          "name": "代永翼",
+          "count": 1
+        },
+        {
+          "name": "樱井孝宏",
+          "count": 1
+        },
+        {
+          "name": "垃圾",
+          "count": 1
+        },
+        {
+          "name": "日本动画",
+          "count": 1
+        },
+        {
+          "name": "日本",
+          "count": 1
+        },
+        {
+          "name": "女性向",
+          "count": 1
+        },
+        {
+          "name": "梶裕貴",
+          "count": 1
+        },
+        {
+          "name": "津田健次郎",
+          "count": 1
+        },
+        {
+          "name": "和风",
+          "count": 1
+        },
+        {
+          "name": "中村悠一",
+          "count": 1
+        },
+        {
+          "name": "漫改",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "笑对昙天 &lt;外传&gt; ～宿命、双头的风魔～"
+        },
+        {
+          "key": "上映年度",
+          "value": "2018年6月9日"
+        },
+        {
+          "key": "片长",
+          "value": "60min"
+        },
+        {
+          "key": "原作",
+          "value": "唐々煙「曇天に笑う＜外伝＞」（マッグガーデン刊）"
+        },
+        {
+          "key": "配给",
+          "value": "松竹メディア事業部"
+        },
+        {
+          "key": "製作",
+          "value": "松竹／Production I.G／木下グループ"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 24,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 1,
+          "4": 3,
+          "5": 2,
+          "6": 6,
+          "7": 5,
+          "8": 6,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.4
       },
-      {
-        "name": "奇幻",
-        "count": 5
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 7,
+        "wish": 31,
+        "collect": 57,
+        "doing": 3
       },
-      {
-        "name": "梅原英司",
-        "count": 2
-      },
-      {
-        "name": "『剧场版』",
-        "count": 1
-      },
-      {
-        "name": "若野哲也",
-        "count": 1
-      },
-      {
-        "name": "剧集",
-        "count": 1
-      },
-      {
-        "name": "2018年剧场版",
-        "count": 1
-      },
-      {
-        "name": "2018春",
-        "count": 1
-      },
-      {
-        "name": "动画工房",
-        "count": 1
-      },
-      {
-        "name": "代永翼",
-        "count": 1
-      },
-      {
-        "name": "樱井孝宏",
-        "count": 1
-      },
-      {
-        "name": "垃圾",
-        "count": 1
-      },
-      {
-        "name": "日本动画",
-        "count": 1
-      },
-      {
-        "name": "日本",
-        "count": 1
-      },
-      {
-        "name": "女性向",
-        "count": 1
-      },
-      {
-        "name": "梶裕貴",
-        "count": 1
-      },
-      {
-        "name": "津田健次郎",
-        "count": 1
-      },
-      {
-        "name": "和风",
-        "count": 1
-      },
-      {
-        "name": "中村悠一",
-        "count": 1
-      },
-      {
-        "name": "漫改",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "笑对昙天 &lt;外传&gt; ～宿命、双头的风魔～"
-      },
-      {
-        "key": "上映年度",
-        "value": "2018年6月9日"
-      },
-      {
-        "key": "片长",
-        "value": "60min"
-      },
-      {
-        "key": "原作",
-        "value": "唐々煙「曇天に笑う＜外伝＞」（マッグガーデン刊）"
-      },
-      {
-        "key": "配给",
-        "value": "松竹メディア事業部"
-      },
-      {
-        "key": "製作",
-        "value": "松竹／Production I.G／木下グループ"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 24,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 1,
-        "4": 3,
-        "5": 2,
-        "6": 6,
-        "7": 5,
-        "8": 6,
-        "9": 0,
-        "10": 1
-      },
-      "score": 6.4
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 7,
-      "wish": 31,
-      "collect": 57,
-      "doing": 3
-    },
-    "id": 218214,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 218214,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/8e/104183_27Q2J.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/8e/104183_27Q2J.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/8e/104183_27Q2J.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/8e/104183_27Q2J.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/8e/104183_27Q2J.jpg"
+          },
+          "name": "曇天に笑う 外伝",
+          "name_cn": "笑对昙天 外传",
+          "relation": "书籍",
+          "type": 1,
+          "id": 104183
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/5c/211142_h88Mo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/5c/211142_h88Mo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a4/5c/211142_h88Mo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/5c/211142_h88Mo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/5c/211142_h88Mo.jpg"
+          },
+          "name": "曇天に笑う＜外伝＞～決別、犲の誓い～",
+          "name_cn": "笑对昙天 &lt;外传&gt; ～诀别、豺的誓言～",
+          "relation": "前传",
+          "type": 2,
+          "id": 211142
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/80/218215_C38wF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/80/218215_C38wF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/48/80/218215_C38wF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/48/80/218215_C38wF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/80/218215_C38wF.jpg"
+          },
+          "name": "曇天に笑う＜外伝＞ ～桜華、天望の架橋～",
+          "name_cn": "笑对昙天 &lt;外传&gt;～樱华、天望的架桥～",
+          "relation": "续集",
+          "type": 2,
+          "id": 218215
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/dd/258797_ZbBFX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/dd/258797_ZbBFX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/dd/258797_ZbBFX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/dd/258797_ZbBFX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/dd/258797_ZbBFX.jpg"
+          },
+          "name": "ODSアニメ「曇天に笑う&lt;外伝&gt;」オリジナル・サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 258797
+        }
+      ]
+    }
   }
 ]

@@ -1,535 +1,886 @@
 [
   {
-    "date": "1975-04-04",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/65/30170_8Pw2R.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/65/30170_8Pw2R.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/37/65/30170_8Pw2R.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/65/30170_8Pw2R.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/65/30170_8Pw2R.jpg"
-    },
-    "summary": "　　从长眠中的苏醒的妖魔帝国为征服地面世界出来了。继承了古代雾帝国血统的响洸（ひびき洸），召唤出雾帝国的守护神“莱汀”与化石兽对抗。",
-    "name": "勇者ライディーン",
-    "name_cn": "勇者莱汀",
-    "tags": [
-      {
-        "name": "富野由悠季",
-        "count": 10
+    "title": "勇者ライディーン",
+    "bangumi": {
+      "date": "1975-04-04",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/65/30170_8Pw2R.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/65/30170_8Pw2R.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/37/65/30170_8Pw2R.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/65/30170_8Pw2R.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/65/30170_8Pw2R.jpg"
       },
-      {
-        "name": "TV",
-        "count": 8
+      "summary": "　　从长眠中的苏醒的妖魔帝国为征服地面世界出来了。继承了古代雾帝国血统的响洸（ひびき洸），召唤出雾帝国的守护神“莱汀”与化石兽对抗。",
+      "name": "勇者ライディーン",
+      "name_cn": "勇者莱汀",
+      "tags": [
+        {
+          "name": "富野由悠季",
+          "count": 10
+        },
+        {
+          "name": "TV",
+          "count": 8
+        },
+        {
+          "name": "萝卜",
+          "count": 8
+        },
+        {
+          "name": "1975",
+          "count": 6
+        },
+        {
+          "name": "勇者莱汀",
+          "count": 6
+        },
+        {
+          "name": "SUNRISE",
+          "count": 5
+        },
+        {
+          "name": "長浜忠夫",
+          "count": 4
+        },
+        {
+          "name": "长滨忠夫",
+          "count": 4
+        },
+        {
+          "name": "神谷明",
+          "count": 2
+        },
+        {
+          "name": "机战登场作",
+          "count": 2
+        },
+        {
+          "name": "サンライズ",
+          "count": 2
+        },
+        {
+          "name": "日本动画",
+          "count": 2
+        },
+        {
+          "name": "五武冬史",
+          "count": 2
+        },
+        {
+          "name": "井上真樹夫",
+          "count": 1
+        },
+        {
+          "name": "70",
+          "count": 1
+        },
+        {
+          "name": "远古番",
+          "count": 1
+        },
+        {
+          "name": "創映社",
+          "count": 1
+        },
+        {
+          "name": "bot",
+          "count": 1
+        },
+        {
+          "name": "ロボットアニメ",
+          "count": 1
+        },
+        {
+          "name": "安彦良和",
+          "count": 1
+        },
+        {
+          "name": "原创",
+          "count": 1
+        },
+        {
+          "name": "超级系",
+          "count": 1
+        },
+        {
+          "name": "机甲",
+          "count": 1
+        },
+        {
+          "name": "黑科技",
+          "count": 1
+        },
+        {
+          "name": "1975年",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "robo",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "勇者莱汀"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "勇者雷登"
+            },
+            {
+              "v": "勇者雷汀"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "50"
+        },
+        {
+          "key": "放送开始",
+          "value": "1975年4月4日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期五"
+        },
+        {
+          "key": "播放电视台",
+          "value": "NETテレビ（現・テレビ朝日）"
+        },
+        {
+          "key": "其他电视台",
+          "value": "朝日放送；ウルトラマンレオ"
+        },
+        {
+          "key": "播放结束",
+          "value": "1976年3月26日"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 15,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 0,
+          "6": 5,
+          "7": 5,
+          "8": 3,
+          "9": 0,
+          "10": 1
+        },
+        "score": 6.9
       },
-      {
-        "name": "萝卜",
-        "count": 8
+      "total_episodes": 50,
+      "collection": {
+        "on_hold": 8,
+        "dropped": 9,
+        "wish": 59,
+        "collect": 26,
+        "doing": 3
       },
-      {
-        "name": "1975",
-        "count": 6
-      },
-      {
-        "name": "勇者莱汀",
-        "count": 6
-      },
-      {
-        "name": "SUNRISE",
-        "count": 5
-      },
-      {
-        "name": "長浜忠夫",
-        "count": 4
-      },
-      {
-        "name": "长滨忠夫",
-        "count": 4
-      },
-      {
-        "name": "神谷明",
-        "count": 2
-      },
-      {
-        "name": "机战登场作",
-        "count": 2
-      },
-      {
-        "name": "サンライズ",
-        "count": 2
-      },
-      {
-        "name": "日本动画",
-        "count": 2
-      },
-      {
-        "name": "五武冬史",
-        "count": 2
-      },
-      {
-        "name": "井上真樹夫",
-        "count": 1
-      },
-      {
-        "name": "70",
-        "count": 1
-      },
-      {
-        "name": "远古番",
-        "count": 1
-      },
-      {
-        "name": "創映社",
-        "count": 1
-      },
-      {
-        "name": "bot",
-        "count": 1
-      },
-      {
-        "name": "ロボットアニメ",
-        "count": 1
-      },
-      {
-        "name": "安彦良和",
-        "count": 1
-      },
-      {
-        "name": "原创",
-        "count": 1
-      },
-      {
-        "name": "超级系",
-        "count": 1
-      },
-      {
-        "name": "机甲",
-        "count": 1
-      },
-      {
-        "name": "黑科技",
-        "count": 1
-      },
-      {
-        "name": "1975年",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "robo",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "勇者莱汀"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "勇者雷登"
+      "id": 30170,
+      "eps": 50,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/e9/208855_sW9T9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/e9/208855_sW9T9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/e9/208855_sW9T9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/e9/208855_sW9T9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/e9/208855_sW9T9.jpg"
           },
-          {
-            "v": "勇者雷汀"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "50"
-      },
-      {
-        "key": "放送开始",
-        "value": "1975年4月4日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期五"
-      },
-      {
-        "key": "播放电视台",
-        "value": "NETテレビ（現・テレビ朝日）"
-      },
-      {
-        "key": "其他电视台",
-        "value": "朝日放送；ウルトラマンレオ"
-      },
-      {
-        "key": "播放结束",
-        "value": "1976年3月26日"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 15,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 1,
-        "5": 0,
-        "6": 5,
-        "7": 5,
-        "8": 3,
-        "9": 0,
-        "10": 1
-      },
-      "score": 6.9
-    },
-    "total_episodes": 50,
-    "collection": {
-      "on_hold": 8,
-      "dropped": 9,
-      "wish": 59,
-      "collect": 26,
-      "doing": 3
-    },
-    "id": 30170,
-    "eps": 50,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "スーパーロボット大戦COMPACT2 第2部:宇宙激震篇",
+          "name_cn": "超级机器人大战COMPACT2 宇宙激震篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208855
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/a2/391873_17RPU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/a2/391873_17RPU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1f/a2/391873_17RPU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1f/a2/391873_17RPU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/a2/391873_17RPU.jpg"
+          },
+          "name": "スーパーロボット大戦Card Chronicle",
+          "name_cn": "超级机器人大战Card Chronicle",
+          "relation": "游戏",
+          "type": 4,
+          "id": 391873
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/ad/339381_J0PBA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/ad/339381_J0PBA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/49/ad/339381_J0PBA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/ad/339381_J0PBA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/ad/339381_J0PBA.jpg"
+          },
+          "name": "スーパーロボット大戦Scramble Commander the 2nd",
+          "name_cn": "超级机器人大战：特勤司令官2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 339381
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/9c/339375_kNuai.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/9c/339375_kNuai.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/30/9c/339375_kNuai.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/9c/339375_kNuai.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/9c/339375_kNuai.jpg"
+          },
+          "name": "スーパーロボット大戦Scramble Commander",
+          "name_cn": "超级机器人大战：特勤司令官",
+          "relation": "游戏",
+          "type": 4,
+          "id": 339375
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/4c/325936_5kjS4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/4c/325936_5kjS4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/4c/325936_5kjS4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/4c/325936_5kjS4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/4c/325936_5kjS4.jpg"
+          },
+          "name": "新スーパーロボット大戦",
+          "name_cn": "新超级机器人大战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 325936
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/0f/325934_8BD16.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/0f/325934_8BD16.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0c/0f/325934_8BD16.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/0f/325934_8BD16.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/0f/325934_8BD16.jpg"
+          },
+          "name": "スーパーロボット大戦コンプリートボックス",
+          "name_cn": "超级机器人大战Complete Box",
+          "relation": "游戏",
+          "type": 4,
+          "id": 325934
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/b6/261047_45gi7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/b6/261047_45gi7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/02/b6/261047_45gi7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/b6/261047_45gi7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/b6/261047_45gi7.jpg"
+          },
+          "name": "第4次スーパーロボット大戦",
+          "name_cn": "第4次超级机器人大战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 261047
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/ca/261045_eId7i.jpg"
+          },
+          "name": "第3次スーパーロボット大戦",
+          "name_cn": "第3次超级机器人大战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 261045
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/a2/216358_4mZHY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/a2/216358_4mZHY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ec/a2/216358_4mZHY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/a2/216358_4mZHY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/a2/216358_4mZHY.jpg"
+          },
+          "name": "勇者ライディーン / おれは洸だ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 216358
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/75/208856_9bZD8.jpg"
+          },
+          "name": "スーパーロボット大戦COMPACT2 第3部:銀河決戦篇",
+          "name_cn": "超级机器人大战COMPACT2 银河决战篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208856
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/e5/11876_bkkNz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/e5/11876_bkkNz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a8/e5/11876_bkkNz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/e5/11876_bkkNz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/e5/11876_bkkNz.jpg"
+          },
+          "name": "REIDEEN",
+          "name_cn": "新勇者莱汀",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 11876
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/2d/208854_5yr0L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/2d/208854_5yr0L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/2d/208854_5yr0L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/2d/208854_5yr0L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/2d/208854_5yr0L.jpg"
+          },
+          "name": "スーパーロボット大戦COMPACT2 第1部:地上激動篇",
+          "name_cn": "超级机器人大战COMPACT2 地上激动篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208854
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
+          },
+          "name": "スーパーロボット大戦COMPACT",
+          "name_cn": "超级机器人大战COMPACT",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208853
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/4a/98593_kJQ7G.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/4a/98593_kJQ7G.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/08/4a/98593_kJQ7G.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/4a/98593_kJQ7G.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/4a/98593_kJQ7G.jpg"
+          },
+          "name": "スーパーロボット大戦IMPACT",
+          "name_cn": "超级机器人大战Impact",
+          "relation": "游戏",
+          "type": 4,
+          "id": 98593
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/dd/48842_wX2wx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/dd/48842_wX2wx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/04/dd/48842_wX2wx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/dd/48842_wX2wx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/dd/48842_wX2wx.jpg"
+          },
+          "name": "スーパーロボット大戦α外伝",
+          "name_cn": "超级机器人大战α外传",
+          "relation": "游戏",
+          "type": 4,
+          "id": 48842
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/09/37194_D2IHw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/09/37194_D2IHw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/09/37194_D2IHw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/09/37194_D2IHw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/09/37194_D2IHw.jpg"
+          },
+          "name": "超者ライディーン",
+          "name_cn": "超者莱汀",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 37194
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/40/20202_5DRMB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/40/20202_5DRMB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e2/40/20202_5DRMB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/40/20202_5DRMB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/40/20202_5DRMB.jpg"
+          },
+          "name": "第3次スーパーロボット大戦α 終焉の銀河へ",
+          "name_cn": "第3次超级机器人大战α 去往终焉的银河",
+          "relation": "游戏",
+          "type": 4,
+          "id": 20202
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/ac/20186_9a3Z5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/ac/20186_9a3Z5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/12/ac/20186_9a3Z5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/ac/20186_9a3Z5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/ac/20186_9a3Z5.jpg"
+          },
+          "name": "スーパーロボット大戦MX",
+          "name_cn": "超级机器人大战MX",
+          "relation": "游戏",
+          "type": 4,
+          "id": 20186
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/26/17041_1QqSC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/26/17041_1QqSC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/94/26/17041_1QqSC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/26/17041_1QqSC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/26/17041_1QqSC.jpg"
+          },
+          "name": "スーパーロボット大戦α",
+          "name_cn": "超级机器人大战α",
+          "relation": "游戏",
+          "type": 4,
+          "id": 17041
+        }
+      ]
+    }
   },
   {
-    "date": "1975-04-05",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/b0/165789_S9qNJ.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/b0/165789_S9qNJ.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/56/b0/165789_S9qNJ.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/b0/165789_S9qNJ.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/b0/165789_S9qNJ.jpg"
-    },
-    "summary": "後楽園スタヂアム（現・株式会社東京ドーム）が運営する後楽園ゆうえんち（現・東京ドームシティアトラクションズ）が企画・協賛した、後楽園ゆうえんちのマスコットキャラクター「ドン・チャック」を主人公とするアニメーション作品。オープニングのアニメーションも当時の後楽園ゆうえんちをモチーフにしたもので、また遊園地の園具にもドン・チャックのキャラクターがペインティングされていた。\r\n\r\n物語は、ザワザワ森の中心を流れるジャブジャブ川に住むビーバーのチャックが、そこに住む森の動物たちとの友情を深め、成長していく様を描いたもの。\r\n\r\n1980年代にはテレビ東京で毎年のように再放送され、2004年にはアニメ専門チャンネルのAT-Xにて放送された。2012年に第1期・全26話のDVDがラインコミュニケーションズより発売され、その後、新ドンチャック物語として２期分が発売。全話がソフト化された。",
-    "name": "ドン・チャック物語",
-    "name_cn": "父子情深",
-    "tags": [
-      {
-        "name": "TV",
-        "count": 2
+    "title": "ドン・チャック物語",
+    "bangumi": {
+      "date": "1975-04-05",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/b0/165789_S9qNJ.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/b0/165789_S9qNJ.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/56/b0/165789_S9qNJ.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/b0/165789_S9qNJ.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/b0/165789_S9qNJ.jpg"
       },
-      {
-        "name": "1975",
-        "count": 2
+      "summary": "後楽園スタヂアム（現・株式会社東京ドーム）が運営する後楽園ゆうえんち（現・東京ドームシティアトラクションズ）が企画・協賛した、後楽園ゆうえんちのマスコットキャラクター「ドン・チャック」を主人公とするアニメーション作品。オープニングのアニメーションも当時の後楽園ゆうえんちをモチーフにしたもので、また遊園地の園具にもドン・チャックのキャラクターがペインティングされていた。\r\n\r\n物語は、ザワザワ森の中心を流れるジャブジャブ川に住むビーバーのチャックが、そこに住む森の動物たちとの友情を深め、成長していく様を描いたもの。\r\n\r\n1980年代にはテレビ東京で毎年のように再放送され、2004年にはアニメ専門チャンネルのAT-Xにて放送された。2012年に第1期・全26話のDVDがラインコミュニケーションズより発売され、その後、新ドンチャック物語として２期分が発売。全話がソフト化された。",
+      "name": "ドン・チャック物語",
+      "name_cn": "父子情深",
+      "tags": [
+        {
+          "name": "TV",
+          "count": 2
+        },
+        {
+          "name": "1975",
+          "count": 2
+        },
+        {
+          "name": "赛璐珞",
+          "count": 1
+        },
+        {
+          "name": "旧物",
+          "count": 1
+        },
+        {
+          "name": "1975年4月",
+          "count": 1
+        },
+        {
+          "name": "1975年",
+          "count": 1
+        },
+        {
+          "name": "1975年四月番",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "父子情深"
+        },
+        {
+          "key": "话数",
+          "value": "26"
+        },
+        {
+          "key": "放送开始",
+          "value": "1975年4月5日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "播放结束",
+          "value": "1975年9月27日"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 0,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 0,
+          "7": 0,
+          "8": 0,
+          "9": 0,
+          "10": 0
+        },
+        "score": 0
       },
-      {
-        "name": "赛璐珞",
-        "count": 1
+      "total_episodes": 26,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 4,
+        "wish": 4,
+        "collect": 1,
+        "doing": 1
       },
-      {
-        "name": "旧物",
-        "count": 1
-      },
-      {
-        "name": "1975年4月",
-        "count": 1
-      },
-      {
-        "name": "1975年",
-        "count": 1
-      },
-      {
-        "name": "1975年四月番",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "父子情深"
-      },
-      {
-        "key": "话数",
-        "value": "26"
-      },
-      {
-        "key": "放送开始",
-        "value": "1975年4月5日"
-      },
-      {
-        "key": "放送星期",
-        "value": "星期六"
-      },
-      {
-        "key": "播放结束",
-        "value": "1975年9月27日"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 0,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0,
-        "7": 0,
-        "8": 0,
-        "9": 0,
-        "10": 0
-      },
-      "score": 0
-    },
-    "total_episodes": 26,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 4,
-      "wish": 4,
-      "collect": 1,
-      "doing": 1
-    },
-    "id": 165789,
-    "eps": 26,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 165789,
+      "eps": 26,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/14/165790_T8Uva.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/14/165790_T8Uva.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6f/14/165790_T8Uva.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/14/165790_T8Uva.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/14/165790_T8Uva.jpg"
+          },
+          "name": "新ドン・チャック物語",
+          "name_cn": "新父子情深",
+          "relation": "续集",
+          "type": 2,
+          "id": 165790
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/26/448687_91vLt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/20/26/448687_91vLt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/20/26/448687_91vLt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/20/26/448687_91vLt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/20/26/448687_91vLt.jpg"
+          },
+          "name": "ドン・チャックといっしょに / 夢見るドン・チャック",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 448687
+        }
+      ]
+    }
   },
   {
-    "date": "1975-04-17",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/88/10397_J4Pdf.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/88/10397_J4Pdf.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/76/88/10397_J4Pdf.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/88/10397_J4Pdf.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/88/10397_J4Pdf.jpg"
-    },
-    "summary": "海をひと目見ようと、親友のボーボとともに川を下る頑張り屋のネズミ・ガンバ。ついにたどり着いた港の倉庫でネズミたちのパーティに参加していると、そこへボロボロに傷ついた子ネズミの忠太が助けを求め転がり込んできた。忠太たちが住む島が強大で残虐な白イタチ・ノロイに滅ぼされかけているというのだ。一念発起したガンバは、力自慢のヨイショや博学のガクシャら6匹のネズミたちとともに、一路ノロイ島を目指す。",
-    "name": "ガンバの冒険",
-    "name_cn": "刚巴的冒险",
-    "tags": [
-      {
-        "name": "TV",
-        "count": 21
+    "title": "ガンバの冒険",
+    "bangumi": {
+      "date": "1975-04-17",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/88/10397_J4Pdf.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/88/10397_J4Pdf.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/76/88/10397_J4Pdf.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/88/10397_J4Pdf.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/88/10397_J4Pdf.jpg"
       },
-      {
-        "name": "出﨑統",
-        "count": 20
+      "summary": "海をひと目見ようと、親友のボーボとともに川を下る頑張り屋のネズミ・ガンバ。ついにたどり着いた港の倉庫でネズミたちのパーティに参加していると、そこへボロボロに傷ついた子ネズミの忠太が助けを求め転がり込んできた。忠太たちが住む島が強大で残虐な白イタチ・ノロイに滅ぼされかけているというのだ。一念発起したガンバは、力自慢のヨイショや博学のガクシャら6匹のネズミたちとともに、一路ノロイ島を目指す。",
+      "name": "ガンバの冒険",
+      "name_cn": "刚巴的冒险",
+      "tags": [
+        {
+          "name": "TV",
+          "count": 21
+        },
+        {
+          "name": "出﨑統",
+          "count": 20
+        },
+        {
+          "name": "1975",
+          "count": 15
+        },
+        {
+          "name": "小林七郎",
+          "count": 11
+        },
+        {
+          "name": "东京movie",
+          "count": 9
+        },
+        {
+          "name": "出崎统",
+          "count": 7
+        },
+        {
+          "name": "赛璐珞",
+          "count": 6
+        },
+        {
+          "name": "芝山努",
+          "count": 6
+        },
+        {
+          "name": "日本动画",
+          "count": 4
+        },
+        {
+          "name": "生肉",
+          "count": 2
+        },
+        {
+          "name": "小说改",
+          "count": 2
+        },
+        {
+          "name": "可能会看",
+          "count": 1
+        },
+        {
+          "name": "小说该改",
+          "count": 1
+        },
+        {
+          "name": "水城蘭子",
+          "count": 1
+        },
+        {
+          "name": "旧物",
+          "count": 1
+        },
+        {
+          "name": "待補0",
+          "count": 1
+        },
+        {
+          "name": "飯岡順一",
+          "count": 1
+        },
+        {
+          "name": "无中文字幕",
+          "count": 1
+        },
+        {
+          "name": "1970.80",
+          "count": 1
+        },
+        {
+          "name": "大森俊治",
+          "count": 1
+        },
+        {
+          "name": "tspdt",
+          "count": 1
+        },
+        {
+          "name": "gamba",
+          "count": 1
+        },
+        {
+          "name": "YL",
+          "count": 1
+        },
+        {
+          "name": "齐藤淳夫",
+          "count": 1
+        },
+        {
+          "name": "出崎統",
+          "count": 1
+        },
+        {
+          "name": "补",
+          "count": 1
+        },
+        {
+          "name": "川尻善昭",
+          "count": 1
+        },
+        {
+          "name": "TVA",
+          "count": 1
+        },
+        {
+          "name": "TMS",
+          "count": 1
+        },
+        {
+          "name": "X",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "刚巴的冒险"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "小老鼠历险记"
+            },
+            {
+              "v": "GAMBA的冒险"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "26"
+        },
+        {
+          "key": "放送开始",
+          "value": "1975年4月17日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "日本テレビ"
+        },
+        {
+          "key": "播放结束",
+          "value": "1975年9月26日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©斉藤惇夫/岩波書店・TMS"
+        },
+        {
+          "key": "企画",
+          "value": "吉川斌"
+        },
+        {
+          "key": "脚本",
+          "value": "馬嶋満、金子裕、吉川惣司、高屋敷英夫、  大和屋竺、竹内啓雄"
+        },
+        {
+          "key": "人物设定",
+          "value": "椛島義夫"
+        },
+        {
+          "key": "作画监督",
+          "value": "椛島義夫"
+        },
+        {
+          "key": "美术监督",
+          "value": "小林七郎"
+        },
+        {
+          "key": "摄影监督",
+          "value": "清水達正、若菜章夫"
+        },
+        {
+          "key": "音乐",
+          "value": "山下毅雄"
+        },
+        {
+          "key": "制作",
+          "value": "東京ムービー"
+        },
+        {
+          "key": "系列构成",
+          "value": "飯岡順一(文芸担当)、大森俊治(文芸担当)"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 26,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 0,
+          "5": 0,
+          "6": 2,
+          "7": 5,
+          "8": 10,
+          "9": 4,
+          "10": 5
+        },
+        "score": 8.2
       },
-      {
-        "name": "1975",
-        "count": 15
+      "total_episodes": 26,
+      "collection": {
+        "on_hold": 9,
+        "dropped": 9,
+        "wish": 97,
+        "collect": 29,
+        "doing": 12
       },
-      {
-        "name": "小林七郎",
-        "count": 11
-      },
-      {
-        "name": "东京movie",
-        "count": 9
-      },
-      {
-        "name": "出崎统",
-        "count": 7
-      },
-      {
-        "name": "赛璐珞",
-        "count": 6
-      },
-      {
-        "name": "芝山努",
-        "count": 6
-      },
-      {
-        "name": "日本动画",
-        "count": 4
-      },
-      {
-        "name": "生肉",
-        "count": 2
-      },
-      {
-        "name": "小说改",
-        "count": 2
-      },
-      {
-        "name": "可能会看",
-        "count": 1
-      },
-      {
-        "name": "小说该改",
-        "count": 1
-      },
-      {
-        "name": "水城蘭子",
-        "count": 1
-      },
-      {
-        "name": "旧物",
-        "count": 1
-      },
-      {
-        "name": "待補0",
-        "count": 1
-      },
-      {
-        "name": "飯岡順一",
-        "count": 1
-      },
-      {
-        "name": "无中文字幕",
-        "count": 1
-      },
-      {
-        "name": "1970.80",
-        "count": 1
-      },
-      {
-        "name": "大森俊治",
-        "count": 1
-      },
-      {
-        "name": "tspdt",
-        "count": 1
-      },
-      {
-        "name": "gamba",
-        "count": 1
-      },
-      {
-        "name": "YL",
-        "count": 1
-      },
-      {
-        "name": "齐藤淳夫",
-        "count": 1
-      },
-      {
-        "name": "出崎統",
-        "count": 1
-      },
-      {
-        "name": "补",
-        "count": 1
-      },
-      {
-        "name": "川尻善昭",
-        "count": 1
-      },
-      {
-        "name": "TVA",
-        "count": 1
-      },
-      {
-        "name": "TMS",
-        "count": 1
-      },
-      {
-        "name": "X",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "刚巴的冒险"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "小老鼠历险记"
+      "id": 10397,
+      "eps": 26,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/18/133691_s22CE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/18/133691_s22CE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/31/18/133691_s22CE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/18/133691_s22CE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/18/133691_s22CE.jpg"
           },
-          {
-            "v": "GAMBA的冒险"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "26"
-      },
-      {
-        "key": "放送开始",
-        "value": "1975年4月17日"
-      },
-      {
-        "key": "播放电视台",
-        "value": "日本テレビ"
-      },
-      {
-        "key": "播放结束",
-        "value": "1975年9月26日"
-      },
-      {
-        "key": "Copyright",
-        "value": "©斉藤惇夫/岩波書店・TMS"
-      },
-      {
-        "key": "企画",
-        "value": "吉川斌"
-      },
-      {
-        "key": "脚本",
-        "value": "馬嶋満、金子裕、吉川惣司、高屋敷英夫、  大和屋竺、竹内啓雄"
-      },
-      {
-        "key": "人物设定",
-        "value": "椛島義夫"
-      },
-      {
-        "key": "作画监督",
-        "value": "椛島義夫"
-      },
-      {
-        "key": "美术监督",
-        "value": "小林七郎"
-      },
-      {
-        "key": "摄影监督",
-        "value": "清水達正、若菜章夫"
-      },
-      {
-        "key": "音乐",
-        "value": "山下毅雄"
-      },
-      {
-        "key": "制作",
-        "value": "東京ムービー"
-      },
-      {
-        "key": "系列构成",
-        "value": "飯岡順一(文芸担当)、大森俊治(文芸担当)"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 26,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 2,
-        "7": 5,
-        "8": 10,
-        "9": 4,
-        "10": 5
-      },
-      "score": 8.2
-    },
-    "total_episodes": 26,
-    "collection": {
-      "on_hold": 9,
-      "dropped": 9,
-      "wish": 98,
-      "collect": 29,
-      "doing": 12
-    },
-    "id": 10397,
-    "eps": 26,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+          "name": "GAMBA ガンバと仲間たち",
+          "name_cn": "刚巴与伙伴们的大冒险",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 133691
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/82/314865_fLE1l.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/82/314865_fLE1l.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c1/82/314865_fLE1l.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/82/314865_fLE1l.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/82/314865_fLE1l.jpg"
+          },
+          "name": "冒険者たち ガンバと7匹のなかま",
+          "name_cn": "GAMBA的冒险剧场版",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 314865
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/79/455895_gxDMD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/79/455895_gxDMD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ba/79/455895_gxDMD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/79/455895_gxDMD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/79/455895_gxDMD.jpg"
+          },
+          "name": "冒険者たち",
+          "name_cn": "",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 455895
+        }
+      ]
+    }
   }
 ]

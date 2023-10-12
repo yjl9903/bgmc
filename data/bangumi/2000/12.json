@@ -1,368 +1,546 @@
 [
   {
-    "date": "2000-12-21",
-    "platform": "OVA",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/f5/25919_9CndQ.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/f5/25919_9CndQ.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/c5/f5/25919_9CndQ.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/f5/25919_9CndQ.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/f5/25919_9CndQ.jpg"
-    },
-    "summary": "　　5年前の恐竜帝国の侵攻は、ゲッターロボの活躍、そして巴武蔵の犠牲によって終結。大打撃を受けた恐竜帝国はマグマ層へと追いやられた。しかし、ゲッターロボの自爆でニューヨークの街を消滅させる程の破壊力に恐れをなした国際社会からの圧力により、早乙女研究所のゲッター線関連の研究、ひいては早乙女研究所自体が活動凍結を余儀なくされる。\r\n　　だが、その一方でゲッターロボのパイロットであった神隼人らは恐竜帝国の復活を予見し、防衛組織「ネーサー」に参加、ゲッター線を使わない新たなゲッターロボ「ネオゲッターロボ」を開発。恐竜帝国の再度の来襲に備えたものの、テスト機でさえパイロットに掛かる負荷が凄まじく乗せたテストパイロットが耐えられないという欠点を抱えており、3人目・ネオゲッター1のパイロットが決まらない。\r\n　　果たして再び姿を現した恐竜帝国。そのメカザウルスが暴れる中、新たなネオゲッター1のパイロット候補として隼人が見出したのが、闇プロレスの覇者・一文字號であった…。",
-    "name": "真ゲッターロボ対ネオゲッターロボ",
-    "name_cn": "真盖塔VS新盖塔",
-    "tags": [
-      {
-        "name": "OVA",
-        "count": 50
+    "title": "真ゲッターロボ対ネオゲッターロボ",
+    "bangumi": {
+      "date": "2000-12-21",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/f5/25919_9CndQ.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/f5/25919_9CndQ.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/c5/f5/25919_9CndQ.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/f5/25919_9CndQ.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/f5/25919_9CndQ.jpg"
       },
-      {
-        "name": "萝卜",
-        "count": 29
+      "summary": "　　5年前の恐竜帝国の侵攻は、ゲッターロボの活躍、そして巴武蔵の犠牲によって終結。大打撃を受けた恐竜帝国はマグマ層へと追いやられた。しかし、ゲッターロボの自爆でニューヨークの街を消滅させる程の破壊力に恐れをなした国際社会からの圧力により、早乙女研究所のゲッター線関連の研究、ひいては早乙女研究所自体が活動凍結を余儀なくされる。\r\n　　だが、その一方でゲッターロボのパイロットであった神隼人らは恐竜帝国の復活を予見し、防衛組織「ネーサー」に参加、ゲッター線を使わない新たなゲッターロボ「ネオゲッターロボ」を開発。恐竜帝国の再度の来襲に備えたものの、テスト機でさえパイロットに掛かる負荷が凄まじく乗せたテストパイロットが耐えられないという欠点を抱えており、3人目・ネオゲッター1のパイロットが決まらない。\r\n　　果たして再び姿を現した恐竜帝国。そのメカザウルスが暴れる中、新たなネオゲッター1のパイロット候補として隼人が見出したのが、闇プロレスの覇者・一文字號であった…。",
+      "name": "真ゲッターロボ対ネオゲッターロボ",
+      "name_cn": "真盖塔VS新盖塔",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 50
+        },
+        {
+          "name": "萝卜",
+          "count": 29
+        },
+        {
+          "name": "盖塔",
+          "count": 28
+        },
+        {
+          "name": "2000",
+          "count": 21
+        },
+        {
+          "name": "BrainsBase",
+          "count": 14
+        },
+        {
+          "name": "永井豪",
+          "count": 13
+        },
+        {
+          "name": "川越淳",
+          "count": 13
+        },
+        {
+          "name": "机战",
+          "count": 10
+        },
+        {
+          "name": "Getter",
+          "count": 9
+        },
+        {
+          "name": "漫改",
+          "count": 8
+        },
+        {
+          "name": "桧山修之",
+          "count": 5
+        },
+        {
+          "name": "樱井孝宏",
+          "count": 5
+        },
+        {
+          "name": "日本动画",
+          "count": 4
+        },
+        {
+          "name": "若本规夫",
+          "count": 4
+        },
+        {
+          "name": "JAM",
+          "count": 2
+        },
+        {
+          "name": "2000年",
+          "count": 2
+        },
+        {
+          "name": "漫画改",
+          "count": 2
+        },
+        {
+          "name": "科幻",
+          "count": 2
+        },
+        {
+          "name": "藤田伸三",
+          "count": 1
+        },
+        {
+          "name": "2000年12月",
+          "count": 1
+        },
+        {
+          "name": "robo",
+          "count": 1
+        },
+        {
+          "name": "岩浪美和",
+          "count": 1
+        },
+        {
+          "name": "独立ova",
+          "count": 1
+        },
+        {
+          "name": "2000.10",
+          "count": 1
+        },
+        {
+          "name": "2000-2009",
+          "count": 1
+        },
+        {
+          "name": "OVA-01",
+          "count": 1
+        },
+        {
+          "name": "不打分",
+          "count": 1
+        },
+        {
+          "name": "2000年十月番",
+          "count": 1
+        },
+        {
+          "name": "Brain’sBase",
+          "count": 1
+        },
+        {
+          "name": "井上俊次",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "真盖塔VS新盖塔"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "真盖塔对Neo盖塔"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "4"
+        },
+        {
+          "key": "发售日",
+          "value": "2000年12月21日"
+        },
+        {
+          "key": "开始",
+          "value": "2000年12月21日"
+        },
+        {
+          "key": "结束",
+          "value": "2001年6月25日"
+        }
+      ],
+      "rating": {
+        "rank": 4824,
+        "total": 158,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 2,
+          "4": 2,
+          "5": 19,
+          "6": 68,
+          "7": 55,
+          "8": 11,
+          "9": 1,
+          "10": 0
+        },
+        "score": 6.3
       },
-      {
-        "name": "盖塔",
-        "count": 28
+      "total_episodes": 4,
+      "collection": {
+        "on_hold": 3,
+        "dropped": 14,
+        "wish": 57,
+        "collect": 223,
+        "doing": 4
       },
-      {
-        "name": "2000",
-        "count": 21
-      },
-      {
-        "name": "BrainsBase",
-        "count": 14
-      },
-      {
-        "name": "永井豪",
-        "count": 13
-      },
-      {
-        "name": "川越淳",
-        "count": 13
-      },
-      {
-        "name": "机战",
-        "count": 10
-      },
-      {
-        "name": "Getter",
-        "count": 9
-      },
-      {
-        "name": "漫改",
-        "count": 8
-      },
-      {
-        "name": "桧山修之",
-        "count": 5
-      },
-      {
-        "name": "樱井孝宏",
-        "count": 5
-      },
-      {
-        "name": "日本动画",
-        "count": 4
-      },
-      {
-        "name": "若本规夫",
-        "count": 4
-      },
-      {
-        "name": "JAM",
-        "count": 2
-      },
-      {
-        "name": "2000年",
-        "count": 2
-      },
-      {
-        "name": "漫画改",
-        "count": 2
-      },
-      {
-        "name": "科幻",
-        "count": 2
-      },
-      {
-        "name": "藤田伸三",
-        "count": 1
-      },
-      {
-        "name": "2000年12月",
-        "count": 1
-      },
-      {
-        "name": "robo",
-        "count": 1
-      },
-      {
-        "name": "岩浪美和",
-        "count": 1
-      },
-      {
-        "name": "独立ova",
-        "count": 1
-      },
-      {
-        "name": "2000.10",
-        "count": 1
-      },
-      {
-        "name": "2000-2009",
-        "count": 1
-      },
-      {
-        "name": "OVA-01",
-        "count": 1
-      },
-      {
-        "name": "不打分",
-        "count": 1
-      },
-      {
-        "name": "2000年十月番",
-        "count": 1
-      },
-      {
-        "name": "Brain’sBase",
-        "count": 1
-      },
-      {
-        "name": "井上俊次",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "真盖塔VS新盖塔"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "真盖塔对Neo盖塔"
-          }
-        ]
-      },
-      {
-        "key": "话数",
-        "value": "4"
-      },
-      {
-        "key": "发售日",
-        "value": "2000年12月21日"
-      },
-      {
-        "key": "开始",
-        "value": "2000年12月21日"
-      },
-      {
-        "key": "结束",
-        "value": "2001年6月25日"
-      }
-    ],
-    "rating": {
-      "rank": 4828,
-      "total": 158,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 2,
-        "4": 2,
-        "5": 19,
-        "6": 68,
-        "7": 55,
-        "8": 11,
-        "9": 1,
-        "10": 0
-      },
-      "score": 6.3
-    },
-    "total_episodes": 4,
-    "collection": {
-      "on_hold": 3,
-      "dropped": 14,
-      "wish": 57,
-      "collect": 223,
-      "doing": 4
-    },
-    "id": 25919,
-    "eps": 4,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 25919,
+      "eps": 4,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/5d/9677_32F3D.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/5d/9677_32F3D.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/5d/9677_32F3D.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/5d/9677_32F3D.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/5d/9677_32F3D.jpg"
+          },
+          "name": "スーパーロボット大戦R",
+          "name_cn": "超级机器人大战R",
+          "relation": "游戏",
+          "type": 4,
+          "id": 9677
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/c0/10405_H5VNQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/c0/10405_H5VNQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/76/c0/10405_H5VNQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/c0/10405_H5VNQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/c0/10405_H5VNQ.jpg"
+          },
+          "name": "ゲッターロボ",
+          "name_cn": "盖塔机器人",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 10405
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/be/25037_2cjey.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/be/25037_2cjey.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/be/25037_2cjey.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/be/25037_2cjey.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/be/25037_2cjey.jpg"
+          },
+          "name": "STORM / RISING",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 25037
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/c3/25040_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/c3/25040_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/c3/25040_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/c3/25040_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/c3/25040_jp.jpg"
+          },
+          "name": "OVA『真ゲッターロボ対ネオゲッターロボ』オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 25040
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/41/93169_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/41/93169_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/41/93169_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/41/93169_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/41/93169_jp.jpg"
+          },
+          "name": "真ゲッターロボ",
+          "name_cn": "真盖塔",
+          "relation": "书籍",
+          "type": 1,
+          "id": 93169
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/a3/161321_C62Gi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/a3/161321_C62Gi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/a3/161321_C62Gi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/a3/161321_C62Gi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/a3/161321_C62Gi.jpg"
+          },
+          "name": "ゲッターロボDEVOLUTION ~宇宙最後の3分間~",
+          "name_cn": "盖塔DEVOLUTION 宇宙最后的3分钟",
+          "relation": "书籍",
+          "type": 1,
+          "id": 161321
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/db/208857_jjJjv.jpg"
+          },
+          "name": "スーパーロボット大戦GC",
+          "name_cn": "超级机器人大战GC",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208857
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/da/208858_9v8v2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/da/208858_9v8v2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/da/208858_9v8v2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/da/208858_9v8v2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/da/208858_9v8v2.jpg"
+          },
+          "name": "スーパーロボット大戦XO",
+          "name_cn": "超级机器人大战XO",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208858
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/a2/391873_17RPU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/a2/391873_17RPU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1f/a2/391873_17RPU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1f/a2/391873_17RPU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/a2/391873_17RPU.jpg"
+          },
+          "name": "スーパーロボット大戦Card Chronicle",
+          "name_cn": "超级机器人大战Card Chronicle",
+          "relation": "游戏",
+          "type": 4,
+          "id": 391873
+        }
+      ]
+    }
   },
   {
-    "date": "2000-12-16",
-    "platform": "TV",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/0d/205296_oZEVe.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/0d/205296_oZEVe.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/36/0d/205296_oZEVe.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/36/0d/205296_oZEVe.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/36/0d/205296_oZEVe.jpg"
-    },
-    "summary": "先のTVシリーズで人気を博した『Di Gi Charat』が、季節毎の単発形式で復活したスペシャル第二弾。　\r\nでじこを始めとしたゲーマーズ関係者の面々が、なぜか豪華客船世界一周の旅に招待された。一同でひと時のゴージャス気分を堪能するものの、それはぴよこ率いるブラックゲマゲマ団の罠だった。新たに3幹部リク・カイ・クウも参戦し、でじこ絶体絶命！　……かと思いきや、ぴよこに負けず劣らずおまぬけなノリの彼らを相手に、いつしか状況はクリスマスプレゼントを巡っての家族愛を競う争いとなって？　\r\nシリーズ初の、30分からなる長編ストーリーが展開。先にドラマCDで出演していた美少年3幹部「P・K・O」がアニメ版にて初登場したことで、より賑やかな内容に。",
-    "name": "Di Gi Charat クリスマススペシャル",
-    "name_cn": "Di Gi Charat 圣诞特别篇",
-    "tags": [
-      {
-        "name": "OVA",
-        "count": 15
+    "title": "Di Gi Charat クリスマススペシャル",
+    "bangumi": {
+      "date": "2000-12-16",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/0d/205296_oZEVe.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/0d/205296_oZEVe.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/36/0d/205296_oZEVe.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/36/0d/205296_oZEVe.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/36/0d/205296_oZEVe.jpg"
       },
-      {
-        "name": "2000",
-        "count": 11
+      "summary": "先のTVシリーズで人気を博した『Di Gi Charat』が、季節毎の単発形式で復活したスペシャル第二弾。　\r\nでじこを始めとしたゲーマーズ関係者の面々が、なぜか豪華客船世界一周の旅に招待された。一同でひと時のゴージャス気分を堪能するものの、それはぴよこ率いるブラックゲマゲマ団の罠だった。新たに3幹部リク・カイ・クウも参戦し、でじこ絶体絶命！　……かと思いきや、ぴよこに負けず劣らずおまぬけなノリの彼らを相手に、いつしか状況はクリスマスプレゼントを巡っての家族愛を競う争いとなって？　\r\nシリーズ初の、30分からなる長編ストーリーが展開。先にドラマCDで出演していた美少年3幹部「P・K・O」がアニメ版にて初登場したことで、より賑やかな内容に。",
+      "name": "Di Gi Charat クリスマススペシャル",
+      "name_cn": "Di Gi Charat 圣诞特别篇",
+      "tags": [
+        {
+          "name": "OVA",
+          "count": 15
+        },
+        {
+          "name": "2000",
+          "count": 11
+        },
+        {
+          "name": "MADHouse",
+          "count": 10
+        },
+        {
+          "name": "樱井弘明",
+          "count": 5
+        },
+        {
+          "name": "TV",
+          "count": 5
+        },
+        {
+          "name": "TVSP",
+          "count": 3
+        },
+        {
+          "name": "高橋亨",
+          "count": 3
+        },
+        {
+          "name": "桜井弘明",
+          "count": 3
+        },
+        {
+          "name": "原创",
+          "count": 3
+        },
+        {
+          "name": "日本",
+          "count": 2
+        },
+        {
+          "name": "沢城みゆき",
+          "count": 2
+        },
+        {
+          "name": "氷上恭子",
+          "count": 2
+        },
+        {
+          "name": "日本动画",
+          "count": 2
+        },
+        {
+          "name": "非独立OVA、OAD、特番等",
+          "count": 1
+        },
+        {
+          "name": "TVA-02",
+          "count": 1
+        },
+        {
+          "name": "2000.10",
+          "count": 1
+        },
+        {
+          "name": "SP",
+          "count": 1
+        },
+        {
+          "name": "2000年",
+          "count": 1
+        },
+        {
+          "name": "真田アサミ",
+          "count": 1
+        },
+        {
+          "name": "泡面番",
+          "count": 1
+        },
+        {
+          "name": "池田眞美子",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "Di Gi Charat 圣诞特别篇"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "放送开始",
+          "value": "2000年12月16日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.broccoli.co.jp/dejiko/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "TBS"
+        },
+        {
+          "key": "原作",
+          "value": "コゲどんぼ"
+        },
+        {
+          "key": "总导演",
+          "value": "桜井弘明"
+        },
+        {
+          "key": "导演",
+          "value": "高橋亨"
+        },
+        {
+          "key": "人物设定",
+          "value": "山川吉樹"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 29,
+        "count": {
+          "1": 0,
+          "2": 1,
+          "3": 2,
+          "4": 4,
+          "5": 4,
+          "6": 12,
+          "7": 5,
+          "8": 1,
+          "9": 0,
+          "10": 0
+        },
+        "score": 5.5
       },
-      {
-        "name": "MADHouse",
-        "count": 10
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 2,
+        "dropped": 5,
+        "wish": 13,
+        "collect": 55,
+        "doing": 1
       },
-      {
-        "name": "樱井弘明",
-        "count": 5
-      },
-      {
-        "name": "TV",
-        "count": 5
-      },
-      {
-        "name": "TVSP",
-        "count": 3
-      },
-      {
-        "name": "高橋亨",
-        "count": 3
-      },
-      {
-        "name": "桜井弘明",
-        "count": 3
-      },
-      {
-        "name": "原创",
-        "count": 3
-      },
-      {
-        "name": "日本",
-        "count": 2
-      },
-      {
-        "name": "沢城みゆき",
-        "count": 2
-      },
-      {
-        "name": "氷上恭子",
-        "count": 2
-      },
-      {
-        "name": "日本动画",
-        "count": 2
-      },
-      {
-        "name": "非独立OVA、OAD、特番等",
-        "count": 1
-      },
-      {
-        "name": "TVA-02",
-        "count": 1
-      },
-      {
-        "name": "2000.10",
-        "count": 1
-      },
-      {
-        "name": "SP",
-        "count": 1
-      },
-      {
-        "name": "2000年",
-        "count": 1
-      },
-      {
-        "name": "真田アサミ",
-        "count": 1
-      },
-      {
-        "name": "泡面番",
-        "count": 1
-      },
-      {
-        "name": "池田眞美子",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "Di Gi Charat 圣诞特别篇"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      },
-      {
-        "key": "放送开始",
-        "value": "2000年12月16日"
-      },
-      {
-        "key": "官方网站",
-        "value": "http://www.broccoli.co.jp/dejiko/"
-      },
-      {
-        "key": "播放电视台",
-        "value": "TBS"
-      },
-      {
-        "key": "原作",
-        "value": "コゲどんぼ"
-      },
-      {
-        "key": "总导演",
-        "value": "桜井弘明"
-      },
-      {
-        "key": "导演",
-        "value": "高橋亨"
-      },
-      {
-        "key": "人物设定",
-        "value": "山川吉樹"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 29,
-      "count": {
-        "1": 0,
-        "2": 1,
-        "3": 2,
-        "4": 4,
-        "5": 4,
-        "6": 12,
-        "7": 5,
-        "8": 1,
-        "9": 0,
-        "10": 0
-      },
-      "score": 5.5
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 2,
-      "dropped": 5,
-      "wish": 13,
-      "collect": 55,
-      "doing": 1
-    },
-    "id": 205296,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 205296,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/f0/39301_yw20W.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/f0/39301_yw20W.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ad/f0/39301_yw20W.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/f0/39301_yw20W.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/f0/39301_yw20W.jpg"
+          },
+          "name": "Di Gi Charat",
+          "name_cn": "Di Gi Charat",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 38072
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/d5/205280_q8z00.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/d5/205280_q8z00.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/d5/205280_q8z00.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/d5/205280_q8z00.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/d5/205280_q8z00.jpg"
+          },
+          "name": "Di Gi Charat サマースペシャル 2000",
+          "name_cn": "Di Gi Charat 夏季特别篇 2000",
+          "relation": "前传",
+          "type": 2,
+          "id": 205280
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/b6/205297_IPhT6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/b6/205297_IPhT6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/b6/205297_IPhT6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/b6/205297_IPhT6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/b6/205297_IPhT6.jpg"
+          },
+          "name": "Di Gi Charat お花見すぺしゃる",
+          "name_cn": "Di Gi Charat 赏花特别篇",
+          "relation": "续集",
+          "type": 2,
+          "id": 205297
+        }
+      ]
+    }
   }
 ]

@@ -1,183 +1,230 @@
 [
   {
-    "date": "1980-08-02",
-    "platform": "剧场版",
-    "images": {
-      "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/57/74532_zg1mx.jpg",
-      "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/57/74532_zg1mx.jpg",
-      "large": "https://lain.bgm.tv/pic/cover/l/a5/57/74532_zg1mx.jpg",
-      "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/57/74532_zg1mx.jpg",
-      "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/57/74532_zg1mx.jpg"
-    },
-    "summary": "《永远的大和号》（原题：ヤマトよ永遠に；英文题：Be Forever Yamato[1]）是日本东映动画公司制作的科幻动画电影，并于1980年8月2日公开，同时也是宇宙战舰大和号系列的第三部电影上映作品。",
-    "name": "ヤマトよ永遠に",
-    "name_cn": "永远的大和号",
-    "tags": [
-      {
-        "name": "剧场版",
-        "count": 21
+    "title": "ヤマトよ永遠に",
+    "bangumi": {
+      "date": "1980-08-02",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/57/74532_zg1mx.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/57/74532_zg1mx.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a5/57/74532_zg1mx.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/57/74532_zg1mx.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/57/74532_zg1mx.jpg"
       },
-      {
-        "name": "宇宙战舰大和号",
-        "count": 11
+      "summary": "《永远的大和号》（原题：ヤマトよ永遠に；英文题：Be Forever Yamato[1]）是日本东映动画公司制作的科幻动画电影，并于1980年8月2日公开，同时也是宇宙战舰大和号系列的第三部电影上映作品。",
+      "name": "ヤマトよ永遠に",
+      "name_cn": "永远的大和号",
+      "tags": [
+        {
+          "name": "剧场版",
+          "count": 21
+        },
+        {
+          "name": "宇宙战舰大和号",
+          "count": 11
+        },
+        {
+          "name": "1980",
+          "count": 10
+        },
+        {
+          "name": "科幻",
+          "count": 7
+        },
+        {
+          "name": "松本零士",
+          "count": 7
+        },
+        {
+          "name": "东映",
+          "count": 5
+        },
+        {
+          "name": "日本动画",
+          "count": 2
+        },
+        {
+          "name": "舛田利雄",
+          "count": 2
+        },
+        {
+          "name": "西崎义展",
+          "count": 1
+        },
+        {
+          "name": "宇宙战舰大和号系列",
+          "count": 1
+        },
+        {
+          "name": "-1980",
+          "count": 1
+        },
+        {
+          "name": "动",
+          "count": 1
+        },
+        {
+          "name": "日本动画电影考察",
+          "count": 1
+        },
+        {
+          "name": "星辰大海",
+          "count": 1
+        },
+        {
+          "name": "富山敬",
+          "count": 1
+        },
+        {
+          "name": "勝間田具治",
+          "count": 1
+        },
+        {
+          "name": "太空歌剧",
+          "count": 1
+        },
+        {
+          "name": "SF",
+          "count": 1
+        },
+        {
+          "name": "日本",
+          "count": 1
+        },
+        {
+          "name": "机战",
+          "count": 1
+        },
+        {
+          "name": "动画",
+          "count": 1
+        },
+        {
+          "name": "机甲",
+          "count": 1
+        },
+        {
+          "name": "サテライト",
+          "count": 1
+        },
+        {
+          "name": "东映动画",
+          "count": 1
+        },
+        {
+          "name": "经典",
+          "count": 1
+        },
+        {
+          "name": "第三部",
+          "count": 1
+        },
+        {
+          "name": "战斗",
+          "count": 1
+        },
+        {
+          "name": "大和号",
+          "count": 1
+        }
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "永远的大和号"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Be Forever Yamato"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "1980年8月2日"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "rating": {
+        "rank": 0,
+        "total": 35,
+        "count": {
+          "1": 0,
+          "2": 0,
+          "3": 0,
+          "4": 1,
+          "5": 4,
+          "6": 7,
+          "7": 9,
+          "8": 10,
+          "9": 1,
+          "10": 3
+        },
+        "score": 7.1
       },
-      {
-        "name": "1980",
-        "count": 10
+      "total_episodes": 1,
+      "collection": {
+        "on_hold": 5,
+        "dropped": 10,
+        "wish": 38,
+        "collect": 50,
+        "doing": 1
       },
-      {
-        "name": "科幻",
-        "count": 7
-      },
-      {
-        "name": "松本零士",
-        "count": 7
-      },
-      {
-        "name": "东映",
-        "count": 5
-      },
-      {
-        "name": "日本动画",
-        "count": 2
-      },
-      {
-        "name": "舛田利雄",
-        "count": 2
-      },
-      {
-        "name": "西崎义展",
-        "count": 1
-      },
-      {
-        "name": "宇宙战舰大和号系列",
-        "count": 1
-      },
-      {
-        "name": "-1980",
-        "count": 1
-      },
-      {
-        "name": "动",
-        "count": 1
-      },
-      {
-        "name": "日本动画电影考察",
-        "count": 1
-      },
-      {
-        "name": "星辰大海",
-        "count": 1
-      },
-      {
-        "name": "富山敬",
-        "count": 1
-      },
-      {
-        "name": "勝間田具治",
-        "count": 1
-      },
-      {
-        "name": "太空歌剧",
-        "count": 1
-      },
-      {
-        "name": "SF",
-        "count": 1
-      },
-      {
-        "name": "日本",
-        "count": 1
-      },
-      {
-        "name": "机战",
-        "count": 1
-      },
-      {
-        "name": "动画",
-        "count": 1
-      },
-      {
-        "name": "机甲",
-        "count": 1
-      },
-      {
-        "name": "サテライト",
-        "count": 1
-      },
-      {
-        "name": "东映动画",
-        "count": 1
-      },
-      {
-        "name": "经典",
-        "count": 1
-      },
-      {
-        "name": "第三部",
-        "count": 1
-      },
-      {
-        "name": "战斗",
-        "count": 1
-      },
-      {
-        "name": "大和号",
-        "count": 1
-      }
-    ],
-    "infobox": [
-      {
-        "key": "中文名",
-        "value": "永远的大和号"
-      },
-      {
-        "key": "别名",
-        "value": [
-          {
-            "v": "Be Forever Yamato"
-          }
-        ]
-      },
-      {
-        "key": "上映年度",
-        "value": "1980年8月2日"
-      },
-      {
-        "key": "话数",
-        "value": "1"
-      }
-    ],
-    "rating": {
-      "rank": 0,
-      "total": 35,
-      "count": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 1,
-        "5": 4,
-        "6": 7,
-        "7": 9,
-        "8": 10,
-        "9": 1,
-        "10": 3
-      },
-      "score": 7.1
-    },
-    "total_episodes": 1,
-    "collection": {
-      "on_hold": 5,
-      "dropped": 10,
-      "wish": 38,
-      "collect": 50,
-      "doing": 1
-    },
-    "id": 74532,
-    "eps": 1,
-    "volumes": 0,
-    "locked": false,
-    "nsfw": false,
-    "type": 2
+      "id": 74532,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/28/53898_is35Z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/28/53898_is35Z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a6/28/53898_is35Z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/28/53898_is35Z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/28/53898_is35Z.jpg"
+          },
+          "name": "宇宙戦艦ヤマトIII",
+          "name_cn": "宇宙战舰大和号3",
+          "relation": "续集",
+          "type": 2,
+          "id": 53898
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/f7/74531_oiqD8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/f7/74531_oiqD8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/f7/74531_oiqD8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/f7/74531_oiqD8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/f7/74531_oiqD8.jpg"
+          },
+          "name": "宇宙戦艦ヤマト 新たなる旅立ち",
+          "name_cn": "宇宙战舰大和号 新的旅程",
+          "relation": "前传",
+          "type": 2,
+          "id": 74531
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/a1/366256_ZNvph.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/a1/366256_ZNvph.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a8/a1/366256_ZNvph.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/a1/366256_ZNvph.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/a1/366256_ZNvph.jpg"
+          },
+          "name": "ヤマトよ永遠に REBEL3199",
+          "name_cn": "",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 366256
+        }
+      ]
+    }
   }
 ]
