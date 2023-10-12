@@ -32,7 +32,7 @@ async function downloadSubject(file: string, items: Item[]) {
       const subject = await client.subject(+id);
       bangumis.push(subject);
     } else {
-      console.log(`There is no bangumi id for ${item.title}`);
+      console.log(`Error: There is no bangumi id for ${item.title}`);
     }
   }
   await fs.writeFile(file, JSON.stringify(bangumis, null, 2));
