@@ -12,7 +12,7 @@ const DataRoot = path.join(__dirname, '../../../data');
 
 export const BangumiDataRoot = path.join(DataRoot, 'bangumi');
 
-export const TMDBDataRoot = path.join(DataRoot, 'bangumi');
+export const TMDBDataRoot = path.join(DataRoot, 'tmdb');
 
 export interface TMDBItem {
   title: string;

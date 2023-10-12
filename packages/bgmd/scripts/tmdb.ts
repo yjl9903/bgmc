@@ -50,7 +50,8 @@ async function downloadSubject(file: string, items: Item[]) {
 
   for (const item of items) {
     if (found.has(item.title)) {
-      bangumis.push(found.get(item.title)!);
+      const cache = found.get(item.title)!;
+      bangumis.push(cache);
       continue;
     }
 
