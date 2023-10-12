@@ -154,10 +154,12 @@ async function search(item: Item) {
 
 const cli = breadc('tmdb');
 
-cli.command('search <keyword>').action((keyword) => {});
-
 cli.command('').action(async (options) => {
   await main();
 });
+
+cli.command('search <keyword>').action(async (keyword, options) => {});
+
+cli.command('validate').action(async (options) => {});
 
 cli.run(process.argv.slice(2)).catch((err) => console.error(err));
