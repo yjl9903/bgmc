@@ -49,11 +49,11 @@ interface TMDBItem {
 }
 
 async function downloadSubject(file: string, items: Item[]) {
-  const cache: TMDBItem[] = await fs
+  const cache: TMDBItem[] | undefined = await fs
     .readFile(file, 'utf-8')
     .then((c) => JSON.parse(c))
     .catch(() => undefined);
-  const found = new Map<string, TMDBItem>(cache.map((c) => [c.title, c]));
+  const found = new Map<string, TMDBItem>(cache?.map((c) => [c.title, c]));
 
   const bangumis: TMDBItem[] = [];
 
