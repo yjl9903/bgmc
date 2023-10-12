@@ -1,6 +1,5 @@
 import fs from 'fs-extra';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 
 import { breadc } from 'breadc';
 import { items, type Item } from 'bangumi-data';
@@ -14,11 +13,9 @@ import {
 
 import { ufetch } from './ufetch';
 import { groupByBegin } from './utils';
+import { TMDBDataRoot, type TMDBItem } from './offline';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-
-const dataRoot = path.join(__dirname, '../../../data/tmdb');
-await fs.ensureDir(dataRoot);
+await fs.ensureDir(TMDBDataRoot);
 
 const client = new TMDBClient({
   baseURL: 'https://movies-proxy.vercel.app/tmdb/',
@@ -29,23 +26,13 @@ const client = new TMDBClient({
 async function main() {
   const files = groupByBegin(items);
   for (const [year, yearData] of files) {
-    const dir = path.join(dataRoot, '' + year);
+    const dir = path.join(TMDBDataRoot, '' + year);
     await fs.ensureDir(dir);
     for (const [month, monthData] of yearData) {
       const file = path.join(dir, `${String(month).padStart(2, '0')}.json`);
       await downloadSubject(file, monthData);
     }
   }
-}
-
-interface TMDBItem {
-  title: string;
-
-  bangumi: {
-    id: string;
-  };
-
-  tmdb: SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem;
 }
 
 async function downloadSubject(file: string, items: Item[]) {
