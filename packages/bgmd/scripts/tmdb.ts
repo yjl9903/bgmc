@@ -129,7 +129,7 @@ async function search(bgm: BangumiItem) {
   }
 
   // Check prequel
-  if (all.length === 0 && (item?.type === 'tv' || !item)) {
+  if (all.length === 0) {
     const begin = new Date(bgm.bangumi.date || bgm.date);
     const pres = bangumiDB.listPrequel(bgm);
     const filtered: Array<{ ok: SearchTVResultItem; season: number; first_episode?: number }> = [];
