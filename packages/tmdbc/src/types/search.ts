@@ -72,4 +72,6 @@ export interface SearchMovieResultItem extends SearchResultItem {
   release_date: string;
 }
 
-export interface SearchMultiResultItem extends SearchMovieResultItem {}
+export interface SearchMultiResultItem extends SearchMovieResultItem {
+  media_type: string;
+}

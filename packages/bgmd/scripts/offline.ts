@@ -27,6 +27,8 @@ export interface TMDBItem {
   tmdb: {
     id: number;
 
+    type: 'tv' | 'movie' | string;
+
     season?: number;
 
     first_episode?: number;

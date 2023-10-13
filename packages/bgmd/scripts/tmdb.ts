@@ -67,6 +67,7 @@ async function downloadSubject(file: string, items: BangumiItem[]) {
         bangumi: { id: '' + item.bangumi.id },
         tmdb: {
           id: result.ok.id,
+          type: result.type,
           season: result.season,
           search: result.ok
         }
@@ -94,7 +95,15 @@ async function search(bgm: BangumiItem) {
       const result = inferBangumi(bgm, resp.results);
       all.push(...result.all);
       if (result.ok) {
-        return result;
+        // @ts-ignore
+        const type = item?.type === 'movie' || result.ok.media_type === 'movie' ? 'movie' : 'tv';
+        return {
+          ok: result.ok,
+          type,
+          season: result.season,
+          first_episode: result.first_episode,
+          all: result.all
+        };
       }
     }
   }
@@ -126,6 +135,7 @@ async function search(bgm: BangumiItem) {
                     season: ep.season_number,
                     first_episode: ep.episode_number
                   });
+                  break;
                 }
               }
             }
@@ -154,6 +164,7 @@ async function search(bgm: BangumiItem) {
 
       return {
         ok: result.ok,
+        type: 'tv',
         season: result.season,
         first_episode: result.first_episode,
         all
@@ -167,7 +178,7 @@ async function search(bgm: BangumiItem) {
     console.log(`Error: There is multiple search results for ${bgm.title}`);
   }
 
-  return { ok: undefined, season: undefined, first_episode: undefined, all };
+  return { ok: undefined, type: undefined, season: undefined, first_episode: undefined, all };
 
   function inferBangumi(
     item: BangumiItem,
