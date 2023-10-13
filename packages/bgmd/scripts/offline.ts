@@ -115,7 +115,9 @@ export class OfflineBangumi {
         console.log(`Error: ${bgm.title} (id: ${bgm.bangumi.id}) does not have relations`);
       }
 
-      const related = (bgm.bangumi.relations ?? []).filter((r) => ['前传'].includes(r.relation));
+      const related = (bgm.bangumi.relations ?? []).filter((r) =>
+        ['前传', '主线故事'].includes(r.relation)
+      );
       for (const r of related) {
         const pre = this.map.get(+r.id);
         if (pre && !res.has(pre)) {
