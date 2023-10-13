@@ -9,7 +9,7 @@ import { BangumiDataRoot, type BangumiItem } from './offline';
 
 await fs.ensureDir(BangumiDataRoot);
 
-const files = groupByBegin(items);
+const files = groupByBegin(items, (item) => (item.begin ? new Date(item.begin) : undefined));
 for (const [year, yearData] of files) {
   const dir = path.join(BangumiDataRoot, '' + year);
   await fs.ensureDir(dir);

@@ -1,12 +1,10 @@
-import type { Item } from 'bangumi-data';
-
 import { MutableMap } from '@onekuma/map';
 
-export function groupByBegin(items: Item[]) {
-  const map = new MutableMap<number, MutableMap<number, Item[]>>();
+export function groupByBegin<T extends {}>(items: T[], fn: (item: T) => Date | undefined) {
+  const map = new MutableMap<number, MutableMap<number, T[]>>();
   for (const item of items) {
-    if (!item.begin) continue;
-    const begin = new Date(item.begin);
+    const begin = fn(item);
+    if (!begin) continue;
     const year = begin.getFullYear();
     const month = begin.getMonth() + 1;
     map

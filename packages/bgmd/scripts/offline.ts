@@ -2,9 +2,10 @@ import fs from 'fs-extra';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import type { Item } from 'bangumi-data';
 import type { RelatedSubject, SubjectInformation } from 'bgmc';
 import type { SearchTVResultItem, SearchMovieResultItem, SearchMultiResultItem } from 'tmdbc';
+
+import { items, type Item } from 'bangumi-data';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -41,8 +42,16 @@ export class OfflineBangumi {
 
   private readonly map: Map<number, BangumiItem> = new Map();
 
+  private readonly data: Map<number, Item> = new Map();
+
   public constructor() {
     this.root = BangumiDataRoot;
+    for (const item of items) {
+      const bgm = item.sites.find((site) => site.site === 'bangumi');
+      if (bgm) {
+        this.data.set(+bgm.id, item);
+      }
+    }
   }
 
   public async load() {
@@ -64,6 +73,22 @@ export class OfflineBangumi {
     );
   }
 
+  public entries() {
+    return this.map.entries();
+  }
+
+  public keys() {
+    return this.map.keys();
+  }
+
+  public values() {
+    return this.map.values();
+  }
+
+  public [Symbol.iterator]() {
+    return this.entries();
+  }
+
   public get(item: Item) {
     const bgm = item.sites.find((site) => site.site === 'bangumi');
     if (bgm) {
@@ -71,7 +96,11 @@ export class OfflineBangumi {
     }
   }
 
-  public listPrequel(item: Item) {
+  public getItem(bgm: BangumiItem) {
+    return this.data.get(+bgm.bangumi.id);
+  }
+
+  public listPrequel(bgm: BangumiItem) {
     const res = new Set<BangumiItem>();
     const dfs = (bgm: BangumiItem) => {
       const related = bgm.bangumi.relations.filter((r) => ['前传'].includes(r.relation));
@@ -83,10 +112,7 @@ export class OfflineBangumi {
         }
       }
     };
-    const bgm = this.get(item);
-    if (bgm) {
-      dfs(bgm);
-    }
+    dfs(bgm);
     return res;
   }
 }

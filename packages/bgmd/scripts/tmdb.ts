@@ -2,7 +2,6 @@ import fs from 'fs-extra';
 import path from 'node:path';
 
 import { breadc } from 'breadc';
-import { items, type Item } from 'bangumi-data';
 import {
   TMDBClient,
   type SearchResultItem,
@@ -13,7 +12,7 @@ import {
 
 import { ufetch } from './ufetch';
 import { groupByBegin } from './utils';
-import { OfflineBangumi, TMDBDataRoot, type TMDBItem } from './offline';
+import { BangumiItem, OfflineBangumi, TMDBDataRoot, type TMDBItem } from './offline';
 
 await fs.ensureDir(TMDBDataRoot);
 
@@ -27,8 +26,13 @@ const bangumiDB = new OfflineBangumi();
 
 async function main() {
   await bangumiDB.load();
+  const files = groupByBegin([...bangumiDB.values()], (bgm) => {
+    if (bgm.bangumi.date) {
+      return new Date(bgm.bangumi.date);
+    }
+    console.log(`Error: the date of ${bgm.title} is empty`);
+  });
 
-  const files = groupByBegin(items);
   for (const [year, yearData] of files) {
     const dir = path.join(TMDBDataRoot, '' + year);
     await fs.ensureDir(dir);
@@ -39,7 +43,7 @@ async function main() {
   }
 }
 
-async function downloadSubject(file: string, items: Item[]) {
+async function downloadSubject(file: string, items: BangumiItem[]) {
   const cache = await fs
     .readFile(file, 'utf-8')
     .then((c) => JSON.parse(c) as TMDBItem[])
@@ -55,14 +59,11 @@ async function downloadSubject(file: string, items: Item[]) {
       continue;
     }
 
-    const bgm = item.sites.find((site) => site.site === 'bangumi');
-    if (!bgm) continue;
-
     const result = await search(item);
     if (result.ok) {
       bangumis.push({
         title: item.title,
-        bangumi: { id: bgm.id },
+        bangumi: { id: '' + item.bangumi.id },
         tmdb: {
           id: result.ok.id,
           season: result.season,
@@ -75,19 +76,20 @@ async function downloadSubject(file: string, items: Item[]) {
   await fs.writeFile(file, JSON.stringify(bangumis, null, 2));
 }
 
-async function search(item: Item) {
+async function search(bgm: BangumiItem) {
+  const item = bangumiDB.getItem(bgm);
   const all: SearchResultItem[] = [];
-  const names = new Set([item.title, ...Object.values(item.titleTranslate).flat()]);
+  const names = new Set([bgm.title, ...Object.values(item?.titleTranslate ?? {}).flat()]);
 
   for (const query of names) {
     const resp =
-      item.type === 'movie'
+      item?.type === 'movie'
         ? await client.searchMovie({ query, language: 'zh-CN' })
-        : item.type === 'tv'
+        : item?.type === 'tv'
         ? await client.searchTV({ query, language: 'zh-CN' })
         : await client.searchMulti({ query, language: 'zh-CN' });
     if (resp.results.length > 0) {
-      const result = inferBangumi(item, resp.results);
+      const result = inferBangumi(bgm, resp.results);
       all.push(...result.all);
       if (result.ok) {
         return result;
@@ -96,9 +98,10 @@ async function search(item: Item) {
   }
 
   // Check prequel
-  if (all.length === 0 && item.type === 'tv') {
-    const begin = new Date(item.begin);
-    const pres = bangumiDB.listPrequel(item);
+  if (all.length === 0 && (item?.type === 'tv' || !item)) {
+    const begin = new Date(bgm.bangumi.date!);
+    const pres = bangumiDB.listPrequel(bgm);
+
     for (const bgm of pres) {
       const resp = await client.searchTV({ query: bgm.title, language: 'zh-CN' });
 
@@ -117,7 +120,7 @@ async function search(item: Item) {
         if (filtered.length === 1) {
           const result = filtered[0];
           console.log(
-            `Info: infer ${item.title} to ${getOriginalNameOrTitle(result.ok)} (id: ${
+            `Info: infer ${bgm.title} to ${getOriginalNameOrTitle(result.ok)} (id: ${
               result.ok.id
             }, season: ${result.season})`
           );
@@ -132,15 +135,15 @@ async function search(item: Item) {
   }
 
   if (all.length === 0) {
-    console.log(`Error: There is no search result for ${item.title}`);
+    console.log(`Error: There is no search result for ${bgm.title}`);
   } else {
-    console.log(`Error: There is multiple search results for ${item.title}`);
+    console.log(`Error: There is multiple search results for ${bgm.title}`);
   }
 
   return { ok: undefined, season: undefined, all };
 
   function inferBangumi(
-    item: Item,
+    item: BangumiItem,
     resp: (SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem)[]
   ) {
     const filtered = resp.filter((r) => matchBangumi(item, r));
@@ -159,10 +162,10 @@ async function search(item: Item) {
   }
 
   function matchBangumi(
-    item: Item,
+    bgm: BangumiItem,
     result: SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem
   ) {
-    const d1 = new Date(item.begin);
+    const d1 = new Date(bgm.bangumi.date!);
     // @ts-ignore
     const d2 = new Date(result.first_air_date || result.release_date);
     // Onair date should be less than 7 days
