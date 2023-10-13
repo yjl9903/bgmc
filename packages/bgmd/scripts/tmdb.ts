@@ -12,8 +12,9 @@ import {
 } from 'tmdbc';
 
 import { ufetch } from './ufetch';
-import { groupByBegin } from './utils';
+import { groupByBegin, measureSimiliarity } from './utils';
 import { BangumiItem, OfflineBangumi, TMDBDataRoot, type TMDBItem } from './offline';
+import { getSubjectAlias } from 'bgmc';
 
 await fs.ensureDir(TMDBDataRoot);
 
@@ -289,15 +290,39 @@ async function search(bgm: BangumiItem) {
     const d1 = new Date(bgm.bangumi.date || bgm.date);
     // @ts-ignore
     const d2 = new Date(result.first_air_date || result.release_date);
+
     // Onair date should be less than 6 days
     if (!checkInterval(d1, d2)) {
       return false;
     }
+
+    if (!checkTitleSimiliarity(bgm, result)) {
+      return false;
+    }
+
     return true;
   }
 
   function checkInterval(d1: Date, d2: Date) {
     return Math.abs(d1.getTime() - d2.getTime()) <= 6 * 24 * 60 * 60 * 1000;
+  }
+
+  function checkTitleSimiliarity(
+    bgm: BangumiItem,
+    result: SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem
+  ) {
+    const t1 = getNameOrTitle(result);
+    const t2 = getOriginalNameOrTitle(result);
+    const s1 = getSubjectAlias(bgm.bangumi).reduce(
+      (acc, cur) => Math.max(acc, measureSimiliarity(cur, t1)),
+      0
+    );
+    const s2 = getSubjectAlias(bgm.bangumi).reduce(
+      (acc, cur) => Math.max(acc, measureSimiliarity(cur, t2)),
+      0
+    );
+    const sim = Math.max(s1, s2);
+    return sim >= 0.5;
   }
 
   function getNameOrTitle(
