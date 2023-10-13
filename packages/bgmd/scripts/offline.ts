@@ -33,7 +33,10 @@ export interface TMDBItem {
 
     first_episode?: number;
 
-    search: SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem;
+    search: Omit<
+      SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem,
+      'genre_ids' | 'popularity' | 'vote_average' | 'vote_count'
+    >;
   };
 }
 

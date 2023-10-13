@@ -80,7 +80,22 @@ async function downloadSubject(file: string, items: BangumiItem[]) {
     }
   }
 
-  await fs.writeFile(file, JSON.stringify(bangumis, null, 2));
+  await fs.writeFile(
+    file,
+    JSON.stringify(
+      bangumis.map((bgm) => {
+        if (bgm.tmdb.search) {
+          Reflect.deleteProperty(bgm.tmdb.search, 'genre_ids');
+          Reflect.deleteProperty(bgm.tmdb.search, 'popularity');
+          Reflect.deleteProperty(bgm.tmdb.search, 'vote_average');
+          Reflect.deleteProperty(bgm.tmdb.search, 'vote_count');
+        }
+        return bgm;
+      }),
+      null,
+      2
+    )
+  );
 }
 
 async function search(bgm: BangumiItem) {
@@ -200,21 +215,23 @@ async function search(bgm: BangumiItem) {
     if (resp.length === 1 && filtered.length === 1) {
       return { ok: resp[0], all: filtered };
     } else {
+      const begin = new Date(item.date);
+      const fullyear = begin.getFullYear();
+      const month = String(begin.getMonth() + 1).padStart(2, '0');
+
       if (resp.length === 1 && filtered.length === 0) {
         // The only result is filtered out?
         const result = resp[0];
         console.log(
-          `Info: infer ${item.title} to ${getOriginalNameOrTitle(result)} (id: ${result.id})`
+          `Info: infer ${item.title} (id: ${
+            item.bangumi.id
+          }, ${fullyear}-${month}) to ${getOriginalNameOrTitle(result)} (id: ${result.id})`
         );
         return { ok: result, all: filtered };
       }
       if (filtered.length === 1) {
         // Filter to only one result
         const result = filtered[0];
-
-        const begin = new Date(item.date);
-        const fullyear = begin.getFullYear();
-        const month = String(begin.getMonth() + 1).padStart(2, '0');
 
         console.log(
           `Info: infer ${item.title} (id: ${
