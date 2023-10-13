@@ -26,12 +26,17 @@ const bangumiDB = new OfflineBangumi();
 
 async function main() {
   await bangumiDB.load();
-  const files = groupByBegin([...bangumiDB.values()], (bgm) => {
-    if (bgm.date) {
-      return new Date(bgm.date);
+  const files = groupByBegin(
+    [...bangumiDB.values()].sort((a, b) => {
+      return (a.bangumi.date ?? '').localeCompare(b.bangumi.date ?? '');
+    }),
+    (bgm) => {
+      if (bgm.date) {
+        return new Date(bgm.date);
+      }
+      console.log(`Error: the date of ${bgm.title} is empty`);
     }
-    console.log(`Error: the date of ${bgm.title} is empty`);
-  });
+  );
 
   for (const [year, yearData] of files) {
     const dir = path.join(TMDBDataRoot, '' + year);
