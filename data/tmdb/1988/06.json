@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 249287,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/Ar0z41ErRQF9JqBG2LYyj8zXujX.jpg",
@@ -15,20 +16,19 @@
         "original_language": "ja",
         "original_title": "赤い光弾ジリオン 歌姫夜曲",
         "overview": "In the 24th century, on the war-torn planet Maris the conniving Queen Adama abducts Apple, a member of an heroic trio known as the White Knights, and imprisons her in the infamous Zone. Even though no one has ever returned alive from the Zone — and despite the low ammo at their disposal — the other knights follow their companion. What they find there, however, is an enigmatic figure with a mind-bending revelation...",
-        "poster_path": "/oBxh51DxK8B7Byr10wSbBNzAYjt.jpg",
+        "poster_path": "/bV4l7hbYU6kwreyLQaIvmbzeh6C.jpg",
         "media_type": "movie",
         "genre_ids": [
           16,
           12,
           878
         ],
-        "popularity": 2.054,
+        "popularity": 2.876,
         "release_date": "1988-06-21",
         "video": false,
         "vote_average": 8,
         "vote_count": 1
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -39,6 +39,7 @@
     },
     "tmdb": {
       "id": 134830,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/5Quqb29er112GxrtUDr52dCnVEc.jpg",
@@ -54,13 +55,12 @@
           878,
           35
         ],
-        "popularity": 4.309,
+        "popularity": 3.706,
         "release_date": "1988-06-20",
         "video": false,
         "vote_average": 7.5,
         "vote_count": 2
-      },
-      "type": "tv"
+      }
     }
   }
 ]

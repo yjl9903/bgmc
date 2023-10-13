@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 1159427,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -23,8 +24,7 @@
         "video": false,
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -35,6 +35,7 @@
     },
     "tmdb": {
       "id": 374191,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/nPQCGcE6sX79SWlNKMVYp4548rR.jpg",
@@ -47,15 +48,14 @@
         "original_language": "ja",
         "original_title": "亜人　第２部「衝突」",
         "overview": "某天，普通高中生永井圭（宫野真守 配音）在放学路上被卡车撞倒，短暂的死亡过后，他悠然回到人间。作为日本第三位亚人，永井被警察、亚人管理委员会乃至赏金猎人等多方势力盯上。与此同时，被亚人管理委员会称为“帽子”的佐藤（大冢芳忠 配音）将受控的亚人田中功次（平川大辅 配音）。他向全国范围内发出信息，最终集结了7名亚人。佐藤试图策划大规模的虐杀恐怖行动，向日本政府发起冲击。在7名亚人中，中野攻心中的疑惑与日俱增。亚人VS亚人、亚人VS普通人，可怕的相互残杀即将发生……  　　本片根据樱井画门累计发行量超过390万册的同名漫画改编，并以三部曲的形式顺次上映。",
-        "popularity": 3.86,
+        "popularity": 5.404,
         "poster_path": "/qoCzD0FjVm06WKAMqPPorsK6gP2.jpg",
         "release_date": "2016-05-06",
         "title": "亚人2：冲突",
         "video": false,
         "vote_average": 7.333,
         "vote_count": 12
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -66,6 +66,7 @@
     },
     "tmdb": {
       "id": 68415,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/s3cU8EkdeviEueyB4afY8EIb9Pf.jpg",
@@ -81,15 +82,14 @@
           35,
           10765
         ],
-        "popularity": 7.235,
+        "popularity": 10.129,
         "first_air_date": "2016-05-08",
         "vote_average": 6.929,
         "vote_count": 28,
         "origin_country": [
           "US"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -100,6 +100,7 @@
     },
     "tmdb": {
       "id": 459290,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/yG1eB1tVaAU9Uq3EbEAgdpU1GuS.jpg",
@@ -118,8 +119,7 @@
         "video": false,
         "vote_average": 6.3,
         "vote_count": 3
-      },
-      "type": "movie"
+      }
     }
   }
 ]

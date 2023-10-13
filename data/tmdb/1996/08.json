@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 44587,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/nMfRuH0WOdl4UVn4t3BK4GlcJ1m.jpg",
@@ -19,15 +20,14 @@
         "original_language": "ja",
         "original_title": "エックス",
         "overview": "1999年，传说中的地球末日。母亲的逝世，让司狼神威（铃村健一 配音）回到了阔别6年之久的东京，与当初青梅竹马的兄妹俩桃生封真（成田剑 配音）和桃生小鸟（岩男润子 配音）重逢。而这段重逢开启了一段命运的大门。这段命定的重逢关系着地球的安危和人类的未来。而神威则是一切的关键，是两大敌对势力“天之龙”与“地之龙”所争夺的对象。对于世界会变成怎样，神威并不在乎。但小鸟和封真已卷入了这场世纪的争斗，为了守护心爱的两个人，神威最终选择了“天之龙”，捍卫地球和人类，而封真则站在了他的对立面。一场命运之战就此拉开序幕，无数人卷入其中，死亡变的触手可及，而一切却已无法阻止……",
-        "popularity": 6.865,
+        "popularity": 7.72,
         "poster_path": "/jTVcHIc39Yw7v5s8LU8d8qVOAR0.jpg",
         "release_date": "1996-08-02",
         "title": "X战记剧场版",
         "video": false,
         "vote_average": 5.813,
         "vote_count": 48
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -38,6 +38,7 @@
     },
     "tmdb": {
       "id": 125521,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/1SeydkGlChbUrYJeV95TNSLQsFt.jpg",
@@ -51,15 +52,14 @@
         "original_language": "ja",
         "original_title": "スレイヤーズ RETURN",
         "overview": "　　莉娜与娜卡的面前突然出现一位泪汪汪的美少女。她的名字叫莎琳娜，十天前她所居住的比亚兹村落，被一个名为塔因的秘密组织所驱使的下级恶魔占领，她是来请求她们帮忙，并且述说恶党们还胁迫村人去做一些挖掘的工作。平常要是没有酬劳，莉娜是不会接受委托的。不过她却突然想起在比亚兹村落有著＂妖精之传说＂，便接下了此次的任务。",
-        "popularity": 14.091,
+        "popularity": 11.864,
         "poster_path": "/fNQx9YD4nxpcWvriVm1paIxbMwB.jpg",
         "release_date": "1996-08-03",
         "title": "秀逗魔导士RETURN",
         "video": false,
         "vote_average": 6.5,
         "vote_count": 1818
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -70,6 +70,7 @@
     },
     "tmdb": {
       "id": 578374,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -85,13 +86,12 @@
           27,
           12
         ],
-        "popularity": 0.676,
+        "popularity": 1.351,
         "release_date": "1996-08-09",
         "video": false,
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   }
 ]

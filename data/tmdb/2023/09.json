@@ -1,5 +1,38 @@
 [
   {
+    "title": "五等分の花嫁∽",
+    "date": "2023-09-01T16:00:00.000Z",
+    "bangumi": {
+      "id": "427233"
+    },
+    "tmdb": {
+      "id": 84669,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/uuqVT15I6P4ow7NS0stu7aM2X5w.jpg",
+        "genre_ids": [
+          16,
+          18,
+          35
+        ],
+        "id": 84669,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "五等分の花嫁",
+        "overview": "过着贫穷生活的高中二年级生上杉风太郎，听说有一份条件不错的家庭教师兼职。不过学生竟然是同级生，而且还是五胞胎！！她们全员都是美少女，却是“濒临留级”“讨厌学习”的问题儿童！最初的课题是赢得姐妹们的信赖……！？每天都吵吵闹闹的中野家五胞胎献上的可爱度500%的五人五色恋爱喜剧开演！！",
+        "popularity": 91.318,
+        "poster_path": "/qiemmTD5B7zSqsVwXvDMbLfStyq.jpg",
+        "first_air_date": "2019-01-11",
+        "name": "五等分的新娘",
+        "vote_average": 8.5,
+        "vote_count": 631
+      }
+    }
+  },
+  {
     "title": "火の鳥 エデンの宙",
     "date": "2023-09-12T16:00:00.000Z",
     "bangumi": {
@@ -7,6 +40,7 @@
     },
     "tmdb": {
       "id": 215402,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/iu45SUJZ46OBAZ4mZVkVcZ2jbNq.jpg",
@@ -20,82 +54,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 7.108,
+        "popularity": 9.951,
         "first_air_date": "2023-09-13",
         "vote_average": 7,
         "vote_count": 6,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
-    }
-  },
-  {
-    "title": "Castlevania: Nocturne",
-    "date": "2023-09-27T16:00:00.000Z",
-    "bangumi": {
-      "id": "386947"
-    },
-    "tmdb": {
-      "id": 123548,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/1swj9HxDkjzsO3yHlSwRA38hMFN.jpg",
-        "id": 123548,
-        "name": "恶魔城：夜曲",
-        "original_language": "en",
-        "original_name": "Castlevania: Nocturne",
-        "overview": "革命席卷法国，里希特·贝尔蒙奋力守护家族遗产，并阻止冷酷无情、利欲熏心的吸血鬼统治者崛起。",
-        "poster_path": "/tslJx5LPn2aXX3USGYbh0KbglnB.jpg",
-        "media_type": "tv",
-        "genre_ids": [
-          16,
-          10765,
-          18
-        ],
-        "popularity": 90.607,
-        "first_air_date": "2023-09-28",
-        "vote_average": 8.636,
-        "vote_count": 44,
-        "origin_country": [
-          "US"
-        ]
-      },
-      "type": "tv"
-    }
-  },
-  {
-    "title": "め組の大吾 救国のオレンジ",
-    "date": "2023-09-30T08:30:00.000Z",
-    "bangumi": {
-      "id": "411106"
-    },
-    "tmdb": {
-      "id": 223780,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/vYiejIRKCWFnA9xD2jwDbfGnkZ4.jpg",
-        "genre_ids": [
-          16,
-          10759,
-          18
-        ],
-        "id": 223780,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "め組の大吾 救国のオレンジ",
-        "overview": "《烈焰先锋 救国的橘衣消防员》是《火线先锋大吾》的续作，本作由另一位新的「大吾」担任主角。拥有卓越的才能与不可或缺的觉悟的「十朱大吾」；为了突破自身之壁而奋斗的「斧田骏」；以少数女性救助队员为目标的「中村雪」。他们以及其他伙伴通过了「特别技术研修」，正式成为消防队成员，不管是自然灾害或是人为灾害等，将努力地前往拯救伤员与受困的民众。加入救国，改变日本命运的三名年轻人相遇时，面对即将袭来的各种困难，年轻消防员们的灵魂热血故事就此拉开序幕！",
-        "popularity": 35.639,
-        "poster_path": "/tbMq9IpqfhLTGUCTfZJCGW0UHMv.jpg",
-        "first_air_date": "2023-09-30",
-        "name": "烈焰先锋：救国的橘衣消防员",
-        "vote_average": 5.5,
-        "vote_count": 2
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -106,6 +72,7 @@
     },
     "tmdb": {
       "id": 132227,
+      "type": "tv",
       "season": 3,
       "search": {
         "adult": false,
@@ -126,8 +93,75 @@
         "name": "Chickip Dancers",
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
+    }
+  },
+  {
+    "title": "Castlevania: Nocturne",
+    "date": "2023-09-27T16:00:00.000Z",
+    "bangumi": {
+      "id": "386947"
+    },
+    "tmdb": {
+      "id": 123548,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/1swj9HxDkjzsO3yHlSwRA38hMFN.jpg",
+        "id": 123548,
+        "name": "恶魔城：夜曲",
+        "original_language": "en",
+        "original_name": "Castlevania: Nocturne",
+        "overview": "革命席卷法国，里希特·贝尔蒙奋力守护家族遗产，并阻止冷酷无情、利欲熏心的吸血鬼统治者崛起。",
+        "poster_path": "/tslJx5LPn2aXX3USGYbh0KbglnB.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16,
+          10765,
+          18
+        ],
+        "popularity": 107.398,
+        "first_air_date": "2023-09-28",
+        "vote_average": 8.609,
+        "vote_count": 46,
+        "origin_country": [
+          "US"
+        ]
+      }
+    }
+  },
+  {
+    "title": "冒険者になりたいと都に出て行った娘がSランクになってた",
+    "date": "2023-09-28T14:00:00.000Z",
+    "bangumi": {
+      "id": "406736"
+    },
+    "tmdb": {
+      "id": 229609,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/r65DFW2YePjqKjsjVRVkTNokqs1.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
+        "id": 229609,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "冒険者になりたいと都に出て行った娘がSランクになってた",
+        "overview": "在老家的农村过着如冒险者一般的生活的贝尔格里夫，将在森林里捡到的女儿安吉琳养大，送她前往大都市。\n\n收到久违的女儿即将回乡的消息，但却迟迟不见女儿回来，担心与日俱增。\n\n另一方面，已成为公会最高级别『S级』的安吉琳，想要回到最爱的父亲身边，但是……\n\n「到底要到什么时候才能让我去见父亲啊……！」",
+        "popularity": 83.433,
+        "poster_path": "/s8RUFgAWIUIMVoPDwre0dNOUrMH.jpg",
+        "first_air_date": "2023-10-06",
+        "name": "想当冒险者的女儿到首都当了等级S的冒险者",
+        "vote_average": 6.5,
+        "vote_count": 2
+      }
     }
   },
   {
@@ -138,6 +172,7 @@
     },
     "tmdb": {
       "id": 212053,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/mevYrPwk7QfsEVkbKuXCgeqIw0S.jpg",
@@ -152,14 +187,46 @@
         "original_language": "ja",
         "original_name": "お嬢と番犬くん",
         "overview": "一咲因为父母意外身亡而被黑道濑名垣组的组长收养，成为其孙女，她暗恋著十年来照顾自己的黑道若头宇藤启弥，但因为世人对黑道的歧见，一咲认为两人不会有未来可言，便决定谈一场普通的恋爱，并选择离家较远的音羽高中就读，不料启弥也伪装成高中生进入该校就读，并以青梅竹马的身份就近保护她，然而启弥的行为显得过度保护，反而使校园生活意外连连。",
-        "popularity": 69.064,
+        "popularity": 96.69,
         "poster_path": "/jVMyFhc37oCFAQayIE2EVlsOx6k.jpg",
         "first_air_date": "2023-09-29",
         "name": "大小姐和看门犬",
         "vote_average": 6,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
+    }
+  },
+  {
+    "title": "め組の大吾 救国のオレンジ",
+    "date": "2023-09-30T08:30:00.000Z",
+    "bangumi": {
+      "id": "411106"
+    },
+    "tmdb": {
+      "id": 223780,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/vYiejIRKCWFnA9xD2jwDbfGnkZ4.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          18
+        ],
+        "id": 223780,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "め組の大吾 救国のオレンジ",
+        "overview": "《烈焰先锋 救国的橘衣消防员》是《火线先锋大吾》的续作，本作由另一位新的「大吾」担任主角。拥有卓越的才能与不可或缺的觉悟的「十朱大吾」；为了突破自身之壁而奋斗的「斧田骏」；以少数女性救助队员为目标的「中村雪」。他们以及其他伙伴通过了「特别技术研修」，正式成为消防队成员，不管是自然灾害或是人为灾害等，将努力地前往拯救伤员与受困的民众。加入救国，改变日本命运的三名年轻人相遇时，面对即将袭来的各种困难，年轻消防员们的灵魂热血故事就此拉开序幕！",
+        "popularity": 49.895,
+        "poster_path": "/tbMq9IpqfhLTGUCTfZJCGW0UHMv.jpg",
+        "first_air_date": "2023-09-30",
+        "name": "烈焰先锋：救国的橘衣消防员",
+        "vote_average": 5.5,
+        "vote_count": 2
+      }
     }
   },
   {
@@ -170,6 +237,7 @@
     },
     "tmdb": {
       "id": 154526,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/stEMpPdy4wRoHyNN7KmiLuOE0S0.jpg",
@@ -184,14 +252,46 @@
         "original_language": "ja",
         "original_name": "MFゴースト",
         "overview": "故事发生在《头文字D》所述赛事结束后的近未来，公元202X年。在日本，汽车自动驾驶技术已经十分普及。在这样的时代背景下，诞生了一项公路汽车比赛。这项广受全世界欢迎的比赛名为MFG。保时捷、法拉利、兰博基尼等以速度著称的品牌汽车都相继参与到这项比赛中。而另一边，毕业于英国著名赛车学校的车手夏向·利文顿出于某种目的回到了日本——。",
-        "popularity": 342.864,
+        "popularity": 295.365,
         "poster_path": "/imfBdKnxBHG62LPCoIzI4clHQ6q.jpg",
         "first_air_date": "2023-10-02",
         "name": "极速车魂",
         "vote_average": 7.8,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
+    }
+  },
+  {
+    "title": "ラグナクリムゾン",
+    "date": "2023-09-30T16:00:00.000Z",
+    "bangumi": {
+      "id": "374648"
+    },
+    "tmdb": {
+      "id": 195459,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/8Tv140K71PVsiU5z0vRNrgZpKAM.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
+        "id": 195459,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ラグナクリムゾン",
+        "overview": "“狩龙人”是一项挥舞银剑，狩猎恶龙，获取报酬的职业。\n\n狩龙人少年拉格纳，与拥有惊人的龙讨伐数的天才少女蕾欧妮卡组成搭档，开始了日复一日讨伐龙的挑战。他的愿望只有一个——“不变强也没关系，我只想一直待在蕾欧身边。”少年的愿望因最凶恶之龙的袭击而随之破灭。\n\n挑战绝对的强者，反抗强制的命运，向着极限前进——\n\n超克己主义异世界极限战斗！！",
+        "popularity": 137.67,
+        "poster_path": "/xecWqi1iHrI100PJsZZXSOtJjuI.jpg",
+        "first_air_date": "2023-10-01",
+        "name": "狩龙人拉格纳",
+        "vote_average": 5.8,
+        "vote_count": 4
+      }
     }
   }
 ]

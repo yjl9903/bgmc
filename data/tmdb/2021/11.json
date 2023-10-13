@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 877840,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/cSX2t3id47mRRpPSsw0MbKUC7YZ.jpg",
@@ -17,15 +18,14 @@
         "original_language": "ja",
         "original_title": "映画 すみっコぐらし 青い月夜のまほうのコ",
         "overview": "角落小镇上有个传说，每五年出现一次的蓝色满月之夜，将有神秘的魔法师出现为大家实现梦想。某个秋日夜晚，这个传说竟然成真了！搭着魔幻飞船的「魔法5人组」来到小镇并施下魔法，让角落小伙伴变身魔法师一同玩耍，共度了一晚魔幻的快乐时光。然而回家时魔法师们却不小心把年纪最小的「五」留在角落小镇了！被遗留在小镇上的他受到小伙伴的细心照料，为了报答小伙伴们的照顾，还不太会使用魔法的「五」决定替角落小伙伴实现梦想！究竟小伙伴们各自的梦想是什么？梦想真的能用魔法实现吗？",
-        "popularity": 1.736,
+        "popularity": 1.286,
         "poster_path": "/yVlesOTJlibLkVenDlj4taINiOQ.jpg",
         "release_date": "2021-11-05",
         "title": "角落小伙伴：蓝色月夜的魔法之子",
         "video": false,
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -67,6 +67,7 @@
     },
     "tmdb": {
       "id": 798544,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/2KudiO1hPYRkzgl50339u0vKabx.jpg",
@@ -83,13 +84,12 @@
           9648,
           14
         ],
-        "popularity": 27.374,
+        "popularity": 31.333,
         "release_date": "2021-11-12",
         "video": false,
-        "vote_average": 7.4,
-        "vote_count": 99
-      },
-      "type": "tv"
+        "vote_average": 7.38,
+        "vote_count": 100
+      }
     }
   },
   {
@@ -100,6 +100,7 @@
     },
     "tmdb": {
       "id": 138546,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/stcjzLl7rD9A6WDaHuUcUAOJdxl.jpg",
@@ -120,8 +121,7 @@
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -132,6 +132,7 @@
     },
     "tmdb": {
       "id": 127599,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/vI8cIF3G0yZyj5NtntuoFhKfrM6.jpg",
@@ -148,15 +149,14 @@
           10765,
           10759
         ],
-        "popularity": 12.554,
+        "popularity": 17.576,
         "first_air_date": "2021-11-25",
         "vote_average": 6.774,
         "vote_count": 42,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

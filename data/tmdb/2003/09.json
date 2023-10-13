@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 45288,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/al1DWKnt5kcSeV9onSJTdpqtRmq.jpg",
@@ -23,13 +24,12 @@
           18,
           28
         ],
-        "popularity": 42.313,
+        "popularity": 36.898,
         "release_date": "2003-09-05",
         "video": false,
         "vote_average": 6.6,
         "vote_count": 35
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -73,6 +73,7 @@
     },
     "tmdb": {
       "id": 125377,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -86,15 +87,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 2.687,
+        "popularity": 3.762,
         "first_air_date": "2003-09-26",
         "vote_average": 7,
         "vote_count": 1,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -105,6 +105,7 @@
     },
     "tmdb": {
       "id": 56748,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -125,8 +126,7 @@
         "name": "Papuwa",
         "vote_average": 6,
         "vote_count": 1
-      },
-      "type": "tv"
+      }
     }
   }
 ]

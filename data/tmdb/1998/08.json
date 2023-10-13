@@ -39,6 +39,7 @@
     },
     "tmdb": {
       "id": 464038,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/dhZzWxSTC5YdQrBsVEMzYEG9d8F.jpg",
@@ -52,15 +53,14 @@
         "original_language": "ja",
         "original_title": "機動戦士ガンダム 第08MS小隊 ミラーズ・リポート",
         "overview": "　　此乃为了纪念高达20周年所制作的电影，将OVA的1～7集汇编一下，并增添一位情报部米拉情报官，她是前来调查西罗间谍罪行，由她的行为将这几集OVA的内容精简、穿插在一起。",
-        "popularity": 7.959,
+        "popularity": 9.715,
         "poster_path": "/fdFxuckun446PsbjhfeunhgKeLF.jpg",
         "release_date": "1998-08-01",
         "title": "机动战士高达第08MS小队 米娜的报告",
         "video": false,
         "vote_average": 7,
         "vote_count": 9
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -71,6 +71,7 @@
     },
     "tmdb": {
       "id": 22914,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/hpdROxSApbVxbIc2L17kaNCwVD3.jpg",
@@ -83,15 +84,14 @@
         "original_language": "ja",
         "original_title": "新機動戦記ガンダムＷ Endless Waltz 特別篇",
         "overview": "地球与殖民地结束战斗。除了五飞，希洛等人决心把钢弹弃置于太阳。然而统一的地球圈又被人类的欲望所吞噬，战乱再一次燃起，A.C.196年莉莉娜被玛莉美亚军掳走，同时于新建的殖民地(X18999)向地球宣战，希洛等人原本把弃置去太阳的钢弹再次取回作战。",
-        "popularity": 11.572,
+        "popularity": 10.937,
         "poster_path": "/cC3DYOZFHKXtYUZ89bKRCoV2X6C.jpg",
         "release_date": "1998-08-01",
         "title": "新机动战记高达W 无尽的华尔兹剧场版",
         "video": false,
         "vote_average": 7.1,
         "vote_count": 40
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -102,6 +102,7 @@
     },
     "tmdb": {
       "id": 36613,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/zA9p0cZK0AcWepTslez1GL3AwH1.jpg",
@@ -122,8 +123,7 @@
         "video": false,
         "vote_average": 6.8,
         "vote_count": 8
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -134,6 +134,7 @@
     },
     "tmdb": {
       "id": 26572,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/bUwkzmWJCaXTEDjLsDGYqoFe1oY.jpg",
@@ -148,14 +149,13 @@
         "original_language": "ja",
         "original_name": "ももいろシスターズ",
         "overview": "",
-        "popularity": 5.377,
+        "popularity": 7.528,
         "poster_path": "/44g63SrTFB5gzTy57T3wLWwA2EE.jpg",
         "first_air_date": "1998-08-25",
         "name": "Momoiro Sisters",
         "vote_average": 8,
         "vote_count": 2
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -166,6 +166,7 @@
     },
     "tmdb": {
       "id": 68736,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/qoLIInnDf9FJxJcVgZyvqQyDxz.jpg",
@@ -181,15 +182,14 @@
           10759,
           10765
         ],
-        "popularity": 8.781,
+        "popularity": 12.293,
         "first_air_date": "1998-08-25",
         "vote_average": 7.8,
         "vote_count": 5,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

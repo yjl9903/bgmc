@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 45047,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/w4o0cJBVQxZGwrL7iLCF0o0nCet.jpg",
@@ -30,8 +31,7 @@
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -42,6 +42,7 @@
     },
     "tmdb": {
       "id": 352046,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/d0KUr8oLtU1moYnktiGDeZniQ3b.jpg",
@@ -54,15 +55,14 @@
         "original_language": "ja",
         "original_title": "銀河鉄道の夜 -Fantasy Railroad in the Stars-",
         "overview": "家境贫寒的男孩焦班尼，在欢乐的半人马星节之夜跑上了一座黑黝黝的山岗。山岗上可以看见莹白、雪亮的银河河岸上，芒草，随风摇曳，掀起一片片波浪。天河水泛出一丝丝紫灿灿的涟调，如同万道彩虹，滚滚奔流。焦班尼不知不觉地登上了无名的小火车。漂亮的小火车随着天空的芒草波浪飘荡，在天河流水中，在三角点的银光里，勇往直前地行进。铁轨两旁低矮的结缕草中，盛开着一簇簇如月长石雕刻的紫色龙胆花……",
-        "popularity": 2.45,
+        "popularity": 3.43,
         "poster_path": "/zoYMryPYXd821Ce27rzhCVFfbpx.jpg",
         "release_date": "2006-06-17",
         "title": "银河铁道之夜",
         "video": false,
         "vote_average": 7,
         "vote_count": 4
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -73,7 +73,7 @@
     },
     "tmdb": {
       "id": 35415,
-      "season": 2,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/9JE0yBCvffLUvIawvjP7Z3nmiNO.jpg",
@@ -95,8 +95,7 @@
         "name": "蜂蜜与四叶草",
         "vote_average": 8.3,
         "vote_count": 25
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -107,6 +106,7 @@
     },
     "tmdb": {
       "id": 36523,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/bnAHD5JRY1RmOIMYojd9X0q4Y6Q.jpg",
@@ -122,14 +122,46 @@
         "original_language": "ja",
         "original_name": "貧乏姉妹物語",
         "overview": "山田今日（坂本真绫 配音）和山田明日（金田朋子 配音）是一对感情十分要好的姐妹，虽然母亲早逝，可在父亲的关爱下，姐妹两人的生活尚且可以说是无忧无虑。可是，自从父亲背负了大笔债务人间蒸发后，美好的生活结束了，山田家陷入了水深火热之中。\n\n　　为了维持生计，今日干起了派送报纸的兼职，同时，勤劳懂事的明日小小年纪就担负起了家里的家务事宜，并利用一切机会赚取外快补贴家用。姐妹两的日子过得很辛苦，幸运的是，在她们周围，陪伴着一群善良又热情的朋友们。面冷心热的房东林源三（麦人 配音），小说家邻居三枝兰子（平松晶子 配音），大龄剩男一之仓正男（岸尾大辅 配音），所有的人都尽其所能的帮助这对贫穷的姐妹。善意和爱心在这个小镇上传递着。",
-        "popularity": 4.544,
+        "popularity": 6.362,
         "poster_path": "/vgzRbyaUkemyndhyouWRmrf8TeE.jpg",
         "first_air_date": "2006-06-29",
         "name": "贫穷姐妹物语",
         "vote_average": 7.8,
         "vote_count": 6
-      },
-      "type": "tv"
+      }
+    }
+  },
+  {
+    "title": "出ましたっ！パワパフガールズＺ",
+    "date": "2006-06-30T22:00:00.000Z",
+    "bangumi": {
+      "id": "30503"
+    },
+    "tmdb": {
+      "id": 12406,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/1PaEWlOjm0Qxo4w6NAvJRnZbKDN.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "id": 12406,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "出ましたっ！パワパフガールズZ",
+        "overview": "一日，致力于研究化学X神秘物质的ユートニウム博士跟助手同时也是他儿子肯发现了一种新物质Z。这种物质发射出一道白光跟一道黑光，在东京城中放出。\n\n　　这道白光打到了初中一年级生赤堤ももこ、豪徳寺みやこ、松原かおる这3个女孩身上，于是，3个飞天小女警诞生了！！\n\n　　与此同时，那道黑光打到了东京动物园里。一座猴子山上的猴子变成了飞天小女警们的宿敌。小女警们将怎样保卫这座城市呢？……",
+        "popularity": 46.026,
+        "poster_path": "/lJpPdByOlbmU1Gu40VOL6fEg9U3.jpg",
+        "first_air_date": "2006-07-01",
+        "name": "飞天小女警Z",
+        "vote_average": 8.145,
+        "vote_count": 211
+      }
     }
   }
 ]

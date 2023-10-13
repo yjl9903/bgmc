@@ -37,6 +37,7 @@
     },
     "tmdb": {
       "id": 186969,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/qnWmb4S1DHbh4CrJMORiZZKCzL5.jpg",
@@ -48,15 +49,14 @@
         "original_language": "ja",
         "original_title": "虹色ほたる 〜永遠の夏休み〜",
         "overview": "某年夏天，六年级小学生裕太（武井证 配音）独自来到位于深山的萤之丘水库。当年他曾和父亲来到这里捉独角仙，一年前父亲意外去世，曾留下无数美好回忆的水库，对他来说自然别有一番意义。在此期间，他遭遇罕见的暴雨，结果不小心跌落水库。幸运的是裕太成功获救，在一个古色古香的小村庄里，他结识了可爱天真的小女孩纱荣子（木村彩由实 配音）。偶然间裕太发现，自己正身处昭和25年（1950），而这里正是后来沉入水库的小村庄。意外穿越时空三十年，对裕太来说究竟意味着什么呢？  　　本片根据网络作家川口雅幸的同名原作改编。",
-        "popularity": 5.117,
+        "popularity": 3.421,
         "poster_path": "/yzqTw0l2IaeFiuvqg4orP2pGA1g.jpg",
         "release_date": "2012-05-19",
         "title": "虹色萤火虫，永远的暑假",
         "video": false,
         "vote_average": 7.3,
         "vote_count": 5
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -98,6 +98,7 @@
     },
     "tmdb": {
       "id": 66209,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -112,15 +113,14 @@
           16,
           35
         ],
-        "popularity": 4.112,
+        "popularity": 5.757,
         "first_air_date": "2012-05-25",
         "vote_average": 6,
         "vote_count": 2,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -131,6 +131,7 @@
     },
     "tmdb": {
       "id": 121536,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/8TPP2KFGmwE6xowk3ZgbIBT8hpi.jpg",
@@ -145,15 +146,14 @@
           16,
           35
         ],
-        "popularity": 0.993,
+        "popularity": 0.6,
         "first_air_date": "2012-05-30",
         "vote_average": 6,
         "vote_count": 2,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

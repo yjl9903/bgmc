@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 117853,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -23,13 +24,12 @@
           16,
           35
         ],
-        "popularity": 0.783,
+        "popularity": 0.6,
         "release_date": "1988-12-02",
         "video": false,
         "vote_average": 6.5,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   }
 ]

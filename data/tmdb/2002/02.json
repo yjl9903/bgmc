@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 37910,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/427l6SvKGY3JLKnwOpG5fnCAfV7.jpg",
@@ -19,51 +20,14 @@
         "original_language": "ja",
         "original_title": "ほしのこえ",
         "overview": "　　故事始于2046年，为了追捕侵袭火星的外星人多鲁米斯星人，宇宙探索舰Lysithea号在各地挑选先发人员，初中生美加子（武藤寿美配）也成为一名宇宙员。开始了辗转于火星、太空基地、木星、冥王星等各地的演习。  　　美加子离开地球后，她的同班同学小昇（铃木千寻配）仍然能收到来自宇宙的问候——美加子时常发来短信告知近况，只是随着距离的扩大，短信送达地球的时间就会越来越长。“有一天一定能再见面吧！”对方都这么想着。可是，美加子终于杳无音信了。  　　8年后，小昇在报纸上读到了8年前宇宙军和多鲁米斯星人恶战且几乎无人生寰的新闻。此时手机突然响了：“24岁的小昇你好，我是15岁的美加子哦！……”手机屏幕上映出这样的话来。",
-        "popularity": 20.036,
+        "popularity": 23.506,
         "poster_path": "/cbWdzt4b55YUFgEfVGr4L5JOg9q.jpg",
         "release_date": "2002-02-02",
         "title": "星之声",
         "video": false,
         "vote_average": 6.5,
         "vote_count": 272
-      },
-      "type": "movie"
-    }
-  },
-  {
-    "title": "おジャ魔女どれみドッカ～ン！",
-    "date": "2002-02-02T23:30:00.000Z",
-    "bangumi": {
-      "id": "14878"
-    },
-    "tmdb": {
-      "id": 20353,
-      "season": 4,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/zJi8eaweBRbCjQU5C1HxucUCW6i.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759,
-          10762
-        ],
-        "id": 20353,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "おジャ魔女どれみ",
-        "overview": "这是一个魔女与人类共存的世界，为保证魔女身份不被揭穿，被人类发现真实身份的魔女会变成魔女青蛙，唯有另一个拥有正式身份的魔女才能解开魔法。一次偶然中，一直梦想能够成为魔女的Doremi识破了魔女莉卡的身份，无奈之下，莉卡将春风收为见习魔女。春风须经历漫长而艰苦的修炼，通过魔女考试才能获得魔女资格。\n\n故事舞台发生在架空的城市──日本美空市美空町，除此之外还有魔女世界和魔法堂等。顺带一提，虽然香港和台湾的小魔女DoReMi相关产品（漫画、精品等）仍然遵照下述译名，但动画部分，无线电视播放的版本一律称为《小魔女DoReMi》，并不作任何区分，东森幼幼台方面则是以第几部来区分。",
-        "popularity": 58.355,
-        "poster_path": "/iCINo8JNXswWelsEycO1frahHS1.jpg",
-        "first_air_date": "1999-02-07",
-        "name": "小魔女DoReMi",
-        "vote_average": 8.299,
-        "vote_count": 82
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -74,6 +38,7 @@
     },
     "tmdb": {
       "id": 42858,
+      "type": "tv",
       "season": 2,
       "search": {
         "adult": false,
@@ -96,8 +61,7 @@
         "name": "银河天使",
         "vote_average": 7.8,
         "vote_count": 5
-      },
-      "type": "tv"
+      }
     }
   }
 ]

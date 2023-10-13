@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 667001,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -15,15 +16,14 @@
         "original_language": "ja",
         "original_title": "KING OF PRISM -Shiny Seven Stars- IV ルヰxシンxUnknown",
         "overview": "The fourth movie in the four-part King of Prism: Shiny Seven Stars movie series.",
-        "popularity": 0.6,
+        "popularity": 1.4,
         "poster_path": null,
         "release_date": "2019-05-04",
         "title": "King of Prism: Shiny Seven Stars IV - Louis x Shin x Unknown",
         "video": false,
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -34,6 +34,7 @@
     },
     "tmdb": {
       "id": 567006,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/pJOYBevz1tMTtexr3KeSx8G6SCN.jpg",
@@ -47,50 +48,14 @@
         "original_language": "ja",
         "original_title": "甲鉄城のカバネリ 海門決戦",
         "overview": "全世界被产业革命的浪潮所席卷，从近世即将进入近代之时，突然，不死的怪物出现了。不击穿其被钢铁皮膜所覆盖的心脏就不能杀死的怪物，以及被其所啃咬的人类死后，会复生成为怪物再度袭击人类。被取名为“尸(卡巴内)”的怪物爆发性地增殖，不久就遍布了全世界。  极东岛国·日之本，立于前线与“尸”正面对抗的装备着厚实装甲的蒸汽机关车(通称·骏城)之一——甲铁城。依靠甲铁城生存下来的生驹与同伴在“尸”与人的攻防战地——面日本海的废坑站「海门」，与玄路、虎落、海门的民众组成了“联合军”，定下击退“尸”的策略。  期间，生驹发现海门的“尸”有着被统治并采取着集体行动的特征。将此信息报告给联合军的生驹却并未被理睬，反而被讥讽了自己的“尸人(卡巴内利)”身份。因怒火而失去了冷静的生驹决意单身进入敌方阵营。  另一方的无名，对一直以来支撑着自己的生驹萌芽了前所未有的感情。这时又传来了生驹打算单身一人闯入敌地的消息——。  与“尸”的新的战斗、以及无名与生驹的命运将会如何发展——！？",
-        "popularity": 13.957,
+        "popularity": 12.215,
         "poster_path": "/w7ofvxIqZN6VHEJbpwOKDb55b8S.jpg",
         "release_date": "2019-05-10",
         "title": "甲铁城的卡巴内瑞：海门决战",
         "video": false,
         "vote_average": 7.089,
         "vote_count": 62
-      },
-      "type": "movie"
-    }
-  },
-  {
-    "title": "カードファイト!! ヴァンガード(続・高校生編)",
-    "date": "2019-05-10T23:00:00.000Z",
-    "bangumi": {
-      "id": "285664"
-    },
-    "tmdb": {
-      "id": 107974,
-      "season": 2,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/xI7h69GCjMVrRNZxL0jBoiEFTpP.jpg",
-        "genre_ids": [
-          10759,
-          16,
-          35,
-          10762
-        ],
-        "id": 107974,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "カードファイト!! ヴァンガード",
-        "overview": "The main protagonist Sendou Aichi, is a timid and mundane third-year middle school boy. The thing that supported Aichi's heart, was the \"Blaster Blade\" card that he received as a child. It's an important rare card from \"Vanguard\", a card game with the imaginary world of \"Planet Cray\" as its stage. From the day he reunited with the person who gave him that card \"Toshiki Kai\", Aichi's everyday life began to change.",
-        "popularity": 10.846,
-        "poster_path": "/fcL20oaRWpxjJgPo5GPF9UVuyGd.jpg",
-        "first_air_date": "2018-05-05",
-        "name": "卡片战斗先导者!!Vanguard",
-        "vote_average": 0,
-        "vote_count": 1
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -101,6 +66,7 @@
     },
     "tmdb": {
       "id": 86823,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/fF9CNg5qeBb900qTM7Z9k0x6Pev.jpg",
@@ -115,15 +81,14 @@
           16,
           18
         ],
-        "popularity": 25.133,
+        "popularity": 35.186,
         "first_air_date": "2019-05-11",
         "vote_average": 6.7,
         "vote_count": 25,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {

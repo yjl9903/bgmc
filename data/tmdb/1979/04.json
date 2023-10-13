@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 57911,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/6oVBODwFvbDJczBFlf4J930jKZg.jpg",
@@ -23,14 +24,13 @@
         "original_language": "ja",
         "original_name": "ドラえもん",
         "overview": "大山羡代版电视动画是《哆啦A梦》第二次动画化，又作朝日电视台版《哆啦A梦》第一期动画（日语:朝日系列第1期）、第二代《哆啦A梦》动画、《哆啦A梦》动画第二版、《哆啦A梦》第二版动画、第二代《哆啦A梦》动画、大山版动画等。是指日本朝日电视台自1979年-2005年之间所制作的哆啦A梦电视动画。\n\n这版本动画因其主角哆啦A梦声优为大山羡代而得名，一共出了1816话，共计1806个故事（有10个分上下两话，其中有29篇计入话数的特别篇）以及哆啦A梦名作剧场的24个故事。其中大部分是以原著漫画为基础的故事，但也有不少（尤其后期）为自创的故事。此外亦有少数改编自藤子．F．不二雄其他漫画如《叮当猫》、《奇天烈大百科》、《大耳鼠》其中姊妹作品的故事。\n\n这段时期《哆啦A梦》在世界各地落地生根，发扬光大，许多人对《哆啦A梦》的印象，便是由此而来。",
-        "popularity": 87.895,
+        "popularity": 87.095,
         "poster_path": "/bHMqPDsW7Lb71CVHXq4PuEvQ4NY.jpg",
         "first_air_date": "1979-04-02",
         "name": "哆啦A梦",
         "vote_average": 7.687,
         "vote_count": 564
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -41,6 +41,7 @@
     },
     "tmdb": {
       "id": 6218,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/rgvC1V9ROh7kylqhBevw56oLxz3.jpg",
@@ -56,14 +57,13 @@
         "original_language": "ja",
         "original_name": "ザ☆ウルトラマン",
         "overview": "科学警备队队员光超一郎从宇宙空间站EGG3前往地球的途中与不明宇宙人遭遇，自称为\"奥特曼\"的宇宙人告诉他地球上的各种怪兽与超自然现象危机迫在眉睫，但奥特曼无法以宇宙人的身姿在地球上长期生活，所以便借用光超一郎的身体与之合为一体，并可以用\"闪光之星\"来随时变身，使人类得以应付即将到来的各种危机…作为奥特曼系列的动画版，比起特摄片有固有的优势。在这里，主角可以做以前奥特曼们无法完成的特技。同时在一话中可以有数个奥特曼和怪兽登场，而不用额外的开销。而且，怪兽的设计者们不用再被这个时代\"怪兽的皮套需要适应人的体型\"这一技术条件所限制。因此，他们的创造力可以无限发挥。",
-        "popularity": 9.293,
+        "popularity": 13.01,
         "poster_path": "/ammXEG5yV9KP6Od56TqKRlJfmSy.jpg",
         "first_air_date": "1979-04-04",
         "name": "乔尼亚斯奥特曼",
         "vote_average": 7.8,
         "vote_count": 5
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -74,6 +74,7 @@
     },
     "tmdb": {
       "id": 21731,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/dsSQ97kswXCGr5deuo0et2U3wSt.jpg",
@@ -90,14 +91,13 @@
         "original_language": "ja",
         "original_name": "機動戦士ガンダム",
         "overview": "U.C.（宇宙世纪）0079年，人类向宇宙发展并建立了多个巨大的卫星，让人类能够居住在宇宙中。卫星的居民们不堪忍受地球联邦政府对其剥削和压迫，遂宣布独立，更组建军队与地球联邦政府决一雌雄。在战争中双方先后开发了机动战士并投入战场。NEWTYPE少年阿姆罗·雷无意中驾驶上联邦军新开发的机动战士高达，卷入后来被称为“一年战争”中，并与其宿敌夏亚·阿兹纳布尔相遇。",
-        "popularity": 20.957,
+        "popularity": 29.34,
         "poster_path": "/cmOSAwf5ZtVeJVJ9ckmBV7gSxPV.jpg",
         "first_air_date": "1979-04-07",
         "name": "机动战士高达0079",
         "vote_average": 7.963,
         "vote_count": 41
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -108,6 +108,7 @@
     },
     "tmdb": {
       "id": 118453,
+      "type": "tv",
       "season": 3,
       "search": {
         "adult": false,
@@ -129,8 +130,7 @@
         "name": "巨人之星",
         "vote_average": 7.8,
         "vote_count": 2
-      },
-      "type": "tv"
+      }
     }
   }
 ]

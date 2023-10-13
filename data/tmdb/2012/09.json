@@ -1,39 +1,5 @@
 [
   {
-    "title": "京騒戯画",
-    "date": "2012-08-31T16:00:00.000Z",
-    "bangumi": {
-      "id": "42342"
-    },
-    "tmdb": {
-      "id": 54574,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/k8BrozwEEUQ7E6fhrpkl42sa2pa.jpg",
-        "id": 54574,
-        "name": "京骚戏画",
-        "original_language": "ja",
-        "original_name": "京騒戯画",
-        "overview": "本作是由老牌巨头动画公司东映企划的项目。监督启用了制作过2010年《FRESH光之美少女》剧场动画，并且凭借此片出道的新锐监督松本理恵。故事以时间停止的京都为舞台，这个世界是人类与妖怪并存的世界。伴随着现实总数与负熵的崩溃，3大势力围绕着寻找“黑兔”展开了故事。",
-        "poster_path": "/3xvAA1XkTP2rnpdzTVOYcpmgRac.jpg",
-        "media_type": "tv",
-        "genre_ids": [
-          16,
-          10759,
-          10765
-        ],
-        "popularity": 3.912,
-        "first_air_date": "2012-08-31",
-        "vote_average": 7,
-        "vote_count": 2,
-        "origin_country": [
-          "JP"
-        ]
-      },
-      "type": "tv"
-    }
-  },
-  {
     "title": "バトルスピリッツ ソードアイズ",
     "date": "2012-09-08T22:00:00.000Z",
     "bangumi": {
@@ -41,6 +7,7 @@
     },
     "tmdb": {
       "id": 90357,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/ywaEpzj9008h6wk5XuNBOcHdJTk.jpg",
@@ -57,14 +24,13 @@
         "original_language": "ja",
         "original_name": "バトルスピリッツ ソードアイズ",
         "overview": "The lands of Legendia have the forces of light and darkness in an eternal conflict, a war over the 12 Sword Braves. The two forces attempt to seize the Divine Sword of Judgment. In the distant stone continent of Pacifis, Tsurugi Tatewaki acquires the Shining Sword. As dark forces go after Tsurugi and the Sword Brave, he meets Bringer, a Card Battle Druid given the task to be his protector. Tsurugi learns how to fight with Battle Spirit cards and stands against the dark forces!",
-        "popularity": 4.845,
+        "popularity": 6.783,
         "poster_path": "/zhULquDIsPHcf09gpLoPEOytxvx.jpg",
         "first_air_date": "2012-09-09",
         "name": "战斗之魂Sword Eyes",
         "vote_average": 8.5,
         "vote_count": 2
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -108,6 +74,7 @@
     },
     "tmdb": {
       "id": 560832,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -122,13 +89,12 @@
           16,
           27
         ],
-        "popularity": 0.623,
+        "popularity": 0.6,
         "release_date": "2012-09-21",
         "video": false,
         "vote_average": 6,
         "vote_count": 1
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -139,6 +105,7 @@
     },
     "tmdb": {
       "id": 178592,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/gzBVylQP2AbjacSj1oHeZR08u2g.jpg",
@@ -151,15 +118,14 @@
         "original_language": "ja",
         "original_title": "劇場版 TIGER & BUNNY -The Beginning-",
         "overview": "谁也不曾想到，在科技高度发达的未来城市休特尔比尔特，曾受到歧视的Next族群竟然可发展成依靠超能力为生的超人群体。他们身上贴满广告商的商标，以极其华丽、夸张的拿手绝活擒拿扰乱城市的歹徒，其潇洒身姿通过摄像机传到城市每一个角落。鲁莽的Wild Tiger镝木·T·虎彻（平田广明 配音）是这群超人中的一员，但是出道十年的他正面临被时代淘汰的命运。某天，帅气勇猛的新生代超人巴纳比·布鲁克斯·Jr.（森田成一 配音）加入进来，更让虎彻感受到前所未有的压力。  　　而为了刺激收视率，虎彻又不得不和巴纳比组成搭档。全新的体制，前途未卜的大挑战……",
-        "popularity": 20.756,
+        "popularity": 15.066,
         "poster_path": "/mQ7qAsev0trm7jwiXoNHeXCWYHn.jpg",
         "release_date": "2012-09-22",
         "title": "老虎和兔子：诞生",
         "video": false,
         "vote_average": 6.533,
         "vote_count": 15
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -170,6 +136,7 @@
     },
     "tmdb": {
       "id": 53052,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/8yfPHZyAVHVpShPotFV5kCtIjy7.jpg",
@@ -184,14 +151,13 @@
         "original_language": "ja",
         "original_name": "新世界より",
         "overview": "作品以千年之后的未来为背景，讲述了日本的孩子们不断地消失，只存在想象中的奇异动物与人类展开战争的故事。反乌托邦式的未来社会「新世界」，是能够口吐真言、凭藉「咒力」操纵物体的人类，与有著等同于普通人智力的生物「化鼠」共存的世界。乍看之下一切和平，但「新世界」的孩子们被彻底地控制和管束著，不合适的记忆被消去，被认为有问题的孩子如同不良产品般被处理。因为一些违反规则的小事而莫名失去朋友的主人公早季，卷进了人类与化鼠之间的战争……本作除了令人毛骨悚然的故事情节外，还对未来社会持续破坏自然环境所引发的一系列问题进行了探讨和思辨，取得了08年的日本SF大赏殊荣。",
-        "popularity": 15.744,
+        "popularity": 22.042,
         "poster_path": "/ywghUXAMWJ2uY43bPUgRCPnusJF.jpg",
         "first_air_date": "2012-09-29",
         "name": "来自新世界",
         "vote_average": 7.788,
         "vote_count": 80
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -202,6 +168,7 @@
     },
     "tmdb": {
       "id": 181656,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/SRqyqMk9Zg80mwJBDHlNswYBwa.jpg",
@@ -215,15 +182,14 @@
         "original_language": "ja",
         "original_title": "アシュラ",
         "overview": "平安时代末，天灾人祸，世道离乱，横尸遍野。在这个人吃人的恐怖时代，一条受到诅咒的生命降临人间。年幼的他（野泽雅子 配音）自幼以人肉为食，成为令人闻风丧胆的食人魔。直到与慈悲的法师（北大路欣也 配音），他才终于有了名字“阿修罗”，一句“南无阿弥陀佛”更在阿修罗的心中种下人性复苏的种子。在被人追杀的绝望途中，阿修罗得到美丽少女若狭（林原惠美 配音）给他无微不至的关怀与照顾，野兽般少年的心底善良的花朵绽放。可是在兵荒马乱、人性沦丧的时代。他的美好期望相继落空，留给阿修罗的究竟是什么？",
-        "popularity": 16.488,
+        "popularity": 11.796,
         "poster_path": "/g61EUqJhjoqeDrztp77BJKcidNf.jpg",
         "release_date": "2012-09-29",
         "title": "阿修罗",
         "video": false,
         "vote_average": 7.2,
         "vote_count": 69
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -234,6 +200,7 @@
     },
     "tmdb": {
       "id": 45005,
+      "type": "tv",
       "season": 2,
       "search": {
         "adult": false,
@@ -256,8 +223,7 @@
         "name": "绯色的碎片",
         "vote_average": 6.8,
         "vote_count": 6
-      },
-      "type": "tv"
+      }
     }
   }
 ]

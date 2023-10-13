@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 44729,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/xGJBLsiY0quc2pOcCH1MdnF5P8.jpg",
@@ -19,15 +20,14 @@
         "original_language": "ja",
         "original_title": "ワンピース the movie オマツリ男爵と秘密の島",
         "overview": "某天，草帽海贼团的诸位拾到一个漂流瓶。根据漂流瓶中的信息，在伟大航路上有一个娱乐至上的狂欢岛，靓女、美酒、佳肴应有尽有，是一个海贼中的海贼最值得去的地方。众人几乎未作过多迟疑，扬帆便向狂欢岛挺进。然而到达目的地才发现，这却是一个渺无人烟的荒凉小岛。当然好戏还在后头，他们很快便发现一个超级华丽的乐园。乐园的主人狂欢男爵承诺赐予众人天堂般的享受与欢乐，不过在此之前，他们还必须经过地狱般的试炼。已被“勇猛海贼”虚名冲昏头脑的路飞不顾众人阻拦，带着大家开始了一场莫名其妙的探险之中……  　　本片根据日本漫画家尾田荣一郎的同名原著改编，是2005年上映的第六部动画剧场版。",
-        "popularity": 30.074,
+        "popularity": 20.262,
         "poster_path": "/5cwR2CNYpibjKPBA9imMBEQSNeH.jpg",
         "release_date": "2005-03-05",
         "title": "海贼王：狂欢男爵和神秘岛",
         "video": false,
-        "vote_average": 7.205,
-        "vote_count": 183
-      },
-      "type": "movie"
+        "vote_average": 7.198,
+        "vote_count": 184
+      }
     }
   },
   {
@@ -38,6 +38,7 @@
     },
     "tmdb": {
       "id": 600056,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/yDhBxK2y3lzKpMQoIXnqu6wKizU.jpg",
@@ -51,13 +52,12 @@
         "genre_ids": [
           16
         ],
-        "popularity": 0.988,
+        "popularity": 0.649,
         "release_date": "2005-03-10",
         "video": false,
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -102,6 +102,7 @@
     },
     "tmdb": {
       "id": 174815,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/5SRiFYxnp1al4HK7BJ23TqQnMdc.jpg",
@@ -117,13 +118,12 @@
           28,
           10749
         ],
-        "popularity": 2.573,
+        "popularity": 1.977,
         "release_date": "2005-03-30",
         "video": false,
         "vote_average": 3.7,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   }
 ]

@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 726550,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/kAut7makPUPczWVFNl2eG427tn9.jpg",
@@ -20,15 +21,14 @@
         "original_language": "ja",
         "original_title": "ARIA The CREPUSCOLO",
         "overview": "　改编自漫画家天野梢的同名漫画。背景设定在未来，彼时人类已将火星改造成九成被海水覆盖的宜居星球，并在星球上以水都威尼斯为范本建造了城市新威尼斯。作品讲述在新威尼斯驾驶小船带观光客游览城市的领航员们，一起工作、生活及与人邂逅的温情故事。  新威尼斯正值铺上落叶地毯的秋天。  在橘色行星展开实习日常的阿妮亚，有一件非常在意的事情。 那就是由于双方都很忙碌，这使得爱理须前辈及雅典娜前辈已许久没见到面。 因此而无精打采的雅典娜，爱理须则是不知为何刻意避不见面。 就在阿妮亚找朋友爱和梓帮忙，寻找绝对能让前辈们碰面的方法时，她也注意到了只有现在的自己，才能看见的“景色”......",
-        "popularity": 4.519,
+        "popularity": 6.327,
         "poster_path": "/hVIYDxAD8v5jZ6MnroZ8jhc7nfl.jpg",
         "release_date": "2021-03-05",
         "title": "水星领航员 暮色",
         "video": false,
         "vote_average": 7.6,
         "vote_count": 8
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -39,6 +39,7 @@
     },
     "tmdb": {
       "id": 112795,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/u9vvv00Xis1sJ4oEDHEwekQingl.jpg",
@@ -53,15 +54,14 @@
           16,
           10765
         ],
-        "popularity": 5.122,
+        "popularity": 7.171,
         "first_air_date": "2021-03-07",
         "vote_average": 6,
         "vote_count": 1,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -72,7 +72,7 @@
     },
     "tmdb": {
       "id": 65930,
-      "season": 5,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/jsXKG9uppnPrhqFNhImllyCfLhl.jpg",
@@ -93,8 +93,7 @@
         "name": "我的英雄学院",
         "vote_average": 8.672,
         "vote_count": 4509
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -105,6 +104,7 @@
     },
     "tmdb": {
       "id": 195830,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/qMYkq5HgQq3p2BdlKpeIEs2ipIX.jpg",
@@ -119,14 +119,13 @@
         "original_language": "ja",
         "original_name": "赤ちゃん本部長",
         "overview": "In this workplace comedy, Takeda, a 47-year-old business executive, is suddenly transformed into an infant with an out-of-control body but a mind that is as sharp as ever. Instead of his favorite food and cocktails, he is forced to switch to meals of porridge and baby formula, with plenty of naps in between. Meanwhile, his subordinates have to cope with the unusual circumstances and learn more about the meaning of understanding and compassion along the way.",
-        "popularity": 1.156,
+        "popularity": 1.618,
         "poster_path": "/konEm9gbFhErcoiMPx7WOqvTvXg.jpg",
         "first_air_date": "2021-03-29",
         "name": "Baby in Charge",
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   }
 ]

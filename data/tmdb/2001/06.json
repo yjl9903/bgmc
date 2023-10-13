@@ -1,33 +1,5 @@
 [
   {
-    "title": "世界名作劇場・完結版 トラップ一家物語",
-    "date": "2001-06-01T16:00:00.000Z",
-    "bangumi": {
-      "id": "211293"
-    },
-    "tmdb": {
-      "id": 828831,
-      "search": {
-        "adult": false,
-        "backdrop_path": null,
-        "id": 828831,
-        "title": "音乐之声（2005）",
-        "original_language": "zh",
-        "original_title": "The Sound of Music",
-        "overview": "《音乐之声》是一部1992年英国出品的动画短剧，由Phil Mulloy导演。  一个无可否认趋向地狱的世界。 沃夫白天擦窗户为生，晚上吹萨克斯。在一个慈善晚宴上，局面开始失控。",
-        "poster_path": null,
-        "media_type": "movie",
-        "genre_ids": [],
-        "popularity": 0.6,
-        "release_date": "",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0
-      },
-      "type": "tv"
-    }
-  },
-  {
     "title": "あじむ 〜海岸物語〜",
     "date": "2001-06-15T16:00:00.000Z",
     "bangumi": {
@@ -35,6 +7,7 @@
     },
     "tmdb": {
       "id": 43033,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/egu6ZjXNsneZleBF2wEFKOfdXBY.jpg",
@@ -49,15 +22,14 @@
           18,
           16
         ],
-        "popularity": 2.767,
+        "popularity": 3.874,
         "first_air_date": "2001-06-15",
         "vote_average": 6.7,
         "vote_count": 3,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

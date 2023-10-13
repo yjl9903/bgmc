@@ -1,35 +1,5 @@
 [
   {
-    "title": "かげもの",
-    "date": "2011-12-31T16:00:00.000Z",
-    "bangumi": {
-      "id": "169810"
-    },
-    "tmdb": {
-      "id": 106184,
-      "type": "movie",
-      "search": {
-        "adult": false,
-        "backdrop_path": null,
-        "id": 106184,
-        "title": "偷影子的老鼠",
-        "original_language": "xx",
-        "original_title": "Kagemono: The Shadow Folk",
-        "overview": "　作者Sabrina Cotugno，1990年7月27日生的狮子座九零后动画人，这部作品则是她在Calarts（加州艺术学院）第四年的作品，讲的是一个关于一只名叫Beopup的小狐狸在森林里毫无保护并不愉快的狩猎的故事，剧情十分巧妙。  　　作者拥有Calarts角色动画美术学士学位，同时还是一名哥布林的交换生，并在皮克斯进行着实习工作。她热衷于故事的讲述，一般来说她从脑海中角色和情节的凌乱的数据库中画下灵感，然后通过短片的形式展现给大家。当然，除了短片创作外，她还喜欢漫画和烹饪，毕竟动画人也都是正常人嘛。",
-        "poster_path": "/hSashbJS3ofmBM37qTJIMp02EQt.jpg",
-        "media_type": "movie",
-        "genre_ids": [
-          16
-        ],
-        "popularity": 1.4,
-        "release_date": "2012-04-28",
-        "video": false,
-        "vote_average": 4.8,
-        "vote_count": 2
-      }
-    }
-  },
-  {
     "title": "夏目友人帳 肆",
     "date": "2012-01-02T16:30:00.000Z",
     "bangumi": {
@@ -37,7 +7,7 @@
     },
     "tmdb": {
       "id": 69500,
-      "season": 4,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/n1Hd1Mvg6CXYko1nZK1PDt57QhK.jpg",
@@ -60,8 +30,7 @@
         "name": "夏目友人帐",
         "vote_average": 8.1,
         "vote_count": 55
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -72,6 +41,7 @@
     },
     "tmdb": {
       "id": 67249,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/jL12R06O32PEGRxX3ihvbdOxtif.jpg",
@@ -86,14 +56,13 @@
         "original_language": "ja",
         "original_name": "新テニスの王子様",
         "overview": "《新网球王子》是根据许斐刚的同名体育漫画所改编，由Production I.G和M.S.C联合制作。\n\n2011年11月初，东京电视台正式公布TV动画化，2011年12月4日在东京电视台的动画节目官方网站“あにてれ”也正式为《新网球王子》开放了主页，并公布动画制作班底及声优情报  。于2012年1月4日—2012年3月28日在东京电视台播出，全13集。《新网球王子》官方推出BD和DVD， 另在DVD后附赠7话OVA。\n\n《新网球王子》讲的是全国大赛结束后，进行的中学生国际网球比赛。",
-        "popularity": 7.6,
+        "popularity": 10.64,
         "poster_path": "/fjNE6UWyPQKWrNWwEztMXanjGaG.jpg",
         "first_air_date": "2012-01-04",
         "name": "新网球王子",
         "vote_average": 6.571,
         "vote_count": 7
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -104,7 +73,7 @@
     },
     "tmdb": {
       "id": 51492,
-      "season": 2,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/t7MjkWAaM7OBwamGY7lsc5bmI63.jpg",
@@ -125,8 +94,7 @@
         "name": "侦探歌剧 少女福尔摩斯",
         "vote_average": 9,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -137,6 +105,7 @@
     },
     "tmdb": {
       "id": 52873,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -152,14 +121,13 @@
         "original_language": "ja",
         "original_name": "リコーダーとランドセル",
         "overview": "宫川敦志和宫川敦美是情同手足的姐弟，两人之间的感情十分深厚。敦志只是一个小学五年级的学生，却拥有着一米八零的大高个，看起来十分稳健成熟。而敦美已经升入了高中二年级，却是个身高只有一米三七的萌妹子。\n\n走在外面，敦志和敦美常常会被误认为是兄妹，两人的身高和样貌亦常常闹出不少的笑话，实际上，是娇小的敦美一直在保护和照顾的敦志。将敦志误以为是高中生而暗恋着他的沙夜，天真单纯的班主任盛山二见、敦志暗恋着的同班同学小雏，是这些朋友们围绕在敦志和敦美的周围，在他们最需要帮助的时候伸出援手。",
-        "popularity": 6.323,
+        "popularity": 8.852,
         "poster_path": "/3N78xAszaBfwteZqGtLxRhK2iim.jpg",
         "first_air_date": "2012-01-06",
         "name": "竖笛与双肩背包",
         "vote_average": 3.8,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -170,6 +138,7 @@
     },
     "tmdb": {
       "id": 73598,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/ocEgKFd1WHq2nXxyaaOhd0RMRI3.jpg",
@@ -184,14 +153,13 @@
         "original_language": "ja",
         "original_name": "キルミーベイベー",
         "overview": "表面上看来，索尼娅是一个扎着双马尾的金发美少女高中生，但实际上，她有着一个秘密的身份——杀手。作为一名杀手，索尼娅有着异常敏锐的神经，任何突然靠近她的生物，都会受到她的强力攻击。少女折部安奈自称是索尼娅的朋友，但似乎没有得到索尼娅的认可。因为其大大咧咧的天然呆个性，安奈经常成为索尼娅本能攻击的受害者。\n\n在无意间，安奈发现，虽然索尼娅是个令人闻风丧胆的杀手，但她在昆虫和妖怪方面却有着意外小的胆量，这也成为了拉近二人关系的重要契机。同时，索尼娅的杀手同事吴织亚切，毫无存在感的不知名少女也来到了安奈的身边，杀手和少女们热闹的日常生活展开了。",
-        "popularity": 6.538,
+        "popularity": 9.153,
         "poster_path": "/roi29pllxcLud3wVAky4msljKE.jpg",
         "first_air_date": "2012-01-05",
         "name": "爱杀宝贝",
         "vote_average": 5.2,
         "vote_count": 13
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -202,7 +170,7 @@
     },
     "tmdb": {
       "id": 52083,
-      "season": 2,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/nHHqSwdnV60GaqzqZlj9rByAX5f.jpg",
@@ -224,8 +192,7 @@
         "name": "圣诞之吻SS",
         "vote_average": 7.083,
         "vote_count": 36
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -236,6 +203,7 @@
     },
     "tmdb": {
       "id": 45950,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/oF8PNdntjZ7DUrAvnhNPPNRi0q6.jpg",
@@ -252,14 +220,13 @@
         "original_language": "ja",
         "original_name": "ハイスクールD×D",
         "overview": "兵藤一诚本是一个平凡的高中生，却莫名其妙地在第一次约会当中被真身为堕天使化身的女友杀害！\n\n“你已经转生变成恶魔了。为我工作吧！”\n\n在生命垂危之际，一诚被学校的学姐莉雅丝·吉蒙里所拯救，而代价则是被真实身份是恶魔的莉雅丝转生成她的恶魔随从。一诚为了主人的胸部还有自己的梦想，就此开始了“刺激”与“危险”的新生活！",
-        "popularity": 141.144,
+        "popularity": 197.602,
         "poster_path": "/nuGXXJMsinqGAva3niLI00x1h3K.jpg",
         "first_air_date": "2012-01-06",
         "name": "恶魔高校D×D",
         "vote_average": 8.629,
         "vote_count": 1645
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -270,6 +237,7 @@
     },
     "tmdb": {
       "id": 63322,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/wC1ckkEXOprTrrpDh7LLHLrkXgX.jpg",
@@ -285,14 +253,13 @@
         "original_language": "ja",
         "original_name": "戦姫絶唱シンフォギア",
         "overview": "于未来的某个时间和地方，人气歌唱组合“双翼（Zwei Wing）”举行了风靡万千歌迷的演唱会，岂料演唱第一首歌曲以后，会场就突然被大量谜之敌人Noise攻击。“双翼”的成员风鸣翼和天羽奏等不及总部发出命令，果断地展现出她们最根本的SYMPHOCAL战斗形态，其中一名歌迷立花响见证整件事的发生，亦因此牵连在内，成就了两年后完全不同的她。  风鸣翼及天羽奏，本身是至top的音乐组合《Zweiwing》的两位歌姬女高中生，但在这正常的表面之下，她们还能变身成以她们的歌声战斗的战姬，与被称为“Noise（噪音）”的怪物战斗，保护其他人类。",
-        "popularity": 45.381,
+        "popularity": 63.533,
         "poster_path": "/g0jsgViN4aBybkgTmr4XgZHluxX.jpg",
         "first_air_date": "2012-01-06",
         "name": "战姬绝唱",
         "vote_average": 7.8,
         "vote_count": 13
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -303,6 +270,7 @@
     },
     "tmdb": {
       "id": 45186,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/1h1l8bSu0az0eu0S4QpYoDo9YSe.jpg",
@@ -317,14 +285,13 @@
         "original_language": "ja",
         "original_name": "エリアの騎士",
         "overview": "故事讲述男主角逢泽驱的哥哥逢泽杰，拥有很高的足球天分，还作为日本少年代表的王牌10号，是日本足球界的至宝，而作为弟弟的驱虽然对足球也是充满热情，但因为少年时的一件意外，使驱对足球产生了恐惧，变得不再在别人面前踢足球，只会在晚上自己一个人在公园里追着足球来踢。驱和杰两人同为镰仓中学2年级的学生，杰作为足球部的队长，而驱则逃避地自认为没有足球天分而选择留在哥哥身边担当足球部经理，并梦想成为一名训练师，希望在哥哥登上国际舞台时能站在哥哥的身旁。但身为哥哥的杰对于驱踢足球的天分一直看在眼里，所以看着一直逃避的驱，杰一直也想帮驱重回足球场。后来，杰与驱却因为一宗交通意外而重伤，杰为了保着驱的性命而把自己的心脏移植给驱。驱在之后发现了哥哥的心意及理想，而为了达成哥哥梦想，驱也立志要进入国家足球队，重新踏上足球之道。",
-        "popularity": 14.738,
+        "popularity": 20.633,
         "poster_path": "/uIclZ7srQb4bi7WOb4ZKGXWd3VP.jpg",
         "first_air_date": "2012-01-07",
         "name": "足球骑士",
         "vote_average": 8.063,
         "vote_count": 8
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -335,7 +302,7 @@
     },
     "tmdb": {
       "id": 35753,
-      "season": 4,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/to2gpUoxeNQlbjfswI8mXldaql0.jpg",
@@ -358,8 +325,7 @@
         "name": "零之使魔",
         "vote_average": 8.538,
         "vote_count": 542
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -370,6 +336,7 @@
     },
     "tmdb": {
       "id": 156707,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -381,14 +348,13 @@
         "original_language": "ja",
         "original_name": "偽物語",
         "overview": "",
-        "popularity": 1.093,
+        "popularity": 0.656,
         "poster_path": "/ve6eFn73zoXZq0KldMvBPZBbYS7.jpg",
         "first_air_date": "2012-01-07",
         "name": "偽物語",
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -399,6 +365,7 @@
     },
     "tmdb": {
       "id": 42501,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/6eL4UwpCukawx4vh4akpyywgMUz.jpg",
@@ -414,14 +381,13 @@
         "original_language": "ja",
         "original_name": "モーレツ宇宙海賊",
         "overview": "故事讲述了活跃于宇宙快艇社团，并在高级咖啡厅打工的充满朝气的女子高中生茉莉香，某天在她的面前突然出现自称是已逝的父亲的部下的一男一女，还受到了担任宇宙海贼船“弁天丸”的船长的邀请。一个世纪以前，根据在独立战争中发行的私船免许证，船长死后所有的海贼船由其子孙接班。踏入无法预料的新生活的茉莉香，在前方等待她的究竟是……",
-        "popularity": 11.938,
+        "popularity": 10.754,
         "poster_path": "/rqyWLgaCnhWNm6RMHYFrNviLWHU.jpg",
         "first_air_date": "2012-01-08",
         "name": "暴力宇宙海贼",
         "vote_average": 6.7,
         "vote_count": 7
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -432,6 +398,7 @@
     },
     "tmdb": {
       "id": 42502,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/xAurydEz8gihVAbD12ZELGZQBXb.jpg",
@@ -446,14 +413,13 @@
         "original_language": "ja",
         "original_name": "ブレイブ・テン",
         "overview": "关原之战开始的1年前。出云的巫女伊佐那海被人袭击，在逃亡中遇到伊贺的忍者雾隐才藏，那海只好拜托才藏带她去找信州的真田幸村，就在这时正是真田幸村聚集十位同志的时候……",
-        "popularity": 10.468,
+        "popularity": 14.655,
         "poster_path": "/bY9AXfGAT1WOVItw71sm869zn5B.jpg",
         "first_air_date": "2012-01-08",
         "name": "BRAVE10～真田十勇士～",
         "vote_average": 7.5,
         "vote_count": 13
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -464,6 +430,7 @@
     },
     "tmdb": {
       "id": 45255,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -478,14 +445,13 @@
         "original_language": "ja",
         "original_name": "ポヨポヨ観察日記",
         "overview": "改编自四格漫画，以主人公圆嘟嘟的猫・佐藤ポヨ为中心，讲述饲主佐藤萌和周围人的故事。",
-        "popularity": 5.098,
+        "popularity": 7.137,
         "poster_path": "/9UNkk9EUg5CMmYQV5Bx1A7SiGoQ.jpg",
         "first_air_date": "2012-01-08",
         "name": "嘟嘟猫观察日记",
         "vote_average": 8,
         "vote_count": 1
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -496,6 +462,7 @@
     },
     "tmdb": {
       "id": 42972,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/phcPuBdGvkmiu4UjsxkaMjbVlhG.jpg",
@@ -511,14 +478,13 @@
         "original_language": "ja",
         "original_name": "輪廻のラグランジェ",
         "overview": "主人公·京乃圆是一位从心底热爱自己家乡千叶县·鸭川海洋的女高中生。作为以“有麻烦的话，就去帮一把”为卖点的“鸭女运动衫部”唯一部员，每天都充满活力进行活动的17岁。\n\n有一天，和神秘的美少女·兰相遇，一眼就将她认作为同胞，并且热情邀请加入鸭女部。在这样不经意的情况下增加了部员，圆心内十分高兴。\n\n不仅如此，名为麦波不可思议的转校生也来到了圆的班级。性情平和的麦波，很随意的就加入了运动衫部。原来只有圆一个人的鸭女运动衫部突然增加到了三人，最终将成为保护鸭川的救星。",
-        "popularity": 10.82,
+        "popularity": 15.148,
         "poster_path": "/nQNfa0BGj4MVcNeJ1zyGRYVhiqt.jpg",
         "first_air_date": "2012-01-08",
         "name": "轮回的拉格朗日",
         "vote_average": 8.5,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -529,7 +495,7 @@
     },
     "tmdb": {
       "id": 8872,
-      "season": 2,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/ooZ594lyG7jtLyj2aXkzgPb4wim.jpg",
@@ -553,8 +519,7 @@
         "name": "创圣的大天使",
         "vote_average": 6.733,
         "vote_count": 15
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -565,6 +530,7 @@
     },
     "tmdb": {
       "id": 42499,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/gU97YWhFoOaKSuOebZdp0961xPE.jpg",
@@ -581,14 +547,13 @@
         "original_language": "ja",
         "original_name": "あの夏で待ってる",
         "overview": "为了纪念着一去不复返的夏天，喜爱摄影的少年雾岛海人决定和朋友们自导自演一部影片。正当影片准备动工之时，陌生女孩贵月一花的身影吸引了海人的视线。海人被一花的外表和性格深深的吸引着，而这位行为举止有些怪异的转学生似乎隐藏着什么不可告人的秘密。\n\n长相幼稚身材却姣好的谷川柑菜，成熟稳重的石垣哲朗，性格胆小容易害羞的北原美樱，个性诡异不可琢磨的山乃柠檬，无论结局怎样，在这样的盛夏，和朋友们在一起度过的每一天，都将成为海人无法忘却的珍贵记忆。",
-        "popularity": 16.386,
+        "popularity": 22.94,
         "poster_path": "/pMUxZ4caIS1oACUEVTLIHtKN5JG.jpg",
         "first_air_date": "2012-01-10",
         "name": "在盛夏等待",
         "vote_average": 7.931,
         "vote_count": 36
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -599,6 +564,7 @@
     },
     "tmdb": {
       "id": 45859,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/pVPQrgmOeZwYnQeXYdTnnVsZfF6.jpg",
@@ -613,14 +579,13 @@
         "original_language": "ja",
         "original_name": "男子高校生の日常",
         "overview": "高中男生头脑中时常会充满了一堆胡思乱想，不停的借由作蠢事来讴歌高中生青春。自称非常平凡的高中生的主角忠邦，他在本作三人组之中扮演着常识人一角，并拼命吐槽两个死党秀则与吉竹，但是偶尔也会被他们牵着鼻子走。在三人组中扮演着青春烦恼导师的秀则，时常与吉竹一搭一唱，试图解开一般高中男生的烦恼（只是试图…）。",
-        "popularity": 27.783,
+        "popularity": 38.896,
         "poster_path": "/qjrXA2elPTaxsONVIXyTR2zVJis.jpg",
         "first_air_date": "2012-01-10",
         "name": "男子高中生的日常",
         "vote_average": 8.039,
         "vote_count": 153
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -631,6 +596,7 @@
     },
     "tmdb": {
       "id": 42589,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/oAfc1oNsURepm6VegBSBw1IGMF4.jpg",
@@ -646,14 +612,13 @@
         "original_language": "ja",
         "original_name": "Another",
         "overview": "　　26年前夜见山北中学的三年三班里，曾经有一位名叫「misaki」的学生。她不仅是位运动天才还是个优等生，个性平易近人广受众人喜爱的她却在某日突然猝死，极度悲伤的同班同学们无法接受这件事实，众人决定到毕业之前仍想像见崎还活著般度过每一天。因此见崎的座位就这样一大早上课会有人来打招呼，偶而还会有人藉机搭话——但这段美丽的插曲却对三年三班带来某种扭曲的现象。而在1998年春天，转到三年三班的榊原恒一，莫名感到班上的气氛持续著不安感。在这样的班级里，有位行事异于常人，孤高的美少女见崎鸣——一只眼睛遮著眼罩总是独自一人在画画，拥有不可思议的存在感让恒一不禁想试著接近她，但却就此陷入更深的谜团之中。随著故事的进展，班上的气氛越来越紧张，也有越来越多的人不知是巧合还是「诅咒」而意外生亡……",
-        "popularity": 39.052,
+        "popularity": 54.673,
         "poster_path": "/6qGNb8onKau8LUAPdKSoRHpNc3s.jpg",
         "first_air_date": "2012-01-10",
         "name": "替身",
         "vote_average": 8.456,
         "vote_count": 877
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -664,6 +629,7 @@
     },
     "tmdb": {
       "id": 46183,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/8SsiEhXKptoLCJFeZUT7fCCffIz.jpg",
@@ -680,14 +646,13 @@
         "original_language": "ja",
         "original_name": "パパのいうことを聞きなさい！",
         "overview": "　　濑川祐太自幼失去父母，由姐姐祐理一手抚养长大，因此，祐太和姐姐有着异常深厚的感情。令祐太没有想到的是，姐姐居然嫁给了一个有着两个女儿的年长男人小鸟游信吾并且为他生下了第三个女儿。明知无法一生都和姐姐在一起，但祐太却仍然抑制不住内心的沮丧，虽然逐渐减少了和姐姐的联系，但姐姐的一举一动还是被祐太看在眼里。所以当小鸟游夫妇在飞机上不幸遇难的消息传来后，祐太毫不犹豫的收养了小鸟游家的三个可怜的女孩。个性害羞又很傲娇的小鸟游空；年龄虽小，但异常成熟懂事的小鸟游美羽；惧怕生人但格外信任祐太的小鸟游雏。大家都是曾经失去了父母的孩子，这四人能否组建一个幸福的家庭呢？",
-        "popularity": 13.03,
+        "popularity": 18.242,
         "poster_path": "/m4LD5zdovH7WhqLWXRrTFNasV7t.jpg",
         "first_air_date": "2012-01-11",
         "name": "听爸爸的话！",
         "vote_average": 6.4,
         "vote_count": 12
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -698,6 +663,7 @@
     },
     "tmdb": {
       "id": 74956,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/bU8cXuPvTqw0uqm1HbyZwVI1fY5.jpg",
@@ -712,14 +678,13 @@
         "original_language": "ja",
         "original_name": "テルマエ・ロマエ",
         "overview": "故事背景设在公元128年的古罗马，正值哈德良王当政的繁荣时代。在这里生活着的古代罗马浴场设计技师路西斯，对工作有满腔热忱却不懂创新，他的设计也因为太过陈旧而屡遭驳回。心灰意冷的他决定去浴池泡澡放松一下，不料却被吸进了浴池的排水孔，因而穿越到了现代日本的澡堂！现代日本高度的文明技术让他大开眼界，他也把在日本澡堂获得的灵感带回了罗马，运用到了自己的设计中去。",
-        "popularity": 4.89,
+        "popularity": 6.846,
         "poster_path": "/jat9rzHYLc0PRfKBCbh8yJPRP5l.jpg",
         "first_air_date": "2012-01-12",
         "name": "罗马浴场",
         "vote_average": 5.2,
         "vote_count": 6
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -730,6 +695,7 @@
     },
     "tmdb": {
       "id": 45282,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/tXLnqWhnCqrQSvexVW9JhStcZg3.jpg",
@@ -746,14 +712,13 @@
         "original_language": "ja",
         "original_name": "妖狐×僕SS",
         "overview": "在这个世界中，除了人类和妖怪外，还存在着另一个物种——人类和妖怪结合产生的返祖妖怪。由于其不纯正的血统，返祖妖怪经常会被同类驱逐甚至追杀，因此，一间专门为返祖妖怪提供庇护的“妖馆”应运而生。在妖馆中，每一个返祖妖怪都会配有一位被称为SS的护卫，白鬼院凛凛蝶和御狐神双炽的故事就由此开始。\n\n在妖馆中，还居住着另一些有趣的住客。性格优哉游哉但其实有着意外细腻内心的反之冢连胜和他的护卫雪小路野蔷薇；不良正太渡狸卍里和他的护卫夏目残夏；狂放不羁甚至有些变态的青鬼院蜻蛉和他天然呆的护卫髅髅宫歌留多。在和这些同类相处的过程中，凛凛蝶找回了久违的快乐，同时，返祖妖怪们丢失的记忆也逐渐的浮出了水面。",
-        "popularity": 16.103,
+        "popularity": 22.544,
         "poster_path": "/fX9toocrrR6A6iE9rzBMnFsKmRV.jpg",
         "first_air_date": "2012-01-12",
         "name": "妖狐×仆SS",
         "vote_average": 8,
         "vote_count": 99
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -764,7 +729,7 @@
     },
     "tmdb": {
       "id": 38812,
-      "season": 2,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/9AcAtr42sOsHWMRyTytM7MILPEA.jpg",
@@ -785,8 +750,7 @@
         "name": "纸箱战机",
         "vote_average": 7.5,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -797,6 +761,7 @@
     },
     "tmdb": {
       "id": 128253,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/28BHk7qzkjU3URuSYPSPyXffbuI.jpg",
@@ -809,15 +774,14 @@
         "original_language": "ja",
         "original_title": "ドットハック セカイの向こうに",
         "overview": "CC2制作的《.hack》3DCG电影近日公开了新的宣传视频，这段视频可以说是本次电影版的首段正式预告视频，电影的全称确认为《.hack 世界的彼方》，在2012年1月21日于日本首映。  本作的故事背景设定在西元2024年，在这个世界中已经将网络全面普及化，人类已经可以完全透过网络来进行社交，相当于另外一个世界。故事中一名14岁的初中少女“有城空”在朋友的邀请下开始尝试网络游戏《THE WORLD》，然后因为游戏中的某个事件，影响到了现实与虚拟世界的链接，使两者之间产生了一些异变。",
-        "popularity": 2.653,
+        "popularity": 3.714,
         "poster_path": "/tW9FYOBX6pBWHfDtvwparLrXnag.jpg",
         "release_date": "2012-01-21",
         "title": "骇客时空：世界的彼方",
         "video": false,
         "vote_average": 6.2,
         "vote_count": 10
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -828,6 +792,7 @@
     },
     "tmdb": {
       "id": 188817,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/wQXRpK9sZomnn43MEvsSEN2mTaY.jpg",
@@ -848,8 +813,7 @@
         "video": false,
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -860,6 +824,7 @@
     },
     "tmdb": {
       "id": 73395,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/aEauxQGPgougEblaLppmgXSlM5O.jpg",
@@ -880,8 +845,7 @@
         "name": "极乐院女子高寮物语",
         "vote_average": 5.5,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   }
 ]
