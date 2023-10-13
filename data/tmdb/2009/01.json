@@ -721,24 +721,24 @@
     "tmdb": {
       "id": 35138,
       "type": "tv",
+      "season": 1,
       "search": {
         "adult": false,
         "backdrop_path": "/3uPyDWNJmddUPIXssNXMC3H2jB9.jpg",
-        "id": 35138,
-        "name": "黑塔利亚",
-        "original_language": "ja",
-        "original_name": "ヘタリア",
-        "overview": "这是一部主要以第一次世界大战到第二次世界大战间的世界史为原形的戏仿作品。其中登场人物几乎都是将国家及地区的风土民情、国民性模拟成人格的角色，而「ヘタリア」就是由这些角色们展开的国家拟人化历史喜剧。",
-        "poster_path": "/qjEFumH42sLeeTkjijM5qgmRV8q.jpg",
-        "media_type": "tv",
         "genre_ids": [
           16,
           35
         ],
-        "first_air_date": "2009-01-24",
+        "id": 35138,
         "origin_country": [
           "JP"
-        ]
+        ],
+        "original_language": "ja",
+        "original_name": "ヘタリア",
+        "overview": "这是一部主要以第一次世界大战到第二次世界大战间的世界史为原形的戏仿作品。其中登场人物几乎都是将国家及地区的风土民情、国民性模拟成人格的角色，而「ヘタリア」就是由这些角色们展开的国家拟人化历史喜剧。",
+        "poster_path": "/qjEFumH42sLeeTkjijM5qgmRV8q.jpg",
+        "first_air_date": "2009-01-24",
+        "name": "黑塔利亚"
       }
     }
   },
