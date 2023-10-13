@@ -104,8 +104,8 @@ async function search(bgm: BangumiItem) {
     const begin = new Date(bgm.date);
     const pres = bangumiDB.listPrequel(bgm);
 
-    for (const bgm of pres) {
-      const resp = await client.searchTV({ query: bgm.title, language: 'zh-CN' });
+    for (const preBgm of pres) {
+      const resp = await client.searchTV({ query: preBgm.title, language: 'zh-CN' });
 
       if (resp.results.length > 0) {
         const filtered: Array<{ ok: SearchTVResultItem; season: number }> = [];
@@ -121,10 +121,15 @@ async function search(bgm: BangumiItem) {
 
         if (filtered.length === 1) {
           const result = filtered[0];
+
+          const begin = new Date(bgm.date);
+          const fullyear = begin.getFullYear();
+          const month = String(begin.getMonth() + 1).padStart(2, '0');
+
           console.log(
-            `Info: infer ${bgm.title} to ${getOriginalNameOrTitle(result.ok)} (id: ${
-              result.ok.id
-            }, season: ${result.season})`
+            `Info: infer ${bgm.title} (${fullyear}-${month}) to ${getOriginalNameOrTitle(
+              result.ok
+            )} (id: ${result.ok.id}, season: ${result.season})`
           );
           return {
             ok: result.ok,
