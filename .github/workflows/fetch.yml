@@ -60,4 +60,5 @@ jobs:
 
           gh pr create \
             --title "feat(bgmd): update TMDB data" \
+            --body  "Update TMDB data" \
             --head  "$BRANCH"
