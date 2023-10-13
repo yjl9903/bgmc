@@ -100,6 +100,10 @@ export class OfflineBangumi {
     return this.entries();
   }
 
+  public getById(id: number | string) {
+    return this.map.get(+id);
+  }
+
   public get(item: Item) {
     const bgm = item.sites.find((site) => site.site === 'bangumi');
     if (bgm) {

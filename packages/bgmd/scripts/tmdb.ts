@@ -24,9 +24,9 @@ const client = new TMDBClient({
 });
 
 const bangumiDB = new OfflineBangumi();
+await bangumiDB.load();
 
 async function main() {
-  await bangumiDB.load();
   const files = groupByBegin(
     [...bangumiDB.values()].sort((a, b) => {
       return new Date(a.date).getTime() - new Date(b.date).getTime();
@@ -135,11 +135,15 @@ async function search(bgm: BangumiItem) {
     const pres = bangumiDB.listPrequel(bgm);
     const filtered: Array<{ ok: SearchTVResultItem; season: number; first_episode?: number }> = [];
 
+    const visitedId = new Set<number>();
     for (const preBgm of pres) {
       const resp = await client.searchTV({ query: preBgm.title, language: 'zh-CN' });
 
       if (resp.results.length > 0) {
         for (const r of resp.results) {
+          if (visitedId.has(r.id)) continue;
+          visitedId.add(r.id);
+
           const detail = await client.getTVDetail(r.id, { language: 'zh-CN' });
           for (const s of detail.seasons) {
             if (checkInterval(begin, new Date(s.air_date))) {
@@ -198,7 +202,9 @@ async function search(bgm: BangumiItem) {
   if (all.length === 0) {
     console.log(`Error: There is no search result for ${bgm.title} (id: ${bgm.bangumi.id})`);
   } else {
-    console.log(`Error: There are multiple search results for ${bgm.title} (id: ${bgm.bangumi.id})`);
+    console.log(
+      `Error: There are multiple search results for ${bgm.title} (id: ${bgm.bangumi.id})`
+    );
   }
 
   return { ok: undefined, type: undefined, season: undefined, first_episode: undefined, all };
@@ -291,7 +297,21 @@ cli
     await main();
   });
 
-cli.command('search <keyword>').action(async (keyword, options) => {});
+cli
+  .command('search')
+  .option('--id <id>')
+  .action(async (options) => {
+    if (options.id) {
+      const bgm = bangumiDB.getById(options.id);
+      if (bgm) {
+        const resp = await search(bgm);
+        console.log(resp);
+        return;
+      }
+    }
+
+    console.log('Error: nothing found');
+  });
 
 cli.command('validate').action(async (options) => {});
 
