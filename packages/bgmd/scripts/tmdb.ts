@@ -198,7 +198,7 @@ async function search(bgm: BangumiItem) {
   if (all.length === 0) {
     console.log(`Error: There is no search result for ${bgm.title} (id: ${bgm.bangumi.id})`);
   } else {
-    console.log(`Error: There is multiple search results for ${bgm.title} (id: ${bgm.bangumi.id})`);
+    console.log(`Error: There are multiple search results for ${bgm.title} (id: ${bgm.bangumi.id})`);
   }
 
   return { ok: undefined, type: undefined, season: undefined, first_episode: undefined, all };
