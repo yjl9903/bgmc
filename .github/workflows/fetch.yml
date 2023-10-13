@@ -48,7 +48,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH=fetch-tmdb/$(date +"%Y-%m-%d/%T")
+          BRANCH=fetch-tmdb/$(date +"%Y-%m-%d")
 
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
