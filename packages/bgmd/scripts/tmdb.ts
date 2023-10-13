@@ -172,6 +172,14 @@ async function search(bgm: BangumiItem) {
       }
     }
 
+    // Normal season and special episode (season 0) overlapped, prefer using normal season item
+    if (filtered.length > 1) {
+      const season = filtered.filter((f) => !!f.season);
+      if (season.length === 1) {
+        filtered.splice(0, filtered.length, ...season);
+      }
+    }
+
     if (filtered.length === 1) {
       const result = filtered[0];
 
