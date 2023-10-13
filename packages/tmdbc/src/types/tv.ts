@@ -36,6 +36,36 @@ export interface TVSeasonOverview {
   season_number: number;
 }
 
-export interface TVSeasonDetail {}
+export interface TVSeasonDetail {
+  _id: string;
+
+  air_date: string;
+
+  episodes: TVSeasonEpisodeOverview[];
+
+  name: string;
+
+  overview: string;
+
+  id: number;
+
+  poster_path: string;
+
+  season_number: number;
+}
+
+export interface TVSeasonEpisodeOverview {
+  air_date: string;
+
+  episode_number: number;
+
+  id: number;
+
+  name: string;
+
+  overview: string;
+
+  season_number: number;
+}
 
 export interface TVEpisodeDetail {}
