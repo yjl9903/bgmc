@@ -28,7 +28,7 @@ async function main() {
   await bangumiDB.load();
   const files = groupByBegin(
     [...bangumiDB.values()].sort((a, b) => {
-      return (a.bangumi.date ?? '').localeCompare(b.bangumi.date ?? '');
+      return new Date(a.date).getTime() - new Date(b.date).getTime();
     }),
     (bgm) => {
       if (bgm.date) {
