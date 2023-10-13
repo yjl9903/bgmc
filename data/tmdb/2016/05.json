@@ -181,23 +181,26 @@
       "id": "174533"
     },
     "tmdb": {
-      "id": 459290,
-      "type": "movie",
+      "id": 66870,
+      "type": "tv",
+      "season": 1,
       "search": {
         "adult": false,
-        "backdrop_path": "/yG1eB1tVaAU9Uq3EbEAgdpU1GuS.jpg",
+        "backdrop_path": "/kLx1IuDOeAK6MhNAD7lUPdkhw2G.jpg",
         "genre_ids": [
           16,
-          12
+          10759
         ],
-        "id": 459290,
+        "id": 66870,
+        "origin_country": [
+          "JP"
+        ],
         "original_language": "ja",
-        "original_title": "シンドバッド ～真昼の夜とふしぎの門～",
-        "overview": "The search for Sana’s comrades continues. Sara who opens up her heart to Sinbad reveals her horrible story of how her father’s apprentice Galip destroyed the peaceful kingdom and her family by using the wizardly power. Suddenly the Magic Lamp shows the passage “to the Wonder Gate to the land of ancestors that appears in the Night at High Noon,” but Galip’s solders block their path.",
-        "poster_path": "/iAkWdZuhBuyLPmOQR3LH5IFjrYI.jpg",
-        "release_date": "2016-05-14",
-        "title": "辛巴德 真昼之夜与不可思议之门",
-        "video": false
+        "original_name": "マギ シンドバッドの冒険",
+        "overview": "以本篇登场人物辛巴达为主角，描写本篇15年前的故事的外传漫画。作品叙述一个跨越七个海洋，攻略七个迷宫，最终成为一国之君的男人的故事，人们秉持著敬畏和羡慕将他称为——“七海霸主”辛巴达。",
+        "poster_path": "/7yE2vCroqyu6uudSUdwWKGN1tO4.jpg",
+        "first_air_date": "2016-04-17",
+        "name": "魔笛MAGI 辛巴德的冒险"
       }
     }
   }

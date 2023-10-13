@@ -63,25 +63,28 @@
       "id": "2418"
     },
     "tmdb": {
-      "id": 567788,
-      "type": "movie",
+      "id": 53353,
+      "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": "/7nYiblQqOpIaqkJy2uFKN1Kgr4G.jpg",
-        "id": 567788,
-        "title": "奇宝萌兵：节日危机",
-        "original_language": "en",
-        "original_title": "Oddbods: The Festive Menace",
-        "overview": "在这部《奇宝萌兵》的特辑中，巴布司的新发明击中了圣诞老人，使得整个圣诞假期遭殃。",
-        "poster_path": "/uEq1gii3EDAyYbJuabCQpb2dAAE.jpg",
-        "media_type": "movie",
+        "backdrop_path": null,
+        "id": 53353,
+        "name": "Ontama!",
+        "original_language": "ja",
+        "original_name": "おんたま!",
+        "overview": "Ichigo is a fourth-grade girl, who lives with her gentle-hearted mother and not-so-kind stepfather. Worried about the discord between her parents, she wishes: \"To meet my real father!\" Her wish is granted and suddenly she ends up in her real father's apartment, but several years in the past. Playing the role of her father's younger sister, Ichigo tries to bring her real father and mother together...",
+        "poster_path": "/kWVlvSMBOxHqdnjkAoBEYv1K8ka.jpg",
+        "media_type": "tv",
         "genre_ids": [
           16,
+          10759,
           35,
-          10751
+          10765
         ],
-        "release_date": "2018-12-01",
-        "video": false
+        "first_air_date": "2009-08-07",
+        "origin_country": [
+          "JP"
+        ]
       }
     }
   },

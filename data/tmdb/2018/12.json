@@ -36,26 +36,26 @@
     "tmdb": {
       "id": 84646,
       "type": "tv",
+      "season": 1,
       "search": {
         "adult": false,
         "backdrop_path": "/40Q3wc47cxgrAKsxj0iJBS2mq57.jpg",
-        "id": 84646,
-        "name": "假面英雄",
-        "original_language": "ja",
-        "original_name": "ヒーローマスク",
-        "overview": "在刑警杰姆斯·布拉德的面前出现了谜之面具，而拥有面具的人是本不该存在的人。围绕面具展发生了多起凶案，杰姆斯将探寻真相，在以美丽的城市为舞台的犯罪动作大戏就此拉开帷幕。",
-        "poster_path": "/hhBiqy0hgah9nZPYvrUMzz8NzxP.jpg",
-        "media_type": "tv",
         "genre_ids": [
           16,
           10759,
           9648,
           10765
         ],
-        "first_air_date": "2018-12-03",
+        "id": 84646,
         "origin_country": [
           "JP"
-        ]
+        ],
+        "original_language": "ja",
+        "original_name": "ヒーローマスク",
+        "overview": "在刑警杰姆斯·布拉德的面前出现了谜之面具，而拥有面具的人是本不该存在的人。围绕面具展发生了多起凶案，杰姆斯将探寻真相，在以美丽的城市为舞台的犯罪动作大戏就此拉开帷幕。",
+        "poster_path": "/hhBiqy0hgah9nZPYvrUMzz8NzxP.jpg",
+        "first_air_date": "2018-12-03",
+        "name": "假面英雄"
       }
     }
   },

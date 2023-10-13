@@ -6,25 +6,23 @@
       "id": "49568"
     },
     "tmdb": {
-      "id": 799319,
-      "type": "movie",
+      "id": 220319,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
-        "id": 799319,
-        "title": "心跳回忆〜forever with you〜",
+        "id": 220319,
+        "name": "Tokimeki Memorial",
         "original_language": "ja",
-        "original_title": "ときめきメモリアル 〜forever with you〜",
-        "overview": "就像有开始便有终结一样，有相遇也就有别离。两个人之间永远的关系，那究竟有多幸福呢？这所光辉高中有一个传说，操场的尽头有一棵老树，于毕业当日，在它的旁边，由女方表白而产生的情侣，能得到永远的幸福。",
-        "poster_path": "/dYrf5eBMmq3Tci74XRA7Kekl2cr.jpg",
-        "media_type": "movie",
-        "genre_ids": [
-          16,
-          18,
-          10749
-        ],
-        "release_date": "1999-06-17",
-        "video": false
+        "original_name": "ときめきメモリアル",
+        "overview": "Shiori Fujisaki is unsure about her own feelings, while a girl who mistakenly phoned Shiori is not. Shiori cheers the girl on, but the girl doesn't dare confess. Slowly they become phone friends. Shiori's other friends cheer Shiori on, but she still doesn't dare to confess. In Shioris school there are many other characters, mainly girls doing sports and wondering about love.",
+        "poster_path": "/wc4VOsWbpSCB0O7zhS6j4U8EXpq.jpg",
+        "media_type": "tv",
+        "genre_ids": [],
+        "first_air_date": "1999-06-17",
+        "origin_country": [
+          "JP"
+        ]
       }
     }
   },
@@ -37,6 +35,7 @@
     "tmdb": {
       "id": 43017,
       "type": "tv",
+      "season": 1,
       "search": {
         "adult": false,
         "backdrop_path": "/sXdKhp54z4qgMsOMoIyTglWsTPn.jpg",
