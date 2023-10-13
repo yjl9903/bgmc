@@ -17,6 +17,8 @@ import { BangumiItem, OfflineBangumi, TMDBDataRoot, type TMDBItem } from './offl
 
 await fs.ensureDir(TMDBDataRoot);
 
+const Language = 'zh-CN';
+
 const client = new TMDBClient({
   fetch: ufetch,
   token:
@@ -107,10 +109,10 @@ async function search(bgm: BangumiItem) {
   for (const query of names) {
     const resp =
       item?.type === 'movie'
-        ? await client.searchMovie({ query, language: 'zh-CN' })
+        ? await client.searchMovie({ query, language: Language })
         : item?.type === 'tv'
-        ? await client.searchTV({ query, language: 'zh-CN' })
-        : await client.searchMulti({ query, language: 'zh-CN' });
+        ? await client.searchTV({ query, language: Language })
+        : await client.searchMulti({ query, language: Language });
 
     if (resp.results.length > 0) {
       const result = inferBangumi(bgm, resp.results);
@@ -137,21 +139,21 @@ async function search(bgm: BangumiItem) {
 
     const visitedId = new Set<number>();
     for (const preBgm of pres) {
-      const resp = await client.searchTV({ query: preBgm.title, language: 'zh-CN' });
+      const resp = await client.searchTV({ query: preBgm.title, language: Language });
 
       if (resp.results.length > 0) {
         for (const r of resp.results) {
           if (visitedId.has(r.id)) continue;
           visitedId.add(r.id);
 
-          const detail = await client.getTVDetail(r.id, { language: 'zh-CN' });
+          const detail = await client.getTVDetail(r.id, { language: Language });
           for (const s of detail.seasons) {
             if (checkInterval(begin, new Date(s.air_date))) {
               filtered.push({ ok: r, season: s.season_number });
             } else {
               // Try iterating episodes
               const seasonDetail = await client.getTVSeasonDetail(r.id, s.season_number, {
-                language: 'zh-CN'
+                language: Language
               });
               for (const ep of seasonDetail.episodes) {
                 if (checkInterval(begin, new Date(ep.air_date))) {
