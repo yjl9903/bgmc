@@ -110,7 +110,7 @@ export class OfflineBangumi {
       const related = bgm.bangumi.relations.filter((r) => ['前传'].includes(r.relation));
       for (const r of related) {
         const pre = this.map.get(+r.id);
-        if (pre) {
+        if (pre && !res.has(pre)) {
           res.add(pre);
           dfs(pre);
         }

@@ -101,7 +101,7 @@ async function search(bgm: BangumiItem) {
 
   // Check prequel
   if (all.length === 0 && (item?.type === 'tv' || !item)) {
-    const begin = new Date(bgm.date);
+    const begin = new Date(bgm.bangumi.date || bgm.date);
     const pres = bangumiDB.listPrequel(bgm);
 
     for (const preBgm of pres) {
@@ -122,7 +122,6 @@ async function search(bgm: BangumiItem) {
         if (filtered.length === 1) {
           const result = filtered[0];
 
-          const begin = new Date(bgm.date);
           const fullyear = begin.getFullYear();
           const month = String(begin.getMonth() + 1).padStart(2, '0');
 
@@ -172,7 +171,7 @@ async function search(bgm: BangumiItem) {
     bgm: BangumiItem,
     result: SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem
   ) {
-    const d1 = new Date(bgm.date);
+    const d1 = new Date(bgm.bangumi.date || bgm.date);
     // @ts-ignore
     const d2 = new Date(result.first_air_date || result.release_date);
     // Onair date should be less than 7 days
