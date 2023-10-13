@@ -11,6 +11,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gXmXpYhRmrxqzPCeGs1ksyLaEHU.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 278470,
         "original_language": "ja",
         "original_title": "映画 あたしンち",
@@ -34,6 +37,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/v4aulZlrAASAduoBw5ZYdsTR0E5.jpg",
+        "genre_ids": [
+          16,
+          14,
+          12
+        ],
         "id": 34295,
         "original_language": "ja",
         "original_title": "映画犬夜叉 天下覇道の剣",
@@ -58,6 +66,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ir3FgE1siodL2DuPaWlUVYJisza.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35
+        ],
         "id": 34812,
         "origin_country": [
           "JP"
@@ -78,22 +91,24 @@
       "id": "120070"
     },
     "tmdb": {
-      "id": 35868,
-      "type": "tv",
-      "season": 0,
+      "id": 974294,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/q6WDVeZ7b8BfOS2NK0HUyYBkwtO.jpg",
-        "id": 35868,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": null,
+        "id": 974294,
+        "title": "Black Jack: The 4 Miracles of Life",
         "original_language": "ja",
-        "original_name": "ブラック・ジャック",
-        "overview": "世界著名的制药公司戴达罗斯的巨大高楼被神秘组织装置了炸药而爆炸，大楼周围成为一片地狱的景象。一个少年被铁骨夹住，身受重伤，救助队束手无策，而那块铁骨有随时会崩落的危险。此时，B.J(Black Jack)出现，以他无执照行医行为的无罪为条件帮忙救援，进行了一场谁都无法想想的“外科手术”。 巨大高楼的爆破卷起了更大的悲剧，一个母亲由于爆破事故被诊断为一生都无法恢复，兄妹两人为了请B.J作手术而到处打工，但是他们所赚的远不可能达到B.J平时的酬金。看着如此拼命的兄妹，B.J联想到了因为事故失去母亲，过去的自己。另一方，不想影响自己孩子未来的母亲悲观的态度引来了“死神的化身”Dr.Kiriko。死神将坐下怎么样的判决呢……\n\n神秘组织所设的毁灭人类计划“撒旦”、被阴谋笼罩的神秘的岛屿“伊卡罗斯岛”、Dr.Kiriko以“生命”为赌注的对决。以一把手术刀创造奇迹的天才外科医Black Jack面临着系列史上最大的危机。 没有行医执照的天才外科医，以他的手术刀创造了无数的奇迹。但是因为以生命为代价收取高额的治疗费，被称为恶德医师。不畏任何权威，遵从自己的信念。",
-        "poster_path": "/5mb3QhIrVfxylToGeTAfQ8oN2PM.jpg",
-        "first_air_date": "2004-10-11",
-        "name": "怪医黑杰克"
+        "original_title": "ブラック・ジャック2時間スペシャル 〜命をめぐる4つの奇跡〜",
+        "overview": "Black Jack is the \"Surgeon with the Hands of God,\" a mysterious young Japanese doctor who travels the world performing feats of miraculous surgical genius. Though all recognize his skill, Black Jack is widely hated, especially by the medical establishment, because he refuses to conform to rules of any kind, and because he charges outrageous fees for his services. Black Jack's only companion is Pinoko, a child he created out of a special kind of tumor called a teratoma, who insists she is his wife.",
+        "poster_path": "/1DCQ2lBcNpuS4yim2FsADcEzbNF.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "release_date": "2003-12-22",
+        "video": false
       }
     }
   }

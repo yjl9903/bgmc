@@ -11,6 +11,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/s1eUjN5hLpez9QoBK8t4rUoopgN.jpg",
+        "genre_ids": [
+          28,
+          12,
+          35,
+          14,
+          16
+        ],
         "id": 433422,
         "original_language": "ja",
         "original_title": "劇場版 FAIRY TAIL 『DRAGON CRY』",
@@ -41,6 +48,10 @@
         "overview": "根据日本漫画家高嶋博美创作的百合漫画《牵牛花与加濑同学》改编的剧场版动画。主角山田结衣是位个性内向、喜欢植物的高中2年级学生，班上的园艺股长；在她隔壁班的加濑同学是田径队的王牌及校内风云人物。某一天，山田与加濑她们两人因山田种的牵牛花而相识，并成为好朋友。",
         "poster_path": "/tsFzNvjhF3dKMLcpqgcwgxeqIIr.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          16,
+          10749
+        ],
         "release_date": "2017-05-07",
         "video": false
       }
@@ -58,6 +69,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4KV5viYMzMulKi0zf7NoSR8MGww.jpg",
+        "genre_ids": [
+          10765,
+          16,
+          10759
+        ],
         "id": 71360,
         "origin_country": [
           "JP"
@@ -84,6 +100,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/s3cU8EkdeviEueyB4afY8EIb9Pf.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
         "id": 68415,
         "origin_country": [
           "US"
@@ -105,21 +126,26 @@
     },
     "tmdb": {
       "id": 68102,
-      "type": "tv",
-      "season": 0,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/tm9SWCnozojGuHHIysXVfFcUoE1.jpg",
         "id": 68102,
-        "origin_country": [
-          "JP"
-        ],
+        "name": "无畏魔女",
         "original_language": "ja",
         "original_name": "ブレイブウィッチーズ",
         "overview": "1930年代，以欧洲为中心突然出现的人类之敌“涅洛伊”。\n\n能够对抗以通常的兵器难以破坏的涅洛伊的，\n\n只有被称作魔女的、拥有特殊魔法力的少女们而已……。\n\n1944年9月，在以第501统合战斗航空团“Strike Witches”为中心的联合军活跃之下，高卢共和国上空的涅洛伊巢穴消灭，欧洲西部的安全得到了确保。\n\n以此为机，联合军开始正式计划对欧洲中央—东部方面的反抗作战。\n\n在欧拉西亚帝国彼得堡构筑了基地的，\n\n第502统合战斗航空团“Brave Witches”也被下达了出击的命令。\n\n背负人类的希望，充满勇气的魔女们，在东欧的寒空中巡航。",
         "poster_path": "/tBhdfjoT8Co0ogfjuKSQgLrcaTy.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
         "first_air_date": "2016-10-06",
-        "name": "无畏魔女"
+        "origin_country": [
+          "JP"
+        ]
       }
     }
   },
@@ -135,6 +161,14 @@
       "search": {
         "adult": false,
         "backdrop_path": "/6s1ONEuRCcMTvptATfA5Y5WVHEw.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          14,
+          12,
+          35,
+          10402
+        ],
         "id": 436120,
         "original_language": "ja",
         "original_title": "夜明け告げるルーのうた",
@@ -158,6 +192,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/9orgGrjh0Jivz0zZLn1Ufj4NRZP.jpg",
+        "genre_ids": [
+          28,
+          18,
+          878,
+          16
+        ],
         "id": 409421,
         "original_language": "ja",
         "original_title": "ブラム",
@@ -181,6 +221,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/bcWjiU1TywC8fYlkDK4MpQ9iEMF.jpg",
+        "genre_ids": [
+          16,
+          27,
+          12,
+          28,
+          878
+        ],
         "id": 400136,
         "original_language": "ja",
         "original_title": "バイオハザード ヴェンデッタ",

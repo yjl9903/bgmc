@@ -18,6 +18,11 @@
         "overview": "　　PRODUCTION I.G制作「拳皇」短篇动画\n\n　　\"THE KING OF FIGHTERS: ANOTHER DAY\"\n\n　　本作品是配合将在明年春天推出预定， 2004年发售大人气3D格斗对战电玩「拳皇 极限冲击」的续篇，PS2版「拳皇 极限冲击 2」(KOF MAXIMUM IMAPCT 2)而制作的短篇动画。而且更是由日本最高水准之一的株式会社PRODUTION I.G的第9 Studio(代表作: 攻壳机动队S.A.C.)所制作!\n\n　　由 1994年推出以来、超越十年仍深受电玩迷支持的人气格斗动作系列「THE KING OF FIGHTERS」，保留原来的世界观及以各篇的主角为中心，构成全4回短篇动画。",
         "poster_path": "/wS5dElsRNhKJZux9Ghvhqcr0lt0.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          10759,
+          16,
+          18
+        ],
         "first_air_date": "2005-12-02",
         "origin_country": [
           "JP"
@@ -37,6 +42,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rqLf9bA0h01dUeMZY7aa2DzsIKK.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 10978,
         "origin_country": [
           "US",
@@ -70,6 +78,10 @@
         "overview": "最讨厌圣诞节的少年参太在圣诞之夜和一个自称“圣诞老人”的少女邂逅，并被告之“只要和我一起度过一个晚上，就能变的幸福。”",
         "poster_path": "/mrE9g6pgoIJldkj4HcWTrUn1rym.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          35,
+          16
+        ],
         "first_air_date": "2005-12-07",
         "origin_country": [
           "JP"
@@ -89,6 +101,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/hKoRFg6U9NAsILtqCNmkknMQYhv.jpg",
+        "genre_ids": [
+          16,
+          35,
+          14,
+          28
+        ],
         "id": 150425,
         "original_language": "ja",
         "original_title": "映画 ふたりはプリキュア Maxheart2 雪空のともだち",
@@ -113,6 +131,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/v7v89HBEx80JWFRdsWhj9Iukp4T.jpg",
+        "genre_ids": [
+          10759,
+          16
+        ],
         "id": 67199,
         "origin_country": [
           "JP"
@@ -138,6 +160,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/pGigeoIXQI7oq7lgB2yPXA9tpQx.jpg",
+        "genre_ids": [
+          16,
+          28,
+          878
+        ],
         "id": 727877,
         "original_language": "ja",
         "original_title": "劇場版 甲虫王者ムシキング～グレイテストチャンピオンへの道～",
@@ -162,6 +189,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/3VGz44Ce7i8E001DUzkvHpRHDV2.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 31665,
         "origin_country": [
           "JP"
@@ -182,22 +213,26 @@
       "id": "14106"
     },
     "tmdb": {
-      "id": 42836,
-      "type": "tv",
-      "season": 0,
+      "id": 390832,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/xVrTcXB7wQRL5S2uJ06mvnXSwH3.jpg",
-        "id": 42836,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": "/n4HhUgpYKCcvBNhbPfaQuO53YY2.jpg",
+        "id": 390832,
+        "title": "苍穹之法芙娜：逝者的权利",
         "original_language": "ja",
-        "original_name": "蒼穹のファフナー Dead Aggressor",
-        "overview": "真壁一骑是个生长在对日本而言十分乡下的龙宫岛上的少年──对他来说，像这样的和平是普通到不能在普通的状况。  　　但当由硅所构成的不明生物·异界体（Festum）开始攻击龙宫岛时，他才开始注意到他现在所拥有的和平生活不过只是个被创造出来的假象。  　　为了取回自己的和平生活，他和同伴开始一起搭乘人类所创造出来的巨大兵器·法夫那（Fafner）和异界体战斗──  　　在激战的彼端，等待着他的是……",
-        "poster_path": "/cW7qOCBtodmYX1tuQw8JkR6i7Ve.jpg",
-        "first_air_date": "2004-07-05",
-        "name": "苍穹之法芙娜"
+        "original_title": "蒼穹のファフナー RIGHT OF LEFT",
+        "overview": "一天，Festum突如其来袭击了龙宫岛被问及“你在那里吗…”的那一天起回溯到1年前。比总士、一骑等人高一年级的前辈将陵僚等人就读的龙宫岛中学，举行了错季的「毕业」典礼…。是的，那正是等待他们的命运之序章…。",
+        "poster_path": "/kZBHK45UlF8FUtYMqE5GgvQMWN0.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          878,
+          18,
+          10749
+        ],
+        "release_date": "2005-12-29",
+        "video": false
       }
     }
   }

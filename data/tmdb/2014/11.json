@@ -18,6 +18,9 @@
         "overview": "“日本动画展会”，是一项短篇动画系列企划，将由动画制作公司Khara和NICONICO视频网站运营方DWANGO共同负责实施。在既定的预算和时间内，动画制作者可以自由制作各种不分类型的短篇动画，然后在每周的星期五公开一集。除了原创动画之外，还接受外传动画、宣传动画、音乐视频等作品类型的制作。DWANGO和Khara在谈及该企划的理念时表示：“我们将会提供一个不限制创作表现的‘自由的创作平台’，探索在日本动画制作过程中的企划开发、研究开发、人才培养等方面的可能性”。DWANGO的川上量生会长还说道：“我们没有考虑过要收支平衡”。",
         "poster_path": "/c0hdu4gPQPiyK6y2N6mQONHUecM.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16
+        ],
         "first_air_date": "2014-11-07",
         "origin_country": [
           "JP"
@@ -37,6 +40,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gfL7Y3nQsjybxvXquJItjxm4oJb.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
         "id": 62211,
         "origin_country": [
           "FR",
@@ -63,6 +72,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/poTFhNtA1kZa3Qb6ulCwa5HPEKb.jpg",
+        "genre_ids": [
+          16,
+          28,
+          878
+        ],
         "id": 304023,
         "original_language": "ja",
         "original_title": "楽園追放",
@@ -71,6 +85,35 @@
         "release_date": "2014-11-15",
         "title": "乐园追放",
         "video": false
+      }
+    }
+  },
+  {
+    "title": "ダイヤのA OAD",
+    "date": "2014-11-17T16:00:00.000Z",
+    "bangumi": {
+      "id": "108595"
+    },
+    "tmdb": {
+      "id": 60761,
+      "type": "tv",
+      "season": 1,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/dfEmmE3RJh3OYxyqOFDBt0qMS0E.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 60761,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ダイヤのA",
+        "overview": "故事描述国中时期最后的大赛，率领因为学校整合关系面临废校的赤成中学参赛，却在第一回战中投出暴投，而输掉比赛的投手泽村荣纯，本来决定要与国中时期的朋友一同考入故乡的高中，却被东京的棒球名校青道高中挖角，并在那里遇见了天才捕手御幸一也，就此改变了他的人生…",
+        "poster_path": "/2BipcmjT5zx0bkhveeXHUWkLRA0.jpg",
+        "first_air_date": "2013-10-06",
+        "name": "钻石王牌"
       }
     }
   },
@@ -86,6 +129,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/1tmIKXWWDAvMJbbo66HrpZtHCb6.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          14
+        ],
         "id": 379088,
         "original_language": "ja",
         "original_title": "劇場版「進撃の巨人」前編〜紅蓮の弓矢〜",
@@ -110,6 +159,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gUorGKMU5VTBGHYPb7kVt8UfEG4.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 61534,
         "origin_country": [
           "JP"
@@ -142,6 +195,9 @@
         "overview": "The Juuza. That is the name given to those of the 13th Zodiac: the cat people. Seen as a vulgar and contemptuous race, they live a life of seclusion away from human eyes. However, as the end of the Han Dynasty draws near, the rise of the Yellow Scarves has thrown the land of the Three Kingdoms into turmoil. As armies converge, a young Juuza woman named Kan'u and her village are forced out of their peaceful lives as Sousou and his punitive force press their way into the village.",
         "poster_path": "/9ReWXOc1u3cu3YFrWOeNcHbIZ7X.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          16
+        ],
         "release_date": "2014-11-28",
         "video": false
       }
@@ -166,6 +222,10 @@
         "overview": "The story revolves around high school boy Ayumu Tamari, who has an illness that makes him start to turn to stone when he's stressed. Since he couldn't fit in with his class, after repeating a year, he declared that he wanted to have a \"Sparkly youth\" as well. To do this, he changed his hair and clothes to be more fashionable, and constantly checked for popular topics to stay in the know. In the midst of Ayumu's life of making a facade, his homeroom teacher and stone-loving geology teacher Kouya Onihara says that Ayumu's stone transformation is beautiful. Ayumu begins to become attracted to Kouya, who starts to give him advice.",
         "poster_path": "/vZn5YWu75a1bQYyxbgpVHB9cxP1.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          14,
+          16
+        ],
         "release_date": "2014-12-03",
         "video": false
       }
@@ -184,6 +244,7 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
         "id": 113071,
         "origin_country": [
           "JP"

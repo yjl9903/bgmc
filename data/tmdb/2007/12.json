@@ -11,6 +11,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/a75F7prY7RnACDonpUVjGTjoIKe.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 912,
         "origin_country": [
           "JP"
@@ -36,6 +41,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/9lZQ7Qy6rl7vuE9C7qQ1JFA2Eto.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
         "id": 79436,
         "origin_country": [
           "JP"
@@ -68,6 +78,11 @@
         "overview": "相遇，相见，相恋，相爱。同样是觉得自己不如意，同样觉得自己苦涩的两人 。 由种种因缘而走到了一起。 悠大是个对爱情不太自信的少年，他本来想买一只可爱的兔子给女朋友チヅル。但是由于宠物店店员的疏忽，竟然将一只爱捣蛋的迷你驴装进了盒子。悠大在餐厅准备把礼物送给チヅル的时候，接到了宠物店打来的电话，他这才知道礼物搞错了。但是,当他回到位置，发现迷你驴把餐厅弄得一团糟,チヅル和小驴都不见了。 这时候,チヅル正追着迷你驴，悠大寻找着她们.期间发生了很多的误会和笑料。最后，在迷你驴的引导下，两人在东京塔重新相遇了。チヅル手中的礼物几经辗转终于到了悠大手中，悠大也终于坦白了自己的心意。",
         "poster_path": "/8DjqvWGZQ90oixPwJiipKDGEIEE.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "first_air_date": "2007-12-19",
         "origin_country": [
           "JP"
@@ -87,6 +102,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/vTTTVK44UVpi2HtE1DbKkgiMpAk.jpg",
+        "genre_ids": [
+          28,
+          12,
+          16
+        ],
         "id": 17101,
         "original_language": "ja",
         "original_title": "劇場版 BLEACH The DiamondDust Rebellion もう一つの氷輪丸",
@@ -110,6 +130,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/n8hvnVWD5UhShOqUnORbwEpIjLx.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          9648
+        ],
         "id": 26595,
         "original_language": "ja",
         "original_title": ".hack//G.U. Trilogy",
@@ -140,10 +166,45 @@
         "overview": "Yawaraka Sangokushi Tsukisase!! Ryofuko-chan is a Japanese manga and anime, loosely based on the Romance of the Three Kingdoms.\n\nIt began in the comedy manga I, Otaku: Struggle in Akihabara by Jiro Suzuki, which the characters watched in their world. It was turned by Square Enix into a real manga in Monthly G Fantasy magazine. It was later turned into an anime by Starchild.",
         "poster_path": "/zLjbcd5KlTPGJfEc0WVLoGLoPeB.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
         "first_air_date": "2007-12-26",
         "origin_country": [
           "JP"
         ]
+      }
+    }
+  },
+  {
+    "title": "遙かなる時空の中で3　紅の月",
+    "date": "2007-12-28T16:00:00.000Z",
+    "bangumi": {
+      "id": "72915"
+    },
+    "tmdb": {
+      "id": 766372,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 766372,
+        "title": "遥远时空3：红月",
+        "original_language": "ja",
+        "original_title": "遙かなる時空の中で3 紅の月",
+        "overview": "主人公・春日望美是个普通高中生少女，被选为了「白龙的神子」，经过时空转移来到了正不断扩大中的源平合战的异世界。故事更深入一步，主人公与八叶一一相遇并招揽他们成为同伴。共同战斗，共度难关加深了同伴间的羁绊。但是，在这个战乱的时期也是一种障碍，所想之人无法联结在一起。时而会迎来悲伤的结局……不过，在故事途中主人公会获得穿越时空的力量。回到过去，将悲剧的命运改变，帮助同伴和重要的人。从这里开始，主人公的时空穿越是为了实现恋爱的战斗的真正开始。",
+        "poster_path": "/ndN8M0jlfgF6DlnFC58h6bzanz7.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          14,
+          10749
+        ],
+        "release_date": "2008-03-01",
+        "video": false
       }
     }
   }

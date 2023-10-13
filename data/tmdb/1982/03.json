@@ -11,6 +11,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/wTsYCRokwwr84nIhDP13rZFhvpI.jpg",
+        "genre_ids": [
+          16,
+          878,
+          10752
+        ],
         "id": 39230,
         "original_language": "ja",
         "original_title": "機動戦士ガンダム III めぐりあい宇宙編",
@@ -34,6 +39,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/a3HUYfoXDRsmGTe3tv29y2qcKWC.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          12,
+          14,
+          878
+        ],
         "id": 184004,
         "original_language": "ja",
         "original_title": "映画ドラえもん のび太の大魔境",
@@ -41,6 +53,35 @@
         "poster_path": "/lBFrMEHNS5a9CBQio0DysYK1m11.jpg",
         "release_date": "1982-03-13",
         "title": "哆啦A梦：大雄的大魔境",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "魔法のプリンセス ミンキーモモ",
+    "date": "1982-03-18T10:00:00.000Z",
+    "bangumi": {
+      "id": "73928"
+    },
+    "tmdb": {
+      "id": 99643,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/egyPwmfLByACbXPrBExt13vL0oF.jpg",
+        "id": 99643,
+        "title": "Magical Princess Minky Momo: La Ronde in My Dream",
+        "original_language": "ja",
+        "original_title": "魔法のプリンセス ミンキーモモ夢の中の輪舞",
+        "overview": "Once upon a time, in the land of Fenarinarsa, there was a king and a queen and they had a little girl named Momo. Momo's royal parents told her that in order to govern Fenarinarsa wisely she would have to learn as much as she could about people, and the best place to do that was on Earth. Once on Earth, Momo discovers an island with a secret garden where everyone is a child. In the garden she meets Peter who controls the fountain of youth which keeps everyone young. Together Momo and Peter learn the importance of following their dreams as they fight to keep the power of the fountain of youth from getting in the hands of an evil organization.",
+        "poster_path": "/1SgNIm6RzDX9mK8eTVsLSr59TZx.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          14,
+          10751
+        ],
+        "release_date": "1985-07-28",
         "video": false
       }
     }

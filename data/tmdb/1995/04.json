@@ -11,6 +11,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/lkXPZx5XI8KnPbAQ9GQ3hRYbZh2.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
         "id": 20451,
         "origin_country": [
           "JP"
@@ -36,6 +42,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/a0KNc0EiegJLfw5rQEbUhN6NOX8.jpg",
+        "genre_ids": [
+          16,
+          10762,
+          35
+        ],
         "id": 45075,
         "origin_country": [
           "JP"
@@ -61,6 +72,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/lnkdGtYRfSzNQdXEXKLRTanOpfJ.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 57144,
         "origin_country": [
           "JP"
@@ -86,6 +102,14 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gzMbvJGbLlKYdByV73xaH1TUkZX.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          35,
+          10759,
+          18,
+          10751
+        ],
         "id": 46275,
         "origin_country": [
           "JP"
@@ -111,6 +135,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/tEmdqOMlupwYykV4bJ0Ado5OKSt.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          18,
+          35
+        ],
         "id": 23374,
         "origin_country": [
           "JP"
@@ -136,6 +166,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/8ww4fofYvbH0CuM1dofFvjywKHj.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
         "id": 26318,
         "origin_country": [
           "JP"
@@ -161,6 +196,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gtBugQW20zg0QhycEI2VmG1DBQq.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          10768
+        ],
         "id": 21730,
         "origin_country": [
           "JP"
@@ -186,6 +227,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/jcSEJPyLGjF6qwQwhTX4kNK7BkF.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 9570,
         "origin_country": [
           "JP"
@@ -211,6 +255,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/hSfr0lhh8FNCx5ftBIUpvZyr2qn.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762
+        ],
         "id": 57025,
         "origin_country": [
           "JP"
@@ -221,6 +271,35 @@
         "poster_path": "/gWTaLZS2CQ5enwPGHYzNL0zwDT3.jpg",
         "first_air_date": "1995-04-08",
         "name": "Soar High! Isami"
+      }
+    }
+  },
+  {
+    "title": "美少女戦士セーラームーンSuperS~スペシャル!",
+    "date": "1995-04-08T16:00:00.000Z",
+    "bangumi": {
+      "id": "27356"
+    },
+    "tmdb": {
+      "id": 1185781,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/cklQkuJKzgMJ8mZtzthK9AqQ3xh.jpg",
+        "id": 1185781,
+        "title": "Sailor Moon SuperS: Special",
+        "original_language": "ja",
+        "original_title": "劇場版　美少女戦士セーラームーンSuperS　スペシャル!",
+        "overview": "A 50-minute special of the anime featuring three mini-episodes. It premiered shortly after the beginning of Sailor Moon SuperS and took place in the storyline directly after Usagi and Chibiusa received their new transformation brooches from Pegasus. This special included a compilation episode focusing on the story of how Usagi became Sailor Moon, an original episode featuring the first appearances of Sailor Uranus and Sailor Neptune in this season, and an episode adapted from the manga side-story \"Chibiusa's Picture Diary Chapter 1 - Beware of the Transfer Student\").",
+        "poster_path": "/iui4wlY5PKaIMwKacSCIL83QG5S.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          28,
+          14
+        ],
+        "release_date": "1995-08-04",
+        "video": false
       }
     }
   },
@@ -236,6 +315,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/5uZ80WFcMe39ZLBgZBistqmDOp.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 31713,
         "origin_country": [
           "JP"
@@ -261,6 +343,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/g2U2a6yhXJMDFCIMH14Ol4GdzXI.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 104154,
         "original_language": "ja",
         "original_title": "クレヨンしんちゃん 雲黒斎の野望",
@@ -284,6 +369,7 @@
       "search": {
         "adult": false,
         "backdrop_path": "/6XELL0PJ3yPH7MFYtfq6sr9qOxB.jpg",
+        "genre_ids": [],
         "id": 66569,
         "origin_country": [],
         "original_language": "ja",
@@ -307,6 +393,14 @@
       "search": {
         "adult": false,
         "backdrop_path": "/mqrLIQ80PWw7Vs5Qj3hdtnB9X0V.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          18,
+          80,
+          35
+        ],
         "id": 31049,
         "original_language": "ja",
         "original_title": "ルパン三世 くたばれ!ノストラダムス",

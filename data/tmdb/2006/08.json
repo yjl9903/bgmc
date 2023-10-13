@@ -11,6 +11,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/fjRRbpKRqkG3WqrArHh3j0ogG2I.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 216651,
         "original_language": "ja",
         "original_title": "ピカチュウのわんぱくアイランド",
@@ -34,6 +37,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/j2oX7UeZJJD6tUczrVECcJCdLaG.jpg",
+        "genre_ids": [
+          12,
+          16,
+          28
+        ],
         "id": 18861,
         "original_language": "ja",
         "original_title": "劇場版 NARUTO -ナルト- 大興奮!みかづき島のアニマル騒動だってばよ",
@@ -64,6 +72,9 @@
         "overview": "　　古老的埃及，生活着一只活了上千年的鳄鱼。然而由于无法抗拒的衰老，他变得羸弱不堪，无法觅食，只得吃掉身边的家人。同伴们对他憎恨不已，却又无可奈何。伤心的老鳄鱼离开伙伴，又向大海。不久，他结识了一只自称有12条腿的章鱼，白天他们四处觅食，晚上则在某个堡礁上休憩。每到这个时候，老鳄鱼便难耐饥饿的折磨，偷偷吞掉章鱼的一条腿。未过多久，章鱼失去了最后一条腿，面临着悲惨的命运。老鳄鱼的命运又将如何……  　　本片根据法国画家Léopold Chauveau的图画书《Le vieux crocodile》改编，并荣获第9回文化厅Media艺术节动画单元优秀奖、第11届广岛国际动画片电影节优秀奖。",
         "poster_path": "/jDwZZPYruMi1LaivN1LVV3rXVfq.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          16
+        ],
         "release_date": "2005-06-06",
         "video": false
       }
@@ -82,6 +93,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/uXjWCpLp17umPyTdZgeTpYViyCr.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 80007,
         "origin_country": [
           "JP"
@@ -107,6 +122,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/fA4bnQPXOjEr0MUHbbltQHxpH1m.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
         "id": 38806,
         "origin_country": [
           "JP"
@@ -132,6 +152,10 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10765
+        ],
         "id": 43983,
         "origin_country": [
           "JP"
@@ -157,6 +181,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/a62nmTsvKeGIMvyYaNjVoPpFqRp.jpg",
+        "genre_ids": [
+          16,
+          12,
+          14,
+          18
+        ],
         "id": 233715,
         "original_language": "ja",
         "original_title": "劇場版 遙かなる時空の中で 舞一夜",
@@ -180,6 +210,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/o6z2BUqrfWznV6w0NBBVKEM0bri.jpg",
+        "genre_ids": [
+          16,
+          9648
+        ],
         "id": 37513,
         "origin_country": [
           "JP"
@@ -190,6 +224,35 @@
         "poster_path": "/vkTR8IWaqzhd0bE16JWVZPW3hp4.jpg",
         "first_air_date": "2006-08-19",
         "name": "双面骑士"
+      }
+    }
+  },
+  {
+    "title": "リリとカエルと（弟）",
+    "date": "2006-08-25T16:00:00.000Z",
+    "bangumi": {
+      "id": "26458"
+    },
+    "tmdb": {
+      "id": 378990,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 378990,
+        "title": "莉莉和青蛙和弟弟",
+        "original_language": "ja",
+        "original_title": "リリとカエルと(弟)",
+        "overview": "　　一天，小女孩丽丽（西村千奈美 配音）和爸爸妈妈来到一家以青蛙为主题的游乐园玩，在误打误撞之来到了青蛙之国，中拔出了青蛙城堡里的勇者之剑，并且打倒了大蛇。在传说中，用勇者之剑打倒大蛇的勇者将被允许实现任何的愿望。\r 　　丽丽见到了青蛙王国的统治者，在国王将青蛙卵孵化之前，丽丽必须找到将希望之门打开的方法，如果没能在时限前完成任务的话，丽丽将被变成青蛙，永远的留在这个世界中。在这里，丽丽邂逅了一个名叫近藤的古怪男人，近藤总是主动接近丽丽，并且想要成为他的弟弟，这个男人真正的意图究竟是什么呢？",
+        "poster_path": "/cUFcpupSUVjlYkyqcuOjEXH2EW0.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          16,
+          12
+        ],
+        "release_date": "2006-08-20",
+        "video": false
       }
     }
   }

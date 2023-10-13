@@ -11,6 +11,10 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          35,
+          16
+        ],
         "id": 146093,
         "original_language": "ja",
         "original_title": "Dr.スランプ アラレちゃん ほよよ!!助けたサメに連れられて..",
@@ -34,6 +38,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kbI9M2m45SSwi3t5ztygAlKxUql.jpg",
+        "genre_ids": [
+          16,
+          28,
+          878
+        ],
         "id": 44251,
         "original_language": "ja",
         "original_title": "ドラゴンボールＺ 危険なふたり！超戦士はねむれない",
@@ -57,6 +66,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ivlqhaX9gSDchuA0Jc5FIpKABuN.jpg",
+        "genre_ids": [
+          18,
+          16,
+          35
+        ],
         "id": 338379,
         "original_language": "ja",
         "original_title": "スラムダンク",
@@ -80,6 +94,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/2UEvUquou085rRxVZvDOfWtNjZY.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 161715,
         "original_language": "ja",
         "original_title": "映画ドラえもん のび太と夢幻三剣士",
@@ -103,6 +120,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/php69V5IfHB6MnM2vQKsYywms3k.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 35507,
         "origin_country": [
           "JP"
@@ -113,6 +134,38 @@
         "poster_path": "/ebque9KJDaEtuSNkrc9qQfYVIhW.jpg",
         "first_air_date": "1994-03-13",
         "name": "橘子酱男孩"
+      }
+    }
+  },
+  {
+    "title": "美少女戦士セーラームーンS",
+    "date": "1994-03-19T16:00:00.000Z",
+    "bangumi": {
+      "id": "5432"
+    },
+    "tmdb": {
+      "id": 3570,
+      "type": "tv",
+      "season": 3,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/nDDZ9yQoQpC9i3Q9W9EC7QdcPsX.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          10765
+        ],
+        "id": 3570,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "美少女戦士セーラームーン",
+        "overview": "美丽可爱的月野兔是一名就读初中的普通女孩，可学业平平、任性娇弱的她在遇到了一只会说话的小猫露娜之后，她的人生就发生了天翻地覆的变化。原来，月野兔的真实身份是拥有神奇能力的水手月亮。\n\n为了保卫地球、挫败黑暗势力的野心，月野兔和水野亚美、火野丽、木野真琴、爱野美奈子等人变身成为水手服美少女战士，与入侵地球的邪恶敌人展开了连番激战。",
+        "poster_path": "/ylo2jRmsVCYAXcL1qX2U9GvxpZ7.jpg",
+        "first_air_date": "1992-03-07",
+        "name": "美少女战士"
       }
     }
   },
@@ -135,6 +188,9 @@
         "overview": "阿斯特拉金斯历7247年，Kilico和Fiana进入“Called Sleep”睡眠32年后被再度唤醒后发生的故事。",
         "poster_path": "/mLA7lePcbp9sGurEgf0XbQy67sn.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16
+        ],
         "first_air_date": "1994-03-21",
         "origin_country": [
           "JP"

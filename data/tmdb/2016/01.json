@@ -6,22 +6,23 @@
       "id": "160328"
     },
     "tmdb": {
-      "id": 200821,
-      "type": "tv",
-      "season": 0,
+      "id": 1033112,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/hb8vQQsYoQeb1uf68tjmtBjFgAK.jpg",
-        "id": 200821,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": null,
+        "id": 1033112,
+        "title": "英国一家 吃在正月",
         "original_language": "ja",
-        "original_name": "英国一家、日本を食べる",
-        "overview": "　　动画根据英国美食记者迈克尔·布斯（Michael Booth）所著《不止寿司——日本人所理解的厨艺之道》（Sushi and Beyond:What the Japanese Know About Cooking）改编，講述在日本逗留了100天的一家英國人從北海道吃到沖繩的美食遊記。",
-        "poster_path": "/fIu5Iomj0pVjKWWyqp6WLUrZb1d.jpg",
-        "first_air_date": "2015-04-15",
-        "name": "英国一家，吃在日本"
+        "original_title": "英国一家、正月を食べる",
+        "overview": "「英国一家，吃在日本」的故事起始于基于采访的目的，迈克尔·布斯而结识了在巴黎的名门料理学校中努力修行的福德·莱特。某一天，他得到了一本关于日本料理的书籍，并完全被其中的魅力所吸引。无法亲自用舌头感受这些美味的迈克尔，决定与妻子和两个孩子一起赶赴飞机场，飞赴日本。刚到日本的第一个晚上，他们来到了位于新宿的“回忆横丁”，在那里品尝到了类似懒散的蚯蚓似的的“日式酱油炒面”。随后，日本豆腐、日式煎饼、章鱼烧、拉面、芥末、味噌、日本酒等日本所有料理和食材都被这来自于英国的一家吃了一个遍！",
+        "poster_path": "/uGcRJ5uRPmeg7LiiOibuQPqIHUt.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16
+        ],
+        "release_date": "2016-01-01",
+        "video": false
       }
     }
   },
@@ -37,6 +38,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gGvwD29yi7y6mQMHpjaZkSOUwhh.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 65980,
         "origin_country": [
           "JP"
@@ -47,6 +51,38 @@
         "poster_path": "/8UqixEjQpCxGXqPpqDiEsae7JoM.jpg",
         "first_air_date": "2016-01-05",
         "name": "疾走王子 Alternative"
+      }
+    }
+  },
+  {
+    "title": "赤髪の白雪姫 OAD",
+    "date": "2016-01-05T16:00:00.000Z",
+    "bangumi": {
+      "id": "144620"
+    },
+    "tmdb": {
+      "id": 63087,
+      "type": "tv",
+      "season": 0,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/v3IhfbJvsGN8hzXexy3mGFgW9If.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10765
+        ],
+        "id": 63087,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "赤髪の白雪姫",
+        "overview": "天生拥有一头如红苹果般美丽发色的少女，白雪，拒绝成为恶名昭彰的拉冀王子的爱妾，困扰的她剪下她那一撮红发后离家出走，在逃跑到邻国克拉利涅斯的森林时，在那里的木屋遇到了刚偷偷出城玩克拉利涅斯王国的第二王子千，以及他的随从光秀和木木。而后在与千成了朋友并知道了他的真实身份后，自己决定在克拉利涅斯王国留下来，并决心以自己的力量来成为千的助力......",
+        "poster_path": "/1l6om7dUwOxY087yLgVvrdOdXCs.jpg",
+        "first_air_date": "2015-07-07",
+        "name": "赤发的白雪姬"
       }
     }
   },
@@ -62,6 +98,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/obUMa1OTwTFWeWk5nawFjojCe8V.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          35
+        ],
         "id": 65333,
         "origin_country": [
           "JP"
@@ -87,6 +128,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 65783,
         "origin_country": [
           "JP"
@@ -112,6 +156,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/AhnBONxIgq1jkOH8Afcg8cBPk3I.jpg",
+        "genre_ids": [
+          16,
+          9648
+        ],
         "id": 65177,
         "origin_country": [
           "JP"
@@ -137,6 +185,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/wVTXBa90GZVqFsqZZZJ4fiGJqRG.jpg",
+        "genre_ids": [
+          10765,
+          16,
+          18,
+          10765
+        ],
         "id": 66120,
         "origin_country": [
           "JP"
@@ -162,6 +216,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/nFK1szk19NxWRnP9gV9wYNutvhy.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          80
+        ],
         "id": 65214,
         "origin_country": [
           "JP"
@@ -187,6 +246,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/qp5Si365atgOpUzGm1PPxJ9cRJE.jpg",
+        "genre_ids": [
+          18,
+          16,
+          35
+        ],
         "id": 65661,
         "origin_country": [
           "JP"
@@ -212,6 +276,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/RLBhLZmRCikcvxzd6JBDefVEoz.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 65298,
         "origin_country": [
           "JP"
@@ -237,6 +305,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rRGnjRCHdDl3m3oCVSvo5z2E5c5.jpg",
+        "genre_ids": [
+          16,
+          18,
+          9648
+        ],
         "id": 65249,
         "origin_country": [
           "JP"
@@ -262,6 +335,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/iTUAHkwnGMPEozqNWFNB958kd9A.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
         "id": 65209,
         "origin_country": [
           "JP"
@@ -287,6 +365,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/zkc2FkVymJDNXisS1mgpr8Ip2J.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          10765
+        ],
         "id": 62110,
         "origin_country": [
           "JP"
@@ -312,6 +396,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/qYeyW5xKqrMP2A2TY410KrQln1W.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 65523,
         "origin_country": [
           "JP"
@@ -332,22 +420,26 @@
       "id": "160674"
     },
     "tmdb": {
-      "id": 31572,
-      "type": "tv",
-      "season": 4,
+      "id": 404532,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/ubggJhb6QysnXVercF4ij9RLJJu.jpg",
-        "id": 31572,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": "/3wNTNGZqq2kNr6Cd2EmrQ3hKVZV.jpg",
+        "id": 404532,
+        "title": "鲁邦三世：意大利游戏",
         "original_language": "ja",
-        "original_name": "ルパン三世",
-        "overview": "“鲁邦三世”是日本动漫界的传奇，有不死传说之喻，漫画作者加藤一彦(Monkey Punch)曾表示，鲁邦三世的冒险精神是他一生追求的，身为漫画家的他，主要的休闲活动就是创作，所有的梦想、幻想都在“鲁邦三世”实现。猴子拳将鲁邦三世塑造成一个让人无法讨厌的怪盗，让读者羡慕鲁邦三世逍遥的生活。鲁邦一行周游于世界各地，不时重操盗窃的老本行。",
-        "poster_path": "/l8Vq3rUG3xYwySPVUx5dkjSaesi.jpg",
-        "first_air_date": "1971-10-24",
-        "name": "鲁邦三世"
+        "original_title": "ルパン三世 イタリアン・ゲーム",
+        "overview": "本作的目标将围绕“卡里奥斯特罗伯爵的遗产”展开，蕾贝卡罗塞里尼被绑架，鲁邦不能放任自己的“妻子”不管，决定从犯人的手里“盗取”蕾贝卡。这其中又隐藏着什么不可告人的秘密呢？",
+        "poster_path": "/pRvQc5LoJvWoZjOpUwwm4MDEi2X.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          80
+        ],
+        "release_date": "2016-01-08",
+        "video": false
       }
     }
   },
@@ -363,6 +455,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rkh47tXNa0hmRE10mG5OxOuDhTe.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
         "id": 66730,
         "origin_country": [
           "JP"
@@ -388,6 +485,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/3w3wUJeaJ1x3hFNvVqwicZrQwOd.jpg",
+        "genre_ids": [
+          35,
+          16
+        ],
         "id": 66504,
         "origin_country": [
           "JP"
@@ -413,6 +514,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/cl02js42cItpcdZ2KhErG4eefEd.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10759
+        ],
         "id": 72838,
         "origin_country": [
           "JP"
@@ -438,6 +545,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/jcT8CUqhV72z7HvLRlJTk8WFlGd.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 65774,
         "origin_country": [
           "JP"
@@ -463,6 +574,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/dIwV8FPNaKXPSixJazKyIAEJKTf.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 90401,
         "origin_country": [
           "JP"
@@ -488,6 +602,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/wI0nsfMlDL17joQt2dXJVb8R5Uw.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
         "id": 65206,
         "origin_country": [
           "CN"
@@ -520,6 +640,12 @@
         "overview": "所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
         "poster_path": "/swb4yRgFGpN09QZveBRUjFltzXj.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          9648
+        ],
         "first_air_date": "2009-07-03",
         "origin_country": [
           "JP"
@@ -539,6 +665,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/tDM4UAaHxMrvODGIUj9ZixmyVmw.jpg",
+        "genre_ids": [
+          16,
+          14,
+          9648
+        ],
         "id": 357786,
         "original_language": "ja",
         "original_title": "傷物語〈Ⅰ鉄血篇〉",
@@ -563,6 +694,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/xWnqhREQ3aVbGatgg9fwbY4BYh7.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          18
+        ],
         "id": 63663,
         "origin_country": [
           "JP"
@@ -588,6 +725,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/1diqKF8QfwyMZ8mi0c63S6mlQJi.jpg",
+        "genre_ids": [
+          16,
+          18,
+          35
+        ],
         "id": 66862,
         "origin_country": [
           "JP"
@@ -613,6 +755,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/2fs9w915mmNAtAoYeS9XpWaz048.jpg",
+        "genre_ids": [
+          16,
+          10765
+        ],
         "id": 65210,
         "origin_country": [
           "JP"
@@ -638,6 +784,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/xaD7Vi6Ft8C4lVUxNYYLKHAHKgK.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          35
+        ],
         "id": 65211,
         "origin_country": [
           "JP"
@@ -663,6 +814,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kH9iK6krt0VBwAv5xbsYyhn8AW5.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          9648
+        ],
         "id": 42410,
         "origin_country": [
           "JP"
@@ -688,6 +845,10 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          10402,
+          16
+        ],
         "id": 372764,
         "original_language": "ja",
         "original_title": "KING OF PRISM by PrettyRhythm",
@@ -711,6 +872,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/xJo8xa2yL2pXH1ddgVWyYlUkSTy.jpg",
+        "genre_ids": [
+          16,
+          18,
+          878
+        ],
         "id": 372756,
         "original_language": "ja",
         "original_title": "ガラスの花と壊す世界",
@@ -734,6 +900,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rOpszHrXW2rZESypWvcbOqKy42i.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 90377,
         "origin_country": [
           "JP"
@@ -759,6 +928,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/JZFFhGtmVkCkckH0W8eaiQf6tN.jpg",
+        "genre_ids": [
+          35,
+          16
+        ],
         "id": 71511,
         "origin_country": [
           "JP"
@@ -784,6 +957,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/a0QongjOG6ZTvZ8Ily7Dk6BjxXJ.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 68055,
         "origin_country": [
           "JP"
@@ -809,6 +986,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kRZVtMFMSF7hXGU5nVvXol7v8IQ.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765,
+          80
+        ],
         "id": 65712,
         "origin_country": [
           "JP"
@@ -834,6 +1017,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rfhwoh1giLKh6bAJoEtdnAFPFv6.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          18
+        ],
         "id": 65369,
         "origin_country": [
           "JP"
@@ -859,6 +1048,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/q8cyhG1CBsPrq4EfYmgPld5XUkB.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          18,
+          10765
+        ],
         "id": 65837,
         "origin_country": [
           "JP"
@@ -885,6 +1080,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kdgX5uDV5HoaiIo8HsCEyx6ncH6.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 56559,
         "origin_country": [
           "JP"
@@ -910,6 +1108,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/xILmnxnE56uhOtww0F9yjpSFg4Y.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
         "id": 65816,
         "origin_country": [
           "JP"
@@ -935,6 +1139,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/v3IhfbJvsGN8hzXexy3mGFgW9If.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10765
+        ],
         "id": 63087,
         "origin_country": [
           "JP"
@@ -961,6 +1171,10 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 49248,
         "origin_country": [
           "JP"
@@ -986,6 +1200,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4VGk0j3xtCpg1E0hdXvW6694TcB.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 68136,
         "origin_country": [
           "JP"
@@ -1011,6 +1229,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/e3jEyz16CjrDafVYeiSb7buqleR.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
         "id": 65713,
         "origin_country": [
           "JP"
@@ -1036,6 +1259,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rvZJxD36tKoglL8fXoMMWKGQfM.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765
+        ],
         "id": 65844,
         "origin_country": [
           "JP"
@@ -1061,6 +1290,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kOQkt6e18Fe5h9qnkd3PmffX7og.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          9648
+        ],
         "id": 65292,
         "origin_country": [
           "JP"
@@ -1086,6 +1320,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/vlTwPkOF06ondSGOHFtrk5dFrHL.jpg",
+        "genre_ids": [
+          12,
+          16
+        ],
         "id": 372767,
         "original_language": "ja",
         "original_title": "シンドバッド ～魔法のランプと動く島～",
@@ -1109,6 +1347,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/nn7mYWU6U68sxYig5s0cBJVr02H.jpg",
+        "genre_ids": [
+          16,
+          28,
+          14
+        ],
         "id": 372761,
         "original_language": "ja",
         "original_title": "劇場版 ペルソナ3 第4章  Winter of Rebirth",

@@ -1,5 +1,36 @@
 [
   {
+    "title": "ルパン三世 ハリマオの財宝を追え!!",
+    "date": "1995-08-04T16:00:00.000Z",
+    "bangumi": {
+      "id": "67768"
+    },
+    "tmdb": {
+      "id": 45378,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/dUiwONHmQyQtkgsOrxHo8HblUV4.jpg",
+        "id": 45378,
+        "title": "鲁邦三世：追寻哈里毛的宝藏",
+        "original_language": "ja",
+        "original_title": "ルパン三世 ハリマオの財宝を追え！！",
+        "overview": "二战时东南亚的一支义勇军领导人哈里毛，身后留下一个秘密的宝藏，需要集齐三只雕像才能开启。鲁邦刚刚从阿拉斯加的博物馆偷出了第一只，他还需要剩下的两个……\r 　　本作为鲁邦三世TVsp第七弹，于1995年8月4日放送",
+        "poster_path": "/1rXj5L626eNVFwJ3OzdkphSdmDP.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          10770,
+          28,
+          35,
+          80
+        ],
+        "release_date": "1995-08-04",
+        "video": false
+      }
+    }
+  },
+  {
     "title": "劇場版 スレイヤーズ",
     "date": "1995-08-05T16:00:00.000Z",
     "bangumi": {
@@ -11,6 +42,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/cHzE07iGgPat6SW1JlpQKS1eift.jpg",
+        "genre_ids": [
+          16,
+          14,
+          35,
+          12
+        ],
         "id": 35105,
         "original_language": "ja",
         "original_title": "スレイヤーズ",
@@ -35,6 +72,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/pPG0anTMy67kswaA6Razqo82A9H.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 87053,
         "origin_country": [
           "JP"
@@ -45,6 +87,39 @@
         "poster_path": "/vhSV1vHO84TVXmEnu80qGhQnuuh.jpg",
         "first_air_date": "1991-08-17",
         "name": "阿尔斯兰战记"
+      }
+    }
+  },
+  {
+    "title": "TYLOR THE IRRESPONSIBLE CAPTAIN",
+    "date": "1995-08-31T16:00:00.000Z",
+    "bangumi": {
+      "id": "38730"
+    },
+    "tmdb": {
+      "id": 128948,
+      "type": "tv",
+      "season": 1,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/17skijhH4yQuhvkoaxpFCM4IL6R.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          10768
+        ],
+        "id": 128948,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "無責任艦長タイラー OVA",
+        "overview": "Six long months have passed. The Raalgon Empire has developed a horrible new type of weapon, and Tylor has been charged with the duty of intercepting it as it is being transported. But when all that could go wrong does go wrong, the crew members of the Soyokaze find themselves at the mercy of their enemies. As the hours tick down toward their execution, the crew wonders: has their irresponsible captain misled them? Or is this all a part of some greater strategy?",
+        "poster_path": "/agCbY5OpyKw2p3gAZRASl5cqTlA.jpg",
+        "first_air_date": "1994-10-01",
+        "name": "The Irresponsible Captain Tylor  OVA"
       }
     }
   }

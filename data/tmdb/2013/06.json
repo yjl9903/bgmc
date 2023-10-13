@@ -1,5 +1,37 @@
 [
   {
+    "title": "どーにゃつ",
+    "date": "2013-06-01T16:00:00.000Z",
+    "bangumi": {
+      "id": "94548"
+    },
+    "tmdb": {
+      "id": 90325,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/h9n5L65Gz7JLQ9sET9AZEijGDD1.jpg",
+        "id": 90325,
+        "name": "甜圈喵",
+        "original_language": "ja",
+        "original_name": "どーにゃつ",
+        "overview": "The \"loosely science-fiction adventure\" is set in the summer sometime in the 21st century. Tokyo's Shinjuku ward has become a wasteland, void of all humans due to an unexplained catastrophe. What remains are these strange creatures such as \"Donyatsu,\" the half-cat, half-doughnut hybrid, and \"Begaru,\" a feline bagel composite.",
+        "poster_path": "/jXfzlYaYbdko8XRHsFaRcWpUpng.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10765
+        ],
+        "first_air_date": "2013-06-01",
+        "origin_country": [
+          "JP"
+        ]
+      }
+    }
+  },
+  {
     "title": "キングダム(第2シリーズ)",
     "date": "2013-06-08T14:45:00.000Z",
     "bangumi": {
@@ -11,6 +43,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/5FJCHM2fzZZoWzrC634N9lN90P9.jpg",
+        "genre_ids": [
+          10759
+        ],
         "id": 115851,
         "origin_country": [
           "HK"
@@ -36,6 +71,7 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
         "id": 646213,
         "original_language": "ja",
         "original_title": "宇宙戦艦ヤマト2199 第六章「到達！大マゼラン」",
@@ -60,6 +96,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ZxQglWQ4w98DXm70ydAwyzi7lZ.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10765
+        ],
         "id": 56351,
         "origin_country": [
           "JP"
@@ -85,6 +127,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/uDcs9eKcNgPadTlxuG0O3wzdkjt.jpg",
+        "genre_ids": [
+          28,
+          16,
+          80,
+          878
+        ],
         "id": 196750,
         "original_language": "ja",
         "original_title": "攻殻機動隊ARISE border: 1 Ghost Pain",
@@ -108,6 +156,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 196759,
         "original_language": "ja",
         "original_title": "ガラスの仮面ですが THE MOVIE 女スパイの恋! 紫のバラは危険な香り!?",
@@ -132,6 +183,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/wCddnZyWgx7xwHVoTeOWppVkFHu.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762
+        ],
         "id": 45953,
         "origin_country": [
           "JP"

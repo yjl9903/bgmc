@@ -11,6 +11,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/u0yaNnKTcoOGst7040YXzbxEGzl.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
         "id": 20496,
         "origin_country": [
           "JP"
@@ -37,6 +41,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/mMCvnZum5H1olbzaixPXL0eJ0Se.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 76822,
         "origin_country": [
           "JP"
@@ -62,6 +71,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/7cPed3VVqJYgt6mLMiLoVC8IlZ0.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 37450,
         "origin_country": [
           "JP"
@@ -87,6 +99,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/taqD0yjyXEQ58HGHJVG1sxJBGQO.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          35
+        ],
         "id": 38324,
         "origin_country": [
           "JP"
@@ -112,6 +130,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kzArmYkpUr6hAaRLtAtcRiSzjuI.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
         "id": 43853,
         "origin_country": [
           "JP"
@@ -122,6 +144,39 @@
         "poster_path": "/w8nkt5fREdXUEd4S73yiLWdp5vb.jpg",
         "first_air_date": "1991-10-18",
         "name": "横山光辉 三国志"
+      }
+    }
+  },
+  {
+    "title": "チエちゃん奮戦記 じゃりン子チエ",
+    "date": "1991-10-19T16:00:00.000Z",
+    "bangumi": {
+      "id": "9268"
+    },
+    "tmdb": {
+      "id": 67575,
+      "type": "tv",
+      "season": 2,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/231meoDrNjyUqF0sD0xItVw1h7g.jpg",
+        "genre_ids": [
+          16,
+          10751,
+          10762,
+          10765
+        ],
+        "id": 67575,
+        "origin_country": [
+          "FI",
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "楽しいムーミン一家",
+        "overview": "身兼画家、卡通插图和作家为一身的杜芙·杰森(Tove Jansson)是姆明的妈妈。姆明的故事在海洋和森林间的充满爱和宽容的童话里，温馨的动物世界，不经意间散出淡淡的人际相处的道理，也平和的追寻着宇宙的真理。从过去到现在，从欧洲到全球，姆明的热潮从爆发开始，就从未降温。从故事到卡通、从舞台到电台广播剧、动画片、译本、纪念邮票……姆明的风采迷倒了全世界。每一年，世界各地想寻找姆明踪迹的人只增不减，他们共同的目的地只有一个——芬兰",
+        "poster_path": "/jfGQtNdDjRv9bj9TCPFxmoZ6QRV.jpg",
+        "first_air_date": "1990-04-12",
+        "name": "姆明一族"
       }
     }
   },
@@ -144,6 +199,13 @@
         "overview": "The plot featured R and the Camera Club going on a stamp tour throughout Japan, with the threat of their club being closed down unless they can collect all the stamps by 6:00 PM.",
         "poster_path": null,
         "media_type": "movie",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          878,
+          18
+        ],
         "release_date": "1991-10-24",
         "video": false
       }

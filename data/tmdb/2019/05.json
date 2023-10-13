@@ -11,6 +11,7 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
         "id": 667001,
         "original_language": "ja",
         "original_title": "KING OF PRISM -Shiny Seven Stars- IV ルヰxシンxUnknown",
@@ -34,6 +35,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/pJOYBevz1tMTtexr3KeSx8G6SCN.jpg",
+        "genre_ids": [
+          16,
+          28,
+          14,
+          12
+        ],
         "id": 567006,
         "original_language": "ja",
         "original_title": "甲鉄城のカバネリ 海門決戦",
@@ -42,6 +49,38 @@
         "release_date": "2019-05-10",
         "title": "甲铁城的卡巴内瑞：海门决战",
         "video": false
+      }
+    }
+  },
+  {
+    "title": "カードファイト!! ヴァンガード(続・高校生編)",
+    "date": "2019-05-10T23:00:00.000Z",
+    "bangumi": {
+      "id": "285664"
+    },
+    "tmdb": {
+      "id": 107974,
+      "type": "tv",
+      "season": 2,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/xI7h69GCjMVrRNZxL0jBoiEFTpP.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762
+        ],
+        "id": 107974,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "カードファイト!! ヴァンガード",
+        "overview": "The main protagonist Sendou Aichi, is a timid and mundane third-year middle school boy. The thing that supported Aichi's heart, was the \"Blaster Blade\" card that he received as a child. It's an important rare card from \"Vanguard\", a card game with the imaginary world of \"Planet Cray\" as its stage. From the day he reunited with the person who gave him that card \"Toshiki Kai\", Aichi's everyday life began to change.",
+        "poster_path": "/fcL20oaRWpxjJgPo5GPF9UVuyGd.jpg",
+        "first_air_date": "2018-05-05",
+        "name": "卡片战斗先导者!!Vanguard"
       }
     }
   },
@@ -64,6 +103,10 @@
         "overview": "4月，下雨的早晨，开始凋零的樱花被雨滴打落，漂浮在积水之上，学生们撑着五颜六色的雨伞，穿过高中的校门。“早上好，莲”。鞋柜前，裤袜湿透的莲被由亚搭话。略显忧郁的莲回过头去，看到全身湿透的帆美蹦蹦跳跳地走来，热闹地说着话。3个女学生没啥营养的对话，向教室宣告了新学期的来临。少女们无可替代的宝贵时间向前飞逝，季节渐渐转变……",
         "poster_path": "/hvFKwK0g4FGXXMllfjZ28LWBcHA.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          18
+        ],
         "first_air_date": "2019-05-11",
         "origin_country": [
           "JP"
@@ -90,6 +133,9 @@
         "overview": "Yui Kotani, a second-year junior high school student, is obsessed with men's underarm hair. Her classmate Masato Takeo has the thickest underarm hair in the class.",
         "poster_path": "/p5sqIYK2gsqSug8ENI4YASJiVxT.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          16
+        ],
         "release_date": "2017-02-04",
         "video": false
       }

@@ -12,6 +12,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/w2IgPR222tM4MeBCwjFniLMowmg.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 42694,
         "origin_country": [
           "JP"
@@ -22,6 +26,37 @@
         "poster_path": "/bjiYTjrSSxDu7NZUT4OHEbxcvvI.jpg",
         "first_air_date": "1999-11-30",
         "name": "铃铛猫娘"
+      }
+    }
+  },
+  {
+    "title": "ルパン三世 アルカトラズコネクション",
+    "date": "2001-08-03T16:00:00.000Z",
+    "bangumi": {
+      "id": "84989"
+    },
+    "tmdb": {
+      "id": 78139,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/axDG19sZ4TV4DOdfrNk64ldepNU.jpg",
+        "id": 78139,
+        "title": "鲁邦三世：通往恶魔岛",
+        "original_language": "ja",
+        "original_title": "ルパン三世 アルカトラズコネクション",
+        "overview": "鲁邦一伙洗劫了黑帮的赌船，而鲁邦自己对船上的大堆现金好像并无兴趣，他其实另有所图……  　　本作为鲁邦三世系列第十三部TVsp，于2001年8月3日播送",
+        "poster_path": "/stEN5qwW0OtBSuuchQCapdYzbe9.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          12,
+          16,
+          35,
+          10770,
+          80
+        ],
+        "release_date": "2001-08-03",
+        "video": false
       }
     }
   },
@@ -37,6 +72,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gEloRAwShW5VpoR6lo1mAuv54Dq.jpg",
+        "genre_ids": [
+          28,
+          12,
+          16
+        ],
         "id": 155765,
         "original_language": "ja",
         "original_title": "幻想魔伝 最遊記 Requiem 選ばれざる者への鎮魂歌",
@@ -60,6 +100,11 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10751,
+          18
+        ],
         "id": 608396,
         "original_language": "ja",
         "original_title": "いのちの地球 ダイオキシンの夏",

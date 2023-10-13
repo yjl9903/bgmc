@@ -11,6 +11,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/s0XaJEApAfgMgKUBy6UfOnNTtwR.jpg",
+        "genre_ids": [
+          28,
+          16,
+          878
+        ],
         "id": 39101,
         "original_language": "ja",
         "original_title": "ドラゴンボールZ 地球まるごと超決戦",
@@ -18,6 +23,37 @@
         "poster_path": "/fDX4Dp8IKvjBAaEb5MOJrGkxWX0.jpg",
         "release_date": "1990-06-07",
         "title": "龙珠Z剧场版3：地球超级大决战",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "ルパン三世 ヘミングウェイ・ペーパーの謎",
+    "date": "1990-07-20T16:00:00.000Z",
+    "bangumi": {
+      "id": "67765"
+    },
+    "tmdb": {
+      "id": 80861,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/AiAkvd6RuRVs0yd0712ZmXwr1U0.jpg",
+        "id": 80861,
+        "title": "鲁邦三世：海明威手稿之谜",
+        "original_language": "ja",
+        "original_title": "ルパン三世 ヘミングウェイ・ペーパーの謎",
+        "overview": "据说这是海明威最后的手稿，上面记录了一份巨大财宝的位置。既然扯上了宝藏，鲁邦怎会放过……\r 　　本作为鲁邦三世TVsp第二弹，于1990年7月20日放送。",
+        "poster_path": "/hMLkyDSKJb9Cm6rewK300Akl54i.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          16,
+          35,
+          10770,
+          80
+        ],
+        "release_date": "1990-03-01",
         "video": false
       }
     }
@@ -34,6 +70,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/p20Ixev8WxutYvQohM0A6tZlx5.jpg",
+        "genre_ids": [
+          16,
+          10762
+        ],
         "id": 37578,
         "origin_country": [
           "JP",

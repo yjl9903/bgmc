@@ -1,31 +1,5 @@
 [
   {
-    "title": "WORKING'!!",
-    "date": "2011-09-03T14:30:00.000Z",
-    "bangumi": {
-      "id": "20547"
-    },
-    "tmdb": {
-      "id": 46153,
-      "type": "tv",
-      "season": 2,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/8D5t2tqe78rA6fs1hU5GJckcZ7o.jpg",
-        "id": 46153,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "WORKING!!",
-        "overview": "小鸟游是家中独子，上有姐姐下有妹妹，从小生活在女人堆里，酷爱一切和可爱有关的事物。机缘巧合的来到一家叫做瓦古娜利亚的餐厅打工，开始了学校、打工、家事三点一线的忙碌生活。小鸟游渐渐发现，原来瓦古娜利亚餐厅的店员都各具特色：种岛是个外形娇小，长着一张娃娃脸的可爱女生，凭借这令自己相当头疼的卡哇伊外形深得大家疼爱。伊波有着男性恐惧症，对女顾客服务完美的无法挑剔，却因为这奇怪的病症经常殴打男顾客。八千代是外场负责人，特点是喜欢佩戴一把武士刀，和爱吃的店长白藤杏子，冷面厨师佐藤三人有着暧昧不清的关系。面对这些怪异却有趣的同事，小鸟游也随着时间渐渐融入到了这别具特色的餐厅打工生活中。",
-        "poster_path": "/wrTq51lGy5GpVeHUskqYcxF7Nwe.jpg",
-        "first_air_date": "2010-04-04",
-        "name": "迷糊餐厅"
-      }
-    }
-  },
-  {
     "title": "劇場版 テニスの王子様 英国式庭球城決戦!",
     "date": "2011-09-03T16:00:00.000Z",
     "bangumi": {
@@ -37,6 +11,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/zkWOJtyR4dUNA686iDTEIBqSP11.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 259169,
         "original_language": "ja",
         "original_title": "劇場版テニスの王子様 英国式庭球城決戦！",
@@ -60,6 +38,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/oQheBkbGkMzvc57N2LZgY73Oj16.jpg",
+        "genre_ids": [
+          28,
+          16,
+          878,
+          14
+        ],
         "id": 179932,
         "original_language": "ja",
         "original_title": "トワノクオン 第四章 紅蓮の焦心",
@@ -84,6 +68,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ZxQglWQ4w98DXm70ydAwyzi7lZ.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10765
+        ],
         "id": 56351,
         "origin_country": [
           "JP"
@@ -109,6 +99,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
+        "genre_ids": [
+          10749,
+          16,
+          14
+        ],
         "id": 92321,
         "original_language": "ja",
         "original_title": "蛍火の杜へ",
@@ -132,6 +127,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/jrKkSeO6RHHnSoVgouwvUSy4k6p.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762
+        ],
         "id": 93988,
         "origin_country": [
           "JP"
@@ -164,6 +165,9 @@
         "overview": "The story follows the coming of age and Shinki battles of Tsubasa, a boy who dreams of becoming a Shinki Master, and his Shinki partner Arnval Mk. 2.",
         "poster_path": "/eBV5T0LIToVVfV0gdAlg4FlzcRc.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          16
+        ],
         "release_date": "2012-10-05",
         "video": true
       }
@@ -182,6 +186,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/iMh5wkmPYgT39iL8VwFRkz82wdk.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 60730,
         "origin_country": [
           "JP"
@@ -207,6 +215,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/nUUxIsHIZmn4jR0JEFS5lI1HVXJ.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 35447,
         "origin_country": [
           "JP"

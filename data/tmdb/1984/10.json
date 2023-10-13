@@ -1,30 +1,5 @@
 [
   {
-    "title": "北斗の拳",
-    "date": "1984-10-04T10:30:00.000Z",
-    "bangumi": {
-      "id": "8386"
-    },
-    "tmdb": {
-      "id": 56387,
-      "type": "tv",
-      "search": {
-        "adult": false,
-        "backdrop_path": "/quJBIDCkXEyvpFxefkjRUXhlujk.jpg",
-        "id": 56387,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "北斗の拳",
-        "overview": "公元199X年，人类世界的最高首领因一己私欲发动战争，甚至愚蠢地按下毁灭世界的按钮。世界遭受核武器洗礼，山崩地裂，海水枯竭。部分人类虽侥幸存活，然地球上资源短缺，使得血腥纷争仍在继续。世间传说“有北斗出现的地方，必现乱事”。身上有七处伤疤、北斗密宗神拳继承者健四郎孤独行走在干涸的大地上，寻找心爱的女人尤丽娅。一路上艰难险阻不断，各路强手如云，健四郎在宿命的引领下一次次穿越充斥血雨腥风的生死屠场……根据武论尊、原哲夫的同名漫画改编。",
-        "poster_path": "/yypGXmBPvyJiD7pOeD2R3q84FlA.jpg",
-        "first_air_date": "1984-10-11",
-        "name": "北斗神拳"
-      }
-    }
-  },
-  {
     "title": "機甲界ガリアン",
     "date": "1984-10-05T00:30:00.000Z",
     "bangumi": {
@@ -36,6 +11,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gqQssmDeb538kjEEpHsJMeqDJx7.jpg",
+        "genre_ids": [
+          10765,
+          10759,
+          16
+        ],
         "id": 90414,
         "origin_country": [
           "JP"
@@ -61,6 +41,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/wdRL94HkFgEysNzGcSSoPAierHT.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          35
+        ],
         "id": 129263,
         "origin_country": [
           "JP"
@@ -86,6 +72,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/H3xntRjTEqbun01NaGP5M7YJ8X.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 73905,
         "origin_country": [
           "JP"

@@ -11,6 +11,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4xzUhKxWHxPjJ6h1faVMTUBDquQ.jpg",
+        "genre_ids": [
+          16,
+          878
+        ],
         "id": 192577,
         "original_language": "ja",
         "original_title": "キャプテンハーロック",
@@ -35,6 +39,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/e1R4kNrWvSfb8AVViMp0okVJfuk.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 45247,
         "origin_country": [
           "JP"
@@ -60,6 +68,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/s6HhBZC9OZiknLLfHGuVEBKWJqi.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751
+        ],
         "id": 58381,
         "origin_country": [
           "JP"
@@ -85,6 +98,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/7SJ4Oz86UgKuKivmMXvOanTVCJa.jpg",
+        "genre_ids": [
+          28,
+          16
+        ],
         "id": 212161,
         "original_language": "ja",
         "original_title": "コードギアス 亡国のアキト 第2章「引き裂かれし翼竜」",
@@ -108,6 +125,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/i1hKSnXnzvBRLwZD8xayiYqxHHl.jpg",
+        "genre_ids": [
+          35,
+          16,
+          18,
+          10749
+        ],
         "id": 214553,
         "original_language": "ja",
         "original_title": "小鳥遊六花・改 ～劇場版 中二病でも恋がしたい!～",
@@ -131,6 +154,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/mAs8HQdoxJbMuXxgoSgDoX5apJd.jpg",
+        "genre_ids": [
+          16,
+          18,
+          9648
+        ],
         "id": 61512,
         "origin_country": [
           "JP"
@@ -151,21 +179,21 @@
       "id": "83920"
     },
     "tmdb": {
-      "id": 211368,
-      "type": "tv",
+      "id": 984620,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
-        "id": 211368,
-        "origin_country": [
-          "JP"
-        ],
+        "id": 984620,
+        "title": "Mega Monster Rush: Ultra Frontier - Dino-Tank Hunting",
         "original_language": "ja",
-        "original_name": "大怪獣rush",
-        "overview": "的泡面番,主角是巴尔坦斗士巴雷鲁，卡兹枪手迦鲁姆，玛格玛大师玛古纳组成的猎人小队",
-        "poster_path": "/xSVz7H0KOLzmrCilalt3SVYL3lY.jpg",
-        "first_air_date": "2013-09-18",
-        "name": "大怪兽RUSH"
+        "original_title": "大怪獣ラッシュ ウルトラフロンティア DINO-TANK hunting",
+        "overview": "",
+        "poster_path": "/47Qus6CO34urncPSjba86cGc82G.jpg",
+        "media_type": "movie",
+        "genre_ids": [],
+        "release_date": "2013-09-07",
+        "video": false
       }
     }
   },
@@ -182,6 +210,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/5VL7HC4aeLhepAaGxaQBUBWgIGo.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 65676,
         "origin_country": [
           "JP"
@@ -207,6 +240,14 @@
       "search": {
         "adult": false,
         "backdrop_path": "/yGr4QJdLEKKYr6PkMsz8R8a8hK1.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10762,
+          18,
+          10765
+        ],
         "id": 132360,
         "origin_country": [
           "JP"
@@ -232,6 +273,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 113075,
         "origin_country": [
           "JP"

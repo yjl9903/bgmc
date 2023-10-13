@@ -11,6 +11,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/39XQf9sk2qyyleVOX6QdS9o8v53.jpg",
+        "genre_ids": [
+          16,
+          12,
+          14,
+          10751
+        ],
         "id": 462677,
         "original_language": "ja",
         "original_title": "映画ドラえもん のび太の南極カチコチ大冒険",
@@ -34,6 +40,7 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
         "id": 564262,
         "original_language": "ja",
         "original_title": "劇場版プリパラ　み～んなでかがやけ！キラリン☆スターライブ！",
@@ -57,6 +64,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 440675,
         "original_language": "ja",
         "original_title": "ずんだホライずん",
@@ -80,6 +90,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/7ppe5S9RJKBaIjliCFWOqwTiUaP.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          14
+        ],
         "id": 477449,
         "original_language": "ja",
         "original_title": "劇場版総集編 オーバーロード 漆黒の英雄【後編】",
@@ -103,6 +119,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/xMsn2d2MfoMqtUrR2mMlfchKzOF.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 428707,
         "original_language": "ja",
         "original_title": "劇場版 黒子のバスケ LAST GAME",
@@ -126,6 +145,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/x2a0FIuzS4p5NP8a5o3gyrNbVjJ.jpg",
+        "genre_ids": [
+          14,
+          16,
+          18,
+          12
+        ],
         "id": 428293,
         "original_language": "ja",
         "original_title": "結城友奈は勇者である -鷲尾須美の章- 第1章 「ともだち」",
@@ -149,6 +174,12 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          35,
+          16,
+          14,
+          28
+        ],
         "id": 432128,
         "original_language": "ja",
         "original_title": "映画プリキュアドリームスターズ!",
@@ -179,6 +210,9 @@
         "overview": "一言不合就脑大洞开的变形美少女，无厘头的举动，带来无尽的惊喜惊吓？但是少女其实都是为了帮助别人的助人为乐的好女孩。",
         "poster_path": "/jI1uUlw4BeLdHVEeVZ79oTTlghC.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16
+        ],
         "first_air_date": "2017-03-26",
         "origin_country": [
           "JP"
@@ -199,6 +233,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/cj8AXAbcgkAOdxfrB24EniY5QfP.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 66105,
         "origin_country": [
           "JP"
@@ -209,6 +246,35 @@
         "poster_path": "/1ZsbaElqwnxlJdNPKbB6beCmcup.jpg",
         "first_air_date": "2016-04-10",
         "name": "高校舰队"
+      }
+    }
+  },
+  {
+    "title": "フューチャーカード バディファイトX",
+    "date": "2017-03-31T23:00:00.000Z",
+    "bangumi": {
+      "id": "207698"
+    },
+    "tmdb": {
+      "id": 71919,
+      "type": "tv",
+      "season": 4,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/4544SWVVeFlxdPdLE128SbR4Tsf.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 71919,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "フューチャーカード バディファイト",
+        "overview": "It is the year 2030, and the stage is the capital of Japan, Chou-Tokyo. Through \"Buddyfight\", humans have started cultural interactions with residents from other worlds called \"Affinity Dimensions\". Buddyfight is a game with selected humans as the \"Buddyfighter\", and residents from the other world as the partner (known as \"Buddy Monster\"). These battles have high significance and sometimes it is even used to decide the fate of a nation, and naturally there are those who seek to use the Buddy Monsters for evil purposes.",
+        "poster_path": "/7YQqFws3fsAbEaawDY9jHUkcesg.jpg",
+        "first_air_date": "2014-01-03",
+        "name": "未来之卡同伴之战"
       }
     }
   }

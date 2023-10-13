@@ -18,6 +18,10 @@
         "overview": "　1800年前，人类恶念凝聚而成的怪物—八歧大蛇肆虐人间，被以草薙家族为首的武术家们用三件神器封印。 现代，世界综合格斗大赛 - THE KING OF FIGHTERS（简称KOF）召开，全世界的格斗高手集聚南镇。草薙家族的传人-草薙京来到南镇之后，他敏锐地感觉到了大蛇之力的复苏，一切迹象表明KOF大赛背后隐藏着一个巨大的阴谋。 随着KOF大赛的召开，所有的队伍，抱着各自的目的，渐渐被命运之手拉到了一起。而幕后的邪恶势力已然布下了天罗地网，准备将所有的格斗家一网打尽。正义与邪恶的对决一触即发！",
         "poster_path": "/mVwa7oI2MpPBChR6QAArAK4zXmk.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          10759
+        ],
         "first_air_date": "2017-08-03",
         "origin_country": [
           "CN"
@@ -44,6 +48,7 @@
         "overview": "原作漫画单行本第27卷限定版同捆，各校选手采访篇。",
         "poster_path": null,
         "media_type": "movie",
+        "genre_ids": [],
         "release_date": "2017-08-04",
         "video": false
       }
@@ -68,6 +73,11 @@
         "overview": "《高达创战者 战斗部落》是由Sunrise制作，于2017年8月4日至2018年3月1日不定期在高达官网（GUNDAM.INFO）配信的短篇动画（亚马逊等官网先行付费配信），全5集[1]。由《高达创战者》和《高达创战者TRY》中角色和机体出演，属于外传性质的动画。",
         "poster_path": "/kHMXKrAMl3DSnWLJWUxSMy9ohCw.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
         "first_air_date": "2017-08-04",
         "origin_country": [
           "JP"
@@ -87,6 +97,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/acpNWZi4E21KAUzy0fjlxQfNxRB.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          9648
+        ],
         "id": 46195,
         "origin_country": [
           "JP"
@@ -112,6 +128,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/jh6GJSeqyazoKfi3Lu19N1fvr7e.jpg",
+        "genre_ids": [
+          16,
+          18,
+          14
+        ],
         "id": 431819,
         "original_language": "ja",
         "original_title": "打ち上げ花火、下から見るか？横から見るか？",
@@ -136,6 +157,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/lTJSMFLFH8rfTX4hnbDVeB1koPm.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765,
+          10762,
+          10751
+        ],
         "id": 60667,
         "origin_country": [
           "JP"
@@ -168,8 +196,43 @@
         "overview": "The older boys are graduating school and recount their memories together. The next day everyone defends the graduation ceremony against Zundar and Dadacha's Second-Button Monster, but Yumoto struggles using his love power.",
         "poster_path": "/nW3mA96GG5vfr6oA63OsHtGvUbn.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          16,
+          10402,
+          14,
+          35
+        ],
         "release_date": "2017-08-26",
         "video": false
+      }
+    }
+  },
+  {
+    "title": "ONE PIECE エピソードオブ東の海～ルフィと4人の仲間の大冒険!!～",
+    "date": "2017-08-26T16:00:00.000Z",
+    "bangumi": {
+      "id": "217886"
+    },
+    "tmdb": {
+      "id": 541867,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/nZnIJ5L0whGJuYcWuQXmxVsLciu.jpg",
+        "id": 541867,
+        "title": "海贼王东海篇：路飞与四位伙伴的大冒险！！",
+        "original_language": "ja",
+        "original_title": "ワンピース エピソードオブ東の海[イーストブルー] ~ルフィと4人の仲間の大冒険~",
+        "overview": "十年前与香克斯的誓言，引发了路飞的大冒险，从与索隆、娜美、乌索普、山治的相遇，到成为朋友的名场面，一一出现！  当路飞遇到五人时，乔巴罗宾弗兰基布鲁克在做什么？ ??原始卷首部分的一部分将首次以结尾滚动进行动画处理！",
+        "poster_path": "/mRy1D3wVL1AjR1Czp2WY90CCzPY.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          16,
+          12
+        ],
+        "release_date": "2017-08-26",
+        "video": true
       }
     }
   },
@@ -185,6 +248,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/6krwKHCp9KQtboITamlCEjeXLde.jpg",
+        "genre_ids": [
+          28,
+          16,
+          18,
+          14
+        ],
         "id": 461083,
         "original_language": "ja",
         "original_title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い",

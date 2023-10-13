@@ -6,19 +6,25 @@
       "id": "80846"
     },
     "tmdb": {
-      "id": 331399,
+      "id": 13549,
       "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/ebAbslEIX3q4vX4xtkExiCQdUig.jpg",
-        "id": 331399,
+        "backdrop_path": "/cBUFwjc7tpbLZKh4uG1IhkZUuiX.jpg",
+        "id": 13549,
+        "name": "科学小飞侠",
         "original_language": "ja",
-        "original_title": "Kagaku ninja tai Gatchaman",
-        "overview": "Five young superhero ninja employed by the International Science Organization oppose an international terrorist organization of technologically advanced villains who are trying to control Earth's natural resources.",
-        "poster_path": "/2ShL4ZJg8i1SpafFpP3CJStT6up.jpg",
-        "release_date": "1978-07-14",
-        "title": "科学小飞侠 电影版",
-        "video": false
+        "original_name": "科学忍者隊ガッチャマン",
+        "overview": "由总裁X率领的秘密结社Gharacter在贝尔克的指挥下开始了征服世界的历程。与之对抗的是国际科学技术厅的南部博士所组织的在暗中悄悄接近的白影——科学忍者队。成员包括作为队长的G1号铁雄，G2号大明，G3号珍珍，G4号阿丁和G5号阿龙。他们以G5号机为基础，用收纳了G1到G4号机的爱机火鸟神的科学忍法“火鸟”对抗不断袭击的秘密结社。",
+        "poster_path": "/9qPFWl6LUbA18kBkV6Hi19Pi0Tf.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16
+        ],
+        "first_air_date": "1972-10-01",
+        "origin_country": [
+          "JP"
+        ]
       }
     }
   },
@@ -34,6 +40,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/meQmMxuili54v72JQH7nmxOptkz.jpg",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          878
+        ],
         "id": 394253,
         "original_language": "ja",
         "original_title": "宇宙海賊キャプテンハーロック アルカディア号の謎",
@@ -57,6 +69,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/c7pIOFjj1UwAMQ7nFKdu3y5fbaE.jpg",
+        "genre_ids": [
+          16,
+          10765
+        ],
         "id": 94236,
         "origin_country": [
           "JP"

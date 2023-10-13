@@ -11,6 +11,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/tY6ZweSX4Mg8AYNSia9vyH1su8k.jpg",
+        "genre_ids": [
+          16,
+          10765
+        ],
         "id": 1095,
         "origin_country": [
           "JP"
@@ -36,6 +40,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/it6ct1t65nLf9Lc1dxcjDSdtwkt.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
         "id": 12352,
         "origin_country": [
           "US",
@@ -57,22 +67,25 @@
       "id": "36271"
     },
     "tmdb": {
-      "id": 30982,
-      "type": "tv",
-      "season": 0,
+      "id": 383856,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/oF4HmudneMd7bXkADYVh70Lqm0F.jpg",
-        "id": 30982,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": "/oFI40YOdRP60CEKJMluBXzyj7TZ.jpg",
+        "id": 383856,
+        "title": "棋魂·通往北斗杯之路",
         "original_language": "ja",
-        "original_name": "ヒカルの碁",
-        "overview": "　　六年级的小学生进藤光（川上友子 配音）无意中翻出了爷爷家的旧棋盘。触碰棋盘的一瞬间也释放出了寄居在其上的平安时代棋士藤原佐为（千叶进步 配音）的灵魂。附身于小光体内的佐为视棋如命，小光在其软磨硬泡下开始下围棋，接触了一批厉害的棋士，其中不乏他的同龄人。小光开始对围棋产生兴趣并展现了他的天分，而佐为则成为了小光的秘密老师……  　　《棋魂》改变自堀田由美的同名作品，漫画由小畑健执笔，并由日本棋院的女棋士梅泽由香里担当监修。当年上映引起轰动后，引发了一股学习围棋的热潮，借由佐为的附身改变了主人公进藤光，讲述了其棋艺和心灵的成长，也在其中普及了围棋知识，意义深远。",
-        "poster_path": "/qrk2w3qchJmmNIxPNs9I6PYfcWn.jpg",
-        "first_air_date": "2001-10-10",
-        "name": "棋魂"
+        "original_title": "ヒカルの碁 スペシャル 北斗杯への道",
+        "overview": "　　佐为已离开，但光的围棋生涯还在继续。接续动画版的剧情，这部是之后推出的OVA，讲述了这群年轻棋手们的北斗杯之旅。  　　经过一番努力和征战，进藤光（川上伦子 配音）终于成为了一名职业棋手，这是对自己能力的认可也是全新的开始。成为职业棋手后的光从棋院那得知了北斗杯的消息，这是为18岁以下的年轻人举办的围棋赛，会有来自中国、韩国等围棋强国的青少年参与。兴致勃勃的光把这个消息告诉了塔矢亮（小林沙苗 配音），亮听到后一脸淡然的说自己已经是北斗杯确定的参与选手了。而光还得参与预选赛，才有资格和亮一起站在北斗杯的现场，通往北斗杯之路就此拉开。",
+        "poster_path": "/w4fGbWKxvWMT8DbYvqcNhRvsLVB.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18,
+          12,
+          16
+        ],
+        "release_date": "2004-01-03",
+        "video": false
       }
     }
   },
@@ -88,6 +101,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/usGb5AKf67goa1vqvcTp7ZXvFP8.jpg",
+        "genre_ids": [
+          16,
+          9648,
+          10759,
+          35
+        ],
         "id": 12174,
         "origin_country": [
           "JP"
@@ -113,6 +132,15 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          18,
+          10751,
+          10762,
+          10765
+        ],
         "id": 5594,
         "origin_country": [
           "JP"
@@ -138,6 +166,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/2yVRSkOfEVBxzDdJqsMYUwgaLJj.jpg",
+        "genre_ids": [
+          16,
+          18,
+          35
+        ],
         "id": 24913,
         "origin_country": [
           "JP"
@@ -163,6 +196,11 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          10765,
+          10759,
+          16
+        ],
         "id": 9157,
         "origin_country": [
           "JP"
@@ -188,6 +226,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/8zemjT4kIfbtvpfBZ4kuE3rGCso.jpg",
+        "genre_ids": [
+          18,
+          16
+        ],
         "id": 42468,
         "origin_country": [
           "JP"
@@ -213,6 +255,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 64456,
         "origin_country": [],
         "original_language": "ja",
@@ -236,6 +281,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/iZH5iTjM1RQR8Lkcz9rveg3oyvv.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759
+        ],
         "id": 12333,
         "origin_country": [
           "JP"
@@ -261,6 +311,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/yijpsR3NTV9uj2Mh3oT6A8Firs.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35
+        ],
         "id": 37857,
         "origin_country": [
           "JP"
@@ -286,6 +341,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/bKVBvSyvLNoQRePgnKIVmFDhF12.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
         "id": 34823,
         "origin_country": [
           "JP"
@@ -311,6 +370,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/cnKDpKS1vInT3W4qiMbyB6kXsCY.jpg",
+        "genre_ids": [
+          10759,
+          16
+        ],
         "id": 75911,
         "origin_country": [
           "JP"
@@ -336,6 +399,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/qqCLbkrIqUWw84RdvqE5zYjp2dr.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 70038,
         "origin_country": [
           "JP"
@@ -361,6 +427,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/cNEnD2Z8xaS1qchdVbhKQdLcdOw.jpg",
+        "genre_ids": [
+          10759,
+          16
+        ],
         "id": 34716,
         "origin_country": [
           "JP"
@@ -386,6 +456,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/dq1Ee79oiJVwIide2EW6oT5Dxll.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
         "id": 8907,
         "origin_country": [
           "JP"
@@ -411,6 +487,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4DmlEkmLQqUo66VGaK7mgz0kpJT.jpg",
+        "genre_ids": [
+          16,
+          35,
+          80,
+          878
+        ],
         "id": 15981,
         "original_language": "ja",
         "original_title": "デッド　リーブス",
@@ -434,6 +516,14 @@
       "search": {
         "adult": false,
         "backdrop_path": "/bfGJFmcf26xZ04NmEYi5tjkyMnB.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          9648,
+          18,
+          10765
+        ],
         "id": 34081,
         "origin_country": [
           "JP"
@@ -459,6 +549,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/iZAhVJjFi5TunwwxefyqL0HknQB.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 35869,
         "origin_country": [
           "JP"
@@ -491,6 +584,13 @@
         "overview": "继13话TV版故事完结后，又推出了补完的OVA《7th Heaven》，讲述的是在“七重天”里JING的偷盗故事。",
         "poster_path": "/nQ6HV9AmHLEn0C3fNh7WiBQknkS.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          9648
+        ],
         "first_air_date": "2004-01-21",
         "origin_country": [
           "JP"
@@ -510,6 +610,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/b7XDPKkEqT1g7sbRwE4E5QsuDUx.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 45535,
         "origin_country": [
           "JP"
@@ -535,6 +639,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/49KwlG377i8sBNBAZ8k3PZfkBOj.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10762
+        ],
         "id": 37508,
         "origin_country": [
           "JP"

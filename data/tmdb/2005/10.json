@@ -11,6 +11,7 @@
       "search": {
         "adult": false,
         "backdrop_path": "/x2u7KWuKe4EfuzGXPZMrSbUfqis.jpg",
+        "genre_ids": [],
         "id": 44872,
         "origin_country": [
           "JP"
@@ -36,6 +37,11 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16,
+          10759,
+          35
+        ],
         "id": 34679,
         "origin_country": [
           "JP"
@@ -61,6 +67,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4ndnfseHaE9kPC9xPp9wN7ghHHq.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          18,
+          10765
+        ],
         "id": 19836,
         "origin_country": [
           "JP"
@@ -86,6 +99,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/7A8tD2yOkkODWmfpDnAHOHKIEyl.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 32963,
         "origin_country": [
           "JP"
@@ -111,6 +128,11 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 37574,
         "origin_country": [
           "JP"
@@ -136,6 +158,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/xWP6CQszpcZ1uVoua2PHhewSBZA.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 42999,
         "origin_country": [
           "JP"
@@ -161,6 +187,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/roLGHJepYqPvE75O5JKEL58knva.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 27438,
         "origin_country": [
           "JP"
@@ -186,6 +215,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/1GUJZgNCBmZ5RZjGdH5ozFHLI5N.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 34803,
         "origin_country": [
           "JP"
@@ -211,6 +244,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 34772,
         "origin_country": [
           "JP"
@@ -236,6 +272,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/v1KF6iinESY77YdJGAr6C1KFKU2.jpg",
+        "genre_ids": [
+          16,
+          18,
+          9648,
+          10765
+        ],
         "id": 8974,
         "origin_country": [
           "JP"
@@ -261,6 +303,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 34676,
         "origin_country": [
           "JP"
@@ -286,6 +331,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/dThh8p2KogsjzvcUjJuI4Qvt5uf.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 42877,
         "origin_country": [
           "JP"
@@ -311,6 +360,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ooimzF11ITN43ewqLKkhZcptDuc.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
         "id": 25113,
         "origin_country": [
           "JP"
@@ -336,6 +390,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/5bOYtdiBKBnrbfPTwZaAEJOfDmW.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          10765,
+          35
+        ],
         "id": 22634,
         "origin_country": [
           "JP"
@@ -368,6 +429,7 @@
         "overview": "Dr. Jurgen of DC developed a global defense system to combat potential alien threats. This system has two elements. First is the VTX-001 Vartoul unmanned anti alien PT. Governing these drones is the ODE worldwide network system. However, this system has a noteworthy secret. A living human is needed to control the ODE core. Furthermore, the ODE core needs human organs to support itself. At the present day, the drone have gone on a mass abduction spree. Kyosuke and co has been sent in to take care of the problem.",
         "poster_path": "/pwTHdXgc9S1w0qGEapxhrGMAR77.jpg",
         "media_type": "tv",
+        "genre_ids": [],
         "first_air_date": "2005-05-27",
         "origin_country": [
           "JP"
@@ -387,6 +449,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/zf7I8RB6elZlEUnh1li7r8P5vc2.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10765
+        ],
         "id": 53787,
         "origin_country": [
           "JP"
@@ -412,6 +480,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/w8BZhJOqDeXzwQNYQPbCNsq04p7.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10759
+        ],
         "id": 23475,
         "origin_country": [
           "JP"
@@ -422,6 +495,37 @@
         "poster_path": "/mVjBbM1TUkq3r1Bq0wlo3ZG5xfC.jpg",
         "first_air_date": "2005-10-05",
         "name": "IGPX：不朽大奖赛"
+      }
+    }
+  },
+  {
+    "title": "冒険王ビィト エクセリオン",
+    "date": "2005-10-06T09:30:00.000Z",
+    "bangumi": {
+      "id": "195012"
+    },
+    "tmdb": {
+      "id": 43276,
+      "type": "tv",
+      "season": 2,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/tka5fcGkFclwf3brgUZunXHIwAg.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          35
+        ],
+        "id": 43276,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "冒険王ビィト",
+        "overview": "在黑暗时代，强大的魔人操纵著魔物，令人类生活在困苦之中。因此，一种专门对付魔人的职业应运而生，大家都称呼这种人为“狩魔战士”。有一个从小就渴望成为狩魔战士的少年比特，接受了他人生的第一个烙印，成为了一个年轻的狩魔战士。以比特的亲哥哥为首的5人战士团“圣龙战士团”，为了救回比特的性命，各自把自己的“才牙”（狩魔战士用体内的力量制造出来的最强的武器）传送给比特，然後他们被魔人“贝尔图西”一一杀死。因此比特继承了他们5把才牙，为著结束黑暗世纪而进发……",
+        "poster_path": "/z8b4duKsLjnk5oKR5DfFmNYjH1V.jpg",
+        "first_air_date": "2004-09-30",
+        "name": "冒险王比特"
       }
     }
   },
@@ -437,6 +541,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/9dqngDzy5wlQeqksWoHnrK2qJnB.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
         "id": 34065,
         "origin_country": [
           "JP"
@@ -462,6 +571,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/5xluokTgSt2Pk4bc34wiDzMymFY.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
         "id": 42716,
         "origin_country": [
           "JP"
@@ -487,6 +601,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/5NVIijd8tReEDTXyO1rSrz4XTtS.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          10765
+        ],
         "id": 26674,
         "origin_country": [
           "JP"
@@ -512,6 +632,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/goD9FEuGxbSwzn8a6C0ZXIV95Dk.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
         "id": 19849,
         "origin_country": [
           "JP"
@@ -537,6 +662,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/f9K8tOuoj42EZRwFmJdyj42HNlH.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 34134,
         "origin_country": [
           "JP"
@@ -562,6 +691,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ovNy27aRMJ4Lxj82uK49DUg0RAL.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 74414,
         "origin_country": [
           "JP"
@@ -587,6 +720,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/fqfcpJ3tGWmktXEZ3rbWoHtYdvR.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 9041,
         "origin_country": [
           "JP"
@@ -612,6 +750,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/bGUQFK9GWbATsIo2fkMVQeBk1DE.jpg",
+        "genre_ids": [
+          16,
+          18,
+          35
+        ],
         "id": 34208,
         "origin_country": [
           "JP"
@@ -637,6 +780,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/8ysRHGV3URjOJT7u7NkZiFjvObk.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
         "id": 26867,
         "origin_country": [
           "JP"
@@ -669,6 +817,12 @@
         "overview": "2024年，发生了MM制造公司\"濑良野基因混合社\"的社长绑架案。在收取赎金现场出现的凶犯，居然让自己脸部在所有监视纪录上留下了贴着笑面标志的影像后成功脱逃。案发后六年，\"笑面男\"的巧妙陷阱再度出现在网络社会中... 封印已久的笑面男苏醒了，特A级黑客与九课的巅峰对决即将拉开帷幕！",
         "poster_path": "/6FQboZCHxIRYF4TIJZ1gxZ4XqpR.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          878,
+          16,
+          28,
+          80
+        ],
         "release_date": "2005-09-23",
         "video": true
       }
@@ -686,6 +840,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/v2NJPBmhQBGI8nLmTBI94MwPT1t.jpg",
+        "genre_ids": [
+          28,
+          16,
+          878
+        ],
         "id": 19257,
         "original_language": "ja",
         "original_title": "機動戦士Ζガンダム A New Translation II: 恋人たち",

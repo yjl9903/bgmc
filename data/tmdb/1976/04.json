@@ -11,6 +11,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/l6RfOuLU8HdRn7V3kSMlsNJH3Pq.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 43979,
         "origin_country": [
           "JP"
@@ -36,6 +41,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rR7yXPGI3yvRGKkVpYX1nfJTo9w.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 51925,
         "origin_country": [
           "JP"
@@ -61,6 +69,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/hvwiQtH0KiOvv8p3BhEzY93C04N.jpg",
+        "genre_ids": [
+          16,
+          10765
+        ],
         "id": 45929,
         "origin_country": [
           "JP"
@@ -86,6 +98,7 @@
       "search": {
         "adult": false,
         "backdrop_path": "/nV6iXXqfGEXfhmWfbBVoPa1hDiE.jpg",
+        "genre_ids": [],
         "id": 20075,
         "origin_country": [
           "JP"
@@ -96,6 +109,35 @@
         "poster_path": "/id7fmyb0K7A69DFUU4HAoW7rfDd.jpg",
         "first_air_date": "1976-04-06",
         "name": "UFO Senshi Dai Apolon"
+      }
+    }
+  },
+  {
+    "title": "超電磁ロボ コン・バトラーV",
+    "date": "1976-04-17T23:00:00.000Z",
+    "bangumi": {
+      "id": "37177"
+    },
+    "tmdb": {
+      "id": 1102968,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 1102968,
+        "title": "Combattler V Movie",
+        "original_language": "ja",
+        "original_title": "超電磁ロボ　コン・バトラーＶ 劇場版",
+        "overview": "Thousands of years ago, the people of the planet Campbell decided to leave their planet and seek out new worlds to inhabit. One group, lead by the scientist Oreana, landed on Earth, but was delayed from their mission. In the early 21st century, Oreana's group reawakens and begins their plan to conquer the Earth. The only effective defense against the Campbellians' giant biomechanical slave beasts is the super-electromagnetic robot, Combattler V and its pilots.\r A recut version of ep. 30 in a theatrical format for Spring Festival '77.",
+        "poster_path": "/iZJERNomWG4Gh2WASGJNAsxb5Ko.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          12,
+          878
+        ],
+        "release_date": "1977-01-01",
+        "video": false
       }
     }
   }

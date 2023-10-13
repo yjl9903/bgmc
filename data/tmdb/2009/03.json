@@ -12,6 +12,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/iJ5G4z3729y05kwt2Js0d98AxFL.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 56355,
         "origin_country": [
           "JP"
@@ -37,6 +41,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4VFRn5xcD8o3qUMrSShm3I6zpfl.jpg",
+        "genre_ids": [
+          16,
+          12,
+          10751
+        ],
         "id": 95935,
         "original_language": "ja",
         "original_title": "映画ドラえもん 新・のび太の宇宙開拓史",
@@ -60,6 +69,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/nkLGBZRtvqUc6WgBVAy6XDrtJdq.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          10751
+        ],
         "id": 112545,
         "original_language": "ja",
         "original_title": "超劇場版ケロロ軍曹　撃侵ドラゴンウォリアーズであります！",
@@ -90,6 +105,14 @@
         "overview": "从色雷斯国找到了自己的过去的法伊，一行人在黑钢牺牲了一只手臂的情况下，仍然没有躲过飞王的陷阱，来到了“日本国”。在日本国，小狼为了小樱的羽毛和星史郎起了激烈的冲突。就在这场激烈的战斗中，小狼被羽毛引导着来到了“梦之世界”，在这里等待着小狼的是—另一个小狼？！无法避开的战斗的最终将迎来什么样的冲击性的真实？！……",
         "poster_path": "/vIg9ETf7CuEIsu33odGxDBPZ8zP.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          10749,
+          12,
+          14,
+          878,
+          28,
+          16
+        ],
         "release_date": "2009-03-17",
         "video": false
       }
@@ -107,6 +130,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/uY0W5vxfy3PfiEyXsb1UNj5qKHM.jpg",
+        "genre_ids": [
+          16,
+          14,
+          35,
+          28
+        ],
         "id": 84160,
         "original_language": "ja",
         "original_title": "映画 プリキュアオールスターズDX みんなともだちっ☆奇跡の全員大集合！",
@@ -130,6 +159,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gpjGVWfGj8RJ92g1C1VVa7lDNeU.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 42952,
         "origin_country": [
           "JP"
@@ -140,6 +172,69 @@
         "poster_path": "/2rMDRhQarbiiPPgqDY4PQY13t1p.jpg",
         "first_air_date": "2006-10-01",
         "name": "金色琴弦"
+      }
+    }
+  },
+  {
+    "title": "ルパン三世VS名探偵コナン",
+    "date": "2009-03-27T16:00:00.000Z",
+    "bangumi": {
+      "id": "26295"
+    },
+    "tmdb": {
+      "id": 46033,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/eNZmGXxHrEUGMpIM9jBzaWRCpZV.jpg",
+        "id": 46033,
+        "title": "鲁邦三世VS名侦探柯南",
+        "original_language": "ja",
+        "original_title": "ルパン三世VS名探偵コナン",
+        "overview": "在维斯巴尼亚（ヴェスパニア）王国，女王萨克拉（サクラ）死于猎枪走火；而该国的王子吉尔（ジル），因母亲由于自己的猎枪走火而死，而过度自责，最后以手枪自杀身亡。惨剧的消息迅速传播，轰动各国新闻界；当然，也传到了江户川柯南（工藤新一）和鲁邦三世耳里……  女王及王子的死，使公主米拉（ミラ）将继承王位，成为下届女王。当米拉访问日本东京时，得知女王及王子的死，拒绝继承王位，而逃离保镖的护卫。米拉遇见和她十分相似的毛利兰。米拉希望自由地玩一次，而兰想一尝当公主的滋味，因此她们互换衣着。伯爵基斯（キース）不公布米拉失踨的消息，并把已换上米拉衣着的兰带回维斯巴尼亚王国；而柯南亦偷偷跟随兰搭上该国皇家飞机。此时，鲁邦准备偷走“女王皇冠”（クイーンクラウン）。",
+        "poster_path": "/dNAaJjlSwgamuId4SQDz4tPRFJr.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          16,
+          35,
+          80,
+          10770
+        ],
+        "release_date": "2009-03-27",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "レジェンド・オブ・レギオス",
+    "date": "2009-03-27T16:00:00.000Z",
+    "bangumi": {
+      "id": "104950"
+    },
+    "tmdb": {
+      "id": 43318,
+      "type": "tv",
+      "season": 1,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/80ceIROspsra5q30XUpToRAev07.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          18,
+          10759
+        ],
+        "id": 43318,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "鋼殻のレギオス",
+        "overview": "在遥远的时间尽头，世界受到大规模污染之后，大地被新的主宰污染兽所占领，将人类逼至濒临灭绝的窘境。幸存的人类在远古炼金术师遗留下的自律型移动都市中生活。这些移动都市各自拥有自己独立意识及专门的作用，有专属交通的都市也有专属教育类的学院都市。\n\n赌上各自都市的存亡，都市与都市之间为了珍贵的却不可缺少的矿藏超锡矿山而进行战争。还有能够覆盖天地的巨大怪物“污染兽”群。少年少女们为了保护自己的都市，使用超能力“刭”不断进行战斗。\n\n故事就发生于无数都市中的其中一个学院都市洁尔尼，在新生入学仪式上，由两个敌对都市的学生引发的骚乱险些造成坍塌事故(其实是学生会会长安排来试探雷冯的）；在混乱之中，来自于枪壳都市古莲丹的普通教育系新生雷冯救下了一名少女。由此，被学生会长以学费全免为条件由一般教育系转入了武技系，并被招入了刚成立不久的都市护卫第十七小队中。\n\n不过这个“第十七小队”却是个不得了的“堕落部队”。率领整个小队的队长妮娜不顾周围的人和状况一昧向前猛冲，沉默的少女菲丽、没有干劲的男人夏尼德、被这些超有个性的“第十七小队”包围着，雷冯开始了全新的学园生活。\n\n然而，除了学生会长以外，并没有人知道这位来自钢壳都市古莲丹的少年有着怎样的过去，他那曾经背负的作为武者的最高荣誉以及污名……",
+        "poster_path": "/np0kBS99x9jejKCfRvnSXzOAcOd.jpg",
+        "first_air_date": "2009-01-11",
+        "name": "钢壳都市雷吉欧斯"
       }
     }
   },
@@ -156,6 +251,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/sQ6udM8ZUNPxrOtut8T4sP27tOR.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10762
+        ],
         "id": 34186,
         "origin_country": [
           "JP"
@@ -181,6 +281,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 195314,
         "origin_country": [
           "JP"
@@ -206,6 +309,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/5TdJdDdbsGczj5zeVWSbqg2QGv4.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 25395,
         "origin_country": [
           "JP"
@@ -231,6 +337,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 132641,
         "origin_country": [
           "JP"

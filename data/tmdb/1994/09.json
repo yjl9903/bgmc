@@ -11,6 +11,14 @@
       "search": {
         "adult": false,
         "backdrop_path": "/8QnYftbKVqVzocx6MZJ6CUFruIz.jpg",
+        "genre_ids": [
+          35,
+          10759,
+          16,
+          10765,
+          10762,
+          10751
+        ],
         "id": 71961,
         "origin_country": [
           "JP"
@@ -43,6 +51,9 @@
         "overview": "Two recap specials that focus on Team Urameshi's matches in the Dark Tournament and four separate volumes focusing around one of the main characters; Yusuke, Kurama, Hiei, or Kuwabara.",
         "poster_path": "/1enjMmbTRi6061ytvf9Nxh5PUNu.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          16
+        ],
         "release_date": "1994-01-01",
         "video": false
       }
@@ -67,6 +78,11 @@
         "overview": "Running late on her first day as a patrol woman for the Bokuto Police Department, spunky moped rider Natsumi Tsujimoto decides to take several shortcuts, only to be chased down and cited by mechanical genius and expert police driver Miyuki Kobayakawa. Upon arrival at the precinct, Natsumi finds out that her new partner is the same woman who ticketed her earlier. At first, she doesn't trust Miyuki, but in a short period of time, they develop an unbreakable friendship that overcomes traffic accidents, reckless drivers and even the strongest typhoons to hit Tokyo.",
         "poster_path": "/a6dRj1vSIIsMmrxByMacJiunRZT.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          80,
+          35
+        ],
         "first_air_date": "1994-09-24",
         "origin_country": [
           "JP"
@@ -93,6 +109,10 @@
         "overview": "就读于冈山县立仓敷西工业高等学校二年级的柾木天地，在纯粹的好奇心驱使下解开了封印魉呼七百年的封印。天地小时候经常到封印之地，灵体状态下的魉呼看着天地长大，非常喜欢天地，继而从此定居在天地家。为了找到哥哥遥照的阿重霞进行了时间冻结，封印了自己和妹妹砂沙美，因为魉呼的复活而解除，为了找到哥哥，抓捕魉呼，最后两人的飞船同归于尽，阿重霞和砂沙美也定居在了天地家。九罗密美星（水谷美星）来到了太阳系抓捕永久通缉犯神我人，飞船意外降落在地球天地叔母家的温泉，飞船损坏，最后也寄居了下来。感觉到魉呼存在的神我人来到了地球，抓走了魉呼，为了救出魉呼，天地前往宇宙跟神我人战斗，最后在生死之间觉醒了三枚光鹰翼，战胜了神我人，并救出了被封印5000年的宇宙第一天才科学家鹫羽（鹫羽. F.小林；鹫羽小林）。",
         "poster_path": "/jQMDb6sS3IpWOZNkbPQZLLfNM3w.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          10765
+        ],
         "first_air_date": "1992-09-25",
         "origin_country": [
           "JP"
@@ -119,10 +139,48 @@
         "overview": "龙子之七十年代动画原作《科学忍者队》（台译《科学小飞侠》）的1994年重制的全3话OVA，梅津泰臣负责人设以及作画监督。",
         "poster_path": "/8lUQgRWbNh5XCAH62SYyt5ivWWc.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
         "first_air_date": "1994-09-30",
         "origin_country": [
           "JP"
         ]
+      }
+    }
+  },
+  {
+    "title": "TYLOR The Irresponsible Captain AN EXCEPTIONAL EPISODE ひとりぼっちの戦争 Tylor's War",
+    "date": "1994-09-30T16:00:00.000Z",
+    "bangumi": {
+      "id": "38731"
+    },
+    "tmdb": {
+      "id": 128948,
+      "type": "tv",
+      "season": 1,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/17skijhH4yQuhvkoaxpFCM4IL6R.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35,
+          10765,
+          10768
+        ],
+        "id": 128948,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "無責任艦長タイラー OVA",
+        "overview": "Six long months have passed. The Raalgon Empire has developed a horrible new type of weapon, and Tylor has been charged with the duty of intercepting it as it is being transported. But when all that could go wrong does go wrong, the crew members of the Soyokaze find themselves at the mercy of their enemies. As the hours tick down toward their execution, the crew wonders: has their irresponsible captain misled them? Or is this all a part of some greater strategy?",
+        "poster_path": "/agCbY5OpyKw2p3gAZRASl5cqTlA.jpg",
+        "first_air_date": "1994-10-01",
+        "name": "The Irresponsible Captain Tylor  OVA"
       }
     }
   }

@@ -11,6 +11,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/i7azILCNAHeGgOjUNDW1TJldhBk.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 34833,
         "origin_country": [
           "JP"
@@ -36,6 +39,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/wj9gg7DPT0fkX9m0ZkGconFHIMu.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 27346,
         "origin_country": [
           "JP"
@@ -61,6 +67,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/jupyc00jMXnD3VqFzeW1TxKVmBQ.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 34701,
         "origin_country": [
           "JP"
@@ -86,6 +95,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/3iezjkKQPk1vTsTRHhOicuXJUU.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
         "id": 121320,
         "origin_country": [
           "JP"
@@ -111,6 +126,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/dpMwWqTm3YF8oCvhF33r1rPdNSx.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
         "id": 34723,
         "origin_country": [
           "JP"
@@ -136,6 +155,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 44764,
         "origin_country": [
           "JP"
@@ -161,6 +183,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/xNlNH4Rv0Grba4HR2XIZwgWUFlE.jpg",
+        "genre_ids": [
+          16,
+          12,
+          28,
+          14
+        ],
         "id": 97787,
         "original_language": "ja",
         "original_title": "映画 デジモンアドベンチャー",
@@ -184,6 +212,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/gxB3oSO0yspVJn7vqoclrYtJNWx.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10759
+        ],
         "id": 34201,
         "origin_country": [
           "JP"
@@ -209,6 +242,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/fTjUWUwKd3dopUzwfjz978PYv8A.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          80,
+          10765
+        ],
         "id": 31091,
         "origin_country": [
           "JP"
@@ -234,6 +273,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/tF9zNKxkVEoPAhczhClsabHgQcz.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 34813,
         "origin_country": [
           "JP"
@@ -259,6 +303,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/sqdZdIwOc5XaxQ4YDt4muLanEgW.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
         "id": 37829,
         "origin_country": [
           "JP"
@@ -284,6 +333,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/taeZQppADBzuPOA6MPwJWmwfBiJ.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 37537,
         "origin_country": [
           "JP"
@@ -309,6 +361,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/hmK8ovIqCOP5NKjWalv64p65KuX.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10759,
+          10768,
+          10765
+        ],
         "id": 37546,
         "origin_country": [
           "JP"
@@ -334,6 +393,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/qHJe3nWhDaRk4LguKuYtQk4aA8y.jpg",
+        "genre_ids": [
+          16,
+          28,
+          35
+        ],
         "id": 128878,
         "original_language": "ja",
         "original_title": "クレヨンしんちゃん 爆発！温泉わくわく大決戦",
@@ -357,6 +421,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/r5mJfibXbCLOXrLnxrsT8cdbC0k.jpg",
+        "genre_ids": [
+          16,
+          53,
+          9648
+        ],
         "id": 28808,
         "original_language": "ja",
         "original_title": "名探偵コナン 世紀末の魔術師",
@@ -380,6 +449,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/hwAnsDBsgCY8oRYMrsOIhMikVCG.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 44664,
         "origin_country": [
           "JP"
@@ -400,22 +473,25 @@
       "id": "53938"
     },
     "tmdb": {
-      "id": 36046,
-      "type": "tv",
-      "season": 0,
+      "id": 189077,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/saZTZ8t7rgC5OysidZoUCqMVS4o.jpg",
-        "id": 36046,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": "/eL5tK2iaO72Guc60a585nARrTvA.jpg",
+        "id": 189077,
+        "title": "城市猎人：紧急插播!?凶恶罪犯獠的死期",
         "original_language": "ja",
-        "original_name": "シティーハンター",
-        "overview": "　　该作品以生动幽默的风格塑造了一位身怀绝技而又有自身缺点、可爱又可恨的私人侦探——寒羽良（日文名：冴羽 獠，港译：孟波）的形象。\n\n　　主人公寒羽良是一个好色之徒，同时也是一个技艺超群又温柔体贴的侠士。他与个性开朗的假小子女孩牧村香共同从事着以城市猎人为名的私人侦探事务。委托者只要在新宿车站的留言板上写下“XYZ”的字样，他们就会接受委托，通常情况下，委托者必须是年轻貌美的女性。在一次次艰险的委托任务中，城市猎人以其独有的方式铲除着城市中的罪恶。",
-        "poster_path": "/9zOHCNEeisH472vp8Y9eVI7WmVK.jpg",
-        "first_air_date": "1987-04-06",
-        "name": "城市猎人"
+        "original_title": "シティーハンタースペシャル 緊急生中継!?凶悪犯冴羽獠の最期",
+        "overview": "当红女主播朝雾朝香聘用冴羽獠做贴身保镖，獠欣然接受这桩生意。然而朝雾其实另有目的。随后獠即被大肆报道犯下种种罪行并被曝光在电视新闻上。而这其后的主使者又和冴羽獠有着密切的关系...宿命的对决，冴羽獠究竟能否化解此番险境？",
+        "poster_path": "/m8GwK8qAKuvwaxR6G0Fz2b1eyIx.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          28,
+          35
+        ],
+        "release_date": "1999-04-22",
+        "video": false
       }
     }
   },
@@ -431,6 +507,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/58Q91vxeUEydYrZbckco9G0sPVe.jpg",
+        "genre_ids": [
+          16,
+          18,
+          28,
+          53
+        ],
         "id": 51106,
         "original_language": "ja",
         "original_title": "逮捕しちゃうぞ the MOVIE",

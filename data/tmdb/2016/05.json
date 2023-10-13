@@ -18,6 +18,7 @@
         "overview": "2016年5月2日发售的第21卷限定版",
         "poster_path": "/mMVgVQ4708a24SWmsN2OXH9mOgJ.jpg",
         "media_type": "movie",
+        "genre_ids": [],
         "release_date": "2016-05-02",
         "video": false
       }
@@ -36,6 +37,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kOQkt6e18Fe5h9qnkd3PmffX7og.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          9648
+        ],
         "id": 65292,
         "origin_country": [
           "JP"
@@ -61,6 +67,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/nPQCGcE6sX79SWlNKMVYp4548rR.jpg",
+        "genre_ids": [
+          16,
+          28,
+          53
+        ],
         "id": 374191,
         "original_language": "ja",
         "original_title": "亜人　第２部「衝突」",
@@ -91,6 +102,11 @@
         "overview": "Join the cast of RWBY in a new series of cute, comedy shorts with infinite possibilities! It's playing tag! It's baking cookies! It's posing as police officers! It's... really quite absurd. It's RWBY CHIBI!",
         "poster_path": "/9XmS0yDLMpjOIyP9RSoDFSfbYi9.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
         "first_air_date": "2016-05-08",
         "origin_country": [
           "US"
@@ -111,6 +127,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ty3fCZumomMkHPHRxACDQJkTEyD.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          10765
+        ],
         "id": 62430,
         "origin_country": [
           "JP"
@@ -121,6 +143,34 @@
         "poster_path": "/p6F6pGoNNtIViDxHkU4wDeseiyJ.jpg",
         "first_air_date": "2015-04-05",
         "name": "亚尔斯兰战记 "
+      }
+    }
+  },
+  {
+    "title": "つばさとホタル",
+    "date": "2016-05-10T16:00:00.000Z",
+    "bangumi": {
+      "id": "181439"
+    },
+    "tmdb": {
+      "id": 575445,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 575445,
+        "title": "翼与萤火虫",
+        "original_language": "ja",
+        "original_title": "つばさとホタル",
+        "overview": "15岁高一女生园川翼在刚升上高中的春天在车站贫血被学长所救，她认定他就是王子是命中注定的邂逅，而现实只是自己的幻想且被众人误认为是位跟踪狂！因为好友 友梨受伤而担任了临时篮球部经理，为了将当时的毛巾归还和翼和她认定为王子的学长见面结果却搞错了对象？当时在车站解救她的竟然是篮球部内的一员“飞鹰显”，两人间隐藏的命运悄悄散发出光芒。",
+        "poster_path": "/5555bZ3u4SjKabX7ZkhORzBbOH3.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          10749
+        ],
+        "release_date": "2014-03-16",
+        "video": false
       }
     }
   },
@@ -136,6 +186,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/yG1eB1tVaAU9Uq3EbEAgdpU1GuS.jpg",
+        "genre_ids": [
+          16,
+          12
+        ],
         "id": 459290,
         "original_language": "ja",
         "original_title": "シンドバッド ～真昼の夜とふしぎの門～",

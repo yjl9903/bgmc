@@ -1,5 +1,35 @@
 [
   {
+    "title": "僕のヒーローアカデミア(第2期)",
+    "date": "2017-04-01T08:30:00.000Z",
+    "bangumi": {
+      "id": "185761"
+    },
+    "tmdb": {
+      "id": 65930,
+      "type": "tv",
+      "season": 0,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/jsXKG9uppnPrhqFNhImllyCfLhl.jpg",
+        "genre_ids": [
+          10759,
+          16
+        ],
+        "id": 65930,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "僕のヒーローアカデミア",
+        "overview": "大部分的人类，在这个时代里都拥有名为“个性”的力量，但有力量之人却不一定都属于正义的一方。只要邪恶出现的地方，必定会有英雄挺身而出拯救众人。一名天生没有力量的少年——绿谷出久从小就憧憬一位顶尖英雄，而他的梦想就是成为伟大的英雄，可是，没有力量的他能实现自己的梦想吗？虽然困难重重，少年却依旧不放弃，朝著自己的目标勇往前进！",
+        "poster_path": "/ivOLM47yJt90P19RH1NvJrAJz9F.jpg",
+        "first_air_date": "2016-04-03",
+        "name": "我的英雄学院"
+      }
+    }
+  },
+  {
     "title": "银之守墓人",
     "date": "2017-04-01T12:00:00.000Z",
     "bangumi": {
@@ -11,6 +41,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/sJqCtpZoC115CKwFp32Kde0wILo.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765,
+          18,
+          9648
+        ],
         "id": 71005,
         "origin_country": [
           "JP"
@@ -31,21 +68,26 @@
       "id": "118335"
     },
     "tmdb": {
-      "id": 1429,
-      "type": "tv",
+      "id": 492999,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
-        "id": 1429,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": "/bOtdLAnUxX3Hxn6LV5zFi15KW6S.jpg",
+        "id": 492999,
+        "title": "进击的巨人 ~觉醒的咆哮~",
         "original_language": "ja",
-        "original_name": "進撃の巨人",
-        "overview": "曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
-        "poster_path": "/by4f66EHK82OZNyEuYbOW5RxFBa.jpg",
-        "first_air_date": "2013-04-07",
-        "name": "进击的巨人"
+        "original_title": "劇場版 進撃の巨人 覚醒の咆哮",
+        "overview": "自从超大型巨人出现，人类的和平与幻想被打破的那天开始，艾伦·耶格尔无尽战斗的日子就未曾中断……。  毫无抵抗之力，眼睁睁看着母亲成为巨人的饵食，发誓将巨人一个不剩地从世上驱逐的艾伦。  但，在残酷战斗的途中，他自己也变成了巨人的姿态——。  为了夺回人类的自由而驱使巨人之力的艾伦，在席纳之墙的史托黑斯区与“女巨人”交锋。这场巨人之间的激烈战斗，由艾伦艰难地取得了胜利。  即使如此，艾伦以及人类也没有休息的时间。下一场战斗已经宣告开幕。面对逼近罗塞之墙的大群巨人，人类将如何对敌！？",
+        "poster_path": "/tLkdCvfmTOvxirrpSaaOBJD7qsU.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          14
+        ],
+        "release_date": "2018-01-13",
+        "video": true
       }
     }
   },
@@ -61,6 +103,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/3bYfBuWby20fSYTKNVJQgEuZDja.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
         "id": 69820,
         "origin_country": [
           "JP"
@@ -71,6 +118,37 @@
         "poster_path": "/hUo1FNB9WZZZi4pOJ2YE7Vq5UcF.jpg",
         "first_air_date": "2017-01-21",
         "name": "碧蓝幻想"
+      }
+    }
+  },
+  {
+    "title": "モンスターストライク セカンドシーズン",
+    "date": "2017-04-01T15:00:00.000Z",
+    "bangumi": {
+      "id": "205015"
+    },
+    "tmdb": {
+      "id": 69084,
+      "type": "tv",
+      "season": 2,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/6L6NywiGfMI0BRBdo3AIPN1jPU3.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "id": 69084,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "モンスターストライク",
+        "overview": "少年「焰莲」在某天回到了以往曾居住过的城市「神之原」，但他虽然走在熟悉街道上，却感受到一股不知名违和感且无法回想起过往记忆……\n\n　　突然之间，焰的手机被强迫安装未知名游戏「怪物弹珠」，并从中飞出各式怪物展开战斗。伴随着超次元的发展，焰隐约发现隐藏在记忆深处的秘密就是一切关键。究竟在一众伙伴及怪物们帮助下，真实之门是否会向他开启呢？",
+        "poster_path": "/heb6tJGPgOnjzwdC7cUZVbYRGd4.jpg",
+        "first_air_date": "2015-10-10",
+        "name": "怪物弹珠"
       }
     }
   },
@@ -86,6 +164,11 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          10759,
+          16,
+          35
+        ],
         "id": 46392,
         "origin_country": [
           "JP"
@@ -112,6 +195,11 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16,
+          18,
+          18
+        ],
         "id": 44934,
         "origin_country": [
           "JP"
@@ -137,6 +225,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4OZwDoCjVLtwayU5voUuJuPSH36.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          18
+        ],
         "id": 70594,
         "origin_country": [
           "JP"
@@ -162,6 +256,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/covxbfX4QxxXm0GtDbWSBUYN5jf.jpg",
+        "genre_ids": [
+          10765,
+          16,
+          35,
+          10759,
+          18
+        ],
         "id": 71000,
         "origin_country": [
           "JP"
@@ -187,6 +288,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/bckz96bFTL6Z5vd75kF6c6jgYOt.jpg",
+        "genre_ids": [
+          16,
+          9648
+        ],
         "id": 71015,
         "origin_country": [
           "JP"
@@ -212,6 +317,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/bpbWrKlBRxtp1iCxtHDC5Y1eMEs.jpg",
+        "genre_ids": [
+          10759,
+          16
+        ],
         "id": 67667,
         "origin_country": [
           "JP"
@@ -237,6 +346,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/zNqc5IbY7GR01I5hCxOvjbbUjhq.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 78973,
         "origin_country": [
           "JP"
@@ -262,6 +374,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/z9FFZjBG36loZYmYeTHHLdHftua.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 71073,
         "origin_country": [
           "JP"
@@ -288,6 +405,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/9xHwJDTkyGdsMXDSSwokQSlp49q.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 71003,
         "origin_country": [
           "JP"
@@ -320,6 +441,7 @@
         "overview": "青之驱魔师番外篇。2017年上映。",
         "poster_path": "/doevjSvh4UqYiXJwPynOpN2Zb0c.jpg",
         "media_type": "movie",
+        "genre_ids": [],
         "release_date": "2017-10-04",
         "video": false
       }
@@ -337,6 +459,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ohSfUU5cnYyLSLOY4BGcEOgJn1q.jpg",
+        "genre_ids": [
+          16,
+          10765
+        ],
         "id": 71001,
         "origin_country": [
           "JP"
@@ -362,6 +488,7 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
         "id": 206047,
         "origin_country": [
           "JP"
@@ -388,6 +515,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kwM9YYNRUaD4BB42viZOqJOoDFP.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 66999,
         "origin_country": [
           "JP"
@@ -413,6 +544,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/raZ0xTSdRhZIMQYChKdhUMyWMAa.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          18,
+          35
+        ],
         "id": 70637,
         "origin_country": [
           "JP"
@@ -438,6 +576,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/eRPWVHMfFmQ9Qlkw3kEkn1Ar8hY.jpg",
+        "genre_ids": [
+          35,
+          16
+        ],
         "id": 71012,
         "origin_country": [
           "JP"
@@ -463,6 +605,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/sWDC5IWXWLLYwZtkqAzCBUhboyl.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
         "id": 71008,
         "origin_country": [
           "JP"
@@ -488,6 +635,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/3XlKckxPEa4lg5w4vHnyE35PUyI.jpg",
+        "genre_ids": [
+          10759,
+          16
+        ],
         "id": 70881,
         "origin_country": [
           "JP"
@@ -514,6 +665,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/y4drjIxCz6s5985h7xnvNWGYGdC.jpg",
+        "genre_ids": [
+          16,
+          10762
+        ],
         "id": 119251,
         "origin_country": [
           "JP"
@@ -539,6 +694,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4iNLG60hRrOB2hOYRPwwgguiMiA.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 71215,
         "origin_country": [
           "JP"
@@ -564,6 +723,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/6FnCWzbW2UMySEWvPnTb8NnFhDl.jpg",
+        "genre_ids": [
+          35,
+          16
+        ],
         "id": 71011,
         "origin_country": [
           "JP"
@@ -589,6 +752,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rvPakm4StQQWU9imnegSKVUfTCE.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759
+        ],
         "id": 70882,
         "origin_country": [
           "JP"
@@ -614,6 +782,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/dVLFFyPt1jGldLhbA6NzFleTRip.jpg",
+        "genre_ids": [
+          16,
+          18,
+          10765
+        ],
         "id": 71014,
         "origin_country": [
           "JP"
@@ -639,6 +812,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/i6WaWU24du7OfBDXDSUp6Sp7QgO.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 71013,
         "origin_country": [
           "JP"
@@ -665,6 +841,10 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          10762,
+          16
+        ],
         "id": 97243,
         "origin_country": [
           "JP"
@@ -675,6 +855,35 @@
         "poster_path": "/alZBH9XDflTctNO5GIRkGmx5Zqw.jpg",
         "first_air_date": "2015-10-01",
         "name": "见习神明：秘密的COCOTAMA"
+      }
+    }
+  },
+  {
+    "title": "アイカツスターズ! 2年目",
+    "date": "2017-04-06T09:25:00.000Z",
+    "bangumi": {
+      "id": "207491"
+    },
+    "tmdb": {
+      "id": 65929,
+      "type": "tv",
+      "season": 2,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/f7nWK7iPKLJzQXt8D7C1w9fgUs6.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 65929,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "アイカツスターズ！",
+        "overview": "\"在以顶级偶像为目标的偶像活动“Aikatsu!”当中努力的少女们的成功物语——“Aikatsu Stars!”\n\n偶像学校四星学园。学园的4位顶点之星被称作“S4”，在偶像界大为活跃。新生们以S4为目标，努力展开偶像活动。\n\n闪耀的“Aikatsu! Card”的光芒！为了让自己的光芒闪耀而进行的自我展现！\n\n强大、明亮、率直！在歌舞中融入时尚！将女孩子的憧憬全部注入，新的偶像活动开始了。\n\n朝向偶像的第一颗星，向着梦想前进！！\"",
+        "poster_path": "/veAX2RjDx7pAz937TQVLRaAYNFm.jpg",
+        "first_air_date": "2016-04-07",
+        "name": "偶像活动Stars"
       }
     }
   },
@@ -690,6 +899,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/cifs43XOpsUYUgEDzcsU52AvcaP.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 70880,
         "origin_country": [
           "JP"
@@ -715,6 +928,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/lDPjEomHROm0N6goQbT68i5HhIG.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 70636,
         "origin_country": [
           "JP"
@@ -740,6 +958,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/7wgVpHODnE2OgjFgVoIgHgAhfkx.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 71009,
         "origin_country": [
           "JP"
@@ -765,6 +987,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/aGOlHlWsylqnhaRm6nerosmD0g7.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 70883,
         "origin_country": [
           "JP"
@@ -790,6 +1017,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/esfuGHFDtnxDRvR0OLVo9uK5iPR.jpg",
+        "genre_ids": [
+          16,
+          10765
+        ],
         "id": 99957,
         "origin_country": [
           "JP"
@@ -815,6 +1046,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/jPXnW9emZ0tvuL0GbqVLv7YHQTJ.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 71006,
         "origin_country": [
           "JP"
@@ -840,6 +1075,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/lrPk4ikR30jVI1Ls1qMnBHsR3UG.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 71021,
         "origin_country": [
           "JP"
@@ -865,6 +1103,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/pqNwQ6HdHH0BMslSqYp0SJEkopv.jpg",
+        "genre_ids": [
+          16,
+          9648,
+          10765
+        ],
         "id": 71016,
         "origin_country": [
           "JP"
@@ -890,6 +1133,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/iBl3hhtHC7qQX7jGphIAYLpmpPC.jpg",
+        "genre_ids": [
+          35,
+          10749,
+          16,
+          14
+        ],
         "id": 430214,
         "original_language": "ja",
         "original_title": "夜は短し歩けよ乙女",
@@ -914,6 +1163,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/wckZWH6AJknqbnXuYaUVNzLC9GE.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          35
+        ],
         "id": 68146,
         "origin_country": [
           "JP"
@@ -939,6 +1193,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/asUFPHTGvdLvyyf3YxWZNvPWkoa.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 61445,
         "origin_country": [
           "JP"
@@ -965,6 +1224,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/3fBRFTy6qKksHhJt9DzKJMmlh4w.jpg",
+        "genre_ids": [
+          35,
+          16,
+          10749
+        ],
         "id": 62601,
         "origin_country": [
           "JP"
@@ -990,6 +1254,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/4Q6eUPWDSQmws34Y1U9bZRZxjuz.jpg",
+        "genre_ids": [
+          16,
+          9648,
+          10759,
+          10765
+        ],
         "id": 70592,
         "origin_country": [
           "JP"
@@ -1015,6 +1285,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/6hbd2zP73s9pm8ndy1xwEv7Ehem.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 70878,
         "origin_country": [
           "JP"
@@ -1041,6 +1316,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/cNZT0ELbKlLQqu0qANyI6c8yS3J.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 61338,
         "origin_country": [
           "JP"
@@ -1066,6 +1346,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/tZd77fp9AuZHl7iQ2s2VBxfdNKM.jpg",
+        "genre_ids": [
+          16,
+          10765
+        ],
         "id": 71007,
         "origin_country": [
           "JP"
@@ -1091,6 +1375,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/iMY4IctCOvBa4PtTetFQYTflbbv.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759,
+          18,
+          35
+        ],
         "id": 70875,
         "origin_country": [
           "JP"
@@ -1116,6 +1407,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/yjkRAd9pjVgB0kpZSQXvMQB8yZC.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
         "id": 71004,
         "origin_country": [
           "JP"
@@ -1141,6 +1436,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/y0SwJxgPOaX9VN94xIIrcYoI0FQ.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          18
+        ],
         "id": 70639,
         "origin_country": [
           "JP"
@@ -1166,6 +1467,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/n1Hd1Mvg6CXYko1nZK1PDt57QhK.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18,
+          9648
+        ],
         "id": 69500,
         "origin_country": [
           "JP"
@@ -1198,6 +1505,9 @@
         "overview": "　　2016年日本的首都圈突然出现巨大的茧。从初次确认以来已经过了数月，其正体仍未判明，人们将这正体不明的茧称作Phenomenon。唯一能够明白的是被吸收到Phenomenon内侧的人们会开始发狂并互相残杀。对此感到焦躁的日本政府为了解决突然出现的Phenomenon而组织了特殊部队。总务省情报管理厅管辖扩张现实特殊战略队群特别攻击队——又名扩张少女系三重奏。",
         "poster_path": "/vJ0xKZXLFsWYgTqZtxE9vspcBRL.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16
+        ],
         "first_air_date": "2017-04-12",
         "origin_country": [
           "JP"
@@ -1217,6 +1527,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/tLk6EVRT3KyccnaWmFCWCKnmFzt.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 71010,
         "origin_country": [
           "JP"
@@ -1242,6 +1556,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/vqHmfZdlwzl3loHlWi8oiWFkHte.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 71066,
         "origin_country": [
           "JP"
@@ -1267,6 +1585,10 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          10762,
+          16
+        ],
         "id": 88298,
         "origin_country": [
           "JP"
@@ -1292,6 +1614,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/g2WL67XNIUddSPWEurHLZFtOD6F.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 69367,
         "origin_country": [
           "JP"
@@ -1324,6 +1651,14 @@
         "overview": "An original story in the Ghost In The Shell franchise; an effort to the sensation of being in another world, meshing future technologies with art.  A World of Purity: Holy Ground. \"To end the war and protect my wife, I must delete you all…\"  Japan, 2025. Technology has been advancing more and more rapidly.  \"Brain cyberization\" that makes possible direct connections to information networks via the brain, the technology of \"prosthetic bodies\" that allows humans to change their body parts into cybernetical ones; in this world where such scientific advances have become common, a bombing attack threat is sent to the Japanese government.  The target is an international meeting involving dignitaries from the Republic of Kuzan. The case is entrusted to the Ministry of Home Affairs' Public Security Section 9.  Section 9's leader, the full-cyborg Motoko Kusanagi, assembles her team and heads off to trap and eliminate the terrorist.",
         "poster_path": "/hvBoNHkfUbEwyUd4jd14fJSRGg2.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          80,
+          878,
+          53
+        ],
         "release_date": "2016-02-02",
         "video": false
       }
@@ -1341,6 +1676,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/J0N4IsYgtnKCVbzYQlnhnmV8F5.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 71018,
         "origin_country": [
           "JP"
@@ -1366,6 +1706,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ard57H2UJfk9Ls50rib5lKHBiK.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
         "id": 70590,
         "origin_country": [
           "JP"
@@ -1391,6 +1735,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/rPfjyws2DDm5lPPj5OQ5HjPDC8Q.jpg",
+        "genre_ids": [
+          10751,
+          16,
+          35
+        ],
         "id": 453575,
         "original_language": "ja",
         "original_title": "クレヨンしんちゃん 襲来！！宇宙人シリリ",
@@ -1414,6 +1763,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/tEwpSvQHmSIfnePcHmF5uAUb4SQ.jpg",
+        "genre_ids": [
+          35,
+          16
+        ],
         "id": 71068,
         "origin_country": [
           "JP"
@@ -1439,6 +1792,7 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [],
         "id": 71069,
         "origin_country": [],
         "original_language": "ja",
@@ -1462,6 +1816,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 71070,
         "origin_country": [
           "JP"
@@ -1487,6 +1844,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/59uNq5BVRnSNgz9SQQZKzXV8muR.jpg",
+        "genre_ids": [
+          10765,
+          16,
+          18
+        ],
         "id": 70886,
         "origin_country": [
           "JP"
@@ -1512,6 +1874,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ku9iJo5rZaysZOAY6RbzZUs2XTf.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 450150,
         "original_language": "ja",
         "original_title": "結城友奈は勇者である -鷲尾須美の章- 第2章 「たましい」",
@@ -1535,6 +1900,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/vlMpDFtFT0qh2XtkizpjhxvJfXc.jpg",
+        "genre_ids": [
+          16,
+          28,
+          80,
+          9648,
+          12
+        ],
         "id": 438058,
         "original_language": "ja",
         "original_title": "名探偵コナン から紅の恋歌",
@@ -1558,6 +1930,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/sm3Hc9sTpOJb9kfKHQSg5hA7S2m.jpg",
+        "genre_ids": [
+          16,
+          35,
+          18
+        ],
         "id": 450149,
         "original_language": "ja",
         "original_title": "劇場版 Free! -Timeless Medley- 絆",
@@ -1588,6 +1965,9 @@
         "overview": "DNF动画《阿拉德：宿命之门》在DNF游戏背景的基础上，重新描摹未来世界。故事的舞台设置在阿拉德大陆，主要讲述200年后发生在阿拉德的故事。在这个科技文明高度发达的未来世界，魔法与武技元素的加入让原有的职业角色得以重新诠释，主角阵容以学生的身份从校园开始展开一段全新的传奇之旅。",
         "poster_path": "/aXnmx82uzzjRdvTXn5NIbqfdTRX.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16
+        ],
         "first_air_date": "2017-04-28",
         "origin_country": [
           "CN"

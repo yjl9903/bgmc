@@ -11,6 +11,9 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 195307,
         "origin_country": [
           "JP"
@@ -36,6 +39,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/fJmeyANTcpTRWUHPi5cGj5rpBJ4.jpg",
+        "genre_ids": [
+          35,
+          878,
+          9648,
+          16,
+          18
+        ],
         "id": 36865,
         "original_language": "ja",
         "original_title": "涼宮ハルヒの消失",
@@ -59,6 +69,12 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kWA9LYpRVA1UQTDC1kQeFNJmp1Q.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35,
+          10765
+        ],
         "id": 42981,
         "origin_country": [
           "JP"
@@ -73,25 +89,63 @@
     }
   },
   {
+    "title": "ルパン三世 the Last Job",
+    "date": "2010-02-12T16:00:00.000Z",
+    "bangumi": {
+      "id": "49313"
+    },
+    "tmdb": {
+      "id": 39952,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/sQhj10PGLtCcz1wCUtEWwk3jKOQ.jpg",
+        "id": 39952,
+        "title": "鲁邦三世：最后的工作",
+        "original_language": "ja",
+        "original_title": "ルパン三世 the Last Job",
+        "overview": "鲁邦三世发展至今，已有3部TV版，6部剧场版，4部OVA，还有89年起在电视荧幕上不定期播放时长两小时的特别剧场。而这部《鲁邦三世 THE LAST JOB》则是特别剧场的第二十一弹。在德国的保养所居然发现了日本的国宝级文化财产“地狱如来像”！鲁邦等人想要偷出这尊如来像，却始终被谜之忍者强盗集团组织者莫尔加纳妨碍未能成功，而钱形居然被莫尔加纳所杀……？——鲁邦与莫尔加纳一伙的激烈夺宝战，将在这里白热化。",
+        "poster_path": "/fdFY1z9HiTTQd5VyO77pgWOARyk.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          16,
+          35,
+          10770,
+          80
+        ],
+        "release_date": "2010-02-12",
+        "video": false
+      }
+    }
+  },
+  {
     "title": "HALO Legends",
     "date": "2010-02-16T00:00:00.000Z",
     "bangumi": {
       "id": "3782"
     },
     "tmdb": {
-      "id": 573531,
+      "id": 60879,
       "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/zOOKJyRIcjPC1S8xmNEgy2luAXi.jpg",
-        "id": 573531,
+        "backdrop_path": "/krGNg7DnYPunI2UZpDdv7AZ8yu9.jpg",
+        "id": 60879,
+        "name": "光环：传奇",
         "original_language": "en",
-        "original_title": "Halo Legends",
-        "overview": "故事改外编自微软同名游戏。公元2552年，因为地球人口太多，人类不得不开始向星际间的殉众多行星移民，以开发新的空间。在某个太空移民组织突然消失后，派去调查此事的舰队仅有一艘战舰返回了基地。从此，外星种族星盟(Covenant)对人类的侵略就拉开了序幕，星盟的科技远远胜过于地球，逼得地球的军队节节败退，最后人类只好准备前往远方未探测过的宇宙寻求一线生机。在探测过程中，指挥官与他的组员被星盟舰队发现并追上。紧急关头，他们发现了Halo，一个巨大的异形环状世界，那里有着一万公里的直径与可呼吸的气体。在这个巨大的具有生命的圆环里，居住着不可思议的生物、奇特的植物、扭曲的地下巢穴、巨大的山脉，以及数不尽的充满怒气的异形。在飞船被击毁之后，部分的人类组员登陆在Halo的表面上开始了一场与星盟的战争……",
-        "poster_path": "/cO3iAp2pPNdWE9eqS4pTEY5HghY.jpg",
-        "release_date": "2010-02-16",
-        "title": "光晕：传奇",
-        "video": false
+        "original_name": "Halo Legends",
+        "overview": "《光环：传奇》由七个短篇动画集合而成，由5间动画公司制作。",
+        "poster_path": "/j2JIG3G7KDP6kJLqEUTtahoLAGS.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16,
+          10765
+        ],
+        "first_air_date": "2010-02-16",
+        "origin_country": [
+          "US"
+        ]
       }
     }
   },
@@ -107,6 +161,10 @@
       "search": {
         "adult": false,
         "backdrop_path": "/7nCJ1eV61i5MlcpYe9uTWq8p8ig.jpg",
+        "genre_ids": [
+          16,
+          14
+        ],
         "id": 235289,
         "original_language": "ja",
         "original_title": "超劇場版ケロロ軍曹 誕生!究極ケロロ奇跡の時空島であります!!",

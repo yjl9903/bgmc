@@ -11,6 +11,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/ubfNmBBNaQXtvW40R1EJeITmbwl.jpg",
+        "genre_ids": [
+          16
+        ],
         "id": 19197,
         "origin_country": [
           "JP"
@@ -43,6 +46,11 @@
         "overview": "　　极普通的少年十鬼岛，突然从新宿出现的巨大女神像里面出现的女宇宙海盗ripumila ，被告之在自己的身体里面有宇宙秘宝“风幕光”的地点记录的地图，结果开始了有关“风幕光”的旅行。",
         "poster_path": "/nRBglOmttkr5SII2E57FiaTHQcH.jpg",
         "media_type": "tv",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "first_air_date": "1994-07-08",
         "origin_country": [
           "JP"
@@ -62,6 +70,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/1I8QhrrHKaxGE3e0f2S75kqrxd9.jpg",
+        "genre_ids": [
+          16,
+          28,
+          878
+        ],
         "id": 39106,
         "original_language": "ja",
         "original_title": "ドラゴンボールＺ 超戦士撃破!!勝のはオレだ",
@@ -85,6 +98,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/AouRp7KcIOVmsSuZlTXKqT4aYT2.jpg",
+        "genre_ids": [
+          12,
+          16,
+          14
+        ],
         "id": 15283,
         "original_language": "ja",
         "original_title": "平成狸合戦ぽんぽこ",
@@ -92,6 +110,37 @@
         "poster_path": "/nP44LqSR3oOcMONegOa3gvx5NtA.jpg",
         "release_date": "1994-07-16",
         "title": "平成狸合战",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "ルパン三世 燃えよ斬鉄剣",
+    "date": "1994-07-29T16:00:00.000Z",
+    "bangumi": {
+      "id": "54372"
+    },
+    "tmdb": {
+      "id": 51943,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/gSTzDY77M2J8lfffS37Wj3GDcVg.jpg",
+        "id": 51943,
+        "title": "鲁邦三世：燃烧的斩铁剑",
+        "original_language": "ja",
+        "original_title": "ルパン三世 燃えよ斬鉄剣",
+        "overview": "鲁邦这次要在茫茫大海上偷取他的祖父亚森罗宾没能得手的宝物“卧龙雕”。宝物离他只有短短不到四千米。不过，是指垂直向下的深度……\r 　　本作是鲁邦三世第六部TVsp作品，于1994年7月29日放送。亦是山田康雄先生担任鲁邦声优的最后一部，他于次年3月因病去世。",
+        "poster_path": "/ywBnexTGaiSmezhd48LcxMTYXZJ.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          10770,
+          35,
+          12,
+          80
+        ],
+        "release_date": "1994-07-29",
         "video": false
       }
     }

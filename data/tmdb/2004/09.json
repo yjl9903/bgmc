@@ -18,6 +18,7 @@
         "overview": "Magical Nurse Komugi faces her enemy, Magical Maid Koyori.",
         "poster_path": "/mCWsROmJgAQ6nGwue1FT9RQtcgO.jpg",
         "media_type": "tv",
+        "genre_ids": [],
         "first_air_date": "2004-09-10",
         "origin_country": []
       }
@@ -35,6 +36,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/puEtwq9tcx0VcNxIdiwz7Q97Yn1.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
         "id": 35184,
         "origin_country": [
           "JP"
@@ -60,6 +66,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/BqMsGYtnV0cgo001rZFUPt9HKA.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
         "id": 34175,
         "origin_country": [
           "JP"
@@ -85,6 +96,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/tka5fcGkFclwf3brgUZunXHIwAg.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          35
+        ],
         "id": 43276,
         "origin_country": [
           "JP"
@@ -117,6 +133,10 @@
         "overview": "在20XX年的未来世界，各种害虫克服了驱除杀虫剂的致死效力，大量繁衍导致连人类也陷入困境灾难之中。\r 为此日本火星企业成功研发出一种取代过去杀虫剂的产品！那就是身高只有11.5公分的可爱机器少女小惠惠，这是一个讲述机器少女们与人类之间各种羁绊的故事。",
         "poster_path": "/3onCYqCq4XEgzRUY6CzZGNCptQM.jpg",
         "media_type": "movie",
+        "genre_ids": [
+          16,
+          28
+        ],
         "release_date": "2004-09-30",
         "video": false
       }
@@ -134,6 +154,13 @@
       "search": {
         "adult": false,
         "backdrop_path": "/8uEXkalYzADzeS4USwUYttd9Yhd.jpg",
+        "genre_ids": [
+          16,
+          18,
+          35,
+          10759,
+          10765
+        ],
         "id": 12599,
         "origin_country": [
           "JP"

@@ -6,22 +6,24 @@
       "id": "205296"
     },
     "tmdb": {
-      "id": 42694,
-      "type": "tv",
-      "season": 0,
+      "id": 1062937,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/w2IgPR222tM4MeBCwjFniLMowmg.jpg",
-        "id": 42694,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": null,
+        "id": 1062937,
+        "title": "Di Gi Charat Christmas Special",
         "original_language": "ja",
-        "original_name": "Di Gi Charat",
-        "overview": "Di Gi Charat星球的公主数码子（10岁）天生丽质(?)，为了成为知名女演员前来地球，降落在秋叶原并在动漫周边店Gamers进行着打工生活。",
-        "poster_path": "/bjiYTjrSSxDu7NZUT4OHEbxcvvI.jpg",
-        "first_air_date": "1999-11-30",
-        "name": "铃铛猫娘"
+        "original_title": "Di Gi Charat クリスマススペシャル",
+        "overview": "The Christmas Special aired in December 2000 and featured Piyoko again attempting to capture Dejiko by inviting all the characters on a cruise.",
+        "poster_path": "/nqKSiEnga3W1T6o4v3KB0ZUepuT.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "release_date": "2000-12-17",
+        "video": false
       }
     }
   }
