@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 71961,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/8QnYftbKVqVzocx6MZJ6CUFruIz.jpg",
@@ -25,14 +26,13 @@
         "original_language": "ja",
         "original_name": "愛と勇気のピッグガール　とんでぶーりん",
         "overview": "飞天猪的故事围绕著一名叫国分果林的少女。她是一名普通得来又很开朗活泼、友善，但是又很冒失的初中女生。在上学的第一天果林饿着肚子救了一只小猪。它给了果林一个猪型镜盒。当果林念出咒语“爱心猪唛”之后，镜盒会令她变成超级女英雄宝妮......\n\n但是，事情从此便变得有异于常。果林变的并不是一个服饰新奇的女侠，而是一头粉红色的飞天肥猪！宝妮的任务就是如超人一般四处飞帮助别人。除镜盒外，果林还得到一个会出珍珠的贝壳。只要果林集齐 108 粒珍珠，她就可以变身成为任何她喜欢的女英雄。果林喜欢这个承诺，而她亦尽心尽力地帮助人，希望可以尽快成为电视所见那种超级有型女英雄。\n\n除此之外飞天猪的故事也围绕著果林的一班朋友，以及他们的校园生活。他们混在一起的时候常常会爆出一些很“猪”的笑料！",
-        "popularity": 6.366,
+        "popularity": 8.912,
         "poster_path": "/fjj2kXIha1wEa12Vyo17aN6NEi5.jpg",
         "first_air_date": "1994-09-03",
         "name": "飞天少女猪事丁",
         "vote_average": 7.4,
         "vote_count": 28
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -73,6 +73,7 @@
     },
     "tmdb": {
       "id": 196967,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -88,15 +89,14 @@
           80,
           35
         ],
-        "popularity": 2.626,
+        "popularity": 3.676,
         "first_air_date": "1994-09-24",
         "vote_average": 6,
         "vote_count": 2,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -126,6 +126,40 @@
         "first_air_date": "1992-09-25",
         "vote_average": 7.7,
         "vote_count": 13,
+        "origin_country": [
+          "JP"
+        ]
+      }
+    }
+  },
+  {
+    "title": "GATCHAMAN",
+    "date": "1994-09-30T16:00:00.000Z",
+    "bangumi": {
+      "id": "61171"
+    },
+    "tmdb": {
+      "id": 126065,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/kWoaGpww6PPzEWhuPpRni26bgmW.jpg",
+        "id": 126065,
+        "name": "科学小飞侠GATCHAMAN",
+        "original_language": "ja",
+        "original_name": "ガッチャマン",
+        "overview": "龙子之七十年代动画原作《科学忍者队》（台译《科学小飞侠》）的1994年重制的全3话OVA，梅津泰臣负责人设以及作画监督。",
+        "poster_path": "/8lUQgRWbNh5XCAH62SYyt5ivWWc.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "popularity": 3.371,
+        "first_air_date": "1994-09-30",
+        "vote_average": 8,
+        "vote_count": 4,
         "origin_country": [
           "JP"
         ]

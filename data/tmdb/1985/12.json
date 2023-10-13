@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 603431,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -27,8 +28,7 @@
         "video": false,
         "vote_average": 6.667,
         "vote_count": 3
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -39,6 +39,7 @@
     },
     "tmdb": {
       "id": 15916,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/dMaHDJsujphlfGLTHZ2AJFQY2Mq.jpg",
@@ -54,13 +55,12 @@
           14,
           9648
         ],
-        "popularity": 17.435,
+        "popularity": 11.365,
         "release_date": "1985-12-22",
         "video": false,
         "vote_average": 7.7,
         "vote_count": 346
-      },
-      "type": "tv"
+      }
     }
   }
 ]

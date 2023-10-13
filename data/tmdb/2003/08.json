@@ -39,6 +39,7 @@
     },
     "tmdb": {
       "id": 22208,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -52,14 +53,45 @@
         "original_language": "ja",
         "original_name": "まっすぐにいこう。",
         "overview": "本片讲述的就是豆太郎——一条平凡的小狗和它的“朋友们”的冒险故事",
-        "popularity": 1.695,
+        "popularity": 2.373,
         "poster_path": "/AdNpNiV5uciGQBQ2s8I6u56OVPc.jpg",
         "first_air_date": "2003-08-18",
         "name": "狗狗向前冲",
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
+    }
+  },
+  {
+    "title": "ちっちゃな雪使いシュガー 特別編",
+    "date": "2003-08-22T16:00:00.000Z",
+    "bangumi": {
+      "id": "2415"
+    },
+    "tmdb": {
+      "id": 22758,
+      "type": "tv",
+      "season": 0,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/2HfQb8JmsZvQHYoVPXv6szHLyf1.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 22758,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ちっちゃな雪使いシュガー",
+        "overview": "除人类世界外，还有妖精的世界呀！在妖精的世界里有各种不同的天气精灵（魔法使），而它们各自负责自己的季节天气。今次我们的主人翁就是这位糖糖了。它们会定时到人间掌控各种天气的变化，各自使用自己的乐器演奏出乐曲来操控自己的天气，这就成了人间的季节了。\n\n住在欧洲小镇里的沙加，是一个年仅十一岁的女孩，但做事却精明能干。他经常积极地帮助别人，故受到镇里的人仰慕与喜爱。虽她的母亲早已不在，但她仍充满活力地生活下去，因她要做一位好孩子给她母亲看。\n\n在一个下雨的?昏下，沙加忘了带雨伞，故只好在屋檐下避雨，在偶然之下被她发现饿昏了的糖糖，在此之际沙加给了糖糖一块松饼，故事也由此开始...",
+        "popularity": 8.858,
+        "poster_path": "/6dmtivFKKr5tXpgR7lnK3RAjFSp.jpg",
+        "first_air_date": "2001-10-02",
+        "name": "小小雪精灵",
+        "vote_average": 9,
+        "vote_count": 3
+      }
     }
   },
   {

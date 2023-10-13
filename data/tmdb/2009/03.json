@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 95935,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/4VFRn5xcD8o3qUMrSShm3I6zpfl.jpg",
@@ -19,15 +20,14 @@
         "original_language": "ja",
         "original_title": "映画ドラえもん 新・のび太の宇宙開拓史",
         "overview": "大雄最近一段时间经常被奇怪的梦困扰，接着，他房间中央的榻榻米下面还不断出现响动。某天，榻榻米被撞开，里面跑出一个像兔子一样的生物。它的名字叫恰米，是外星男孩罗布姆的宠物。罗布姆和亲人、朋友生活在名为可亚可亚的星球，这里盛产奇妙的浮游矿石。邪恶的浮游矿石工业公司为了霸占这些矿藏，不惜使用各种卑鄙手段企图将罗布姆这群早期开拓者赶走。罗布姆乘坐的飞船就是遭到浮游矿石工业的袭击，偶然引发错乱和大雄的房间连在了一起。哆啦A梦和大雄修好了罗布姆的飞船，还和可亚可亚星的人民成为好朋友。与此同时，浮游矿石工业继续他们罪恶的计划，善良正直的大雄决心帮助外星朋友守卫他们的家园。",
-        "popularity": 11.841,
+        "popularity": 16.577,
         "poster_path": "/vRlXwt8cByeN3y3IG68vpaFWf2q.jpg",
         "release_date": "2009-03-07",
         "title": "哆啦A梦：新·大雄的宇宙开拓史",
         "video": false,
         "vote_average": 6.855,
         "vote_count": 38
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -38,6 +38,7 @@
     },
     "tmdb": {
       "id": 112545,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/nkLGBZRtvqUc6WgBVAy6XDrtJdq.jpg",
@@ -51,15 +52,14 @@
         "original_language": "ja",
         "original_title": "超劇場版ケロロ軍曹　撃侵ドラゴンウォリアーズであります！",
         "overview": "《超剧场版KERORO侵袭龙勇士》是《KEROR军曹》剧场版系列第4弹，预定2009年3月上映。此次的剧场版，讲述了谜一样的巨大怪物“龙之尾”突然出现在世上，为了查探其真相KERORO小队开始了行动。作为剧场版限定的特别人物，富丽西塔希奥・多巫・多拉库(爱称希奥)登场。借她手中的《龙之书》的力量，KERORO小队的成员一个个变成了凶暴的龙的样子，并拥有了强大的力量。",
-        "popularity": 3.229,
+        "popularity": 4.521,
         "poster_path": "/9Pa82JvAmUEyapXubOu1ZRdhoaS.jpg",
         "release_date": "2009-03-07",
         "title": "军曹大电影4：侵袭龙勇士",
         "video": false,
         "vote_average": 5.625,
         "vote_count": 4
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -70,6 +70,7 @@
     },
     "tmdb": {
       "id": 757767,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -88,13 +89,12 @@
           28,
           16
         ],
-        "popularity": 4.672,
+        "popularity": 6.483,
         "release_date": "2009-03-17",
         "video": false,
         "vote_average": 8,
         "vote_count": 1
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -105,6 +105,7 @@
     },
     "tmdb": {
       "id": 84160,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/uY0W5vxfy3PfiEyXsb1UNj5qKHM.jpg",
@@ -118,15 +119,14 @@
         "original_language": "ja",
         "original_title": "映画 プリキュアオールスターズDX みんなともだちっ☆奇跡の全員大集合！",
         "overview": "桃园爱一行人将要去横滨的摩天轮那里玩，目的当然是要去宣传自己的知名度，在大赛中出场获得冠军。不过却在途中迷路了。正在惊慌寻找会场的时候，突然遇见新敌人，新敌人的目的是要毁灭难得一见的彩虹奇迹，并要吞噬掉整个摩天轮和表演会场！在敌人面前，所有的光之美少女陆续登场变身，也让全部的光之美少女都对其他光之美少女的出现而感到惊讶！！但为了保护能引导未来以及希望的彩虹奇迹不被黑暗掩盖，所以光之美少女共同合作，打败恶势力！？",
-        "popularity": 7.338,
+        "popularity": 7.183,
         "poster_path": "/5uBgO2osCzWe3FLioKs1OIMv5JR.jpg",
         "release_date": "2009-03-20",
         "title": "光之美少女全明星豪华版：大家是朋友☆奇迹的全员大集合！",
         "video": false,
         "vote_average": 7.455,
         "vote_count": 11
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -137,7 +137,7 @@
     },
     "tmdb": {
       "id": 42952,
-      "season": 2,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/gpjGVWfGj8RJ92g1C1VVa7lDNeU.jpg",
@@ -157,8 +157,7 @@
         "name": "金色琴弦",
         "vote_average": 7.7,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -169,6 +168,7 @@
     },
     "tmdb": {
       "id": 34186,
+      "type": "tv",
       "season": 2,
       "search": {
         "adult": false,
@@ -191,8 +191,7 @@
         "name": "甜甜私房猫",
         "vote_average": 6.7,
         "vote_count": 11
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -203,6 +202,7 @@
     },
     "tmdb": {
       "id": 195314,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -216,14 +216,13 @@
         "original_language": "ja",
         "original_name": "クッキンアイドル アイ! マイ! まいん!",
         "overview": "完全不懂料理怎麼做的小学五年级生的”小舞”，意外受到节目制作人大林先生的青睐，得到了料理偶像节目的主持机会，成为了料理偶像。只是没想到，她竟然在电视台遇到了自称是食物妖精的”卡卡”。原来卡卡来到人类世界，是想要寻找能一起拯救饮食危机的人类夥伴。这下，为了让用料理美味欢乐，让人们感到幸福，小舞和卡卡将结伴带领著大家一起学著开心做料理哦！\n\n全400话\n\n2009年3月30日 - 2013年3月29日",
-        "popularity": 3.565,
+        "popularity": 4.991,
         "poster_path": "/72KmbNNNDtvs8poU7zYvO9AHDxf.jpg",
         "first_air_date": "2009-03-30",
         "name": "料理偶像！",
         "vote_average": 8,
         "vote_count": 1
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -234,6 +233,7 @@
     },
     "tmdb": {
       "id": 25395,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/5TdJdDdbsGczj5zeVWSbqg2QGv4.jpg",
@@ -247,14 +247,13 @@
         "original_language": "ja",
         "original_name": "マリー＆ガリー",
         "overview": "玛丽卡是哥特式无口型普通少女。有一天她不小心在电车上睡着了，醒来之后突然发现自己来到了一个陌生的小镇，身处陌生的世界之中！",
-        "popularity": 3.923,
+        "popularity": 5.492,
         "poster_path": "/vqvQXxCVnJfoBMV7Lu6N1Ljqlr7.jpg",
         "first_air_date": "2009-03-31",
         "name": "玛丽&伽利",
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -265,6 +264,7 @@
     },
     "tmdb": {
       "id": 132641,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -278,14 +278,13 @@
         "original_language": "ja",
         "original_name": "キャラディのジョークな毎日",
         "overview": "　　由京都造形艺术大学提供原案的短篇动画《佳拉蒂的每日笑话》，于2009年4月1日开始放送，全话预计放送365话，一年无间断推出，故事以26岁女大学生为视角，讲述各式各样无厘头的搞笑故事，作品比较类似于童年经典动画阿凡缇系列，但又比较贴近于西方寓言故事，动画取名源于一个美国词汇“bathtime joke”，意指在浴缸中泡着澡看着笑话书来享受的一种状态（口胡！）。动画由TheFool负责制作，监督由京都造形艺术大学人物设计专业学生们共同担任，虽然他们尚是实习生，在做工上还不显成熟，画风比较类似天朝自产片，但不可否认下一代作品就是靠他们竖起一片天地，这部新番也只是实验品没错了，所以此片也仅当娱乐之用。女主角佳拉蒂邀来了女星安田美沙子担任配音，DVD全6卷将于2009年夏季发售，相关书籍也将随同TV动画一块诞生。",
-        "popularity": 10.314,
+        "popularity": 14.049,
         "poster_path": "/xxvEJfnLVEiYHsgPpz3f9oiFS99.jpg",
         "first_air_date": "2009-04-01",
         "name": "科拉蒂每日的笑话",
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   }
 ]

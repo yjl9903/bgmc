@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 70337,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/2MjBVey30vKxsv2MVvRDB6IHy8e.jpg",
@@ -22,13 +23,12 @@
           18,
           14
         ],
-        "popularity": 4.056,
+        "popularity": 2.434,
         "release_date": "1993-09-24",
         "video": false,
         "vote_average": 6.5,
         "vote_count": 10
-      },
-      "type": "tv"
+      }
     }
   }
 ]

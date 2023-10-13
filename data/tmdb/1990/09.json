@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 116270,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -20,15 +21,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 0.667,
+        "popularity": 1.4,
         "first_air_date": "1990-09-14",
         "vote_average": 0,
         "vote_count": 0,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

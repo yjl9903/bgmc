@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 205343,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/9Jw6ko3r6Xc3utgCIJAB6xg9uD8.jpg",
@@ -22,15 +23,14 @@
           10759,
           35
         ],
-        "popularity": 7.491,
+        "popularity": 10.487,
         "first_air_date": "2022-08-02",
         "vote_average": 0,
         "vote_count": 0,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -41,6 +41,7 @@
     },
     "tmdb": {
       "id": 199928,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/aZYB0Yky2fXAfksxkSG2pEgsjeQ.jpg",
@@ -55,15 +56,14 @@
           16,
           35
         ],
-        "popularity": 29.29,
+        "popularity": 23.727,
         "first_air_date": "2022-08-03",
         "vote_average": 7,
         "vote_count": 2,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -74,6 +74,7 @@
     },
     "tmdb": {
       "id": 138183,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/5MuHglMHocWxTy3FkEZRoVJvzs2.jpg",
@@ -89,15 +90,14 @@
           18,
           9648
         ],
-        "popularity": 17.267,
+        "popularity": 24.174,
         "first_air_date": "2022-08-04",
         "vote_average": 7.509,
         "vote_count": 57,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -107,26 +107,30 @@
       "id": "332133"
     },
     "tmdb": {
-      "id": 204993,
+      "id": 122369,
+      "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 204993,
+        "backdrop_path": "/quBm72EXhp6RWdf19p7xmQ1IUgT.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 122369,
         "origin_country": [
           "JP"
         ],
         "original_language": "ja",
-        "original_name": "京都の女庭師風水探偵さくら子",
-        "overview": "",
-        "popularity": 0.6,
-        "poster_path": null,
-        "first_air_date": "",
-        "name": "京都の女庭師風水探偵さくら子",
-        "vote_average": 0,
-        "vote_count": 0
-      },
-      "type": "tv"
+        "original_name": "風都探偵",
+        "overview": "《风都侦探》是《假面骑士双骑》的延伸故事。这是有着巨大风车的城市——风都，在这里，私家侦探左翔太郎、菲利普与所长鸣海亚树子共同经营着一家侦探事务所。左翔太郎和菲利普的另一重身份，是守护风都的神秘英雄，假面骑士双骑。这一天有一位男子上门寻求帮助，声称自己装钱的背包被神秘女子抢走。翔太郎接下了委托，但在调查过程中他发现，神秘女子时芽似乎有特殊能力，可以轻松甩开追踪者，而且她似乎还牵扯进了另一桩重大案件里。调查过程中，时芽的身份之谜慢慢浮出水面，与她关系密切的“里风都”也渐渐走入众人视线。继博物馆之后又一神秘组织出现了，翔太郎与菲利普联手对抗邪恶，再现风都传奇！",
+        "popularity": 20.497,
+        "poster_path": "/5gy3Ir68nhKmHCK9VTx3R1HNfZO.jpg",
+        "first_air_date": "2022-08-01",
+        "name": "风都侦探",
+        "vote_average": 8,
+        "vote_count": 27
+      }
     }
   },
   {
@@ -169,6 +173,7 @@
     },
     "tmdb": {
       "id": 632632,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/u1wHUA0R48FH4WV3sGqjwx3aNZm.jpg",
@@ -189,8 +194,7 @@
         "video": false,
         "vote_average": 8.3,
         "vote_count": 364
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -201,6 +205,7 @@
     },
     "tmdb": {
       "id": 138273,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/luEwmScnXLqGElalZKUuVMJoNEI.jpg",
@@ -216,15 +221,14 @@
           18,
           16
         ],
-        "popularity": 5.033,
+        "popularity": 7.046,
         "first_air_date": "2022-08-25",
         "vote_average": 7.4,
         "vote_count": 11,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -235,6 +239,7 @@
     },
     "tmdb": {
       "id": 195530,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/gm2IfEvI6wphjmLbAwV32LopadU.jpg",
@@ -250,15 +255,14 @@
           10765,
           16
         ],
-        "popularity": 26.74,
+        "popularity": 26.806,
         "first_air_date": "2022-08-18",
         "vote_average": 7.638,
         "vote_count": 138,
         "origin_country": [
           "US"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

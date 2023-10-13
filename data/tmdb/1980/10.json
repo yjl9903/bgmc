@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 23022,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/qxZpjuNTECc8nTibvujSFSidU2l.jpg",
@@ -24,14 +25,13 @@
         "original_language": "ja",
         "original_name": "鉄腕アトム",
         "overview": "在科学技术省任职的天马博士的儿子飞雄，在车祸中身亡。天马痛失爱子，他尝试着按照儿子生前的模样制造了一个机器人——阿童木。并赋予它超常本领：10 万匹马力和7种武器，并带回科学省。后来在油轮上，阿童木被马戏团团长骗走；但马戏团里虐待机器人，他被科学省长官茶水博士赎出，取名“阿童木”。在以后的生活里，他有时候会因作为机器人而备受歧视，但他一直想在人类和机器人之间搭起友好的桥梁，并同恶势力做斗争。",
-        "popularity": 19.082,
+        "popularity": 26.715,
         "poster_path": "/4fSz0JowjhrKf0KnTqjKGqLalIJ.jpg",
         "first_air_date": "1980-10-01",
         "name": "铁臂阿童木",
         "vote_average": 7.729,
         "vote_count": 59
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -42,6 +42,7 @@
     },
     "tmdb": {
       "id": 44461,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/hWZmtqpuFWd8tmo0S9yv4sa3YSs.jpg",
@@ -56,14 +57,13 @@
         "original_language": "ja",
         "original_name": "鉄人28号",
         "overview": "少年侦探金田正太郎拥有一个遥控器，可以自由自在地操纵在战争时期父亲和敷岛博士一起在秘密基地开发的巨大机器人——铁人28号。但是，一旦这个遥控器落入恶人手中，铁人就将沦为邪恶的爪牙。正太郎在以国际走私组织PX团为首的邪恶组织引发的一些列事件中，得到了敷岛博士和大塚警察署长的协助，将遥控器保护在自己手中！",
-        "popularity": 8.354,
+        "popularity": 11.696,
         "poster_path": "/9iTxdm5XUZ346whDHQQD4O5MaRZ.jpg",
         "first_air_date": "1980-10-03",
         "name": "铁人28号",
         "vote_average": 7.25,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -74,6 +74,7 @@
     },
     "tmdb": {
       "id": 25117,
+      "type": "tv",
       "season": 2,
       "search": {
         "adult": false,
@@ -96,8 +97,7 @@
         "name": "明日之丈",
         "vote_average": 7.625,
         "vote_count": 16
-      },
-      "type": "tv"
+      }
     }
   }
 ]

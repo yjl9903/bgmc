@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 399501,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/mmtXr8gaL9FxJmc6RR0fsbxROvA.jpg",
@@ -21,13 +22,12 @@
           16,
           10402
         ],
-        "popularity": 1.4,
+        "popularity": 1.96,
         "release_date": "1994-11-21",
         "video": false,
         "vote_average": 4,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   }
 ]

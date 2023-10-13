@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 14572,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/puoGakSBPGxdpSKmbhgyAkQyHra.jpg",
@@ -20,15 +21,14 @@
         "original_language": "ja",
         "original_title": "機動警察パトレイバー 2 the Movie",
         "overview": "2002年冬天，横浜大桥突然被战斗机炸毁，媒体虽然报导此为自卫队战机所为，但实际上这架战机却并不存在。民众广泛对自卫队产生了不信任感。特车二课第二小队的后藤（大林隆介 配音）队长察觉此事与在99年的那场事件中失踪的自卫队队员柘植有关——1999年，日本陆上自卫队的机器人小队在一次联合国维和行动中遭到全歼。而柘植是特车二课第一小队队长南云（榊原良子 配音）原来的恋人。民众的不信任感达到了顶峰，处于戒严状态的东京面临着大骚乱，人们被即将爆发战争的危机笼罩着。在自卫队王牌队员荒川的帮助下，后藤（大林隆介 配音）和南云追查到了柘植的下落。后藤招集起泉（千叶繁 配音）、篠原（古川登志夫 配音）等特车二课原来的成员们，启动PATLABOR机器人进攻柘植的根据地……",
-        "popularity": 10.068,
+        "popularity": 14.095,
         "poster_path": "/vIyWhMyMEHnavjUhbusOXDwrJgz.jpg",
         "release_date": "1993-08-07",
         "title": "机动警察 和平保卫战",
         "video": false,
         "vote_average": 7.181,
         "vote_count": 94
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -39,6 +39,7 @@
     },
     "tmdb": {
       "id": 20467,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/oog0SrIlIqjCnbYpJqgGmNJWD9g.jpg",
@@ -54,15 +55,14 @@
           10759,
           10765
         ],
-        "popularity": 2.494,
+        "popularity": 3.492,
         "first_air_date": "1993-08-21",
         "vote_average": 6.2,
         "vote_count": 4,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -73,6 +73,7 @@
     },
     "tmdb": {
       "id": 125902,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/1ElOIuHrjGgj3cKPPvqANlfQLDS.jpg",
@@ -84,15 +85,14 @@
         "poster_path": "/p7ktq2YTvTjhtB4q5abx9CA9UiI.jpg",
         "media_type": "tv",
         "genre_ids": [],
-        "popularity": 1.164,
+        "popularity": 1.63,
         "first_air_date": "1993-08-21",
         "vote_average": 0,
         "vote_count": 0,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

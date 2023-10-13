@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 125338,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/3RECAphny6LbKcHUEW4aj17QWcI.jpg",
@@ -23,14 +24,13 @@
         "original_language": "ja",
         "original_name": "バトルスピリッツ ブレイヴ",
         "overview": "在与异界王决战后两年，“激突王”马神弹连夺多次比赛的冠军，成为一众玩家的憧憬对象，可是本人却因为没有强大的对手而感到空虚。在紫乃宫麻衣的引领下，弹前往了未来的地球。在那里，两年前遗留下来的异界魔族统治了大部分地方，弹为了将人类从魔族的统治下解放，需要集齐十二宫稀有卡。成为“人类的救世主”的弹能成功解放人类吗？",
-        "popularity": 5.05,
+        "popularity": 7.07,
         "poster_path": "/xcWDPiOSa6XiSC159HJauQUiDci.jpg",
         "first_air_date": "2010-09-12",
         "name": "战斗之魂Brave",
         "vote_average": 9,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -41,6 +41,7 @@
     },
     "tmdb": {
       "id": 76704,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/lA9Sr2EFarTCQ1rcdixbnpEU4If.jpg",
@@ -55,15 +56,14 @@
           10762,
           16
         ],
-        "popularity": 2.18,
+        "popularity": 3.052,
         "first_air_date": "2010-09-17",
         "vote_average": 0,
         "vote_count": 0,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -74,7 +74,7 @@
     },
     "tmdb": {
       "id": 60572,
-      "season": 14,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/658d0TCVa2I5LqgbwCqPPKyuU2i.jpg",
@@ -96,8 +96,7 @@
         "name": "精灵宝可梦",
         "vote_average": 7.749,
         "vote_count": 1544
-      },
-      "type": "tv"
+      }
     }
   },
   {

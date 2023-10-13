@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 291015,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/vrthTLW1YxanMDVqolfh19Rhl8M.jpg",
@@ -23,13 +24,12 @@
           878,
           53
         ],
-        "popularity": 3.66,
+        "popularity": 5.124,
         "release_date": "2016-08-01",
         "video": false,
         "vote_average": 6.7,
         "vote_count": 18
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -40,6 +40,7 @@
     },
     "tmdb": {
       "id": 417055,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/4eGe3fnBdfDWjFbgl4RiQO6UWJq.jpg",
@@ -54,13 +55,12 @@
           28,
           16
         ],
-        "popularity": 0.634,
+        "popularity": 0.691,
         "release_date": "2016-08-01",
         "video": false,
         "vote_average": 6.333,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -106,6 +106,7 @@
     },
     "tmdb": {
       "id": 211745,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/gCrvP65Bor2VpHEtw1V2EMi27Gq.jpg",
@@ -126,8 +127,7 @@
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -138,6 +138,7 @@
     },
     "tmdb": {
       "id": 362584,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/kSEMTM0sY6CASRHk5MN1ppz4zVh.jpg",
@@ -150,15 +151,14 @@
         "original_language": "ja",
         "original_title": "傷物語〈Ⅱ熱血篇〉",
         "overview": "在高二的舂假里，阿良良木历遇上了姬丝秀忒・雅赛劳拉莉昂・刃下心而变成了吸血鬼。为了变回人类，历必须从吸血鬼猎人的手上夺回姬丝秀忒的四肢。\r 德拉曼兹路基——双手拿着焰形剑、身高超过两公尺的巨汉。艾比所特——单手就将比自身体格大三倍的巨大十字架扛在肩上的男人。奇洛金卡达——乍看之下非常沉稳，没拿任何武器、深不可测的男人。\r 在忍野咩咩的交涉下将与三位吸血鬼猎人一决死战的历，于3月的最后一晚前往决斗地点。\r 历在下雨的学校操场与德拉曼兹路基对峙。面对夺走姬丝秀忒右脚的对手，阿良良木历为了变回人类的战斗即将展开……",
-        "popularity": 15.599,
+        "popularity": 15.346,
         "poster_path": "/mRknveOnc7dgTQHDHjePgHFPy6P.jpg",
         "release_date": "2016-08-19",
         "title": "伤物语2：热血篇",
         "video": false,
         "vote_average": 8,
         "vote_count": 169
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -169,6 +169,7 @@
     },
     "tmdb": {
       "id": 107582,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -184,15 +185,14 @@
           18,
           9648
         ],
-        "popularity": 0.656,
+        "popularity": 1.4,
         "first_air_date": "2016-08-25",
         "vote_average": 6.5,
         "vote_count": 2,
         "origin_country": [
           "CN"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -203,6 +203,7 @@
     },
     "tmdb": {
       "id": 208481,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/s4Vc0N4XMEqlz1h0WSMdkePRsU1.jpg",
@@ -216,14 +217,13 @@
         "original_language": "ja",
         "original_name": "七つの大罪 聖戦の予兆",
         "overview": "",
-        "popularity": 4.593,
+        "popularity": 5.725,
         "poster_path": "/atmQSHECEryPhRa24KVhDo7PpZ2.jpg",
         "first_air_date": "2016-08-28",
         "name": "七大罪 圣战的预兆",
         "vote_average": 8,
         "vote_count": 1
-      },
-      "type": "tv"
+      }
     }
   }
 ]

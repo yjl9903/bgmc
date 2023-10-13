@@ -41,6 +41,7 @@
     },
     "tmdb": {
       "id": 43340,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/24YZq1kvVIfFXWmweV5f0csaI4e.jpg",
@@ -56,15 +57,14 @@
           18,
           35
         ],
-        "popularity": 4.437,
+        "popularity": 6.212,
         "first_air_date": "1991-11-21",
         "vote_average": 7.3,
         "vote_count": 3,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 192904,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/rP4Ux34xGxabCeumL1wHNxZSxNr.jpg",
@@ -19,15 +20,14 @@
         "original_language": "ja",
         "original_title": "映画ドラえもん のび太のワンニャン時空伝",
         "overview": "平凡的一天，大雄偶然邂逅一条机灵可爱的小狗。小狗对他分外依恋，大雄无奈之下，只得拜托哆啦A梦想办法收养。与此同时，周围被丢弃的小猫小狗越来越多，小伙伴们忧心忡忡，甚至在后山也找不到小动物们借以安身立命之所。万般无奈之下，大雄他们将小动物带到连恐龙都尚未诞生的史前时代，利用进化退化枪促成动物们进化。次日，小伙伴们按照约定前去看望小动物，结果在时空隧道中遭到乱流。来到了比前一天万一千年的时代。此时，猫狗国已空前繁荣，他们在这里结识了小八等一种好友。不久得知地球将遭到陨石的撞击，而猫狗国内部也在酝酿着一个阴谋。新的冒险就此展开……  　　本片为哆啦A梦剧场版25周年纪念作品。",
-        "popularity": 10.273,
+        "popularity": 9.422,
         "poster_path": "/6TTZ0XiLp95vIVJ8ERIoJSCVRnu.jpg",
         "release_date": "2004-03-06",
         "title": "哆啦A梦：大雄的猫狗时空传",
         "video": false,
         "vote_average": 7.286,
         "vote_count": 21
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -38,6 +38,7 @@
     },
     "tmdb": {
       "id": 12140,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/8Cbzx17QdJ6xBx2uDkdlpWsemGg.jpg",
@@ -50,15 +51,14 @@
         "original_language": "ja",
         "original_title": "イノセンス",
         "overview": "草薙素子之后，巴特与侦探出身的陀古萨结为搭档。近期发生多起机器人偶杀害主人继而自杀的事件，由于受害者家属均无公诉，且死者中有政客与公安官员，于是公安9课派出巴特小组调查此案。杀人人偶皆为荒凉地带公司出品的哈德莉机型，应部分顾客要求，该机型同时具备异性玩伴的功能，巴特从荒凉地带公司出货官遇害入手，卷入与黑帮的战斗，期间有人入侵他的大脑，使其自残。巴特决定直奔荒凉地带总部，他与陀古萨拜访了择捉岛上的黑客基姆，后者布下系统陷阱，幸有素子提出警告避免陀古萨陷入控制。依靠基姆这条线索，巴特登上了荒凉地带公司设立在海上的工厂船，素子再次降临他的身边，与其并肩作战。",
-        "popularity": 20.54,
+        "popularity": 21.582,
         "poster_path": "/jtWgvH1SqvaHtwRwOWnmIvpYOsV.jpg",
         "release_date": "2004-03-06",
         "title": "攻壳机动队2：无罪",
         "video": false,
         "vote_average": 7.305,
         "vote_count": 764
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -69,6 +69,7 @@
     },
     "tmdb": {
       "id": 34089,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/2wO3yUpyDucXqqPQJww6XyJl3E1.jpg",
@@ -83,14 +84,13 @@
         "original_language": "ja",
         "original_name": "ヒットをねらえ!",
         "overview": "Mitsuki Ikuta works for the Houchiku Corporation, making movies. To all who know her, she is perceived as being a very infantile woman, still wearing childish fashions. A fan of the detective movie genre, she suddenly finds herself chosen to be the main producer of a new film—but it's a \"hero movie\" (a genre generally considered childish). Determined to succeed, regardless, she takes on the job.",
-        "popularity": 3.822,
+        "popularity": 5.351,
         "poster_path": "/yXyKMfZkgShQTTToGoOP5QjtYea.jpg",
         "first_air_date": "2004-03-09",
         "name": "Smash Hit!",
         "vote_average": 7,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -134,6 +134,7 @@
     },
     "tmdb": {
       "id": 36287,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/qEvOxj5WO0uxhf9XV2D7RjyGNPN.jpg",
@@ -148,15 +149,14 @@
           16,
           9648
         ],
-        "popularity": 6.062,
+        "popularity": 8.487,
         "first_air_date": "2004-03-25",
         "vote_average": 3.5,
         "vote_count": 2,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -167,6 +167,7 @@
     },
     "tmdb": {
       "id": 22208,
+      "type": "tv",
       "season": 2,
       "search": {
         "adult": false,
@@ -187,8 +188,7 @@
         "name": "狗狗向前冲",
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "tv"
+      }
     }
   }
 ]

@@ -1,36 +1,5 @@
 [
   {
-    "title": "星に願いを -Fantastic Cat-",
-    "date": "2009-08-31T16:00:00.000Z",
-    "bangumi": {
-      "id": "67832"
-    },
-    "tmdb": {
-      "id": 174398,
-      "type": "movie",
-      "search": {
-        "adult": false,
-        "backdrop_path": null,
-        "id": 174398,
-        "title": "Wish Upon a Star: Fantastic Cat",
-        "original_language": "ja",
-        "original_title": "星に願いを Fantastic Cat",
-        "overview": "Space age fairytale from the faraway future...  Planet Magracia is a center for commerce with busy space traffic. A girl named Lilly is intrigued by an enigmatic new girl in her school. She's the same age as Lilly but mature compared to other students in her class. Regarded aloof, she hasn't made any friend yet, it seems. Her name is Hikari.  Lilly can only watch her from distance, hoping for an opportunity to talk to her. Then one day, a strange cat-like creature shows up in class, changing their ordinary life.",
-        "poster_path": "/AnigY4zIgozhjqWb9ngSOipcAln.jpg",
-        "media_type": "movie",
-        "genre_ids": [
-          16,
-          878
-        ],
-        "popularity": 3.465,
-        "release_date": "2009-08-03",
-        "video": false,
-        "vote_average": 0,
-        "vote_count": 0
-      }
-    }
-  },
-  {
     "title": "バトルスピリッツ 少年激覇ダン",
     "date": "2009-09-12T22:00:00.000Z",
     "bangumi": {
@@ -38,6 +7,7 @@
     },
     "tmdb": {
       "id": 121800,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/xKP8niBIr8P1zyh1Dj0gryfkGHs.jpg",
@@ -54,14 +24,13 @@
         "original_language": "ja",
         "original_name": "バトルスピリッツ 少年激覇ダン",
         "overview": "故事描述剧中的主人公马神弹，某一天在“Battle Spirits 冠军赛”的会场上邂逅了谜一般的女性百濑华实，因缘际会被卷入由异界王所统治的世界里。在异世界中，马神弹将被迫以他拿手的“Battle Spirits”对战绝技在6个不同的领域中穿梭旅行，和每个异界王手下强敌一一过招。当然，他也将在旅途上接连认识许多伙伴，和他并肩而战。",
-        "popularity": 5.931,
+        "popularity": 8.303,
         "poster_path": "/8PNcgkUVfC5aye3BxXjJ8tbp8T1.jpg",
         "first_air_date": "2009-09-13",
         "name": "战斗之魂 少年激霸弹",
         "vote_average": 9,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -72,7 +41,7 @@
     },
     "tmdb": {
       "id": 45502,
-      "season": 2,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/gIM0WQ0mxyxJJzu4BfgRx2DbJ09.jpg",
@@ -94,8 +63,7 @@
         "name": "女王之刃",
         "vote_average": 6.9,
         "vote_count": 25
-      },
-      "type": "tv"
+      }
     }
   }
 ]

@@ -7,7 +7,7 @@
     },
     "tmdb": {
       "id": 55016,
-      "season": 0,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/102hhQpjl86kiyM3WCcVviSccQy.jpg",
@@ -28,8 +28,7 @@
         "name": "GJ部",
         "vote_average": 6.2,
         "vote_count": 5
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -40,6 +39,7 @@
     },
     "tmdb": {
       "id": 67340,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/xOntAOzyMY43wLFpKyRj92BFsQG.jpg",
@@ -53,15 +53,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 8.407,
+        "popularity": 11.77,
         "first_air_date": "2014-05-16",
         "vote_average": 7.333,
         "vote_count": 18,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -72,7 +71,7 @@
     },
     "tmdb": {
       "id": 40424,
-      "season": 5,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/zBIIyH8yfdlfvvpEiG9PLwoVXc6.jpg",
@@ -92,8 +91,7 @@
         "name": "头文字D",
         "vote_average": 8,
         "vote_count": 69
-      },
-      "type": "tv"
+      }
     }
   }
 ]

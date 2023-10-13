@@ -6,28 +6,30 @@
       "id": "20547"
     },
     "tmdb": {
-      "id": 119827,
+      "id": 46153,
+      "type": "tv",
+      "season": 2,
       "search": {
         "adult": false,
-        "backdrop_path": "/7jPq1GSzxH3WiHuHXnNDmUnOUNL.jpg",
+        "backdrop_path": "/8D5t2tqe78rA6fs1hU5GJckcZ7o.jpg",
         "genre_ids": [
+          16,
           35
         ],
-        "id": 119827,
+        "id": 46153,
         "origin_country": [
-          "US"
+          "JP"
         ],
-        "original_language": "en",
-        "original_name": "Hardly Working",
-        "overview": "A sketch comedy web series filmed in the CollegeHumor offices, featuring the writers.",
-        "popularity": 1.126,
-        "poster_path": "/AgVhR3cSX1GdgKPyxfb3XppywOq.jpg",
-        "first_air_date": "",
-        "name": "Hardly Working",
-        "vote_average": 0,
-        "vote_count": 0
-      },
-      "type": "tv"
+        "original_language": "ja",
+        "original_name": "WORKING!!",
+        "overview": "小鸟游是家中独子，上有姐姐下有妹妹，从小生活在女人堆里，酷爱一切和可爱有关的事物。机缘巧合的来到一家叫做瓦古娜利亚的餐厅打工，开始了学校、打工、家事三点一线的忙碌生活。小鸟游渐渐发现，原来瓦古娜利亚餐厅的店员都各具特色：种岛是个外形娇小，长着一张娃娃脸的可爱女生，凭借这令自己相当头疼的卡哇伊外形深得大家疼爱。伊波有着男性恐惧症，对女顾客服务完美的无法挑剔，却因为这奇怪的病症经常殴打男顾客。八千代是外场负责人，特点是喜欢佩戴一把武士刀，和爱吃的店长白藤杏子，冷面厨师佐藤三人有着暧昧不清的关系。面对这些怪异却有趣的同事，小鸟游也随着时间渐渐融入到了这别具特色的餐厅打工生活中。",
+        "popularity": 27.216,
+        "poster_path": "/wrTq51lGy5GpVeHUskqYcxF7Nwe.jpg",
+        "first_air_date": "2010-04-04",
+        "name": "迷糊餐厅",
+        "vote_average": 8.1,
+        "vote_count": 39
+      }
     }
   },
   {
@@ -38,6 +40,7 @@
     },
     "tmdb": {
       "id": 259169,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/zkWOJtyR4dUNA686iDTEIBqSP11.jpg",
@@ -49,15 +52,14 @@
         "original_language": "ja",
         "original_title": "劇場版テニスの王子様 英国式庭球城決戦！",
         "overview": "新故事以网球的圣地：英国的温布尔顿为舞台，来自世界各地的青年网球高手们集结于此，作为日本的代表队，青学、冰帝、立海以及四天宝寺等几所学校的队员们也受邀参加大会。然而，大会中却发生了让人意想不到的事情!天才网球选手们接连受到袭击，魔手也渐渐迫向日本选手……不同于一般的比赛，主人公龙马等人将在古城中各种不同场所与敌人交手，无数的陷阱等待着他们。敌人究竟是谁？面对着意想不到的激战，龙马一行人的命运究竟会如何？前所未有的网球死斗即将展开。",
-        "popularity": 2.695,
+        "popularity": 3.773,
         "poster_path": "/rZRXX8LtWiTx57PFaaqEwywTl9k.jpg",
         "release_date": "2011-09-03",
         "title": "网球王子剧场版：英国式庭球城决战！",
         "video": false,
         "vote_average": 4,
         "vote_count": 1
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -68,6 +70,7 @@
     },
     "tmdb": {
       "id": 179932,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/oQheBkbGkMzvc57N2LZgY73Oj16.jpg",
@@ -81,15 +84,14 @@
         "original_language": "ja",
         "original_title": "トワノクオン 第四章 紅蓮の焦心",
         "overview": "库斯托斯察觉了空想的花园的存在。库恩（声优：神谷浩史）为了保护泰（名塚佳织），与机器人部队WTOC对峙。那个时候，机器人部队的伊普西隆(鸟海浩辅)发生异变。知道了异常情况的库斯特斯的指挥官·上代(三木真一郎)冷酷地下达了破坏伊普西龙的命令。",
-        "popularity": 3.939,
+        "popularity": 4.734,
         "poster_path": "/bLSC3mqXmtyDwjaYR0fD5hmCePF.jpg",
         "release_date": "2011-09-09",
         "title": "永远之久远 第四章 红莲的焦躁",
         "video": false,
         "vote_average": 6.417,
         "vote_count": 13
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -100,6 +102,7 @@
     },
     "tmdb": {
       "id": 92321,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/qknxyRgP6UTmwJ4B9tDAmzHMq7u.jpg",
@@ -119,8 +122,7 @@
         "video": false,
         "vote_average": 8.364,
         "vote_count": 994
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -131,6 +133,7 @@
     },
     "tmdb": {
       "id": 93988,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/jrKkSeO6RHHnSoVgouwvUSy4k6p.jpg",
@@ -147,14 +150,13 @@
         "original_language": "ja",
         "original_name": "バトルスピリッツ 覇王",
         "overview": "主人公阳升一是13岁的少年，他梦想成为“战斗之魂”卡片游戏的新世界冠军“霸王（Hero）”，因此向卡片战斗的世界发起了挑战。",
-        "popularity": 6.317,
+        "popularity": 8.844,
         "poster_path": "/4Ma0bfl0ZuuwwcMyj7DMuy8Uofc.jpg",
         "first_air_date": "2011-09-18",
         "name": "战斗之魂 霸王",
         "vote_average": 8.667,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -195,7 +197,7 @@
     },
     "tmdb": {
       "id": 35447,
-      "season": 2,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/nUUxIsHIZmn4jR0JEFS5lI1HVXJ.jpg",
@@ -216,8 +218,7 @@
         "name": "侵略！乌贼娘",
         "vote_average": 6.833,
         "vote_count": 18
-      },
-      "type": "tv"
+      }
     }
   }
 ]

@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 665584,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -17,15 +18,14 @@
         "original_language": "ja",
         "original_title": "ピカチュウのサマー・ブリッジ・ストーリー",
         "overview": "Pikachu and friends visit a town with a huge draw bridge, but problems arise when they come across Oshawatt and Tepig, who have eaten the fruits that Gothita and Darumaka had collected. They head off to collect fruits from the forest across the bridge, but then Meowth appears and tries to steal the fruits. On top of that, the bridge is raised, blocking their passage. What will Pikachu do? The fight for the fruits begins!!",
-        "popularity": 1.4,
+        "popularity": 0.84,
         "poster_path": "/w6iLjTNjdpfmNDmxTg5jxuSOIID.jpg",
         "release_date": "2011-08-01",
         "title": "精灵宝可梦：皮卡丘的夏天·大桥·故事",
         "video": false,
         "vote_average": 8,
         "vote_count": 1
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -68,6 +68,7 @@
     },
     "tmdb": {
       "id": 95660,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -81,15 +82,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 0.954,
+        "popularity": 1.4,
         "first_air_date": "2011-08-12",
         "vote_average": 4.5,
         "vote_count": 2,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -100,6 +100,7 @@
     },
     "tmdb": {
       "id": 179931,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/nOd53C825QEVQboCIh43iAxHxpy.jpg",
@@ -113,15 +114,14 @@
         "original_language": "ja",
         "original_title": "トワノクオン 第三章 夢幻の連座",
         "overview": "试图确保能力者的少年的泰和机器人伊普西隆(瞬)接触。想办法救出少年和tei成功,不过，tei丢失意识倒下了。并且那个异变伊普西隆的身体也发生了。库斯特斯追寻与伊普西隆相连的脑波，寻找库斯特斯蒂亚的根据。为了守住幻想园的秘密，泰迪必须与医疗装置分离,不过，如果那样的话泰泰就不会再次觉醒。为了拯救泰雄，库恩进入了他的心中。在那里，库恩目击到的，是把瞬称为「哥哥」的泰的身姿。并且kuon也打招呼「哥哥」的存在出现。从各自的记忆互相缠绕了的心的迷宫，kuon能救助tei吗？",
-        "popularity": 4.601,
+        "popularity": 6.083,
         "poster_path": "/8lGGLnHjXBDglmLK29uJCVdPJ7N.jpg",
         "release_date": "2011-08-12",
         "title": "永远之久远 第三章 梦幻的连座",
         "video": false,
         "vote_average": 6.615,
         "vote_count": 13
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -132,6 +132,7 @@
     },
     "tmdb": {
       "id": 43295,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/mpzCpEi7CdVJ4wixqXDedNumbb9.jpg",
@@ -147,15 +148,47 @@
           35,
           10765
         ],
-        "popularity": 22.973,
+        "popularity": 32.162,
         "first_air_date": "2011-08-12",
         "vote_average": 8.917,
         "vote_count": 24,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
+    }
+  },
+  {
+    "title": "探偵オペラ ミルキィホームズ サマー・スペシャル",
+    "date": "2011-08-25T16:00:00.000Z",
+    "bangumi": {
+      "id": "22756"
+    },
+    "tmdb": {
+      "id": 51492,
+      "type": "tv",
+      "season": 0,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/t7MjkWAaM7OBwamGY7lsc5bmI63.jpg",
+        "genre_ids": [
+          16,
+          9648
+        ],
+        "id": 51492,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "探偵オペラ ミルキィホームズ",
+        "overview": "故事以侦都横滨为舞台，讲述的是在二十一世纪这个“大侦探时代”中，四名立志要成为名侦探的少女组成了“福尔摩斯\"小队与怪盗对决的故事。",
+        "popularity": 12.16,
+        "poster_path": "/1tUE9wZXIurCa8ioPiLKsrT1pRC.jpg",
+        "first_air_date": "2010-10-07",
+        "name": "侦探歌剧 少女福尔摩斯",
+        "vote_average": 9,
+        "vote_count": 4
+      }
     }
   },
   {
@@ -166,6 +199,7 @@
     },
     "tmdb": {
       "id": 81505,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/lAa0nWxxiKGtefrdiBrSpr0cFy0.jpg",
@@ -177,15 +211,14 @@
         "original_language": "ja",
         "original_title": "劇場版 ハヤテのごとく! HEAVEN IS A PLACE ON EARTH",
         "overview": "暑假快将完结的时候，管家绫崎飒和他的主人三千院凪大小姐，连同一众好友来到西泽步的乡村田舍。在没有动画和游戏，以致手提电话讯号不清的状况下，管家和大小姐等人卷入了奇怪的事当中……\r 【BD版多出11分钟内容】",
-        "popularity": 6.869,
+        "popularity": 4.121,
         "poster_path": "/4gHQI2Z72O46n6JUbnzSKiZ3cvJ.jpg",
         "release_date": "2011-08-27",
         "title": "旋风管家！ HEAVEN IS A PLACE ON EARTH",
         "video": false,
         "vote_average": 4.8,
         "vote_count": 4
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -196,6 +229,7 @@
     },
     "tmdb": {
       "id": 102070,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/6AlpMzD4pw8JFBuv7d3lnKXIdPx.jpg",
@@ -209,15 +243,14 @@
         "original_language": "ja",
         "original_title": "劇場版 魔法先生ネギま! Anime Final",
         "overview": "解决魔法世界崩坏的危机的涅吉，与一众3-A学生和魔法师回到麻帆良学园。然而，他们在校门发现了写着“麻帆良学园中等部毕业典礼”的横幅。很久没有回来的涅吉和同学们，就在有限的时间内慌忙作好准备。同时间，校长召见涅吉，要涅吉认真考虑如何跟班内多位学生厘清关系，尤其是跟过半班内学生订下的“暂定契约”，其实还有一些秘密……为了决断的问题，涅吉觉得十分烦恼……",
-        "popularity": 2.124,
+        "popularity": 2.812,
         "poster_path": "/bGOiP1EKSf7d1czyJEwsurLz1NI.jpg",
         "release_date": "2011-08-27",
         "title": "剧场版 魔法先生！ ANIME FINAL",
         "video": false,
         "vote_average": 7.2,
         "vote_count": 8
-      },
-      "type": "movie"
+      }
     }
   }
 ]

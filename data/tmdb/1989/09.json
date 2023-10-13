@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 65965,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/oUo0vMRgp5rePSQ8UCdIXfHyxld.jpg",
@@ -22,15 +23,14 @@
           10765,
           80
         ],
-        "popularity": 13.034,
+        "popularity": 18.248,
         "first_air_date": "1989-09-01",
         "vote_average": 5.083,
         "vote_count": 6,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -71,6 +71,7 @@
     },
     "tmdb": {
       "id": 119590,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/fTIL0kc3u6ozu1ZYU6WM2C3fnWt.jpg",
@@ -85,15 +86,14 @@
           16,
           10765
         ],
-        "popularity": 5.237,
+        "popularity": 7.332,
         "first_air_date": "1989-09-28",
         "vote_average": 9,
         "vote_count": 3,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

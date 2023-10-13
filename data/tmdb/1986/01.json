@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 22835,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/klJeQYZ0Wo0PZrXodQaQt81Onby.jpg",
@@ -21,14 +22,13 @@
         "original_language": "ja",
         "original_name": "愛少女ポリアンナ物語",
         "overview": "《世界名作剧场》系列的第12部作品，原作是爱莲娜·霍奇曼·波特所写的小说。少女波丽安娜因为父亲的死亡而被母亲的妹妹波丽收养，波丽安娜遵循着父亲的教诲“无法发生什么都要去寻找光明的一面”而继续着“寻找快乐的游戏”，无论多么不幸都还是勇往直前的波丽安娜用自己的行动唤醒了那些处于困难中的人们的内心。",
-        "popularity": 8.827,
+        "popularity": 12.358,
         "poster_path": "/aJLNN0b6WorJCXWfluHUO9i8tBv.jpg",
         "first_air_date": "1986-01-05",
         "name": "爱少女波丽安娜物语",
         "vote_average": 6.8,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -39,6 +39,7 @@
     },
     "tmdb": {
       "id": 44371,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/bOiT83l2txv8oErjW3oae04Oq1G.jpg",
@@ -55,14 +56,13 @@
         "original_language": "ja",
         "original_name": "宇宙船サジタリウス",
         "overview": "多比和拉纳再加上基拉布和细比布，他们一起乘坐货船萨基塔库里斯在各地运输货物并且遭遇到了各种各样的事件。本作改编自意大利的物理学者Andrea Romoli的绘本。",
-        "popularity": 19.487,
+        "popularity": 27.282,
         "poster_path": "/pGlKqwpaqdig9208sgJQCi65YnB.jpg",
         "first_air_date": "1986-01-10",
         "name": "太空三剑侠",
         "vote_average": 7.5,
         "vote_count": 2
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -73,6 +73,7 @@
     },
     "tmdb": {
       "id": 334595,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -87,13 +88,12 @@
           16,
           878
         ],
-        "popularity": 2.164,
+        "popularity": 3.03,
         "release_date": "1986-01-21",
         "video": false,
         "vote_average": 6,
         "vote_count": 2
-      },
-      "type": "tv"
+      }
     }
   }
 ]

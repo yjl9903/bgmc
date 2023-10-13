@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 320770,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -21,13 +22,12 @@
           16,
           10751
         ],
-        "popularity": 2.207,
+        "popularity": 3.09,
         "release_date": "1985-09-24",
         "video": false,
         "vote_average": 7,
         "vote_count": 3
-      },
-      "type": "tv"
+      }
     }
   }
 ]

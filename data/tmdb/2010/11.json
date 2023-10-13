@@ -1,37 +1,5 @@
 [
   {
-    "title": "リタとナントカ",
-    "date": "2010-10-31T22:35:00.000Z",
-    "bangumi": {
-      "id": "9851"
-    },
-    "tmdb": {
-      "id": 91243,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/7s1pYZKxaPJ4OPaojJh88WtxlUv.jpg",
-        "genre_ids": [
-          16,
-          10762
-        ],
-        "id": 91243,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "リタとナントカ",
-        "overview": "",
-        "popularity": 1.791,
-        "poster_path": "/xqENPsLhBHkhJQg6L065WckcaTD.jpg",
-        "first_air_date": "2010-11-01",
-        "name": "Rita & Whatsit",
-        "vote_average": 7.5,
-        "vote_count": 2
-      },
-      "type": "tv"
-    }
-  },
-  {
     "title": "カッコカワイイ宣言！",
     "date": "2010-11-05T09:55:00.000Z",
     "bangumi": {
@@ -39,6 +7,7 @@
     },
     "tmdb": {
       "id": 211521,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/p1zoMbievObRfuD5fGBB0NKEftd.jpg",
@@ -52,15 +21,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 1.629,
+        "popularity": 2.281,
         "first_air_date": "2010-11-05",
         "vote_average": 2,
         "vote_count": 1,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -71,6 +39,7 @@
     },
     "tmdb": {
       "id": 418605,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/rWyYH1i4LarU573ISMWY2UoUlzg.jpg",
@@ -87,13 +56,12 @@
           18,
           878
         ],
-        "popularity": 4.267,
+        "popularity": 3.953,
         "release_date": "2010-11-06",
         "video": false,
         "vote_average": 5.5,
         "vote_count": 2
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -104,6 +72,7 @@
     },
     "tmdb": {
       "id": 628443,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/4VfKyfqjcAkiXc12ibfjCR1PNSh.jpg",
@@ -115,15 +84,14 @@
         "original_language": "ja",
         "original_title": "劇場版3D あたしンち 情熱のちょ～超能力♪母大暴走!",
         "overview": "改编自膾炙人口的日本漫画《我们这一家》，本片虽为第二部剧场版动画，却是系列作品中第一部推出3D立体的原创动画。  故事叙述意外被雷打中的花妈，从原本家事能力普通、料理乏善可陈的家庭主妇，转身一变成为无所不能的超能力者，不但打扫家里、洗衣服…做家事效率奇快，化身为宇宙超级英雄「超级花妈」的她，还得担负起维护正义的重责大任",
-        "popularity": 2.656,
+        "popularity": 2.491,
         "poster_path": "/nN2jlQgTIbMN5zXCGTRFFUgf9Oo.jpg",
         "release_date": "2010-11-13",
         "title": "剧场版3D 我们这一家 -热情的超能力- 母亲大暴走！",
         "video": false,
         "vote_average": 7.7,
         "vote_count": 3
-      },
-      "type": "movie"
+      }
     }
   },
   {

@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 134828,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/m4dS1b9Ngu8hXVgjXdAvdmf091v.jpg",
@@ -22,13 +23,12 @@
           16,
           35
         ],
-        "popularity": 3.713,
+        "popularity": 2.228,
         "release_date": "1987-05-21",
         "video": false,
         "vote_average": 6.2,
         "vote_count": 4
-      },
-      "type": "tv"
+      }
     }
   }
 ]

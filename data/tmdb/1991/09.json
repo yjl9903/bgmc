@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 94456,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/hw6u2G5z6nm9XuwRC4Q2UefKBxI.jpg",
@@ -22,15 +23,14 @@
           16,
           10759
         ],
-        "popularity": 5.69,
+        "popularity": 7.966,
         "first_air_date": "1991-09-16",
         "vote_average": 6,
         "vote_count": 2,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -41,6 +41,7 @@
     },
     "tmdb": {
       "id": 45228,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/ogEJSM2UGrrRYKYP40CoJksy7bb.jpg",
@@ -56,13 +57,12 @@
           35,
           18
         ],
-        "popularity": 3.043,
+        "popularity": 4.066,
         "release_date": "1991-09-27",
         "video": false,
         "vote_average": 7,
         "vote_count": 12
-      },
-      "type": "tv"
+      }
     }
   }
 ]

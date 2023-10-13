@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 211522,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -20,15 +21,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 2.251,
+        "popularity": 3.151,
         "first_air_date": "2013-08-03",
         "vote_average": 0,
         "vote_count": 0,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -39,6 +39,7 @@
     },
     "tmdb": {
       "id": 126795,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -53,15 +54,14 @@
           35,
           16
         ],
-        "popularity": 2.174,
+        "popularity": 2.42,
         "first_air_date": "2013-08-04",
         "vote_average": 4,
         "vote_count": 3,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -72,6 +72,7 @@
     },
     "tmdb": {
       "id": 196936,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -85,15 +86,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 1.4,
+        "popularity": 1.96,
         "first_air_date": "2013-08-05",
         "vote_average": 0,
         "vote_count": 0,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -104,6 +104,7 @@
     },
     "tmdb": {
       "id": 126340,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/837hGmZa8umeWJbxRmCcvlqQVTl.jpg",
@@ -115,15 +116,14 @@
         "poster_path": "/ymA9OxgfLsHiN7VvsamEodVFAxO.jpg",
         "media_type": "tv",
         "genre_ids": [],
-        "popularity": 1.694,
+        "popularity": 2.372,
         "first_air_date": "2013-08-22",
         "vote_average": 9.333,
         "vote_count": 3,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -134,6 +134,7 @@
     },
     "tmdb": {
       "id": 646220,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": null,
@@ -142,15 +143,14 @@
         "original_language": "ja",
         "original_title": "宇宙戦艦ヤマト2199 第七章「そして艦は行く」",
         "overview": "Theatrical release of episodes 23-26 of Space Battleship Yamato 2199.",
-        "popularity": 1.96,
+        "popularity": 1.548,
         "poster_path": "/adKjR4ijHbLPcPytZEcSSxVIjZz.jpg",
         "release_date": "2013-08-23",
         "title": "Space Battleship Yamato 2199: And Now the Warship Comes",
         "video": false,
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -161,6 +161,7 @@
     },
     "tmdb": {
       "id": 297676,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/10eITWRrSoo9loXd39YWAZbxuxc.jpg",
@@ -174,15 +175,14 @@
         "original_language": "ja",
         "original_title": "劇場版 薄桜鬼 第一章 京都乱舞",
         "overview": "There's a war going on in ancient Kyoto. A war fought in shadows, between the forces of the Shogunate's armed enforcers, the Shinsengumi, and the vampire-like Ronin warriors known as the Rasetsu or Furies. And trapped in the middle is a young woman disguised as a man.  Seeking her missing father, Chizuru Yukimura comes to Kyoto only to find her fate forever intertwined with the destinies of Shinsengumi Vice commander Toshizo Hijikata and his elite force of swordsmen. Because Chizuru's father has created a secret elixir that enhances the user's strength, speed and healing, and the furies will do anything and kill anyone in order to control that power!",
-        "popularity": 7.662,
+        "popularity": 7.853,
         "poster_path": "/dKPgoFijvq7zsNtPnPvcejNXxYG.jpg",
         "release_date": "2013-08-24",
         "title": "剧场版 薄樱鬼 第1章 京都乱舞",
         "video": false,
         "vote_average": 6.4,
         "vote_count": 15
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -215,6 +215,36 @@
         "origin_country": [
           "JP"
         ]
+      }
+    }
+  },
+  {
+    "title": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+    "date": "2013-08-31T16:00:00.000Z",
+    "bangumi": {
+      "id": "46213"
+    },
+    "tmdb": {
+      "id": 255413,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/iuEhCOiMjGM1acgWJ1bSJ93Tq2a.jpg",
+        "genre_ids": [
+          16,
+          18
+        ],
+        "id": 255413,
+        "original_language": "ja",
+        "original_title": "劇場版 あの日見た花の名前を僕達はまだ知らない。",
+        "overview": "剧场版以已去世的女主角『本间芽衣子』的视角来述说那个夏天以及一年后所发生的故事，想必在这段时间里每个人都有所成长了，而小时候的大家的童年回忆和想法又是如何的呢？将来的梦想、希望彼此都不曾忘记，深信着我们还可以再见面，在那只属于我们的——“秘密基地”。",
+        "popularity": 14.479,
+        "poster_path": "/vo3ODtGpSQxI2ajPuSife2dXNyE.jpg",
+        "release_date": "2012-06-07",
+        "title": "我们仍未知道那天所看见的花的名字 剧场版",
+        "video": false,
+        "vote_average": 7.5,
+        "vote_count": 150
       }
     }
   }

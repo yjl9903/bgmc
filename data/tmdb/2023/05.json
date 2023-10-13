@@ -7,6 +7,7 @@
     },
     "tmdb": {
       "id": 223119,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/h03Ueqe0OnrCmzImEaeYD9QW09c.jpg",
@@ -21,15 +22,14 @@
           16,
           10765
         ],
-        "popularity": 10.856,
+        "popularity": 15.198,
         "first_air_date": "2023-05-18",
         "vote_average": 7.6,
         "vote_count": 18,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   },
   {
@@ -40,6 +40,7 @@
     },
     "tmdb": {
       "id": 1020496,
+      "type": "movie",
       "search": {
         "adult": false,
         "backdrop_path": "/huKKbJccGYqzMUihOe6jGYz5IN5.jpg",
@@ -53,15 +54,14 @@
         "original_language": "ja",
         "original_title": "劇場版 Collar×Malice -deep cover- 前編",
         "overview": "在发生了连续凶恶事件「X-Day事件」的新宿街区，女主人公是一位警察官。在一夜之间，她被人袭击并被迫戴上了一枚内含毒药的项圈，故事从这里开始。在她的冒险过程中，她遇到了一些神秘的男人，这些男人曾经在警察组织中工作，但是他们的身份和背景都很神秘...",
-        "popularity": 2.836,
+        "popularity": 2.814,
         "poster_path": "/qO2w2xGfrwZ4mJaRvO6XWYFodTx.jpg",
         "release_date": "2023-05-26",
         "title": "剧场版 Collar×Malice -deep cover- 前篇",
         "video": false,
         "vote_average": 0,
         "vote_count": 0
-      },
-      "type": "movie"
+      }
     }
   },
   {
@@ -72,6 +72,7 @@
     },
     "tmdb": {
       "id": 216890,
+      "type": "tv",
       "search": {
         "adult": false,
         "backdrop_path": "/jOtXoFgrJT7iUL8cbldrVP9Pfik.jpg",
@@ -85,15 +86,14 @@
         "genre_ids": [
           16
         ],
-        "popularity": 16.142,
+        "popularity": 22.599,
         "first_air_date": "2023-05-25",
         "vote_average": 6,
         "vote_count": 1,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]
