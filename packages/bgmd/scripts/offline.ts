@@ -7,6 +7,8 @@ import type { SearchTVResultItem, SearchMovieResultItem, SearchMultiResultItem }
 
 import { items, type Item } from 'bangumi-data';
 
+import { SeasonSuffix } from './constants';
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const DataRoot = path.join(__dirname, '../../../data');
@@ -128,13 +130,23 @@ export class OfflineBangumi {
       );
       for (const r of related) {
         const pre = this.map.get(+r.id);
-        if (pre && !res.has(pre) && pre !== bgm) {
+        if (pre && !res.has(pre)) {
           res.add(pre);
           dfs(pre);
         }
       }
     };
     dfs(bgm);
-    return res;
+
+    return new Set([bgm, ...res].flatMap((r) => trimEnd(r.title)).map((t) => t.trim()));
+
+    function trimEnd(name: string) {
+      for (const suffix of SeasonSuffix) {
+        if (suffix.test(name)) {
+          return [name, name.replace(suffix, '')];
+        }
+      }
+      return [name];
+    }
   }
 }

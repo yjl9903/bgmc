@@ -142,8 +142,8 @@ async function search(bgm: BangumiItem) {
     const filtered: Array<{ ok: SearchTVResultItem; season: number; first_episode?: number }> = [];
 
     const visitedId = new Set<number>();
-    for (const preBgm of pres) {
-      const resp = await client.searchTV({ query: preBgm.title, language: Language });
+    for (const query of pres) {
+      const resp = await client.searchTV({ query, language: Language });
 
       if (resp.results.length > 0) {
         for (const r of resp.results) {
