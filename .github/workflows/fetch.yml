@@ -38,8 +38,10 @@ jobs:
           # grep "^Error:" run.log > data/tmdb-error.log
 
       - name: Create Pull Request
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          BRANCH=fetch/$(date +"%Y-%m-%d")
+          BRANCH=fetch-tmdb/$(date +"%Y-%m-%d")
 
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
