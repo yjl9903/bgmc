@@ -29,6 +29,8 @@ export interface TMDBItem {
 
     season?: number;
 
+    first_episode?: number;
+
     search: SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem;
   };
 }

@@ -103,40 +103,61 @@ async function search(bgm: BangumiItem) {
   if (all.length === 0 && (item?.type === 'tv' || !item)) {
     const begin = new Date(bgm.bangumi.date || bgm.date);
     const pres = bangumiDB.listPrequel(bgm);
+    const filtered: Array<{ ok: SearchTVResultItem; season: number; first_episode?: number }> = [];
 
     for (const preBgm of pres) {
       const resp = await client.searchTV({ query: preBgm.title, language: 'zh-CN' });
 
       if (resp.results.length > 0) {
-        const filtered: Array<{ ok: SearchTVResultItem; season: number }> = [];
         for (const r of resp.results) {
           const detail = await client.getTVDetail(r.id, { language: 'zh-CN' });
           for (const s of detail.seasons) {
             if (checkInterval(begin, new Date(s.air_date))) {
               filtered.push({ ok: r, season: s.season_number });
+            } else {
+              // Try iterating episodes
+              const seasonDetail = await client.getTVSeasonDetail(r.id, s.season_number, {
+                language: 'zh-CN'
+              });
+              for (const ep of seasonDetail.episodes) {
+                if (checkInterval(begin, new Date(ep.air_date))) {
+                  filtered.push({
+                    ok: r,
+                    season: ep.season_number,
+                    first_episode: ep.episode_number
+                  });
+                }
+              }
             }
           }
         }
         all.push(...filtered.map((f) => f.ok));
-
-        if (filtered.length === 1) {
-          const result = filtered[0];
-
-          const fullyear = begin.getFullYear();
-          const month = String(begin.getMonth() + 1).padStart(2, '0');
-
-          console.log(
-            `Info: infer ${bgm.title} (${fullyear}-${month}) to ${getOriginalNameOrTitle(
-              result.ok
-            )} (id: ${result.ok.id}, season: ${result.season})`
-          );
-          return {
-            ok: result.ok,
-            season: result.season,
-            all
-          };
-        }
       }
+    }
+
+    if (filtered.length === 1) {
+      const result = filtered[0];
+
+      const fullyear = begin.getFullYear();
+      const month = String(begin.getMonth() + 1).padStart(2, '0');
+
+      const extra = [
+        `season: ${result.season}`,
+        result.first_episode ? `episode: ${result.first_episode}` : undefined
+      ].filter(Boolean) as string[];
+
+      console.log(
+        `Info: infer ${bgm.title} (${fullyear}-${month}) to ${getOriginalNameOrTitle(
+          result.ok
+        )} (id: ${result.ok.id}, ${extra.join(', ')})`
+      );
+
+      return {
+        ok: result.ok,
+        season: result.season,
+        first_episode: result.first_episode,
+        all
+      };
     }
   }
 
@@ -146,7 +167,7 @@ async function search(bgm: BangumiItem) {
     console.log(`Error: There is multiple search results for ${bgm.title}`);
   }
 
-  return { ok: undefined, season: undefined, all };
+  return { ok: undefined, season: undefined, first_episode: undefined, all };
 
   function inferBangumi(
     item: BangumiItem,
@@ -154,16 +175,25 @@ async function search(bgm: BangumiItem) {
   ) {
     const filtered = resp.filter((r) => matchBangumi(item, r));
     if (resp.length === 1 && filtered.length === 1) {
-      return { ok: resp[0], all: filtered };
+      return { ok: resp[0], season: undefined, first_episode: undefined, all: filtered };
     } else {
+      if (resp.length === 1 && filtered.length === 0) {
+        // The only result is filtered out?
+        const result = resp[0];
+        console.log(
+          `Info: infer ${item.title} to ${getOriginalNameOrTitle(result)} (id: ${result.id})`
+        );
+        return { ok: result, season: undefined, first_episode: undefined, all: filtered };
+      }
       if (filtered.length === 1) {
+        // Filter to only one result
         const result = filtered[0];
         console.log(
           `Info: infer ${item.title} to ${getOriginalNameOrTitle(result)} (id: ${result.id})`
         );
-        return { ok: result, season: undefined, all: filtered };
+        return { ok: result, season: undefined, first_episode: undefined, all: filtered };
       }
-      return { ok: undefined, season: undefined, all: filtered };
+      return { ok: undefined, season: undefined, first_episode: undefined, all: filtered };
     }
   }
 
