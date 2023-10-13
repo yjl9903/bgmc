@@ -113,6 +113,7 @@ export class OfflineBangumi {
     const dfs = (bgm: BangumiItem) => {
       if (!Array.isArray(bgm.bangumi.relations)) {
         console.log(`Error: ${bgm.title} (id: ${bgm.bangumi.id}) does not have relations`);
+        return;
       }
 
       const related = (bgm.bangumi.relations ?? []).filter((r) =>
