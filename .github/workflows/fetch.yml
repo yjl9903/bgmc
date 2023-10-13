@@ -53,5 +53,5 @@ jobs:
 
           gh pr create \
             --title "feat(bgmd): update TMDB data" \
-            --body  "Update TMDB data" \
+            --body  "$(cat run.log)" \
             --head  "$BRANCH"
