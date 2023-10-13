@@ -258,7 +258,7 @@ async function search(bgm: BangumiItem) {
     const d1 = new Date(bgm.bangumi.date || bgm.date);
     // @ts-ignore
     const d2 = new Date(result.first_air_date || result.release_date);
-    // Onair date should be less than 7 days
+    // Onair date should be less than 6 days
     if (!checkInterval(d1, d2)) {
       return false;
     }
@@ -266,7 +266,7 @@ async function search(bgm: BangumiItem) {
   }
 
   function checkInterval(d1: Date, d2: Date) {
-    return Math.abs(d1.getTime() - d2.getTime()) <= 7 * 24 * 60 * 60 * 1000;
+    return Math.abs(d1.getTime() - d2.getTime()) <= 6 * 24 * 60 * 60 * 1000;
   }
 
   function getNameOrTitle(
