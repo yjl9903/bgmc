@@ -1,34 +1,34 @@
 [
   {
-    "title": "ももいろシスターズ",
-    "date": "1998-08-25T16:00:00.000Z",
+    "title": "劇場版 スレイヤーズごぅじゃす",
+    "date": "1998-08-01T16:00:00.000Z",
     "bangumi": {
-      "id": "86436"
+      "id": "11647"
     },
     "tmdb": {
-      "id": 26572,
+      "id": 41365,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/bUwkzmWJCaXTEDjLsDGYqoFe1oY.jpg",
+        "backdrop_path": "/iFKwFgV0R3kwX2XoXcnI4ClSkKh.jpg",
         "genre_ids": [
           16,
-          35
+          12,
+          35,
+          14
         ],
-        "id": 26572,
-        "origin_country": [
-          "JP"
-        ],
+        "id": 41365,
         "original_language": "ja",
-        "original_name": "ももいろシスターズ",
-        "overview": "",
-        "popularity": 5.377,
-        "poster_path": "/44g63SrTFB5gzTy57T3wLWwA2EE.jpg",
-        "first_air_date": "1998-08-25",
-        "name": "Momoiro Sisters",
-        "vote_average": 8,
-        "vote_count": 2
-      },
-      "type": "tv"
+        "original_title": "スレイヤーズごぅじゃす",
+        "overview": "　　莉娜和娜卡正優閒自在地在可爾多倫城市內享受美食，一群龍之集團突然出現在她們的面前。率領龍之集團的美少女瑪蕾妮和可爾多倫的士兵們展開對決，莉娜她們就這麼不知所以然地被捲入這場騷動。不過，龍之軍團卻在莉娜要施展攻擊魔法時全數逃之夭夭。卡伯特城的領主卡伯特召見她，並述說事件的起因。因為看到莉娜的身手如此厲害，便拜託她幫忙，只要將其愛女瑪蕾妮帶回，就付賞金200枚金幣。但其實這一次騷動的原因是他的女兒要求提高零用錢不成所引起的。同一時刻，瑪蕾妮付給娜卡日薪，請她協助打倒她的父親。到了隔天，事態的演變卻越來越嚴重……\r 　　莉娜在結尾被搶走錢幣之後，雖然立刻用「覇王雷撃陣(ダイナスト・ブラス)」想要搶回來，卻被剛好經過的烏鴉叼走了。另外，在前兩部中的都是銅幣，在本作中卻是金幣（在最後被搶走的那枚）。",
+        "popularity": 2.792,
+        "poster_path": "/tJWFXtqQl0DU0r5cAqM2DCNFtOF.jpg",
+        "release_date": "1998-01-01",
+        "title": "秀逗魔导士Gorgeous",
+        "video": false,
+        "vote_average": 6.857,
+        "vote_count": 14
+      }
     }
   },
   {
@@ -95,6 +95,70 @@
     }
   },
   {
+    "title": "機動戦艦ナデシコ -The prince of darkness-",
+    "date": "1998-08-08T16:00:00.000Z",
+    "bangumi": {
+      "id": "516"
+    },
+    "tmdb": {
+      "id": 36613,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/zA9p0cZK0AcWepTslez1GL3AwH1.jpg",
+        "genre_ids": [
+          16,
+          878,
+          18,
+          28
+        ],
+        "id": 36613,
+        "original_language": "ja",
+        "original_title": "機動戦艦ナデシコ -The prince of darkness-",
+        "overview": "　　世间人多如天上之星，邂逅亦多如天上之星，紧接着的……是离别  　　刺耳的警报声骤然响起，通过无线电传入每个人的耳中。八号殖民地“白雪公主”正遭到突如其来的袭击，防御力量正被迅速瓦解。与此同时，“白雪公主”内部突然出现几个头带斗笠象僧侣一样的人开始追杀研究员……当入侵的机器人突入“白雪公主”的时候，里面已经血流成河。那些僧侣们留下一句“你来迟了一步，复仇者，你还未够道行啊”，就神秘的消失了。",
+        "popularity": 10.602,
+        "poster_path": "/j4OZZpKJh5Qb5peTZVwbtTaD0tY.jpg",
+        "release_date": "1998-08-01",
+        "title": "机动战舰剧场版：暗黑王子",
+        "video": false,
+        "vote_average": 6.8,
+        "vote_count": 8
+      },
+      "type": "movie"
+    }
+  },
+  {
+    "title": "ももいろシスターズ",
+    "date": "1998-08-25T16:00:00.000Z",
+    "bangumi": {
+      "id": "86436"
+    },
+    "tmdb": {
+      "id": 26572,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/bUwkzmWJCaXTEDjLsDGYqoFe1oY.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 26572,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ももいろシスターズ",
+        "overview": "",
+        "popularity": 5.377,
+        "poster_path": "/44g63SrTFB5gzTy57T3wLWwA2EE.jpg",
+        "first_air_date": "1998-08-25",
+        "name": "Momoiro Sisters",
+        "vote_average": 8,
+        "vote_count": 2
+      },
+      "type": "tv"
+    }
+  },
+  {
     "title": "真ゲッターロボ 世界最後の日",
     "date": "1998-08-25T16:00:00.000Z",
     "bangumi": {
@@ -126,38 +190,6 @@
         ]
       },
       "type": "tv"
-    }
-  },
-  {
-    "title": "機動戦艦ナデシコ -The prince of darkness-",
-    "date": "1998-08-08T16:00:00.000Z",
-    "bangumi": {
-      "id": "516"
-    },
-    "tmdb": {
-      "id": 36613,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/zA9p0cZK0AcWepTslez1GL3AwH1.jpg",
-        "genre_ids": [
-          16,
-          878,
-          18,
-          28
-        ],
-        "id": 36613,
-        "original_language": "ja",
-        "original_title": "機動戦艦ナデシコ -The prince of darkness-",
-        "overview": "　　世间人多如天上之星，邂逅亦多如天上之星，紧接着的……是离别  　　刺耳的警报声骤然响起，通过无线电传入每个人的耳中。八号殖民地“白雪公主”正遭到突如其来的袭击，防御力量正被迅速瓦解。与此同时，“白雪公主”内部突然出现几个头带斗笠象僧侣一样的人开始追杀研究员……当入侵的机器人突入“白雪公主”的时候，里面已经血流成河。那些僧侣们留下一句“你来迟了一步，复仇者，你还未够道行啊”，就神秘的消失了。",
-        "popularity": 10.602,
-        "poster_path": "/j4OZZpKJh5Qb5peTZVwbtTaD0tY.jpg",
-        "release_date": "1998-08-01",
-        "title": "机动战舰剧场版：暗黑王子",
-        "video": false,
-        "vote_average": 6.8,
-        "vote_count": 8
-      },
-      "type": "movie"
     }
   }
 ]

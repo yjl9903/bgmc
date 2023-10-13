@@ -1,5 +1,36 @@
 [
   {
+    "title": "Bビーダマン爆外伝",
+    "date": "1998-02-06T16:00:00.000Z",
+    "bangumi": {
+      "id": "37468"
+    },
+    "tmdb": {
+      "id": 202560,
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 202560,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "Bビーダマン爆外伝",
+        "overview": "1000年前被7名拥有“星宿能量”的勇士打败的黑暗皇帝在1000年后的九大行星直列之时再一次开始了消灭太阳系的恐怖计划。少年白宝是弹珠市的一个阳光少年，因一次宠物鸟·风之羽的淘气，不小心撞到了灰宝博士的搬家用飞行器。并得知黑暗皇帝与黑暗弹珠人的事情。心怀正义感的他为了保护大家的世界，与红宝、蓝宝、黄宝、黑宝等人一起开始了一场正义的战斗。",
+        "popularity": 3.704,
+        "poster_path": "/sXKZXDLTxxmC3GlNrY2iqQIWVD6.jpg",
+        "first_air_date": "1998-02-07",
+        "name": "弹珠警察",
+        "vote_average": 6,
+        "vote_count": 1
+      },
+      "type": "tv"
+    }
+  },
+  {
     "title": "ゲキ・ガンガー3 熱血大決戦!!",
     "date": "1998-02-20T16:00:00.000Z",
     "bangumi": {
@@ -31,34 +62,36 @@
     }
   },
   {
-    "title": "Bビーダマン爆外伝",
-    "date": "1998-02-06T16:00:00.000Z",
+    "title": "サイキックフォース",
+    "date": "1998-02-24T16:00:00.000Z",
     "bangumi": {
-      "id": "37468"
+      "id": "53195"
     },
     "tmdb": {
-      "id": 202560,
+      "id": 310742,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/kbLBn6cSwAlsiyYJFvJzSWm27PD.jpg",
+        "id": 310742,
+        "title": "超能力格斗",
+        "original_language": "ja",
+        "original_title": "サイキックフォース",
+        "overview": "世界上有两种人，正常人和超能力者。超能力者是罕见的，强大的，令人害怕的，最后遭到追杀，各种悲剧上演了。主角Burn Griffith偶遇被追杀的超能力者Keith Evans，但最终Keith Evans被抓。令人没想到的是，Keith Evans成了超能力者们的领袖...",
+        "poster_path": "/6lb3kR5Xwuya9QISMnfjARQYDrZ.jpg",
+        "media_type": "movie",
         "genre_ids": [
+          14,
+          28,
+          12,
           16
         ],
-        "id": 202560,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "Bビーダマン爆外伝",
-        "overview": "1000年前被7名拥有“星宿能量”的勇士打败的黑暗皇帝在1000年后的九大行星直列之时再一次开始了消灭太阳系的恐怖计划。少年白宝是弹珠市的一个阳光少年，因一次宠物鸟·风之羽的淘气，不小心撞到了灰宝博士的搬家用飞行器。并得知黑暗皇帝与黑暗弹珠人的事情。心怀正义感的他为了保护大家的世界，与红宝、蓝宝、黄宝、黑宝等人一起开始了一场正义的战斗。",
-        "popularity": 3.704,
-        "poster_path": "/sXKZXDLTxxmC3GlNrY2iqQIWVD6.jpg",
-        "first_air_date": "1998-02-07",
-        "name": "弹珠警察",
-        "vote_average": 6,
-        "vote_count": 1
-      },
-      "type": "tv"
+        "popularity": 1.377,
+        "release_date": "1998-05-25",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+      }
     }
   }
 ]

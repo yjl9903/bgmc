@@ -32,38 +32,6 @@
     }
   },
   {
-    "title": "変形少女",
-    "date": "2017-03-27T16:00:00.000Z",
-    "bangumi": {
-      "id": "212187"
-    },
-    "tmdb": {
-      "id": 71742,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/24GNBoS62UM09XyKKKt6ZA4FI4V.jpg",
-        "id": 71742,
-        "name": "变形少女",
-        "original_language": "ja",
-        "original_name": "Henkei Shoujo",
-        "overview": "一言不合就脑大洞开的变形美少女，无厘头的举动，带来无尽的惊喜惊吓？但是少女其实都是为了帮助别人的助人为乐的好女孩。",
-        "poster_path": "/jI1uUlw4BeLdHVEeVZ79oTTlghC.jpg",
-        "media_type": "tv",
-        "genre_ids": [
-          16
-        ],
-        "popularity": 3.265,
-        "first_air_date": "2017-03-26",
-        "vote_average": 5.333,
-        "vote_count": 3,
-        "origin_country": [
-          "JP"
-        ]
-      },
-      "type": "tv"
-    }
-  },
-  {
     "title": "劇場版プリパラ み～んなでかがやけ！キラリン☆スターライブ！",
     "date": "2017-03-04T16:00:00.000Z",
     "bangumi": {
@@ -115,6 +83,67 @@
         "video": false,
         "vote_average": 0,
         "vote_count": 0
+      },
+      "type": "movie"
+    }
+  },
+  {
+    "title": "劇場版総集編 オーバーロード 漆黒の英雄",
+    "date": "2017-03-11T16:00:00.000Z",
+    "bangumi": {
+      "id": "198968"
+    },
+    "tmdb": {
+      "id": 477449,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/7ppe5S9RJKBaIjliCFWOqwTiUaP.jpg",
+        "genre_ids": [
+          16,
+          28,
+          12,
+          14
+        ],
+        "id": 477449,
+        "original_language": "ja",
+        "original_title": "劇場版総集編 オーバーロード 漆黒の英雄【後編】",
+        "overview": "作品主要讲述了某天，一款掀起大热潮的VRMMORPG「YGGDRASIL」原本会停止一切服务，但即使过了结束时间，玩家也不会退出游戏，NPC也有了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员意外穿越到了异世界，并且自己还变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开帷幕。",
+        "popularity": 12.433,
+        "poster_path": "/joAUUvoVxRkk0AHny7lhoN9yk5r.jpg",
+        "release_date": "2017-03-11",
+        "title": "OVERLORD 剧场版后篇 漆黑的英雄",
+        "video": false,
+        "vote_average": 6.4,
+        "vote_count": 11
+      },
+      "type": "movie"
+    }
+  },
+  {
+    "title": "劇場版 黒子のバスケ LAST GAME",
+    "date": "2017-03-17T16:00:00.000Z",
+    "bangumi": {
+      "id": "147147"
+    },
+    "tmdb": {
+      "id": 428707,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/xMsn2d2MfoMqtUrR2mMlfchKzOF.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 428707,
+        "original_language": "ja",
+        "original_title": "劇場版 黒子のバスケ LAST GAME",
+        "overview": "黑子哲也 及 火神大我 加入了诚凛高中篮球队。相对于有着绝佳球感的火神，黑子却是一名在场上“几乎没有存在感”的球员。但其实，黑子曾是篮球强校帝光国中篮球队的一员，曾与被称为“奇迹时代”的5位天才并肩战斗，以“梦幻的第6人”的称号活跃在篮球场上。“影”与“光”的二人搭档成为校队主力，带领诚凛高中成功打进了冬季选拔赛，并在选拔赛中击败其他拥有“奇迹时代”成员的各路强队，获得了全国冠军。 就在二人升上高二后的那个暑假末尾，由一批18岁左右的美国篮球天才组成的街球队伍“Jabberwock”来访日本，并与日本男篮国家队进行友谊赛。他们以压倒性的实力让日本队惨败，还嘲笑了他们一番。 此举激怒了诚凛高中篮球队教练丽子的父亲景虎。这位曾经的日本篮球国手决定集结黑子与火神，以及“奇迹时代”的其他成员，临时组建梦幻球队“VORPAL SWORDS”，誓言向“Jabberwock”复仇！ 一场最激烈的决战，就此打响!",
+        "popularity": 23.573,
+        "poster_path": "/c4qDRYVcqMKl6fdiCwfb3icHrUM.jpg",
+        "release_date": "2017-03-18",
+        "title": "黑子的篮球：终极一战",
+        "video": false,
+        "vote_average": 7.729,
+        "vote_count": 105
       },
       "type": "movie"
     }
@@ -184,64 +213,35 @@
     }
   },
   {
-    "title": "劇場版総集編 オーバーロード 漆黒の英雄",
-    "date": "2017-03-11T16:00:00.000Z",
+    "title": "変形少女",
+    "date": "2017-03-27T16:00:00.000Z",
     "bangumi": {
-      "id": "198968"
+      "id": "212187"
     },
     "tmdb": {
-      "id": 477449,
+      "id": 71742,
       "search": {
         "adult": false,
-        "backdrop_path": "/7ppe5S9RJKBaIjliCFWOqwTiUaP.jpg",
-        "genre_ids": [
-          16,
-          28,
-          12,
-          14
-        ],
-        "id": 477449,
+        "backdrop_path": "/24GNBoS62UM09XyKKKt6ZA4FI4V.jpg",
+        "id": 71742,
+        "name": "变形少女",
         "original_language": "ja",
-        "original_title": "劇場版総集編 オーバーロード 漆黒の英雄【後編】",
-        "overview": "作品主要讲述了某天，一款掀起大热潮的VRMMORPG「YGGDRASIL」原本会停止一切服务，但即使过了结束时间，玩家也不会退出游戏，NPC也有了各自的思想。现实世界中喜爱电玩的主人公铃木悟（真名）在等待系统强制登出时，与“安兹·乌尔·恭”公会的成员意外穿越到了异世界，并且自己还变成了拥有骷髅外表的最强魔法师——“飞鼠”。就这样，真正的奇幻传说正式拉开帷幕。",
-        "popularity": 12.433,
-        "poster_path": "/joAUUvoVxRkk0AHny7lhoN9yk5r.jpg",
-        "release_date": "2017-03-11",
-        "title": "OVERLORD 剧场版后篇 漆黑的英雄",
-        "video": false,
-        "vote_average": 6.4,
-        "vote_count": 11
-      },
-      "type": "movie"
-    }
-  },
-  {
-    "title": "劇場版 黒子のバスケ LAST GAME",
-    "date": "2017-03-17T16:00:00.000Z",
-    "bangumi": {
-      "id": "147147"
-    },
-    "tmdb": {
-      "id": 428707,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/xMsn2d2MfoMqtUrR2mMlfchKzOF.jpg",
+        "original_name": "Henkei Shoujo",
+        "overview": "一言不合就脑大洞开的变形美少女，无厘头的举动，带来无尽的惊喜惊吓？但是少女其实都是为了帮助别人的助人为乐的好女孩。",
+        "poster_path": "/jI1uUlw4BeLdHVEeVZ79oTTlghC.jpg",
+        "media_type": "tv",
         "genre_ids": [
           16
         ],
-        "id": 428707,
-        "original_language": "ja",
-        "original_title": "劇場版 黒子のバスケ LAST GAME",
-        "overview": "黑子哲也 及 火神大我 加入了诚凛高中篮球队。相对于有着绝佳球感的火神，黑子却是一名在场上“几乎没有存在感”的球员。但其实，黑子曾是篮球强校帝光国中篮球队的一员，曾与被称为“奇迹时代”的5位天才并肩战斗，以“梦幻的第6人”的称号活跃在篮球场上。“影”与“光”的二人搭档成为校队主力，带领诚凛高中成功打进了冬季选拔赛，并在选拔赛中击败其他拥有“奇迹时代”成员的各路强队，获得了全国冠军。 就在二人升上高二后的那个暑假末尾，由一批18岁左右的美国篮球天才组成的街球队伍“Jabberwock”来访日本，并与日本男篮国家队进行友谊赛。他们以压倒性的实力让日本队惨败，还嘲笑了他们一番。 此举激怒了诚凛高中篮球队教练丽子的父亲景虎。这位曾经的日本篮球国手决定集结黑子与火神，以及“奇迹时代”的其他成员，临时组建梦幻球队“VORPAL SWORDS”，誓言向“Jabberwock”复仇！ 一场最激烈的决战，就此打响!",
-        "popularity": 23.573,
-        "poster_path": "/c4qDRYVcqMKl6fdiCwfb3icHrUM.jpg",
-        "release_date": "2017-03-18",
-        "title": "黑子的篮球：终极一战",
-        "video": false,
-        "vote_average": 7.729,
-        "vote_count": 105
+        "popularity": 3.265,
+        "first_air_date": "2017-03-26",
+        "vote_average": 5.333,
+        "vote_count": 3,
+        "origin_country": [
+          "JP"
+        ]
       },
-      "type": "movie"
+      "type": "tv"
     }
   }
 ]

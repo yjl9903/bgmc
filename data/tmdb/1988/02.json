@@ -34,64 +34,35 @@
     }
   },
   {
-    "title": "ゲゲゲの鬼太郎 地獄編",
-    "date": "1988-02-08T16:00:00.000Z",
+    "title": "めぞん一刻 完結篇",
+    "date": "1988-02-06T16:00:00.000Z",
     "bangumi": {
-      "id": "211097"
+      "id": "530"
     },
     "tmdb": {
-      "id": 223509,
+      "id": 301515,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [],
-        "id": 223509,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "en",
-        "original_name": "ゲゲゲの鬼太郎 地獄編",
-        "overview": "The origins of Kitarou.",
-        "popularity": 0.6,
-        "poster_path": null,
-        "first_air_date": "1988-02-08",
-        "name": "Gegege no Kitarou: Jigoku Hen",
-        "vote_average": 10,
-        "vote_count": 1
-      },
-      "type": "tv"
-    }
-  },
-  {
-    "title": "魁!!男塾",
-    "date": "1988-02-25T13:30:00.000Z",
-    "bangumi": {
-      "id": "103157"
-    },
-    "tmdb": {
-      "id": 88796,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/v6plLmAf4qs19qF5J6ZBqger6ct.jpg",
+        "backdrop_path": "/okBpMxsF1UD77xsxymxZ8IDLCMV.jpg",
         "genre_ids": [
           16,
-          10759
+          10749,
+          18,
+          35
         ],
-        "id": 88796,
-        "origin_country": [
-          "JP"
-        ],
+        "id": 301515,
         "original_language": "ja",
-        "original_name": "魁！！男塾",
-        "overview": "故事是以主角剑桃太郎为首的新塾生进入江田岛平八的以斯巴达教育闻名的“男塾”开始，讲述了主角们忍受着教官严格的训练并成长的青春物语。原作为宫下亚喜罗的同名漫画作品，是描绘了类似军队般的校园生活同时也充斥着搞笑情节的人气作品。动画作品和漫画作品一样以战斗为中心来展开男塾生们所参加挑战的试炼活动“大威震八连制霸”。",
-        "popularity": 5.793,
-        "poster_path": "/dPy8BHh6BjI3m5jzOon4ClhilZk.jpg",
-        "first_air_date": "1988-02-25",
-        "name": "搏击之男",
-        "vote_average": 8.4,
-        "vote_count": 5
-      },
-      "type": "tv"
+        "original_title": "めぞん一刻 完結篇",
+        "overview": "《相聚一刻完结篇》于1988年电影化。作画，登场人物设计意图性地成为剧画风格的触摸。虽然打着“完结篇”的旗号，但由于TV动画版中除了五代和八神之间没有明确描绘出五代和八神之间关系的结局以外，还迎来了完整的结局，因此原作和动画中无法触及的、五代和八神之间的关系是如何解决的番外篇、外传性的作品做好了。同时上映的《福星小子完结篇》的话题性更高，本作反而起到了更大的作用。",
+        "popularity": 6.815,
+        "poster_path": "/edSbuDyRTWy5UoH2XdL6ZMptiT3.jpg",
+        "release_date": "1988-11-06",
+        "title": "相聚一刻：完结篇",
+        "video": false,
+        "vote_average": 6.7,
+        "vote_count": 3
+      }
     }
   },
   {
@@ -126,6 +97,35 @@
     }
   },
   {
+    "title": "ゲゲゲの鬼太郎 地獄編",
+    "date": "1988-02-08T16:00:00.000Z",
+    "bangumi": {
+      "id": "211097"
+    },
+    "tmdb": {
+      "id": 223509,
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [],
+        "id": 223509,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "en",
+        "original_name": "ゲゲゲの鬼太郎 地獄編",
+        "overview": "The origins of Kitarou.",
+        "popularity": 0.6,
+        "poster_path": null,
+        "first_air_date": "1988-02-08",
+        "name": "Gegege no Kitarou: Jigoku Hen",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      "type": "tv"
+    }
+  },
+  {
     "title": "装甲騎兵ボトムズ レッドショルダードキュメント 野望のルーツ",
     "date": "1988-02-20T16:00:00.000Z",
     "bangumi": {
@@ -151,6 +151,38 @@
         "video": false,
         "vote_average": 0,
         "vote_count": 0
+      },
+      "type": "tv"
+    }
+  },
+  {
+    "title": "魁!!男塾",
+    "date": "1988-02-25T13:30:00.000Z",
+    "bangumi": {
+      "id": "103157"
+    },
+    "tmdb": {
+      "id": 88796,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/v6plLmAf4qs19qF5J6ZBqger6ct.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "id": 88796,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "魁！！男塾",
+        "overview": "故事是以主角剑桃太郎为首的新塾生进入江田岛平八的以斯巴达教育闻名的“男塾”开始，讲述了主角们忍受着教官严格的训练并成长的青春物语。原作为宫下亚喜罗的同名漫画作品，是描绘了类似军队般的校园生活同时也充斥着搞笑情节的人气作品。动画作品和漫画作品一样以战斗为中心来展开男塾生们所参加挑战的试炼活动“大威震八连制霸”。",
+        "popularity": 5.793,
+        "poster_path": "/dPy8BHh6BjI3m5jzOon4ClhilZk.jpg",
+        "first_air_date": "1988-02-25",
+        "name": "搏击之男",
+        "vote_average": 8.4,
+        "vote_count": 5
       },
       "type": "tv"
     }

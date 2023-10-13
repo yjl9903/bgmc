@@ -1,75 +1,5 @@
 [
   {
-    "title": "真・一騎当千",
-    "date": "2022-05-17T11:30:00.000Z",
-    "bangumi": {
-      "id": "340677"
-    },
-    "tmdb": {
-      "id": 128510,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/6FgDiKhLpnR9kuAlN50ijTvbdqJ.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10759,
-          18,
-          10765
-        ],
-        "id": 128510,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "真・一騎当千",
-        "overview": "【《真·一骑当千》动画化决定】《#一骑当千# 》的续作，《真·一骑当千》宣布2022年动画化决定。\n\n　　《一骑当千》系列曾在2003年被改编为电视动画；第二季《一骑当千Dragon Destiny》于2007年2月播出；第三季《一骑当千Great Guardians》于2008年6月播出；第四季《一骑当千XTREME XECUTOR》于2010年3月播出，此外还有两季OVA",
-        "popularity": 8.17,
-        "poster_path": "/bWfQg245Fx9GEl54N7xzu4dh2ZR.jpg",
-        "first_air_date": "2022-05-17",
-        "name": "真・一骑当千",
-        "vote_average": 6.2,
-        "vote_count": 4
-      },
-      "type": "tv"
-    }
-  },
-  {
-    "title": "ヴァンパイア・イン・ザ・ガーデン",
-    "date": "2022-05-15T16:00:00.000Z",
-    "bangumi": {
-      "id": "277369"
-    },
-    "tmdb": {
-      "id": 99772,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/7Iorh0CtvK85oX96BdP2jXziir5.jpg",
-        "id": 99772,
-        "name": "Vampire in the Garden",
-        "original_language": "ja",
-        "original_name": "ヴァンパイア・イン・ザ・ガーデン",
-        "overview": "寻求吸血鬼和人类一起生活的“乐园”而旅行的少女们的故事。",
-        "poster_path": "/cL7AmuHxCwDCu8d3kX93NTEDhdw.jpg",
-        "media_type": "tv",
-        "genre_ids": [
-          16,
-          18,
-          10765,
-          10759
-        ],
-        "popularity": 13.211,
-        "first_air_date": "2022-05-16",
-        "vote_average": 7.7,
-        "vote_count": 44,
-        "origin_country": [
-          "JP"
-        ]
-      },
-      "type": "tv"
-    }
-  },
-  {
     "title": "バブル",
     "date": "2022-05-12T16:00:00.000Z",
     "bangumi": {
@@ -123,6 +53,76 @@
         "vote_count": 8
       },
       "type": "movie"
+    }
+  },
+  {
+    "title": "ヴァンパイア・イン・ザ・ガーデン",
+    "date": "2022-05-15T16:00:00.000Z",
+    "bangumi": {
+      "id": "277369"
+    },
+    "tmdb": {
+      "id": 99772,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/7Iorh0CtvK85oX96BdP2jXziir5.jpg",
+        "id": 99772,
+        "name": "Vampire in the Garden",
+        "original_language": "ja",
+        "original_name": "ヴァンパイア・イン・ザ・ガーデン",
+        "overview": "寻求吸血鬼和人类一起生活的“乐园”而旅行的少女们的故事。",
+        "poster_path": "/cL7AmuHxCwDCu8d3kX93NTEDhdw.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16,
+          18,
+          10765,
+          10759
+        ],
+        "popularity": 13.211,
+        "first_air_date": "2022-05-16",
+        "vote_average": 7.7,
+        "vote_count": 44,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      "type": "tv"
+    }
+  },
+  {
+    "title": "真・一騎当千",
+    "date": "2022-05-17T11:30:00.000Z",
+    "bangumi": {
+      "id": "340677"
+    },
+    "tmdb": {
+      "id": 128510,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/6FgDiKhLpnR9kuAlN50ijTvbdqJ.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10759,
+          18,
+          10765
+        ],
+        "id": 128510,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "真・一騎当千",
+        "overview": "【《真·一骑当千》动画化决定】《#一骑当千# 》的续作，《真·一骑当千》宣布2022年动画化决定。\n\n　　《一骑当千》系列曾在2003年被改编为电视动画；第二季《一骑当千Dragon Destiny》于2007年2月播出；第三季《一骑当千Great Guardians》于2008年6月播出；第四季《一骑当千XTREME XECUTOR》于2010年3月播出，此外还有两季OVA",
+        "popularity": 8.17,
+        "poster_path": "/bWfQg245Fx9GEl54N7xzu4dh2ZR.jpg",
+        "first_air_date": "2022-05-17",
+        "name": "真・一骑当千",
+        "vote_average": 6.2,
+        "vote_count": 4
+      },
+      "type": "tv"
     }
   }
 ]

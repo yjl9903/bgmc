@@ -1,5 +1,39 @@
 [
   {
+    "title": "超時空世紀オーガス02",
+    "date": "1993-12-04T16:00:00.000Z",
+    "bangumi": {
+      "id": "37173"
+    },
+    "tmdb": {
+      "id": 96740,
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 96740,
+        "name": "超时空世纪02",
+        "original_language": "ja",
+        "original_name": "超時空世紀オーガス02",
+        "overview": "统治异世界两个大国利夫里亚和瑟夫伦围绕着被称为“盔甲”的古代武器的挖掘处于战事一触即发的状态。 利夫里亚的少年精益为了支付亡父的缺债参军并潜入萨夫伦境内。 与迷之美少女娜塔玛一起从边界逃出。 这时在两人面前，乘坐迷之「盔甲」奥古斯II的老人出现了。",
+        "poster_path": "/y6T4e3sqaAkCjFLCdk6ZG3ZMZCq.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16,
+          10765,
+          18
+        ],
+        "popularity": 3.744,
+        "first_air_date": "1993-12-05",
+        "vote_average": 8,
+        "vote_count": 2,
+        "origin_country": [
+          "JP"
+        ]
+      },
+      "type": "tv"
+    }
+  },
+  {
     "title": "劇場版 美少女戦士セーラームーンR",
     "date": "1993-12-05T16:00:00.000Z",
     "bangumi": {
@@ -93,37 +127,36 @@
     }
   },
   {
-    "title": "超時空世紀オーガス02",
-    "date": "1993-12-04T16:00:00.000Z",
+    "title": "ブラック・ジャック OVA",
+    "date": "1993-12-21T16:00:00.000Z",
     "bangumi": {
-      "id": "37173"
+      "id": "52787"
     },
     "tmdb": {
-      "id": 96740,
+      "id": 30083,
+      "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": null,
-        "id": 96740,
-        "name": "超时空世纪02",
+        "backdrop_path": "/7IsJDr77F46fhy1aZT3S5HD2stv.jpg",
+        "id": 30083,
+        "name": "怪医黑杰克OVA",
         "original_language": "ja",
-        "original_name": "超時空世紀オーガス02",
-        "overview": "统治异世界两个大国利夫里亚和瑟夫伦围绕着被称为“盔甲”的古代武器的挖掘处于战事一触即发的状态。 利夫里亚的少年精益为了支付亡父的缺债参军并潜入萨夫伦境内。 与迷之美少女娜塔玛一起从边界逃出。 这时在两人面前，乘坐迷之「盔甲」奥古斯II的老人出现了。",
-        "poster_path": "/y6T4e3sqaAkCjFLCdk6ZG3ZMZCq.jpg",
+        "original_name": "ブラック・ジャック",
+        "overview": "以漫画为基础最早的动画化作品。由十个相对独立故事组成，展现了这个无照外科神医的行医之术以及救人之道。",
+        "poster_path": "/aveuKnsIiDhWVaC1X6qmafiSLUu.jpg",
         "media_type": "tv",
         "genre_ids": [
           16,
-          10765,
           18
         ],
-        "popularity": 3.744,
-        "first_air_date": "1993-12-05",
-        "vote_average": 8,
-        "vote_count": 2,
+        "popularity": 42.612,
+        "first_air_date": "1993-12-12",
+        "vote_average": 7,
+        "vote_count": 9,
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
+      }
     }
   }
 ]

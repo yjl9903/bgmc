@@ -1,33 +1,98 @@
 [
   {
-    "title": "名探偵コナン",
-    "date": "1996-01-08T10:30:00.000Z",
+    "title": "シティーハンタースペシャル ザ・シークレット・サービス",
+    "date": "1996-01-05T16:00:00.000Z",
     "bangumi": {
-      "id": "899"
+      "id": "53940"
     },
     "tmdb": {
-      "id": 30983,
+      "id": 36046,
+      "type": "tv",
+      "season": 0,
       "search": {
         "adult": false,
-        "backdrop_path": "/8nzvbgGM1bDqK3fscy86LyOnDcf.jpg",
+        "backdrop_path": "/saZTZ8t7rgC5OysidZoUCqMVS4o.jpg",
         "genre_ids": [
+          10759,
           16,
-          35,
-          9648
+          35
         ],
-        "id": 30983,
+        "id": 36046,
         "origin_country": [
           "JP"
         ],
         "original_language": "ja",
-        "original_name": "名探偵コナン",
-        "overview": "高中生侦探工藤新一与毛利兰在游乐园游玩时发现两个行动诡异的黑衣男子，便跟踪他们，不料被灌下一种叫「APTX4869」的神秘毒药，然而因为药物副作用，新一的身体竟回到孩童状态。为不使周围的人受到牵连，他化名为「江户川柯南」，寄住在毛利兰家中，用阿笠博士发明的手表型麻醉枪让毛利小五郎睡着，接着用蝴蝶结变声器模仿他的声音来进行推理，解决了许多案件，并一直寻找着黑衣组织的人的下落，希望有朝一日将其绳之以法，并变回原来的样子。",
-        "popularity": 89.302,
-        "poster_path": "/cIlWDLM4x5S90zCNX26jWDoQhFv.jpg",
-        "first_air_date": "1996-01-08",
-        "name": "名侦探柯南",
+        "original_name": "シティーハンター",
+        "overview": "　　该作品以生动幽默的风格塑造了一位身怀绝技而又有自身缺点、可爱又可恨的私人侦探——寒羽良（日文名：冴羽 獠，港译：孟波）的形象。\n\n　　主人公寒羽良是一个好色之徒，同时也是一个技艺超群又温柔体贴的侠士。他与个性开朗的假小子女孩牧村香共同从事着以城市猎人为名的私人侦探事务。委托者只要在新宿车站的留言板上写下“XYZ”的字样，他们就会接受委托，通常情况下，委托者必须是年轻貌美的女性。在一次次艰险的委托任务中，城市猎人以其独有的方式铲除着城市中的罪恶。",
+        "popularity": 93.301,
+        "poster_path": "/9zOHCNEeisH472vp8Y9eVI7WmVK.jpg",
+        "first_air_date": "1987-04-06",
+        "name": "城市猎人",
+        "vote_average": 7.803,
+        "vote_count": 38
+      }
+    }
+  },
+  {
+    "title": "ゲゲゲの鬼太郎",
+    "date": "1996-01-07T16:00:00.000Z",
+    "bangumi": {
+      "id": "53741"
+    },
+    "tmdb": {
+      "id": 37144,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/AuzSIskHzQt5ilv0bHVtuPmNKSo.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10765
+        ],
+        "id": 37144,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ゲゲゲの鬼太郎",
+        "overview": "鬼太郎是日本有“妖怪博士”之称的漫画家水木茂所创造的角色，于1965年开始连载。\n\n这位穿黄黑横纹背心、传统日式木屐的小男孩，以头发、背心和木屐当武器，和一群住在神秘森林里的妖怪朋友们，一起解决妖怪与人类两个世界的许多问题。作为幽灵族最后幸存者的少年“鬼太郎”，施展妖术，和干尽各种坏事的妖怪们作战。",
+        "popularity": 5.162,
+        "poster_path": "/1MAAXcmty5wbdP1mZqZjFcvrUIX.jpg",
+        "first_air_date": "1996-01-07",
+        "name": "咯咯咯的鬼太郎 第四季",
         "vote_average": 8,
-        "vote_count": 614
+        "vote_count": 2
+      },
+      "type": "tv"
+    }
+  },
+  {
+    "title": "バケツでごはん",
+    "date": "1996-01-07T16:00:00.000Z",
+    "bangumi": {
+      "id": "154123"
+    },
+    "tmdb": {
+      "id": 198073,
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
+        "id": 198073,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "バケツでごはん",
+        "overview": "1996年小学馆播放TV动画",
+        "popularity": 1.4,
+        "poster_path": "/zARo1DDYvArOXvWFT0vGGwG1rmK.jpg",
+        "first_air_date": "1996-01-08",
+        "name": "企鹅掌门人",
+        "vote_average": 0,
+        "vote_count": 0
       },
       "type": "tv"
     }
@@ -60,6 +125,39 @@
         "name": "四驱兄弟",
         "vote_average": 7.5,
         "vote_count": 36
+      },
+      "type": "tv"
+    }
+  },
+  {
+    "title": "名探偵コナン",
+    "date": "1996-01-08T10:30:00.000Z",
+    "bangumi": {
+      "id": "899"
+    },
+    "tmdb": {
+      "id": 30983,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/8nzvbgGM1bDqK3fscy86LyOnDcf.jpg",
+        "genre_ids": [
+          16,
+          35,
+          9648
+        ],
+        "id": 30983,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "名探偵コナン",
+        "overview": "高中生侦探工藤新一与毛利兰在游乐园游玩时发现两个行动诡异的黑衣男子，便跟踪他们，不料被灌下一种叫「APTX4869」的神秘毒药，然而因为药物副作用，新一的身体竟回到孩童状态。为不使周围的人受到牵连，他化名为「江户川柯南」，寄住在毛利兰家中，用阿笠博士发明的手表型麻醉枪让毛利小五郎睡着，接着用蝴蝶结变声器模仿他的声音来进行推理，解决了许多案件，并一直寻找着黑衣组织的人的下落，希望有朝一日将其绳之以法，并变回原来的样子。",
+        "popularity": 89.302,
+        "poster_path": "/cIlWDLM4x5S90zCNX26jWDoQhFv.jpg",
+        "first_air_date": "1996-01-08",
+        "name": "名侦探柯南",
+        "vote_average": 8,
+        "vote_count": 614
       },
       "type": "tv"
     }
@@ -128,70 +226,6 @@
         "origin_country": [
           "JP"
         ]
-      },
-      "type": "tv"
-    }
-  },
-  {
-    "title": "ゲゲゲの鬼太郎",
-    "date": "1996-01-07T16:00:00.000Z",
-    "bangumi": {
-      "id": "53741"
-    },
-    "tmdb": {
-      "id": 37144,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/AuzSIskHzQt5ilv0bHVtuPmNKSo.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765
-        ],
-        "id": 37144,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "ゲゲゲの鬼太郎",
-        "overview": "鬼太郎是日本有“妖怪博士”之称的漫画家水木茂所创造的角色，于1965年开始连载。\n\n这位穿黄黑横纹背心、传统日式木屐的小男孩，以头发、背心和木屐当武器，和一群住在神秘森林里的妖怪朋友们，一起解决妖怪与人类两个世界的许多问题。作为幽灵族最后幸存者的少年“鬼太郎”，施展妖术，和干尽各种坏事的妖怪们作战。",
-        "popularity": 5.162,
-        "poster_path": "/1MAAXcmty5wbdP1mZqZjFcvrUIX.jpg",
-        "first_air_date": "1996-01-07",
-        "name": "咯咯咯的鬼太郎 第四季",
-        "vote_average": 8,
-        "vote_count": 2
-      },
-      "type": "tv"
-    }
-  },
-  {
-    "title": "バケツでごはん",
-    "date": "1996-01-07T16:00:00.000Z",
-    "bangumi": {
-      "id": "154123"
-    },
-    "tmdb": {
-      "id": 198073,
-      "search": {
-        "adult": false,
-        "backdrop_path": null,
-        "genre_ids": [
-          16
-        ],
-        "id": 198073,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "バケツでごはん",
-        "overview": "1996年小学馆播放TV动画",
-        "popularity": 1.4,
-        "poster_path": "/zARo1DDYvArOXvWFT0vGGwG1rmK.jpg",
-        "first_air_date": "1996-01-08",
-        "name": "企鹅掌门人",
-        "vote_average": 0,
-        "vote_count": 0
       },
       "type": "tv"
     }

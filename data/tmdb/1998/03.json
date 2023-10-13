@@ -30,39 +30,6 @@
     }
   },
   {
-    "title": "銀河漂流バイファム13",
-    "date": "1998-03-21T16:00:00.000Z",
-    "bangumi": {
-      "id": "37471"
-    },
-    "tmdb": {
-      "id": 28144,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/rrkw8KldFvUWGlAcNRAWy7huTXL.jpg",
-        "genre_ids": [
-          10759,
-          16,
-          10765
-        ],
-        "id": 28144,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "銀河漂流バイファム13",
-        "overview": "银河漂流华尔分13于1998年3月21日开始播放，是银河漂流的第二部，共26集。",
-        "popularity": 2.408,
-        "poster_path": "/oXy3wPmPLPqTdPMWdNcCaeA2v9f.jpg",
-        "first_air_date": "1998-03-22",
-        "name": "银河漂流华尔分13",
-        "vote_average": 10,
-        "vote_count": 1
-      },
-      "type": "tv"
-    }
-  },
-  {
     "title": "REVIVAL OF EVANGELION 新世紀エヴァンゲリオン劇場版 DEATH (TRUE)² / Air / まごころを、君に",
     "date": "1998-03-07T16:00:00.000Z",
     "bangumi": {
@@ -151,6 +118,39 @@
         "vote_count": 54
       },
       "type": "movie"
+    }
+  },
+  {
+    "title": "銀河漂流バイファム13",
+    "date": "1998-03-21T16:00:00.000Z",
+    "bangumi": {
+      "id": "37471"
+    },
+    "tmdb": {
+      "id": 28144,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/rrkw8KldFvUWGlAcNRAWy7huTXL.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          10765
+        ],
+        "id": 28144,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "銀河漂流バイファム13",
+        "overview": "银河漂流华尔分13于1998年3月21日开始播放，是银河漂流的第二部，共26集。",
+        "popularity": 2.408,
+        "poster_path": "/oXy3wPmPLPqTdPMWdNcCaeA2v9f.jpg",
+        "first_air_date": "1998-03-22",
+        "name": "银河漂流华尔分13",
+        "vote_average": 10,
+        "vote_count": 1
+      },
+      "type": "tv"
     }
   }
 ]
