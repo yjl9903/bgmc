@@ -29,6 +29,7 @@ async function downloadSubject(file: string, items: Item[]) {
       const subject = await client.subject(+id);
       bangumis.push({
         title: item.title,
+        date: item.begin,
         bangumi: {
           ...subject,
           relations: await client.subjectRelated(+id)

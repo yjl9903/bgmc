@@ -17,9 +17,9 @@ import { BangumiItem, OfflineBangumi, TMDBDataRoot, type TMDBItem } from './offl
 await fs.ensureDir(TMDBDataRoot);
 
 const client = new TMDBClient({
-  baseURL: 'https://movies-proxy.vercel.app/tmdb/',
   fetch: ufetch,
-  token: ''
+  token:
+    'eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIzMjBjZDIyODM5NjY2NjQ5MGQ0OTAwYTJjNDlkMTc3OCIsInN1YiI6IjY0NmU1MWY4NzFmZmRmMDBlNTIxZjQwZiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Hq1rcsdLYHGI51TFCIc1GLFC8PBGYcflG_sC2DQdGfQ'
 });
 
 const bangumiDB = new OfflineBangumi();
@@ -27,8 +27,8 @@ const bangumiDB = new OfflineBangumi();
 async function main() {
   await bangumiDB.load();
   const files = groupByBegin([...bangumiDB.values()], (bgm) => {
-    if (bgm.bangumi.date) {
-      return new Date(bgm.bangumi.date);
+    if (bgm.date) {
+      return new Date(bgm.date);
     }
     console.log(`Error: the date of ${bgm.title} is empty`);
   });
@@ -63,6 +63,7 @@ async function downloadSubject(file: string, items: BangumiItem[]) {
     if (result.ok) {
       bangumis.push({
         title: item.title,
+        date: item.date,
         bangumi: { id: '' + item.bangumi.id },
         tmdb: {
           id: result.ok.id,
@@ -88,6 +89,7 @@ async function search(bgm: BangumiItem) {
         : item?.type === 'tv'
         ? await client.searchTV({ query, language: 'zh-CN' })
         : await client.searchMulti({ query, language: 'zh-CN' });
+
     if (resp.results.length > 0) {
       const result = inferBangumi(bgm, resp.results);
       all.push(...result.all);
@@ -99,7 +101,7 @@ async function search(bgm: BangumiItem) {
 
   // Check prequel
   if (all.length === 0 && (item?.type === 'tv' || !item)) {
-    const begin = new Date(bgm.bangumi.date!);
+    const begin = new Date(bgm.date);
     const pres = bangumiDB.listPrequel(bgm);
 
     for (const bgm of pres) {
@@ -165,7 +167,7 @@ async function search(bgm: BangumiItem) {
     bgm: BangumiItem,
     result: SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem
   ) {
-    const d1 = new Date(bgm.bangumi.date!);
+    const d1 = new Date(bgm.date);
     // @ts-ignore
     const d2 = new Date(result.first_air_date || result.release_date);
     // Onair date should be less than 7 days

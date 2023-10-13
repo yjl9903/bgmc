@@ -18,6 +18,8 @@ export const TMDBDataRoot = path.join(DataRoot, 'tmdb');
 export interface TMDBItem {
   title: string;
 
+  date: string;
+
   bangumi: {
     id: string;
   };
@@ -33,6 +35,8 @@ export interface TMDBItem {
 
 export interface BangumiItem {
   title: string;
+
+  date: string;
 
   bangumi: SubjectInformation & { relations: RelatedSubject[] };
 }
