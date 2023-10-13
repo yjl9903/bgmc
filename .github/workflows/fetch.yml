@@ -25,9 +25,6 @@ jobs:
           node-version: 20.x
           cache: pnpm
 
-      - name: Checkout
-        run: |
-
       - name: Install and build
         run: |
           pnpm install
