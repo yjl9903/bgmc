@@ -2,6 +2,7 @@ import fs from 'fs-extra';
 import path from 'node:path';
 
 import { breadc } from 'breadc';
+import { rimraf } from 'rimraf';
 import {
   TMDBClient,
   type SearchResultItem,
@@ -279,9 +280,16 @@ async function search(bgm: BangumiItem) {
 
 const cli = breadc('tmdb');
 
-cli.command('').action(async (options) => {
-  await main();
-});
+cli
+  .command('')
+  .option('--overwrite')
+  .action(async (options) => {
+    if (options.overwrite) {
+      await rimraf(TMDBDataRoot).catch(() => {});
+    }
+
+    await main();
+  });
 
 cli.command('search <keyword>').action(async (keyword, options) => {});
 
