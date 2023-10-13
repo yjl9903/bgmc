@@ -29,9 +29,10 @@ jobs:
 
       - name: Fetch TMDB
         run: |
+          rimraf data/tmdb
           npx tsx packages/bgmd/scripts/tmdb.ts | tee run.log
-          grep "^Info:"  run.log >> data/tmdb-info.log
-          grep "^Error:" run.log >  data/tmdb-error.log
+          grep "^Info:"  run.log > data/tmdb-info.log
+          grep "^Error:" run.log > data/tmdb-error.log
 
       - name: Create Pull Request
         run: |

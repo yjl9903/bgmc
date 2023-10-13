@@ -20,6 +20,9 @@ importers:
       release-it:
         specifier: ^16.2.1
         version: 16.2.1(typescript@5.2.2)
+      rimraf:
+        specifier: ^5.0.5
+        version: 5.0.5
       tsx:
         specifier: ^3.13.0
         version: 3.13.0
