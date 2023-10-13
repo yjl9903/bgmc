@@ -88,7 +88,6 @@ async function downloadSubject(file: string, items: BangumiItem[]) {
     JSON.stringify(
       bangumis.map((bgm) => {
         if (bgm.tmdb.search) {
-          Reflect.deleteProperty(bgm.tmdb.search, 'genre_ids');
           Reflect.deleteProperty(bgm.tmdb.search, 'popularity');
           Reflect.deleteProperty(bgm.tmdb.search, 'vote_average');
           Reflect.deleteProperty(bgm.tmdb.search, 'vote_count');
@@ -173,18 +172,27 @@ async function search(bgm: BangumiItem) {
             }
           }
         }
-        all.push(...filtered.map((f) => f.ok));
+      }
+    }
+
+    // Prefer use anime (genre_id: 16) than real drama
+    if (filtered.length > 1) {
+      const anime = filtered.filter((f) => f.ok.genre_ids.includes(16));
+      if (1 <= anime.length && anime.length < filtered.length) {
+        filtered.splice(0, filtered.length, ...anime);
       }
     }
 
     // Normal season and special episode (season 0) overlapped, prefer using normal season item
     if (filtered.length > 1) {
       const season = filtered.filter((f) => !!f.season);
-      if (season.length === 1) {
+      if (1 <= season.length && season.length < filtered.length) {
         filtered.splice(0, filtered.length, ...season);
       }
     }
 
+    // Collect the only result
+    all.push(...filtered.map((f) => f.ok));
     if (filtered.length === 1) {
       const result = filtered[0];
 

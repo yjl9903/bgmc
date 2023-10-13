@@ -35,7 +35,7 @@ export interface TMDBItem {
 
     search: Omit<
       SearchTVResultItem | SearchMovieResultItem | SearchMultiResultItem,
-      'genre_ids' | 'popularity' | 'vote_average' | 'vote_count'
+      'popularity' | 'vote_average' | 'vote_count'
     >;
   };
 }
