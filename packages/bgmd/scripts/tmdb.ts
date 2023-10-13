@@ -107,12 +107,17 @@ async function search(bgm: BangumiItem) {
   const names = new Set([bgm.title, ...Object.values(item?.titleTranslate ?? {}).flat()]);
 
   for (const query of names) {
-    const resp =
+    let resp =
       item?.type === 'movie'
         ? await client.searchMovie({ query, language: Language })
         : item?.type === 'tv'
         ? await client.searchTV({ query, language: Language })
         : await client.searchMulti({ query, language: Language });
+
+    // Fallback to multi search
+    if (resp.results.length === 0) {
+      resp = await client.searchMulti({ query, language: Language });
+    }
 
     if (resp.results.length > 0) {
       const result = inferBangumi(bgm, resp.results);
