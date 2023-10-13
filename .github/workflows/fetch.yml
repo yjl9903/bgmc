@@ -36,6 +36,14 @@ jobs:
           grep "^Info:"  run.log > data/tmdb-info.log
           grep "^Error:" run.log > data/tmdb-error.log
 
+      - name: Upload
+        uses: actions/upload-artifact@v3
+        with:
+          name: data
+          path: |
+            data/tmdb/
+            data/tmdb-*.log
+
       - name: Create Pull Request
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
