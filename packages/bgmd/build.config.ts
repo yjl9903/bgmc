@@ -1,7 +1,7 @@
 import { defineBuildConfig } from 'unbuild';
 
 export default defineBuildConfig({
-  entries: ['src/transform'],
+  entries: ['src/transform', 'src/types'],
   clean: false,
   declaration: true,
   rollup: {

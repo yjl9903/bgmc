@@ -28,6 +28,11 @@
       "require": "./dist/transform.cjs",
       "import": "./dist/transform.mjs",
       "types": "./dist/transform.d.ts"
+    },
+    "./types": {
+      "require": "./dist/types.cjs",
+      "import": "./dist/types.mjs",
+      "types": "./dist/types.d.ts"
     }
   },
   "main": "dist/data.json",
