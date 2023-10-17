@@ -1,19 +1,27 @@
 import fs from 'fs-extra';
 import path from 'node:path';
 
-import { items } from 'bangumi-data';
 import { rimraf } from 'rimraf';
 
 import { transform } from '../src/transform';
 
-const outDir = './dist';
+import { OfflineBangumi, OfflineTMDB } from './offline';
+
+const outDir = './data';
+
+const tmdbDB = new OfflineTMDB();
+const bangumiDB = new OfflineBangumi();
 
 await clearOutDir(outDir);
 
-await build(path.join(outDir, 'data.json'));
+await build(path.join(outDir, 'full.json'));
 
 async function build(output: string) {
-  const bangumis = items.map(transform);
+  await bangumiDB.load();
+  await tmdbDB.load();
+  const bangumis = [...bangumiDB.values()].map((bgm) =>
+    transform(bgm.bangumi, { data: bangumiDB.getItem(bgm), tmdb: tmdbDB.getById(bgm.bangumi.id) })
+  );
   await fs.writeFile(output, JSON.stringify({ bangumis }));
 }
 

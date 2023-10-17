@@ -1,3 +1,3 @@
-import type { Item } from 'bangumi-data';
+import type { FullBangumi } from './dist/types';
 
-export const bangumis: Item[];
+export const bangumis: FullBangumi[];

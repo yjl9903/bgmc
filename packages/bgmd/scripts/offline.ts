@@ -150,3 +150,60 @@ export class OfflineBangumi {
     }
   }
 }
+
+export class OfflineTMDB {
+  private readonly root: string;
+
+  private readonly map: Map<number, TMDBItem> = new Map();
+
+  private readonly data: Map<number, Item> = new Map();
+
+  public constructor() {
+    this.root = TMDBDataRoot;
+    for (const item of items) {
+      const bgm = item.sites.find((site) => site.site === 'bangumi');
+      if (bgm) {
+        this.data.set(+bgm.id, item);
+      }
+    }
+  }
+
+  public async load() {
+    const dirs = await fs.readdir(this.root);
+    await Promise.all(
+      dirs.map(async (dir) => {
+        const files = await fs.readdir(path.join(this.root, dir));
+        await Promise.all(
+          files.map(async (file) => {
+            const content = JSON.parse(
+              await fs.readFile(path.join(this.root, dir, file), 'utf-8')
+            ) as TMDBItem[];
+            for (const item of content) {
+              this.map.set(+item.bangumi.id, item);
+            }
+          })
+        );
+      })
+    );
+  }
+
+  public entries() {
+    return this.map.entries();
+  }
+
+  public keys() {
+    return this.map.keys();
+  }
+
+  public values() {
+    return this.map.values();
+  }
+
+  public [Symbol.iterator]() {
+    return this.entries();
+  }
+
+  public getById(id: number | string) {
+    return this.map.get(+id);
+  }
+}

@@ -20,8 +20,13 @@
   "type": "module",
   "exports": {
     ".": {
-      "require": "./dist/data.json",
-      "import": "./dist/data.json",
+      "require": "./data/full.json",
+      "import": "./data/full.json",
+      "types": "./index.d.ts"
+    },
+    "./full": {
+      "require": "./data/full.json",
+      "import": "./data/full.json",
       "types": "./index.d.ts"
     },
     "./transform": {
@@ -35,11 +40,12 @@
       "types": "./dist/types.d.ts"
     }
   },
-  "main": "dist/data.json",
-  "module": "dist/data.json",
+  "main": "data/full.json",
+  "module": "data/full.json",
   "types": "index.d.ts",
   "files": [
     "dist",
+    "data",
     "*.d.ts"
   ],
   "scripts": {
@@ -65,10 +71,14 @@
     "vitest": "^0.34.6"
   },
   "peerDependencies": {
-    "bangumi-data": ">=0.3.124"
+    "bangumi-data": ">=0.3.124",
+    "bgmc": "workspace:*"
   },
   "peerDependenciesMeta": {
     "bangumi-data": {
+      "optional": true
+    },
+    "bgmc": {
       "optional": true
     }
   },
