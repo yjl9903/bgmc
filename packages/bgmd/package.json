@@ -57,6 +57,9 @@
     "test:ci": "vitest --run",
     "typecheck": "tsc --noEmit"
   },
+  "dependencies": {
+    "type-fest": "^4.4.0"
+  },
   "devDependencies": {
     "@onekuma/map": "^0.1.10",
     "@types/fs-extra": "^11.0.2",
@@ -72,13 +75,17 @@
   },
   "peerDependencies": {
     "bangumi-data": ">=0.3.124",
-    "bgmc": "workspace:*"
+    "bgmc": "workspace:*",
+    "tmdbc": "workspace:*"
   },
   "peerDependenciesMeta": {
     "bangumi-data": {
       "optional": true
     },
     "bgmc": {
+      "optional": true
+    },
+    "tmdbc": {
       "optional": true
     }
   },
@@ -94,9 +101,5 @@
     "npm": {
       "publish": true
     }
-  },
-  "dependencies": {
-    "ts-essentials": "^9.4.1",
-    "type-fest": "^4.4.0"
   }
 }
