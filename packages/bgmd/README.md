@@ -12,7 +12,8 @@ npm i bgmd
 ## Usage
 
 ```ts
-import { bangumis } from 'bgmd/full'
+import { bangumis as AllBangumis } from 'bgmd/full'
+import { bangumis as CalendarBangumis } from 'bgmd/calendar'
 
 // ...
 ```

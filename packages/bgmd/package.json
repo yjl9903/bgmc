@@ -94,5 +94,9 @@
     "npm": {
       "publish": true
     }
+  },
+  "dependencies": {
+    "ts-essentials": "^9.4.1",
+    "type-fest": "^4.4.0"
   }
 }
