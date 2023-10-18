@@ -69,13 +69,13 @@ jobs:
           npx tsx packages/bgmd/scripts/bangumi.ts --overwrite=${{ inputs.overwrite }} | tee run.log
           grep "^Error:" run.log > data/bangumi-error.log || true
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: bangumi-data
-          path: |
-            data/bangumi/
-            data/bangumi-*.log
+      # - name: Upload artifact
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: bangumi-data
+      #     path: |
+      #       data/bangumi/
+      #       data/bangumi-*.log
 
       - name: Push changes
         run: |
@@ -133,13 +133,13 @@ jobs:
             grep "^Error:" run.log >  data/tmdb-error.log || true
           fi
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: tmdb-data
-          path: |
-            data/tmdb/
-            data/tmdb-*.log
+      # - name: Upload artifact
+      #   uses: actions/upload-artifact@v3
+      #   with:
+      #     name: tmdb-data
+      #     path: |
+      #       data/tmdb/
+      #       data/tmdb-*.log
 
       - name: Push changes
         env:
