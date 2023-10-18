@@ -53,12 +53,16 @@ async function main(options: Options = { overwrite: true }) {
 
     for (let i = begin; i < bgms.length; i++) {
       const bgm = bgms[i];
-      for (const r of bgm.bangumi.relations) {
-        if (BangumiRelations.includes(r.relation)) {
-          if (!ids.has(r.id)) {
-            newTaskIds.push(r.id);
+      try {
+        for (const r of bgm.bangumi.relations) {
+          if (BangumiRelations.includes(r.relation)) {
+            if (!ids.has(r.id)) {
+              newTaskIds.push(r.id);
+            }
           }
         }
+      } catch (error) {
+        console.log(`Error: fetch ${bgm.title} (id: ${bgm.bangumi.id}) failed`);
       }
     }
 

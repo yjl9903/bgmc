@@ -2,6 +2,12 @@ name: Fetch
 
 on:
   workflow_dispatch:
+    inputs:
+      overwrite:
+        description: 'Overwrite the old data'
+        type: boolean
+        default: false
+        required: true
 
 jobs:
   prepare:
@@ -109,7 +115,7 @@ jobs:
 
       - name: Fetch TMDB
         run: |
-          npx tsx packages/bgmd/scripts/tmdb.ts --overwrite | tee run.log
+          npx tsx packages/bgmd/scripts/tmdb.ts | tee run.log
           grep "^Info:"  run.log > data/tmdb-info.log
           grep "^Error:" run.log > data/tmdb-error.log
 
