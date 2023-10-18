@@ -37,7 +37,7 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
   const full: FullBangumi = {
     id: +bgm.id,
     name,
-    alias: [...alias],
+    alias: [...alias].sort(),
     summary: bgm.summary,
     type: extra.data?.type ?? 'tv',
     air_date: bgm.date ?? extra.data?.begin ?? '',
