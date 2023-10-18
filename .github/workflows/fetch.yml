@@ -67,7 +67,7 @@ jobs:
       - name: Fetch Bangumi
         run: |
           npx tsx packages/bgmd/scripts/bangumi.ts --overwrite=${{ inputs.overwrite }} | tee run.log
-          grep "^Error:" run.log > data/bangumi-error.log
+          grep "^Error:" run.log > data/bangumi-error.log || true
 
       - name: Upload artifact
         uses: actions/upload-artifact@v3
@@ -125,8 +125,13 @@ jobs:
       - name: Fetch TMDB
         run: |
           npx tsx packages/bgmd/scripts/tmdb.ts --overwrite=${{ inputs.overwrite }} | tee run.log
-          grep "^Info:"  run.log > data/tmdb-info.log
-          grep "^Error:" run.log > data/tmdb-error.log
+          if [ "${{ inputs.overwrite }}" = true ] ; then
+            grep "^Info:"  run.log >  data/tmdb-info.log  || true
+            grep "^Error:" run.log >  data/tmdb-error.log || true
+          else
+            grep "^Info:"  run.log >> data/tmdb-info.log  || true
+            grep "^Error:" run.log >  data/tmdb-error.log || true
+          fi
 
       - name: Upload artifact
         uses: actions/upload-artifact@v3
