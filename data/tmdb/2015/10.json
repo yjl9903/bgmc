@@ -720,7 +720,8 @@
         "adult": false,
         "backdrop_path": "/zotzm1IzazadBQOSocTQ8Ta1bCb.jpg",
         "genre_ids": [
-          16
+          16,
+          10759
         ],
         "id": 60863,
         "origin_country": [
@@ -1113,6 +1114,36 @@
         "poster_path": "/IA0nSV6uvzlQxFHK2ynALqE22s.jpg",
         "first_air_date": "2011-07-05",
         "name": "摇曳百合"
+      }
+    }
+  },
+  {
+    "title": "北斗の拳 イチゴ味",
+    "date": "2015-10-06",
+    "bangumi": {
+      "id": "137436"
+    },
+    "tmdb": {
+      "id": 130728,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/pk6KucyhLpvGnyd3Lkp7tNx9Y2b.jpg",
+        "id": 130728,
+        "name": "DD Fist of the North Star",
+        "original_language": "ja",
+        "original_name": "DD北斗の拳",
+        "overview": "",
+        "poster_path": "/8Lv6YKpP12AUalXkBzJb7Mg2sRd.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "first_air_date": "2013-04-03",
+        "origin_country": [
+          "JP"
+        ]
       }
     }
   },
