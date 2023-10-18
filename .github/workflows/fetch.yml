@@ -178,7 +178,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: ${{ needs.prepare.outputs.branch }}
           fetch-depth: 0
 
       - name: Create Pull Request
@@ -192,7 +191,7 @@ jobs:
             echo "$pr_list" | awk '{print $1}' | xargs gh pr close -d
           fi
 
-          if [[ $(git rev-list --count main..HEAD) -gt 0 ]]; then
+          if [[ $(git rev-list --count main..${{ needs.prepare.outputs.branch }}) -gt 0 ]]; then
             gh pr create \
               --title "feat(bgmd): update data at $DATE" \
               --body  "Update data" \
