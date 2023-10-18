@@ -82,7 +82,7 @@ jobs:
           TIMESTAMP=$(date +"%Y-%m-%d %T")
           BRANCH=${{ needs.prepare.outputs.branch }}
 
-          if [ -n $(git status -s) ]; then
+          if [[ -n $(git status -s) ]]; then
             git config user.email "actions@github.com"
             git config user.name "GitHub Actions"
 
@@ -143,7 +143,7 @@ jobs:
           TIMESTAMP=$(date +"%Y-%m-%d %T")
           BRANCH=${{ needs.prepare.outputs.branch }}
 
-          if [ -n $(git status -s) ]; then
+          if [[ -n $(git status -s) ]]; then
             git config user.email "actions@github.com"
             git config user.name "GitHub Actions"
 
