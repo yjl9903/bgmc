@@ -9,6 +9,8 @@
 npm i bgmd
 ```
 
+You can also just use the cdn `https://unpkg.com/bgmd@0`, `https://unpkg.com/bgmd@0/data/full.json`, or `https://unpkg.com/bgmd@0/data/calendar.json` to get the latest data.
+
 ## Usage
 
 ```ts
