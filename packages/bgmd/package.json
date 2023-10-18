@@ -84,7 +84,7 @@
   "release-it": {
     "git": {
       "commitMessage": "chore(bgmd): release v${version}",
-      "tag": false,
+      "tag": true,
       "push": true
     },
     "npm": {
