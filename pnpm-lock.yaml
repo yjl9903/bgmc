@@ -45,8 +45,8 @@ importers:
   packages/bgmc:
     dependencies:
       breadc:
-        specifier: ^0.9.6
-        version: 0.9.6
+        specifier: ^0.9.7
+        version: 0.9.7
     devDependencies:
       bgm-types:
         specifier: ^3.1.1
@@ -77,8 +77,8 @@ importers:
         specifier: ^11.0.2
         version: 11.0.2
       breadc:
-        specifier: ^0.9.6
-        version: 0.9.6
+        specifier: ^0.9.7
+        version: 0.9.7
       fastest-levenshtein:
         specifier: ^1.0.16
         version: 1.0.16
@@ -98,8 +98,8 @@ importers:
   packages/tmdbc:
     dependencies:
       breadc:
-        specifier: ^0.9.6
-        version: 0.9.6
+        specifier: ^0.9.7
+        version: 0.9.7
     devDependencies:
       vitest:
         specifier: ^0.34.6
@@ -312,8 +312,8 @@ packages:
       to-fast-properties: 2.0.0
     dev: true
 
-  /@breadc/color@0.9.6:
-    resolution: {integrity: sha512-a2/ANjnrg7zGw+RF4GLQMCw/umI+T8us79Qha/l9NdEUzqEEk+STZHCA9fYjLsnBh7jfDGaW72a7HkmSIr3h4Q==}
+  /@breadc/color@0.9.7:
+    resolution: {integrity: sha512-kO795IASRzZrlr4XOkyAS11MLeJOmKDVFSuetsim5VLrUPaFz+R01c1uYB4ggxIPaveRSIOfVEoPLwF+9dZm9g==}
 
   /@esbuild/android-arm64@0.18.20:
     resolution: {integrity: sha512-Nz4rJcchGDtENV0eMKUNa6L12zz2zBDXuhj/Vjh18zGqB44Bi7MBMSXjgunJgjRhCmKOjnPuZp4Mb6OKqtMHLQ==}
@@ -1399,10 +1399,10 @@ packages:
       fill-range: 7.0.1
     dev: true
 
-  /breadc@0.9.6:
-    resolution: {integrity: sha512-EEpIMOXHneAc3+65keu9sugIIEfOeFYaVVbgMlf581bb2Gr3Ib7QajLTtL1a3rnmzR4hBEgr8WdpDuJIdaRQDQ==}
+  /breadc@0.9.7:
+    resolution: {integrity: sha512-0eJNb27GKlGPlMJfmBZ0D+dEENwj+QDkSWlH+2bW2g3OWs00mCGh6Me1+yDhLbZyqS7pnSLPgx7AigHDzIKoug==}
     dependencies:
-      '@breadc/color': 0.9.6
+      '@breadc/color': 0.9.7
 
   /browserslist@4.22.1:
     resolution: {integrity: sha512-FEVc202+2iuClEhZhrWy6ZiAcRLvNMyYcxZ8raemul1DYVOVdFsbqckWLdsixQZCpJlwe77Z3UTalE7jsjnKfQ==}
