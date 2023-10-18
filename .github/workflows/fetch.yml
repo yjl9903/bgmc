@@ -168,6 +168,8 @@ jobs:
           ref: ${{ needs.prepare.outputs.branch }}
 
       - name: Create Pull Request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           DATE=$(date +"%Y-%m-%d")
 
