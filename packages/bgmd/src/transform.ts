@@ -7,8 +7,8 @@ import type { FullBangumi } from './types';
 
 export interface TransformOptions {
   omit?: (
-    | `tmdb.${keyof FullBangumi['tmdb']}`
-    | `bangumi.${keyof FullBangumi['bangumi']}`
+    | `tmdb.${keyof Required<FullBangumi>['tmdb']}`
+    | `bangumi.${keyof Required<FullBangumi>['bangumi']}`
     | keyof FullBangumi
   )[];
 
