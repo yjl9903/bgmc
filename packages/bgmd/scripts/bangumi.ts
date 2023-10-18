@@ -45,9 +45,13 @@ async function main(options: Options = { overwrite: true }) {
 
     for (const bgmId of taskIds) {
       ids.add(bgmId);
-      const bgm = await fetchSubject(bgmId, options);
-      if (bgm) {
-        bgms.push(bgm);
+      try {
+        const bgm = await fetchSubject(bgmId, options);
+        if (bgm) {
+          bgms.push(bgm);
+        }
+      } catch (error) {
+        console.log(`Error: fetch ${bgmId} failed`);
       }
     }
 
@@ -62,7 +66,7 @@ async function main(options: Options = { overwrite: true }) {
           }
         }
       } catch (error) {
-        console.log(`Error: fetch ${bgm.title} (id: ${bgm.bangumi.id}) failed`);
+        console.log(`Error: infer relations of ${bgm.title} (id: ${bgm.bangumi.id}) failed`);
       }
     }
 
