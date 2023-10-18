@@ -20,14 +20,14 @@
   "type": "module",
   "exports": {
     ".": {
-      "require": "./data/full.json",
-      "import": "./data/full.json",
+      "require": "./data/index.json",
+      "import": "./data/index.json",
       "types": "./index.d.ts"
     },
     "./full": {
       "require": "./data/full.json",
       "import": "./data/full.json",
-      "types": "./index.d.ts"
+      "types": "./full.d.ts"
     },
     "./transform": {
       "require": "./dist/transform.cjs",
@@ -40,8 +40,8 @@
       "types": "./dist/types.d.ts"
     }
   },
-  "main": "data/full.json",
-  "module": "data/full.json",
+  "main": "data/index.json",
+  "module": "data/index.json",
   "types": "index.d.ts",
   "files": [
     "dist",

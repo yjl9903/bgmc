@@ -4,8 +4,12 @@ import type { PartialDeep } from 'type-fest';
 
 import type { FullBangumi } from './types';
 
-interface TransformOptions<T extends PartialDeep<FullBangumi>> {
-  omit?: {};
+interface TransformOptions {
+  omit?: (
+    | keyof FullBangumi
+    | `bangumi.${keyof FullBangumi['bangumi']}`
+    | `tmdb.${keyof FullBangumi['tmdb']}`
+  )[];
 
   filter?: {};
 }
@@ -15,14 +19,30 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
     tags: string[] | Array<{ name: string; count: number }>;
   },
   extra: { data?: Item; tmdb?: {} } = {},
-  options: TransformOptions<T> = {}
+  options: TransformOptions = {}
 ): T {
-  return {
+  const full: FullBangumi = {
     id: +bgm.id,
     name: bgm.name,
     alias: [] as string[],
     summary: bgm.summary,
     type: extra.data?.type ?? 'tv',
     air_date: bgm.date ?? extra.data?.begin ?? ''
-  } as T;
+  };
+
+  for (const o of options.omit ?? []) {
+    if (o.startsWith('bangumi.')) {
+      if (full.bangumi) {
+        Reflect.deleteProperty(full.bangumi, o.slice('bangumi.'.length));
+      }
+    } else if (o.startsWith('tmdb.')) {
+      if (full.tmdb) {
+        Reflect.deleteProperty(full.tmdb, o.slice('tmdb.'.length));
+      }
+    } else {
+      Reflect.deleteProperty(full, o);
+    }
+  }
+
+  return full as T;
 }
