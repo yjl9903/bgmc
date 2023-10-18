@@ -22,15 +22,22 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
   extra: { data?: Item; tmdb?: FullBangumi['tmdb'] } = {},
   options: TransformOptions = {}
 ): T {
-  const alias = [
+  const name = bgm.name;
+
+  const alias = new Set([
     ...getSubjectAlias(bgm),
     ...Object.values(extra?.data?.titleTranslate ?? {}).flat()
-  ];
+  ]);
+  if (extra.tmdb) {
+    alias.add(extra.tmdb.name);
+    alias.add(extra.tmdb.original_name);
+  }
+  alias.delete(name);
 
   const full: FullBangumi = {
     id: +bgm.id,
-    name: bgm.name,
-    alias: [...new Set(alias)],
+    name,
+    alias: [...alias],
     summary: bgm.summary,
     type: extra.data?.type ?? 'tv',
     air_date: bgm.date ?? extra.data?.begin ?? '',
