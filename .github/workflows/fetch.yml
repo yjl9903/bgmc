@@ -33,7 +33,7 @@ jobs:
         run: |
           BRANCH=fetch-data/$(date +"%Y-%m-%d")
 
-          git checkout -b $BRANCH
+          git checkout -B $BRANCH
           git push -u -f origin $BRANCH
 
           echo "branch=$BRANCH" >> $GITHUB_OUTPUT
