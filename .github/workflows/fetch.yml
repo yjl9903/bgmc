@@ -24,7 +24,7 @@ jobs:
           BRANCH=fetch-data/$(date +"%Y-%m-%d")
 
           git checkout -b $BRANCH
-          git push -u origin $BRANCH
+          git push -u -f origin $BRANCH
 
           echo "branch=$BRANCH" >> $GITHUB_OUTPUT
 
@@ -58,7 +58,7 @@ jobs:
           pnpm install
           pnpm build
 
-      - name: Fetch TMDB
+      - name: Fetch Bangumi
         run: |
           npx tsx packages/bgmd/scripts/bangumi.ts | tee run.log
           grep "^Info:"  run.log > data/bangumi-info.log
@@ -156,7 +156,10 @@ jobs:
 
       - name: Create Pull Request
         run: |
+          DATE=$(date +"%Y-%m-%d")
+
           gh pr create \
-            --title "feat(bgmd): update data" \
+            --title "feat(bgmd): update data at $DATE" \
             --body  "Update data" \
-            --head  "${{ needs.prepare.outputs.branch }}"
+            --head  "${{ needs.prepare.outputs.branch }}" \
+            --label "data"
