@@ -177,6 +177,8 @@ jobs:
         run: |
           DATE=$(date +"%Y-%m-%d")
 
+          gh pr list --label=data | awk '{print $1}' | xargs gh pr close -d
+
           if [[ $(git rev-list --count main..HEAD) -gt 0 ]]; then
             gh pr create \
               --title "feat(bgmd): update data at $DATE" \
