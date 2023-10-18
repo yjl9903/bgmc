@@ -535,6 +535,33 @@
     }
   },
   {
+    "title": "THE NEXT GENERATION パトレイバー",
+    "date": "2014-04-05",
+    "bangumi": {
+      "id": "81170"
+    },
+    "tmdb": {
+      "id": 1078976,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": null,
+        "id": 1078976,
+        "title": "THE NEXT GENERATION パトレイバー 第1章",
+        "original_language": "ja",
+        "original_title": "THE NEXT GENERATION パトレイバー 第1章",
+        "overview": "",
+        "poster_path": "/wb5xyPDk9QiUdINKw1RVGkordGr.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          18
+        ],
+        "release_date": "2014-04-05",
+        "video": false
+      }
+    }
+  },
+  {
     "title": "プリティーリズム・オールスターセレクション",
     "date": "2014-04-05T01:00:00.000Z",
     "bangumi": {
@@ -996,7 +1023,8 @@
         "adult": false,
         "backdrop_path": "/zotzm1IzazadBQOSocTQ8Ta1bCb.jpg",
         "genre_ids": [
-          16
+          16,
+          10759
         ],
         "id": 60863,
         "origin_country": [
@@ -1865,6 +1893,35 @@
         "poster_path": "/14GDH4WEXa6tmwxea10pxZl4eoH.jpg",
         "first_air_date": "2014-04-22",
         "name": "M3：黑钢"
+      }
+    }
+  },
+  {
+    "title": "ワールドフールニュース",
+    "date": "2014-04-24T16:00:00.000Z",
+    "bangumi": {
+      "id": "121818"
+    },
+    "tmdb": {
+      "id": 77239,
+      "type": "tv",
+      "season": 1,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/sJvUgCK6ysvAqEYp0SnfiM1k9lZ.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 77239,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ワールド フールニュース",
+        "overview": "",
+        "poster_path": "/ga1p3vcvpplU2DAvL7eAksApoUq.jpg",
+        "first_air_date": "2014-04-17",
+        "name": "World Fool News"
       }
     }
   },
