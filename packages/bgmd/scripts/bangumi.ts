@@ -27,15 +27,20 @@ async function downloadSubject(file: string, items: Item[]) {
     if (bgm) {
       const id = bgm.id;
       const subject = await client.subject(+id);
-      bangumis.push({
-        title: item.title,
-        date: item.begin,
-        bangumi: {
-          ...subject,
-          tags: subject.tags.map((t) => t.name),
-          relations: await client.subjectRelated(+id)
-        }
-      });
+
+      if (subject) {
+        bangumis.push({
+          title: item.title,
+          date: item.begin,
+          bangumi: {
+            ...subject,
+            tags: subject.tags?.map((t) => t.name) ?? [],
+            relations: await client.subjectRelated(+id)
+          }
+        });
+      } else {
+        console.log(`Error: fetch bangumi ${id} failed`);
+      }
     } else {
       console.log(`Error: There is no bangumi id for ${item.title}`);
     }
