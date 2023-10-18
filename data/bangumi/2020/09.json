@@ -1,25 +1,5 @@
 [
   {
-    "title": "オオカミさんは食べられたい",
-    "date": "2020-09-06T16:00:00.000Z",
-    "bangumi": {
-      "title": "Not Found",
-      "details": {
-        "path": "/v0/subjects/312982",
-        "method": "GET"
-      },
-      "description": "resource can't be found in the database or has been removed",
-      "relations": {
-        "title": "Not Found",
-        "details": {
-          "path": "/v0/subjects/312982/subjects",
-          "method": "GET"
-        },
-        "description": "resource can't be found in the database or has been removed"
-      }
-    }
-  },
-  {
     "title": "ふしぎ駄菓子屋 銭天堂",
     "date": "2020-09-08T09:45:00.000Z",
     "bangumi": {
@@ -36,34 +16,13 @@
       "name": "ふしぎ駄菓子屋 銭天堂",
       "name_cn": "神奇柑仔店",
       "tags": [
-        {
-          "name": "泡面番",
-          "count": 3
-        },
-        {
-          "name": "富岡聡",
-          "count": 1
-        },
-        {
-          "name": "2020",
-          "count": 1
-        },
-        {
-          "name": "KanabanGraphics",
-          "count": 1
-        },
-        {
-          "name": "小林雄次",
-          "count": 1
-        },
-        {
-          "name": "东映动画",
-          "count": 1
-        },
-        {
-          "name": "日本动画",
-          "count": 1
-        }
+        "泡面番",
+        "富岡聡",
+        "2020",
+        "KanabanGraphics",
+        "小林雄次",
+        "东映动画",
+        "日本动画"
       ],
       "infobox": [
         {
@@ -123,31 +82,7 @@
           "value": "関厚人"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 1,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0,
-          "6": 0,
-          "7": 1,
-          "8": 0,
-          "9": 0,
-          "10": 0
-        },
-        "score": 7
-      },
       "total_episodes": 72,
-      "collection": {
-        "on_hold": 2,
-        "dropped": 8,
-        "wish": 14,
-        "collect": 2,
-        "doing": 3
-      },
       "id": 315772,
       "eps": 82,
       "volumes": 0,
@@ -189,126 +124,36 @@
       "name": "魔道祖师",
       "name_cn": "魔道祖师 前尘篇",
       "tags": [
-        {
-          "name": "国产",
-          "count": 163
-        },
-        {
-          "name": "耽美",
-          "count": 79
-        },
-        {
-          "name": "小说改",
-          "count": 70
-        },
-        {
-          "name": "2018年7月",
-          "count": 58
-        },
-        {
-          "name": "视美",
-          "count": 46
-        },
-        {
-          "name": "2018",
-          "count": 38
-        },
-        {
-          "name": "BL",
-          "count": 34
-        },
-        {
-          "name": "TV",
-          "count": 31
-        },
-        {
-          "name": "国漫",
-          "count": 23
-        },
-        {
-          "name": "视美动画",
-          "count": 21
-        },
-        {
-          "name": "国产动画",
-          "count": 20
-        },
-        {
-          "name": "中国",
-          "count": 17
-        },
-        {
-          "name": "WEB",
-          "count": 15
-        },
-        {
-          "name": "边江",
-          "count": 14
-        },
-        {
-          "name": "阿杰",
-          "count": 13
-        },
-        {
-          "name": "魔道祖师",
-          "count": 6
-        },
-        {
-          "name": "战斗",
-          "count": 4
-        },
-        {
-          "name": "奇幻",
-          "count": 4
-        },
-        {
-          "name": "视美影业",
-          "count": 4
-        },
-        {
-          "name": "玄幻",
-          "count": 4
-        },
-        {
-          "name": "古风",
-          "count": 3
-        },
-        {
-          "name": "武侠",
-          "count": 3
-        },
-        {
-          "name": "国创",
-          "count": 2
-        },
-        {
-          "name": "国耽",
-          "count": 2
-        },
-        {
-          "name": "网文改",
-          "count": 2
-        },
-        {
-          "name": "动画",
-          "count": 2
-        },
-        {
-          "name": "魔道",
-          "count": 2
-        },
-        {
-          "name": "热血",
-          "count": 2
-        },
-        {
-          "name": "2010s",
-          "count": 2
-        },
-        {
-          "name": "BL？",
-          "count": 2
-        }
+        "国产",
+        "耽美",
+        "小说改",
+        "2018年7月",
+        "视美",
+        "2018",
+        "BL",
+        "TV",
+        "国漫",
+        "视美动画",
+        "国产动画",
+        "中国",
+        "WEB",
+        "边江",
+        "阿杰",
+        "魔道祖师",
+        "战斗",
+        "奇幻",
+        "视美影业",
+        "玄幻",
+        "古风",
+        "武侠",
+        "国创",
+        "国耽",
+        "网文改",
+        "动画",
+        "魔道",
+        "热血",
+        "2010s",
+        "BL？"
       ],
       "infobox": [
         {
@@ -636,31 +481,7 @@
           "value": "袁嵩、田喆"
         }
       ],
-      "rating": {
-        "rank": 3450,
-        "total": 413,
-        "count": {
-          "1": 13,
-          "2": 4,
-          "3": 2,
-          "4": 9,
-          "5": 34,
-          "6": 89,
-          "7": 141,
-          "8": 80,
-          "9": 23,
-          "10": 18
-        },
-        "score": 6.7
-      },
       "total_episodes": 16,
-      "collection": {
-        "on_hold": 24,
-        "dropped": 79,
-        "wish": 64,
-        "collect": 576,
-        "doing": 65
-      },
       "id": 199423,
       "eps": 15,
       "volumes": 0,
@@ -814,10 +635,7 @@
       "name": "Simon Saison 2",
       "name_cn": "超人兔 第二季",
       "tags": [
-        {
-          "name": "子供向",
-          "count": 1
-        }
+        "子供向"
       ],
       "infobox": [
         {
@@ -877,31 +695,7 @@
           "value": "GO-N Productions"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 0,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0,
-          "6": 0,
-          "7": 0,
-          "8": 0,
-          "9": 0,
-          "10": 0
-        },
-        "score": 0
-      },
       "total_episodes": 52,
-      "collection": {
-        "on_hold": 1,
-        "dropped": 6,
-        "wish": 1,
-        "collect": 1,
-        "doing": 0
-      },
       "id": 302153,
       "eps": 52,
       "volumes": 0,
@@ -957,10 +751,7 @@
       "name": "かいじゅうステップ ワンダバダ 第2シリーズ",
       "name_cn": "小怪兽成长日记 二期",
       "tags": [
-        {
-          "name": "TVA-02",
-          "count": 1
-        }
+        "TVA-02"
       ],
       "infobox": [
         {
@@ -988,31 +779,7 @@
           "value": "2021年3月26日"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 0,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0,
-          "6": 0,
-          "7": 0,
-          "8": 0,
-          "9": 0,
-          "10": 0
-        },
-        "score": 0
-      },
       "total_episodes": 26,
-      "collection": {
-        "on_hold": 1,
-        "dropped": 9,
-        "wish": 2,
-        "collect": 2,
-        "doing": 1
-      },
       "id": 318579,
       "eps": 26,
       "volumes": 0,
@@ -1054,110 +821,32 @@
       "name": "荒野のコトブキ飛行隊 完全版",
       "name_cn": "荒野的寿飞行队 完全版",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 35
-        },
-        {
-          "name": "2020",
-          "count": 18
-        },
-        {
-          "name": "GEMBA",
-          "count": 16
-        },
-        {
-          "name": "水岛努",
-          "count": 13
-        },
-        {
-          "name": "横手美智子",
-          "count": 9
-        },
-        {
-          "name": "原创动画",
-          "count": 8
-        },
-        {
-          "name": "原创",
-          "count": 8
-        },
-        {
-          "name": "总集篇",
-          "count": 7
-        },
-        {
-          "name": "滨口史郎",
-          "count": 4
-        },
-        {
-          "name": "百合",
-          "count": 3
-        },
-        {
-          "name": "SF",
-          "count": 3
-        },
-        {
-          "name": "DigitalFrontier",
-          "count": 3
-        },
-        {
-          "name": "日本",
-          "count": 2
-        },
-        {
-          "name": "幸村恵理",
-          "count": 1
-        },
-        {
-          "name": "2020劇場版",
-          "count": 1
-        },
-        {
-          "name": "undefined",
-          "count": 1
-        },
-        {
-          "name": "鈴代紗弓",
-          "count": 1
-        },
-        {
-          "name": "水島努",
-          "count": 1
-        },
-        {
-          "name": "战斗",
-          "count": 1
-        },
-        {
-          "name": "3D",
-          "count": 1
-        },
-        {
-          "name": "军事",
-          "count": 1
-        },
-        {
-          "name": "日本动画",
-          "count": 1
-        },
-        {
-          "name": "动画",
-          "count": 1
-        },
-        {
-          "name": "6",
-          "count": 1
-        },
-        {
-          "name": "电影",
-          "count": 1
-        },
-        {
-          "name": "仲谷明香",
-          "count": 1
-        }
+        "剧场版",
+        "2020",
+        "GEMBA",
+        "水岛努",
+        "横手美智子",
+        "原创动画",
+        "原创",
+        "总集篇",
+        "滨口史郎",
+        "百合",
+        "SF",
+        "DigitalFrontier",
+        "日本",
+        "幸村恵理",
+        "2020劇場版",
+        "undefined",
+        "鈴代紗弓",
+        "水島努",
+        "战斗",
+        "3D",
+        "军事",
+        "日本动画",
+        "动画",
+        "6",
+        "电影",
+        "仲谷明香"
       ],
       "infobox": [
         {
@@ -1213,31 +902,7 @@
           "value": "デジタル・フロンティア"
         }
       ],
-      "rating": {
-        "rank": 3118,
-        "total": 54,
-        "count": {
-          "1": 1,
-          "2": 0,
-          "3": 1,
-          "4": 0,
-          "5": 2,
-          "6": 21,
-          "7": 17,
-          "8": 11,
-          "9": 1,
-          "10": 0
-        },
-        "score": 6.6
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 8,
-        "dropped": 9,
-        "wish": 80,
-        "collect": 85,
-        "doing": 5
-      },
       "id": 299427,
       "eps": 1,
       "volumes": 0,
@@ -1321,126 +986,36 @@
       "name": "ドラゴンズドグマ",
       "name_cn": "龙之信条",
       "tags": [
-        {
-          "name": "游戏改",
-          "count": 31
-        },
-        {
-          "name": "Netflix",
-          "count": 31
-        },
-        {
-          "name": "WEB",
-          "count": 30
-        },
-        {
-          "name": "Sublimation",
-          "count": 19
-        },
-        {
-          "name": "2020年10月",
-          "count": 15
-        },
-        {
-          "name": "2020",
-          "count": 14
-        },
-        {
-          "name": "奇幻",
-          "count": 12
-        },
-        {
-          "name": "TV",
-          "count": 8
-        },
-        {
-          "name": "日本动画",
-          "count": 6
-        },
-        {
-          "name": "3D",
-          "count": 6
-        },
-        {
-          "name": "冒险",
-          "count": 4
-        },
-        {
-          "name": "須貝真也",
-          "count": 4
-        },
-        {
-          "name": "动画",
-          "count": 2
-        },
-        {
-          "name": "战斗",
-          "count": 2
-        },
-        {
-          "name": "2020年",
-          "count": 1
-        },
-        {
-          "name": "サブリメイション",
-          "count": 1
-        },
-        {
-          "name": "F-DF",
-          "count": 1
-        },
-        {
-          "name": "2020-2029",
-          "count": 1
-        },
-        {
-          "name": "你这个就不对了，游戏里上来只给一个大叔pawn，哪来的漂亮小",
-          "count": 1
-        },
-        {
-          "name": "龙之信条",
-          "count": 1
-        },
-        {
-          "name": "乳首",
-          "count": 1
-        },
-        {
-          "name": "2020年10月番",
-          "count": 1
-        },
-        {
-          "name": "2分",
-          "count": 1
-        },
-        {
-          "name": "中村悠一",
-          "count": 1
-        },
-        {
-          "name": "日本",
-          "count": 1
-        },
-        {
-          "name": "沢城みゆき",
-          "count": 1
-        },
-        {
-          "name": "泽城美雪",
-          "count": 1
-        },
-        {
-          "name": "架空",
-          "count": 1
-        },
-        {
-          "name": "砂山藏澄",
-          "count": 1
-        },
-        {
-          "name": "游改",
-          "count": 1
-        }
+        "游戏改",
+        "Netflix",
+        "WEB",
+        "Sublimation",
+        "2020年10月",
+        "2020",
+        "奇幻",
+        "TV",
+        "日本动画",
+        "3D",
+        "冒险",
+        "須貝真也",
+        "动画",
+        "战斗",
+        "2020年",
+        "サブリメイション",
+        "F-DF",
+        "2020-2029",
+        "你这个就不对了，游戏里上来只给一个大叔pawn，哪来的漂亮小",
+        "龙之信条",
+        "乳首",
+        "2020年10月番",
+        "2分",
+        "中村悠一",
+        "日本",
+        "沢城みゆき",
+        "泽城美雪",
+        "架空",
+        "砂山藏澄",
+        "游改"
       ],
       "infobox": [
         {
@@ -1472,31 +1047,7 @@
           "value": "Netflix"
         }
       ],
-      "rating": {
-        "rank": 6727,
-        "total": 92,
-        "count": {
-          "1": 2,
-          "2": 3,
-          "3": 1,
-          "4": 12,
-          "5": 27,
-          "6": 32,
-          "7": 12,
-          "8": 2,
-          "9": 0,
-          "10": 1
-        },
-        "score": 5.4
-      },
       "total_episodes": 7,
-      "collection": {
-        "on_hold": 6,
-        "dropped": 23,
-        "wish": 60,
-        "collect": 128,
-        "doing": 12
-      },
       "id": 277322,
       "eps": 7,
       "volumes": 0,
@@ -1552,126 +1103,36 @@
       "name": "劇場版 ヴァイオレット・エヴァーガーデン",
       "name_cn": "剧场版 紫罗兰永恒花园",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 1571
-        },
-        {
-          "name": "京阿尼",
-          "count": 1420
-        },
-        {
-          "name": "紫罗兰永恒花园",
-          "count": 786
-        },
-        {
-          "name": "2020",
-          "count": 685
-        },
-        {
-          "name": "治愈",
-          "count": 584
-        },
-        {
-          "name": "轻小说改",
-          "count": 486
-        },
-        {
-          "name": "京都动画",
-          "count": 423
-        },
-        {
-          "name": "石立太一",
-          "count": 341
-        },
-        {
-          "name": "轻改",
-          "count": 233
-        },
-        {
-          "name": "续作",
-          "count": 159
-        },
-        {
-          "name": "京都アニメーション",
-          "count": 106
-        },
-        {
-          "name": "恋爱",
-          "count": 93
-        },
-        {
-          "name": "小说改",
-          "count": 73
-        },
-        {
-          "name": "催泪",
-          "count": 58
-        },
-        {
-          "name": "2020年9月",
-          "count": 32
-        },
-        {
-          "name": "紫罗兰剧场版",
-          "count": 30
-        },
-        {
-          "name": "吉田玲子",
-          "count": 26
-        },
-        {
-          "name": "2020年",
-          "count": 21
-        },
-        {
-          "name": "奇幻",
-          "count": 20
-        },
-        {
-          "name": "京都",
-          "count": 15
-        },
-        {
-          "name": "爱情",
-          "count": 11
-        },
-        {
-          "name": "日本",
-          "count": 10
-        },
-        {
-          "name": "日本动画",
-          "count": 10
-        },
-        {
-          "name": "动画电影",
-          "count": 9
-        },
-        {
-          "name": "石川由依",
-          "count": 9
-        },
-        {
-          "name": "暁佳奈",
-          "count": 6
-        },
-        {
-          "name": "神作",
-          "count": 6
-        },
-        {
-          "name": "京紫",
-          "count": 5
-        },
-        {
-          "name": "架空",
-          "count": 5
-        },
-        {
-          "name": "TV",
-          "count": 5
-        }
+        "剧场版",
+        "京阿尼",
+        "紫罗兰永恒花园",
+        "2020",
+        "治愈",
+        "轻小说改",
+        "京都动画",
+        "石立太一",
+        "轻改",
+        "续作",
+        "京都アニメーション",
+        "恋爱",
+        "小说改",
+        "催泪",
+        "2020年9月",
+        "紫罗兰剧场版",
+        "吉田玲子",
+        "2020年",
+        "奇幻",
+        "京都",
+        "爱情",
+        "日本",
+        "日本动画",
+        "动画电影",
+        "石川由依",
+        "神作",
+        "暁佳奈",
+        "架空",
+        "TV",
+        "京紫"
       ],
       "infobox": [
         {
@@ -1783,31 +1244,7 @@
           "value": "松竹"
         }
       ],
-      "rating": {
-        "rank": 820,
-        "total": 4057,
-        "count": {
-          "1": 10,
-          "2": 11,
-          "3": 26,
-          "4": 56,
-          "5": 155,
-          "6": 463,
-          "7": 1104,
-          "8": 1450,
-          "9": 461,
-          "10": 321
-        },
-        "score": 7.5
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 171,
-        "dropped": 67,
-        "wish": 2308,
-        "collect": 6340,
-        "doing": 197
-      },
       "id": 242216,
       "eps": 1,
       "volumes": 0,
@@ -1961,126 +1398,36 @@
       "name": "思い、思われ、ふり、ふられ",
       "name_cn": "恋途未卜",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 137
-        },
-        {
-          "name": "A-1Pictures",
-          "count": 81
-        },
-        {
-          "name": "2020",
-          "count": 68
-        },
-        {
-          "name": "恋爱",
-          "count": 67
-        },
-        {
-          "name": "漫改",
-          "count": 46
-        },
-        {
-          "name": "漫画改",
-          "count": 41
-        },
-        {
-          "name": "校园",
-          "count": 37
-        },
-        {
-          "name": "青春",
-          "count": 16
-        },
-        {
-          "name": "黒柳トシマサ",
-          "count": 15
-        },
-        {
-          "name": "2020年",
-          "count": 9
-        },
-        {
-          "name": "日本动画",
-          "count": 7
-        },
-        {
-          "name": "黑柳利充",
-          "count": 6
-        },
-        {
-          "name": "山下祐",
-          "count": 4
-        },
-        {
-          "name": "2020年7月",
-          "count": 3
-        },
-        {
-          "name": "动画电影",
-          "count": 3
-        },
-        {
-          "name": "2020年9月",
-          "count": 2
-        },
-        {
-          "name": "潘めぐみ",
-          "count": 2
-        },
-        {
-          "name": "A-1",
-          "count": 2
-        },
-        {
-          "name": "野見祐二",
-          "count": 2
-        },
-        {
-          "name": "少女漫",
-          "count": 2
-        },
-        {
-          "name": "齐藤壮马",
-          "count": 2
-        },
-        {
-          "name": "2021",
-          "count": 1
-        },
-        {
-          "name": "米泽优",
-          "count": 1
-        },
-        {
-          "name": "20年代",
-          "count": 1
-        },
-        {
-          "name": "undefined",
-          "count": 1
-        },
-        {
-          "name": "恋途未卜",
-          "count": 1
-        },
-        {
-          "name": "中推",
-          "count": 1
-        },
-        {
-          "name": "『恋爱番』",
-          "count": 1
-        },
-        {
-          "name": "屹青",
-          "count": 1
-        },
-        {
-          "name": "令和",
-          "count": 1
-        }
+        "剧场版",
+        "A-1Pictures",
+        "2020",
+        "恋爱",
+        "漫改",
+        "漫画改",
+        "校园",
+        "青春",
+        "黒柳トシマサ",
+        "2020年",
+        "日本动画",
+        "黑柳利充",
+        "山下祐",
+        "2020年7月",
+        "动画电影",
+        "2020年9月",
+        "潘めぐみ",
+        "A-1",
+        "野見祐二",
+        "少女漫",
+        "齐藤壮马",
+        "2021",
+        "米泽优",
+        "20年代",
+        "undefined",
+        "恋途未卜",
+        "中推",
+        "『恋爱番』",
+        "屹青",
+        "令和"
       ],
       "infobox": [
         {
@@ -2164,31 +1511,7 @@
           "value": "1"
         }
       ],
-      "rating": {
-        "rank": 5670,
-        "total": 210,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 4,
-          "4": 11,
-          "5": 32,
-          "6": 93,
-          "7": 51,
-          "8": 16,
-          "9": 1,
-          "10": 2
-        },
-        "score": 6.1
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 18,
-        "dropped": 17,
-        "wish": 255,
-        "collect": 317,
-        "doing": 21
-      },
       "id": 281096,
       "eps": 1,
       "volumes": 0,
@@ -2272,126 +1595,36 @@
       "name": "「はたらく細胞!!」最強の敵、再び。体の中は“腸”大騒ぎ！",
       "name_cn": "工作细胞！！最强之敌再临，体内'肠道'大骚动！",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 122
-        },
-        {
-          "name": "漫画改",
-          "count": 80
-        },
-        {
-          "name": "科普",
-          "count": 54
-        },
-        {
-          "name": "davidproduction",
-          "count": 50
-        },
-        {
-          "name": "工作细胞",
-          "count": 44
-        },
-        {
-          "name": "总集篇",
-          "count": 44
-        },
-        {
-          "name": "2020",
-          "count": 39
-        },
-        {
-          "name": "2020年",
-          "count": 28
-        },
-        {
-          "name": "漫改",
-          "count": 19
-        },
-        {
-          "name": "はたらく細胞!!",
-          "count": 7
-        },
-        {
-          "name": "日本",
-          "count": 6
-        },
-        {
-          "name": "动画",
-          "count": 5
-        },
-        {
-          "name": "电影院看的",
-          "count": 5
-        },
-        {
-          "name": "小仓宏文",
-          "count": 5
-        },
-        {
-          "name": "日常",
-          "count": 5
-        },
-        {
-          "name": "治愈",
-          "count": 3
-        },
-        {
-          "name": "表外",
-          "count": 2
-        },
-        {
-          "name": "長縄まりあ",
-          "count": 2
-        },
-        {
-          "name": "小倉宏文",
-          "count": 2
-        },
-        {
-          "name": "拟人",
-          "count": 2
-        },
-        {
-          "name": "战斗",
-          "count": 2
-        },
-        {
-          "name": "搞笑",
-          "count": 2
-        },
-        {
-          "name": "2020年7月",
-          "count": 1
-        },
-        {
-          "name": "萌",
-          "count": 1
-        },
-        {
-          "name": "2020s",
-          "count": 1
-        },
-        {
-          "name": "奇幻",
-          "count": 1
-        },
-        {
-          "name": "ACG",
-          "count": 1
-        },
-        {
-          "name": "アニメ映画",
-          "count": 1
-        },
-        {
-          "name": "动作",
-          "count": 1
-        },
-        {
-          "name": "花泽香菜",
-          "count": 1
-        }
+        "剧场版",
+        "漫画改",
+        "科普",
+        "davidproduction",
+        "工作细胞",
+        "总集篇",
+        "2020",
+        "2020年",
+        "漫改",
+        "はたらく細胞!!",
+        "日本",
+        "动画",
+        "电影院看的",
+        "小仓宏文",
+        "日常",
+        "治愈",
+        "表外",
+        "長縄まりあ",
+        "小倉宏文",
+        "拟人",
+        "战斗",
+        "搞笑",
+        "2020年7月",
+        "萌",
+        "2020s",
+        "奇幻",
+        "ACG",
+        "アニメ映画",
+        "动作",
+        "花泽香菜"
       ],
       "infobox": [
         {
@@ -2472,31 +1705,7 @@
           "value": "1"
         }
       ],
-      "rating": {
-        "rank": 5894,
-        "total": 284,
-        "count": {
-          "1": 1,
-          "2": 1,
-          "3": 2,
-          "4": 20,
-          "5": 45,
-          "6": 118,
-          "7": 73,
-          "8": 18,
-          "9": 2,
-          "10": 4
-        },
-        "score": 6.1
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 29,
-        "dropped": 34,
-        "wish": 263,
-        "collect": 511,
-        "doing": 16
-      },
       "id": 309869,
       "eps": 1,
       "volumes": 0,
@@ -2566,126 +1775,36 @@
       "name": "鬼滅の刃 浅草編",
       "name_cn": "鬼灭之刃 浅草篇",
       "tags": [
-        {
-          "name": "总集篇",
-          "count": 97
-        },
-        {
-          "name": "鬼灭之刃",
-          "count": 82
-        },
-        {
-          "name": "ufotable",
-          "count": 63
-        },
-        {
-          "name": "剧场版",
-          "count": 50
-        },
-        {
-          "name": "漫画改",
-          "count": 45
-        },
-        {
-          "name": "2021",
-          "count": 34
-        },
-        {
-          "name": "热血",
-          "count": 33
-        },
-        {
-          "name": "战斗",
-          "count": 30
-        },
-        {
-          "name": "2021年9月",
-          "count": 23
-        },
-        {
-          "name": "漫改",
-          "count": 18
-        },
-        {
-          "name": "奇幻",
-          "count": 10
-        },
-        {
-          "name": "外崎春雄",
-          "count": 5
-        },
-        {
-          "name": "TV",
-          "count": 5
-        },
-        {
-          "name": "日本动画",
-          "count": 4
-        },
-        {
-          "name": "2021年",
-          "count": 3
-        },
-        {
-          "name": "Fall_2021",
-          "count": 3
-        },
-        {
-          "name": "梶浦由記",
-          "count": 2
-        },
-        {
-          "name": "『SP』",
-          "count": 2
-        },
-        {
-          "name": "undefined",
-          "count": 1
-        },
-        {
-          "name": "日本",
-          "count": 1
-        },
-        {
-          "name": "鬼滅の刃",
-          "count": 1
-        },
-        {
-          "name": "异态",
-          "count": 1
-        },
-        {
-          "name": "总集篇剧场版",
-          "count": 1
-        },
-        {
-          "name": "已保存",
-          "count": 1
-        },
-        {
-          "name": "非常优秀",
-          "count": 1
-        },
-        {
-          "name": "庸作",
-          "count": 1
-        },
-        {
-          "name": "屹青",
-          "count": 1
-        },
-        {
-          "name": "动画",
-          "count": 1
-        },
-        {
-          "name": "21夏",
-          "count": 1
-        },
-        {
-          "name": "补标",
-          "count": 1
-        }
+        "总集篇",
+        "鬼灭之刃",
+        "ufotable",
+        "剧场版",
+        "漫画改",
+        "2021",
+        "热血",
+        "战斗",
+        "2021年9月",
+        "漫改",
+        "奇幻",
+        "外崎春雄",
+        "TV",
+        "日本动画",
+        "2021年",
+        "Fall_2021",
+        "梶浦由記",
+        "『SP』",
+        "undefined",
+        "日本",
+        "鬼滅の刃",
+        "异态",
+        "总集篇剧场版",
+        "已保存",
+        "非常优秀",
+        "庸作",
+        "屹青",
+        "动画",
+        "21夏",
+        "补标"
       ],
       "infobox": [
         {
@@ -2701,31 +1820,7 @@
           "value": "2021年9月12日"
         }
       ],
-      "rating": {
-        "rank": 4170,
-        "total": 313,
-        "count": {
-          "1": 5,
-          "2": 0,
-          "3": 1,
-          "4": 7,
-          "5": 31,
-          "6": 113,
-          "7": 97,
-          "8": 38,
-          "9": 10,
-          "10": 11
-        },
-        "score": 6.6
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 18,
-        "dropped": 45,
-        "wish": 162,
-        "collect": 728,
-        "doing": 17
-      },
       "id": 349032,
       "eps": 1,
       "volumes": 0,
@@ -2809,126 +1904,36 @@
       "name": "鬼滅の刃 鼓屋敷編",
       "name_cn": "鬼灭之刃 鼓屋敷篇",
       "tags": [
-        {
-          "name": "总集篇",
-          "count": 95
-        },
-        {
-          "name": "鬼灭之刃",
-          "count": 79
-        },
-        {
-          "name": "ufotable",
-          "count": 55
-        },
-        {
-          "name": "漫画改",
-          "count": 43
-        },
-        {
-          "name": "剧场版",
-          "count": 41
-        },
-        {
-          "name": "热血",
-          "count": 33
-        },
-        {
-          "name": "2021",
-          "count": 29
-        },
-        {
-          "name": "战斗",
-          "count": 27
-        },
-        {
-          "name": "2021年9月",
-          "count": 26
-        },
-        {
-          "name": "漫改",
-          "count": 15
-        },
-        {
-          "name": "奇幻",
-          "count": 7
-        },
-        {
-          "name": "外崎春雄",
-          "count": 6
-        },
-        {
-          "name": "2021年7月",
-          "count": 4
-        },
-        {
-          "name": "日本动画",
-          "count": 3
-        },
-        {
-          "name": "『SP』",
-          "count": 2
-        },
-        {
-          "name": "2021年",
-          "count": 2
-        },
-        {
-          "name": "梶浦由記",
-          "count": 2
-        },
-        {
-          "name": "TV",
-          "count": 2
-        },
-        {
-          "name": "日本",
-          "count": 1
-        },
-        {
-          "name": "总集篇剧场版",
-          "count": 1
-        },
-        {
-          "name": "异态",
-          "count": 1
-        },
-        {
-          "name": "undefined",
-          "count": 1
-        },
-        {
-          "name": "吾峠呼世晴",
-          "count": 1
-        },
-        {
-          "name": "已保存",
-          "count": 1
-        },
-        {
-          "name": "Fall_2021",
-          "count": 1
-        },
-        {
-          "name": "庸作",
-          "count": 1
-        },
-        {
-          "name": "屹青",
-          "count": 1
-        },
-        {
-          "name": "动画",
-          "count": 1
-        },
-        {
-          "name": "21夏",
-          "count": 1
-        },
-        {
-          "name": "2021年10月",
-          "count": 1
-        }
+        "总集篇",
+        "鬼灭之刃",
+        "ufotable",
+        "漫画改",
+        "剧场版",
+        "热血",
+        "2021",
+        "战斗",
+        "2021年9月",
+        "漫改",
+        "奇幻",
+        "外崎春雄",
+        "2021年7月",
+        "日本动画",
+        "『SP』",
+        "2021年",
+        "梶浦由記",
+        "TV",
+        "日本",
+        "总集篇剧场版",
+        "异态",
+        "undefined",
+        "吾峠呼世晴",
+        "已保存",
+        "Fall_2021",
+        "庸作",
+        "屹青",
+        "动画",
+        "21夏",
+        "2021年10月"
       ],
       "infobox": [
         {
@@ -2944,31 +1949,7 @@
           "value": "2021年9月18日"
         }
       ],
-      "rating": {
-        "rank": 3782,
-        "total": 338,
-        "count": {
-          "1": 4,
-          "2": 0,
-          "3": 2,
-          "4": 9,
-          "5": 30,
-          "6": 111,
-          "7": 108,
-          "8": 51,
-          "9": 8,
-          "10": 15
-        },
-        "score": 6.7
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 21,
-        "dropped": 49,
-        "wish": 151,
-        "collect": 794,
-        "doing": 19
-      },
       "id": 349033,
       "eps": 1,
       "volumes": 0,
@@ -3031,6 +2012,715 @@
           "relation": "衍生",
           "type": 6,
           "id": 404879
+        }
+      ]
+    }
+  },
+  {
+    "title": "機動戦士ガンダムF91プリクエル",
+    "date": "2020-09-24",
+    "bangumi": {
+      "date": "2020-09-24",
+      "platform": "漫画",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/55/316056_222Lo.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/55/316056_222Lo.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/51/55/316056_222Lo.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/55/316056_222Lo.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/55/316056_222Lo.jpg"
+      },
+      "summary": "富野由悠季による小説『機動戦士ガンダムF91 クロスボーン・バンガード』のコミカライズ作品。作画はおおのじゅんじ。\r\n「月刊ガンダムエース」2020年3月号から連載がスタートした。劇場版の物語よりも前のエピソードを描いており、胸部ボディが白いガンダムF91が登場する。",
+      "name": "機動戦士ガンダムF91プリクエル",
+      "name_cn": "机动战士高达F91前传",
+      "tags": [
+        "漫画系列"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "机动战士高达F91前传"
+        },
+        {
+          "key": "原作",
+          "value": "富野由悠季"
+        },
+        {
+          "key": "作画",
+          "value": "おおのじゅんじ (大野純二)"
+        },
+        {
+          "key": "出版社",
+          "value": "KADOKAWA"
+        },
+        {
+          "key": "连载杂志",
+          "value": "ガンダムエース"
+        },
+        {
+          "key": "发售日",
+          "value": "2020-09-24"
+        },
+        {
+          "key": "开始",
+          "value": "2020-01-24 (2020年3月号)"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 316056,
+      "eps": 0,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 1,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/8b/4482_EVev7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/8b/4482_EVev7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cc/8b/4482_EVev7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/8b/4482_EVev7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/8b/4482_EVev7.jpg"
+          },
+          "name": "機動戦士ガンダムF91",
+          "name_cn": "机动战士高达F91",
+          "relation": "动画",
+          "type": 2,
+          "id": 4482
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/f8/318391_FNKFB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/f8/318391_FNKFB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/48/f8/318391_FNKFB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/48/f8/318391_FNKFB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/f8/318391_FNKFB.jpg"
+          },
+          "name": "機動戦士ガンダムF91―クロスボーン・バンガード",
+          "name_cn": "机动战士高达F91 骨十字先锋",
+          "relation": "书籍",
+          "type": 1,
+          "id": 318391
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/dc/336056_XnUnX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/dc/336056_XnUnX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2b/dc/336056_XnUnX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/dc/336056_XnUnX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/dc/336056_XnUnX.jpg"
+          },
+          "name": "機動戦士ガンダムF91プリクエル (1)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 336056
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/37/336058_HbHBH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/37/336058_HbHBH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/11/37/336058_HbHBH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/37/336058_HbHBH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/37/336058_HbHBH.jpg"
+          },
+          "name": "機動戦士ガンダムF91プリクエル (2)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 336058
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/25/358896_jTjJI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/25/358896_jTjJI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fb/25/358896_jTjJI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/25/358896_jTjJI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/25/358896_jTjJI.jpg"
+          },
+          "name": "機動戦士ガンダムF91プリクエル (3)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 358896
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/81/402521_8Z8m8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/81/402521_8Z8m8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/81/402521_8Z8m8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/81/402521_8Z8m8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/81/402521_8Z8m8.jpg"
+          },
+          "name": "機動戦士ガンダムF91プリクエル (4)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 402521
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/1b/444500_b66r0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/1b/444500_b66r0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a4/1b/444500_b66r0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/1b/444500_b66r0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/1b/444500_b66r0.jpg"
+          },
+          "name": "機動戦士ガンダムF91プリクエル (5)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 444500
+        }
+      ]
+    }
+  },
+  {
+    "title": "クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者",
+    "date": "2020-09-11",
+    "bangumi": {
+      "date": "2020-09-11",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/57/291038_J0Yqc.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/57/291038_J0Yqc.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/07/57/291038_J0Yqc.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/57/291038_J0Yqc.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/57/291038_J0Yqc.jpg"
+      },
+      "summary": "「世界を救え、クレヨンで。」。\r\n\r\n空の王国（ラクガキングダム）が、春日部に落ちてくる！？\r\n\r\n自由なラクガキをエネルギー源として空に浮かぶ王国、その名も「ラクガキングダム」\r\nしかし、時代の流れか、近年地上でラクガキを目にすることも減り、王国はエネルギー不足により滅びようとしていた…。\r\n「ラクガキングダム」の王国軍は国の命運をかけて、地上への進撃を開始！！\r\nその下にはなんと、しんのすけたちが暮らす春日部が！！\r\n描いたものが動き出す、王国の秘宝「ミラクルクレヨン」を与えられし勇者は…まさかの“ちょ～お気楽５歳児”野原しんのすけ！！\r\n果たしてしんのすけは、ほほ～いと描いたラクガキたちと世界をお助けできるのか！？",
+      "name": "クレヨンしんちゃん 激突! ラクガキングダムとほぼ四人の勇者",
+      "name_cn": "蜡笔小新 激突！涂鸦王国与四位勇者",
+      "tags": [
+        "剧场版",
+        "蜡笔小新",
+        "2020",
+        "SHIN-EI",
+        "京極尚彦",
+        "催泪",
+        "电影",
+        "原创",
+        "漫画改",
+        "搞笑",
+        "アニメ映画",
+        "日本动画",
+        "未确定",
+        "シンエイ動画",
+        "七分",
+        "高田亮",
+        "动画",
+        "2020年4月",
+        "长片",
+        "漫画原案",
+        "20年代",
+        "ならはしみき",
+        "クレヨンしんちゃん",
+        "6.5",
+        "8分",
+        "TV",
+        "小林由美子",
+        "日本",
+        "森川智之",
+        "SHIN-EI动画"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "蜡笔小新 激突！涂鸦王国与四位勇者"
+        },
+        {
+          "key": "上映年度",
+          "value": "2020年9月11日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://shinchan-movie.com/"
+        },
+        {
+          "key": "原作",
+          "value": "臼井儀人（らくだ社） / 「月刊まんがタウン」（双葉社）連載中 / テレビ朝日系列で放送中"
+        },
+        {
+          "key": "导演",
+          "value": "京極尚彦"
+        },
+        {
+          "key": "脚本",
+          "value": "高田亮、京極尚彦"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "製作",
+          "value": "シンエイ動画・テレビ朝日・ADK・双葉社"
+        },
+        {
+          "key": "配给",
+          "value": "東宝"
+        },
+        {
+          "key": "Copyright",
+          "value": "©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK 2020"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 291038,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/b8/24823_0a06k.jpg"
+          },
+          "name": "クレヨンしんちゃん",
+          "name_cn": "蜡笔小新",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 24823
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8a/dc/268491_bt9Zm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8a/dc/268491_bt9Zm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8a/dc/268491_bt9Zm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8a/dc/268491_bt9Zm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/dc/268491_bt9Zm.jpg"
+          },
+          "name": "クレヨンしんちゃん 新婚旅行ハリケーン  ～失われたひろし～",
+          "name_cn": "蜡笔小新 新婚旅行 ～散失的广志～",
+          "relation": "前传",
+          "type": 2,
+          "id": 268491
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/7e/315137_bxC3w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/7e/315137_bxC3w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/7e/315137_bxC3w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/7e/315137_bxC3w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/7e/315137_bxC3w.jpg"
+          },
+          "name": "ギガアイシテル",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 315137
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/03/322449_uqe7e.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/03/322449_uqe7e.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/03/322449_uqe7e.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/03/322449_uqe7e.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/03/322449_uqe7e.jpg"
+          },
+          "name": "クレヨンしんちゃん 謎メキ!花の天カス学園",
+          "name_cn": "蜡笔小新：谜案！天下春日部学院的怪奇事件",
+          "relation": "续集",
+          "type": 2,
+          "id": 322449
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/20/409013_Yb9X9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/20/409013_Yb9X9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e7/20/409013_Yb9X9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e7/20/409013_Yb9X9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e7/20/409013_Yb9X9.jpg"
+          },
+          "name": "プリッと!こんぷりーと クレヨンしんちゃん30周年記念テーマソング集",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 409013
+        }
+      ]
+    }
+  },
+  {
+    "title": "俺を好きなのはお前だけかよ～俺たちのゲームセット～",
+    "date": "2020-09-02",
+    "bangumi": {
+      "date": "2020-09-02",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/a2/297225_Q5SGp.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/a2/297225_Q5SGp.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/b1/a2/297225_Q5SGp.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/a2/297225_Q5SGp.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/a2/297225_Q5SGp.jpg"
+      },
+      "summary": "圧倒的ラブコメ主人公にして、全てにおいて俺を上回る上位互換のホース。俺はこいつとパンジーを賭けた勝負をすることになった。\r\n舞台は、因縁の地区大会決勝戦。対戦カードは、西木蔦対唐菖蒲。大舞台の裏側で、俺はホースと決戦投票って形でケリをつける。\r\nもちろん、正々堂々と......戦うわけないじゃ~ん!　圧倒的に不利なんだから、卑怯なことをしまくってやる!\r\nウケケケ!　ホースはどうせクソ真面目に戦うからな!　俺はその真逆を......え？　なんですと? 勝負にルールを加える?\r\nちょっと待って!　なんで、どれも俺に不利なルールばっかなんだよ! ひまわり、コスモス、あすなろ!\r\nてめぇらまで敵に回りやがって!　くっそぉ......。味方は誰もいねぇ......。最悪のルールだらけ......。\r\nこうなったら、正々堂々真正面から......卑怯な手を使いまくってやるわぁぁぁぁ!!",
+      "name": "俺を好きなのはお前だけかよ～俺たちのゲームセット～",
+      "name_cn": "喜欢本大爷的竟然就你一个？～我们的比赛结束～",
+      "tags": [
+        "OVA",
+        "搞笑",
+        "后宫",
+        "恋爱",
+        "校园",
+        "轻小说改",
+        "CONNECT",
+        "2020",
+        "轻改",
+        "2020年9月",
+        "2020年",
+        "俺を好きなのはお前だけかよ",
+        "小说改",
+        "喜欢本大爷的竟然就你一个",
+        "日常",
+        "山下大輝",
+        "秋田谷典昭",
+        "续作",
+        "日本动画",
+        "戸松遥",
+        "日本",
+        "喜欢本大爷的竟然就你一个？",
+        "动画",
+        "2020s",
+        "已下",
+        "2020年10月",
+        "TV",
+        "駱駝",
+        "2021",
+        "反套路"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "喜欢本大爷的竟然就你一个？～我们的比赛结束～"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "2020年9月2日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://ore.ski/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©2018 駱駝／KADOKAWA／「俺好き」製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "駱駝 「俺を好きなのはお前だけかよ」（電撃文庫 / KADOKAWA）"
+        },
+        {
+          "key": "製作",
+          "value": "「俺好き」製作委員会（Aniplex、KADOKAWA、ストレートエッジ、TOKYO MX、日本BS放送、ムービック、ドコモ・アニメストア、キュー・テック）"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "斉藤朱夏 / パンジー(CV.戸松遥)・ひまわり(CV.白石晴香)・コスモス(CV.三澤紗千香)"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 297225,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/13/177863_gZ3zg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/13/177863_gZ3zg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/13/177863_gZ3zg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/13/177863_gZ3zg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/13/177863_gZ3zg.jpg"
+          },
+          "name": "俺を好きなのはお前だけかよ",
+          "name_cn": "喜欢本大爷的竟然就你一个？",
+          "relation": "书籍",
+          "type": 1,
+          "id": 177863
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/d7/262943_L1Vld.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/d7/262943_L1Vld.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/22/d7/262943_L1Vld.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/d7/262943_L1Vld.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/d7/262943_L1Vld.jpg"
+          },
+          "name": "俺を好きなのはお前だけかよ",
+          "name_cn": "喜欢本大爷的竟然就你一个？",
+          "relation": "前传",
+          "type": 2,
+          "id": 262943
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/56/314065_EaO2o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/56/314065_EaO2o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/17/56/314065_EaO2o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/56/314065_EaO2o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/56/314065_EaO2o.jpg"
+          },
+          "name": "OVA 俺を好きなのはお前だけかよ~俺たちのゲームセット~ 特典CD",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 314065
+        }
+      ]
+    }
+  },
+  {
+    "title": "The Simpsons Season 32",
+    "date": "2020-09-27",
+    "bangumi": {
+      "date": "2020-09-27",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/2d/379838_58dZn.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/2d/379838_58dZn.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/77/2d/379838_58dZn.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/2d/379838_58dZn.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/2d/379838_58dZn.jpg"
+      },
+      "summary": "",
+      "name": "The Simpsons Season 32",
+      "name_cn": "辛普森一家 第三十二季",
+      "tags": [
+        "欧美番剧",
+        "2020",
+        "美国"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "辛普森一家 第三十二季"
+        },
+        {
+          "key": "话数",
+          "value": "22"
+        },
+        {
+          "key": "放送开始",
+          "value": "2020年9月27日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "Fox"
+        },
+        {
+          "key": "播放结束",
+          "value": "2021年5月23日"
+        }
+      ],
+      "total_episodes": 22,
+      "id": 379838,
+      "eps": 22,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/0e/301568_jzajz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/0e/301568_jzajz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/0e/301568_jzajz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/0e/301568_jzajz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/0e/301568_jzajz.jpg"
+          },
+          "name": "The Simpsons Season 31",
+          "name_cn": "辛普森一家 第三十一季",
+          "relation": "前传",
+          "type": 2,
+          "id": 301568
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/b5/379840_LzUTv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/b5/379840_LzUTv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1e/b5/379840_LzUTv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/b5/379840_LzUTv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/b5/379840_LzUTv.jpg"
+          },
+          "name": "The Simpsons Season 33",
+          "name_cn": "辛普森一家 第三十三季",
+          "relation": "续集",
+          "type": 2,
+          "id": 379840
+        }
+      ]
+    }
+  },
+  {
+    "title": "Family Guy (Season 19)",
+    "date": "2020-09-27",
+    "bangumi": {
+      "date": "2020-09-27",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/15/406826_Zy2L2.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/15/406826_Zy2L2.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/9c/15/406826_Zy2L2.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/15/406826_Zy2L2.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/15/406826_Zy2L2.jpg"
+      },
+      "summary": "Stewie finally says his first word - and it's a swear, leaving Lois shunned by the other moms, so she tries to figure out where Stewie could've heard it.by:www.mke6.com",
+      "name": "Family Guy (Season 19)",
+      "name_cn": "恶搞之家 第十九季",
+      "tags": [
+        "欧美",
+        "恶搞之家"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶搞之家 第十九季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Family Guy"
+            },
+            {
+              "v": "Family Guy Season 19"
+            },
+            {
+              "v": "恶搞之家"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "9"
+        },
+        {
+          "key": "放送开始",
+          "value": "2020年9月27日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "FOX"
+        }
+      ],
+      "total_episodes": 9,
+      "id": 406826,
+      "eps": 9,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/dd/406824_2R55H.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/dd/406824_2R55H.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2a/dd/406824_2R55H.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/dd/406824_2R55H.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/dd/406824_2R55H.jpg"
+          },
+          "name": "Family Guy (Season 18)",
+          "name_cn": "恶搞之家 第十八季",
+          "relation": "前传",
+          "type": 2,
+          "id": 406824
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3b/13/406827_4JsW2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3b/13/406827_4JsW2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3b/13/406827_4JsW2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3b/13/406827_4JsW2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3b/13/406827_4JsW2.jpg"
+          },
+          "name": "Family Guy (Season 20)",
+          "name_cn": "恶搞之家 第二十季",
+          "relation": "续集",
+          "type": 2,
+          "id": 406827
+        }
+      ]
+    }
+  },
+  {
+    "title": "Bob's Burgers Season 11",
+    "date": "2020-09-27",
+    "bangumi": {
+      "date": "2020-09-27",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/52/439025_kU9Uy.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/52/439025_kU9Uy.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/d6/52/439025_kU9Uy.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/52/439025_kU9Uy.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/52/439025_kU9Uy.jpg"
+      },
+      "summary": "",
+      "name": "Bob's Burgers Season 11",
+      "name_cn": "开心汉堡店 第十一季",
+      "tags": [
+        "TVA-02"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "开心汉堡店 第十一季"
+        },
+        {
+          "key": "话数",
+          "value": "22"
+        },
+        {
+          "key": "放送开始",
+          "value": "2020年9月27日"
+        }
+      ],
+      "total_episodes": 22,
+      "id": 439025,
+      "eps": 22,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/05/439024_JzDuj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/05/439024_JzDuj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/49/05/439024_JzDuj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/05/439024_JzDuj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/05/439024_JzDuj.jpg"
+          },
+          "name": "Bob's Burgers Season 10",
+          "name_cn": "开心汉堡店 第十季",
+          "relation": "前传",
+          "type": 2,
+          "id": 439024
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/22/439026_8S6s0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/22/439026_8S6s0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2e/22/439026_8S6s0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/22/439026_8S6s0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/22/439026_8S6s0.jpg"
+          },
+          "name": "Bob's Burgers Season 12",
+          "name_cn": "开心汉堡店 第十二季",
+          "relation": "续集",
+          "type": 2,
+          "id": 439026
         }
       ]
     }
