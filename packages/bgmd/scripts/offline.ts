@@ -47,7 +47,10 @@ export interface BangumiItem {
 
   date: string;
 
-  bangumi: SubjectInformation & { relations: RelatedSubject[] };
+  bangumi: Omit<SubjectInformation, 'rating' | 'collection' | 'tags'> & {
+    tags: string[];
+    relations: RelatedSubject[];
+  };
 }
 
 export class OfflineBangumi {

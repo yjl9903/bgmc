@@ -32,6 +32,7 @@ async function downloadSubject(file: string, items: Item[]) {
         date: item.begin,
         bangumi: {
           ...subject,
+          tags: subject.tags.map((t) => t.name),
           relations: await client.subjectRelated(+id)
         }
       });
@@ -39,5 +40,16 @@ async function downloadSubject(file: string, items: Item[]) {
       console.log(`Error: There is no bangumi id for ${item.title}`);
     }
   }
-  await fs.writeFile(file, JSON.stringify(bangumis, null, 2));
+  await fs.writeFile(
+    file,
+    JSON.stringify(
+      bangumis.map((bgm) => {
+        Reflect.deleteProperty(bgm.bangumi, 'rating');
+        Reflect.deleteProperty(bgm.bangumi, 'collection');
+        return bgm;
+      }),
+      null,
+      2
+    )
+  );
 }
