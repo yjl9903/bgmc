@@ -7,7 +7,7 @@ import type { SearchTVResultItem, SearchMovieResultItem, SearchMultiResultItem }
 
 import { items, type Item } from 'bangumi-data';
 
-import { SeasonSuffix } from './constants';
+import { BangumiRelations, SeasonSuffix } from './constants';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -120,6 +120,10 @@ export class OfflineBangumi {
     return this.data.get(+bgm.bangumi.id);
   }
 
+  public getItemById(id: number | string) {
+    return this.data.get(+id);
+  }
+
   public listPrequel(bgm: BangumiItem) {
     const res = new Set<BangumiItem>();
     const dfs = (bgm: BangumiItem) => {
@@ -129,7 +133,7 @@ export class OfflineBangumi {
       }
 
       const related = (bgm.bangumi.relations ?? []).filter((r) =>
-        ['前传', '续集', '主线故事'].includes(r.relation)
+        BangumiRelations.includes(r.relation)
       );
       for (const r of related) {
         const pre = this.map.get(+r.id);
