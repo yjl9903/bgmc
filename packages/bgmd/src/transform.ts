@@ -1,14 +1,15 @@
 import type { Item } from 'bangumi-data';
-import type { SubjectInformation } from 'bgmc';
 import type { PartialDeep } from 'type-fest';
+
+import { type SubjectInformation, getSubjectAlias } from 'bgmc';
 
 import type { FullBangumi } from './types';
 
-interface TransformOptions {
+export interface TransformOptions {
   omit?: (
-    | keyof FullBangumi
-    | `bangumi.${keyof FullBangumi['bangumi']}`
     | `tmdb.${keyof FullBangumi['tmdb']}`
+    | `bangumi.${keyof FullBangumi['bangumi']}`
+    | keyof FullBangumi
   )[];
 
   filter?: {};
@@ -18,17 +19,42 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
   bgm: Omit<SubjectInformation, 'rating' | 'collection' | 'tags'> & {
     tags: string[] | Array<{ name: string; count: number }>;
   },
-  extra: { data?: Item; tmdb?: {} } = {},
+  extra: { data?: Item; tmdb?: FullBangumi['tmdb'] } = {},
   options: TransformOptions = {}
 ): T {
+  const alias = [
+    ...getSubjectAlias(bgm),
+    ...Object.values(extra?.data?.titleTranslate ?? {}).flat()
+  ];
+
   const full: FullBangumi = {
     id: +bgm.id,
     name: bgm.name,
-    alias: [] as string[],
+    alias: [...new Set(alias)],
     summary: bgm.summary,
     type: extra.data?.type ?? 'tv',
-    air_date: bgm.date ?? extra.data?.begin ?? ''
+    air_date: bgm.date ?? extra.data?.begin ?? '',
+    bangumi: {
+      id: +bgm.id,
+      name_cn: bgm.name_cn,
+      images: bgm.images,
+      tags: normalizeTags(bgm.tags)
+    }
   };
+
+  if (extra.tmdb) {
+    full.tmdb = {
+      id: extra.tmdb.id,
+      name: extra.tmdb.name,
+      original_name: extra.tmdb.original_name,
+      overview: extra.tmdb.overview,
+      type: extra.tmdb.type,
+      season: extra.tmdb.season,
+      first_episode: extra.tmdb.first_episode,
+      backdrop_path: extra.tmdb.backdrop_path,
+      poster_path: extra.tmdb.poster_path
+    };
+  }
 
   for (const o of options.omit ?? []) {
     if (o.startsWith('bangumi.')) {
@@ -45,4 +71,8 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
   }
 
   return full as T;
+}
+
+function normalizeTags(tags: string[] | Array<{ name: string; count: number }>) {
+  return tags?.map((t) => (typeof t === 'string' ? t : t.name)) ?? [];
 }

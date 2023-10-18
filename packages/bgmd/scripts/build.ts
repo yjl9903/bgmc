@@ -8,7 +8,7 @@ import type { FullBangumi } from '../src/types';
 
 import { transform } from '../src/transform';
 
-import { OfflineBangumi, OfflineTMDB } from './offline';
+import { BangumiItem, OfflineBangumi, OfflineTMDB } from './offline';
 
 const outDir = './data';
 
@@ -25,7 +25,10 @@ await buildCalendar(path.join(outDir, 'calendar.json'));
 
 async function buildFull(output: string) {
   const bangumis = [...bangumiDB.values()].map((bgm) =>
-    transform(bgm.bangumi, { data: bangumiDB.getItem(bgm), tmdb: tmdbDB.getById(bgm.bangumi.id) })
+    transform(bgm.bangumi, {
+      data: bangumiDB.getItem(bgm),
+      tmdb: getTMDB(bgm)
+    })
   );
   await fs.writeFile(output, JSON.stringify({ bangumis }));
 }
@@ -34,8 +37,8 @@ async function buildIndex(output: string) {
   const bangumis = [...bangumiDB.values()].map((bgm) =>
     transform(
       bgm.bangumi,
-      { data: bangumiDB.getItem(bgm), tmdb: tmdbDB.getById(bgm.bangumi.id) },
-      { omit: ['summary'] }
+      { data: bangumiDB.getItem(bgm), tmdb: getTMDB(bgm) },
+      { omit: ['summary', 'tmdb.overview'] }
     )
   );
   await fs.writeFile(output, JSON.stringify({ bangumis }));
@@ -55,10 +58,14 @@ async function buildCalendar(output: string) {
             if (d.id) {
               const bgm = bangumiDB.getById(d.id);
               if (bgm) {
-                return transform(bgm.bangumi, {
-                  data: bangumiDB.getItem(bgm),
-                  tmdb: tmdbDB.getById(bgm.bangumi.id)
-                });
+                return transform(
+                  bgm.bangumi,
+                  {
+                    data: bangumiDB.getItem(bgm),
+                    tmdb: getTMDB(bgm)
+                  },
+                  { omit: ['tmdb.overview'] }
+                );
               }
             }
           })
@@ -73,4 +80,19 @@ async function buildCalendar(output: string) {
 async function clearOutDir(outDir: string) {
   await rimraf(outDir);
   await fs.mkdirp(outDir);
+}
+
+function getTMDB(bgm: BangumiItem) {
+  const tmdb = tmdbDB.getById(bgm.bangumi.id);
+  if (!tmdb) return undefined;
+
+  return {
+    // @ts-expect-error
+    name: tmdb.tmdb.search.title,
+    // @ts-expect-error
+    original_name: tmdb.tmdb.search.original_title,
+    ...tmdb.tmdb,
+    ...tmdb.tmdb.search,
+    type: tmdb.tmdb.type as 'tv' | 'movie'
+  };
 }
