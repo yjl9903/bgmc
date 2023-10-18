@@ -82,12 +82,14 @@ jobs:
           TIMESTAMP=$(date +"%Y-%m-%d %T")
           BRANCH=${{ needs.prepare.outputs.branch }}
 
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
+          if [ -n $(git status -s) ]; then
+            git config user.email "actions@github.com"
+            git config user.name "GitHub Actions"
 
-          git add data
-          git commit -m "feat(bgmd): update bangumi data at $TIMESTAMP"
-          git push origin $BRANCH
+            git add data
+            git commit -m "feat(bgmd): update bangumi data at $TIMESTAMP"
+            git push origin $BRANCH
+          fi
 
   tmdb:
     name: Fetch TMDB
@@ -141,12 +143,14 @@ jobs:
           TIMESTAMP=$(date +"%Y-%m-%d %T")
           BRANCH=${{ needs.prepare.outputs.branch }}
 
-          git config user.email "actions@github.com"
-          git config user.name "GitHub Actions"
+          if [ -n $(git status -s) ]; then
+            git config user.email "actions@github.com"
+            git config user.name "GitHub Actions"
 
-          git add data
-          git commit -m "feat(bgmd): update TMDB data at $TIMESTAMP"
-          git push origin $BRANCH
+            git add data
+            git commit -m "feat(bgmd): update TMDB data at $TIMESTAMP"
+            git push origin $BRANCH
+          fi
 
   pr:
     name: Create Pull Request
