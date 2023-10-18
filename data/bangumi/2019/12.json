@@ -16,50 +16,18 @@
       "name": "妖怪学園Y ～Nとの遭遇～",
       "name_cn": "妖怪学园Y ～第N类接触～",
       "tags": [
-        {
-          "name": "TV",
-          "count": 2
-        },
-        {
-          "name": "小桜エツコ",
-          "count": 1
-        },
-        {
-          "name": "2019",
-          "count": 1
-        },
-        {
-          "name": "レベルファイブ",
-          "count": 1
-        },
-        {
-          "name": "日野晃博",
-          "count": 1
-        },
-        {
-          "name": "OLMTEAMOTA",
-          "count": 1
-        },
-        {
-          "name": "関智一",
-          "count": 1
-        },
-        {
-          "name": "日本动画",
-          "count": 1
-        },
-        {
-          "name": "TVA",
-          "count": 1
-        },
-        {
-          "name": "戸松遥",
-          "count": 1
-        },
-        {
-          "name": "剧场版",
-          "count": 1
-        }
+        "2019",
+        "TV",
+        "小桜エツコ",
+        "レベルファイブ",
+        "日野晃博",
+        "OLMTEAMOTA",
+        "関智一",
+        "日本动画",
+        "TVA",
+        "戸松遥",
+        "剧场版",
+        "OLM"
       ],
       "infobox": [
         {
@@ -102,31 +70,7 @@
           "value": "2021年4月2日"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 6,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0,
-          "6": 2,
-          "7": 2,
-          "8": 2,
-          "9": 0,
-          "10": 0
-        },
-        "score": 7
-      },
       "total_episodes": 54,
-      "collection": {
-        "on_hold": 2,
-        "dropped": 7,
-        "wish": 12,
-        "collect": 8,
-        "doing": 1
-      },
       "id": 297455,
       "eps": 63,
       "volumes": 0,
@@ -238,126 +182,36 @@
       "name": "OBSOLETE",
       "name_cn": "OBSOLETE",
       "tags": [
-        {
-          "name": "WEB",
-          "count": 66
-        },
-        {
-          "name": "虚淵玄",
-          "count": 53
-        },
-        {
-          "name": "原创",
-          "count": 50
-        },
-        {
-          "name": "2019",
-          "count": 46
-        },
-        {
-          "name": "萝卜",
-          "count": 31
-        },
-        {
-          "name": "科幻",
-          "count": 26
-        },
-        {
-          "name": "白土晴一",
-          "count": 19
-        },
-        {
-          "name": "武右ェ門",
-          "count": 16
-        },
-        {
-          "name": "战争",
-          "count": 13
-        },
-        {
-          "name": "山田裕城",
-          "count": 12
-        },
-        {
-          "name": "TV",
-          "count": 10
-        },
-        {
-          "name": "2019年10月",
-          "count": 9
-        },
-        {
-          "name": "2019年12月",
-          "count": 7
-        },
-        {
-          "name": "2019年",
-          "count": 7
-        },
-        {
-          "name": "虚渊玄",
-          "count": 4
-        },
-        {
-          "name": "Youtube",
-          "count": 2
-        },
-        {
-          "name": "Skrillex",
-          "count": 2
-        },
-        {
-          "name": "3D",
-          "count": 2
-        },
-        {
-          "name": "机战",
-          "count": 2
-        },
-        {
-          "name": "短片",
-          "count": 2
-        },
-        {
-          "name": "武右门",
-          "count": 2
-        },
-        {
-          "name": "OVA",
-          "count": 2
-        },
-        {
-          "name": "日本动画",
-          "count": 2
-        },
-        {
-          "name": "2021",
-          "count": 1
-        },
-        {
-          "name": "19-12",
-          "count": 1
-        },
-        {
-          "name": "业界第一脚本家虚渊玄",
-          "count": 1
-        },
-        {
-          "name": "待補0",
-          "count": 1
-        },
-        {
-          "name": "可独立观赏",
-          "count": 1
-        },
-        {
-          "name": "A级",
-          "count": 1
-        },
-        {
-          "name": "2019.12",
-          "count": 1
-        }
+        "WEB",
+        "虚淵玄",
+        "原创",
+        "2019",
+        "萝卜",
+        "科幻",
+        "白土晴一",
+        "武右ェ門",
+        "战争",
+        "山田裕城",
+        "TV",
+        "2019年10月",
+        "2019年12月",
+        "2019年",
+        "虚渊玄",
+        "Youtube",
+        "Skrillex",
+        "3D",
+        "机战",
+        "短片",
+        "武右门",
+        "OVA",
+        "日本动画",
+        "2021",
+        "19-12",
+        "业界第一脚本家虚渊玄",
+        "待補0",
+        "可独立观赏",
+        "A级",
+        "2019.12"
       ],
       "infobox": [
         {
@@ -411,33 +265,17 @@
         {
           "key": "动画制作",
           "value": "武右ェ門"
+        },
+        {
+          "key": "设定",
+          "value": "設定監督 - 白土晴一   武器考証 - 鈴木貴昭"
+        },
+        {
+          "key": "製作",
+          "value": "PROJECT OBSOLETE（バンダイナムコアーツ、Nitro+、Good Smile Company、武右ェ門、バンダイナムコオンライン）"
         }
       ],
-      "rating": {
-        "rank": 6774,
-        "total": 163,
-        "count": {
-          "1": 2,
-          "2": 2,
-          "3": 8,
-          "4": 14,
-          "5": 39,
-          "6": 56,
-          "7": 37,
-          "8": 4,
-          "9": 1,
-          "10": 0
-        },
-        "score": 5.6
-      },
       "total_episodes": 6,
-      "collection": {
-        "on_hold": 25,
-        "dropped": 33,
-        "wish": 187,
-        "collect": 215,
-        "doing": 30
-      },
       "id": 291233,
       "eps": 6,
       "volumes": 0,
@@ -521,10 +359,7 @@
       "name": "ガイナタマガー",
       "name_cn": "盖纳塔玛格",
       "tags": [
-        {
-          "name": "空",
-          "count": 1
-        }
+        "空"
       ],
       "infobox": [
         {
@@ -548,31 +383,7 @@
           "value": "米子ガイナックス"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 1,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 1,
-          "6": 0,
-          "7": 0,
-          "8": 0,
-          "9": 0,
-          "10": 0
-        },
-        "score": 5
-      },
       "total_episodes": 13,
-      "collection": {
-        "on_hold": 2,
-        "dropped": 8,
-        "wish": 0,
-        "collect": 1,
-        "doing": 0
-      },
       "id": 288937,
       "eps": 13,
       "volumes": 0,
@@ -599,126 +410,36 @@
       "name": "斉木楠雄のΨ難 Ψ始動編",
       "name_cn": "齐木楠雄的灾难 再始动篇",
       "tags": [
-        {
-          "name": "搞笑",
-          "count": 797
-        },
-        {
-          "name": "J.C.STAFF",
-          "count": 633
-        },
-        {
-          "name": "校园",
-          "count": 432
-        },
-        {
-          "name": "2019年12月",
-          "count": 351
-        },
-        {
-          "name": "Netflix",
-          "count": 337
-        },
-        {
-          "name": "漫画改",
-          "count": 299
-        },
-        {
-          "name": "超能力",
-          "count": 293
-        },
-        {
-          "name": "漫改",
-          "count": 288
-        },
-        {
-          "name": "2019",
-          "count": 250
-        },
-        {
-          "name": "日常",
-          "count": 195
-        },
-        {
-          "name": "TV",
-          "count": 193
-        },
-        {
-          "name": "WEB",
-          "count": 161
-        },
-        {
-          "name": "神谷浩史",
-          "count": 124
-        },
-        {
-          "name": "齐木楠雄的灾难",
-          "count": 71
-        },
-        {
-          "name": "EGGFIRM",
-          "count": 47
-        },
-        {
-          "name": "樱井弘明",
-          "count": 33
-        },
-        {
-          "name": "OVA",
-          "count": 20
-        },
-        {
-          "name": "奇幻",
-          "count": 19
-        },
-        {
-          "name": "吐槽",
-          "count": 17
-        },
-        {
-          "name": "桜井弘明",
-          "count": 16
-        },
-        {
-          "name": "2020年1月",
-          "count": 15
-        },
-        {
-          "name": "茅野爱衣",
-          "count": 10
-        },
-        {
-          "name": "齐木楠雄，搞笑",
-          "count": 10
-        },
-        {
-          "name": "齐木楠雄",
-          "count": 9
-        },
-        {
-          "name": "续作",
-          "count": 9
-        },
-        {
-          "name": "2019年10月",
-          "count": 9
-        },
-        {
-          "name": "日本",
-          "count": 8
-        },
-        {
-          "name": "2019年",
-          "count": 7
-        },
-        {
-          "name": "EGG_FIRM",
-          "count": 6
-        },
-        {
-          "name": "麻生周一",
-          "count": 6
-        }
+        "搞笑",
+        "J.C.STAFF",
+        "校园",
+        "2019年12月",
+        "Netflix",
+        "漫画改",
+        "超能力",
+        "漫改",
+        "2019",
+        "日常",
+        "TV",
+        "WEB",
+        "神谷浩史",
+        "齐木楠雄的灾难",
+        "EGGFIRM",
+        "樱井弘明",
+        "OVA",
+        "奇幻",
+        "吐槽",
+        "桜井弘明",
+        "2020年1月",
+        "茅野爱衣",
+        "齐木楠雄，搞笑",
+        "2019年10月",
+        "续作",
+        "齐木楠雄",
+        "日本",
+        "2019年",
+        "EGG_FIRM",
+        "麻生周一"
       ],
       "infobox": [
         {
@@ -766,31 +487,7 @@
           "value": "EGG FIRM×J.C.STAFF"
         }
       ],
-      "rating": {
-        "rank": 1321,
-        "total": 3129,
-        "count": {
-          "1": 3,
-          "2": 4,
-          "3": 6,
-          "4": 17,
-          "5": 87,
-          "6": 349,
-          "7": 1330,
-          "8": 1084,
-          "9": 155,
-          "10": 94
-        },
-        "score": 7.3
-      },
       "total_episodes": 6,
-      "collection": {
-        "on_hold": 56,
-        "dropped": 31,
-        "wish": 312,
-        "collect": 5394,
-        "doing": 100
-      },
       "id": 278899,
       "eps": 6,
       "volumes": 0,
@@ -860,102 +557,30 @@
       "name": "FASTENING DAYS 4",
       "name_cn": "拉链超人组 4",
       "tags": [
-        {
-          "name": "短片",
-          "count": 16
-        },
-        {
-          "name": "WEB",
-          "count": 15
-        },
-        {
-          "name": "2019",
-          "count": 13
-        },
-        {
-          "name": "Colorido",
-          "count": 6
-        },
-        {
-          "name": "StudioColorido",
-          "count": 4
-        },
-        {
-          "name": "原创",
-          "count": 4
-        },
-        {
-          "name": "山下清悟",
-          "count": 4
-        },
-        {
-          "name": "CM",
-          "count": 2
-        },
-        {
-          "name": "广告",
-          "count": 2
-        },
-        {
-          "name": "2019年",
-          "count": 1
-        },
-        {
-          "name": "白石凉子",
-          "count": 1
-        },
-        {
-          "name": "绪乃冬华",
-          "count": 1
-        },
-        {
-          "name": "スタジオコロリド",
-          "count": 1
-        },
-        {
-          "name": "2019年12月",
-          "count": 1
-        },
-        {
-          "name": "undefined",
-          "count": 1
-        },
-        {
-          "name": "钉宫理惠",
-          "count": 1
-        },
-        {
-          "name": "日本",
-          "count": 1
-        },
-        {
-          "name": "科幻",
-          "count": 1
-        },
-        {
-          "name": "正太",
-          "count": 1
-        },
-        {
-          "name": "矢作纱友里",
-          "count": 1
-        },
-        {
-          "name": "日本动画",
-          "count": 1
-        },
-        {
-          "name": "动作",
-          "count": 1
-        },
-        {
-          "name": "短篇",
-          "count": 1
-        },
-        {
-          "name": "神田朱未",
-          "count": 1
-        }
+        "短片",
+        "WEB",
+        "2019",
+        "Colorido",
+        "StudioColorido",
+        "原创",
+        "山下清悟",
+        "CM",
+        "广告",
+        "2019年",
+        "白石凉子",
+        "绪乃冬华",
+        "スタジオコロリド",
+        "2019年12月",
+        "undefined",
+        "钉宫理惠",
+        "日本",
+        "科幻",
+        "正太",
+        "矢作纱友里",
+        "日本动画",
+        "动作",
+        "短篇",
+        "神田朱未"
       ],
       "infobox": [
         {
@@ -983,31 +608,7 @@
           "value": "YouTube"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 29,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 1,
-          "5": 10,
-          "6": 10,
-          "7": 6,
-          "8": 2,
-          "9": 0,
-          "10": 0
-        },
-        "score": 5.9
-      },
       "total_episodes": 3,
-      "collection": {
-        "on_hold": 1,
-        "dropped": 7,
-        "wish": 9,
-        "collect": 43,
-        "doing": 0
-      },
       "id": 296114,
       "eps": 3,
       "volumes": 0,
@@ -1063,42 +664,16 @@
       "name": "映画 妖怪学園Y 猫はHEROになれるか",
       "name_cn": "妖怪学园Y 猫也能成为HERO 吗",
       "tags": [
-        {
-          "name": "ウシロシンジ",
-          "count": 3
-        },
-        {
-          "name": "OLMTEAMOTA",
-          "count": 3
-        },
-        {
-          "name": "剧场版",
-          "count": 2
-        },
-        {
-          "name": "2019",
-          "count": 2
-        },
-        {
-          "name": "加藤陽一",
-          "count": 1
-        },
-        {
-          "name": "小桜エツコ",
-          "count": 1
-        },
-        {
-          "name": "日本动画",
-          "count": 1
-        },
-        {
-          "name": "戸松遥",
-          "count": 1
-        },
-        {
-          "name": "関智一",
-          "count": 1
-        }
+        "剧场版",
+        "ウシロシンジ",
+        "2019",
+        "OLMTEAMOTA",
+        "加藤陽一",
+        "OLM",
+        "日本动画",
+        "戸松遥",
+        "関智一",
+        "小桜エツコ"
       ],
       "infobox": [
         {
@@ -1134,31 +709,7 @@
           "value": "1"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 2,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0,
-          "6": 1,
-          "7": 0,
-          "8": 0,
-          "9": 1,
-          "10": 0
-        },
-        "score": 7.5
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 2,
-        "dropped": 6,
-        "wish": 5,
-        "collect": 8,
-        "doing": 1
-      },
       "id": 277457,
       "eps": 1,
       "volumes": 0,
@@ -1228,126 +779,36 @@
       "name": "ルパン三世 THE FIRST",
       "name_cn": "鲁邦三世 THE FIRST",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 84
-        },
-        {
-          "name": "鲁邦三世",
-          "count": 56
-        },
-        {
-          "name": "2019",
-          "count": 46
-        },
-        {
-          "name": "TMS",
-          "count": 29
-        },
-        {
-          "name": "3D",
-          "count": 21
-        },
-        {
-          "name": "MARZA",
-          "count": 17
-        },
-        {
-          "name": "TMSEntertainment",
-          "count": 13
-        },
-        {
-          "name": "山崎貴",
-          "count": 12
-        },
-        {
-          "name": "漫改",
-          "count": 10
-        },
-        {
-          "name": "3dcg",
-          "count": 10
-        },
-        {
-          "name": "漫画改",
-          "count": 8
-        },
-        {
-          "name": "山崎贵",
-          "count": 7
-        },
-        {
-          "name": "原创",
-          "count": 5
-        },
-        {
-          "name": "広瀬すず",
-          "count": 4
-        },
-        {
-          "name": "CG",
-          "count": 3
-        },
-        {
-          "name": "搞笑",
-          "count": 3
-        },
-        {
-          "name": "动画电影",
-          "count": 2
-        },
-        {
-          "name": "2010-2019",
-          "count": 1
-        },
-        {
-          "name": "2019年",
-          "count": 1
-        },
-        {
-          "name": "留存",
-          "count": 1
-        },
-        {
-          "name": "日本",
-          "count": 1
-        },
-        {
-          "name": "动画",
-          "count": 1
-        },
-        {
-          "name": "undefined",
-          "count": 1
-        },
-        {
-          "name": "MARZA_ANIMATION_PLANET",
-          "count": 1
-        },
-        {
-          "name": "3DCG☆",
-          "count": 1
-        },
-        {
-          "name": "过于套路",
-          "count": 1
-        },
-        {
-          "name": "2019年12月",
-          "count": 1
-        },
-        {
-          "name": "MARZA.ANIMATION.PLANET",
-          "count": 1
-        },
-        {
-          "name": "小林清志",
-          "count": 1
-        },
-        {
-          "name": "映画",
-          "count": 1
-        }
+        "剧场版",
+        "鲁邦三世",
+        "2019",
+        "TMS",
+        "3D",
+        "MARZA",
+        "TMSEntertainment",
+        "山崎貴",
+        "漫改",
+        "3dcg",
+        "漫画改",
+        "山崎贵",
+        "原创",
+        "広瀬すず",
+        "CG",
+        "搞笑",
+        "动画电影",
+        "过于套路",
+        "2019年",
+        "日本",
+        "2010-2019",
+        "留存",
+        "动画",
+        "undefined",
+        "TMS娱乐",
+        "3DCG☆",
+        "MARZA_ANIMATION_PLANET",
+        "2019年12月",
+        "MARZA.ANIMATION.PLANET",
+        "栗田貫一"
       ],
       "infobox": [
         {
@@ -1383,31 +844,7 @@
           "value": "1"
         }
       ],
-      "rating": {
-        "rank": 3564,
-        "total": 192,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 1,
-          "5": 19,
-          "6": 55,
-          "7": 87,
-          "8": 30,
-          "9": 0,
-          "10": 0
-        },
-        "score": 6.7
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 10,
-        "dropped": 8,
-        "wish": 109,
-        "collect": 278,
-        "doing": 9
-      },
       "id": 286238,
       "eps": 1,
       "volumes": 0,
@@ -1477,126 +914,36 @@
       "name": "ぼくらの7日間戦争",
       "name_cn": "我们的七日战争",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 241
-        },
-        {
-          "name": "2019",
-          "count": 142
-        },
-        {
-          "name": "大河内一楼",
-          "count": 121
-        },
-        {
-          "name": "亚细亚堂",
-          "count": 90
-        },
-        {
-          "name": "小说改",
-          "count": 86
-        },
-        {
-          "name": "百合",
-          "count": 58
-        },
-        {
-          "name": "青春",
-          "count": 55
-        },
-        {
-          "name": "村野佑太",
-          "count": 44
-        },
-        {
-          "name": "轻改",
-          "count": 34
-        },
-        {
-          "name": "2019年",
-          "count": 20
-        },
-        {
-          "name": "轻小说改",
-          "count": 20
-        },
-        {
-          "name": "动画电影",
-          "count": 9
-        },
-        {
-          "name": "亜細亜堂",
-          "count": 9
-        },
-        {
-          "name": "日本",
-          "count": 7
-        },
-        {
-          "name": "日本动画",
-          "count": 7
-        },
-        {
-          "name": "电影",
-          "count": 6
-        },
-        {
-          "name": "2019年12月",
-          "count": 4
-        },
-        {
-          "name": "未确定",
-          "count": 3
-        },
-        {
-          "name": "アニメ映画",
-          "count": 3
-        },
-        {
-          "name": "我们的七日战争",
-          "count": 3
-        },
-        {
-          "name": "日本动画电影",
-          "count": 2
-        },
-        {
-          "name": "日常",
-          "count": 2
-        },
-        {
-          "name": "原创",
-          "count": 2
-        },
-        {
-          "name": "恋爱",
-          "count": 2
-        },
-        {
-          "name": "2010-2019",
-          "count": 2
-        },
-        {
-          "name": "非院线观看",
-          "count": 1
-        },
-        {
-          "name": "2019年10月",
-          "count": 1
-        },
-        {
-          "name": "剧场版2",
-          "count": 1
-        },
-        {
-          "name": "中推",
-          "count": 1
-        },
-        {
-          "name": "VCB",
-          "count": 1
-        }
+        "剧场版",
+        "2019",
+        "大河内一楼",
+        "亚细亚堂",
+        "小说改",
+        "百合",
+        "青春",
+        "村野佑太",
+        "轻改",
+        "2019年",
+        "轻小说改",
+        "动画电影",
+        "亜細亜堂",
+        "日本",
+        "日本动画",
+        "电影",
+        "2019年12月",
+        "未确定",
+        "アニメ映画",
+        "我们的七日战争",
+        "日本动画电影",
+        "日常",
+        "原创",
+        "恋爱",
+        "2010-2019",
+        "非院线观看",
+        "2019年10月",
+        "剧场版2",
+        "中推",
+        "VCB"
       ],
       "infobox": [
         {
@@ -1663,31 +1010,7 @@
           "value": "1"
         }
       ],
-      "rating": {
-        "rank": 6644,
-        "total": 540,
-        "count": {
-          "1": 7,
-          "2": 5,
-          "3": 20,
-          "4": 39,
-          "5": 111,
-          "6": 166,
-          "7": 137,
-          "8": 39,
-          "9": 11,
-          "10": 5
-        },
-        "score": 5.9
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 28,
-        "dropped": 26,
-        "wish": 303,
-        "collect": 731,
-        "doing": 18
-      },
       "id": 245671,
       "eps": 1,
       "volumes": 0,
@@ -1813,126 +1136,36 @@
       "name": "僕のヒーローアカデミア  THE MOVIE ヒーローズ：ライジング",
       "name_cn": "我的英雄学院：英雄崛起",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 121
-        },
-        {
-          "name": "BONES",
-          "count": 81
-        },
-        {
-          "name": "2019",
-          "count": 54
-        },
-        {
-          "name": "我的英雄学院",
-          "count": 45
-        },
-        {
-          "name": "热血",
-          "count": 45
-        },
-        {
-          "name": "战斗",
-          "count": 36
-        },
-        {
-          "name": "漫改",
-          "count": 30
-        },
-        {
-          "name": "2019年12月",
-          "count": 30
-        },
-        {
-          "name": "JUMP",
-          "count": 20
-        },
-        {
-          "name": "長崎健司",
-          "count": 19
-        },
-        {
-          "name": "漫画改",
-          "count": 16
-        },
-        {
-          "name": "黒田洋介",
-          "count": 6
-        },
-        {
-          "name": "日本动画",
-          "count": 4
-        },
-        {
-          "name": "黑田洋介",
-          "count": 3
-        },
-        {
-          "name": "奇幻",
-          "count": 3
-        },
-        {
-          "name": "日本",
-          "count": 3
-        },
-        {
-          "name": "2019年",
-          "count": 2
-        },
-        {
-          "name": "辱华",
-          "count": 2
-        },
-        {
-          "name": "长崎健司",
-          "count": 2
-        },
-        {
-          "name": "馬越嘉彦",
-          "count": 2
-        },
-        {
-          "name": "2010s",
-          "count": 2
-        },
-        {
-          "name": "2020",
-          "count": 2
-        },
-        {
-          "name": "林ゆうき",
-          "count": 2
-        },
-        {
-          "name": "作画",
-          "count": 2
-        },
-        {
-          "name": "动画",
-          "count": 2
-        },
-        {
-          "name": "校园",
-          "count": 2
-        },
-        {
-          "name": "劇場版",
-          "count": 2
-        },
-        {
-          "name": "原创",
-          "count": 2
-        },
-        {
-          "name": "超能力",
-          "count": 1
-        },
-        {
-          "name": "#WeSupportYouHorikoshi",
-          "count": 1
-        }
+        "剧场版",
+        "BONES",
+        "2019",
+        "我的英雄学院",
+        "热血",
+        "战斗",
+        "漫改",
+        "2019年12月",
+        "JUMP",
+        "長崎健司",
+        "漫画改",
+        "黒田洋介",
+        "日本动画",
+        "黑田洋介",
+        "日本",
+        "2019年",
+        "奇幻",
+        "辱华",
+        "长崎健司",
+        "馬越嘉彦",
+        "2010s",
+        "2020",
+        "林ゆうき",
+        "作画",
+        "动画",
+        "校园",
+        "劇場版",
+        "原创",
+        "超能力",
+        "#WeSupportYouHorikoshi"
       ],
       "infobox": [
         {
@@ -1975,31 +1208,7 @@
           "value": "工藤雅人、小坂結季奈"
         }
       ],
-      "rating": {
-        "rank": 7809,
-        "total": 331,
-        "count": {
-          "1": 72,
-          "2": 10,
-          "3": 14,
-          "4": 28,
-          "5": 48,
-          "6": 64,
-          "7": 63,
-          "8": 18,
-          "9": 5,
-          "10": 9
-        },
-        "score": 4.8
-      },
       "total_episodes": 2,
-      "collection": {
-        "on_hold": 15,
-        "dropped": 126,
-        "wish": 132,
-        "collect": 484,
-        "doing": 16
-      },
       "id": 278429,
       "eps": 1,
       "volumes": 0,
@@ -2132,6 +1341,435 @@
           "relation": "书籍",
           "type": 1,
           "id": 386642
+        }
+      ]
+    }
+  },
+  {
+    "title": "新サクラ大戦",
+    "date": "2019-12-12",
+    "bangumi": {
+      "date": "2019-12-12",
+      "platform": "全部游戏",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/d1/279346_Ebow8.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/d1/279346_Ebow8.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/08/d1/279346_Ebow8.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/d1/279346_Ebow8.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/d1/279346_Ebow8.jpg"
+      },
+      "summary": "再び吹き荒れる――太正桜に浪漫の嵐\r\n\r\n『新サクラ大戦』は、太正二十九年の帝都・東京を舞台にしたまったく新しい物語を描く、『サクラ大戦』シリーズの完全新作です。\r\n『新サクラ大戦』の物語が始まるのは、『サクラ大戦V ～さらば愛しき人よ～』 から12年後の帝都・東京。\r\n主人公・神山誠十郎 率いる「新・帝国華撃団」が、再び帝都に現れた降魔や、世界の各都市に誕生した華撃団と激突します。\r\n\r\n太正十九年。帝都・東京において、\r\n後に「降魔大戦」と呼ばれる戦いが勃発する。\r\n帝都、巴里、紐育の華撃団はその脅威に果敢に立ち向かい、\r\nそして世界は救われた。\r\n勇敢なる華撃団、その消滅と引き換えに――\r\nその後、降魔大戦の激闘の功績から、\r\n華撃団の都市防衛構想は世界中に認められることとなり、\r\n「世界華撃団連盟（WLOF(ウルフ)）」が設立。\r\n世界各都市に華撃団が誕生していく。\r\n各国の華撃団は、世界華撃団連盟が開催する「華撃団競技会」で、\r\n歌劇と戦闘を競い合い、お互いの力を高めあっていた。\r\n二年に一度の乙女たちの戦いを、\r\n世界中は「世界華撃団大戦」として熱狂する。\r\nそれから十年の時が過ぎ、太正二十九年。\r\n長らく華撃団が途絶えていた帝都・東京にも、帝国華撃団が復活。\r\n新生「帝国華撃団・花組」も、世界華撃団大戦の勝利を目指し、\r\n戦いに挑んでゆく。\r\nしかし、友が、戦友が平和的に競い合うその祭典は、\r\n再び世界中に現れた降魔、\r\nそして謎の敵の登場により、「平和の祭典」から\r\n「世界の命運をかけた戦い」に急変していく。\r\n新主人公「神山誠十郎」率いる「新・帝国華撃団」は、\r\n帝都の、世界の平和を守り抜き、正義を示すことができるのか。\r\n──新たな「サクラ大戦」が、今始まる！",
+      "name": "新サクラ大戦",
+      "name_cn": "新樱花大战",
+      "tags": [
+        "PS4",
+        "SEGA",
+        "樱花大战",
+        "ACT",
+        "GAL",
+        "2019",
+        "日系",
+        "galgame",
+        "繁体中文版",
+        "纯爱",
+        "AVG",
+        "ADV",
+        "恋爱",
+        "ARPG",
+        "未发售",
+        "2019年12月",
+        "2019-12",
+        "PS5",
+        "舞台",
+        "2020",
+        "8分",
+        "6~7分",
+        "interested",
+        "幼驯染",
+        "PS",
+        "动作",
+        "SLG",
+        "机战",
+        "音乐",
+        "搞笑"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "新樱花大战"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Project Sakura Wars"
+            }
+          ]
+        },
+        {
+          "key": "平台",
+          "value": [
+            {
+              "v": "PS4"
+            }
+          ]
+        },
+        {
+          "key": "游戏类型",
+          "value": "ドラマチック3Dアクションアドベンチャー"
+        },
+        {
+          "key": "游玩人数",
+          "value": "1人"
+        },
+        {
+          "key": "发行日期",
+          "value": "2019年12月12日"
+        },
+        {
+          "key": "售价",
+          "value": [
+            {
+              "v": "通常版・ダウンロード版8,800円+税"
+            },
+            {
+              "v": "初回限定版・デジタルデラックス版14,800円+税"
+            }
+          ]
+        },
+        {
+          "key": "website",
+          "value": "http://sakura-taisen.com/game/shin-sakura/"
+        },
+        {
+          "key": "人物设定",
+          "value": "久保帯人 / 堀口悠紀子 / BUNBUN / 島田フミカネ / 杉森建 / いとうのいぢ / 副島成記 / 工藤昌史（角色视觉设计）"
+        },
+        {
+          "key": "音乐",
+          "value": "田中公平"
+        },
+        {
+          "key": "原作",
+          "value": "広井王子"
+        },
+        {
+          "key": "系列构成",
+          "value": "イシイジロウ"
+        },
+        {
+          "key": "开发",
+          "value": "SEGA"
+        },
+        {
+          "key": "机械设定",
+          "value": "明貴美加"
+        },
+        {
+          "key": "剧本",
+          "value": "鈴木貴昭"
+        },
+        {
+          "key": "制作总指挥",
+          "value": "里見治紀"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "天宮さくら(CV:佐倉綾音) / 東雲初穂(CV:内田真礼) / クラリス(CV:早見沙織) / 望月あざみ(CV:山村響) / アナスタシア・パルマ(CV:福原綾香)"
+        },
+        {
+          "key": "导演",
+          "value": "大坪鉄弥"
+        },
+        {
+          "key": "制作人",
+          "value": "片野徹"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 279346,
+      "eps": 0,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 4,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/d7/39244_8nN93.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/d7/39244_8nN93.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/d7/39244_8nN93.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/d7/39244_8nN93.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/d7/39244_8nN93.jpg"
+          },
+          "name": "サクラ大戦V 〜さらば愛しき人よ〜",
+          "name_cn": "樱花大战5 ～再见吾爱～",
+          "relation": "前传",
+          "type": 4,
+          "id": 39244
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/f9/289312_88D84.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/f9/289312_88D84.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/f9/289312_88D84.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/f9/289312_88D84.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/f9/289312_88D84.jpg"
+          },
+          "name": "新サクラ大戦 the Comic",
+          "name_cn": "新樱花大战 漫画版",
+          "relation": "书籍",
+          "type": 1,
+          "id": 289312
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e3/6e/290630_DfdRF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e3/6e/290630_DfdRF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e3/6e/290630_DfdRF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e3/6e/290630_DfdRF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e3/6e/290630_DfdRF.jpg"
+          },
+          "name": "新サクラ大戦 the Animation",
+          "name_cn": "新樱花大战 the Animation",
+          "relation": "动画",
+          "type": 2,
+          "id": 290630
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/dd/292789_v0UOG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/dd/292789_v0UOG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/49/dd/292789_v0UOG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/dd/292789_v0UOG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/dd/292789_v0UOG.jpg"
+          },
+          "name": "新サクラ大戦 初回限定版特典CD「『サクラ大戦』歴代歌謡集」",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 292789
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/5b/295248_924bm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/5b/295248_924bm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ac/5b/295248_924bm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/5b/295248_924bm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/5b/295248_924bm.jpg"
+          },
+          "name": "檄!帝国華撃団&lt;新章&gt;",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 295248
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/d2/305236_V8Dd5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/d2/305236_V8Dd5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/19/d2/305236_V8Dd5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/d2/305236_V8Dd5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/d2/305236_V8Dd5.jpg"
+          },
+          "name": "新サクラ大戦 設定資料集",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 305236
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/a9/305239_H02Ou.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/a9/305239_H02Ou.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0c/a9/305239_H02Ou.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/a9/305239_H02Ou.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/a9/305239_H02Ou.jpg"
+          },
+          "name": "新サクラ大戦 the Novel ~緋桜のころ~",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 305239
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/c3/305240_j3ZSv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/c3/305240_j3ZSv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/da/c3/305240_j3ZSv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/c3/305240_j3ZSv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/c3/305240_j3ZSv.jpg"
+          },
+          "name": "新サクラ大戦 コンプリートガイド",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 305240
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/c2/308338_ahARv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/c2/308338_ahARv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/c2/308338_ahARv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/c2/308338_ahARv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/c2/308338_ahARv.jpg"
+          },
+          "name": "新サクラ大戦 オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 308338
+        }
+      ]
+    }
+  },
+  {
+    "title": "幻想万華鏡 妖怪の山決戦の章 ～『東方風神録』より～",
+    "date": "2019-12-31",
+    "bangumi": {
+      "date": "2019-12-31",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/b5/282891_42KhM.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/b5/282891_42KhM.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/1c/b5/282891_42KhM.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/b5/282891_42KhM.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/b5/282891_42KhM.jpg"
+      },
+      "summary": "８年ごしの伏線、ついに回収！！\r\n2011年8月夏コミで頒布された幻想万華鏡１話で登場した東風谷早苗が、博麗神社を襲撃！\r\nもちろん黙ってやられている霊夢ではない！\r\n反撃に出た霊夢を迎え撃つは、幻想郷最大勢力・妖怪の山！\r\nまさに決戦の秋（とき）来たる！！\r\n今まで傍観者顔だった山の天狗・射命丸文もまた決断の秋（とき）が…！？",
+      "name": "幻想万華鏡 妖怪の山決戦の章 ～『東方風神録』より～",
+      "name_cn": "幻想万华镜 妖怪之山决战之章",
+      "tags": [
+        "同人",
+        "东方",
+        "OVA",
+        "満福神社",
+        "2019",
+        "幻想万华镜",
+        "東方Project",
+        "游戏改",
+        "奇幻",
+        "独立动画",
+        "2019年12月",
+        "OVA.OAD",
+        "senya",
+        "百合",
+        "车万",
+        "東方",
+        "满福神社",
+        "日本",
+        "短片",
+        "战斗",
+        "OVAOAD特典",
+        "异态",
+        "中意的",
+        "☐",
+        "令和",
+        "⊘日本",
+        "2019年",
+        "已保存",
+        "OVA-01",
+        "极致人设"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "幻想万华镜 妖怪之山决战之章"
+        },
+        {
+          "key": "话数",
+          "value": "4"
+        },
+        {
+          "key": "发售日",
+          "value": "2019年12月31日"
+        },
+        {
+          "key": "开始",
+          "value": "2019年12月31日"
+        },
+        {
+          "key": "结束",
+          "value": "2022年3月25日"
+        }
+      ],
+      "total_episodes": 4,
+      "id": 282891,
+      "eps": 4,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/b1/1154_v4Wsf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/b1/1154_v4Wsf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e8/b1/1154_v4Wsf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/b1/1154_v4Wsf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/b1/1154_v4Wsf.jpg"
+          },
+          "name": "東方風神録　～ Mountain of Faith.",
+          "name_cn": "东方风神录 ～ Mountain of Faith.",
+          "relation": "游戏",
+          "type": 4,
+          "id": 1154
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/aa/246771_m5m46.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/aa/246771_m5m46.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/aa/246771_m5m46.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/aa/246771_m5m46.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/aa/246771_m5m46.jpg"
+          },
+          "name": "幻想万華鏡 肝試しの章 ～『東方永夜抄』より～",
+          "name_cn": "幻想万华镜 试胆大会之章",
+          "relation": "前传",
+          "type": 2,
+          "id": 246771
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/9d/330468_az0dg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/9d/330468_az0dg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a5/9d/330468_az0dg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/9d/330468_az0dg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/9d/330468_az0dg.jpg"
+          },
+          "name": "幻想万華鏡 ～妖怪の山決戦の章（前編、中編）～ オリジナル・サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 330468
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/f4/410200_ekMIX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/f4/410200_ekMIX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6b/f4/410200_ekMIX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/f4/410200_ekMIX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/f4/410200_ekMIX.jpg"
+          },
+          "name": "幻想万華鏡～妖怪の山決戦の章（後編①・後編②）～オリジナル・サウンドトラック～",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 410200
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/52/429899_3453I.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/52/429899_3453I.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ac/52/429899_3453I.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/52/429899_3453I.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/52/429899_3453I.jpg"
+          },
+          "name": "幻想万華鏡 霊夢暗殺計画の章",
+          "name_cn": "幻想万华镜 灵梦暗杀计划之章",
+          "relation": "续集",
+          "type": 2,
+          "id": 429899
         }
       ]
     }

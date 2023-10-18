@@ -1,91 +1,5 @@
 [
   {
-    "title": "パッタ ポッタ モン太",
-    "date": "2006-07-31T23:30:00.000Z",
-    "bangumi": {
-      "date": "2006-08-01",
-      "platform": "TV",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/2c/188867_Vg3B5.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/2c/188867_Vg3B5.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/92/2c/188867_Vg3B5.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/2c/188867_Vg3B5.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/2c/188867_Vg3B5.jpg"
-      },
-      "summary": "本作は、制作会社東京キッズの創立15周年を記念して作られたオリジナルアニメとなっている。2006年8月から2007年1月にかけてUHFアニメの形態で放送されていた。",
-      "name": "パッタ ポッタ モン太",
-      "name_cn": "",
-      "tags": [
-        {
-          "name": "2006年七月番",
-          "count": 1
-        },
-        {
-          "name": "2006年",
-          "count": 1
-        },
-        {
-          "name": "2006年8月",
-          "count": 1
-        },
-        {
-          "name": "2006",
-          "count": 1
-        },
-        {
-          "name": "TV",
-          "count": 1
-        }
-      ],
-      "infobox": [
-        {
-          "key": "话数",
-          "value": "26"
-        },
-        {
-          "key": "放送开始",
-          "value": "2006年8月1日"
-        },
-        {
-          "key": "播放结束",
-          "value": "2007年1月30日"
-        }
-      ],
-      "rating": {
-        "rank": 0,
-        "total": 0,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0,
-          "6": 0,
-          "7": 0,
-          "8": 0,
-          "9": 0,
-          "10": 0
-        },
-        "score": 0
-      },
-      "total_episodes": 26,
-      "collection": {
-        "on_hold": 1,
-        "dropped": 3,
-        "wish": 2,
-        "collect": 1,
-        "doing": 0
-      },
-      "id": 188867,
-      "eps": 26,
-      "volumes": 0,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": []
-    }
-  },
-  {
     "title": "ケモノヅメ",
     "date": "2006-08-05T15:30:00.000Z",
     "bangumi": {
@@ -102,126 +16,36 @@
       "name": "ケモノヅメ",
       "name_cn": "兽爪",
       "tags": [
-        {
-          "name": "汤浅政明",
-          "count": 386
-        },
-        {
-          "name": "MADHouse",
-          "count": 290
-        },
-        {
-          "name": "TV",
-          "count": 211
-        },
-        {
-          "name": "2006",
-          "count": 182
-        },
-        {
-          "name": "原创",
-          "count": 138
-        },
-        {
-          "name": "猎奇",
-          "count": 116
-        },
-        {
-          "name": "爱情",
-          "count": 91
-        },
-        {
-          "name": "cult",
-          "count": 54
-        },
-        {
-          "name": "湯浅政明",
-          "count": 44
-        },
-        {
-          "name": "兽爪",
-          "count": 41
-        },
-        {
-          "name": "浪漫",
-          "count": 37
-        },
-        {
-          "name": "阴暗",
-          "count": 32
-        },
-        {
-          "name": "科幻",
-          "count": 25
-        },
-        {
-          "name": "中村健治",
-          "count": 14
-        },
-        {
-          "name": "恋爱",
-          "count": 11
-        },
-        {
-          "name": "TVA",
-          "count": 9
-        },
-        {
-          "name": "2006年8月",
-          "count": 7
-        },
-        {
-          "name": "2006年7月",
-          "count": 7
-        },
-        {
-          "name": "2006年",
-          "count": 6
-        },
-        {
-          "name": "补番",
-          "count": 5
-        },
-        {
-          "name": "2000s",
-          "count": 4
-        },
-        {
-          "name": "剧集",
-          "count": 4
-        },
-        {
-          "name": "日本动画",
-          "count": 4
-        },
-        {
-          "name": "アニメ",
-          "count": 4
-        },
-        {
-          "name": "奇幻",
-          "count": 4
-        },
-        {
-          "name": "小林治",
-          "count": 3
-        },
-        {
-          "name": "风格",
-          "count": 3
-        },
-        {
-          "name": "高桥敦史",
-          "count": 3
-        },
-        {
-          "name": "清水洋",
-          "count": 3
-        },
-        {
-          "name": "日本",
-          "count": 3
-        }
+        "汤浅政明",
+        "MADHouse",
+        "TV",
+        "2006",
+        "原创",
+        "猎奇",
+        "爱情",
+        "cult",
+        "湯浅政明",
+        "兽爪",
+        "浪漫",
+        "阴暗",
+        "科幻",
+        "中村健治",
+        "恋爱",
+        "TVA",
+        "2006年8月",
+        "2006年7月",
+        "2006年",
+        "补番",
+        "2000s",
+        "剧集",
+        "日本动画",
+        "アニメ",
+        "奇幻",
+        "小林治",
+        "伊东伸高",
+        "风格",
+        "高桥敦史",
+        "清水洋"
       ],
       "infobox": [
         {
@@ -264,31 +88,7 @@
           "value": "伊東伸高"
         }
       ],
-      "rating": {
-        "rank": 658,
-        "total": 876,
-        "count": {
-          "1": 1,
-          "2": 0,
-          "3": 5,
-          "4": 5,
-          "5": 19,
-          "6": 74,
-          "7": 271,
-          "8": 334,
-          "9": 117,
-          "10": 50
-        },
-        "score": 7.6
-      },
       "total_episodes": 13,
-      "collection": {
-        "on_hold": 102,
-        "dropped": 30,
-        "wish": 871,
-        "collect": 1165,
-        "doing": 78
-      },
       "id": 4237,
       "eps": 13,
       "volumes": 0,
@@ -344,126 +144,36 @@
       "name": "ギャグマンガ日和2",
       "name_cn": "搞笑漫画日和2",
       "tags": [
-        {
-          "name": "日和",
-          "count": 503
-        },
-        {
-          "name": "吐槽",
-          "count": 496
-        },
-        {
-          "name": "搞笑",
-          "count": 270
-        },
-        {
-          "name": "熊吉怎么又是你",
-          "count": 248
-        },
-        {
-          "name": "泡面番",
-          "count": 203
-        },
-        {
-          "name": "2006",
-          "count": 194
-        },
-        {
-          "name": "光速吐槽",
-          "count": 193
-        },
-        {
-          "name": "TV",
-          "count": 173
-        },
-        {
-          "name": "大地丙太郎",
-          "count": 149
-        },
-        {
-          "name": "神作",
-          "count": 141
-        },
-        {
-          "name": "ArtLand",
-          "count": 102
-        },
-        {
-          "name": "恶搞",
-          "count": 100
-        },
-        {
-          "name": "漫画改",
-          "count": 63
-        },
-        {
-          "name": "語速",
-          "count": 40
-        },
-        {
-          "name": "名冢佳织",
-          "count": 38
-        },
-        {
-          "name": "囧ED",
-          "count": 34
-        },
-        {
-          "name": "kuso",
-          "count": 33
-        },
-        {
-          "name": "漫改",
-          "count": 32
-        },
-        {
-          "name": "不正经",
-          "count": 20
-        },
-        {
-          "name": "2006年7月",
-          "count": 19
-        },
-        {
-          "name": "泡面",
-          "count": 16
-        },
-        {
-          "name": "2006年",
-          "count": 16
-        },
-        {
-          "name": "2006年8月",
-          "count": 15
-        },
-        {
-          "name": "动画",
-          "count": 14
-        },
-        {
-          "name": "日本",
-          "count": 9
-        },
-        {
-          "name": "搞笑漫画日和",
-          "count": 7
-        },
-        {
-          "name": "日本动画",
-          "count": 7
-        },
-        {
-          "name": "ギャグ",
-          "count": 7
-        },
-        {
-          "name": "续作",
-          "count": 6
-        },
-        {
-          "name": "anime",
-          "count": 6
-        }
+        "日和",
+        "吐槽",
+        "搞笑",
+        "熊吉怎么又是你",
+        "泡面番",
+        "光速吐槽",
+        "2006",
+        "TV",
+        "大地丙太郎",
+        "神作",
+        "ArtLand",
+        "恶搞",
+        "漫画改",
+        "語速",
+        "名冢佳织",
+        "囧ED",
+        "漫改",
+        "kuso",
+        "2006年7月",
+        "不正经",
+        "2006年",
+        "泡面",
+        "2006年8月",
+        "动画",
+        "日本",
+        "ギャグ",
+        "日本动画",
+        "搞笑漫画日和",
+        "续作",
+        "anime"
       ],
       "infobox": [
         {
@@ -541,31 +251,7 @@
           "value": "矢部雅史"
         }
       ],
-      "rating": {
-        "rank": 415,
-        "total": 2608,
-        "count": {
-          "1": 13,
-          "2": 4,
-          "3": 3,
-          "4": 7,
-          "5": 54,
-          "6": 198,
-          "7": 695,
-          "8": 976,
-          "9": 416,
-          "10": 242
-        },
-        "score": 7.8
-      },
       "total_episodes": 12,
-      "collection": {
-        "on_hold": 55,
-        "dropped": 39,
-        "wish": 336,
-        "collect": 4182,
-        "doing": 43
-      },
       "id": 2460,
       "eps": 12,
       "volumes": 0,
@@ -635,46 +321,16 @@
       "name": "HANOKA〜葉ノ香〜",
       "name_cn": "最终兵器魔神少女 叶之香",
       "tags": [
-        {
-          "name": "TV",
-          "count": 5
-        },
-        {
-          "name": "2006",
-          "count": 3
-        },
-        {
-          "name": "战争",
-          "count": 1
-        },
-        {
-          "name": "Ⅰ类tv",
-          "count": 1
-        },
-        {
-          "name": "其他",
-          "count": 1
-        },
-        {
-          "name": "幻想",
-          "count": 1
-        },
-        {
-          "name": "恋爱",
-          "count": 1
-        },
-        {
-          "name": "催泪",
-          "count": 1
-        },
-        {
-          "name": "校园",
-          "count": 1
-        },
-        {
-          "name": "漫画改",
-          "count": 1
-        }
+        "TV",
+        "2006",
+        "战争",
+        "Ⅰ类tv",
+        "其他",
+        "幻想",
+        "恋爱",
+        "催泪",
+        "校园",
+        "漫画改"
       ],
       "infobox": [
         {
@@ -706,31 +362,7 @@
           "value": "高山晃"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 8,
-        "count": {
-          "1": 0,
-          "2": 1,
-          "3": 1,
-          "4": 1,
-          "5": 1,
-          "6": 2,
-          "7": 2,
-          "8": 0,
-          "9": 0,
-          "10": 0
-        },
-        "score": 5
-      },
       "total_episodes": 12,
-      "collection": {
-        "on_hold": 4,
-        "dropped": 4,
-        "wish": 21,
-        "collect": 15,
-        "doing": 1
-      },
       "id": 105078,
       "eps": 12,
       "volumes": 0,
@@ -772,114 +404,33 @@
       "name": "ピカチュウのわんぱくアイランド",
       "name_cn": "皮卡丘的淘气岛",
       "tags": [
-        {
-          "name": "OVA",
-          "count": 17
-        },
-        {
-          "name": "游戏改",
-          "count": 5
-        },
-        {
-          "name": "口袋妖怪",
-          "count": 5
-        },
-        {
-          "name": "神奇宝贝",
-          "count": 5
-        },
-        {
-          "name": "OLM",
-          "count": 5
-        },
-        {
-          "name": "2006",
-          "count": 4
-        },
-        {
-          "name": "剧场版",
-          "count": 3
-        },
-        {
-          "name": "pokemon",
-          "count": 3
-        },
-        {
-          "name": "2006年8月",
-          "count": 2
-        },
-        {
-          "name": "短片",
-          "count": 2
-        },
-        {
-          "name": "日本动画",
-          "count": 2
-        },
-        {
-          "name": "精灵宝可梦",
-          "count": 1
-        },
-        {
-          "name": "6分",
-          "count": 1
-        },
-        {
-          "name": "湯山邦彦",
-          "count": 1
-        },
-        {
-          "name": "OLMTEAMOTA",
-          "count": 1
-        },
-        {
-          "name": "番外性质",
-          "count": 1
-        },
-        {
-          "name": "YL",
-          "count": 1
-        },
-        {
-          "name": "オー・エル・エム",
-          "count": 1
-        },
-        {
-          "name": "ANA短篇",
-          "count": 1
-        },
-        {
-          "name": "武上純希",
-          "count": 1
-        },
-        {
-          "name": "热血",
-          "count": 1
-        },
-        {
-          "name": "童年",
-          "count": 1
-        },
-        {
-          "name": "2006年",
-          "count": 1
-        },
-        {
-          "name": "大谷育江",
-          "count": 1
-        },
-        {
-          "name": "子供向",
-          "count": 1
-        },
-        {
-          "name": "动画",
-          "count": 1
-        },
-        {
-          "name": "汤山邦彦",
-          "count": 1
-        }
+        "OVA",
+        "游戏改",
+        "口袋妖怪",
+        "神奇宝贝",
+        "OLM",
+        "2006",
+        "剧场版",
+        "pokemon",
+        "2006年8月",
+        "短片",
+        "日本动画",
+        "精灵宝可梦",
+        "6分",
+        "湯山邦彦",
+        "OLMTEAMOTA",
+        "番外性质",
+        "YL",
+        "オー・エル・エム",
+        "ANA短篇",
+        "武上純希",
+        "热血",
+        "童年",
+        "2006年",
+        "大谷育江",
+        "子供向",
+        "动画",
+        "汤山邦彦"
       ],
       "infobox": [
         {
@@ -907,31 +458,7 @@
           "value": "1"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 26,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 4,
-          "6": 10,
-          "7": 8,
-          "8": 3,
-          "9": 1,
-          "10": 0
-        },
-        "score": 6.5
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 2,
-        "dropped": 5,
-        "wish": 12,
-        "collect": 56,
-        "doing": 0
-      },
       "id": 90612,
       "eps": 1,
       "volumes": 0,
@@ -973,10 +500,7 @@
       "name": "ななみちゃん 第3シリーズ",
       "name_cn": "魔法娜娜咪 第三季",
       "tags": [
-        {
-          "name": "TVA-02",
-          "count": 1
-        }
+        "TVA-02"
       ],
       "infobox": [
         {
@@ -1004,31 +528,7 @@
           "value": "2006年11月17日"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 0,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 0,
-          "6": 0,
-          "7": 0,
-          "8": 0,
-          "9": 0,
-          "10": 0
-        },
-        "score": 0
-      },
       "total_episodes": 16,
-      "collection": {
-        "on_hold": 1,
-        "dropped": 3,
-        "wish": 1,
-        "collect": 1,
-        "doing": 0
-      },
       "id": 216379,
       "eps": 16,
       "volumes": 0,
@@ -1084,126 +584,36 @@
       "name": "シュヴァリエ 〜Le Chevalier D'Eon〜",
       "name_cn": "双面骑士",
       "tags": [
-        {
-          "name": "冲方丁",
-          "count": 166
-        },
-        {
-          "name": "ProductionI.G",
-          "count": 134
-        },
-        {
-          "name": "TV",
-          "count": 115
-        },
-        {
-          "name": "2006",
-          "count": 101
-        },
-        {
-          "name": "法国大革命",
-          "count": 93
-        },
-        {
-          "name": "伪娘",
-          "count": 87
-        },
-        {
-          "name": "CHEVALIER",
-          "count": 62
-        },
-        {
-          "name": "Production.I.G",
-          "count": 61
-        },
-        {
-          "name": "女装骑士",
-          "count": 50
-        },
-        {
-          "name": "法国",
-          "count": 48
-        },
-        {
-          "name": "I.G",
-          "count": 42
-        },
-        {
-          "name": "宫廷",
-          "count": 37
-        },
-        {
-          "name": "神秘学",
-          "count": 31
-        },
-        {
-          "name": "神配乐",
-          "count": 24
-        },
-        {
-          "name": "原创",
-          "count": 24
-        },
-        {
-          "name": "古桥一浩",
-          "count": 16
-        },
-        {
-          "name": "古橋一浩",
-          "count": 14
-        },
-        {
-          "name": "2006年8月",
-          "count": 12
-        },
-        {
-          "name": "历史",
-          "count": 10
-        },
-        {
-          "name": "漫画改",
-          "count": 8
-        },
-        {
-          "name": "2006年",
-          "count": 7
-        },
-        {
-          "name": "补番",
-          "count": 6
-        },
-        {
-          "name": "Production_I.G",
-          "count": 5
-        },
-        {
-          "name": "奇幻",
-          "count": 5
-        },
-        {
-          "name": "大島ミチル",
-          "count": 4
-        },
-        {
-          "name": "动画",
-          "count": 4
-        },
-        {
-          "name": "2006年7月",
-          "count": 4
-        },
-        {
-          "name": "大岛满",
-          "count": 3
-        },
-        {
-          "name": "Production.IG",
-          "count": 3
-        },
-        {
-          "name": "Production",
-          "count": 3
-        }
+        "冲方丁",
+        "ProductionI.G",
+        "TV",
+        "2006",
+        "法国大革命",
+        "伪娘",
+        "CHEVALIER",
+        "Production.I.G",
+        "女装骑士",
+        "法国",
+        "I.G",
+        "宫廷",
+        "神秘学",
+        "神配乐",
+        "原创",
+        "古桥一浩",
+        "古橋一浩",
+        "2006年8月",
+        "历史",
+        "漫画改",
+        "2006年",
+        "补番",
+        "奇幻",
+        "Production_I.G",
+        "2006年7月",
+        "大島ミチル",
+        "动画",
+        "Production.IG",
+        "大岛满",
+        "アニメ"
       ],
       "infobox": [
         {
@@ -1276,31 +686,7 @@
           "value": "Production I.G"
         }
       ],
-      "rating": {
-        "rank": 1014,
-        "total": 465,
-        "count": {
-          "1": 0,
-          "2": 1,
-          "3": 2,
-          "4": 1,
-          "5": 7,
-          "6": 67,
-          "7": 147,
-          "8": 182,
-          "9": 39,
-          "10": 19
-        },
-        "score": 7.5
-      },
       "total_episodes": 24,
-      "collection": {
-        "on_hold": 134,
-        "dropped": 49,
-        "wish": 743,
-        "collect": 601,
-        "doing": 94
-      },
       "id": 2083,
       "eps": 24,
       "volumes": 0,
@@ -1370,126 +756,36 @@
       "name": "劇場版 NARUTO -ナルト- 大興奮! みかづき島のアニマル騒動だってばよ",
       "name_cn": "火影忍者剧场版 大兴奋！三日月岛上的动物骚乱",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 194
-        },
-        {
-          "name": "火影忍者",
-          "count": 90
-        },
-        {
-          "name": "NARUTO",
-          "count": 68
-        },
-        {
-          "name": "热血",
-          "count": 57
-        },
-        {
-          "name": "2006",
-          "count": 51
-        },
-        {
-          "name": "StudioPierrot",
-          "count": 34
-        },
-        {
-          "name": "原创",
-          "count": 27
-        },
-        {
-          "name": "JUMP",
-          "count": 23
-        },
-        {
-          "name": "民工",
-          "count": 21
-        },
-        {
-          "name": "劇場版",
-          "count": 13
-        },
-        {
-          "name": "漫画改",
-          "count": 10
-        },
-        {
-          "name": "乱七八糟",
-          "count": 8
-        },
-        {
-          "name": "奇幻",
-          "count": 8
-        },
-        {
-          "name": "战斗",
-          "count": 7
-        },
-        {
-          "name": "映画",
-          "count": 6
-        },
-        {
-          "name": "都留稔幸",
-          "count": 6
-        },
-        {
-          "name": "ぴえろ",
-          "count": 5
-        },
-        {
-          "name": "日本动画",
-          "count": 5
-        },
-        {
-          "name": "漫改",
-          "count": 5
-        },
-        {
-          "name": "日本",
-          "count": 4
-        },
-        {
-          "name": "动画",
-          "count": 3
-        },
-        {
-          "name": "搞笑",
-          "count": 3
-        },
-        {
-          "name": "成長",
-          "count": 3
-        },
-        {
-          "name": "2006年8月",
-          "count": 3
-        },
-        {
-          "name": "忍者",
-          "count": 2
-        },
-        {
-          "name": "日本电影",
-          "count": 2
-        },
-        {
-          "name": "小丑社",
-          "count": 2
-        },
-        {
-          "name": "2006年",
-          "count": 2
-        },
-        {
-          "name": "电影",
-          "count": 2
-        },
-        {
-          "name": "o(╯□╰)o",
-          "count": 2
-        }
+        "剧场版",
+        "火影忍者",
+        "NARUTO",
+        "热血",
+        "2006",
+        "StudioPierrot",
+        "原创",
+        "JUMP",
+        "民工",
+        "劇場版",
+        "漫画改",
+        "乱七八糟",
+        "奇幻",
+        "战斗",
+        "都留稔幸",
+        "ぴえろ",
+        "映画",
+        "日本动画",
+        "漫改",
+        "日本",
+        "动画",
+        "搞笑",
+        "成長",
+        "2006年8月",
+        "忍者",
+        "日本电影",
+        "小丑社",
+        "2006年",
+        "电影",
+        "o(╯□╰)o"
       ],
       "infobox": [
         {
@@ -1533,31 +829,7 @@
           "value": "1"
         }
       ],
-      "rating": {
-        "rank": 6924,
-        "total": 472,
-        "count": {
-          "1": 3,
-          "2": 5,
-          "3": 13,
-          "4": 39,
-          "5": 96,
-          "6": 206,
-          "7": 84,
-          "8": 18,
-          "9": 2,
-          "10": 6
-        },
-        "score": 5.8
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 10,
-        "dropped": 22,
-        "wish": 34,
-        "collect": 837,
-        "doing": 2
-      },
       "id": 22108,
       "eps": 1,
       "volumes": 0,
@@ -1613,54 +885,18 @@
       "name": "リリとカエルと（弟）",
       "name_cn": "莉莉和青蛙和弟弟",
       "tags": [
-        {
-          "name": "2006",
-          "count": 12
-        },
-        {
-          "name": "TV",
-          "count": 10
-        },
-        {
-          "name": "东映",
-          "count": 10
-        },
-        {
-          "name": "短片",
-          "count": 9
-        },
-        {
-          "name": "Animax动画大赏",
-          "count": 4
-        },
-        {
-          "name": "原创",
-          "count": 3
-        },
-        {
-          "name": "OVA",
-          "count": 3
-        },
-        {
-          "name": "Ⅰ类tv",
-          "count": 1
-        },
-        {
-          "name": "TVSP",
-          "count": 1
-        },
-        {
-          "name": "東映",
-          "count": 1
-        },
-        {
-          "name": "東映アニメーション",
-          "count": 1
-        },
-        {
-          "name": "东映animation",
-          "count": 1
-        }
+        "2006",
+        "TV",
+        "东映",
+        "短片",
+        "Animax动画大赏",
+        "原创",
+        "OVA",
+        "Ⅰ类tv",
+        "TVSP",
+        "東映",
+        "東映アニメーション",
+        "东映animation"
       ],
       "infobox": [
         {
@@ -1704,31 +940,7 @@
           "value": "東映アニメーション"
         }
       ],
-      "rating": {
-        "rank": 0,
-        "total": 26,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 0,
-          "5": 8,
-          "6": 11,
-          "7": 5,
-          "8": 1,
-          "9": 0,
-          "10": 1
-        },
-        "score": 6.1
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 2,
-        "dropped": 7,
-        "wish": 16,
-        "collect": 37,
-        "doing": 2
-      },
       "id": 26458,
       "eps": 1,
       "volumes": 0,
@@ -1755,126 +967,36 @@
       "name": "遙かなる時空の中で 舞一夜",
       "name_cn": "遥远时空中 舞一夜",
       "tags": [
-        {
-          "name": "剧场版",
-          "count": 63
-        },
-        {
-          "name": "女性向",
-          "count": 38
-        },
-        {
-          "name": "多季史",
-          "count": 22
-        },
-        {
-          "name": "遥远时空中",
-          "count": 18
-        },
-        {
-          "name": "石田彰",
-          "count": 17
-        },
-        {
-          "name": "遥远",
-          "count": 15
-        },
-        {
-          "name": "后宫",
-          "count": 15
-        },
-        {
-          "name": "游戏动画化",
-          "count": 14
-        },
-        {
-          "name": "暗荣",
-          "count": 12
-        },
-        {
-          "name": "乙女",
-          "count": 12
-        },
-        {
-          "name": "乙女向",
-          "count": 10
-        },
-        {
-          "name": "2006",
-          "count": 9
-        },
-        {
-          "name": "人设",
-          "count": 6
-        },
-        {
-          "name": "樱井孝宏",
-          "count": 6
-        },
-        {
-          "name": "少女系",
-          "count": 6
-        },
-        {
-          "name": "movie",
-          "count": 4
-        },
-        {
-          "name": "声优",
-          "count": 4
-        },
-        {
-          "name": "游戏改",
-          "count": 3
-        },
-        {
-          "name": "関智一",
-          "count": 3
-        },
-        {
-          "name": "暗榮",
-          "count": 3
-        },
-        {
-          "name": "櫻井孝宏",
-          "count": 3
-        },
-        {
-          "name": "日本动画",
-          "count": 3
-        },
-        {
-          "name": "井上和彦",
-          "count": 3
-        },
-        {
-          "name": "高桥直纯",
-          "count": 2
-        },
-        {
-          "name": "中原茂",
-          "count": 2
-        },
-        {
-          "name": "补番",
-          "count": 2
-        },
-        {
-          "name": "逆后宫",
-          "count": 2
-        },
-        {
-          "name": "水野十子",
-          "count": 2
-        },
-        {
-          "name": "三木真一郎",
-          "count": 2
-        },
-        {
-          "name": "2006年",
-          "count": 2
-        }
+        "剧场版",
+        "女性向",
+        "多季史",
+        "遥远时空中",
+        "石田彰",
+        "遥远",
+        "后宫",
+        "游戏动画化",
+        "暗荣",
+        "乙女",
+        "乙女向",
+        "2006",
+        "人设",
+        "樱井孝宏",
+        "少女系",
+        "movie",
+        "声优",
+        "游戏改",
+        "関智一",
+        "暗榮",
+        "櫻井孝宏",
+        "日本动画",
+        "井上和彦",
+        "高桥直纯",
+        "中原茂",
+        "补番",
+        "逆后宫",
+        "水野十子",
+        "三木真一郎",
+        "2006年"
       ],
       "infobox": [
         {
@@ -1934,31 +1056,7 @@
           "value": "コーエー、バンダイビジュアル、アサツー ディ・ケイ、白泉社、TYO、Aniplex、シネカノン、ムービック、ゆめ太カンパニー（旧）"
         }
       ],
-      "rating": {
-        "rank": 3123,
-        "total": 177,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 0,
-          "4": 4,
-          "5": 21,
-          "6": 46,
-          "7": 63,
-          "8": 30,
-          "9": 8,
-          "10": 5
-        },
-        "score": 6.8
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 11,
-        "dropped": 12,
-        "wish": 53,
-        "collect": 271,
-        "doing": 2
-      },
       "id": 1944,
       "eps": 1,
       "volumes": 0,
@@ -2098,86 +1196,26 @@
       "name": "年をとった鰐",
       "name_cn": "年老的鳄鱼",
       "tags": [
-        {
-          "name": "短片",
-          "count": 29
-        },
-        {
-          "name": "山村浩二",
-          "count": 15
-        },
-        {
-          "name": "2006",
-          "count": 11
-        },
-        {
-          "name": "原创",
-          "count": 10
-        },
-        {
-          "name": "日本",
-          "count": 6
-        },
-        {
-          "name": "其他",
-          "count": 4
-        },
-        {
-          "name": "独立动画",
-          "count": 2
-        },
-        {
-          "name": "剧场版",
-          "count": 2
-        },
-        {
-          "name": "哔哩哔哩观看",
-          "count": 1
-        },
-        {
-          "name": "2000s",
-          "count": 1
-        },
-        {
-          "name": "以前",
-          "count": 1
-        },
-        {
-          "name": "Short_film",
-          "count": 1
-        },
-        {
-          "name": "画集改",
-          "count": 1
-        },
-        {
-          "name": "日本动画",
-          "count": 1
-        },
-        {
-          "name": "意识流",
-          "count": 1
-        },
-        {
-          "name": "动画",
-          "count": 1
-        },
-        {
-          "name": "社会",
-          "count": 1
-        },
-        {
-          "name": "人性",
-          "count": 1
-        },
-        {
-          "name": "另类",
-          "count": 1
-        },
-        {
-          "name": "2006年",
-          "count": 1
-        }
+        "短片",
+        "山村浩二",
+        "2006",
+        "原创",
+        "日本",
+        "其他",
+        "独立动画",
+        "剧场版",
+        "哔哩哔哩观看",
+        "2000s",
+        "以前",
+        "Short_film",
+        "画集改",
+        "日本动画",
+        "意识流",
+        "动画",
+        "社会",
+        "人性",
+        "另类",
+        "2006年"
       ],
       "infobox": [
         {
@@ -2221,31 +1259,7 @@
           "value": "1"
         }
       ],
-      "rating": {
-        "rank": 2953,
-        "total": 61,
-        "count": {
-          "1": 0,
-          "2": 0,
-          "3": 1,
-          "4": 1,
-          "5": 5,
-          "6": 17,
-          "7": 22,
-          "8": 14,
-          "9": 1,
-          "10": 0
-        },
-        "score": 6.7
-      },
       "total_episodes": 1,
-      "collection": {
-        "on_hold": 3,
-        "dropped": 6,
-        "wish": 19,
-        "collect": 87,
-        "doing": 0
-      },
       "id": 137292,
       "eps": 1,
       "volumes": 0,
@@ -2253,6 +1267,145 @@
       "nsfw": false,
       "type": 2,
       "relations": []
+    }
+  },
+  {
+    "title": "円盤皇女ワるきゅーレ 時と夢と銀河の宴",
+    "date": "2006-08-25",
+    "bangumi": {
+      "date": "2006-08-25",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/ac/73259_5tUMX.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/ac/73259_5tUMX.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a2/ac/73259_5tUMX.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/ac/73259_5tUMX.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/ac/73259_5tUMX.jpg"
+      },
+      "summary": "円盤皇女ワるきゅーレのOVA第4弾。第3弾『円盤皇女ワるきゅーレ　星霊節の花嫁』からのストーリーを継承し、前作の最終話でワルキューレとワるきゅーレに別れてしまったあとからはじまる。突然、鏡の中から現れた宇宙人の女性ユミル。学園惑星の同窓会があるからというが、聞いていなかったワルキューレは戸惑うのだった。もちろん、前作で勢揃いしたヴァルハラ八大皇女など、オールスターが出演し、シリーズ最終章にふさわしい盛り上がりを見せる。ストーリーのノリも賑やかで変わりなし。なお、原作は『鋼鉄天使くるみ』『魔法少女猫たると』の介錯である。",
+      "name": "円盤皇女ワるきゅーレ 時と夢と銀河の宴",
+      "name_cn": "圆盘皇女 时空与梦想的银河之宴",
+      "tags": [
+        "OVA",
+        "漫画改",
+        "2006",
+        "TNK",
+        "恋爱",
+        "圆盘皇女",
+        "漫改",
+        "童年",
+        "欧派",
+        "科幻",
+        "系列作",
+        "SF",
+        "后宫",
+        "高本宣弘",
+        "介错",
+        "2006年8月",
+        "井上喜久子",
+        "月村了衛",
+        "harem",
+        "门胁舞以",
+        "OVA-01",
+        "harem-like",
+        "鈴村健一",
+        "奇幻",
+        "巫女",
+        "肉",
+        "卖肉",
+        "搞笑",
+        "中原麻衣",
+        "铃村健一"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "圆盘皇女 时空与梦想的银河之宴"
+        },
+        {
+          "key": "话数",
+          "value": "2"
+        },
+        {
+          "key": "发售日",
+          "value": "2006年8月25日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.tokinoyu.net/"
+        },
+        {
+          "key": "开始",
+          "value": "2006年8月25日"
+        },
+        {
+          "key": "结束",
+          "value": "2006年10月25日"
+        },
+        {
+          "key": "キャラクターデザイン",
+          "value": "藤井まき"
+        },
+        {
+          "key": "アニメーション制作",
+          "value": "TNK"
+        },
+        {
+          "key": "製作",
+          "value": "時乃湯新館"
+        }
+      ],
+      "total_episodes": 2,
+      "id": 73259,
+      "eps": 2,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/98/18613_Jtz2D.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/98/18613_Jtz2D.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ae/98/18613_Jtz2D.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/98/18613_Jtz2D.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/98/18613_Jtz2D.jpg"
+          },
+          "name": "円盤皇女ワるきゅーレ 星霊節の花嫁",
+          "name_cn": "圆盘皇女 星灵节的新娘",
+          "relation": "前传",
+          "type": 2,
+          "id": 18613
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/13/39590_4qiqj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/13/39590_4qiqj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3d/13/39590_4qiqj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/13/39590_4qiqj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/13/39590_4qiqj.jpg"
+          },
+          "name": "円盤皇女ワるきゅーレ",
+          "name_cn": "圆盘皇女",
+          "relation": "书籍",
+          "type": 1,
+          "id": 39590
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/60/114315_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/60/114315_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/60/114315_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/60/114315_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/60/114315_jp.jpg"
+          },
+          "name": "One Kiss / それから",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 114315
+        }
+      ]
     }
   }
 ]
