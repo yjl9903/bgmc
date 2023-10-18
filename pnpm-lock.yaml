@@ -57,6 +57,15 @@ importers:
 
   packages/bgmd:
     dependencies:
+      bangumi-data:
+        specifier: '>=0.3.124'
+        version: 0.3.124
+      bgmc:
+        specifier: workspace:*
+        version: link:../bgmc
+      tmdbc:
+        specifier: workspace:*
+        version: link:../tmdbc
       type-fest:
         specifier: ^4.5.0
         version: 4.5.0
@@ -67,12 +76,6 @@ importers:
       '@types/fs-extra':
         specifier: ^11.0.2
         version: 11.0.2
-      bangumi-data:
-        specifier: ^0.3.124
-        version: 0.3.124
-      bgmc:
-        specifier: workspace:*
-        version: link:../bgmc
       breadc:
         specifier: ^0.9.6
         version: 0.9.6
@@ -85,9 +88,6 @@ importers:
       rimraf:
         specifier: ^5.0.5
         version: 5.0.5
-      tmdbc:
-        specifier: workspace:*
-        version: link:../tmdbc
       undici:
         specifier: ^5.26.3
         version: 5.26.3
@@ -1313,7 +1313,7 @@ packages:
 
   /bangumi-data@0.3.124:
     resolution: {integrity: sha512-LSpo0y0xVvnVaXN35ZocXymYnGuTBBjxdYl+2Jjez9eFUsE4hNCzfG7zkvtYwSC4ldGg6sYX/w7tVd0MWihb9w==}
-    dev: true
+    dev: false
 
   /base64-js@1.5.1:
     resolution: {integrity: sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==}
