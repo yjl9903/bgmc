@@ -29,6 +29,11 @@
       "import": "./data/full.json",
       "types": "./full.d.ts"
     },
+    "./calendar": {
+      "require": "./data/calendar.json",
+      "import": "./data/calendar.json",
+      "types": "./calendar.d.ts"
+    },
     "./transform": {
       "require": "./dist/transform.cjs",
       "import": "./dist/transform.mjs",
