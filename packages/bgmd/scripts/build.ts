@@ -34,13 +34,15 @@ async function buildFull(output: string) {
 }
 
 async function buildIndex(output: string) {
-  const bangumis = [...bangumiDB.values()].map((bgm) =>
-    transform(
-      bgm.bangumi,
-      { data: bangumiDB.getItem(bgm), tmdb: getTMDB(bgm) },
-      { omit: ['summary', 'tmdb.overview'] }
+  const bangumis = [...bangumiDB.values()]
+    .map((bgm) =>
+      transform(
+        bgm.bangumi,
+        { data: bangumiDB.getItem(bgm), tmdb: getTMDB(bgm) },
+        { omit: ['summary', 'tmdb.overview'] }
+      )
     )
-  );
+    .filter((b) => b.type === 'tv' || b.type === 'movie');
   await fs.writeFile(output, JSON.stringify({ bangumis }));
 }
 
