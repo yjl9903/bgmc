@@ -46,6 +46,6 @@ export interface FullBangumi {
 
     poster_path: string;
 
-    backdrop_path: string;
+    backdrop_path: string | null;
   };
 }

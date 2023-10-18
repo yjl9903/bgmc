@@ -33,7 +33,7 @@ export interface SearchResult<T> {
 export interface SearchResultItem {
   adult: boolean;
 
-  backdrop_path: string;
+  backdrop_path: string | null;
 
   id: number;
 
