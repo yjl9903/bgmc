@@ -4,6 +4,78 @@ on:
   workflow_dispatch:
 
 jobs:
+  prepare:
+    name: Prepare branch
+
+    runs-on: ubuntu-latest
+
+    outputs:
+      branch: ${{ steps.branch.outcome.branch }}
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare branch
+        id: branch
+        run: |
+          BRANCH=fetch-data/$(date +"%Y-%m-%d")
+
+          git checkout -b $BRANCH
+          git push -u origin $BRANCH
+
+          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+
+  bangumi:
+    name: Fetch Bangumi
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    needs:
+      - prepare
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.prepare.outputs.branch }}
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.4.0
+
+      - name: Setup node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20.x
+          cache: pnpm
+
+      - name: Install and build
+        run: |
+          pnpm install
+          pnpm build
+
+      - name: Fetch TMDB
+        run: |
+          npx tsx packages/bgmd/scripts/bangumi.ts | tee run.log
+          grep "^Info:"  run.log > data/bangumi-info.log
+          grep "^Error:" run.log > data/bangumi-error.log
+
+      - name: Push changes
+        run: |
+          TIMESTAMP=$(date +"%Y-%m-%d %T")
+          BRANCH=${{ needs.prepare.outputs.branch }}
+
+          git config user.email "actions@github.com"
+          git config user.name "GitHub Actions"
+
+          git add data
+          git commit -m "feat(bgmd): update bangumi data at $TIMESTAMP"
+          git push origin $BRANCH
+
   tmdb:
     name: Fetch TMDB
 
@@ -11,10 +83,15 @@ jobs:
 
     permissions:
       contents: write
-      pull-requests: write
+
+    needs:
+      - prepare
+      - bangumi
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.prepare.outputs.branch }}
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v2.4.0
@@ -44,21 +121,42 @@ jobs:
             data/tmdb/
             data/tmdb-*.log
 
-      - name: Create Pull Request
+      - name: Push changes
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH=fetch-tmdb/$(date +"%Y-%m-%d")
+          TIMESTAMP=$(date +"%Y-%m-%d %T")
+          BRANCH=${{ needs.prepare.outputs.branch }}
 
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
 
-          git checkout -b $BRANCH
           git add data
-          git commit -m "feat(bgmd): update TMDB data"
-          git push --force --set-upstream origin $BRANCH
+          git commit -m "feat(bgmd): update TMDB data at $TIMESTAMP"
+          git push origin $BRANCH
 
+  pr:
+    name: Create Pull Request
+
+    runs-on: ubuntu-latest
+
+    needs:
+      - prepare
+      - bangumi
+      - tmdb
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.prepare.outputs.branch }}
+
+      - name: Create Pull Request
+        run: |
           gh pr create \
-            --title "feat(bgmd): update TMDB data" \
-            --body  "Update TMDB data" \
-            --head  "$BRANCH"
+            --title "feat(bgmd): update data" \
+            --body  "Update data" \
+            --head  "${{ needs.prepare.outputs.branch }}"
