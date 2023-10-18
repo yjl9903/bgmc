@@ -371,4 +371,4 @@ cli
 
 cli.command('validate').action(async (options) => {});
 
-cli.run(process.argv.slice(2)).catch((err) => console.error(err));
+await cli.run(process.argv.slice(2)).catch((err) => console.error(err));

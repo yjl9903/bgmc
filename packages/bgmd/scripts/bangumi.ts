@@ -1,6 +1,7 @@
 import fs from 'fs-extra';
 import path from 'node:path';
 
+import { breadc } from 'breadc';
 import { BgmClient } from 'bgmc';
 import { items, type Item } from 'bangumi-data';
 
@@ -9,13 +10,15 @@ import { BangumiDataRoot, type BangumiItem } from './offline';
 
 await fs.ensureDir(BangumiDataRoot);
 
-const files = groupByBegin(items, (item) => (item.begin ? new Date(item.begin) : undefined));
-for (const [year, yearData] of files) {
-  const dir = path.join(BangumiDataRoot, '' + year);
-  await fs.ensureDir(dir);
-  for (const [month, monthData] of yearData) {
-    const file = path.join(dir, `${String(month).padStart(2, '0')}.json`);
-    await downloadSubject(file, monthData);
+async function main() {
+  const files = groupByBegin(items, (item) => (item.begin ? new Date(item.begin) : undefined));
+  for (const [year, yearData] of files) {
+    const dir = path.join(BangumiDataRoot, '' + year);
+    await fs.ensureDir(dir);
+    for (const [month, monthData] of yearData) {
+      const file = path.join(dir, `${String(month).padStart(2, '0')}.json`);
+      await downloadSubject(file, monthData);
+    }
   }
 }
 
@@ -58,3 +61,14 @@ async function downloadSubject(file: string, items: Item[]) {
     )
   );
 }
+
+const cli = breadc('tmdb');
+
+cli
+  .command('')
+  .option('--overwrite')
+  .action(async (options) => {
+    await main();
+  });
+
+await cli.run(process.argv.slice(2)).catch((err) => console.error(err));
