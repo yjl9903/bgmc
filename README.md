@@ -13,6 +13,8 @@
 npm i bgmd
 ```
 
+You can also just use the cdn `https://unpkg.com/bgmd@0/data/index.json`, `https://unpkg.com/bgmd@0/data/full.json`, or `https://unpkg.com/bgmd@0/data/calendar.json` to get the latest data.
+
 ### bgmc
 
 ```bash
