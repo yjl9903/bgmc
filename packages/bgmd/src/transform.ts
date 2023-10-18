@@ -11,7 +11,9 @@ interface TransformOptions<T extends PartialDeep<FullBangumi>> {
 }
 
 export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
-  bgm: SubjectInformation,
+  bgm: Omit<SubjectInformation, 'rating' | 'collection' | 'tags'> & {
+    tags: string[] | Array<{ name: string; count: number }>;
+  },
   extra: { data?: Item; tmdb?: {} } = {},
   options: TransformOptions<T> = {}
 ): T {
