@@ -1,6 +1,9 @@
 name: Fetch
 
 on:
+  schedule:
+    - cron: '11 11 * * *'
+
   workflow_dispatch:
     inputs:
       overwrite:
@@ -17,6 +20,7 @@ jobs:
 
     outputs:
       branch: ${{ steps.branch.outputs.branch }}
+      overwrite: ${{ inputs.overwrite || 'false' }}
 
     permissions:
       contents: write
@@ -66,7 +70,7 @@ jobs:
 
       - name: Fetch Bangumi
         run: |
-          npx tsx packages/bgmd/scripts/bangumi.ts --overwrite=${{ inputs.overwrite }} | tee run.log
+          npx tsx packages/bgmd/scripts/bangumi.ts --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
           grep "^Error:" run.log > data/bangumi-error.log || true
 
       # - name: Upload artifact
@@ -124,8 +128,8 @@ jobs:
 
       - name: Fetch TMDB
         run: |
-          npx tsx packages/bgmd/scripts/tmdb.ts --overwrite=${{ inputs.overwrite }} | tee run.log
-          if [ "${{ inputs.overwrite }}" = true ] ; then
+          npx tsx packages/bgmd/scripts/tmdb.ts --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
+          if [ "${{ needs.prepare.outputs.overwrite }}" = true ] ; then
             grep "^Info:"  run.log >  data/tmdb-info.log  || true
             grep "^Error:" run.log >  data/tmdb-error.log || true
           else
