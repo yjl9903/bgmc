@@ -4,6 +4,11 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+patchedDependencies:
+  release-it@16.2.1:
+    hash: qkctl4qlp6bzjwm5atme67czlu
+    path: patches/release-it@16.2.1.patch
+
 importers:
 
   .:
@@ -19,7 +24,7 @@ importers:
         version: 9.2.0
       release-it:
         specifier: ^16.2.1
-        version: 16.2.1(typescript@5.2.2)
+        version: 16.2.1(patch_hash=qkctl4qlp6bzjwm5atme67czlu)(typescript@5.2.2)
       rimraf:
         specifier: ^5.0.5
         version: 5.0.5
@@ -3739,7 +3744,7 @@ packages:
       rc: 1.2.8
     dev: true
 
-  /release-it@16.2.1(typescript@5.2.2):
+  /release-it@16.2.1(patch_hash=qkctl4qlp6bzjwm5atme67czlu)(typescript@5.2.2):
     resolution: {integrity: sha512-+bHiKPqkpld+NaiW+K/2WsjaHgfPB00J6uk8a+g8QyuBtzfFoMVe+GKsfaDO5ztEHRrSg+7luoXzd8IfvPNPig==}
     engines: {node: '>=16'}
     hasBin: true
@@ -3776,6 +3781,7 @@ packages:
       - supports-color
       - typescript
     dev: true
+    patched: true
 
   /resolve-alpn@1.2.1:
     resolution: {integrity: sha512-0a1F4l73/ZFZOakJnQ3FvkJ2+gSTQWz/r2KE5OdDY0TxPm5h4GkqkWWfM47T7HsbnOtcJVEF4epCVy6u7Q3K+g==}

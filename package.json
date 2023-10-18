@@ -36,5 +36,10 @@
   },
   "volta": {
     "node": "20.8.0"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "release-it@16.2.1": "patches/release-it@16.2.1.patch"
+    }
   }
 }
