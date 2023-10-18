@@ -177,8 +177,10 @@ jobs:
         run: |
           DATE=$(date +"%Y-%m-%d")
 
-          gh pr create \
-            --title "feat(bgmd): update data at $DATE" \
-            --body  "Update data" \
-            --head  "${{ needs.prepare.outputs.branch }}" \
-            --label "data"
+          if [[ $(git rev-list --count main..HEAD) -gt 0 ]]; then
+            gh pr create \
+              --title "feat(bgmd): update data at $DATE" \
+              --body  "Update data" \
+              --head  "${{ needs.prepare.outputs.branch }}" \
+              --label "data"
+          fi
