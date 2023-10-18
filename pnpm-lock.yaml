@@ -58,8 +58,8 @@ importers:
   packages/bgmd:
     dependencies:
       type-fest:
-        specifier: ^4.4.0
-        version: 4.4.0
+        specifier: ^4.5.0
+        version: 4.5.0
     devDependencies:
       '@onekuma/map':
         specifier: ^0.1.10
@@ -4327,8 +4327,8 @@ packages:
     engines: {node: '>=12.20'}
     dev: true
 
-  /type-fest@4.4.0:
-    resolution: {integrity: sha512-HT3RRs7sTfY22KuPQJkD/XjbTbxgP2Je5HPt6H6JEGvcjHd5Lqru75EbrP3tb4FYjNJ+DjLp+MNQTFQU0mhXNw==}
+  /type-fest@4.5.0:
+    resolution: {integrity: sha512-diLQivFzddJl4ylL3jxSkEc39Tpw7o1QeEHIPxVwryDK2lpB7Nqhzhuo6v5/Ls08Z0yPSAhsyAWlv1/H0ciNmw==}
     engines: {node: '>=16'}
     dev: false
 
