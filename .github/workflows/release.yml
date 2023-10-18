@@ -1,13 +1,15 @@
 name: Release
 
 on:
-  push:
-    tags:
-      - 'v*'
+  pull_request:
+    types:
+      - closed
 
 jobs:
   release:
     runs-on: ubuntu-latest
+
+    if: ${{ github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'data') }}
 
     permissions:
       contents: write
@@ -17,10 +19,20 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: actions/setup-node@v3
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.4.0
+
+      - name: Setup node
+        uses: actions/setup-node@v3
         with:
           node-version: 20.x
+          cache: pnpm
 
-      - run: npx changelogithub
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install and build
+        run: |
+          pnpm install
+          pnpm build
+
+      - name: Release
+        run: |
+          pnpm release:bgmd
