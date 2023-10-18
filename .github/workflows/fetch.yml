@@ -82,8 +82,6 @@ jobs:
           TIMESTAMP=$(date +"%Y-%m-%d %T")
           BRANCH=${{ needs.prepare.outputs.branch }}
 
-          git checkout -b $BRANCH
-
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
 
@@ -142,8 +140,6 @@ jobs:
         run: |
           TIMESTAMP=$(date +"%Y-%m-%d %T")
           BRANCH=${{ needs.prepare.outputs.branch }}
-
-          git checkout -b $BRANCH
 
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
