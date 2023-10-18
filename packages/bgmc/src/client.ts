@@ -7,6 +7,8 @@ import type {
   BGMSubject
 } from './types';
 
+import { BgmFetchError } from './error';
+
 export type Calendar = BGMSubject.Calendar;
 
 export type SubjectInformation = BGMSubject.Information;
@@ -76,10 +78,19 @@ export class BgmClient {
     const maxRetry = this.maxRetry;
     for (let i = 0; i < maxRetry; i++) {
       try {
-        return await this.fetch(url.toString(), {
+        const resp = await this.fetch(url.toString(), {
           headers: { 'User-Agent': BgmClient.userAgent }
-        }).then((r) => r.json());
+        });
+        if (resp.status !== 200) {
+          throw new BgmFetchError(resp);
+        }
+        return await resp.json();
       } catch (err) {
+        if (err instanceof BgmFetchError) {
+          if (err.response.status === 404) {
+            throw err;
+          }
+        }
         if (i + 1 === maxRetry) {
           throw err;
         }
