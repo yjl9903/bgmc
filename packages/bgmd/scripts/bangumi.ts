@@ -10,19 +10,23 @@ import { BangumiDataRoot, type BangumiItem } from './offline';
 
 await fs.ensureDir(BangumiDataRoot);
 
-async function main() {
+interface Options {
+  overwrite: boolean;
+}
+
+async function main(options: Options = { overwrite: true }) {
   const files = groupByBegin(items, (item) => (item.begin ? new Date(item.begin) : undefined));
   for (const [year, yearData] of files) {
     const dir = path.join(BangumiDataRoot, '' + year);
     await fs.ensureDir(dir);
     for (const [month, monthData] of yearData) {
       const file = path.join(dir, `${String(month).padStart(2, '0')}.json`);
-      await downloadSubject(file, monthData);
+      await downloadSubject(file, monthData, options);
     }
   }
 }
 
-async function downloadSubject(file: string, items: Item[]) {
+async function downloadSubject(file: string, items: Item[], options: Options) {
   const client = new BgmClient(fetch);
   const bangumis: BangumiItem[] = [];
   for (const item of items) {
@@ -68,7 +72,7 @@ cli
   .command('')
   .option('--overwrite')
   .action(async (options) => {
-    await main();
+    await main(options);
   });
 
 await cli.run(process.argv.slice(2)).catch((err) => console.error(err));
