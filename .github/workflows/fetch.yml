@@ -177,7 +177,10 @@ jobs:
         run: |
           DATE=$(date +"%Y-%m-%d")
 
-          gh pr list --label=data | awk '{print $1}' | xargs gh pr close -d
+          pr_list=$(gh pr list --label=data)
+          if [[ -n "$pr_list" ]]; then
+            echo "$pr_list" | awk '{print $1}' | xargs gh pr close -d
+          fi
 
           if [[ $(git rev-list --count main..HEAD) -gt 0 ]]; then
             gh pr create \
