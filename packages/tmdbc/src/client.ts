@@ -110,9 +110,15 @@ export class TMDBClient {
     const maxRetry = this.maxRetry;
     for (let i = 0; i < maxRetry; i++) {
       try {
-        return await this.fetch(url.toString(), {
+        const resp = await this.fetch(url.toString(), {
           headers: { Authorization: `Bearer ${this.token}`, Accept: 'application/json' }
-        }).then((r) => r.json());
+        });
+
+        if (resp.status !== 200) {
+          throw new Error(resp.statusText);
+        }
+
+        return resp.json();
       } catch (err) {
         if (i + 1 === maxRetry) {
           throw err;

@@ -114,8 +114,8 @@ async function fetchSubject(bgmId: number, options: Options) {
 
   if (subject) {
     return <BangumiItem>{
-      title: item?.title ?? subject.name,
-      date: item?.begin ?? subject.date,
+      title: subject.name ?? item?.title,
+      date: subject.date ?? item?.begin,
       bangumi: {
         ...subject,
         tags: subject.tags?.map((t) => t.name).sort() ?? [],
