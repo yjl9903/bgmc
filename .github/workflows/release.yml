@@ -43,3 +43,7 @@ jobs:
 
           pnpm config set //registry.npmjs.org/:_authToken $NPM_TOKEN
           pnpm release:bgmd
+
+      - run: npx changelogithub
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}     
