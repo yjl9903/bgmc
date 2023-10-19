@@ -50,7 +50,7 @@ async function buildCalendar(output: string) {
   const client = new BgmClient(fetch);
   const calendar = await client.calendar();
 
-  const bangumis: FullBangumi[][] = [[], [], [], [], [], [], [], []];
+  const bangumis: FullBangumi[][] = [[], [], [], [], [], [], []];
   for (const day of calendar) {
     if (day.weekday && day.weekday.id !== undefined && day.weekday.id !== null) {
       const id = day.weekday.id - 1;
