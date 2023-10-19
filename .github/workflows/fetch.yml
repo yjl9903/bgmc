@@ -26,6 +26,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
+
       - uses: actions/checkout@v4
 
       - name: Prepare branch
@@ -50,6 +53,9 @@ jobs:
       - prepare
 
     steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
+
       - uses: actions/checkout@v4
         with:
           ref: ${{ needs.prepare.outputs.branch }}
@@ -108,6 +114,9 @@ jobs:
       - bangumi
 
     steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
+
       - uses: actions/checkout@v4
         with:
           ref: ${{ needs.prepare.outputs.branch }}
@@ -176,6 +185,9 @@ jobs:
       pull-requests: write
 
     steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
+
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
