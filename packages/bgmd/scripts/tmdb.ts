@@ -157,17 +157,21 @@ async function search(bgm: BangumiItem) {
               filtered.push({ ok: r, season: s.season_number });
             } else {
               // Try iterating episodes
-              const seasonDetail = await client.getTVSeasonDetail(r.id, s.season_number, {
-                language: Language
-              });
-              for (const ep of seasonDetail.episodes) {
-                if (checkInterval(begin, new Date(ep.air_date))) {
-                  filtered.push({
-                    ok: r,
-                    season: ep.season_number,
-                    first_episode: ep.episode_number
-                  });
-                  break;
+              const seasonDetail = await client
+                .getTVSeasonDetail(r.id, s.season_number, {
+                  language: Language
+                })
+                .catch(() => undefined);
+              if (seasonDetail) {
+                for (const ep of seasonDetail.episodes) {
+                  if (checkInterval(begin, new Date(ep.air_date))) {
+                    filtered.push({
+                      ok: r,
+                      season: ep.season_number,
+                      first_episode: ep.episode_number
+                    });
+                    break;
+                  }
                 }
               }
             }
