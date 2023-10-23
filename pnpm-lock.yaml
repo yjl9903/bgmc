@@ -94,8 +94,8 @@ importers:
         specifier: ^5.0.5
         version: 5.0.5
       undici:
-        specifier: ^5.26.4
-        version: 5.26.4
+        specifier: ^5.26.5
+        version: 5.26.5
       vitest:
         specifier: ^0.34.6
         version: 0.34.6
@@ -4449,8 +4449,8 @@ packages:
       - supports-color
     dev: true
 
-  /undici@5.26.4:
-    resolution: {integrity: sha512-OG+QOf0fTLtazL9P9X7yqWxQ+Z0395Wk6DSkyTxtaq3wQEjIroVe7Y4asCX/vcCxYpNGMnwz8F0qbRYUoaQVMw==}
+  /undici@5.26.5:
+    resolution: {integrity: sha512-cSb4bPFd5qgR7qr2jYAi0hlX9n5YKK2ONKkLFkxl+v/9BvC0sOpZjBHDBSXc5lWAf5ty9oZdRXytBIHzgUcerw==}
     engines: {node: '>=14.0'}
     dependencies:
       '@fastify/busboy': 2.0.0
