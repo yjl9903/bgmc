@@ -63,8 +63,8 @@ importers:
   packages/bgmd:
     dependencies:
       bangumi-data:
-        specifier: '>=0.3.124'
-        version: 0.3.124
+        specifier: '>=0.3.125'
+        version: 0.3.125
       bgmc:
         specifier: workspace:*
         version: link:../bgmc
@@ -1320,8 +1320,8 @@ packages:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
     dev: true
 
-  /bangumi-data@0.3.124:
-    resolution: {integrity: sha512-LSpo0y0xVvnVaXN35ZocXymYnGuTBBjxdYl+2Jjez9eFUsE4hNCzfG7zkvtYwSC4ldGg6sYX/w7tVd0MWihb9w==}
+  /bangumi-data@0.3.125:
+    resolution: {integrity: sha512-bWtpeSqpG2FQ7Gd3AlAS68Oe3OnXB3gsrZY58/T9wPANQbRXhjnf8uP7KoM2d9cq1krzTlFN1TrKTnsmhgI+Fg==}
     dev: false
 
   /base64-js@1.5.1:
