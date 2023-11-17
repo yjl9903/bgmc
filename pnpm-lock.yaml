@@ -72,8 +72,8 @@ importers:
         specifier: workspace:*
         version: link:../tmdbc
       type-fest:
-        specifier: ^4.8.0
-        version: 4.8.0
+        specifier: ^4.8.1
+        version: 4.8.1
     devDependencies:
       '@onekuma/map':
         specifier: ^0.1.10
@@ -4469,8 +4469,8 @@ packages:
     engines: {node: '>=12.20'}
     dev: true
 
-  /type-fest@4.8.0:
-    resolution: {integrity: sha512-rIY1yHlQhXNRfRyUNnpBr9pr1qxCHSN80hNNHINWQvpgvrVnu3uoi20+mkRfSD1vud6fsA2VLU8AENZhj5jGCQ==}
+  /type-fest@4.8.1:
+    resolution: {integrity: sha512-ShaaYnjf+0etG8W/FumARKMjjIToy/haCaTjN2dvcewOSoNqCQzdgG7m2JVOlM5qndGTHjkvsrWZs+k/2Z7E0Q==}
     engines: {node: '>=16'}
     dev: false
 
