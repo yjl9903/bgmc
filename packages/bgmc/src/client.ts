@@ -81,7 +81,7 @@ export class BgmClient {
         const resp = await this.fetch(url.toString(), {
           headers: { 'User-Agent': BgmClient.userAgent }
         });
-        if (resp.status !== 200) {
+        if (!resp.ok || resp.status !== 200) {
           throw new BgmFetchError(resp);
         }
         return await resp.json();
