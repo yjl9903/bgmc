@@ -54,7 +54,6 @@
     "*.d.ts"
   ],
   "scripts": {
-    "before:init": "pnpm run build && pnpm run test:ci",
     "build": "tsx scripts/build.ts && unbuild",
     "format": "prettier --write src/**/*.ts test/**/*.ts",
     "release": "release-it",
@@ -89,6 +88,9 @@
     },
     "npm": {
       "publish": true
+    },
+    "hooks": {
+      "before:init": "pnpm run build && pnpm run test:ci"
     }
   }
 }

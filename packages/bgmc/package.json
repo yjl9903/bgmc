@@ -41,8 +41,6 @@
     "dist"
   ],
   "scripts": {
-    "after:version": "pnpm run build",
-    "before:init": "pnpm run build && pnpm run test:ci",
     "build": "unbuild",
     "format": "prettier --write src/**/*.ts test/**/*.ts",
     "release": "release-it",
@@ -68,6 +66,10 @@
     },
     "npm": {
       "publish": true
+    },
+    "hooks": {
+      "after:version": "pnpm run build",
+      "before:init": "pnpm run build && pnpm run test:ci"
     }
   }
 }
