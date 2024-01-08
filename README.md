@@ -1,7 +1,7 @@
 # Bangumi Data / API Clients
 
-[![version](https://img.shields.io/npm/v/bgmd?label=bgmd)](https://www.npmjs.com/package/bgmd)
 [![version](https://img.shields.io/npm/v/bgmc?label=bgmc)](https://www.npmjs.com/package/bgmc)
+[![version](https://img.shields.io/npm/v/bgmd?label=bgmd)](https://www.npmjs.com/package/bgmd)
 [![version](https://img.shields.io/npm/v/tmdbc?label=tmdbc)](https://www.npmjs.com/package/tmdbc)
 [![CI](https://github.com/yjl9903/bgmc/actions/workflows/ci.yml/badge.svg)](https://github.com/yjl9903/bgmc/actions/workflows/ci.yml)
 
@@ -12,6 +12,8 @@
 ## Usage
 
 ### bgmc
+
+[![version](https://img.shields.io/npm/v/bgmc?label=bgmc)](https://www.npmjs.com/package/bgmc)
 
 ```bash
 npm i bgmc
@@ -27,6 +29,8 @@ console.log(calendar);
 ```
 
 ### bgmd
+
+[![version](https://img.shields.io/npm/v/bgmd?label=bgmd)](https://www.npmjs.com/package/bgmd)
 
 ```bash
 npm i bgmd
@@ -49,8 +53,16 @@ console.log(calendar);
 
 ### tmdbc
 
+[![version](https://img.shields.io/npm/v/tmdbc?label=tmdbc)](https://www.npmjs.com/package/tmdbc)
+
 ```bash
 npm i tmdbc
+```
+
+```ts
+import { TMDBClient } from 'tmdbc';
+
+const client = new TMDBClient({ token: 'Your token' });
 ```
 
 ## License
