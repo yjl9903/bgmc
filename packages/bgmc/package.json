@@ -24,6 +24,11 @@
       "import": "./dist/index.mjs",
       "types": "./dist/index.d.ts"
     },
+    "./data": {
+      "require": "./dist/data.cjs",
+      "import": "./dist/data.mjs",
+      "types": "./dist/data.d.ts"
+    },
     "./types": {
       "require": "./dist/types.cjs",
       "import": "./dist/types.mjs",
@@ -52,8 +57,10 @@
     "breadc": "^0.9.7"
   },
   "devDependencies": {
-    "bgm-types": "^3.1.1",
-    "vitest": "^1.1.3"
+    "bgm-types": "^3.1.1"
+  },
+  "optionalDependencies": {
+    "bgmd": "workspace:*"
   },
   "engines": {
     "node": ">=v20.8.0"

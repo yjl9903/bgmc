@@ -52,13 +52,14 @@ importers:
       breadc:
         specifier: ^0.9.7
         version: 0.9.7
+    optionalDependencies:
+      bgmd:
+        specifier: workspace:*
+        version: link:../bgmd
     devDependencies:
       bgm-types:
         specifier: ^3.1.1
         version: 3.1.1
-      vitest:
-        specifier: ^1.1.3
-        version: 1.1.3(@types/node@20.10.7)
 
   packages/bgmd:
     dependencies:

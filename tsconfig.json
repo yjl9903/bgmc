@@ -19,6 +19,15 @@
       "bgmc": [
         "./packages/bgmc/src/index.ts"
       ],
+      "bgmc/data": [
+        "./packages/bgmc/src/data.ts"
+      ],
+      "bgmc/types": [
+        "./packages/bgmc/src/types.ts"
+      ],
+      "bgmd/types": [
+        "./packages/bgmd/src/types.ts"
+      ],
       "tmdbc": [
         "./packages/tmdbc/src/index.ts"
       ]
