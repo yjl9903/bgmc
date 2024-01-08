@@ -52,10 +52,6 @@ importers:
       breadc:
         specifier: ^0.9.7
         version: 0.9.7
-    optionalDependencies:
-      bgmd:
-        specifier: workspace:*
-        version: link:../bgmd
     devDependencies:
       bgm-types:
         specifier: ^3.1.1

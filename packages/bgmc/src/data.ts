@@ -1,4 +1,4 @@
-import type { FullBangumi } from 'bgmd/types';
+import type { FullBangumi } from './types';
 
 export async function getRecentBangumis(): Promise<Omit<FullBangumi, 'summary'>[]> {
   const resp = await fetch(`https://unpkg.com/bgmd@0/data/index.json`);
