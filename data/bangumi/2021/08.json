@@ -1729,5 +1729,67 @@
         }
       ]
     }
+  },
+  {
+    "title": "Marvel's Spidey and His Amazing Friends Season 1",
+    "date": "2021-08-06",
+    "bangumi": {
+      "date": "2021-08-06",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/4f/430507_YY4UO.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/4f/430507_YY4UO.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/26/4f/430507_YY4UO.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/4f/430507_YY4UO.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/4f/430507_YY4UO.jpg"
+      },
+      "summary": "",
+      "name": "Marvel's Spidey and His Amazing Friends Season 1",
+      "name_cn": "蜘蛛侠与他的神奇朋友们 第一季",
+      "tags": [
+        "欧美"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "蜘蛛侠与他的神奇朋友们 第一季"
+        },
+        {
+          "key": "话数",
+          "value": "25"
+        },
+        {
+          "key": "放送开始",
+          "value": "2021年8月6日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期五"
+        }
+      ],
+      "total_episodes": 25,
+      "id": 430507,
+      "eps": 25,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/ac/430508_1IeLu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/ac/430508_1IeLu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/ac/430508_1IeLu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/ac/430508_1IeLu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/ac/430508_1IeLu.jpg"
+          },
+          "name": "Marvel's Spidey and His Amazing Friends Season 2",
+          "name_cn": "蜘蛛侠与他的神奇朋友们 第二季",
+          "relation": "续集",
+          "type": 2,
+          "id": 430508
+        }
+      ]
+    }
   }
 ]
