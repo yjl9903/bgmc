@@ -22,6 +22,10 @@ export type RelatedSubject = BGMSubject.Subjects[0];
 
 export type PersonInformation = BGMPerson.Information;
 
+export type PersonSubjects = BGMPerson.Subjects;
+
+export type PersonCharacters = BGMPerson.Characters;
+
 export type Search = BGMSearch.Search;
 
 export type CollectionInformation = BGMCollection.Information;
@@ -65,6 +69,14 @@ export class BgmClient {
 
   public person(id: number) {
     return this.request<PersonInformation>(`/v0/persons/${id}`);
+  }
+
+  public personSubjects(id: number) {
+    return this.request<PersonSubjects>(`/v0/persons/${id}/subjects`);
+  }
+
+  public personCharacters(id: number) {
+    return this.request<PersonCharacters>(`/v0/persons/${id}/characters`);
   }
 
   public search(keywords: string, query?: Query<BGMSearchParams.Search>) {
