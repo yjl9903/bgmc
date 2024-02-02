@@ -4,7 +4,8 @@ import type {
   BGMCollectionParams,
   BGMSearch,
   BGMSearchParams,
-  BGMSubject
+  BGMSubject,
+  BGMPerson
 } from './types';
 
 import { BgmFetchError } from './error';
@@ -18,6 +19,8 @@ export type SubjectPersons = BGMSubject.Persons;
 export type SubjectCharacters = BGMSubject.Characters;
 
 export type RelatedSubject = BGMSubject.Subjects[0];
+
+export type Person = BGMPerson.Information;
 
 export type Search = BGMSearch.Search;
 
@@ -58,6 +61,10 @@ export class BgmClient {
 
   public subjectRelated(id: number) {
     return this.request<RelatedSubject[]>(`/v0/subjects/${id}/subjects`);
+  }
+
+  public person(id: number) {
+    return this.request<Person>(`/v0/persons/${id}`);
   }
 
   public search(keywords: string, query?: Query<BGMSearchParams.Search>) {
