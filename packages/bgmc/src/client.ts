@@ -20,7 +20,7 @@ export type SubjectCharacters = BGMSubject.Characters;
 
 export type RelatedSubject = BGMSubject.Subjects[0];
 
-export type Person = BGMPerson.Information;
+export type PersonInformation = BGMPerson.Information;
 
 export type Search = BGMSearch.Search;
 
@@ -64,7 +64,7 @@ export class BgmClient {
   }
 
   public person(id: number) {
-    return this.request<Person>(`/v0/persons/${id}`);
+    return this.request<PersonInformation>(`/v0/persons/${id}`);
   }
 
   public search(keywords: string, query?: Query<BGMSearchParams.Search>) {
