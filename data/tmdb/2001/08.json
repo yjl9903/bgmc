@@ -1,7 +1,7 @@
 [
   {
     "title": "Di Gi Charat 夏休みスペシャル",
-    "date": "2001-08-01T16:00:00.000Z",
+    "date": "2001-08-02",
     "bangumi": {
       "id": "205299"
     },
@@ -31,7 +31,7 @@
   },
   {
     "title": "ルパン三世 アルカトラズコネクション",
-    "date": "2001-08-03T16:00:00.000Z",
+    "date": "2001-08-03",
     "bangumi": {
       "id": "84989"
     },
@@ -61,36 +61,8 @@
     }
   },
   {
-    "title": "劇場版 幻想魔伝 最遊記 Requiem 選ばれざる者への鎮魂歌",
-    "date": "2001-08-17T16:00:00.000Z",
-    "bangumi": {
-      "id": "20580"
-    },
-    "tmdb": {
-      "id": 155765,
-      "type": "movie",
-      "search": {
-        "adult": false,
-        "backdrop_path": "/gEloRAwShW5VpoR6lo1mAuv54Dq.jpg",
-        "genre_ids": [
-          28,
-          12,
-          16
-        ],
-        "id": 155765,
-        "original_language": "ja",
-        "original_title": "幻想魔伝 最遊記 Requiem 選ばれざる者への鎮魂歌",
-        "overview": "这次三藏他们的新敌人是个蒙面的男人。虽然他蒙着个不吉利的面具，但却掩盖不住他的表情，隐约地可以看到他的笑，这就是降临于三藏他们身上的某种预感。",
-        "poster_path": "/nU4Nagcc8vKtUer3xSAFgM5EW9J.jpg",
-        "release_date": "2001-08-18",
-        "title": "最游记：给落选者的镇魂歌",
-        "video": false
-      }
-    }
-  },
-  {
     "title": "いのちの地球 ダイオキシンの夏",
-    "date": "2001-08-18T16:00:00.000Z",
+    "date": "2001-08-18",
     "bangumi": {
       "id": "37529"
     },
@@ -112,6 +84,34 @@
         "poster_path": "/fmrzrvZNpEBWe5auq2OW0e59p3F.jpg",
         "release_date": "2001-08-18",
         "title": "夏日追踪",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "劇場版 幻想魔伝 最遊記 Requiem 選ばれざる者への鎮魂歌",
+    "date": "2001-08-18",
+    "bangumi": {
+      "id": "20580"
+    },
+    "tmdb": {
+      "id": 155765,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/gEloRAwShW5VpoR6lo1mAuv54Dq.jpg",
+        "genre_ids": [
+          28,
+          12,
+          16
+        ],
+        "id": 155765,
+        "original_language": "ja",
+        "original_title": "幻想魔伝 最遊記 Requiem 選ばれざる者への鎮魂歌",
+        "overview": "这次三藏他们的新敌人是个蒙面的男人。虽然他蒙着个不吉利的面具，但却掩盖不住他的表情，隐约地可以看到他的笑，这就是降临于三藏他们身上的某种预感。",
+        "poster_path": "/nU4Nagcc8vKtUer3xSAFgM5EW9J.jpg",
+        "release_date": "2001-08-18",
+        "title": "最游记：给落选者的镇魂歌",
         "video": false
       }
     }

@@ -1,7 +1,7 @@
 [
   {
     "title": "マシュランボー",
-    "date": "2000-02-05T16:00:00.000Z",
+    "date": "2000-02-05",
     "bangumi": {
       "id": "40074"
     },
@@ -13,7 +13,8 @@
         "backdrop_path": "/KSxxz5Fuv1dLspqZNZnp2CuYCI.jpg",
         "genre_ids": [
           16,
-          18
+          10765,
+          10759
         ],
         "id": 21175,
         "origin_country": [
@@ -29,8 +30,8 @@
     }
   },
   {
-    "title": "ニャニがニャンだーニャンダーかめん",
-    "date": "2000-02-05T22:00:00.000Z",
+    "title": "ニャニがニャンだー ニャンダーかめん",
+    "date": "2000-02-06",
     "bangumi": {
       "id": "73716"
     },
@@ -55,34 +56,32 @@
     }
   },
   {
-    "title": "おジャ魔女どれみ＃",
-    "date": "2000-02-05T23:30:00.000Z",
+    "title": "おジャ魔女どれみ♯",
+    "date": "2000-02-06",
     "bangumi": {
       "id": "14876"
     },
     "tmdb": {
-      "id": 20353,
-      "type": "tv",
+      "id": 408129,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/zJi8eaweBRbCjQU5C1HxucUCW6i.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765,
-          10759,
-          10762
-        ],
-        "id": 20353,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": null,
+        "id": 408129,
+        "title": "小魔女DoReMi ♯ 愿望之花",
         "original_language": "ja",
-        "original_name": "おジャ魔女どれみ",
-        "overview": "这是一个魔女与人类共存的世界，为保证魔女身份不被揭穿，被人类发现真实身份的魔女会变成魔女青蛙，唯有另一个拥有正式身份的魔女才能解开魔法。一次偶然中，一直梦想能够成为魔女的Doremi识破了魔女莉卡的身份，无奈之下，莉卡将春风收为见习魔女。春风须经历漫长而艰苦的修炼，通过魔女考试才能获得魔女资格。\n\n故事舞台发生在架空的城市──日本美空市美空町，除此之外还有魔女世界和魔法堂等。顺带一提，虽然香港和台湾的小魔女DoReMi相关产品（漫画、精品等）仍然遵照下述译名，但动画部分，无线电视播放的版本一律称为《小魔女DoReMi》，并不作任何区分，东森幼幼台方面则是以第几部来区分。",
-        "poster_path": "/iCINo8JNXswWelsEycO1frahHS1.jpg",
-        "first_air_date": "1999-02-07",
-        "name": "小魔女DoReMi"
+        "original_title": "映画 おジャ魔女どれみ♯（しゃーぷっ）",
+        "overview": "《小魔女DoReMi》由东映动画制作，是魔法少女的动画系列。小魔女DoReMi动画在日本的播映时间，由1999年2月开始，直至2003年1月结束。是继美少女战士之后，最受日本学生欢迎的少女动画系列之一。",
+        "poster_path": "/lqnApkyzvTVKLHuDCSC6UauTsx5.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          35,
+          10751,
+          14,
+          16
+        ],
+        "release_date": "2000-07-08",
+        "video": false
       }
     }
   }

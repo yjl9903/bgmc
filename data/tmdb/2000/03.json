@@ -1,7 +1,7 @@
 [
   {
     "title": "ONE PIECE the movie",
-    "date": "2000-03-04T16:00:00.000Z",
+    "date": "2000-03-04",
     "bangumi": {
       "id": "1869"
     },
@@ -22,7 +22,7 @@
         "original_language": "ja",
         "original_title": "ワンピース",
         "overview": "在遥远的东海海域，曾经有一位人称黄金大海贼的海盗名叫邬南。他从来不欺凌百姓，只与其他邪恶的海贼拼杀，并由此聚敛了堆积如山占世界总量三分之一的黄金，他的财富可以将夜晚照得亮如白昼。邬南将这些黄金藏在一个不知名的小岛上，随后不知去向。众海贼们无不垂涎于那座黄金山，而邬南手下当初绘制的藏宝图更成为海贼们竞相追逐的对象。  　　再次遭遇饥饿困扰的草帽海贼团遇到了一心脱离贫困的小男孩飞男，从他的口中，路飞得知了邬南及其黄金岛的秘密，于是决定向小岛进发。与此同时，邪恶的海贼黄金龙也正驾船接近小岛。多支人马在小岛相遇，看来一场精彩拼杀在所难免……",
-        "poster_path": "/uJt8gTLmnF8zTBjeA9M7TD9Cn0v.jpg",
+        "poster_path": "/aRqQNSuXpcE3dkJC43aEg9f2HXd.jpg",
         "release_date": "2000-03-04",
         "title": "海贼王：黄金岛冒险",
         "video": false
@@ -31,7 +31,7 @@
   },
   {
     "title": "デジモンアドベンチャー ぼくらのウォーゲーム!",
-    "date": "2000-03-04T16:00:00.000Z",
+    "date": "2000-03-04",
     "bangumi": {
       "id": "3134"
     },
@@ -43,7 +43,9 @@
         "backdrop_path": "/fTqRH6ALKuNq49V7EeKTywt44c0.jpg",
         "genre_ids": [
           12,
-          16
+          16,
+          28,
+          878
         ],
         "id": 75571,
         "original_language": "ja",
@@ -52,6 +54,32 @@
         "poster_path": "/rY7XzmfQgwMYJXAZSIChU5FLP7y.jpg",
         "release_date": "2000-03-04",
         "title": "数码宝贝：我们的战争游戏",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "ドラえもん のび太の太陽王伝説",
+    "date": "2000-03-11",
+    "bangumi": {
+      "id": "464"
+    },
+    "tmdb": {
+      "id": 31352,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/1RstTvpA9FEtPGhzxOHbroW6Nur.jpg",
+        "genre_ids": [
+          16
+        ],
+        "id": 31352,
+        "original_language": "ja",
+        "original_title": "映画ドラえもん のび太の太陽王伝説",
+        "overview": "在一次偶然的情况下，大雄（小原乃梨子 配音）与多啦A梦（大山羡代 配音）穿过秘密通道时空圈，闯进一个森林中古代文明的国度——玛雅王国，他们遇上跟大雄长得一模一样的迪奥（绪方惠美 配音），迪奥是玛雅王国的王子。迪奥王子的母亲中了魔女娜汀拉（唐泽润 配音）的诅咒，长眠不醒。为了救母亲，迪奥王子一定要打败娜汀拉。因此在森林中修炼。迪奥王子从大雄口中得知现代日本的事，便对日本产生兴趣，所以迪奥便希望与大雄转换身份，到日本修炼。大雄便成为了王子；王子就成了大雄，各自展开不一样的生活，最后迪奥在日本认识了技安等人，他们一起去对抗娜汀拉，究竟他们能否打败娜汀拉救迪奥的母亲……",
+        "poster_path": "/c6nzJhXKdJIwxMtD1rRj57ZV6Lc.jpg",
+        "release_date": "2000-03-04",
+        "title": "哆啦A梦：大雄的太阳王传说",
         "video": false
       }
     }
@@ -84,28 +112,59 @@
     }
   },
   {
-    "title": "ドラえもん のび太の太陽王伝説",
-    "date": "2000-03-11T16:00:00.000Z",
+    "title": "ブギーポップは笑わない Boogiepop and Others",
+    "date": "2000-03-11",
     "bangumi": {
-      "id": "464"
+      "id": "97016"
     },
     "tmdb": {
-      "id": 31352,
+      "id": 46956,
       "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/1RstTvpA9FEtPGhzxOHbroW6Nur.jpg",
+        "backdrop_path": "/rLHjcZTWtFMPNNkWcK7PwJRCBSv.jpg",
+        "id": 46956,
+        "title": "Boogiepop and Others",
+        "original_language": "ja",
+        "original_title": "ブギーポップは笑わない",
+        "overview": "The story takes place in an unnamed Japanese city, and follows five students at Shinyo Academy as they try to piece together the puzzle of a new drug and recent disappearances among the student populace. While the teachers believe them to only be runaways, the female students whisper among themselves about the urban legend Boogiepop, who is said to be a Shinigami.",
+        "poster_path": "/5UL26KIJHzJtvDCYOzWoiPLWoER.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          878,
+          9648,
+          53
+        ],
+        "release_date": "2000-03-11",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "だぁ!だぁ!だぁ!",
+    "date": "2000-03-28",
+    "bangumi": {
+      "id": "3768"
+    },
+    "tmdb": {
+      "id": 93483,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/nN9IrchM4nLOd63gWgTvMJRq8sO.jpg",
         "genre_ids": [
           16
         ],
-        "id": 31352,
+        "id": 93483,
+        "origin_country": [
+          "JP"
+        ],
         "original_language": "ja",
-        "original_title": "映画ドラえもん のび太の太陽王伝説",
-        "overview": "在一次偶然的情况下，大雄（小原乃梨子 配音）与多啦A梦（大山羡代 配音）穿过秘密通道时空圈，闯进一个森林中古代文明的国度——玛雅王国，他们遇上跟大雄长得一模一样的迪奥（绪方惠美 配音），迪奥是玛雅王国的王子。迪奥王子的母亲中了魔女娜汀拉（唐泽润 配音）的诅咒，长眠不醒。为了救母亲，迪奥王子一定要打败娜汀拉。因此在森林中修炼。迪奥王子从大雄口中得知现代日本的事，便对日本产生兴趣，所以迪奥便希望与大雄转换身份，到日本修炼。大雄便成为了王子；王子就成了大雄，各自展开不一样的生活，最后迪奥在日本认识了技安等人，他们一起去对抗娜汀拉，究竟他们能否打败娜汀拉救迪奥的母亲……",
-        "poster_path": "/c6nzJhXKdJIwxMtD1rRj57ZV6Lc.jpg",
-        "release_date": "2000-03-04",
-        "title": "哆啦A梦：大雄的太阳王传说",
-        "video": false
+        "original_name": "だぁ! だぁ! だぁ!",
+        "overview": "因为工作的缘故，光月未梦（名冢佳织配音）的父亲和母亲要远赴美国，两人将未梦托付给了西园寺家，在那里，未梦结识了西园寺家的儿子西园寺彷徨（三瓶由布子配音）。之后，彷徨的父亲又因故外出，留下未梦和彷徨看家，就这样，两人开始了朝夕相处的生活。\n\n一次偶然中，一个来自外星的小宝宝路路（金井美香配音）降临到了未梦的身边，随之而来的，还有一只名叫威猫（千叶千惠巳配音）的小猫。一个小小的家庭就这样组成了，只不过，未梦对外宣称路路是自己的弟弟。在学校里，彷徨是极具人气的校园偶像，姬丝汀（池泽春菜配音）就是彷徨后援团中的一员。",
+        "poster_path": "/s9SmF9cEg8HATdjGv56ysy4PgIe.jpg",
+        "first_air_date": "2000-03-28",
+        "name": "外星BB撞地球"
       }
     }
   }

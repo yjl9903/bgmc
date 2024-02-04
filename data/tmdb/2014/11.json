@@ -1,7 +1,7 @@
 [
   {
     "title": "日本アニメ（ーター）見本市",
-    "date": "2014-11-07T16:00:00.000Z",
+    "date": "2014-11-07",
     "bangumi": {
       "id": "116370"
     },
@@ -30,7 +30,7 @@
   },
   {
     "title": "Sonic Boom",
-    "date": "2014-11-08T16:00:00.000Z",
+    "date": "2014-11-08",
     "bangumi": {
       "id": "144637"
     },
@@ -44,7 +44,8 @@
           10759,
           16,
           35,
-          10765
+          10765,
+          10751
         ],
         "id": 62211,
         "origin_country": [
@@ -62,7 +63,7 @@
   },
   {
     "title": "楽園追放 -Expelled From Paradise-",
-    "date": "2014-11-15T16:00:00.000Z",
+    "date": "2014-11-15",
     "bangumi": {
       "id": "37395"
     },
@@ -74,6 +75,7 @@
         "backdrop_path": "/poTFhNtA1kZa3Qb6ulCwa5HPEKb.jpg",
         "genre_ids": [
           16,
+          12,
           28,
           878
         ],
@@ -90,7 +92,7 @@
   },
   {
     "title": "ダイヤのA OAD",
-    "date": "2014-11-17T16:00:00.000Z",
+    "date": "2014-11-17",
     "bangumi": {
       "id": "108595"
     },
@@ -119,7 +121,7 @@
   },
   {
     "title": "劇場版 進撃の巨人 前編〜紅蓮の弓矢〜",
-    "date": "2014-11-22T16:00:00.000Z",
+    "date": "2014-11-22",
     "bangumi": {
       "id": "101266"
     },
@@ -148,7 +150,7 @@
   },
   {
     "title": "LOVE STAGE!! OAD",
-    "date": "2014-11-26T16:00:00.000Z",
+    "date": "2014-11-26",
     "bangumi": {
       "id": "103813"
     },
@@ -177,35 +179,8 @@
     }
   },
   {
-    "title": "十三支演義 〜偃月三国伝〜",
-    "date": "2014-11-28T16:00:00.000Z",
-    "bangumi": {
-      "id": "93258"
-    },
-    "tmdb": {
-      "id": 453729,
-      "type": "movie",
-      "search": {
-        "adult": false,
-        "backdrop_path": null,
-        "id": 453729,
-        "title": "Juuza Engi: Engetsu Sangokuden - Gaiden Youzhou Genya",
-        "original_language": "ja",
-        "original_title": "十三支演義~偃月三国伝~",
-        "overview": "The Juuza. That is the name given to those of the 13th Zodiac: the cat people. Seen as a vulgar and contemptuous race, they live a life of seclusion away from human eyes. However, as the end of the Han Dynasty draws near, the rise of the Yellow Scarves has thrown the land of the Three Kingdoms into turmoil. As armies converge, a young Juuza woman named Kan'u and her village are forced out of their peaceful lives as Sousou and his punitive force press their way into the village.",
-        "poster_path": "/9ReWXOc1u3cu3YFrWOeNcHbIZ7X.jpg",
-        "media_type": "movie",
-        "genre_ids": [
-          16
-        ],
-        "release_date": "2014-11-28",
-        "video": false
-      }
-    }
-  },
-  {
     "title": "この男子、石化に悩んでます。",
-    "date": "2014-11-29T16:00:00.000Z",
+    "date": "2014-11-29",
     "bangumi": {
       "id": "119364"
     },
@@ -233,7 +208,7 @@
   },
   {
     "title": "おにくだいすき！ ゼウシくん 2期",
-    "date": "2014-11-29T16:00:00.000Z",
+    "date": "2014-11-29",
     "bangumi": {
       "id": "119033"
     },
@@ -255,6 +230,33 @@
         "poster_path": "/jBnJTglYRNiTlRWPpr5tbbzMbBy.jpg",
         "first_air_date": "2014-01-06",
         "name": "无肉不欢的宙牛君"
+      }
+    }
+  },
+  {
+    "title": "ゆるゆり なちゅやちゅみ!",
+    "date": "2014-11-29",
+    "bangumi": {
+      "id": "99796"
+    },
+    "tmdb": {
+      "id": 1123871,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/afoTgOGTuiQbVHwYMtDqScOVsl6.jpg",
+        "id": 1123871,
+        "title": "摇曳百合 夏日时光！",
+        "original_language": "ja",
+        "original_title": "ゆるゆり なちゅやちゅみ！",
+        "overview": "即使在暑假期间，游乐俱乐部也名副其实！ 赤座明里、利能恭子、吉川千夏和船波唯找到露营帐篷后，他们决定充分利用它，到山里度过周末。 一些学生会成员听到这件事后，也被邀请一起去。 经过漫长的旅程，一行人到达目的地，准备充分享受这次旅行。 他们进行经典的露营活动，例如户外烹饪和勇气测试，并以泡温泉结束这一切。 像这样的奢华旅行并不是每天都会发生，但游乐俱乐部一定会让您享受每一刻。",
+        "poster_path": "/oxLfM2JLtkTJkH5redHiIoxV0oX.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          16
+        ],
+        "release_date": "2014-11-29",
+        "video": false
       }
     }
   }
