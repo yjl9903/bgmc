@@ -66,6 +66,7 @@ async function buildCalendar(output: string) {
               if (
                 eps <= 1 &&
                 bgm.bangumi.date &&
+                bgm.bangumi.platform !== 'TV' &&
                 new Date(bgm.bangumi.date).getTime() < new Date().getTime()
               ) {
                 return undefined;
