@@ -51,39 +51,61 @@ async function buildCalendar(output: string) {
   const calendar = await client.calendar();
 
   const bangumis: FullBangumi[][] = [[], [], [], [], [], [], []];
+  const visited = new Set<number>();
   for (const day of calendar) {
     if (day.weekday && day.weekday.id !== undefined && day.weekday.id !== null) {
       const id = day.weekday.id - 1;
       const items = day.items ?? [];
-      bangumis[id].push(
-        ...(items
-          .map((d) => {
-            if (d.id) {
-              const bgm = bangumiDB.getById(d.id);
-              if (bgm) {
-                const eps = bgm.bangumi.total_episodes;
-                // Skip pv with only one epsiode
-                if (
-                  eps <= 1 &&
-                  bgm.bangumi.date &&
-                  new Date(bgm.bangumi.date).getTime() < new Date().getTime()
-                ) {
-                  return undefined;
-                }
+      const transformed = items
+        .map((d) => {
+          if (d.id) {
+            const bgm = bangumiDB.getById(d.id);
+            if (bgm) {
+              const eps = bgm.bangumi.total_episodes;
+              // Skip pv with only one epsiode
+              if (
+                eps <= 1 &&
+                bgm.bangumi.date &&
+                new Date(bgm.bangumi.date).getTime() < new Date().getTime()
+              ) {
+                return undefined;
+              }
 
-                return transform(
-                  bgm.bangumi,
-                  {
-                    data: bangumiDB.getItem(bgm),
-                    tmdb: getTMDB(bgm)
-                  },
-                  { omit: ['tmdb.overview'] }
-                );
+              return transform(
+                bgm.bangumi,
+                {
+                  data: bangumiDB.getItem(bgm),
+                  tmdb: getTMDB(bgm)
+                },
+                { omit: ['tmdb.overview'] }
+              );
+            }
+          }
+        })
+        .filter(Boolean) as FullBangumi[];
+
+      for (const item of transformed) {
+        visited.add(item.bangumi!.id);
+      }
+
+      // Skip 番外短片
+      transformed.splice(
+        0,
+        transformed.length,
+        ...transformed.filter((item) => {
+          const bgm = bangumiDB.getById(item.bangumi!.id)!;
+          for (const rel of bgm.bangumi.relations) {
+            if (rel.relation === '主线故事') {
+              if (visited.has(rel.id)) {
+                return false;
               }
             }
-          })
-          .filter(Boolean) as FullBangumi[])
+          }
+          return true;
+        })
       );
+
+      bangumis[id].push(...transformed);
     }
   }
 
