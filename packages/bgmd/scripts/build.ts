@@ -54,12 +54,23 @@ async function buildCalendar(output: string) {
   for (const day of calendar) {
     if (day.weekday && day.weekday.id !== undefined && day.weekday.id !== null) {
       const id = day.weekday.id - 1;
+      const items = day.items ?? [];
       bangumis[id].push(
-        ...((day.items ?? [])
+        ...(items
           .map((d) => {
             if (d.id) {
               const bgm = bangumiDB.getById(d.id);
               if (bgm) {
+                const eps = bgm.bangumi.total_episodes;
+                // Skip pv with only one epsiode
+                if (
+                  eps <= 1 &&
+                  bgm.bangumi.date &&
+                  new Date(bgm.bangumi.date).getTime() < new Date().getTime()
+                ) {
+                  return undefined;
+                }
+
                 return transform(
                   bgm.bangumi,
                   {
