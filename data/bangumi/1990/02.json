@@ -1,7 +1,7 @@
 [
   {
     "title": "勇者エクスカイザー",
-    "date": "1990-02-03T16:00:00.000Z",
+    "date": "1990-02-03",
     "bangumi": {
       "date": "1990-02-03",
       "platform": "TV",
@@ -29,6 +29,7 @@
         "原创",
         "平野靖士",
         "年番&大长篇",
+        "旧物",
         "机器人",
         "机战",
         "机甲",
@@ -42,7 +43,6 @@
         "萝卜",
         "谷田部勝義",
         "谷田部胜义",
-        "超级机器人",
         "超级系",
         "速水奨",
         "電視"
@@ -143,11 +143,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/ab/37247_mabO9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/ab/37247_mabO9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/66/ab/37247_mabO9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/ab/37247_mabO9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/ab/37247_mabO9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/ab/37247_vuC1V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/ab/37247_vuC1V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/ab/37247_vuC1V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/ab/37247_vuC1V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/ab/37247_vuC1V.jpg"
           },
           "name": "伝説の勇者ダ・ガーン",
           "name_cn": "勇者传说",
@@ -206,7 +206,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/65/182011_v7I57.jpg"
           },
           "name": "新世代ロボット戦記ブレイブサーガ",
-          "name_cn": "新世代机器人战记 勇气传说",
+          "name_cn": "勇者圣战",
           "relation": "游戏",
           "type": 4,
           "id": 182011
@@ -234,10 +234,52 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/49/348260_oLw7B.jpg"
           },
           "name": "ブレイブサーガ2",
-          "name_cn": "BRAVESAGA2",
+          "name_cn": "勇者圣战2",
           "relation": "游戏",
           "type": 4,
           "id": 348260
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/f0/445953_xVjX7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/f0/445953_xVjX7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/f0/445953_xVjX7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/f0/445953_xVjX7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/f0/445953_xVjX7.jpg"
+          },
+          "name": "勇者宇宙ソーグレーダー",
+          "name_cn": "勇者宇宙剑奎达",
+          "relation": "书籍",
+          "type": 1,
+          "id": 445953
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/1e/462534_rD1zY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/1e/462534_rD1zY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/18/1e/462534_rD1zY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/1e/462534_rD1zY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/1e/462534_rD1zY.jpg"
+          },
+          "name": "大河原邦男 BRAVE SERIES DESIGN WORKS",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 462534
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/9e/467503_YOzqr.jpg"
+          },
+          "name": "GBハロボッツ",
+          "name_cn": "哈罗机器人",
+          "relation": "游戏",
+          "type": 4,
+          "id": 467503
         }
       ]
     }

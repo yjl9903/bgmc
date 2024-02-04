@@ -1,7 +1,7 @@
 [
   {
     "title": "怪盗レーニャ",
-    "date": "2010-01-08T14:54:00.000Z",
+    "date": "2010-01-08",
     "bangumi": {
       "date": "2010-01-08",
       "platform": "TV",
@@ -96,8 +96,8 @@
     }
   },
   {
-    "title": "COBRA THE ANIMATION",
-    "date": "2010-01-02T14:30:00.000Z",
+    "title": "COBRA THE ANIMATION 六人の勇士",
+    "date": "2010-01-02",
     "bangumi": {
       "date": "2010-01-02",
       "platform": "TV",
@@ -241,7 +241,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/af/279356_FEr60.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/af/279356_FEr60.jpg"
           },
-          "name": "コブラ タイムドライブ",
+          "name": "コブラ タイム・ドライブ",
           "name_cn": "哥普拉 时光旅行",
           "relation": "前传",
           "type": 2,
@@ -274,13 +274,27 @@
           "relation": "原声集",
           "type": 3,
           "id": 460316
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/5f/460472_P8P5X.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/5f/460472_P8P5X.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/5f/460472_P8P5X.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/5f/460472_P8P5X.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/5f/460472_P8P5X.jpg"
+          },
+          "name": "君の歌",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 460472
         }
       ]
     }
   },
   {
     "title": "はなまる幼稚園",
-    "date": "2010-01-10T16:30:00.000Z",
+    "date": "2010-01-10",
     "bangumi": {
       "date": "2010-01-10",
       "platform": "TV",
@@ -301,7 +315,6 @@
         "GAINAX",
         "TV",
         "はなまる幼稚園",
-        "动画",
         "季番",
         "幼儿园",
         "幼女",
@@ -310,6 +323,7 @@
         "我也想当老师",
         "搞笑",
         "日常",
+        "日本",
         "日野聪",
         "水岛精二",
         "水島精二",
@@ -330,6 +344,14 @@
         {
           "key": "中文名",
           "value": "花丸幼稚园"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "花丸幼儿园"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -473,7 +495,7 @@
   },
   {
     "title": "バカとテストと召喚獣",
-    "date": "2010-01-06T17:50:00.000Z",
+    "date": "2010-01-06",
     "bangumi": {
       "date": "2010-01-06",
       "platform": "TV",
@@ -527,6 +549,9 @@
         {
           "key": "别名",
           "value": [
+            {
+              "v": "Baka to Test to Shoukanjuu"
+            },
             {
               "v": "笨蛋测验召唤兽"
             },
@@ -620,7 +645,7 @@
         },
         {
           "key": "製作",
-          "value": "バカとテストと召喚獣製作委員会（メディアファクトリー、T.O Entertainment、ランティス、cospa、SILVER LINK.）"
+          "value": "バカとテストと召喚獣製作委員会（メディアファクトリー、T.O Entertainment、ランティス、コスパ、SILVER LINK.）"
         },
         {
           "key": "企画",
@@ -707,7 +732,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/0c/4279_VR6b7.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/0c/4279_VR6b7.jpg"
           },
-          "name": "『バカとテストと召喚獣』「Bakatesu Gachinko Music」略して、「バカテスBGM」",
+          "name": "BGM バカテスガチンコミュージック",
           "name_cn": "笨蛋，测验，召唤兽 OST",
           "relation": "原声集",
           "type": 3,
@@ -721,9 +746,9 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/61/07/6316_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/61/07/6316_jp.jpg"
           },
-          "name": "ワシとソングと演劇魂",
+          "name": "木下秀吉オンリーシングル～ワシとソングと演劇魂～",
           "name_cn": "老夫，SONG，演剧魂",
-          "relation": "角色歌",
+          "relation": "广播剧",
           "type": 3,
           "id": 6316
         },
@@ -779,7 +804,7 @@
           },
           "name": "僕と黒子と如月グランドパーク",
           "name_cn": "",
-          "relation": "其他",
+          "relation": "广播剧",
           "type": 3,
           "id": 216109
         },
@@ -819,8 +844,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/be/220885_fhhif.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/be/220885_fhhif.jpg"
           },
-          "name": "バカとテストと召喚獣 Blu-ray BOX 特典映像",
-          "name_cn": "笨蛋，测验，召唤兽 Blu-ray BOX 特典",
+          "name": "バカとテストと召喚獣 Blu-ray BOX 特典 新作ミニアニメーション",
+          "name_cn": "笨蛋，测验，召唤兽 Blu-ray BOX 特典 新Mini动画",
           "relation": "衍生",
           "type": 2,
           "id": 220885
@@ -830,7 +855,7 @@
   },
   {
     "title": "れでぃ×ばと！",
-    "date": "2010-01-05T13:00:00.000Z",
+    "date": "2010-01-05",
     "bangumi": {
       "date": "2010-01-05",
       "platform": "TV",
@@ -845,7 +870,6 @@
       "name": "れでぃ×ばと！",
       "name_cn": "管家后宫学园",
       "tags": [
-        "1月",
         "2010",
         "2010年",
         "2010年1月",
@@ -861,6 +885,7 @@
         "小说改",
         "川澄绫子",
         "床戏",
+        "恋爱",
         "搞笑",
         "日常",
         "校园",
@@ -1056,7 +1081,7 @@
   },
   {
     "title": "ソ・ラ・ノ・ヲ・ト",
-    "date": "2010-01-04T17:00:00.000Z",
+    "date": "2010-01-04",
     "bangumi": {
       "date": "2010-01-04",
       "platform": "TV",
@@ -1258,7 +1283,7 @@
   },
   {
     "title": "デュラララ!!",
-    "date": "2010-01-07T16:25:00.000Z",
+    "date": "2010-01-07",
     "bangumi": {
       "date": "2010-01-07",
       "platform": "TV",
@@ -1865,7 +1890,7 @@
   },
   {
     "title": "ひだまりスケッチ×☆☆☆",
-    "date": "2010-01-07T16:29:00.000Z",
+    "date": "2010-01-07",
     "bangumi": {
       "date": "2010-01-07",
       "platform": "TV",
@@ -2142,7 +2167,7 @@
   },
   {
     "title": "ちゅーぶら!!",
-    "date": "2010-01-04T14:30:00.000Z",
+    "date": "2010-01-04",
     "bangumi": {
       "date": "2010-01-04",
       "platform": "TV",
@@ -2161,7 +2186,6 @@
         "2010年",
         "2010年1月",
         "TV",
-        "TVA",
         "ZEXCS",
         "ちゅーぶら!!",
         "ひいろゆきな",
@@ -2170,20 +2194,21 @@
         "内衣",
         "初中生",
         "动画",
-        "大原沙耶香",
-        "季番",
-        "寿美菜子",
         "搞笑",
         "教育片",
+        "日本",
+        "日本动画",
         "日笠阳子",
         "日笠陽子",
         "校园",
+        "樱井孝宏",
         "漫改",
         "漫画改",
         "百合",
         "胖次",
         "茅原",
         "茅原你终于坏了",
+        "茅原实里",
         "茅原実里",
         "青春",
         "青春教育片"
@@ -2319,13 +2344,111 @@
           "relation": "书籍",
           "type": 1,
           "id": 92037
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/f5/460884_RRkUW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/f5/460884_RRkUW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/f5/460884_RRkUW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/f5/460884_RRkUW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/f5/460884_RRkUW.jpg"
+          },
+          "name": "Choose Bright!!",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 460884
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/4d/460885_9ZjLW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/4d/460885_9ZjLW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/4d/460885_9ZjLW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/4d/460885_9ZjLW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/4d/460885_9ZjLW.jpg"
+          },
+          "name": "Shy Girls",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 460885
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/96/460898_9NmWD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/96/460898_9NmWD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/96/460898_9NmWD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/96/460898_9NmWD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/96/460898_9NmWD.jpg"
+          },
+          "name": "ちゅーぶら!! サウンドトラック&amp;ドラマCD",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 460898
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/e5/460886_3ANbB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/e5/460886_3ANbB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/e5/460886_3ANbB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/e5/460886_3ANbB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/e5/460886_3ANbB.jpg"
+          },
+          "name": "We can do it!",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 460886
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/c3/460887_Q57Cy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/c3/460887_Q57Cy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dc/c3/460887_Q57Cy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/c3/460887_Q57Cy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/c3/460887_Q57Cy.jpg"
+          },
+          "name": "羽をひろげて",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 460887
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/96/76/460889_wyd1R.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/96/76/460889_wyd1R.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/96/76/460889_wyd1R.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/76/460889_wyd1R.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/76/460889_wyd1R.jpg"
+          },
+          "name": "Girl Mode Japan",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 460889
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/85/460890_i99vv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/85/460890_i99vv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/85/460890_i99vv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/85/460890_i99vv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/85/460890_i99vv.jpg"
+          },
+          "name": "私だけを見て",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 460890
         }
       ]
     }
   },
   {
     "title": "おおかみかくし",
-    "date": "2010-01-07T16:59:00.000Z",
+    "date": "2010-01-07",
     "bangumi": {
       "date": "2010-01-07",
       "platform": "TV",
@@ -2353,8 +2476,8 @@
         "原创",
         "奇幻",
         "妹",
+        "小林ゆう",
         "小林优",
-        "待田堂子",
         "悬疑",
         "意义不明",
         "梶浦由记",
@@ -2522,7 +2645,7 @@
   },
   {
     "title": "ダンス イン ザ ヴァンパイアバンド",
-    "date": "2010-01-07T00:00:00.000Z",
+    "date": "2010-01-07",
     "bangumi": {
       "date": "2010-01-07",
       "platform": "TV",
@@ -2558,7 +2681,7 @@
         "女仆",
         "恋爱",
         "悠木碧",
-        "斋藤千和",
+        "战斗",
         "新房",
         "新房昭之",
         "沙发套",
@@ -2787,7 +2910,7 @@
   },
   {
     "title": "おまもりひまり",
-    "date": "2010-01-06T16:30:00.000Z",
+    "date": "2010-01-06",
     "bangumi": {
       "date": "2010-01-06",
       "platform": "TV",
@@ -2808,6 +2931,7 @@
         "TV",
         "ZEXCS",
         "おまもりひまり",
+        "ウシロシンジ",
         "乳",
         "动画",
         "卖肉",
@@ -2820,7 +2944,6 @@
         "战斗",
         "搞笑",
         "新番",
-        "日本动画",
         "杀必死",
         "校园",
         "漫改",
@@ -2984,7 +3107,7 @@
   },
   {
     "title": "のだめカンタービレ フィナーレ",
-    "date": "2010-01-14T15:45:00.000Z",
+    "date": "2010-01-14",
     "bangumi": {
       "date": "2010-01-14",
       "platform": "TV",
@@ -3022,12 +3145,12 @@
         "快结婚！",
         "恋爱",
         "搞笑",
-        "日本",
         "校园",
         "治愈",
         "漫改",
         "漫画改",
         "野田妹",
+        "青春",
         "音乐"
       ],
       "infobox": [
@@ -3279,7 +3402,7 @@
   },
   {
     "title": "刀語",
-    "date": "2010-01-25T16:10:00.000Z",
+    "date": "2010-01-25",
     "bangumi": {
       "date": "2010-01-25",
       "platform": "TV",
@@ -3724,7 +3847,7 @@
   },
   {
     "title": "聖痕のクェイサー",
-    "date": "2010-01-09T18:28:00.000Z",
+    "date": "2010-01-09",
     "bangumi": {
       "date": "2010-01-09",
       "platform": "TV",
@@ -3760,7 +3883,6 @@
         "战斗",
         "搞笑",
         "新番",
-        "日本",
         "漫改",
         "漫画改",
         "炼金",
@@ -3768,6 +3890,7 @@
         "聖痕のクェイサー",
         "肉",
         "肉番",
+        "里番",
         "金子ひらく"
       ],
       "infobox": [
@@ -4050,8 +4173,8 @@
     }
   },
   {
-    "title": "増田こうすけ劇場 ギャグマンガ日和＋",
-    "date": "2010-01-04T17:44:00.000Z",
+    "title": "ギャグマンガ日和＋",
+    "date": "2010-01-04",
     "bangumi": {
       "date": "2010-01-04",
       "platform": "TV",
@@ -4212,7 +4335,7 @@
   },
   {
     "title": "10thアニバーサリー 劇場版 遊☆戯☆王 〜超融合!時空を越えた絆〜",
-    "date": "2010-01-23T16:00:00.000Z",
+    "date": "2010-01-23",
     "bangumi": {
       "date": "2010-01-23",
       "platform": "剧场版",
@@ -4236,13 +4359,14 @@
         "ぎゃろっぷ",
         "一挑三挂王",
         "剧场版",
+        "劇場版",
         "动画",
+        "动画电影",
         "卡牌",
         "印卡",
         "原创",
         "合体技",
         "吉田伸",
-        "吐槽",
         "奇幻",
         "战斗",
         "打牌",
@@ -4253,7 +4377,6 @@
         "漫改",
         "热血",
         "神抽王",
-        "科幻",
         "童年",
         "竹下健一",
         "遊☆戯☆王"
@@ -4345,8 +4468,8 @@
     }
   },
   {
-    "title": "Fate/stay night Unlimited Blade Works",
-    "date": "2010-01-23T16:00:00.000Z",
+    "title": "Fate/stay night UNLIMITED BLADE WORKS",
+    "date": "2010-01-23",
     "bangumi": {
       "date": "2010-01-23",
       "platform": "剧场版",
@@ -4383,14 +4506,14 @@
         "川井憲次",
         "战斗",
         "无限剑制",
+        "映画",
         "植田佳奈",
         "游戏改",
         "热血",
         "缩水",
         "菲特今晚留下来",
         "蘑菇",
-        "补魔",
-        "魔法"
+        "补魔"
       ],
       "infobox": [
         {
@@ -4816,7 +4939,7 @@
   },
   {
     "title": "ぼく、オタリーマン。",
-    "date": "2010-01-29T16:00:00.000Z",
+    "date": "2010-01-29",
     "bangumi": {
       "date": "2010-01-29",
       "platform": "OVA",
@@ -4832,30 +4955,30 @@
       "name_cn": "我是御宅上班族",
       "tags": [
         "2010",
-        "2010年",
         "FLASH动画",
         "OTARI-MAN",
         "OVA",
-        "OVA-01",
         "STUDIOPUYUKAI",
-        "StudioYUKAI",
-        "ovaoad",
-        "『OVA』",
-        "スタジオぷYUKAI",
+        "ova",
         "上班族",
-        "二〇一〇年",
         "动漫",
         "动画",
         "宫野真守",
         "宫野真～受～",
+        "宮野真守",
+        "御宅",
         "御宅族",
+        "想补的旧番",
         "搞笑",
         "新世纪OVA及剧场",
         "日本",
         "日本动画",
+        "泡面番",
+        "渣",
         "漫改",
         "漫画改",
         "独立ova",
+        "生活",
         "睡前眼角那一抹泪光",
         "芦名みのる",
         "芦名稔",
@@ -4923,7 +5046,7 @@
   },
   {
     "title": "DARKER THAN BLACK -黒の契約者- 外伝",
-    "date": "2010-01-27T16:00:00.000Z",
+    "date": "2010-01-27",
     "bangumi": {
       "date": "2010-01-27",
       "platform": "OVA",
@@ -5100,7 +5223,7 @@
   },
   {
     "title": "好きです鈴木くん!!",
-    "date": "2010-01-10T16:00:00.000Z",
+    "date": "2010-01-10",
     "bangumi": {
       "date": "2010-01-10",
       "platform": "OVA",
@@ -5122,6 +5245,7 @@
         "OVA",
         "OVA-01",
         "少女",
+        "少女向",
         "少女漫",
         "恋爱",
         "漫画改",
@@ -5177,7 +5301,7 @@
   },
   {
     "title": "魔法少女リリカルなのは The MOVIE 1st",
-    "date": "2010-01-23T16:00:00.000Z",
+    "date": "2010-01-23",
     "bangumi": {
       "date": "2010-01-23",
       "platform": "剧场版",
@@ -5562,7 +5686,7 @@
   },
   {
     "title": "遙かなる時空の中で3 終わりなき運命",
-    "date": "2010-01-03T16:00:00.000Z",
+    "date": "2010-01-03",
     "bangumi": {
       "date": "2010-01-03",
       "platform": "TV",
@@ -5579,28 +5703,28 @@
       "tags": [
         "2010",
         "2010年1月",
-        "6JA",
         "OVA",
         "TV",
-        "TVSP",
-        "TVspecial",
-        "[BG]",
-        "ovaoad",
+        "ova",
         "三木眞一郎",
         "乙女",
-        "乙女动画",
         "乙女向",
         "井上和彦",
         "人设",
         "后宫",
         "声优",
         "女性向",
+        "宮田幸季",
+        "川上とも子",
+        "日本",
         "日本动画",
         "暗荣",
         "木宮茂",
+        "梦太COMPANY",
         "梦太Company",
         "游戏动画化",
         "游戏改",
+        "游戏改编",
         "石田彰",
         "遥远时空中",
         "遥远时空中3",
@@ -5756,7 +5880,7 @@
     "date": "2010-01-12",
     "bangumi": {
       "date": "2010-01-12",
-      "platform": "PC",
+      "platform": "游戏",
       "images": {
         "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/96/3804_qNq0l.jpg",
         "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/96/3804_qNq0l.jpg",
@@ -5779,6 +5903,7 @@
         "三国",
         "中国",
         "云之遥",
+        "回合制",
         "国产",
         "外传",
         "大宇",
@@ -5922,6 +6047,20 @@
           "relation": "前传",
           "type": 4,
           "id": 298365
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/b2/475548_iuCJP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/b2/475548_iuCJP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0a/b2/475548_iuCJP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/b2/475548_iuCJP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/b2/475548_iuCJP.jpg"
+          },
+          "name": "軒轅劍：巔峰對決",
+          "name_cn": "轩辕剑：巅峰对决",
+          "relation": "角色出演",
+          "type": 4,
+          "id": 475548
         }
       ]
     }

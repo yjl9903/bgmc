@@ -4,7 +4,7 @@
     "date": "1988-08-13",
     "bangumi": {
       "date": "1988-08-13",
-      "platform": "其他",
+      "platform": "电影",
       "images": {
         "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/43/292740_P8828.jpg",
         "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/43/292740_P8828.jpg",
@@ -18,6 +18,7 @@
       "tags": [
         "1988",
         "东宝",
+        "宮沢りえ",
         "日影",
         "日本",
         "映画",
@@ -38,12 +39,12 @@
           ]
         },
         {
-          "key": "集数",
-          "value": "1"
+          "key": "上映日",
+          "value": "1988-08-13"
         },
         {
-          "key": "开始",
-          "value": "1988年8月13日"
+          "key": "片长",
+          "value": "94分"
         },
         {
           "key": "国家/地区",
@@ -52,10 +53,6 @@
         {
           "key": "语言",
           "value": "日本语"
-        },
-        {
-          "key": "每集长",
-          "value": "94分钟"
         },
         {
           "key": "imdb_id",
@@ -104,6 +101,10 @@
         {
           "key": "发行",
           "value": "東宝"
+        },
+        {
+          "key": "集数",
+          "value": "1"
         }
       ],
       "total_episodes": 1,

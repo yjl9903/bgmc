@@ -1,7 +1,7 @@
 [
   {
     "title": "銀河鉄道999",
-    "date": "1978-09-14T18:30:00.000Z",
+    "date": "1978-09-14",
     "bangumi": {
       "date": "1978-09-14",
       "platform": "TV",
@@ -27,10 +27,10 @@
         "东映",
         "东映动画",
         "公路",
-        "剧场版",
         "剧情",
         "剧情类",
         "动画",
+        "大长篇",
         "日本",
         "日本动画",
         "昭和",
@@ -131,199 +131,129 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_7lwS8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_7lwS8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_7lwS8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/81/12784_7lwS8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/81/12784_7lwS8.jpg"
-          },
-          "name": "銀河鉄道物語",
-          "name_cn": "银河铁道物语",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 12784
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/51/23307_l67OO.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/51/23307_l67OO.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0b/51/23307_l67OO.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/51/23307_l67OO.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/51/23307_l67OO.jpg"
-          },
-          "name": "銀河鉄道999 映画版",
-          "name_cn": "银河铁道999 剧场版",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 23307
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6e/90/33922_V94At.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6e/90/33922_V94At.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6e/90/33922_V94At.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6e/90/33922_V94At.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6e/90/33922_V94At.jpg"
-          },
-          "name": "さよなら銀河鉄道999 -アンドロメダ終着駅-",
-          "name_cn": "再见 银河铁道999 安卓梅达终点站",
-          "relation": "续集",
-          "type": 2,
-          "id": 33922
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/be/38639_YXM23.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/be/38639_YXM23.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9f/be/38639_YXM23.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/be/38639_YXM23.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/be/38639_YXM23.jpg"
-          },
-          "name": "宇宙海賊キャプテンハーロック",
-          "name_cn": "宇宙海盗哈洛克",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 38639
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/15/49266_91dIi.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/15/49266_91dIi.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2f/15/49266_91dIi.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/15/49266_91dIi.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/15/49266_91dIi.jpg"
-          },
-          "name": "メーテルレジェンド",
-          "name_cn": "梅德尔传奇",
-          "relation": "前传",
-          "type": 2,
-          "id": 49266
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/d0/49268_bBCpF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/d0/49268_bBCpF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f0/d0/49268_bBCpF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/d0/49268_bBCpF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/d0/49268_bBCpF.jpg"
-          },
-          "name": "宇宙交響詩メーテル ～銀河鉄道999外伝～",
-          "name_cn": "银河铁道999外传 宇宙交响诗",
-          "relation": "前传",
-          "type": 2,
-          "id": 49268
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/28/49620_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/28/49620_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b0/28/49620_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/28/49620_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/28/49620_jp.jpg"
-          },
-          "name": "銀河鉄道999",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 49620
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/00/32/75179_ZPSEP.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/00/32/75179_ZPSEP.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/00/32/75179_ZPSEP.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/00/32/75179_ZPSEP.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/00/32/75179_ZPSEP.jpg"
-          },
-          "name": "銀河鉄道999",
-          "name_cn": "银河铁道999",
-          "relation": "书籍",
-          "type": 1,
-          "id": 75179
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/ad/89138_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/ad/89138_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/80/ad/89138_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/ad/89138_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/ad/89138_jp.jpg"
-          },
-          "name": "銀河鉄道999 SONGS&amp;OTHERS",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 89138
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/d9/93844_LorII.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/d9/93844_LorII.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/11/d9/93844_LorII.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/d9/93844_LorII.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/d9/93844_LorII.jpg"
-          },
-          "name": "银河鉄道999 MEMORIAL SONGS COLLECTION",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 93844
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/59/98514_8oprF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/59/98514_8oprF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/95/59/98514_8oprF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/59/98514_8oprF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/59/98514_8oprF.jpg"
-          },
-          "name": "火聖旅団 ダナサイト999.9",
-          "name_cn": "火圣旅团999.9",
-          "relation": "前传",
-          "type": 2,
-          "id": 98514
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/5e/127777_9Z3u0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/5e/127777_9Z3u0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3a/5e/127777_9Z3u0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/5e/127777_9Z3u0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/5e/127777_9Z3u0.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/5e/127777_DrIrw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/5e/127777_DrIrw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/5e/127777_DrIrw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/5e/127777_DrIrw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/5e/127777_DrIrw.jpg"
           },
           "name": "銀河鉄道999 ガラスのクレア",
-          "name_cn": "银河铁道999：玻璃克莱尔",
-          "relation": "番外篇",
+          "name_cn": "银河铁道999 玻璃克莱尔",
+          "relation": "总集篇",
           "type": 2,
           "id": 127777
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/14/351559_S8tHz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/14/351559_S8tHz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2f/14/351559_S8tHz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/14/351559_S8tHz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/14/351559_S8tHz.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/4b/478934_ct8u0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/4b/478934_ct8u0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/4b/478934_ct8u0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/4b/478934_ct8u0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/4b/478934_ct8u0.jpg"
           },
-          "name": "銀河鉄道999 不滅の空間軌道",
-          "name_cn": "",
-          "relation": "不同演绎",
+          "name": "銀河鉄道999 〜赤い星ベテルギウス いのちの輝き〜",
+          "name_cn": "银河铁道999 红色之星参宿四 生命的光辉",
+          "relation": "番外篇",
           "type": 2,
-          "id": 351559
+          "id": 478934
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/05/416984_lpC1t.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/05/416984_lpC1t.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/05/416984_lpC1t.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/05/416984_lpC1t.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/05/416984_lpC1t.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/2b/476693_1eC41.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/2b/476693_1eC41.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/47/2b/476693_1eC41.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/2b/476693_1eC41.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/2b/476693_1eC41.jpg"
           },
-          "name": "銀河鉄道999 君は戦士のように生きられるか!!",
-          "name_cn": "银河铁道999：你能像战士那般活下来吗",
+          "name": "銀河鉄道999 星空はタイムマシーン",
+          "name_cn": "银河铁道999 星空时光机",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 476693
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/73/475784_cwWa6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/73/475784_cwWa6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/73/475784_cwWa6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/73/475784_cwWa6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/73/475784_cwWa6.jpg"
+          },
+          "name": "銀河鉄道999 for PLANETARIUM",
+          "name_cn": "银河铁道999 天文馆特别篇",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 475784
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/3f/475204_CSx4E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/3f/475204_CSx4E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/3f/475204_CSx4E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/3f/475204_CSx4E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/3f/475204_CSx4E.jpg"
+          },
+          "name": "銀河鉄道999〜消えた太陽系〜",
+          "name_cn": "银河铁道999 消失的太阳系",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 475204
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/c4/474967_a90M5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/c4/474967_a90M5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/19/c4/474967_a90M5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/c4/474967_a90M5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/c4/474967_a90M5.jpg"
+          },
+          "name": "銀河鉄道999 ダイヤモンドリングの彼方へ",
+          "name_cn": "银河铁道999 飞向钻石环",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 474967
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/92/474112_F6Fo1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/92/474112_F6Fo1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/92/474112_F6Fo1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/92/474112_F6Fo1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/92/474112_F6Fo1.jpg"
+          },
+          "name": "銀河鉄道999 ガラスのクレア",
+          "name_cn": "银河铁道999 玻璃克莱尔",
           "relation": "总集篇",
           "type": 2,
-          "id": 416984
+          "id": 474112
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c4/bf/472990_Rn6Vd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c4/bf/472990_Rn6Vd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c4/bf/472990_Rn6Vd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c4/bf/472990_Rn6Vd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c4/bf/472990_Rn6Vd.jpg"
+          },
+          "name": "銀河鉄道999 虹の道標",
+          "name_cn": "银河铁道999 彩虹的路标",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 472990
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/6e/416987_6gXB9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/6e/416987_6gXB9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/6e/416987_6gXB9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/6e/416987_6gXB9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/6e/416987_6gXB9.jpg"
+          },
+          "name": "銀河鉄道999 永遠の旅人エメラルダス",
+          "name_cn": "银河铁道999 永远的旅者",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 416987
         },
         {
           "images": {
@@ -341,17 +271,185 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/6e/416987_6gXB9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/6e/416987_6gXB9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/72/6e/416987_6gXB9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/6e/416987_6gXB9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/6e/416987_6gXB9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/05/416984_lpC1t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/05/416984_lpC1t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/05/416984_lpC1t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/05/416984_lpC1t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/05/416984_lpC1t.jpg"
           },
-          "name": "銀河鉄道999 永遠の旅人エメラルダス",
-          "name_cn": "银河铁道999 永远的旅者",
+          "name": "銀河鉄道999 君は戦士のように生きられるか!!",
+          "name_cn": "银河铁道999：你能像战士那般活下来吗",
           "relation": "总集篇",
           "type": 2,
-          "id": 416987
+          "id": 416984
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/14/351559_S8tHz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/14/351559_S8tHz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/14/351559_S8tHz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/14/351559_S8tHz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/14/351559_S8tHz.jpg"
+          },
+          "name": "銀河鉄道999 不滅の空間軌道",
+          "name_cn": "银河铁道999 不灭的空间轨道",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 351559
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/81/12784_7lwS8.jpg"
+          },
+          "name": "銀河鉄道物語",
+          "name_cn": "银河铁道物语",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 12784
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/59/98514_8oprF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/59/98514_8oprF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/59/98514_8oprF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/59/98514_8oprF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/59/98514_8oprF.jpg"
+          },
+          "name": "火聖旅団 ダナサイト999.9",
+          "name_cn": "火圣旅团999.9",
+          "relation": "前传",
+          "type": 2,
+          "id": 98514
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/d9/93844_LorII.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/d9/93844_LorII.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/11/d9/93844_LorII.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/d9/93844_LorII.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/d9/93844_LorII.jpg"
+          },
+          "name": "银河鉄道999 MEMORIAL SONGS COLLECTION",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 93844
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/ad/89138_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/ad/89138_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/80/ad/89138_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/ad/89138_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/ad/89138_jp.jpg"
+          },
+          "name": "銀河鉄道999 SONGS&amp;OTHERS",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 89138
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/00/32/75179_ZPSEP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/00/32/75179_ZPSEP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/00/32/75179_ZPSEP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/00/32/75179_ZPSEP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/00/32/75179_ZPSEP.jpg"
+          },
+          "name": "銀河鉄道999",
+          "name_cn": "银河铁道999",
+          "relation": "书籍",
+          "type": 1,
+          "id": 75179
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/28/49620_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/28/49620_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/28/49620_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/28/49620_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/28/49620_jp.jpg"
+          },
+          "name": "銀河鉄道999",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 49620
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/d0/49268_bBCpF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/d0/49268_bBCpF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f0/d0/49268_bBCpF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/d0/49268_bBCpF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/d0/49268_bBCpF.jpg"
+          },
+          "name": "宇宙交響詩メーテル ～銀河鉄道999外伝～",
+          "name_cn": "银河铁道999外传 宇宙交响诗",
+          "relation": "前传",
+          "type": 2,
+          "id": 49268
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/15/49266_91dIi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/15/49266_91dIi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/15/49266_91dIi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/15/49266_91dIi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/15/49266_91dIi.jpg"
+          },
+          "name": "メーテルレジェンド",
+          "name_cn": "梅德尔传奇",
+          "relation": "前传",
+          "type": 2,
+          "id": 49266
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/be/38639_YXM23.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/be/38639_YXM23.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/be/38639_YXM23.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/be/38639_YXM23.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/be/38639_YXM23.jpg"
+          },
+          "name": "宇宙海賊キャプテンハーロック",
+          "name_cn": "宇宙海盗哈洛克",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 38639
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6e/90/33922_V94At.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6e/90/33922_V94At.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6e/90/33922_V94At.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6e/90/33922_V94At.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6e/90/33922_V94At.jpg"
+          },
+          "name": "さよなら銀河鉄道999 -アンドロメダ終着駅-",
+          "name_cn": "再见 银河铁道999 安卓梅达终点站",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 33922
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/51/23307_l67OO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/51/23307_l67OO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/51/23307_l67OO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/51/23307_l67OO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/51/23307_l67OO.jpg"
+          },
+          "name": "銀河鉄道999 映画版",
+          "name_cn": "银河铁道999 剧场版",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 23307
         }
       ]
     }

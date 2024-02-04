@@ -1,7 +1,7 @@
 [
   {
     "title": "無敵鋼人ダイターン3",
-    "date": "1978-06-03T16:00:00.000Z",
+    "date": "1978-06-03",
     "bangumi": {
       "date": "1978-06-03",
       "platform": "TV",
@@ -34,9 +34,9 @@
         "富野悠由季",
         "富野由悠季",
         "日本动画",
+        "旧物",
         "星山博之",
         "机战登场作",
-        "机甲",
         "湖川友謙",
         "湖川友谦",
         "白石冬美",
@@ -111,17 +111,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/77/184409_xf36w.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/77/184409_xf36w.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ef/77/184409_xf36w.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/77/184409_xf36w.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/77/184409_xf36w.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
           },
-          "name": "スーパーロボット大戦V",
-          "name_cn": "超级机器人大战V",
+          "name": "スーパーロボット大戦COMPACT",
+          "name_cn": "超级机器人大战COMPACT",
           "relation": "游戏",
           "type": 4,
-          "id": 184409
+          "id": 208853
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/9e/467503_YOzqr.jpg"
+          },
+          "name": "GBハロボッツ",
+          "name_cn": "哈罗机器人",
+          "relation": "游戏",
+          "type": 4,
+          "id": 467503
         },
         {
           "images": {
@@ -321,20 +335,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
-          },
-          "name": "スーパーロボット大戦COMPACT",
-          "name_cn": "超级机器人大战COMPACT",
-          "relation": "游戏",
-          "type": 4,
-          "id": 208853
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/c6/47_yJDdk.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/c6/47_yJDdk.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/67/c6/47_yJDdk.jpg",
@@ -346,6 +346,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 47
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/77/184409_xf36w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/77/184409_xf36w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/77/184409_xf36w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/77/184409_xf36w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/77/184409_xf36w.jpg"
+          },
+          "name": "スーパーロボット大戦V",
+          "name_cn": "超级机器人大战V",
+          "relation": "游戏",
+          "type": 4,
+          "id": 184409
         },
         {
           "images": {

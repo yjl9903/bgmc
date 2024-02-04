@@ -1,7 +1,7 @@
 [
   {
     "title": "北斗の拳",
-    "date": "1984-10-04T10:30:00.000Z",
+    "date": "1984-10-04",
     "bangumi": {
       "date": "1984-10-04",
       "platform": "TV",
@@ -23,6 +23,7 @@
         "DVD",
         "JUMP",
         "TV",
+        "TVA",
         "一碗虾",
         "世纪末",
         "东映",
@@ -44,8 +45,7 @@
         "童年",
         "经典",
         "芦田豊雄",
-        "补旧番",
-        "补番"
+        "补旧番"
       ],
       "infobox": [
         {
@@ -134,6 +134,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 11139
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/83/477047_HDHf0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/83/477047_HDHf0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/83/477047_HDHf0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/83/477047_HDHf0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/83/477047_HDHf0.jpg"
+          },
+          "name": "北斗の拳",
+          "name_cn": "北斗之拳",
+          "relation": "游戏",
+          "type": 4,
+          "id": 477047
         },
         {
           "images": {
@@ -389,11 +403,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/4c/3844_uPz3v.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/4c/3844_uPz3v.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/49/4c/3844_uPz3v.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/4c/3844_uPz3v.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/4c/3844_uPz3v.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/4c/3844_Ud22w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/4c/3844_Ud22w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/49/4c/3844_Ud22w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/4c/3844_Ud22w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/4c/3844_Ud22w.jpg"
           },
           "name": "北斗の拳ラオウ外伝-天の覇王",
           "name_cn": "北斗神拳拉欧外传-天之霸王",
@@ -434,7 +448,7 @@
   },
   {
     "title": "超力ロボ ガラット",
-    "date": "1984-10-06T16:00:00.000Z",
+    "date": "1984-10-06",
     "bangumi": {
       "date": "1984-10-06",
       "platform": "TV",
@@ -501,12 +515,41 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/9e/467503_YOzqr.jpg"
+          },
+          "name": "GBハロボッツ",
+          "name_cn": "哈罗机器人",
+          "relation": "游戏",
+          "type": 4,
+          "id": 467503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/ce/470791_836CS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/ce/470791_836CS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/42/ce/470791_836CS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/ce/470791_836CS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/ce/470791_836CS.jpg"
+          },
+          "name": "Welcome! ガラット ~ガラットのテーマ~ / 不思議なトワイライト ~パティのLOVE SONG~",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 470791
+        }
+      ]
     }
   },
   {
     "title": "機甲界ガリアン",
-    "date": "1984-10-05T00:30:00.000Z",
+    "date": "1984-10-05",
     "bangumi": {
       "date": "1984-10-05",
       "platform": "TV",
@@ -522,7 +565,6 @@
       "name_cn": "机甲界卡利安",
       "tags": [
         "1984",
-        "1984年",
         "1984年10月",
         "80",
         "80s",
@@ -542,6 +584,7 @@
         "幻想",
         "战争",
         "日本动画",
+        "机战",
         "机甲",
         "渕崎ゆり子",
         "科幻",
@@ -642,7 +685,7 @@
           },
           "name": "サンライズ英雄譚",
           "name_cn": "日升英雄谭",
-          "relation": "角色出演",
+          "relation": "游戏",
           "type": 4,
           "id": 145455
         },
@@ -683,8 +726,8 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/65/182011_v7I57.jpg"
           },
           "name": "新世代ロボット戦記ブレイブサーガ",
-          "name_cn": "新世代机器人战记 勇气传说",
-          "relation": "角色出演",
+          "name_cn": "勇者圣战",
+          "relation": "游戏",
           "type": 4,
           "id": 182011
         },
@@ -697,8 +740,8 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/49/348260_oLw7B.jpg"
           },
           "name": "ブレイブサーガ2",
-          "name_cn": "BRAVESAGA2",
-          "relation": "角色出演",
+          "name_cn": "勇者圣战2",
+          "relation": "游戏",
           "type": 4,
           "id": 348260
         },
@@ -715,13 +758,27 @@
           "relation": "原声集",
           "type": 3,
           "id": 432142
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/df/477233_i0J4t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/df/477233_i0J4t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/84/df/477233_i0J4t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/df/477233_i0J4t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/df/477233_i0J4t.jpg"
+          },
+          "name": "ガリアン サウンド エフェクト",
+          "name_cn": "机甲界卡利安 音效",
+          "relation": "原声集",
+          "type": 3,
+          "id": 477233
         }
       ]
     }
   },
   {
     "title": "あした天気になあれ",
-    "date": "1984-10-06T22:15:00.000Z",
+    "date": "1984-10-06",
     "bangumi": {
       "date": "1984-10-06",
       "platform": "TV",
@@ -760,7 +817,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/49/470790_6711h.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/49/470790_6711h.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/16/49/470790_6711h.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/49/470790_6711h.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/49/470790_6711h.jpg"
+          },
+          "name": "明日はシャイニング・スカイ / 夕焼けに歩きたい",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 470790
+        }
+      ]
     }
   }
 ]

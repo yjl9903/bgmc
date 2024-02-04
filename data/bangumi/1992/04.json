@@ -1,7 +1,7 @@
 [
   {
     "title": "元気爆発ガンバルガー",
-    "date": "1992-04-01T16:00:00.000Z",
+    "date": "1992-04-01",
     "bangumi": {
       "date": "1992-04-01",
       "platform": "TV",
@@ -22,18 +22,19 @@
         "90",
         "SUNRISE",
         "TV",
-        "TVA",
         "robo",
         "エルドランシリーズ",
         "ロボットアニメ",
         "元気爆発ガンバルガー",
         "元氣小子",
         "原创",
+        "奇幻",
         "川瀬敏文",
         "忍者",
         "忍術",
         "折笠愛",
         "日本动画",
+        "旧物",
         "机战",
         "机甲",
         "機器人",
@@ -43,7 +44,6 @@
         "童年回憶",
         "萝卜",
         "藍光人系列",
-        "补番",
         "金巻兼一",
         "電視"
       ],
@@ -257,13 +257,27 @@
           "relation": "总集篇",
           "type": 2,
           "id": 445943
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/9e/467503_YOzqr.jpg"
+          },
+          "name": "GBハロボッツ",
+          "name_cn": "哈罗机器人",
+          "relation": "游戏",
+          "type": 4,
+          "id": 467503
         }
       ]
     }
   },
   {
     "title": "クレヨンしんちゃん",
-    "date": "1992-04-13T10:00:00.000Z",
+    "date": "1992-04-13",
     "bangumi": {
       "date": "1992-04-13",
       "platform": "TV",
@@ -415,7 +429,7 @@
           "value": "テレビ朝日、アサツー ディ・ケイ / ADKエモーションズ、シンエイ動画"
         }
       ],
-      "total_episodes": 1241,
+      "total_episodes": 1243,
       "id": 24823,
       "eps": 0,
       "volumes": 0,
@@ -425,17 +439,45 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/ed/2669_rav75.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/ed/2669_rav75.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0b/ed/2669_rav75.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/ed/2669_rav75.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/ed/2669_rav75.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
-          "name": "クレヨンしんちゃん",
-          "name_cn": "蜡笔小新",
-          "relation": "书籍",
-          "type": 1,
-          "id": 2669
+          "name": "スーパーロボット大戦X-Ω",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 141050
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/ef/469483_ZNheg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/ef/469483_ZNheg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c3/ef/469483_ZNheg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/ef/469483_ZNheg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/ef/469483_ZNheg.jpg"
+          },
+          "name": "クレヨンしんちゃん オラたちの恐竜日記",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 2,
+          "id": 469483
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/e7/461968_3130Q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/e7/461968_3130Q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c2/e7/461968_3130Q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/e7/461968_3130Q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/e7/461968_3130Q.jpg"
+          },
+          "name": "仮面ライダー電王+しん王",
+          "name_cn": "假面骑士电王+新王",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 461968
         },
         {
           "images": {
@@ -565,17 +607,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/ed/2669_rav75.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/ed/2669_rav75.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/ed/2669_rav75.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/ed/2669_rav75.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/ed/2669_rav75.jpg"
           },
-          "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
-          "relation": "游戏",
-          "type": 4,
-          "id": 141050
+          "name": "クレヨンしんちゃん",
+          "name_cn": "蜡笔小新",
+          "relation": "书籍",
+          "type": 1,
+          "id": 2669
         },
         {
           "images": {
@@ -1034,7 +1076,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/e3/410418_5l6lE.jpg"
           },
           "name": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～",
-          "name_cn": "新次元！蜡笔小新 THE MOVIE 超能力大决战 ~飞翔飞翔手卷寿司~",
+          "name_cn": "蜡笔小新：新次元！超能力大决战",
           "relation": "番外篇",
           "type": 2,
           "id": 410418
@@ -1128,7 +1170,7 @@
   },
   {
     "title": "超電動ロボ 鉄人28号FX",
-    "date": "1992-04-04T16:00:00.000Z",
+    "date": "1992-04-05",
     "bangumi": {
       "date": "1992-04-05",
       "platform": "TV",
@@ -1192,22 +1234,6 @@
         {
           "key": "原作",
           "value": "横山光輝"
-        },
-        {
-          "key": "シリーズ構成",
-          "value": "園田英樹"
-        },
-        {
-          "key": "キャラクターデザイン",
-          "value": "本橋秀之"
-        },
-        {
-          "key": "メカニックデザイン",
-          "value": "創一機、村田護郎"
-        },
-        {
-          "key": "製作",
-          "value": "ASATSU、東京ムービー新社"
         }
       ],
       "total_episodes": 47,
@@ -1231,13 +1257,27 @@
           "relation": "前传",
           "type": 2,
           "id": 37258
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/0e/400899_iXrX5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/0e/400899_iXrX5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/0e/400899_iXrX5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/0e/400899_iXrX5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/0e/400899_iXrX5.jpg"
+          },
+          "name": "鉄人28号",
+          "name_cn": "铁人28号",
+          "relation": "书籍",
+          "type": 1,
+          "id": 400899
         }
       ]
     }
   },
   {
     "title": "あしたへフリーキック",
-    "date": "1992-04-13T16:00:00.000Z",
+    "date": "1992-04-14",
     "bangumi": {
       "date": "1992-04-14",
       "platform": "TV",
@@ -1261,6 +1301,7 @@
         "山口勝平",
         "山本優",
         "日本动画",
+        "旧物",
         "旧番",
         "草尾毅",
         "运动番"
@@ -1328,6 +1369,7 @@
         "动",
         "旧物",
         "漫画改",
+        "生肉",
         "经典",
         "美食"
       ],

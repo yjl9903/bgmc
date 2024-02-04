@@ -1,7 +1,7 @@
 [
   {
     "title": "幻夢戦記レダ",
-    "date": "1985-02-28T16:00:00.000Z",
+    "date": "1985-03-01",
     "bangumi": {
       "date": "1985-03-01",
       "platform": "OVA",
@@ -24,11 +24,11 @@
         "OVA",
         "f.日本",
         "j.值得且只值得看一遍(3星)",
-        "lxy",
         "カナメプロダクション",
         "上妻晋作",
         "剧场版",
         "原创",
+        "反常规高手评分",
         "合田浩章",
         "増尾昭一",
         "奇幻",
@@ -116,7 +116,7 @@
   },
   {
     "title": "タッチ",
-    "date": "1985-03-24T22:30:00.000Z",
+    "date": "1985-03-24",
     "bangumi": {
       "date": "1985-03-24",
       "platform": "TV",
@@ -145,7 +145,7 @@
         "安达充",
         "恋爱",
         "日本",
-        "日本动画",
+        "杉井ギサブロー",
         "校园",
         "棒球",
         "棒球英豪",
@@ -532,7 +532,7 @@
           },
           "name": "MIX MEISEI STORY",
           "name_cn": "MIX：明青故事",
-          "relation": "续集",
+          "relation": "相同世界观",
           "type": 2,
           "id": 255980
         },
@@ -602,9 +602,23 @@
           },
           "name": "タッチ Miss Lonely Yesterday あれから君は…",
           "name_cn": "棒球英豪 在那之后的你",
-          "relation": "番外篇",
+          "relation": "续集",
           "type": 2,
           "id": 18048
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/7a/18047_KTV1l.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/7a/18047_KTV1l.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0c/7a/18047_KTV1l.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/7a/18047_KTV1l.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/7a/18047_KTV1l.jpg"
+          },
+          "name": "タッチ3 君が通り過ぎたあとに -DON`T PASS ME BY-",
+          "name_cn": "棒球英豪3 在你离开之后",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 18047
         },
         {
           "images": {
@@ -678,20 +692,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/7a/18047_KTV1l.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/7a/18047_KTV1l.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0c/7a/18047_KTV1l.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/7a/18047_KTV1l.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/7a/18047_KTV1l.jpg"
-          },
-          "name": "タッチ3 君が通り過ぎたあとに -DON`T PASS ME BY-",
-          "name_cn": "棒球英豪3 在你离开之后",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 18047
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b6/fc/77900_J5rOp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b6/fc/77900_J5rOp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b6/fc/77900_J5rOp.jpg",
@@ -722,8 +722,8 @@
     }
   },
   {
-    "title": "機動戦士Zガンダム",
-    "date": "1985-03-02T15:30:00.000Z",
+    "title": "機動戦士Ζガンダム",
+    "date": "1985-03-02",
     "bangumi": {
       "date": "1985-03-02",
       "platform": "TV",
@@ -841,17 +841,87 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/db/208857_jjJjv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/db/208857_jjJjv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/69/db/208857_jjJjv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/db/208857_jjJjv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/db/208857_jjJjv.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/4d/221364_jni58.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/4d/221364_jni58.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/4d/221364_jni58.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/4d/221364_jni58.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/4d/221364_jni58.jpg"
           },
-          "name": "スーパーロボット大戦GC",
-          "name_cn": "超级机器人大战GC",
+          "name": "Competition of NEW GUNDAM -RED or WHITE-",
+          "name_cn": "新高达之竞争-红白-",
+          "relation": "动画",
+          "type": 2,
+          "id": 221364
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/70/298304_vOAlt.jpg"
+          },
+          "name": "機動戦士ガンダム EXTREME VS. MAXI BOOST ON",
+          "name_cn": "机动战士高达 EXTREME VS.极限爆发",
+          "relation": "角色出演",
+          "type": 4,
+          "id": 298304
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/1a/292006_SSadI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/1a/292006_SSadI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/1a/292006_SSadI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/1a/292006_SSadI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/1a/292006_SSadI.jpg"
+          },
+          "name": "機動戦士Zガンダム",
+          "name_cn": "机动战士Z高达",
+          "relation": "书籍",
+          "type": 1,
+          "id": 292006
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/4c/291993_f0GKE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/4c/291993_f0GKE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/4c/291993_f0GKE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/4c/291993_f0GKE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/4c/291993_f0GKE.jpg"
+          },
+          "name": "サイド ストーリー オブ ガンダム Z",
+          "name_cn": "高达Z外传",
+          "relation": "单行本",
+          "type": 1,
+          "id": 291993
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/65/273119_5kpAY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/65/273119_5kpAY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/65/273119_5kpAY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/65/273119_5kpAY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/65/273119_5kpAY.jpg"
+          },
+          "name": "北爪宏幸画集 Characters of GUNDAM",
+          "name_cn": "北爪宏幸画集",
+          "relation": "画集",
+          "type": 1,
+          "id": 273119
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
+          },
+          "name": "スーパーロボット大戦DD",
+          "name_cn": "超级机器人大战DD",
           "relation": "游戏",
           "type": 4,
-          "id": 208857
+          "id": 271927
         },
         {
           "images": {
@@ -925,6 +995,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/c3/300490_s3ZuS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/c3/300490_s3ZuS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/30/c3/300490_s3ZuS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/c3/300490_s3ZuS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/c3/300490_s3ZuS.jpg"
+          },
+          "name": "A.O.Z Re-Boot ガンダム・インレ-くろうさぎのみた夢-",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 300490
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/47/219909_plL4e.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/47/219909_plL4e.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/79/47/219909_plL4e.jpg",
@@ -947,7 +1031,7 @@
           },
           "name": "ガンダムバーサス",
           "name_cn": "高达VERSUS",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 213352
         },
@@ -981,17 +1065,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/db/208857_jjJjv.jpg"
           },
-          "name": "スーパーロボット大戦DD",
-          "name_cn": "超级机器人大战DD",
+          "name": "スーパーロボット大戦GC",
+          "name_cn": "超级机器人大战GC",
           "relation": "游戏",
           "type": 4,
-          "id": 271927
+          "id": 208857
         },
         {
           "images": {
@@ -1051,20 +1135,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/1b/192002_0eOx2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/1b/192002_0eOx2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a5/1b/192002_0eOx2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/1b/192002_0eOx2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/1b/192002_0eOx2.jpg"
-          },
-          "name": "Another Century's Episode",
-          "name_cn": "异世界传说",
-          "relation": "游戏",
-          "type": 4,
-          "id": 192002
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/c6/47_yJDdk.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/c6/47_yJDdk.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/67/c6/47_yJDdk.jpg",
@@ -1079,45 +1149,73 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/4e/142146_QpOQD.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/4e/142146_QpOQD.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/14/4e/142146_QpOQD.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/4e/142146_QpOQD.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/4e/142146_QpOQD.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/ad/339381_J0PBA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/ad/339381_J0PBA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/49/ad/339381_J0PBA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/ad/339381_J0PBA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/ad/339381_J0PBA.jpg"
           },
-          "name": "Z・刻を越えて",
+          "name": "スーパーロボット大戦Scramble Commander the 2nd",
+          "name_cn": "超级机器人大战：特勤司令官2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 339381
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/04/477179_Gww9f.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/04/477179_Gww9f.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d8/04/477179_Gww9f.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/04/477179_Gww9f.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/04/477179_Gww9f.jpg"
+          },
+          "name": "水の星へ愛をこめて",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
-          "id": 142146
+          "id": 477179
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/68/477177_aCA41.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/68/477177_aCA41.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/68/477177_aCA41.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/68/477177_aCA41.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/68/477177_aCA41.jpg"
           },
-          "name": "スーパーロボット大戦X-Ω",
+          "name": "星空のBelieve",
           "name_cn": "",
-          "relation": "游戏",
-          "type": 4,
-          "id": 141050
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 477177
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/0f/325934_8BD16.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/0f/325934_8BD16.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0c/0f/325934_8BD16.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/0f/325934_8BD16.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/0f/325934_8BD16.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/f9/476872_c73Wh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/f9/476872_c73Wh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a4/f9/476872_c73Wh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/f9/476872_c73Wh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/f9/476872_c73Wh.jpg"
           },
-          "name": "スーパーロボット大戦コンプリートボックス",
-          "name_cn": "超级机器人大战Complete Box",
-          "relation": "游戏",
-          "type": 4,
-          "id": 325934
+          "name": "機動戦士ガンダム新訳MS大全集 U.C.0081-0090編",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 476872
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/d4/462525_944p1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/d4/462525_944p1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/d4/462525_944p1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/d4/462525_944p1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/d4/462525_944p1.jpg"
+          },
+          "name": "大河原邦男アイアンワークス",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 462525
         },
         {
           "images": {
@@ -1163,6 +1261,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/38/387327_93wW7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/38/387327_93wW7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/67/38/387327_93wW7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/38/387327_93wW7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/38/387327_93wW7.jpg"
+          },
+          "name": "30th GUNDAM PERFECT MISSION",
+          "name_cn": "高达：完美任务",
+          "relation": "动画",
+          "type": 2,
+          "id": 387327
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/40/348525_fD4oo.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/40/348525_fD4oo.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/51/40/348525_fD4oo.jpg",
@@ -1191,17 +1303,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/ad/339381_J0PBA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/ad/339381_J0PBA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/49/ad/339381_J0PBA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/ad/339381_J0PBA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/ad/339381_J0PBA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/1b/192002_0eOx2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/1b/192002_0eOx2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a5/1b/192002_0eOx2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/1b/192002_0eOx2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/1b/192002_0eOx2.jpg"
           },
-          "name": "スーパーロボット大戦Scramble Commander the 2nd",
-          "name_cn": "超级机器人大战：特勤司令官2",
+          "name": "Another Century's Episode",
+          "name_cn": "异世界传说",
           "relation": "游戏",
           "type": 4,
-          "id": 339381
+          "id": 192002
         },
         {
           "images": {
@@ -1241,23 +1353,23 @@
           },
           "name": "機動戦士ガンダム ANAHEIM RECORD",
           "name_cn": "机动战士高达 阿纳海姆记录",
-          "relation": "书籍",
+          "relation": "单行本",
           "type": 1,
           "id": 336168
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/77/184409_xf36w.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/77/184409_xf36w.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ef/77/184409_xf36w.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/77/184409_xf36w.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/77/184409_xf36w.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/0f/325934_8BD16.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/0f/325934_8BD16.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0c/0f/325934_8BD16.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/0f/325934_8BD16.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/0f/325934_8BD16.jpg"
           },
-          "name": "スーパーロボット大戦V",
-          "name_cn": "超级机器人大战V",
+          "name": "スーパーロボット大戦コンプリートボックス",
+          "name_cn": "超级机器人大战Complete Box",
           "relation": "游戏",
           "type": 4,
-          "id": 184409
+          "id": 325934
         },
         {
           "images": {
@@ -1269,9 +1381,23 @@
           },
           "name": "SDガンダム GGENERATION モノアイガンダムズ",
           "name_cn": "SD高达G世纪 独眼高达",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 325697
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/a6/314196_603mg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/a6/314196_603mg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/a6/314196_603mg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/a6/314196_603mg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/a6/314196_603mg.jpg"
+          },
+          "name": "ALL THAT GUNDAM",
+          "name_cn": "",
+          "relation": "动画",
+          "type": 2,
+          "id": 314196
         },
         {
           "images": {
@@ -1303,6 +1429,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/76/303894_xG6l8.jpg"
+          },
+          "name": "サンライズ 英雄譚3",
+          "name_cn": "日升英雄谭3",
+          "relation": "游戏",
+          "type": 4,
+          "id": 303894
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/7d/303892_GFZ86.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/7d/303892_GFZ86.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/f7/7d/303892_GFZ86.jpg",
@@ -1314,62 +1454,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 303892
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/c3/300490_s3ZuS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/c3/300490_s3ZuS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/30/c3/300490_s3ZuS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/c3/300490_s3ZuS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/c3/300490_s3ZuS.jpg"
-          },
-          "name": "A.O.Z Re-Boot ガンダム・インレ-くろうさぎのみた夢-",
-          "name_cn": "",
-          "relation": "书籍",
-          "type": 1,
-          "id": 300490
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/70/298304_vOAlt.jpg"
-          },
-          "name": "機動戦士ガンダム EXTREME VS. MAXI BOOST ON",
-          "name_cn": "机动战士高达 EXTREME VS.极限爆发",
-          "relation": "游戏",
-          "type": 4,
-          "id": 298304
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/1a/292006_SSadI.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/1a/292006_SSadI.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cd/1a/292006_SSadI.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/1a/292006_SSadI.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/1a/292006_SSadI.jpg"
-          },
-          "name": "機動戦士Zガンダム",
-          "name_cn": "机动战士Z高达",
-          "relation": "书籍",
-          "type": 1,
-          "id": 292006
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/4c/291993_f0GKE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/4c/291993_f0GKE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f9/4c/291993_f0GKE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/4c/291993_f0GKE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/4c/291993_f0GKE.jpg"
-          },
-          "name": "サイド ストーリー オブ ガンダム Z",
-          "name_cn": "高达Z外传",
-          "relation": "书籍",
-          "type": 1,
-          "id": 291993
         },
         {
           "images": {
@@ -1387,6 +1471,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/5a/78546_06b4B.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/5a/78546_06b4B.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/5a/78546_06b4B.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/5a/78546_06b4B.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5a/78546_06b4B.jpg"
+          },
+          "name": "スーパーロボット大戦 Operation Extend",
+          "name_cn": "超级机器人大战Operation Extend",
+          "relation": "游戏",
+          "type": 4,
+          "id": 78546
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/c9/58750_d56V6.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/c9/58750_d56V6.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c2/c9/58750_d56V6.jpg",
@@ -1398,6 +1496,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 58750
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/27/2f/58152_uaB5f.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/27/2f/58152_uaB5f.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/27/2f/58152_uaB5f.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/27/2f/58152_uaB5f.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/27/2f/58152_uaB5f.jpg"
+          },
+          "name": "機動戦士ガンダムオンライン",
+          "name_cn": "机动战士高达Online",
+          "relation": "角色出演",
+          "type": 4,
+          "id": 58152
         },
         {
           "images": {
@@ -1440,20 +1552,6 @@
           "relation": "番外篇",
           "type": 1,
           "id": 55256
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/63/93/50732_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/63/93/50732_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/63/93/50732_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/63/93/50732_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/63/93/50732_jp.jpg"
-          },
-          "name": "Z・刻をこえて / 水の星へ愛をこめて",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 50732
         },
         {
           "images": {
@@ -1507,23 +1605,23 @@
           },
           "name": "ADVANCE OF Ζ ティターンズの旗のもとに",
           "name_cn": "泰坦斯的旗下（ADVANCE OF Z）",
-          "relation": "书籍",
+          "relation": "单行本",
           "type": 1,
           "id": 40246
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/27/2f/58152_uaB5f.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/27/2f/58152_uaB5f.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/27/2f/58152_uaB5f.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/27/2f/58152_uaB5f.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/27/2f/58152_uaB5f.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/b5/72802_2IUfS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/b5/72802_2IUfS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0f/b5/72802_2IUfS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/b5/72802_2IUfS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/b5/72802_2IUfS.jpg"
           },
-          "name": "機動戦士ガンダムオンライン",
-          "name_cn": "机动战士高达Online",
+          "name": "スーパーロボット大戦A",
+          "name_cn": "超级机器人大战A",
           "relation": "游戏",
           "type": 4,
-          "id": 58152
+          "id": 72802
         },
         {
           "images": {
@@ -1591,7 +1689,7 @@
           },
           "name": "機動戦士ガンダム ガンダムvs.ガンダムNEXT PLUS",
           "name_cn": "高达vs高达 NEXT PLUS",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 4594
         },
@@ -1633,7 +1731,7 @@
           },
           "name": "機動戦士ガンダム ガンダムVS.ガンダム",
           "name_cn": "机动战士高达：高达 VS.高达",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 2304
         },
@@ -1653,17 +1751,87 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/d1/120059_23A73.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/d1/120059_23A73.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/29/d1/120059_23A73.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/d1/120059_23A73.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/d1/120059_23A73.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/1e/126070_H6RSG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/1e/126070_H6RSG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4a/1e/126070_H6RSG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/1e/126070_H6RSG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/1e/126070_H6RSG.jpg"
           },
-          "name": "スーパーロボット大戦F",
-          "name_cn": "超级机器人大战F",
+          "name": "機動戦士Zガンダム外伝 アドバンス・オブ・Z 刻に抗いし者",
+          "name_cn": "机动战士高达ADVANCE OF Ζ 时代的反抗者",
+          "relation": "单行本",
+          "type": 1,
+          "id": 126070
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/e1/145943_87VTF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/e1/145943_87VTF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/44/e1/145943_87VTF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/e1/145943_87VTF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/e1/145943_87VTF.jpg"
+          },
+          "name": "Another Century's Episode ：R",
+          "name_cn": "",
           "relation": "游戏",
           "type": 4,
-          "id": 120059
+          "id": 145943
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/4e/142146_QpOQD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/4e/142146_QpOQD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/14/4e/142146_QpOQD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/4e/142146_QpOQD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/4e/142146_QpOQD.jpg"
+          },
+          "name": "Z・刻を越えて",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 142146
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/77/184409_xf36w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/77/184409_xf36w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/77/184409_xf36w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/77/184409_xf36w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/77/184409_xf36w.jpg"
+          },
+          "name": "スーパーロボット大戦V",
+          "name_cn": "超级机器人大战V",
+          "relation": "游戏",
+          "type": 4,
+          "id": 184409
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
+          },
+          "name": "スーパーロボット大戦X-Ω",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 141050
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/32/86834_X7t3t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/32/86834_X7t3t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/32/86834_X7t3t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/32/86834_X7t3t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/32/86834_X7t3t.jpg"
+          },
+          "name": "機動戦士Ζガンダム エゥーゴvs.ティターンズ",
+          "name_cn": "机动战士Z高达 幽谷 VS 泰坦斯",
+          "relation": "游戏",
+          "type": 4,
+          "id": 86834
         },
         {
           "images": {
@@ -1695,31 +1863,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/1e/126070_H6RSG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/1e/126070_H6RSG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4a/1e/126070_H6RSG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/1e/126070_H6RSG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/1e/126070_H6RSG.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/d1/120059_23A73.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/d1/120059_23A73.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/d1/120059_23A73.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/d1/120059_23A73.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/d1/120059_23A73.jpg"
           },
-          "name": "機動戦士Zガンダム外伝 アドバンス・オブ・Z 刻に抗いし者",
-          "name_cn": "机动战士高达ADVANCE OF Ζ 时代的反抗者",
-          "relation": "书籍",
-          "type": 1,
-          "id": 126070
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/b5/72802_2IUfS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/b5/72802_2IUfS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0f/b5/72802_2IUfS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/b5/72802_2IUfS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/b5/72802_2IUfS.jpg"
-          },
-          "name": "スーパーロボット大戦A",
-          "name_cn": "超级机器人大战A",
+          "name": "スーパーロボット大戦F",
+          "name_cn": "超级机器人大战F",
           "relation": "游戏",
           "type": 4,
-          "id": 72802
+          "id": 120059
         },
         {
           "images": {
@@ -1793,31 +1947,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/32/86834_X7t3t.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/32/86834_X7t3t.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d3/32/86834_X7t3t.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/32/86834_X7t3t.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/32/86834_X7t3t.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/79/90369_so1PH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/79/90369_so1PH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/79/90369_so1PH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/79/90369_so1PH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/79/90369_so1PH.jpg"
           },
-          "name": "機動戦士Ζガンダム エゥーゴvs.ティターンズ",
-          "name_cn": "机动战士Z高达 幽谷 VS 泰坦斯",
-          "relation": "游戏",
-          "type": 4,
-          "id": 86834
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/5a/78546_06b4B.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/5a/78546_06b4B.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f9/5a/78546_06b4B.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/5a/78546_06b4B.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5a/78546_06b4B.jpg"
-          },
-          "name": "スーパーロボット大戦 Operation Extend",
-          "name_cn": "超级机器人大战Operation Extend",
-          "relation": "游戏",
-          "type": 4,
-          "id": 78546
+          "name": "ガンダム新体験 -0087- グリーンダイバーズ",
+          "name_cn": "高达新体验 0087 绿色传动器",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 90369
         },
         {
           "images": {
@@ -1849,20 +1989,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/d8/18778_1Na3a.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/d8/18778_1Na3a.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/65/d8/18778_1Na3a.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/d8/18778_1Na3a.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/d8/18778_1Na3a.jpg"
-          },
-          "name": "機動戦士ZガンダムII -恋人たち-",
-          "name_cn": "机动战士Z高达II 恋人们",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 18778
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/f9/190976_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/f9/190976_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/14/f9/190976_jp.jpg",
@@ -1874,6 +2000,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 190976
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/d8/18778_1Na3a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/d8/18778_1Na3a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/d8/18778_1Na3a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/d8/18778_1Na3a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/d8/18778_1Na3a.jpg"
+          },
+          "name": "機動戦士ZガンダムII -恋人たち-",
+          "name_cn": "机动战士Z高达II 恋人们",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 18778
         },
         {
           "images": {
@@ -1902,34 +2042,6 @@
           "relation": "原声集",
           "type": 3,
           "id": 190977
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/79/90369_so1PH.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/79/90369_so1PH.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ff/79/90369_so1PH.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/79/90369_so1PH.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/79/90369_so1PH.jpg"
-          },
-          "name": "ガンダム新体験 -0087- グリーンダイバーズ",
-          "name_cn": "高达新体验 0087 绿色传动器",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 90369
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/4d/221364_jni58.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/4d/221364_jni58.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/4d/221364_jni58.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/4d/221364_jni58.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/4d/221364_jni58.jpg"
-          },
-          "name": "Competition of NEW GUNDAM -RED or WHITE-",
-          "name_cn": "新高达之竞争-红白-",
-          "relation": "其他",
-          "type": 2,
-          "id": 221364
         },
         {
           "images": {
@@ -1978,7 +2090,7 @@
   },
   {
     "title": "ドラえもん のび太の宇宙小戦争",
-    "date": "1985-03-16T16:00:00.000Z",
+    "date": "1985-03-16",
     "bangumi": {
       "date": "1985-03-16",
       "platform": "剧场版",
@@ -1998,15 +2110,14 @@
         "SF",
         "SHIN-EI",
         "Shin-EiAnimation",
-        "アニメ映画",
         "シンエイ動画",
         "ドラえもん",
+        "冒险",
         "剧场版",
         "劇場版",
         "动画",
         "哆啦A夢",
         "哆啦A梦",
-        "大长篇",
         "大雄",
         "奇幻",
         "战斗",
@@ -2022,7 +2133,8 @@
         "童年回憶",
         "童年系列",
         "芝山努",
-        "藤子・F・不二雄"
+        "藤子・F・不二雄",
+        "补标"
       ],
       "infobox": [
         {
@@ -2178,7 +2290,7 @@
   },
   {
     "title": "メガゾーン23",
-    "date": "1985-03-09T16:00:00.000Z",
+    "date": "1985-03-09",
     "bangumi": {
       "date": "1985-03-09",
       "platform": "OVA",
@@ -2368,7 +2480,7 @@
   },
   {
     "title": "Robotech",
-    "date": "1985-03-04T00:00:00.000Z",
+    "date": "1985-03-04",
     "bangumi": {
       "date": "1985-03-04",
       "platform": "TV",
@@ -2385,32 +2497,32 @@
       "tags": [
         "1985",
         "80",
-        "80年代",
         "Artmic",
+        "DEV0",
         "TV",
-        "TVA",
         "robo",
+        "タツノコプロ",
         "ロボットアニメ",
         "三合一过于牛批",
+        "偶像",
         "动画",
         "大长篇",
         "太空堡垒",
+        "太空歌剧",
         "山田勝久",
         "待補2",
         "战争",
+        "新世界的神",
         "日本",
         "日本动画",
+        "校园",
         "欧美",
         "石黑升",
-        "石黒昇",
-        "神剪辑",
         "科幻",
         "童年",
-        "美国",
-        "补",
-        "补番",
         "表番",
         "观看史",
+        "雨宮天",
         "鳥海尽三",
         "龙之子"
       ],
@@ -2583,7 +2695,7 @@
   },
   {
     "title": "カムイの剣",
-    "date": "1985-03-09T16:00:00.000Z",
+    "date": "1985-03-09",
     "bangumi": {
       "date": "1985-03-09",
       "platform": "剧场版",
@@ -2613,7 +2725,7 @@
         "寻宝",
         "小说改",
         "日本",
-        "明治",
+        "旧物",
         "林太郎",
         "林重行",
         "梅津泰臣",

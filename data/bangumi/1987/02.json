@@ -1,7 +1,7 @@
 [
   {
     "title": "機甲戦記ドラグナー",
-    "date": "1987-02-07T16:00:00.000Z",
+    "date": "1987-02-07",
     "bangumi": {
       "date": "1987-02-07",
       "platform": "TV",
@@ -23,7 +23,6 @@
         "Dragonar",
         "SUNRISE",
         "TV",
-        "bot",
         "robo",
         "サンライズ",
         "五武冬史",
@@ -42,6 +41,7 @@
         "萝卜",
         "赛璐珞",
         "鈴木良武",
+        "铃木良武",
         "高桥良辅",
         "高橋良輔",
         "龙骑3基友",
@@ -242,7 +242,7 @@
           },
           "name": "スーパーロボット大戦GC",
           "name_cn": "超级机器人大战GC",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 208857
         },
@@ -262,6 +262,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/76/303894_xG6l8.jpg"
+          },
+          "name": "サンライズ 英雄譚3",
+          "name_cn": "日升英雄谭3",
+          "relation": "游戏",
+          "type": 4,
+          "id": 303894
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/a2/391873_17RPU.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/a2/391873_17RPU.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/1f/a2/391873_17RPU.jpg",
@@ -273,13 +287,27 @@
           "relation": "游戏",
           "type": 4,
           "id": 391873
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/9e/467503_YOzqr.jpg"
+          },
+          "name": "GBハロボッツ",
+          "name_cn": "哈罗机器人",
+          "relation": "游戏",
+          "type": 4,
+          "id": 467503
         }
       ]
     }
   },
   {
     "title": "バブルガムクライシス",
-    "date": "1987-02-25T16:00:00.000Z",
+    "date": "1987-02-25",
     "bangumi": {
       "date": "1987-02-25",
       "platform": "OVA",
@@ -303,18 +331,16 @@
         "OVA",
         "cyberpunk",
         "うるし原智志",
-        "アートミック",
-        "其他",
         "北爪宏幸",
         "原创",
         "合田浩章",
         "园田健一",
-        "園田健一",
         "大张正己",
         "大張正己",
         "机战",
         "榊原良子",
         "泡泡糖危机",
+        "漆原智志",
         "独立ova",
         "福島宏之",
         "秋山勝仁",
@@ -322,6 +348,8 @@
         "科幻",
         "荒牧伸志",
         "萝卜",
+        "补旧番",
+        "赛博朋克",
         "鈴木敏充",
         "高山文彦"
       ],
