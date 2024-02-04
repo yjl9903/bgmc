@@ -1,7 +1,7 @@
 [
   {
     "title": "刀剣乱舞-花丸- ～幕間回想録～",
-    "date": "2017-12-01T16:00:00.000Z",
+    "date": "2017-12-01",
     "bangumi": {
       "id": "226599"
     },
@@ -56,7 +56,7 @@
   },
   {
     "title": "曇天に笑う＜外伝＞～決別、犲の誓い～",
-    "date": "2017-12-02T16:00:00.000Z",
+    "date": "2017-12-02",
     "bangumi": {
       "id": "211142"
     },
@@ -85,7 +85,7 @@
   },
   {
     "title": "イナズマデリバリー 同業者アタック編",
-    "date": "2017-12-08T16:00:00.000Z",
+    "date": "2017-12-08",
     "bangumi": {
       "id": "258326"
     },
@@ -117,7 +117,7 @@
   },
   {
     "title": "進撃の巨人 LOST GIRLS",
-    "date": "2017-12-08T16:00:00.000Z",
+    "date": "2017-12-08",
     "bangumi": {
       "id": "221781"
     },
@@ -135,8 +135,8 @@
         "poster_path": "/by4f66EHK82OZNyEuYbOW5RxFBa.jpg",
         "media_type": "tv",
         "genre_ids": [
-          10765,
           16,
+          10765,
           10759
         ],
         "first_air_date": "2013-04-07",
@@ -147,8 +147,8 @@
     }
   },
   {
-    "title": "ガールズ&パンツァー 最終章 第1話",
-    "date": "2017-12-09T16:00:00.000Z",
+    "title": "ガールズ&amp;パンツァー 最終章 第1話",
+    "date": "2017-12-09",
     "bangumi": {
       "id": "191302"
     },
@@ -159,10 +159,10 @@
         "adult": false,
         "backdrop_path": "/lsnEjpculGQAj4qtMmtNXuzaUBL.jpg",
         "id": 474659,
-        "title": "少女与战车：最终章 第1话",
+        "title": "少女与战车 最终章～第1话～",
         "original_language": "ja",
         "original_title": "ガールズ＆パンツァー 最終章 第1話",
-        "overview": "　　在赌上学校存续的大学选拔队战役中胜利後，大洗女子学园战车道成员终於能好好享受和平悠闲的冬季。迎接三年级生毕业典礼的到来，包含学生会改选与新执行部门的动作，学校开始发生些微的变化。有一天，一场骚动来访少女们。为了下一波难题与困难，战车道成员们再次挺身而出迎接挑战。",
+        "overview": "从赌上校园存亡的对战中撃败大学生选拔队后，大洗女子学园战车道部的成员们终于迎来了平稳的冬日。但随着三年生的毕业、学生会改选、新执行部开始运转等事情，平和的大洗女子学园亦逐渐沸腾起来。而为了可顺利通过AO入试升读大学，小桃作为队长带领大洗战车道部参与冬季大会「无限轨道杯」，却没料到面对首战对手‧BC自由学园便已迎来苦战！难道美穗等人和小桃的未来到此为止了吗？胜利将降临哪一方？",
         "poster_path": "/p4HIfKM5Qw1458NLm7YKuYMTJQK.jpg",
         "media_type": "movie",
         "genre_ids": [
@@ -177,7 +177,7 @@
   },
   {
     "title": "映画 妖怪ウォッチ シャドウサイド 鬼王の復活",
-    "date": "2017-12-15T16:00:00.000Z",
+    "date": "2017-12-16",
     "bangumi": {
       "id": "217167"
     },
@@ -310,8 +310,7 @@
         "genre_ids": [
           16,
           10765,
-          10759,
-          9648
+          10759
         ],
         "id": 68103,
         "origin_country": [
@@ -327,8 +326,38 @@
     }
   },
   {
+    "title": "探偵オペラ ミルキィホームズ アルセーヌ 華麗なる欲望",
+    "date": "2017-12-31",
+    "bangumi": {
+      "id": "230295"
+    },
+    "tmdb": {
+      "id": 51492,
+      "type": "tv",
+      "season": 0,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/t7MjkWAaM7OBwamGY7lsc5bmI63.jpg",
+        "genre_ids": [
+          16,
+          9648
+        ],
+        "id": 51492,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "探偵オペラ ミルキィホームズ",
+        "overview": "故事以侦都横滨为舞台，讲述的是在二十一世纪这个“大侦探时代”中，四名立志要成为名侦探的少女组成了“福尔摩斯\"小队与怪盗对决的故事。",
+        "poster_path": "/1tUE9wZXIurCa8ioPiLKsrT1pRC.jpg",
+        "first_air_date": "2010-10-07",
+        "name": "侦探歌剧 少女福尔摩斯"
+      }
+    }
+  },
+  {
     "title": "Fate/Grand Order -MOONLIGHT/LOSTROOM-",
-    "date": "2017-12-31T14:00:00.000Z",
+    "date": "2017-12-31",
     "bangumi": {
       "id": "231887"
     },
@@ -351,6 +380,35 @@
         "poster_path": "/o8fKdTIzYDh07AH7cKUNtojIG39.jpg",
         "first_air_date": "2017-10-15",
         "name": "Fate/Grand Order -MOONLIGHT/LOSTROOM-"
+      }
+    }
+  },
+  {
+    "title": "衛宮さんちの今日のごはん",
+    "date": "2017-12-31",
+    "bangumi": {
+      "id": "234349"
+    },
+    "tmdb": {
+      "id": 76047,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/xVAYbO2GOhgCNW4DyvSFnT2rBUW.jpg",
+        "id": 76047,
+        "name": "卫宫家今天的饭",
+        "original_language": "ja",
+        "original_name": "衛宮さんちの今日のごはん",
+        "overview": "Fate×料理编织而成的美味而温馨的世界—— 在那里有着无论在哪都能看见的有点热闹的饭桌光景。无论是春天、夏天、秋天。冬天，在卫宫家每天都摆着美味的饭菜。那么今天又会做什么饭菜呢？",
+        "poster_path": "/aEzyap4vAuZkjSxtnuGTwOcZafY.jpg",
+        "media_type": "tv",
+        "genre_ids": [
+          16
+        ],
+        "first_air_date": "2017-12-31",
+        "origin_country": [
+          "JP"
+        ]
       }
     }
   }

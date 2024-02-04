@@ -1,7 +1,7 @@
 [
   {
     "title": "黄金戦士ゴールドライタン",
-    "date": "1981-03-01T14:00:00.000Z",
+    "date": "1981-03-01",
     "bangumi": {
       "id": "37235"
     },
@@ -30,7 +30,7 @@
   },
   {
     "title": "ハロー!サンディベル",
-    "date": "1981-03-06T16:00:00.000Z",
+    "date": "1981-03-06",
     "bangumi": {
       "id": "73723"
     },
@@ -91,36 +91,8 @@
     }
   },
   {
-    "title": "ユニコ",
-    "date": "1981-03-12T16:00:00.000Z",
-    "bangumi": {
-      "id": "32489"
-    },
-    "tmdb": {
-      "id": 38563,
-      "type": "movie",
-      "search": {
-        "adult": false,
-        "backdrop_path": "/5IScEm452N2s7pNlxRa1KpHqzuD.jpg",
-        "genre_ids": [
-          16,
-          14,
-          10751
-        ],
-        "id": 38563,
-        "original_language": "ja",
-        "original_title": "ユニコ",
-        "overview": "小白角是生来便具有神奇力量的独角兽，它能够给人带来快乐。因了这神奇的力量而遭到神的放逐。善良的西风把它带去了一个无人岛屿，在那里它认识了小魔鬼，并和孤独的小魔鬼成为了朋友。",
-        "poster_path": "/fhyLXBFBEXKoidJvSYcajGfWBG1.jpg",
-        "release_date": "1981-03-14",
-        "title": "神奇独角马",
-        "video": false
-      }
-    }
-  },
-  {
     "title": "機動戦士ガンダム",
-    "date": "1981-03-14T16:00:00.000Z",
+    "date": "1981-03-14",
     "bangumi": {
       "id": "38435"
     },
@@ -148,7 +120,7 @@
   },
   {
     "title": "ドラえもん のび太の宇宙開拓史",
-    "date": "1981-03-16T16:00:00.000Z",
+    "date": "1981-03-14",
     "bangumi": {
       "id": "436"
     },
@@ -172,6 +144,34 @@
         "poster_path": "/6Vngabp3oomrWGaGlxYNmjH8PMt.jpg",
         "release_date": "1981-03-14",
         "title": "哆啦A梦：大雄的宇宙开拓史",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "ユニコ",
+    "date": "1981-03-14",
+    "bangumi": {
+      "id": "32489"
+    },
+    "tmdb": {
+      "id": 38563,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/5IScEm452N2s7pNlxRa1KpHqzuD.jpg",
+        "genre_ids": [
+          16,
+          14,
+          10751
+        ],
+        "id": 38563,
+        "original_language": "ja",
+        "original_title": "ユニコ",
+        "overview": "小白角是生来便具有神奇力量的独角兽，它能够给人带来快乐。因了这神奇的力量而遭到神的放逐。善良的西风把它带去了一个无人岛屿，在那里它认识了小魔鬼，并和孤独的小魔鬼成为了朋友。",
+        "poster_path": "/fhyLXBFBEXKoidJvSYcajGfWBG1.jpg",
+        "release_date": "1981-03-14",
+        "title": "神奇独角马",
         "video": false
       }
     }

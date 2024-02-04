@@ -1,7 +1,7 @@
 [
   {
     "title": "ホイッスル!",
-    "date": "2002-05-06T16:00:00.000Z",
+    "date": "2002-05-06",
     "bangumi": {
       "id": "27541"
     },
@@ -12,7 +12,9 @@
         "adult": false,
         "backdrop_path": "/2EzcsNHA2wEdIymnSyUSvKvLLfq.jpg",
         "genre_ids": [
-          16
+          16,
+          18,
+          35
         ],
         "id": 28397,
         "origin_country": [
@@ -24,6 +26,36 @@
         "poster_path": "/xXiW1BjoiO1zvON1qxkqM9ALOW.jpg",
         "first_air_date": "2002-05-06",
         "name": "哨声响起"
+      }
+    }
+  },
+  {
+    "title": "王ドロボウJING",
+    "date": "2002-05-15",
+    "bangumi": {
+      "id": "10275"
+    },
+    "tmdb": {
+      "id": 34820,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/hbuvEji2o7tSn73uaYMlN9d2NR8.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          35
+        ],
+        "id": 34820,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "王ドロボウ JING",
+        "overview": "在大陆上流传着一个传说，那便是无所不能偷尽一切可偷之物的盗贼一族。他们全族都拥有超乎常人想象的身手，来无影，去无踪，只要他们看上的东西，就连星星都能偷走。而如今，历史变成了传说传说变成了神话，渐渐消失在时间的长河中，少年JING是盗贼一族最后的后裔，他继承了先辈们的遗风，在各地自由自在穿梭游走，带领我们走入一个又一个奇妙的世界。在迟到被定为重罪并对时间加以严格管理的城市里偷走时间，在金钱变成生物的市……",
+        "poster_path": "/AjWWHAq1s9BVezg3P34A6xFMS3S.jpg",
+        "first_air_date": "2002-05-15",
+        "name": "盗贼王JING"
       }
     }
   },
@@ -57,35 +89,6 @@
     }
   },
   {
-    "title": "王ドロボウJING",
-    "date": "2002-05-15T16:00:00.000Z",
-    "bangumi": {
-      "id": "10275"
-    },
-    "tmdb": {
-      "id": 34820,
-      "type": "tv",
-      "search": {
-        "adult": false,
-        "backdrop_path": "/hbuvEji2o7tSn73uaYMlN9d2NR8.jpg",
-        "genre_ids": [
-          16,
-          10759
-        ],
-        "id": 34820,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "王ドロボウ JING",
-        "overview": "在大陆上流传着一个传说，那便是无所不能偷尽一切可偷之物的盗贼一族。他们全族都拥有超乎常人想象的身手，来无影，去无踪，只要他们看上的东西，就连星星都能偷走。而如今，历史变成了传说传说变成了神话，渐渐消失在时间的长河中，少年JING是盗贼一族最后的后裔，他继承了先辈们的遗风，在各地自由自在穿梭游走，带领我们走入一个又一个奇妙的世界。在迟到被定为重罪并对时间加以严格管理的城市里偷走时间，在金钱变成生物的市……",
-        "poster_path": "/AjWWHAq1s9BVezg3P34A6xFMS3S.jpg",
-        "first_air_date": "2002-05-15",
-        "name": "盗贼王JING"
-      }
-    }
-  },
-  {
     "title": "ウルトラセブン誕生35周年“EVOLUTION”5部作",
     "date": "2002-05-22",
     "bangumi": {
@@ -97,7 +100,7 @@
       "season": 4,
       "search": {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/1tY1f5LoiUiFZGkCMvYyAyyBTgg.jpg",
         "genre_ids": [],
         "id": 4921,
         "origin_country": [

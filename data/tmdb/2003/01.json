@@ -1,7 +1,7 @@
 [
   {
     "title": "らいむいろ戦奇譚",
-    "date": "2003-01-03T00:30:00.000Z",
+    "date": "2003-01-03",
     "bangumi": {
       "id": "37500"
     },
@@ -30,7 +30,7 @@
   },
   {
     "title": "ストラトス・フォー",
-    "date": "2003-01-04T15:15:00.000Z",
+    "date": "2003-01-04",
     "bangumi": {
       "id": "10414"
     },
@@ -59,7 +59,7 @@
   },
   {
     "title": "MOUSE",
-    "date": "2003-01-05T16:00:00.000Z",
+    "date": "2003-01-05",
     "bangumi": {
       "id": "58719"
     },
@@ -88,8 +88,43 @@
     }
   },
   {
+    "title": "爆転シュート ベイブレード Gレボリューション",
+    "date": "2003-01-06",
+    "bangumi": {
+      "id": "9352"
+    },
+    "tmdb": {
+      "id": 54728,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/9feA6Kd1G456nq2XrDqpDQpFlcG.jpg",
+        "genre_ids": [
+          10762,
+          10759,
+          16,
+          10765,
+          9648,
+          35
+        ],
+        "id": 54728,
+        "origin_country": [
+          "US",
+          "JP",
+          "CA"
+        ],
+        "original_language": "ja",
+        "original_name": "爆転シュート　ベイブレード",
+        "overview": "日本的动画和漫画作品，其漫画版前期于快乐龙别册《HERO》连载，后期于快乐龙双周刊连载，于2004年16期结束。动画版则由 d-rights 制作，并于东京电视台播出。内容是关于一群小孩利用含有“圣兽”的陀螺进行决斗的故事。一般被认为是玩具公司 TAKARA 为促销玩具(陀螺)而诞生的动漫画作品。漫画分为大会篇、白虎族篇、尤里篇、世界大赛篇、伯克篇(演变为无印剧情)、圣封士篇、赛欧篇(演变为第二部剧情)、新世界大赛预选篇、新世界大赛(第三部剧情)。",
+        "poster_path": "/l6ZQhEHjtOd9t6lOvVGzs5YEHcG.jpg",
+        "first_air_date": "2001-01-08",
+        "name": "爆旋陀螺"
+      }
+    }
+  },
+  {
     "title": "WOLF'S RAIN",
-    "date": "2003-01-06T15:30:00.000Z",
+    "date": "2003-01-06",
     "bangumi": {
       "id": "1983"
     },
@@ -119,38 +154,8 @@
     }
   },
   {
-    "title": "L/R Licensed by Royal",
-    "date": "2003-01-08T01:00:00.000Z",
-    "bangumi": {
-      "id": "21104"
-    },
-    "tmdb": {
-      "id": 42787,
-      "type": "tv",
-      "search": {
-        "adult": false,
-        "backdrop_path": "/6RYB2vRH9mY8UyaDN4mmwNAFzIi.jpg",
-        "genre_ids": [
-          18,
-          16,
-          10759
-        ],
-        "id": 42787,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "L/R -Licensed by Royal-",
-        "overview": "一部描写秘密特工生活的动画。画风很似《hack liminality》，颜色基调偏暗一点。值得一提的是片中的配乐，大量采用了英文歌曲作背景音乐，使得整部作品欧洲风味十足。",
-        "poster_path": "/tSHJyH0zgvhQcHni9nKhGnMWpIo.jpg",
-        "first_air_date": "2003-01-09",
-        "name": "王室近卫队"
-      }
-    }
-  },
-  {
-    "title": "出撃！マシンロボレスキュー",
-    "date": "2003-01-08T09:00:00.000Z",
+    "title": "出撃!マシンロボレスキュー",
+    "date": "2003-01-08",
     "bangumi": {
       "id": "37244"
     },
@@ -179,7 +184,7 @@
   },
   {
     "title": ".hack//黄昏の腕輪伝説",
-    "date": "2003-01-08T15:55:00.000Z",
+    "date": "2003-01-08",
     "bangumi": {
       "id": "2001"
     },
@@ -208,8 +213,38 @@
     }
   },
   {
-    "title": "ななか６／１７",
-    "date": "2003-01-08T16:00:00.000Z",
+    "title": "L/R -Licensed by Royal-",
+    "date": "2003-01-08",
+    "bangumi": {
+      "id": "21104"
+    },
+    "tmdb": {
+      "id": 42787,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/6RYB2vRH9mY8UyaDN4mmwNAFzIi.jpg",
+        "genre_ids": [
+          18,
+          16,
+          10759
+        ],
+        "id": 42787,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "L/R -Licensed by Royal-",
+        "overview": "一部描写秘密特工生活的动画。画风很似《hack liminality》，颜色基调偏暗一点。值得一提的是片中的配乐，大量采用了英文歌曲作背景音乐，使得整部作品欧洲风味十足。",
+        "poster_path": "/tSHJyH0zgvhQcHni9nKhGnMWpIo.jpg",
+        "first_air_date": "2003-01-09",
+        "name": "王室近卫队"
+      }
+    }
+  },
+  {
+    "title": "ななか6/17",
+    "date": "2003-01-08",
     "bangumi": {
       "id": "19521"
     },
@@ -237,8 +272,38 @@
     }
   },
   {
+    "title": "超ロボット生命体トランスフォーマー マイクロン伝説",
+    "date": "2003-01-10",
+    "bangumi": {
+      "id": "189382"
+    },
+    "tmdb": {
+      "id": 982,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/40Q6bTumMp5SAGuGnuu2lcGvbHE.jpg",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "id": 982,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "超ロボット生命体トランスフォーマー マイクロン伝説",
+        "overview": "　　400万年前，为了逃离战乱连年的塞博坦星，被称为“微型金刚”的小型变形金刚种族驾驶宇宙船飞离了星球，然而，他们的太空船穿越时空之后，却坠落在地球上。\n\n　　400万年后，一位名为雷德的地球少年和同学们不经意在太空船中发现了其中一架微型金刚，微型金刚复活的讯号也在同时传到了汽车人和霸天虎手上，为了争夺微型金刚，两军前往地球，并且继续在塞博坦星的战争......",
+        "poster_path": "/tjbBjYfXyISFZMbpNQBNoiKwJp2.jpg",
+        "first_air_date": "2002-08-23",
+        "name": "变形金刚之雷霆舰队"
+      }
+    }
+  },
+  {
     "title": "魔法遣いに大切なこと",
-    "date": "2003-01-09T07:00:00.000Z",
+    "date": "2003-01-10",
     "bangumi": {
       "id": "3395"
     },
@@ -267,38 +332,8 @@
     }
   },
   {
-    "title": "超ロボット生命体トランスフォーマー　マイクロン伝説",
-    "date": "2003-01-10T09:00:00.000Z",
-    "bangumi": {
-      "id": "189382"
-    },
-    "tmdb": {
-      "id": 75824,
-      "type": "tv",
-      "search": {
-        "adult": false,
-        "backdrop_path": "/jIRlz6hyiiAAfVUlL6S6FmcUSaa.jpg",
-        "genre_ids": [
-          10759,
-          16,
-          10765
-        ],
-        "id": 75824,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "超ロボット生命体トランスフォーマー マイクロン伝説",
-        "overview": "This is the history of the Transformers.  This is a history of battles where the evil Destron army has waged against the heroic Cybertron warriors.  However, the battle has changed onward due to the rise of a new type of Transfomer, known as the Microns.  Fighting to protect them in hopes of liberating them is Convoy, while Megatron wages battle in the hopes of enslaving them all.  As new warriors join the conflict the battle for the Microns changes into an entirely new scenario.",
-        "poster_path": "/wVOEIRxaTc6qsDQQo4eZZxRAgYl.jpg",
-        "first_air_date": "2003-01-10",
-        "name": "变形金刚之雷霆舰队"
-      }
-    }
-  },
-  {
     "title": "メモリーズオフ2nd OVA",
-    "date": "2003-01-22T16:00:00.000Z",
+    "date": "2003-01-22",
     "bangumi": {
       "id": "23155"
     },
@@ -326,7 +361,7 @@
   },
   {
     "title": "聖闘士星矢 冥王ハーデス十二宮編",
-    "date": "2003-01-25T16:00:00.000Z",
+    "date": "2003-01-25",
     "bangumi": {
       "id": "593"
     },
@@ -341,7 +376,7 @@
         "original_language": "ja",
         "original_name": "聖闘士星矢 冥王ハーデス",
         "overview": "奥林匹克众神中不乏妄图统治天空、海洋、大地的野心之辈，在遥远的神话时代，冥王哈迪斯曾率领108冥斗士向人类世界发起攻击，智慧女神雅典娜则率圣斗士们奋起迎敌。连番苦战之后，哈迪斯及其军团战败，他们全部被雅典娜封印，而圣斗士也几乎损伤殆尽。数千年后，圣斗士刚刚结束与海王波塞冬的苦战。遥远的东方，女神的封印失去效力，古塔中的冥斗士又重新蠢蠢欲动。哈迪斯将历次战争中死去的圣斗士复活，撒加、卡妙、米罗这些曾经风光无限的黄金圣斗士，如今披上黑光闪闪冥衣，向他们曾经守护过的圣域发起攻击……",
-        "poster_path": "/w3HaV7n5MtS39zQsDYDbF8T4JWJ.jpg",
+        "poster_path": "/v84gxdlkEsykSlCtrE51nMhjTCk.jpg",
         "media_type": "tv",
         "genre_ids": [
           10759,
