@@ -1,7 +1,7 @@
 [
   {
     "title": "フルーツバスケット",
-    "date": "2001-07-05T09:00:00.000Z",
+    "date": "2001-07-05",
     "bangumi": {
       "date": "2001-07-05",
       "platform": "TV",
@@ -19,7 +19,6 @@
         "2001",
         "2001年",
         "2001年7月",
-        "DEEN",
         "STUDIO_DEEN",
         "TV",
         "studiodeen",
@@ -27,6 +26,7 @@
         "关智一",
         "冈崎律子",
         "动物",
+        "动画",
         "堀江由衣",
         "大地丙太郎",
         "奇幻",
@@ -205,7 +205,7 @@
   },
   {
     "title": "シャーマンキング",
-    "date": "2001-07-04T09:30:00.000Z",
+    "date": "2001-07-04",
     "bangumi": {
       "date": "2001-07-04",
       "platform": "TV",
@@ -440,7 +440,7 @@
   },
   {
     "title": "スクライド",
-    "date": "2001-07-04T09:00:00.000Z",
+    "date": "2001-07-04",
     "bangumi": {
       "date": "2001-07-04",
       "platform": "TV",
@@ -458,7 +458,6 @@
         "2001",
         "2001夏",
         "2001年7月",
-        "Final8",
         "SF",
         "SUNRISE",
         "TV",
@@ -468,7 +467,6 @@
         "保志总一朗",
         "保志総一朗",
         "分身战士",
-        "剧情",
         "动画",
         "原创",
         "平井久司",
@@ -483,6 +481,8 @@
         "谷口悟朗",
         "谷口悟郎",
         "超能力",
+        "電視",
+        "高松信司",
         "黑田洋介",
         "黒田洋介"
       ],
@@ -675,11 +675,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/60/344500_GV4RV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/60/344500_GV4RV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/60/344500_GV4RV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/60/344500_GV4RV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/60/344500_GV4RV.jpg"
           },
           "name": "スクライド 20th ANNIVERSARY BOOK",
           "name_cn": "",
@@ -700,13 +700,27 @@
           "relation": "书籍",
           "type": 1,
           "id": 399655
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5a/bc/461243_7WWMY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5a/bc/461243_7WWMY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5a/bc/461243_7WWMY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5a/bc/461243_7WWMY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5a/bc/461243_7WWMY.jpg"
+          },
+          "name": "スクライドコンプリートアートワークス",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 461243
         }
       ]
     }
   },
   {
     "title": "魔法少女猫たると",
-    "date": "2001-07-05T09:30:00.000Z",
+    "date": "2001-07-05",
     "bangumi": {
       "date": "2001-07-05",
       "platform": "TV",
@@ -726,6 +740,7 @@
         "TNK",
         "TV",
         "早年",
+        "治愈",
         "治癒系",
         "猫娘",
         "童年",
@@ -809,7 +824,7 @@
   },
   {
     "title": "星界の戦旗II",
-    "date": "2001-07-11T04:30:00.000Z",
+    "date": "2001-07-11",
     "bangumi": {
       "date": "2001-07-11",
       "platform": "TV",
@@ -826,28 +841,28 @@
       "tags": [
         "2001",
         "2001年7月",
-        "7分",
-        "BONES",
         "SF",
         "SUNRISE",
         "TV",
         "TVA",
-        "サンライズ",
-        "动画",
         "坑",
         "太空",
         "小说改",
         "川澄綾子",
         "川澄绫子",
         "恋爱",
+        "情感",
         "战争",
         "战斗",
-        "星战",
         "星界",
         "星界的战旗",
         "森岡浩之",
+        "漫画改",
         "科幻",
+        "竹田裕一郎",
+        "第二季",
         "续作",
+        "补",
         "补番",
         "轻小说",
         "轻小说改",
@@ -859,6 +874,14 @@
         {
           "key": "中文名",
           "value": "星界的战旗II"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Pennon Of The Stars 2"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -1013,8 +1036,8 @@
     }
   },
   {
-    "title": "あぃまぃみぃ！ストロベリー・エッグ",
-    "date": "2001-07-03T23:30:00.000Z",
+    "title": "あぃまぃみぃ! ストロベリー・エッグ",
+    "date": "2001-07-04",
     "bangumi": {
       "date": "2001-07-04",
       "platform": "TV",
@@ -1032,7 +1055,6 @@
         "00年代",
         "2001",
         "2001年7月",
-        "200X",
         "TNK",
         "TV",
         "TVanime",
@@ -1040,6 +1062,7 @@
         "伪娘",
         "伪百合",
         "公寓题材",
+        "动画",
         "南央美",
         "原创",
         "女装",
@@ -1111,12 +1134,55 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/c6/477615_T2Ao5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/c6/477615_T2Ao5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/c6/477615_T2Ao5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/c6/477615_T2Ao5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/c6/477615_T2Ao5.jpg"
+          },
+          "name": "WHITE STATION",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 477615
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b2/07/477622_jb34w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b2/07/477622_jb34w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b2/07/477622_jb34w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b2/07/477622_jb34w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/07/477622_jb34w.jpg"
+          },
+          "name": "Dearest",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 477622
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/44/478524_7dDe5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/44/478524_7dDe5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/44/478524_7dDe5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/44/478524_7dDe5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/44/478524_7dDe5.jpg"
+          },
+          "name": "あぃまぃみぃ! ストロベリー・エッグ 音楽の教科書 オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 478524
+        }
+      ]
     }
   },
   {
     "title": "千年女優",
-    "date": "2001-07-28T16:00:00.000Z",
+    "date": "2001-07-28",
     "bangumi": {
       "date": "2001-07-28",
       "platform": "剧场版",
@@ -1320,7 +1386,7 @@
   },
   {
     "title": "デジモンテイマーズ 冒険者たちの戦い",
-    "date": "2001-07-14T16:00:00.000Z",
+    "date": "2001-07-14",
     "bangumi": {
       "date": "2001-07-14",
       "platform": "剧场版",
@@ -1344,7 +1410,6 @@
         "デジモン",
         "东映",
         "东映动画",
-        "中岛丰",
         "今沢哲男",
         "今泽哲男",
         "冲绳",
@@ -1364,6 +1429,7 @@
         "東映",
         "東映アニメーション",
         "热血",
+        "科幻",
         "童年"
       ],
       "infobox": [
@@ -1491,7 +1557,7 @@
   },
   {
     "title": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
-    "date": "2001-07-07T16:00:00.000Z",
+    "date": "2001-07-07",
     "bangumi": {
       "date": "2001-07-07",
       "platform": "剧场版",
@@ -1518,11 +1584,11 @@
         "动画",
         "原创",
         "口袋妖怪",
-        "園田英樹",
         "大木幸成黑历史",
         "奇幻",
         "宝可梦",
         "宠物小精灵",
+        "战斗",
         "日本",
         "日本动画",
         "汤山邦彦",
@@ -1681,7 +1747,7 @@
   },
   {
     "title": "ピカチュウのドキドキかくれんぼ",
-    "date": "2001-07-07T17:10:00.000Z",
+    "date": "2001-07-07",
     "bangumi": {
       "date": "2001-07-07",
       "platform": "OVA",
@@ -1697,7 +1763,6 @@
       "name_cn": "皮卡丘的心跳捉迷藏",
       "tags": [
         "2001",
-        "2001.07",
         "2001年",
         "2001年7月",
         "OLM",
@@ -1715,6 +1780,7 @@
         "子供向",
         "宝可梦",
         "岩根雅明",
+        "日本",
         "日本动画",
         "汤山邦彦",
         "游戏改",
@@ -1723,6 +1789,7 @@
         "番外性质",
         "短片",
         "神奇宝贝",
+        "童年",
         "精灵宝可梦",
         "黏土"
       ],
@@ -1811,7 +1878,7 @@
   },
   {
     "title": "千と千尋の神隠し",
-    "date": "2001-07-20T16:00:00.000Z",
+    "date": "2001-07-20",
     "bangumi": {
       "date": "2001-07-20",
       "platform": "剧场版",
@@ -2159,13 +2226,27 @@
           "relation": "画集",
           "type": 1,
           "id": 453466
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/c0/463237_7HQHz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/c0/463237_7HQHz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/c0/463237_7HQHz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/c0/463237_7HQHz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/c0/463237_7HQHz.jpg"
+          },
+          "name": "ジブリをうたう",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 463237
         }
       ]
     }
   },
   {
     "title": "SAMURAI GIRL リアルバウトハイスクール",
-    "date": "2001-07-30T16:00:00.000Z",
+    "date": "2001-07-30",
     "bangumi": {
       "date": "2001-07-30",
       "platform": "TV",
@@ -2181,7 +2262,6 @@
       "name_cn": "高校女忍者",
       "tags": [
         "2001",
-        "2001.07",
         "GONZO",
         "TV",
         "关智一",
@@ -2269,7 +2349,7 @@
   },
   {
     "title": "HAPPY★LESSON",
-    "date": "2001-07-19T16:00:00.000Z",
+    "date": "2001-07-19",
     "bangumi": {
       "date": "2001-07-19",
       "platform": "OVA",
@@ -2285,7 +2365,6 @@
       "name_cn": "欢乐课程",
       "tags": [
         "2001",
-        "2001.07",
         "2001年",
         "2001年7月",
         "OVA",
@@ -2402,7 +2481,7 @@
   },
   {
     "title": "映画 も〜っと! おジャ魔女どれみ カエル石のひみつ",
-    "date": "2001-07-13T16:00:00.000Z",
+    "date": "2001-07-14",
     "bangumi": {
       "date": "2001-07-14",
       "platform": "剧场版",
@@ -2420,7 +2499,7 @@
         "2000s",
         "2001",
         "2001年",
-        "7分",
+        "OVA",
         "doremi",
         "¬",
         "【8星】",
@@ -2428,11 +2507,11 @@
         "东映动画",
         "剧场版",
         "动画（剧场版）",
-        "千葉千恵巳",
         "原创",
         "大长篇",
         "奇幻",
         "奥慶一",
+        "宍戸留美",
         "小魔女DoReMi",
         "山内重保",
         "山田隆司",
@@ -2442,7 +2521,7 @@
         "東映",
         "東映アニメーション",
         "梦回老东映",
-        "演出アニメ",
+        "百合",
         "表",
         "马越嘉彦",
         "魔法少女",
@@ -2529,7 +2608,7 @@
   },
   {
     "title": "FINAL FANTASY: The Spirits Within",
-    "date": "2001-07-10T16:00:00.000Z",
+    "date": "2001-07-11",
     "bangumi": {
       "date": "2001-07-11",
       "platform": "剧场版",
@@ -2548,9 +2627,7 @@
         "2001年",
         "2001年7月",
         "3D",
-        "ANIMETHEMOVIE",
         "CG",
-        "Elliot_Goldenthal",
         "FF",
         "SONY",
         "SPE",
@@ -2562,12 +2639,14 @@
         "坂口博信",
         "奇幻",
         "已阅",
+        "幻想無處不在",
         "微妙",
         "战斗",
         "日本",
         "日本动画",
         "映画",
         "最终幻想",
+        "游戏",
         "游戏改",
         "游戏改编",
         "电影",
@@ -2664,475 +2743,6 @@
           "relation": "原声集",
           "type": 3,
           "id": 282871
-        }
-      ]
-    }
-  },
-  {
-    "title": "ファイナルファンタジーX",
-    "date": "2001-07-19",
-    "bangumi": {
-      "date": "2001-07-19",
-      "platform": "PS2",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/8e/2287_Cm00a.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/8e/2287_Cm00a.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/5b/8e/2287_Cm00a.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/8e/2287_Cm00a.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/8e/2287_Cm00a.jpg"
-      },
-      "summary": "『ファイナルファンタジーX|FINAL FANTASY X (FF10)』是SQUARE-ENIX(原SQUARE)在PS2平台上发行的首部正统最终幻想作品(FF系列第10作).\r\n　　本作以其突破想像的,感人至深的故事情节为基础,游戏以细腻的即时演算画面,精美绝伦的CG和严谨的系统赢得了在全球热销800万份的好成绩.PS2的强大运算能力使得最终幻想X对人物的细节描写精确到了脸部表情和眼神,加上新增添的真人配音使得人物在游戏中较前作更加栩栩如生,人物个性的刻画更加细腻.战斗中可随时换人,行动顺序可视化的设定和独树一帜的晶球盘能力培养系统给传统的最终幻想玩家带来了不少新意,甚至可以让那些超级玩家一点能力不升即通关,这个是否是设计者有意为高手们留下的一个挑战机会就无人知晓了.\r\n",
-      "name": "ファイナルファンタジーX",
-      "name_cn": "最终幻想10",
-      "tags": [
-        "2001",
-        "FF10",
-        "FFX",
-        "FinalFantasy",
-        "JRPG",
-        "PC",
-        "PS2",
-        "PS4",
-        "PSV",
-        "RPG",
-        "SE",
-        "SQUARE",
-        "STEAM",
-        "SquareEnix",
-        "TIDUS",
-        "YUNA",
-        "ff",
-        "一定要入",
-        "尤娜",
-        "摔机",
-        "日本",
-        "晶球",
-        "最终幻想",
-        "森田成一",
-        "汉化",
-        "泪腺崩坏",
-        "神作",
-        "躲雷",
-        "野村爸爸人设",
-        "陆行鸟"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "最终幻想10"
-        },
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "FINAL FANTASY X"
-            }
-          ]
-        },
-        {
-          "key": "平台",
-          "value": "PS2"
-        },
-        {
-          "key": "游戏类型",
-          "value": "RPG"
-        },
-        {
-          "key": "游玩人数",
-          "value": "1"
-        },
-        {
-          "key": "发行日期",
-          "value": "2001年7月19日"
-        },
-        {
-          "key": "售价",
-          "value": "9,240円"
-        },
-        {
-          "key": "官网网站",
-          "value": "http://www.square-enix.com/jp/archive/ff10/"
-        },
-        {
-          "key": "音乐",
-          "value": "仲野順也、浜渦正志、植松伸夫"
-        },
-        {
-          "key": "导演",
-          "value": "鳥山求、土田俊郎、中里尚义"
-        }
-      ],
-      "total_episodes": 0,
-      "id": 2287,
-      "eps": 0,
-      "volumes": 0,
-      "locked": false,
-      "nsfw": false,
-      "type": 4,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/32/85389_1N8mV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/32/85389_1N8mV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e6/32/85389_1N8mV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/32/85389_1N8mV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/32/85389_1N8mV.jpg"
-          },
-          "name": "KINGDOM HEARTS -HD II.5 ReMIX-",
-          "name_cn": "王国之心 -HD 2.5 ReMIX-",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 85389
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/35/278238_TWUIG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/35/278238_TWUIG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/57/35/278238_TWUIG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/35/278238_TWUIG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/35/278238_TWUIG.jpg"
-          },
-          "name": "Vielen Dank",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 278238
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/25/257925_YU1hf.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/25/257925_YU1hf.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/25/257925_YU1hf.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/25/257925_YU1hf.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/25/257925_YU1hf.jpg"
-          },
-          "name": "KINGDOM HEARTS II FINAL MIX+",
-          "name_cn": "王国之心2 最终混合版+",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 257925
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/f3/223324_Ajo6o.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/f3/223324_Ajo6o.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c3/f3/223324_Ajo6o.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/f3/223324_Ajo6o.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/f3/223324_Ajo6o.jpg"
-          },
-          "name": "DISSIDIA FINAL FANTASY OPERA OMNIA",
-          "name_cn": "",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 223324
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/71/222542_2ghbi.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/71/222542_2ghbi.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c2/71/222542_2ghbi.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/71/222542_2ghbi.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/71/222542_2ghbi.jpg"
-          },
-          "name": "KINGDOM HEARTS -HD I.5+II.5 ReMIX-",
-          "name_cn": "王国之心HD 1.5+2.5 Remix",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 222542
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/c4/216537_Ai7KK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/c4/216537_Ai7KK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f6/c4/216537_Ai7KK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/c4/216537_Ai7KK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/c4/216537_Ai7KK.jpg"
-          },
-          "name": "Dissidia Final Fantasy NT",
-          "name_cn": "最终幻想 纷争NT",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 216537
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/85/158291_bPBLM.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/85/158291_bPBLM.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a9/85/158291_bPBLM.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/85/158291_bPBLM.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/85/158291_bPBLM.jpg"
-          },
-          "name": "feel / Go dream ユウナ&amp;ティーダ",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 158291
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/38/158204_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/38/158204_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/30/38/158204_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/38/158204_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/38/158204_jp.jpg"
-          },
-          "name": "ファイナルファンタジーX ワールドガイド エボンの教えとスピラの人々",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 1,
-          "id": 158204
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/ff/158203_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/ff/158203_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e2/ff/158203_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/ff/158203_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/ff/158203_jp.jpg"
-          },
-          "name": "ファイナルファンタジーX アルティマニアΩ",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 1,
-          "id": 158203
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/12/158202_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/12/158202_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/56/12/158202_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/12/158202_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/12/158202_jp.jpg"
-          },
-          "name": "ファイナルファンタジーX シナリオ・アルティマニア",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 1,
-          "id": 158202
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/61/94/137573_dQ6ZW.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/61/94/137573_dQ6ZW.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/61/94/137573_dQ6ZW.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/61/94/137573_dQ6ZW.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/61/94/137573_dQ6ZW.jpg"
-          },
-          "name": "WORLD of FINAL FANTASY",
-          "name_cn": "最终幻想世界",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 137573
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/7f/132714_O8JR8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/7f/132714_O8JR8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5f/7f/132714_O8JR8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/7f/132714_O8JR8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/7f/132714_O8JR8.jpg"
-          },
-          "name": "FINAL FANTASY X-2.5 ~永遠の代償~",
-          "name_cn": "最终幻想X-2.5 永远的代价",
-          "relation": "其他",
-          "type": 1,
-          "id": 132714
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/48/113037_6Z1o1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/48/113037_6Z1o1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9a/48/113037_6Z1o1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/48/113037_6Z1o1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/48/113037_6Z1o1.jpg"
-          },
-          "name": "FINAL FANTASY Record Keeper",
-          "name_cn": "最终幻想 记录守护者",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 113037
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/95/681_rz8EI.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/95/681_rz8EI.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/15/95/681_rz8EI.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/95/681_rz8EI.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/95/681_rz8EI.jpg"
-          },
-          "name": "ファイナルファンタジーXI",
-          "name_cn": "最终幻想11",
-          "relation": "续集",
-          "type": 4,
-          "id": 681
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/05/59896_gG1Vc.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/05/59896_gG1Vc.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/59/05/59896_gG1Vc.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/05/59896_gG1Vc.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/05/59896_gG1Vc.jpg"
-          },
-          "name": "ファイナルファンタジーX/X-2 HD Remaster",
-          "name_cn": "最终幻想10 | 10-2 高清重制版",
-          "relation": "不同演绎",
-          "type": 4,
-          "id": 59896
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/dc/58994_iV7e8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/20/dc/58994_iV7e8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/20/dc/58994_iV7e8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/20/dc/58994_iV7e8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/20/dc/58994_iV7e8.jpg"
-          },
-          "name": "KINGDOM HEARTS -HD I.5 ReMIX-",
-          "name_cn": "王国之心 -HD 1.5 ReMIX-",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 58994
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/6b/51505_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/6b/51505_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a3/6b/51505_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/6b/51505_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/6b/51505_jp.jpg"
-          },
-          "name": "Piano Collections FINAL FANTASY X",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 51505
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/11/51504_444Wa.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/11/51504_444Wa.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0c/11/51504_444Wa.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/11/51504_444Wa.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/11/51504_444Wa.jpg"
-          },
-          "name": "FINAL FANTASY X Original Soundtrack",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 51504
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/0f/40674_bW1FW.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/0f/40674_bW1FW.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cb/0f/40674_bW1FW.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/0f/40674_bW1FW.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/0f/40674_bW1FW.jpg"
-          },
-          "name": "FINAL FANTASY X-2",
-          "name_cn": "最终幻想 X-2",
-          "relation": "续集",
-          "type": 4,
-          "id": 40674
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/5d/39259_66W6r.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/5d/39259_66W6r.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/92/5d/39259_66W6r.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/5d/39259_66W6r.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/5d/39259_66W6r.jpg"
-          },
-          "name": "KINGDOM HEARTS II",
-          "name_cn": "王国之心2",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 39259
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/02/20992_h5Hxh.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/02/20992_h5Hxh.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0b/02/20992_h5Hxh.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/02/20992_h5Hxh.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/02/20992_h5Hxh.jpg"
-          },
-          "name": "KINGDOM HEARTS",
-          "name_cn": "王国之心",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 20992
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/db/11736_QG3GI.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/db/11736_QG3GI.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/54/db/11736_QG3GI.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/db/11736_QG3GI.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/db/11736_QG3GI.jpg"
-          },
-          "name": "ファイナルファンタジーIX",
-          "name_cn": "最终幻想9",
-          "relation": "前传",
-          "type": 4,
-          "id": 11736
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/78/11023_g7Myy.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/78/11023_g7Myy.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7d/78/11023_g7Myy.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/78/11023_g7Myy.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/78/11023_g7Myy.jpg"
-          },
-          "name": "ディシディア デュオデシム ファイナルファンタジー",
-          "name_cn": "最终幻想纷争012",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 11023
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/b7/1000_OoyY5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/b7/1000_OoyY5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a9/b7/1000_OoyY5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/b7/1000_OoyY5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/b7/1000_OoyY5.jpg"
-          },
-          "name": "ディシディアファイナルファンタジー",
-          "name_cn": "最终幻想 纷争",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 1000
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/70/69132_rjgR9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/70/69132_rjgR9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a4/70/69132_rjgR9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/70/69132_rjgR9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/70/69132_rjgR9.jpg"
-          },
-          "name": "素敵だね featured in FINAL FANTASY X",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 49982
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/32/58746_tZOeY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/32/58746_tZOeY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/88/32/58746_tZOeY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/32/58746_tZOeY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/32/58746_tZOeY.jpg"
-          },
-          "name": "FINAL FANTASY Vocal Collection",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 58746
         }
       ]
     }

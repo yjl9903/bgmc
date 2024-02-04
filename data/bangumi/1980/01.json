@@ -1,7 +1,7 @@
 [
   {
     "title": "トム・ソーヤーの冒険",
-    "date": "1980-01-06T16:00:00.000Z",
+    "date": "1980-01-06",
     "bangumi": {
       "date": "1980-01-06",
       "platform": "TV",
@@ -31,6 +31,7 @@
         "斎藤博",
         "新卡通卫视",
         "日本动画",
+        "旧物",
         "潘恵子",
         "澳门4台",
         "童年",
@@ -174,7 +175,7 @@
   },
   {
     "title": "森の陽気な小人たち ベルフィーとリルビット",
-    "date": "1980-01-07T23:00:00.000Z",
+    "date": "1980-01-07",
     "bangumi": {
       "date": "1980-01-07",
       "platform": "TV",
@@ -221,7 +222,7 @@
   },
   {
     "title": "ニルスのふしぎな旅",
-    "date": "1980-01-08T12:00:00.000Z",
+    "date": "1980-01-08",
     "bangumi": {
       "date": "1980-01-08",
       "platform": "TV",
@@ -250,6 +251,7 @@
         "山崎唯",
         "押井守",
         "日本动画",
+        "旧物",
         "案納正美",
         "童年",
         "考古",
@@ -294,9 +296,23 @@
           },
           "name": "劇場版 ニルスのふしぎな旅",
           "name_cn": "剧场版 骑鹅旅行记",
-          "relation": "动画",
+          "relation": "总集篇",
           "type": 2,
           "id": 298392
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/9d/463388_5tTWa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/9d/463388_5tTWa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/9d/463388_5tTWa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/9d/463388_5tTWa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/9d/463388_5tTWa.jpg"
+          },
+          "name": "ニルスのふしぎな旅 / いつまでも友だち",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 463388
         }
       ]
     }

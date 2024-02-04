@@ -1,7 +1,7 @@
 [
   {
-    "title": "BACCANO!",
-    "date": "2007-07-26T15:30:00.000Z",
+    "title": "BACCANO! -バッカーノ!-",
+    "date": "2007-07-26",
     "bangumi": {
       "date": "2007-07-26",
       "platform": "TV",
@@ -257,7 +257,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/93/81375_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/93/81375_jp.jpg"
           },
-          "name": "バッカーノ! - エナミカツミ画集",
+          "name": "エナミカツミ画集 バッカーノ!",
           "name_cn": "",
           "relation": "画集",
           "type": 1,
@@ -268,7 +268,7 @@
   },
   {
     "title": "ななついろ★ドロップス",
-    "date": "2007-07-02T16:40:00.000Z",
+    "date": "2007-07-02",
     "bangumi": {
       "date": "2007-07-02",
       "platform": "TV",
@@ -404,11 +404,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/89/7417_aZO4b.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/89/7417_aZO4b.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ce/89/7417_aZO4b.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/89/7417_aZO4b.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/89/7417_aZO4b.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/89/7417_3cSk7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/89/7417_3cSk7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ce/89/7417_3cSk7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/89/7417_3cSk7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/89/7417_3cSk7.jpg"
           },
           "name": "ななついろ★ドロップス",
           "name_cn": "七色星露",
@@ -477,7 +477,7 @@
   },
   {
     "title": "ぽてまよ",
-    "date": "2007-07-06T16:30:00.000Z",
+    "date": "2007-07-06",
     "bangumi": {
       "date": "2007-07-06",
       "platform": "TV",
@@ -496,12 +496,19 @@
         "2007年7月",
         "J.C.STAFF",
         "TV",
+        "★",
+        "九星",
         "动画",
         "喜多村英梨",
+        "女主",
         "川澄绫子",
+        "必须来一发",
         "恶搞",
         "搞笑",
+        "整个热都牙白了",
         "日本",
+        "有点像以前的手机少女",
+        "校园",
         "梶裕贵",
         "欢乐",
         "池端隆史",
@@ -512,16 +519,9 @@
         "花泽香菜",
         "花澤香菜",
         "萌",
-        "萌宠",
         "萝莉",
         "蛋黄酱",
-        "蛋黄酱萝莉",
-        "补番",
-        "轰丰太",
-        "里见哲朗",
-        "釘宮理恵",
-        "钉宫理惠",
-        "香菜控必备"
+        "钉宫理惠"
       ],
       "infobox": [
         {
@@ -652,8 +652,8 @@
     }
   },
   {
-    "title": "ゼロの使い魔 ～双月の騎士～",
-    "date": "2007-07-08T15:30:00.000Z",
+    "title": "ゼロの使い魔 双月の騎士",
+    "date": "2007-07-08",
     "bangumi": {
       "date": "2007-07-08",
       "platform": "TV",
@@ -726,15 +726,30 @@
         },
         {
           "key": "官方网站",
-          "value": "https://mediafactory.co.jp/anime/zero-tsukaima/zero2/index.html"
+          "value": [
+            {
+              "v": "https://www.zero-tsukaima.com/"
+            },
+            {
+              "v": "https://mediafactory.co.jp/anime/zero-tsukaima/zero2/index.html"
+            }
+          ]
         },
         {
           "key": "播放电视台",
-          "value": "千叶电视台"
+          "value": "チバテレビ"
+        },
+        {
+          "key": "其他电视台",
+          "value": "テレビ神奈川、テレ玉、テレビ愛知、サンテレビ、TOKYO MX、KBS京都、キッズステーション"
         },
         {
           "key": "播放结束",
           "value": "2007年9月23日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©2007　ヤマグチノボル・メディアファクトリー／ゼロの使い魔製作委員会"
         },
         {
           "key": "原作",
@@ -757,8 +772,24 @@
           "value": "J.C.STAFF"
         },
         {
-          "key": "制作",
-          "value": "“ゼロの使い魔”制作委员会"
+          "key": "製作",
+          "value": "ゼロの使い魔製作委員会（メディアファクトリー、松竹、ジェンコ）"
+        },
+        {
+          "key": "企画",
+          "value": "永田勝治、吉田剛、大澤信博；协力：三坂泰二、佐藤亜由美"
+        },
+        {
+          "key": "导演",
+          "value": "紅優"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "澁谷知子"
+        },
+        {
+          "key": "制片人",
+          "value": "加藤正純、市井美帆、松尾光広"
         }
       ],
       "total_episodes": 14,
@@ -942,7 +973,7 @@
   },
   {
     "title": "ZOMBIE-LOAN",
-    "date": "2007-07-03T17:40:00.000Z",
+    "date": "2007-07-03",
     "bangumi": {
       "date": "2007-07-03",
       "platform": "TV",
@@ -1145,8 +1176,8 @@
     }
   },
   {
-    "title": "ケンコー全裸系水泳部ウミショー",
-    "date": "2007-07-03T17:00:00.000Z",
+    "title": "ケンコー全裸系水泳部 ウミショー",
+    "date": "2007-07-03",
     "bangumi": {
       "date": "2007-07-03",
       "platform": "TV",
@@ -1162,6 +1193,7 @@
       "name_cn": "健康全裸游泳社 海商",
       "tags": [
         "2007",
+        "2007年",
         "2007年7月",
         "ArtLand",
         "TV",
@@ -1185,7 +1217,6 @@
         "漫改",
         "漫画改",
         "福井裕佳梨",
-        "福利",
         "肉",
         "肉番",
         "让心灵全裸",
@@ -1287,11 +1318,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/97/20983_525V9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/97/20983_525V9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ec/97/20983_525V9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/97/20983_525V9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/97/20983_525V9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/97/20983_vUYpi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/97/20983_vUYpi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ec/97/20983_vUYpi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/97/20983_vUYpi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/97/20983_vUYpi.jpg"
           },
           "name": "ケンコー全裸系水泳部 ウミショー",
           "name_cn": "健康全裸游泳社 海商",
@@ -1346,7 +1377,7 @@
   },
   {
     "title": "ひぐらしのなく頃に解",
-    "date": "2007-07-05T18:50:00.000Z",
+    "date": "2007-07-05",
     "bangumi": {
       "date": "2007-07-05",
       "platform": "TV",
@@ -1364,7 +1395,6 @@
         "2007",
         "2007年",
         "2007年7月",
-        "DEEN",
         "GAL改",
         "STUDIO_DEEN",
         "TV",
@@ -1373,6 +1403,7 @@
         "中原麻衣",
         "今千秋",
         "伦理学",
+        "剧情",
         "噩梦的结束",
         "堀江由衣",
         "寒蝉",
@@ -1779,7 +1810,7 @@
   },
   {
     "title": "もえたん",
-    "date": "2007-07-08T16:30:00.000Z",
+    "date": "2007-07-08",
     "bangumi": {
       "date": "2007-07-08",
       "platform": "TV",
@@ -1797,24 +1828,24 @@
         "2007",
         "2007年7月",
         "Actas",
+        "POP",
         "TV",
         "pop",
         "卖肉",
         "卖萌",
         "原创",
-        "季番",
         "学英语（笑）",
         "小圆脸粉可爱",
         "川口敬一郎",
         "搞笑",
         "日式英语",
         "日本",
-        "校园",
         "漫改",
         "漫画改",
         "田村",
         "田村ゆかり",
         "肉",
+        "肉番",
         "色鸭子",
         "英语",
         "萌",
@@ -1996,7 +2027,7 @@
   },
   {
     "title": "モノノ怪",
-    "date": "2007-07-12T18:25:00.000Z",
+    "date": "2007-07-12",
     "bangumi": {
       "date": "2007-07-12",
       "platform": "TV",
@@ -2244,7 +2275,7 @@
   },
   {
     "title": "CODE-E",
-    "date": "2007-07-03T17:43:00.000Z",
+    "date": "2007-07-03",
     "bangumi": {
       "date": "2007-07-03",
       "platform": "TV",
@@ -2358,7 +2389,7 @@
   },
   {
     "title": "ムシウタ",
-    "date": "2007-07-05T15:00:00.000Z",
+    "date": "2007-07-05",
     "bangumi": {
       "date": "2007-07-05",
       "platform": "TV",
@@ -2385,6 +2416,7 @@
         "动画",
         "吉田玲子",
         "奇幻",
+        "季番",
         "小说改",
         "岩井恭平",
         "幻想",
@@ -2395,7 +2427,6 @@
         "浅沼晋太郎",
         "生天目仁美",
         "花泽香菜",
-        "花澤香菜",
         "虫",
         "虫之歌",
         "轻小说",
@@ -2585,7 +2616,7 @@
   },
   {
     "title": "ドージンワーク",
-    "date": "2007-07-03T16:30:00.000Z",
+    "date": "2007-07-03",
     "bangumi": {
       "date": "2007-07-03",
       "platform": "TV",
@@ -2605,10 +2636,8 @@
         "2007年7月",
         "REMIC",
         "TV",
-        "UHF",
+        "TVA",
         "きらら",
-        "くるおひろし",
-        "八谷賢一",
         "八谷贤一",
         "动画",
         "各種糟糕",
@@ -2617,17 +2646,19 @@
         "同人誌",
         "喜剧",
         "宅",
+        "开篇是bakuman",
         "搞笑",
-        "新8分",
-        "新番记录",
         "日常",
         "日本",
         "欢乐",
         "泡面番",
+        "浅野真澄",
         "漫改",
         "漫画改",
         "百合",
+        "节操",
         "芳文社",
+        "萌",
         "补番",
         "运动裤"
       ],
@@ -2823,8 +2854,8 @@
     }
   },
   {
-    "title": "BUZZER BEATER(2)",
-    "date": "2007-07-03T16:16:00.000Z",
+    "title": "BUZZER BEATER 第2クール",
+    "date": "2007-07-03",
     "bangumi": {
       "date": "2007-07-03",
       "platform": "TV",
@@ -2849,7 +2880,8 @@
         "漫画改",
         "热血",
         "竞技",
-        "补旧番"
+        "补旧番",
+        "运动"
       ],
       "infobox": [
         {
@@ -2965,11 +2997,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/e8/25372_AuC7N.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/e8/25372_AuC7N.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ec/e8/25372_AuC7N.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/e8/25372_AuC7N.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/e8/25372_AuC7N.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/e8/25372_i6ato.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/e8/25372_i6ato.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ec/e8/25372_i6ato.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/e8/25372_i6ato.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/e8/25372_i6ato.jpg"
           },
           "name": "BUZZER BEATER",
           "name_cn": "零秒出手",
@@ -2996,7 +3028,7 @@
   },
   {
     "title": "School Days",
-    "date": "2007-07-03T17:15:00.000Z",
+    "date": "2007-07-03",
     "bangumi": {
       "date": "2007-07-03",
       "platform": "TV",
@@ -3533,7 +3565,7 @@
   },
   {
     "title": "東京魔人學園剣風帖 龖 第弐幕",
-    "date": "2007-07-27T14:00:00.000Z",
+    "date": "2007-07-27",
     "bangumi": {
       "date": "2007-07-27",
       "platform": "TV",
@@ -3785,7 +3817,7 @@
   },
   {
     "title": "はぴはぴクローバー",
-    "date": "2007-07-06T02:30:00.000Z",
+    "date": "2007-07-06",
     "bangumi": {
       "date": "2007-07-06",
       "platform": "TV",
@@ -3800,7 +3832,8 @@
       "name": "はぴはぴクローバー",
       "name_cn": "快乐小兔幸运草",
       "tags": [
-        "TV"
+        "TV",
+        "空"
       ],
       "infobox": [
         {
@@ -3910,8 +3943,8 @@
     }
   },
   {
-    "title": "スカイガールズ(TVシリーズ)",
-    "date": "2007-07-05T16:28:00.000Z",
+    "title": "スカイガールズ",
+    "date": "2007-07-05",
     "bangumi": {
       "date": "2007-07-05",
       "platform": "TV",
@@ -4094,7 +4127,7 @@
   },
   {
     "title": "さよなら絶望先生",
-    "date": "2007-07-07T15:30:00.000Z",
+    "date": "2007-07-07",
     "bangumi": {
       "date": "2007-07-07",
       "platform": "TV",
@@ -4357,7 +4390,7 @@
   },
   {
     "title": "シグルイ",
-    "date": "2007-07-19T14:30:00.000Z",
+    "date": "2007-07-19",
     "bangumi": {
       "date": "2007-07-19",
       "platform": "TV",
@@ -4384,12 +4417,12 @@
         "压抑",
         "各种死",
         "战斗",
+        "日本动画",
         "暴力",
         "暴力美学",
         "暴力美學",
         "武士",
         "水上清資",
-        "水上清资",
         "浜崎博嗣",
         "滨崎博嗣",
         "漫改",
@@ -4606,7 +4639,7 @@
   },
   {
     "title": "ルパン三世 霧のエリューシヴ",
-    "date": "2007-07-27T16:00:00.000Z",
+    "date": "2007-07-27",
     "bangumi": {
       "date": "2007-07-27",
       "platform": "TV",
@@ -4625,7 +4658,6 @@
         "2007",
         "SP",
         "TMS",
-        "TMSEntertainment",
         "TV",
         "TVSP",
         "TVspecial",
@@ -4638,6 +4670,7 @@
         "増田敏彦",
         "山田由香",
         "怪盗SP",
+        "战斗",
         "搞笑",
         "日本",
         "日本动画",
@@ -4701,7 +4734,7 @@
   },
   {
     "title": "ピアノの森",
-    "date": "2007-07-21T16:00:00.000Z",
+    "date": "2007-07-21",
     "bangumi": {
       "date": "2007-07-21",
       "platform": "剧场版",
@@ -4719,10 +4752,10 @@
         "2007",
         "2007年",
         "2007年7月",
+        "Film",
         "MADHouse",
         "ピアノの森",
         "一之濑海",
-        "一色まこと",
         "上户彩",
         "中村亮介",
         "剧场版",
@@ -4739,9 +4772,9 @@
         "独立剧场版",
         "矢野雄一郎",
         "神木隆之介",
-        "篠原敬介",
         "莫扎特",
         "蓬莱竜太",
+        "藤田しげる",
         "补番",
         "钢琴",
         "钢琴之森",
@@ -4842,8 +4875,8 @@
     }
   },
   {
-    "title": "劇場版ポケットモンスター ダイヤモンド&パール ディアルガVSパルキアVSダークライ",
-    "date": "2007-07-14T16:00:00.000Z",
+    "title": "劇場版ポケットモンスター ダイヤモンド&amp;パール ディアルガVSパルキアVSダークライ",
+    "date": "2007-07-14",
     "bangumi": {
       "date": "2007-07-14",
       "platform": "剧场版",
@@ -4875,6 +4908,7 @@
         "宝可梦",
         "宠物小精灵",
         "战斗",
+        "日本",
         "日本动画",
         "映画",
         "汤山邦彦",
@@ -4883,7 +4917,6 @@
         "热血",
         "神奇宝贝",
         "神奇宝贝剧场版10",
-        "神奇寶貝",
         "童年",
         "精灵宝可梦",
         "莎拉布莱曼",
@@ -5082,7 +5115,7 @@
   },
   {
     "title": "河童のクゥと夏休み",
-    "date": "2007-07-28T16:00:00.000Z",
+    "date": "2007-07-28",
     "bangumi": {
       "date": "2007-07-28",
       "platform": "剧场版",
@@ -5303,7 +5336,7 @@
   },
   {
     "title": "Genius Party",
-    "date": "2007-07-07T16:00:00.000Z",
+    "date": "2007-07-07",
     "bangumi": {
       "date": "2007-07-07",
       "platform": "剧场版",
@@ -5441,7 +5474,7 @@
   },
   {
     "title": "イバラード時間",
-    "date": "2007-07-03T16:00:00.000Z",
+    "date": "2007-07-04",
     "bangumi": {
       "date": "2007-07-04",
       "platform": "OVA",
@@ -5534,11 +5567,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/e6/500_Y7HBz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/e6/500_Y7HBz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ce/e6/500_Y7HBz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/e6/500_Y7HBz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e6/500_Y7HBz.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/e6/500_22CDB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/e6/500_22CDB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ce/e6/500_22CDB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/e6/500_22CDB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/e6/500_22CDB.jpg"
           },
           "name": "耳をすませば",
           "name_cn": "侧耳倾听",

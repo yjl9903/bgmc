@@ -1,7 +1,87 @@
 [
   {
-    "title": "オーバーマン　キングゲイナー",
-    "date": "2002-09-07T10:00:00.000Z",
+    "title": "世界名作劇場・完結版 トラップ一家物語",
+    "date": "2002-09-21",
+    "bangumi": {
+      "date": "2002-09-21",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/87/211293_81RFX.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/87/211293_81RFX.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/6b/87/211293_81RFX.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/87/211293_81RFX.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/87/211293_81RFX.jpg"
+      },
+      "summary": "91年に1年間にわたって放映されたTVシリーズを新たな視点で再編集した完結版。音楽を通じて結ばれたトラップ一家の愛情物語。あの感動の体験をもう1度。(CDジャーナル　データベースより) ",
+      "name": "世界名作劇場・完結版 トラップ一家物語",
+      "name_cn": "世界名作剧场・完结版 崔普一家物语",
+      "tags": [
+        "2001",
+        "2001年",
+        "OVA",
+        "TV",
+        "世界名作剧场",
+        "剧场版",
+        "原创",
+        "搞笑",
+        "欧美",
+        "漫画改",
+        "轻小说改"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "世界名作剧场・完结版 崔普一家物语"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "世界名作剧场・完结版 音乐之声"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "2"
+        },
+        {
+          "key": "放送开始",
+          "value": "2001年"
+        },
+        {
+          "key": "发售日",
+          "value": "‎2002年9月21日"
+        }
+      ],
+      "total_episodes": 2,
+      "id": 211293,
+      "eps": 2,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/0b/78748_bvIuN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/0b/78748_bvIuN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/71/0b/78748_bvIuN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/0b/78748_bvIuN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/0b/78748_bvIuN.jpg"
+          },
+          "name": "トラップ一家物語",
+          "name_cn": "崔普一家物语",
+          "relation": "全集",
+          "type": 2,
+          "id": 65212
+        }
+      ]
+    }
+  },
+  {
+    "title": "OVERMANキングゲイナー",
+    "date": "2002-09-07",
     "bangumi": {
       "date": "2002-09-07",
       "platform": "TV",
@@ -25,6 +105,7 @@
         "TVB",
         "サンライズ",
         "ロボット",
+        "中村豊",
         "原创",
         "吉田健一",
         "大河内一楼",
@@ -44,8 +125,7 @@
         "童年",
         "萝卜",
         "超限人",
-        "返乡",
-        "野村祐一"
+        "返乡"
       ],
       "infobox": [
         {
@@ -237,6 +317,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/63/105622_1G9Os.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/63/105622_1G9Os.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/88/63/105622_1G9Os.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/63/105622_1G9Os.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/63/105622_1G9Os.jpg"
+          },
+          "name": "スパロボ学園",
+          "name_cn": "机战学园",
+          "relation": "游戏",
+          "type": 4,
+          "id": 105622
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/fc/134195_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/fc/134195_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/68/fc/134195_jp.jpg",
@@ -295,8 +389,8 @@
     }
   },
   {
-    "title": "まほろまてぃっく～もっと美しいもの～",
-    "date": "2002-09-26T02:00:00.000Z",
+    "title": "まほろまてぃっく 〜もっと美しいもの〜",
+    "date": "2002-09-26",
     "bangumi": {
       "date": "2002-09-26",
       "platform": "TV",
@@ -548,111 +642,193 @@
     }
   },
   {
-    "title": "アニメーション制作進行くろみちゃん",
-    "date": "2002-09-25T16:00:00.000Z",
+    "title": "ぷちぷり*ユーシィ",
+    "date": "2002-09-30",
     "bangumi": {
-      "date": "2001-03-30",
-      "platform": "OVA",
+      "date": "2002-09-30",
+      "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/d1/25665_f4JCP.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/d1/25665_f4JCP.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/25/d1/25665_f4JCP.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/d1/25665_f4JCP.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/d1/25665_f4JCP.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/97/4543_zzCus.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/97/4543_zzCus.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/da/97/4543_zzCus.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/97/4543_zzCus.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/97/4543_zzCus.jpg"
       },
-      "summary": "和所有初出茅庐的动画制作人一样，大黑美纪子揣着一颗充满热血的心踏上了梦寐以求的职场。可是，刚到公司的第一天，黑美就看到了让她无比沮丧的一幕。原来，由于经济不景气，从事动画制作行业的员工与日剧减，同时，行业里巨大的工作量和工作压力让动画人们接二连三的换上了慢性疾病。这不，黑美刚刚任职，制片就因胃穿孔而住进了医院，而莫名其妙的，黑美就成为了他的接班人。就这样，动画制片人黑美诞生了。面对着制片人遗留下来的巨大的工作量，黑美能够担负起重任，重振动画制作的雄风吗？",
-      "name": "アニメーション制作進行くろみちゃん",
-      "name_cn": "动画制作进行 黑美",
+      "summary": "少女优希（原名柔丝）受某种力量影响，自少由勇者金帕图养大，使她虽然已经是17岁，不过仍然保留着10岁般的样子。由于她小时曾经被一个不知名的王子相救，所以她很希望取得能实现愿望的王冠：永恒三重冕（エターナルティアラ|Eternal Tiara），使她回到17岁的样子，与王子见面。在一次偶然机会之下，优希借管家吉普的魔法协助，进入了皇宫，并找到了永恒三重冕。这时艾伦寿女王出现，令优希明白自己未够资格拥有永恒三重冕，并告诉优希她就是一千年才出现一个的白金公主候选人，并安排她进入她所开设的公主学堂，跟另外四位白金公主候选人一起学习成为公主。",
+      "name": "ぷちぷり*ユーシィ",
+      "name_cn": "小公主优希",
       "tags": [
-        "2001",
         "2002",
         "2002年",
-        "2002年9月",
-        "2004",
-        "OVA",
+        "AIC",
+        "GAINAX",
         "TV",
-        "YumetaCompany",
-        "ゆめ太カンパニー",
-        "业界",
-        "伊丹あき",
-        "伊丹秋",
-        "制作进行",
-        "动画制作",
-        "励志",
-        "励志！",
-        "原创",
-        "増田俊郎",
-        "增田俊郎",
-        "大地丙太郎",
-        "宅",
-        "平松禎史",
-        "搞笑",
+        "TVB",
+        "princess_maker",
+        "后宫",
+        "大塚雅彦",
+        "少女",
+        "庵野秀明",
+        "日本",
         "日本动画",
-        "梦太Company",
-        "梦太公司",
+        "日漫",
+        "沒看全",
         "治愈",
-        "独立ova",
-        "职场",
-        "马越嘉彦"
+        "治癒系",
+        "游戏改",
+        "漫改",
+        "磨砂雪",
+        "神結局",
+        "福井裕佳梨",
+        "童年",
+        "花田十輝",
+        "补番",
+        "赤井孝美",
+        "超龄细公主",
+        "部",
+        "錦織敦史",
+        "鬱"
       ],
       "infobox": [
         {
           "key": "中文名",
-          "value": "动画制作进行 黑美"
+          "value": "小公主优希"
         },
         {
           "key": "别名",
           "value": [
             {
-              "v": "黑美 动画制作进行"
+              "v": "超龄细公主"
             },
             {
-              "v": "动画进行时"
+              "v": "Petite Princess Yucie"
             },
             {
-              "k": "罗马字",
-              "v": "Animation Seisaku Shinkou Kuromi-chan"
+              "v": "Puchi Puri Yūshi"
+            },
+            {
+              "v": "长不大的优希"
+            },
+            {
+              "v": "公主候补生"
+            },
+            {
+              "v": "迷你公主*釉丝"
+            },
+            {
+              "v": "公主候补生佑希"
             }
           ]
         },
         {
           "key": "话数",
-          "value": "2"
+          "value": "26"
         },
         {
-          "key": "发售日",
-          "value": "2001年3月30日"
+          "key": "放送开始",
+          "value": "2002年9月30日"
         },
         {
-          "key": "开始",
-          "value": "2001年3月30日"
+          "key": "放送星期",
+          "value": "星期一"
         },
         {
-          "key": "结束",
-          "value": "2004年1月28日"
+          "key": "播放电视台",
+          "value": "NHK BS2"
+        },
+        {
+          "key": "其他电视台",
+          "value": "香港TVB"
+        },
+        {
+          "key": "播放结束",
+          "value": "2003年3月24日"
+        },
+        {
+          "key": "原作",
+          "value": "赤井孝美"
         },
         {
           "key": "导演",
-          "value": "大地丙太郎"
+          "value": "大塚雅彦"
+        },
+        {
+          "key": "系列构成",
+          "value": "花田十輝、山賀博之"
+        },
+        {
+          "key": "人物设定",
+          "value": "只野和子"
+        },
+        {
+          "key": "音乐",
+          "value": "長岡成貢"
         },
         {
           "key": "动画制作",
-          "value": "ゆめ太カンパニー（旧）"
+          "value": "GAINAX、AIC"
+        },
+        {
+          "key": "制作",
+          "value": "ぷちぷり委員会"
         }
       ],
-      "total_episodes": 2,
-      "id": 25665,
-      "eps": 2,
+      "total_episodes": 26,
+      "id": 4543,
+      "eps": 26,
       "volumes": 0,
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/42/86306_7jwj7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/42/86306_7jwj7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dc/42/86306_7jwj7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/42/86306_7jwj7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/42/86306_7jwj7.jpg"
+          },
+          "name": "プリンセスメーカー ゆめみる妖精",
+          "name_cn": "美少女梦工厂～梦幻妖精～",
+          "relation": "游戏",
+          "type": 4,
+          "id": 86306
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/53/139133_EAReQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/53/139133_EAReQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/aa/53/139133_EAReQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/53/139133_EAReQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/53/139133_EAReQ.jpg"
+          },
+          "name": "えがおのてんさい",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 139133
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/de/246733_X1zBp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/de/246733_X1zBp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/16/de/246733_X1zBp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/de/246733_X1zBp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/de/246733_X1zBp.jpg"
+          },
+          "name": "ぷちぷり・ユーシィ",
+          "name_cn": "公主预备生",
+          "relation": "书籍",
+          "type": 1,
+          "id": 246733
+        }
+      ]
     }
   },
   {
     "title": "ハングリーハートWILD STRIKER",
-    "date": "2002-09-11T16:00:00.000Z",
+    "date": "2002-09-11",
     "bangumi": {
       "date": "2002-09-11",
       "platform": "TV",
@@ -724,11 +900,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/90/191242_1wLR9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/90/191242_1wLR9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/42/90/191242_1wLR9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/90/191242_1wLR9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/90/191242_1wLR9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/90/191242_u7ccZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/90/191242_u7ccZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/42/90/191242_u7ccZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/90/191242_u7ccZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/90/191242_u7ccZ.jpg"
           },
           "name": "ハングリーハート WILD STRIKER",
           "name_cn": "HUNGRY HEART 野骜射手",
@@ -741,7 +917,7 @@
   },
   {
     "title": "幻想魔伝 最遊記 -希望の罪過-",
-    "date": "2002-09-18T16:00:00.000Z",
+    "date": "2002-09-19",
     "bangumi": {
       "date": "2002-09-19",
       "platform": "OVA",
@@ -768,7 +944,8 @@
         "保志総一朗",
         "动画",
         "原创",
-        "女性向",
+        "奇幻",
+        "子供向",
         "峰仓和也",
         "日本",
         "日本动画",
@@ -833,7 +1010,7 @@
   },
   {
     "title": "ヴァンドレッド 激闘篇",
-    "date": "2002-09-13T16:00:00.000Z",
+    "date": "2002-09-14",
     "bangumi": {
       "date": "2002-09-14",
       "platform": "TV",
@@ -864,7 +1041,8 @@
         "富冈淳广",
         "总集篇",
         "折笠富美子",
-        "日本动画"
+        "日本动画",
+        "科幻"
       ],
       "infobox": [
         {
@@ -924,7 +1102,7 @@
     "date": "2002-09-19",
     "bangumi": {
       "date": "2002-09-19",
-      "platform": "全部游戏",
+      "platform": "游戏",
       "images": {
         "small": "https://lain.bgm.tv/r/200/pic/cover/l/6e/0b/28893_dD30I.jpg",
         "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6e/0b/28893_dD30I.jpg",
