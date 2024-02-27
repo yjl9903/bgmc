@@ -104,5 +104,95 @@
         }
       ]
     }
+  },
+  {
+    "title": "クレヨンしんちゃん オラたちの恐竜日記",
+    "date": "2024-08-09",
+    "bangumi": {
+      "date": "2024-08-09",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/ef/469483_ZNheg.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/ef/469483_ZNheg.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/c3/ef/469483_ZNheg.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/ef/469483_ZNheg.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/ef/469483_ZNheg.jpg"
+      },
+      "summary": "現代に復活した恐竜が大暴れ⁉️\r\nシリーズ史上初の\r\n恐竜超大作ムービー誕生??\r\n\r\n超巨大な恐竜に対峙する\r\nしんのすけとシロ、\r\nそして小さな恐竜が描かれた\r\n大迫力ティザービジュアル解禁",
+      "name": "クレヨンしんちゃん オラたちの恐竜日記",
+      "name_cn": "蜡笔小新 我们的恐龙日记",
+      "tags": [],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "蜡笔小新 我们的恐龙日记"
+        },
+        {
+          "key": "上映年度",
+          "value": "2024年8月9日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.shinchan-movie.com/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©臼井儀人／双葉社・シンエイ・テレビ朝日・ADK"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "臼井儀人（らくだ社）"
+        },
+        {
+          "key": "导演",
+          "value": "佐々木忍"
+        },
+        {
+          "key": "脚本",
+          "value": "モラル"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 469483,
+      "eps": 1,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/b8/24823_0a06k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/b8/24823_0a06k.jpg"
+          },
+          "name": "クレヨンしんちゃん",
+          "name_cn": "蜡笔小新",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 24823
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/e3/410418_5l6lE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/e3/410418_5l6lE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/e3/410418_5l6lE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/e3/410418_5l6lE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/e3/410418_5l6lE.jpg"
+          },
+          "name": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～",
+          "name_cn": "蜡笔小新：新次元！超能力大决战",
+          "relation": "前传",
+          "type": 2,
+          "id": 410418
+        }
+      ]
+    }
   }
 ]
