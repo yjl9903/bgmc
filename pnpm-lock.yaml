@@ -54,8 +54,8 @@ importers:
         version: 0.9.7
     devDependencies:
       bgm-types:
-        specifier: ^3.1.1
-        version: 3.1.1
+        specifier: ^3.1.2
+        version: 3.1.2
 
   packages/bgmd:
     dependencies:
@@ -1661,8 +1661,8 @@ packages:
     resolution: {integrity: sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ==}
     dev: true
 
-  /bgm-types@3.1.1:
-    resolution: {integrity: sha512-sR+W10xnSKlDaANEhcorxGLJXjDm6giCqKFepN80YHwMJQkQICX/W5RSy5jfVLRIkyBLS1YxaQeoPgwgFOKr6Q==}
+  /bgm-types@3.1.2:
+    resolution: {integrity: sha512-qKPn3R9OGneGsspOG0SRep7/5uG287IHF2QF/1+Mogh6kWn+q9+doQ3tCZcWHmz54d4apjgdLSYQmATIBNUvGQ==}
     dev: true
 
   /big-integer@1.6.52:
