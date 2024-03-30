@@ -22,8 +22,8 @@
         "GPX",
         "SUNRISE",
         "TV",
-        "TVA",
         "TVB",
+        "动画",
         "原创",
         "大谷幸",
         "怀旧",
@@ -246,7 +246,7 @@
         "F91",
         "GUNDAM",
         "SUNRISE",
-        "TV",
+        "UC",
         "剧场版",
         "动画",
         "原创",
@@ -898,20 +898,20 @@
       "name": "ドラゴンボールZ 超サイヤ人だ孫悟空",
       "name_cn": "龙珠Z 超级赛亚人孙悟空",
       "tags": [
+        "1990s",
         "1991",
-        "1991年",
         "2018",
         "90年代",
         "JUMP",
+        "アニメ映画",
         "世纪初",
         "东映",
+        "前田実",
         "剧场版",
         "动画",
         "原创",
-        "堀川りょう",
         "小山高生",
         "战斗",
-        "打斗",
         "日本",
         "日本动画",
         "東映アニメーション",
@@ -924,7 +924,7 @@
         "童年",
         "童年系列",
         "系列映画",
-        "鳥山明",
+        "菊池俊輔",
         "鸟山明",
         "龙珠",
         "龙珠系列"
@@ -1042,6 +1042,7 @@
       "name_cn": "哆啦A梦：大雄的天方夜谭",
       "tags": [
         "1991",
+        "1991年",
         "1991年3月",
         "SF",
         "SHIN-EI",
@@ -1053,7 +1054,6 @@
         "劇場版",
         "动画",
         "动画电影",
-        "动画长片",
         "哆啦A夢",
         "哆啦A梦",
         "天方夜谭",
@@ -1213,6 +1213,34 @@
           "relation": "其他",
           "type": 2,
           "id": 121742
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/ff/480577_8scqo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/ff/480577_8scqo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/ff/480577_8scqo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/ff/480577_8scqo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/ff/480577_8scqo.jpg"
+          },
+          "name": "ألف ليلة وليلة",
+          "name_cn": "一千零一夜",
+          "relation": "其他",
+          "type": 1,
+          "id": 480577
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/2e/485851_mcf20.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/2e/485851_mcf20.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/2e/485851_mcf20.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/2e/485851_mcf20.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/2e/485851_mcf20.jpg"
+          },
+          "name": "夢のゆくえ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 485851
         }
       ]
     }
@@ -1410,11 +1438,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/b2/50720_Ed4Z9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/b2/50720_Ed4Z9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/86/b2/50720_Ed4Z9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/b2/50720_Ed4Z9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/b2/50720_Ed4Z9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/b2/50720_rsPX7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/b2/50720_rsPX7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/86/b2/50720_rsPX7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/b2/50720_rsPX7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/b2/50720_rsPX7.jpg"
           },
           "name": "つかまえていて",
           "name_cn": "",

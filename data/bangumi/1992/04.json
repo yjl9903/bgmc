@@ -204,6 +204,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/72/93200_GPJk7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/72/93200_GPJk7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bc/72/93200_GPJk7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/72/93200_GPJk7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/72/93200_GPJk7.jpg"
+          },
+          "name": "完全勝利ダイテイオー",
+          "name_cn": "完全胜利大帝王",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 93200
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/67/131676_YY3la.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/67/131676_YY3la.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/1a/67/131676_YY3la.jpg",
@@ -299,11 +313,11 @@
         "SHIN-EI",
         "TV",
         "シンエイ動画",
+        "剧集",
         "动画",
         "原恵一",
         "原惠一",
         "子供向",
-        "小新",
         "搞笑",
         "教育片",
         "日常",
@@ -429,7 +443,7 @@
           "value": "テレビ朝日、アサツー ディ・ケイ / ADKエモーションズ、シンエイ動画"
         }
       ],
-      "total_episodes": 1243,
+      "total_episodes": 1263,
       "id": 24823,
       "eps": 0,
       "volumes": 0,
@@ -460,7 +474,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/ef/469483_ZNheg.jpg"
           },
           "name": "クレヨンしんちゃん オラたちの恐竜日記",
-          "name_cn": "",
+          "name_cn": "蜡笔小新 我们的恐龙日记",
           "relation": "衍生",
           "type": 2,
           "id": 469483
@@ -1197,6 +1211,7 @@
         "園田英樹",
         "日本动画",
         "旧物",
+        "机战",
         "横山光輝",
         "沼田祐介",
         "草尾毅",
@@ -1257,6 +1272,34 @@
           "relation": "前传",
           "type": 2,
           "id": 37258
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/7f/129620_6lRDR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/7f/129620_6lRDR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fc/7f/129620_6lRDR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/7f/129620_6lRDR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/7f/129620_6lRDR.jpg"
+          },
+          "name": "Get Your Dream",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 129620
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/db/a4/129621_Bl5M9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/db/a4/129621_Bl5M9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/db/a4/129621_Bl5M9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/db/a4/129621_Bl5M9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/db/a4/129621_Bl5M9.jpg"
+          },
+          "name": "フューチャー・ヒーロー / 僕らは冒険者",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 129621
         },
         {
           "images": {
@@ -1463,6 +1506,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 36817
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/6b/486653_PT228.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/6b/486653_PT228.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/6b/486653_PT228.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/6b/486653_PT228.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/6b/486653_PT228.jpg"
+          },
+          "name": "ハッピー²・ダンス / パパは何でも知っている",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 486653
         }
       ]
     }

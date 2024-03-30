@@ -16,10 +16,13 @@
       "name": "BLACK BLOOD BROTHERS",
       "name_cn": "黑血兄弟",
       "tags": [
+        "13",
         "2006",
         "2006年",
         "BBB",
+        "Group.Tac",
         "GroupTac",
+        "StudioLive",
         "TV",
         "兄弟",
         "动画",
@@ -29,19 +32,16 @@
         "基",
         "基片可能",
         "奇幻",
+        "富士见",
         "战斗",
         "改编自小说",
+        "日番",
         "樱井孝宏",
         "櫻井孝宏",
         "王子~~",
-        "福山润",
-        "福山潤",
-        "经典",
         "草河游也",
-        "补旧番",
         "补番",
         "装b",
-        "超自然系",
         "轻小说",
         "轻小说改",
         "轻改",
@@ -106,7 +106,7 @@
         },
         {
           "key": "美术监督",
-          "value": "古川洋史"
+          "value": "吉川洋史"
         },
         {
           "key": "色彩设计",
@@ -324,13 +324,12 @@
       "tags": [
         "2000-2009",
         "2006",
-        "OVA",
         "SP",
         "TMS",
-        "TMSEntertainment",
         "TV",
         "TVSP",
         "ルパン三世",
+        "亀垣一",
         "井上真树夫",
         "井上真樹夫",
         "人设丑",
@@ -350,7 +349,8 @@
         "栗田贯一",
         "漫改",
         "漫画改",
-        "留存",
+        "立木文彦",
+        "美国",
         "鲁邦三世"
       ],
       "infobox": [
@@ -481,7 +481,6 @@
       "tags": [
         "2006",
         "2006-09",
-        "ONA",
         "OVA",
         "PictureMagic",
         "Picture_Magic",
@@ -500,6 +499,7 @@
         "喵帕斯记录~",
         "嵯峨敏",
         "愿此刻永恒",
+        "日本",
         "泡面番",
         "浅井清己",
         "游戏改",
@@ -563,11 +563,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/3a/1650_JCAjD.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/3a/1650_JCAjD.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/97/3a/1650_JCAjD.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/3a/1650_JCAjD.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/3a/1650_JCAjD.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/3a/1650_Bm2Si.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/3a/1650_Bm2Si.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/3a/1650_Bm2Si.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/3a/1650_Bm2Si.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/3a/1650_Bm2Si.jpg"
           },
           "name": "君が望む永遠",
           "name_cn": "你所期望的永远",
@@ -730,6 +730,7 @@
       "name_cn": "精灵宝可梦 钻石&amp;珍珠",
       "tags": [
         "2006",
+        "2006年",
         "2006年10月",
         "2006年9月",
         "OLM",
@@ -757,7 +758,6 @@
         "精灵宝可梦",
         "钻石珍珠",
         "长篇",
-        "須藤典彦",
         "须藤典彦"
       ],
       "infobox": [
@@ -1360,6 +1360,18 @@
         {
           "key": "Copyright",
           "value": "©2003 佐藤順一・HAL・GDH/カレイドステージ"
+        },
+        {
+          "key": "导演",
+          "value": "ソエジマヤスフミ"
+        },
+        {
+          "key": "人物设定",
+          "value": "しのざきあきら、キャラクターモデリング：小川幸作"
+        },
+        {
+          "key": "监修",
+          "value": "池田東陽、総監修：佐藤順一、キャラクター作画監修：追崎史敏"
         }
       ],
       "total_episodes": 1,
@@ -1669,6 +1681,20 @@
           "relation": "续集",
           "type": 2,
           "id": 212610
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/91/477110_KZ81t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/91/477110_KZ81t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a6/91/477110_KZ81t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/91/477110_KZ81t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/91/477110_KZ81t.jpg"
+          },
+          "name": "攻殻機動隊 PERFECT BOOK 1995→2017",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 477110
         }
       ]
     }

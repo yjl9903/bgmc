@@ -36,6 +36,7 @@
         "搞笑",
         "新番",
         "日常",
+        "日本",
         "校园",
         "海老高",
         "添闷部",
@@ -44,7 +45,6 @@
         "狗神煌",
         "碧阳既视感",
         "萌",
-        "轻小说改",
         "阿澄佳奈"
       ],
       "infobox": [
@@ -292,7 +292,7 @@
         "J.C.STAFF",
         "TV",
         "いしづかあつこ",
-        "党争",
+        "催泪",
         "冈田麿里",
         "励志",
         "半年番",
@@ -676,10 +676,10 @@
         "SHAFT",
         "TV",
         "TVA",
+        "原田ひとみ",
         "后藤邑子",
         "向阳素描",
         "季番",
-        "小见川千明",
         "搞笑",
         "新房昭之",
         "新谷良子",
@@ -962,6 +962,7 @@
         "井上麻里奈",
         "加藤英美里",
         "后宫",
+        "喜多村英梨",
         "堀江由衣",
         "战斗大师",
         "搞笑",
@@ -974,7 +975,6 @@
         "水橋かおり",
         "治愈",
         "游戏改",
-        "游改",
         "科幻",
         "茅原実里",
         "菊地康仁",
@@ -1352,10 +1352,6 @@
           "value": "25分钟"
         },
         {
-          "key": "imdb_id",
-          "value": "tt2294076"
-        },
-        {
           "key": "制作",
           "value": "Actas, Bandai Visual Company, Hakuhodo DY Media Partners, Lantis, Movic, Q-Tec, Showgate"
         },
@@ -1408,20 +1404,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/98/181784_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/98/181784_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fc/98/181784_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/98/181784_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/98/181784_jp.jpg"
-          },
-          "name": "ガールズ&amp;パンツァー コンプリートブック",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 181784
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/b1/35579_GDMp7.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/b1/35579_GDMp7.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/ea/b1/35579_GDMp7.jpg",
@@ -1433,6 +1415,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 35579
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/0a/183396_9TU9T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/0a/183396_9TU9T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/0a/183396_9TU9T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/0a/183396_9TU9T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/0a/183396_9TU9T.jpg"
+          },
+          "name": "ガールズ&amp;パンツァー リボンの武者",
+          "name_cn": "少女与战车：缎带武士",
+          "relation": "番外篇",
+          "type": 1,
+          "id": 183396
         },
         {
           "images": {
@@ -1576,17 +1572,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/0a/183396_9TU9T.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/0a/183396_9TU9T.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/64/0a/183396_9TU9T.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/0a/183396_9TU9T.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/0a/183396_9TU9T.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/98/181784_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/98/181784_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fc/98/181784_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/98/181784_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/98/181784_jp.jpg"
           },
-          "name": "ガールズ&amp;パンツァー リボンの武者",
-          "name_cn": "少女与战车：缎带武士",
-          "relation": "番外篇",
+          "name": "ガールズ&amp;パンツァー コンプリートブック",
+          "name_cn": "",
+          "relation": "画集",
           "type": 1,
-          "id": 183396
+          "id": 181784
         },
         {
           "images": {
@@ -1724,7 +1720,7 @@
           },
           "name": "ガールズ&amp;パンツァー アバンティ! アンツィオ高校",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "单行本",
           "type": 1,
           "id": 415665
         },
@@ -1744,6 +1740,76 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/19/154744_0B5Nm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/19/154744_0B5Nm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/19/154744_0B5Nm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/19/154744_0B5Nm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/19/154744_0B5Nm.jpg"
+          },
+          "name": "ガールズ＆パンツァー 戦車道大作戦！",
+          "name_cn": "少女与战车 战车道大作战！",
+          "relation": "游戏",
+          "type": 4,
+          "id": 154744
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/2f/139475_4HaPY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/2f/139475_4HaPY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/2f/139475_4HaPY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/2f/139475_4HaPY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/2f/139475_4HaPY.jpg"
+          },
+          "name": "不肖・秋山優花里の戦車講座",
+          "name_cn": "不才・秋山优花里的战车讲座",
+          "relation": "衍生",
+          "type": 2,
+          "id": 139475
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/82/121906_Q9U89.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/82/121906_Q9U89.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/82/121906_Q9U89.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/82/121906_Q9U89.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/82/121906_Q9U89.jpg"
+          },
+          "name": "アハトゥンク・ガールズ&amp;パンツァー",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 121906
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/72/121904_PPt1V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/72/121904_PPt1V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cb/72/121904_PPt1V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/72/121904_PPt1V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/72/121904_PPt1V.jpg"
+          },
+          "name": "ガールズ&amp;パンツァー もっとらぶらぶ作戦です!",
+          "name_cn": "少女与战车 lovelove大作战",
+          "relation": "番外篇",
+          "type": 1,
+          "id": 121904
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/65/60522_bRH7Z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/65/60522_bRH7Z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/65/60522_bRH7Z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/65/60522_bRH7Z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/65/60522_bRH7Z.jpg"
+          },
+          "name": "ガールズ&amp;パンツァー",
+          "name_cn": "少女与战车（MF文库J）",
+          "relation": "书籍",
+          "type": 1,
+          "id": 60522
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/58/108280_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/58/108280_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/56/58/108280_jp.jpg",
@@ -1758,17 +1824,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/f3/72266_p0Nxo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/f3/72266_p0Nxo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/76/f3/72266_p0Nxo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/f3/72266_p0Nxo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/f3/72266_p0Nxo.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/b3/65886_5hpix.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/b3/65886_5hpix.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/b3/65886_5hpix.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/b3/65886_5hpix.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/b3/65886_5hpix.jpg"
           },
-          "name": "ガールズ&amp;パンツァー 劇場版",
-          "name_cn": "少女与战车 剧场版",
-          "relation": "续集",
+          "name": "ガールズ&amp;パンツァー",
+          "name_cn": "少女与战车（MF漫画飞来波系列）",
+          "relation": "书籍",
+          "type": 1,
+          "id": 65886
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/28/96130_Ds7UN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/28/96130_Ds7UN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/09/28/96130_Ds7UN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/28/96130_Ds7UN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/28/96130_Ds7UN.jpg"
+          },
+          "name": "ガールズ&amp;パンツァー これが本当のアンツィオ戦です!",
+          "name_cn": "少女与战车 这次是真正的安齐奥战！",
+          "relation": "番外篇",
           "type": 2,
-          "id": 72266
+          "id": 96130
         },
         {
           "images": {
@@ -1800,115 +1880,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/b3/65886_5hpix.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/b3/65886_5hpix.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bf/b3/65886_5hpix.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/b3/65886_5hpix.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/b3/65886_5hpix.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/f3/72266_p0Nxo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/f3/72266_p0Nxo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/76/f3/72266_p0Nxo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/f3/72266_p0Nxo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/f3/72266_p0Nxo.jpg"
           },
-          "name": "ガールズ&amp;パンツァー",
-          "name_cn": "少女与战车（MF漫画飞来波系列）",
-          "relation": "书籍",
-          "type": 1,
-          "id": 65886
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/65/60522_bRH7Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/65/60522_bRH7Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/99/65/60522_bRH7Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/65/60522_bRH7Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/65/60522_bRH7Z.jpg"
-          },
-          "name": "ガールズ&amp;パンツァー",
-          "name_cn": "少女与战车（MF文库J）",
-          "relation": "书籍",
-          "type": 1,
-          "id": 60522
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/28/96130_Ds7UN.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/28/96130_Ds7UN.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/09/28/96130_Ds7UN.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/28/96130_Ds7UN.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/28/96130_Ds7UN.jpg"
-          },
-          "name": "ガールズ&amp;パンツァー これが本当のアンツィオ戦です!",
-          "name_cn": "少女与战车 这次是真正的安齐奥战！",
-          "relation": "番外篇",
+          "name": "ガールズ&amp;パンツァー 劇場版",
+          "name_cn": "少女与战车 剧场版",
+          "relation": "续集",
           "type": 2,
-          "id": 96130
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/72/121904_PPt1V.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/72/121904_PPt1V.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cb/72/121904_PPt1V.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/72/121904_PPt1V.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/72/121904_PPt1V.jpg"
-          },
-          "name": "ガールズ&amp;パンツァー もっとらぶらぶ作戦です!",
-          "name_cn": "少女与战车 lovelove大作战",
-          "relation": "番外篇",
-          "type": 1,
-          "id": 121904
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/82/121906_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/82/121906_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/82/121906_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/82/121906_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/82/121906_jp.jpg"
-          },
-          "name": "アハトゥンク・ガールズ&amp;パンツァー: ガールズ&amp;パンツァー公式戦車ガイドブック",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 121906
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/c0/121907_Nmyuy.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/c0/121907_Nmyuy.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/69/c0/121907_Nmyuy.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/c0/121907_Nmyuy.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/c0/121907_Nmyuy.jpg"
-          },
-          "name": "別冊ガルパン戦車読本 ガールズ&amp;パンツァーに出てくる戦車をガンダムに例えてみた Vol. 1",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 121907
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/2f/139475_4HaPY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/2f/139475_4HaPY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/99/2f/139475_4HaPY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/2f/139475_4HaPY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/2f/139475_4HaPY.jpg"
-          },
-          "name": "不肖・秋山優花里の戦車講座",
-          "name_cn": "不才・秋山优花里的战车讲座",
-          "relation": "衍生",
-          "type": 2,
-          "id": 139475
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/19/154744_0B5Nm.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/19/154744_0B5Nm.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/03/19/154744_0B5Nm.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/19/154744_0B5Nm.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/19/154744_0B5Nm.jpg"
-          },
-          "name": "ガールズ＆パンツァー 戦車道大作戦！",
-          "name_cn": "少女与战车 战车道大作战！",
-          "relation": "游戏",
-          "type": 4,
-          "id": 154744
+          "id": 72266
         },
         {
           "images": {
@@ -1954,34 +1936,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/5d/239277_us.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/be/5d/239277_us.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/be/5d/239277_us.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/be/5d/239277_us.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/be/5d/239277_us.jpg"
-          },
-          "name": "ガールズ&amp;パンツァー絵コンテ集 Vol.2",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 239277
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/e2/335724_9Npwp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/e2/335724_9Npwp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/e2/335724_9Npwp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/e2/335724_9Npwp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/e2/335724_9Npwp.jpg"
-          },
-          "name": "ガールズ&amp;パンツァー絵コンテ集 Vol.3",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 335724
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/01/165324_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/01/165324_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/d1/01/165324_jp.jpg",
@@ -2007,20 +1961,6 @@
           "relation": "画集",
           "type": 1,
           "id": 238186
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8a/00/238187_KazUX.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8a/00/238187_KazUX.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8a/00/238187_KazUX.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8a/00/238187_KazUX.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/00/238187_KazUX.jpg"
-          },
-          "name": "ガールズ&amp;パンツァー アニメーション原画集 vol.2",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 238187
         },
         {
           "images": {
@@ -2247,8 +2187,8 @@
         "内山昂輝",
         "内山昂辉",
         "冈田麿里",
-        "城平京",
         "基园的暴风雨",
+        "大島ミチル",
         "奇幻",
         "安藤真裕",
         "岡田麿里",
@@ -2576,6 +2516,7 @@
         "2012",
         "2012年",
         "2012年10月",
+        "LINK.",
         "SILVER",
         "SILVERLINK.",
         "TV",
@@ -2593,7 +2534,6 @@
         "搞笑",
         "无下限",
         "日常",
-        "日本",
         "校园",
         "糟糕",
         "肉",
@@ -3193,10 +3133,10 @@
       "name_cn": "出包王女Darkness",
       "tags": [
         "2012",
-        "2012年",
         "2012年10月",
         "ATX",
         "TV",
+        "ToLove",
         "ToLoveる",
         "XEBEC",
         "丰崎爱生",
@@ -3624,7 +3564,6 @@
         "我只能呵呵",
         "搞笑",
         "日常",
-        "日本",
         "校园",
         "治愈",
         "石原立也",
@@ -3633,6 +3572,7 @@
         "花泽香菜",
         "花田十辉",
         "萌",
+        "轻小说",
         "轻小说改",
         "轻改",
         "青春"
@@ -3975,6 +3915,7 @@
         "2012",
         "2012年",
         "2012年10月",
+        "2012秋",
         "Abnormal",
         "GAINAX",
         "JUMP",
@@ -3982,11 +3923,11 @@
         "丰崎爱生",
         "二期",
         "佐伯昭志",
-        "动画",
         "卖肉",
         "后宫",
         "奇幻",
         "季番",
+        "小野友树",
         "小野友樹",
         "战斗",
         "搞笑",
@@ -3999,7 +3940,6 @@
         "燃",
         "球哥快来",
         "第二季",
-        "肉",
         "西尾維新",
         "西尾维新"
       ],
@@ -4414,13 +4354,13 @@
         "2012",
         "2012年",
         "2012年10月",
-        "5pb",
         "5pb.",
         "GAL改",
         "NOTES",
         "Nitro+",
         "Production.I.G",
         "ProductionI.G",
+        "Production_I.G",
         "ROBOTICS",
         "Robotics；Notes",
         "TV",
@@ -5676,7 +5616,6 @@
       "name_cn": "旋风管家 CAN'T TAKE MY EYES OFF YOU",
       "tags": [
         "2012",
-        "2012年",
         "2012年10月",
         "J.C.STAFF",
         "Manglobe",
@@ -5701,6 +5640,7 @@
         "田中理恵",
         "白石凉子",
         "第三季",
+        "续作",
         "重制版",
         "釘宮理恵",
         "钉宫",
@@ -6006,6 +5946,7 @@
         "SUNRISE",
         "TV",
         "TVA",
+        "アイカツ",
         "サンライズ",
         "偶像",
         "偶像活动",
@@ -6019,7 +5960,6 @@
         "幼女",
         "幼女向",
         "广告",
-        "日升",
         "木村隆一",
         "校园",
         "水岛精二",
@@ -6559,10 +6499,10 @@
         "日本",
         "桑原智",
         "游戏王",
+        "漫改",
         "热血",
         "畠中祐",
         "科幻",
-        "穿越",
         "续作",
         "遊☆戯☆王",
         "高桥和希",
@@ -6673,7 +6613,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/59/343288_G0zZg.jpg"
           },
           "name": "遊戯王マスターデュエル",
-          "name_cn": "",
+          "name_cn": "游戏王Master Duel",
           "relation": "游戏",
           "type": 4,
           "id": 343288
@@ -6983,18 +6923,20 @@
         "2012年10月",
         "A-1Pictures",
         "ED是",
-        "MyTVSuper",
         "TV",
         "Zetter",
         "robo",
-        "乳袋",
         "井上麻里奈",
+        "佐藤大",
         "卖车番",
+        "变形",
+        "变身",
         "子供",
         "子供向",
         "日TV",
         "日本",
         "日本动画",
+        "机器人",
         "机战",
         "松岡禎丞",
         "森邦宏",
@@ -7005,8 +6947,6 @@
         "超速变形",
         "超速变形Gyro",
         "超速变形GyroZetter",
-        "配音版",
-        "関智一",
         "高松信司"
       ],
       "infobox": [
@@ -7148,6 +7088,7 @@
         "2012年",
         "2012年10月",
         "TV",
+        "TVA",
         "ZEXCS",
         "アニメ",
         "乙女",
@@ -7164,7 +7105,6 @@
         "恋爱",
         "日本动画",
         "校园",
-        "横手美智子",
         "樱井孝宏",
         "櫻井孝宏",
         "漫改",
@@ -7682,8 +7622,8 @@
         "法外制裁者",
         "游骑你肿了",
         "漫改",
+        "漫画",
         "漫画改",
-        "热血",
         "豊永利行",
         "超能力",
         "逆后宫",
@@ -7739,7 +7679,23 @@
         },
         {
           "key": "原作",
-          "value": "上条明峰"
+          "value": "上条明峰(講談社「週刊少年マガジン」連載)"
+        },
+        {
+          "key": "企画",
+          "value": "松下卓也、上山公一、井上俊次、木谷高明、上阪直也、小笠原宗紀"
+        },
+        {
+          "key": "制片人",
+          "value": "立石謙介、向井地基起、小池克実、中村伸行、青木絵理子、松家雄一郎 クリエイティブプロデューサー：堀川寿美、湯川淳"
+        },
+        {
+          "key": "助理制片人",
+          "value": "山谷奈久留、山田美優紀、秋山琢磨"
+        },
+        {
+          "key": "製作",
+          "value": "CODE:BREAKER製作委員会(講談社、バンダイビジュアル、ランティス、ブシロード、メモリーテック、 KINEMA CITRUS)"
         }
       ],
       "total_episodes": 13,
@@ -8275,20 +8231,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/48/38326_Y27E2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/48/38326_Y27E2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/51/48/38326_Y27E2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/48/38326_Y27E2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/48/38326_Y27E2.jpg"
-          },
-          "name": "ジョジョの奇妙な冒険",
-          "name_cn": "JOJO的奇妙冒险",
-          "relation": "续集",
-          "type": 2,
-          "id": 38326
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/04/2763_9OlXd.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/04/2763_9OlXd.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/f8/04/2763_9OlXd.jpg",
@@ -8345,6 +8287,7 @@
         "伊藤静",
         "元永庆太郎",
         "元永慶太郎",
+        "冒险",
         "军事",
         "军火",
         "军火女王",
@@ -8356,7 +8299,6 @@
         "开挂的小队",
         "战争",
         "战斗",
-        "暴力美学",
         "枪战",
         "漫改",
         "漫画改",
@@ -9896,6 +9838,7 @@
         "TV",
         "三森すずこ",
         "三森铃子",
+        "动画",
         "吐槽",
         "天然",
         "搞笑",
@@ -9913,7 +9856,6 @@
         "短片",
         "神语速",
         "网球少女",
-        "网球并不可笑嘛",
         "花泽香菜",
         "花澤香菜",
         "萌",
@@ -10566,7 +10508,6 @@
       "name_cn": "银魂' 延长战",
       "tags": [
         "2012",
-        "2012年",
         "2012年10月",
         "GINTAMA",
         "JUMP",
@@ -10575,6 +10516,7 @@
         "中村悠一",
         "人生的意义",
         "吐槽",
+        "吐糟",
         "战斗",
         "搞笑",
         "日常",
@@ -10587,14 +10529,14 @@
         "石田彰",
         "碎节操",
         "空知秋明",
-        "节操",
         "藤田阳一",
         "藤田陽一",
         "銀魂",
         "钉宫理惠",
         "银他妈",
         "银魂",
-        "阪口大助"
+        "阪口大助",
+        "高松信司"
       ],
       "infobox": [
         {
@@ -10660,11 +10602,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/36/11834_fEZvv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/36/11834_fEZvv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e1/36/11834_fEZvv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/36/11834_fEZvv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/36/11834_fEZvv.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/36/11834_F225g.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/36/11834_F225g.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e1/36/11834_F225g.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/36/11834_F225g.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/36/11834_F225g.jpg"
           },
           "name": "銀魂'",
           "name_cn": "银魂'",
@@ -10797,6 +10739,20 @@
           "relation": "广播剧",
           "type": 3,
           "id": 229426
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/55/480096_JDas3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/55/480096_JDas3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/da/55/480096_JDas3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/55/480096_JDas3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/55/480096_JDas3.jpg"
+          },
+          "name": "銀魂オンシアター2D 一国傾城篇",
+          "name_cn": "银魂ON THEATER 2D 一国倾城篇",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 480096
         }
       ]
     }
@@ -10901,6 +10857,30 @@
         {
           "key": "原作",
           "value": "大高忍"
+        },
+        {
+          "key": "企画",
+          "value": "夏目公一朗、植田益朗、沢辺伸政、遠藤正樹、太布尚弘、柳村努、竹田靑滋"
+        },
+        {
+          "key": "美术监督",
+          "value": "川本亜夕、前塚太一"
+        },
+        {
+          "key": "制片人",
+          "value": "斎藤朋之、清水博之、落越友則、斎藤俊輔、丸山博雄"
+        },
+        {
+          "key": "製作",
+          "value": "マギ製作委員会(Aniplex、小学館、電通、ムービック、GyaO!)、毎日放送"
+        },
+        {
+          "key": "执行制片人",
+          "value": "越智武、岩上敦宏"
+        },
+        {
+          "key": "助理制片人",
+          "value": "鈴木健幸、遠藤哲哉、金庭こず恵、前田俊博、相島豪太"
         }
       ],
       "total_episodes": 25,
@@ -11244,11 +11224,11 @@
         "2012年10月",
         "TMS",
         "TMSEntertainment",
+        "TV",
         "トムス・エンタテインメント",
         "伏",
         "剧场",
         "剧场版",
-        "劇場版",
         "动画电影",
         "和风",
         "坂本真绫",
@@ -11264,11 +11244,11 @@
         "寿美菜子",
         "小西克幸",
         "小说改",
-        "映画",
         "樱庭一树",
         "水树奈奈",
         "神谷浩史",
-        "野岛裕史"
+        "野岛裕史",
+        "铁炮娘的捕物帐"
       ],
       "infobox": [
         {
@@ -12026,6 +12006,7 @@
         "HoodsEntertainment",
         "Hoods_Entertainment",
         "OVA",
+        "StudioKAI",
         "marone",
         "堀与宫村",
         "夏目真悟",
@@ -12043,7 +12024,6 @@
         "濑户麻沙美",
         "相浦和也",
         "短片",
-        "綾奈ゆにこ",
         "细谷佳正",
         "绫奈由仁子",
         "青春",
@@ -12360,11 +12340,12 @@
       "name_cn": "苍蓝世界的中心",
       "tags": [
         "2012",
+        "2012.10",
         "2012年",
         "2012年10月",
-        "2012秋",
-        "3集太短啦",
+        "C及以下",
         "FifthAvenue",
+        "Fifth_Avenue",
         "OVA",
         "TV",
         "TVSP",
@@ -12382,7 +12363,6 @@
         "捏他向",
         "日本动画",
         "橘田いずみ",
-        "油管",
         "漫改",
         "漫画改",
         "肉",
@@ -12941,7 +12921,6 @@
         "劇場版アニメ",
         "原创",
         "喜多村英梨",
-        "坑",
         "奇幻",
         "宫本幸裕",
         "宮本幸裕",
@@ -12950,6 +12929,7 @@
         "战斗",
         "斋藤千和",
         "新房昭之",
+        "日本",
         "梶浦由記",
         "梶浦由记",
         "治愈",
@@ -13591,6 +13571,7 @@
         "Feel.",
         "OAD",
         "OVA",
+        "TV",
         "みなみけ",
         "井上麻里奈",
         "佐藤利奈",
@@ -13612,7 +13593,6 @@
         "漫改",
         "漫画改",
         "番外",
-        "百合",
         "茅原実里",
         "萌"
       ],
@@ -13733,9 +13713,9 @@
         "2012",
         "2012年",
         "2012年10月",
+        "2012年剧场版",
         "スマイルプリキュア！",
         "プリキュア",
-        "一周目结束",
         "东映",
         "东映动画",
         "井上麻里奈",
@@ -14149,6 +14129,739 @@
           "relation": "书籍",
           "type": 1,
           "id": 52341
+        }
+      ]
+    }
+  },
+  {
+    "title": "DIABOLIK LOVERS",
+    "date": "2012-10-11",
+    "bangumi": {
+      "date": "2012-10-11",
+      "platform": "游戏",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/f6/29057_0GA0F.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/f6/29057_0GA0F.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/f8/f6/29057_0GA0F.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/f6/29057_0GA0F.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/f6/29057_0GA0F.jpg"
+      },
+      "summary": "主人公・小森ユイはごく普通の高校生。\r\nただ小さい頃から少し周りで変わったことが起きるだけ。\r\n\r\n\r\n高校二年生になったとき、父の転勤のため神無町という街の学校に転校することになる。\r\n転校先は「嶺帝学院高校」という、芸能人やセレブの為の夜間学校。\r\nその一見華やかにみえる裏で、不吉な噂が絶えず囁かれている学校だった。\r\n\r\nいわくつきの噂の中には「ヴァンパイアに襲われた生徒がいる」というものも……。\r\n\r\nそして、居候先である父の親戚の逆巻家は、\r\n街でも噂の最悪な六人兄弟が住む『オバケ屋敷』と呼ばれる場所で――。\r\n\r\n突然、性格最悪なイケメン六人兄弟と同居することになった主人公。\r\nしかも彼らはただの人間ではなく…………。\r\n\r\n──何かに引き寄せられるような小さな期待を感じながら、\r\n不安と恐怖の新しい生活が始まろうとしていた。",
+      "name": "DIABOLIK LOVERS",
+      "name_cn": "魔鬼恋人",
+      "tags": [
+        "2012",
+        "ADV",
+        "AVG",
+        "DIABOLIKLOVERS",
+        "NS",
+        "Otomate",
+        "PSP",
+        "PSV",
+        "Rejet",
+        "さとい",
+        "オトメイト",
+        "乙女",
+        "乙女ゲーム",
+        "乙女向",
+        "乙女游戏",
+        "伪全年龄",
+        "全年龄",
+        "吸血鬼",
+        "呕吐妹",
+        "小西克幸",
+        "平川大輔",
+        "平川大辅",
+        "抖s",
+        "日本",
+        "梶裕貴",
+        "緑川光",
+        "緑川光　梶裕貴　鳥海浩輔　小西克幸　近藤隆",
+        "绿川光",
+        "近藤隆",
+        "鳥海浩輔"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "魔鬼恋人"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "ディアボリックラヴァーズ"
+            },
+            {
+              "v": "DIABOLIK LOVERS LIMITED V EDITION"
+            },
+            {
+              "v": "DIABOLIK LOVERS GRAND EDITION"
+            },
+            {
+              "v": "DIABOLIK LOVERS GRAND EDITION for Nintendo Switch"
+            }
+          ]
+        },
+        {
+          "key": "平台",
+          "value": [
+            {
+              "v": "PSP"
+            },
+            {
+              "v": "PSV"
+            },
+            {
+              "v": "PS4"
+            },
+            {
+              "v": "Nintendo Switch"
+            }
+          ]
+        },
+        {
+          "key": "游戏类型",
+          "value": "恋爱ADV"
+        },
+        {
+          "key": "游玩人数",
+          "value": "1"
+        },
+        {
+          "key": "发行日期",
+          "value": "2012年10月11日(PSP)"
+        },
+        {
+          "key": "售价",
+          "value": "6090円"
+        },
+        {
+          "key": "website",
+          "value": "http://dialover.net/"
+        },
+        {
+          "key": "原画",
+          "value": "さとい"
+        },
+        {
+          "key": "OP",
+          "value": "「真夜中の饗宴（MIDNIGHT PLEASURE）」 作詞：岩崎大介 / 作曲：MIKOTO / 歌：逆巻アヤト（緑川光）、逆巻シュウ（鳥海浩輔）、逆巻スバル（近藤隆）"
+        },
+        {
+          "key": "ED",
+          "value": "「幻日理論 -Parhelion Rogic-」 作詞：岩崎大介 / 作曲：MIKOTO / 歌：逆巻アヤト（緑川光）"
+        },
+        {
+          "key": "其他发行日期",
+          "value": [
+            {
+              "v": "2013年12月19日(PSV)"
+            },
+            {
+              "v": "2018年3月29日(PS4)"
+            },
+            {
+              "v": "2019年11月21日(Nintendo Switch)"
+            }
+          ]
+        }
+      ],
+      "total_episodes": 0,
+      "id": 29057,
+      "eps": 0,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 4,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/d7/64993_5SCUM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/d7/64993_5SCUM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/d7/64993_5SCUM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/d7/64993_5SCUM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/d7/64993_5SCUM.jpg"
+          },
+          "name": "DIABOLIK LOVERS",
+          "name_cn": "魔鬼恋人",
+          "relation": "动画",
+          "type": 2,
+          "id": 64993
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/88/121774_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/88/121774_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b8/88/121774_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/88/121774_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/88/121774_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS 公式設定集",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 121774
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/a2/109381_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/a2/109381_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/12/a2/109381_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/a2/109381_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/a2/109381_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS MORE CHARACTER SONG Vol.1 逆巻アヤト",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 109381
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/37/104960_Z5P3k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/37/104960_Z5P3k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/37/104960_Z5P3k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/37/104960_Z5P3k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/37/104960_Z5P3k.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD VERSUSⅡ Vol.2 シュウVSレイジ",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 104960
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/f7/104731_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/f7/104731_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a0/f7/104731_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/f7/104731_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/f7/104731_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS Bloody Songs-SUPER BEST-",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 104731
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/75/104729_xGK44.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/75/104729_xGK44.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/75/104729_xGK44.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/75/104729_xGK44.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/75/104729_xGK44.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD VERSUSⅡ Vol.3 カナトVSスバル",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 104729
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/3e/102382_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/3e/102382_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/88/3e/102382_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/3e/102382_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/3e/102382_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD VERSUSⅡ Vol.1 アヤトVSライト",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 102382
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/2f/189277_snqn2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/2f/189277_snqn2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/2f/189277_snqn2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/2f/189277_snqn2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/2f/189277_snqn2.jpg"
+          },
+          "name": "DIABOLIK LOVERS LOST EDEN",
+          "name_cn": "",
+          "relation": "续集",
+          "type": 4,
+          "id": 189277
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7b/9b/235384_2901T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7b/9b/235384_2901T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7b/9b/235384_2901T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7b/9b/235384_2901T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7b/9b/235384_2901T.jpg"
+          },
+          "name": "DIABOLIK LOVERS 5th Anniversary Book",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 235384
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/38/80143_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/38/80143_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/38/80143_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/38/80143_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/38/80143_jp.jpg"
+          },
+          "name": "オトメイト ラボラトリー VOL.3",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 80143
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/06/64990_sbEpw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/06/64990_sbEpw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f6/06/64990_sbEpw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/06/64990_sbEpw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/06/64990_sbEpw.jpg"
+          },
+          "name": "DIABOLIK LOVERS MORE,BLOOD",
+          "name_cn": "魔鬼恋人 血祭",
+          "relation": "续集",
+          "type": 4,
+          "id": 64990
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/a9/235385_VLTpp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/a9/235385_VLTpp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/a9/235385_VLTpp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/a9/235385_VLTpp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/a9/235385_VLTpp.jpg"
+          },
+          "name": "DIABOLIK LOVERS ILLUSTRATIONS V",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 235385
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/da/235456_i0U33.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/da/235456_i0U33.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f3/da/235456_i0U33.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/da/235456_i0U33.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/da/235456_i0U33.jpg"
+          },
+          "name": "DIABOLIK LOVERS アンソロジー Cardinal",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 235456
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/c2/413828_991I9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/c2/413828_991I9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/54/c2/413828_991I9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/c2/413828_991I9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/c2/413828_991I9.jpg"
+          },
+          "name": "DIABOLIK LOVERS ILLUSTRATIONS X",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 413828
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/28/260353_B1zbC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/28/260353_B1zbC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/89/28/260353_B1zbC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/28/260353_B1zbC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/28/260353_B1zbC.jpg"
+          },
+          "name": "DIABOLIK LOVERS CHAOS LINEAGE",
+          "name_cn": "",
+          "relation": "不同世界观",
+          "type": 4,
+          "id": 260353
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/a8/235469_i6u7D.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/a8/235469_i6u7D.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/47/a8/235469_i6u7D.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/a8/235469_i6u7D.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/a8/235469_i6u7D.jpg"
+          },
+          "name": "DIABOLIK LOVERS キャラクターブック -アヤトver.-",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 235469
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/59/235468_HxIH1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/59/235468_HxIH1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/59/235468_HxIH1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/59/235468_HxIH1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/59/235468_HxIH1.jpg"
+          },
+          "name": "DIABOLIK LOVERS キャラクターブック -カナトver.-",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 235468
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/e3/235467_prOXp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/e3/235467_prOXp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/e3/235467_prOXp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/e3/235467_prOXp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/e3/235467_prOXp.jpg"
+          },
+          "name": "DIABOLIK LOVERS Sequel カナト・シュウ・レイジ編",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 235467
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/61/5b/235465_GRGzW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/61/5b/235465_GRGzW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/61/5b/235465_GRGzW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/61/5b/235465_GRGzW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/61/5b/235465_GRGzW.jpg"
+          },
+          "name": "DIABOLIK LOVERS Prequel",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 235465
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/6d/235459_WlD7L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/6d/235459_WlD7L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/11/6d/235459_WlD7L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/6d/235459_WlD7L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/6d/235459_WlD7L.jpg"
+          },
+          "name": "DIABOLIK LOVERS Sequel アヤト・ライト・スバル編",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 235459
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/58/235386_8EzEy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/58/235386_8EzEy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/58/235386_8EzEy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/58/235386_8EzEy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/58/235386_8EzEy.jpg"
+          },
+          "name": "DIABOLIK LOVERS ILLUSTRATIONS II",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 235386
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7a/73/58066_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7a/73/58066_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7a/73/58066_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/73/58066_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/73/58066_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS 公式ビジュアルファンブック",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 58066
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/9a/55706_WvWxz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/9a/55706_WvWxz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/9a/55706_WvWxz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/9a/55706_WvWxz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/9a/55706_WvWxz.jpg"
+          },
+          "name": "DIABOLIK LOVERS ORIGINAL SOUNDTRACK",
+          "name_cn": "DIABOLIK LOVERS ORIGINAL SOUNDTRACK",
+          "relation": "原声集",
+          "type": 3,
+          "id": 55706
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/38/51168_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/38/51168_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/23/38/51168_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/38/51168_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/38/51168_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS 「真夜中の饗宴(MIDNIGHT PLEASURE)」",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 51168
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/51/105800_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/51/105800_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2e/51/105800_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/51/105800_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/51/105800_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS ILLUSTRATIONS",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 105800
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/15/75195_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/15/75195_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/08/15/75195_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/15/75195_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/15/75195_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS キャラクターソングvol.1 アヤト",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 75195
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/be/77273_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/be/77273_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d4/be/77273_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/be/77273_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/be/77273_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS キャラクターソングvol.2 カナト",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 77273
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/22/80984_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/22/80984_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/22/80984_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/22/80984_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/22/80984_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS キャラクターソング Vol.3 ライト",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 80984
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/16/83192_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/16/83192_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/16/83192_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/16/83192_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/16/83192_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS キャラクターソング Vol.4 逆巻スバル",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 83192
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/69/84914_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/69/84914_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ed/69/84914_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/69/84914_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/69/84914_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS キャラクターソング Vol.5 逆巻シュウ",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 84914
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/87/04/89334_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/87/04/89334_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/87/04/89334_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/87/04/89334_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/87/04/89334_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS キャラクターソング Vol.6 逆巻レイジ",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 89334
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/0a/33025_CmVhx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/0a/33025_CmVhx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/0a/33025_CmVhx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/0a/33025_CmVhx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/0a/33025_CmVhx.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD Vol.1 逆巻アヤト",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 33025
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/7f/33028_eg3T8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/7f/33028_eg3T8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c0/7f/33028_eg3T8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/7f/33028_eg3T8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/7f/33028_eg3T8.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD Vol.2 逆巻スバル",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 33028
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/a9/33029_tlf8J.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/a9/33029_tlf8J.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/39/a9/33029_tlf8J.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/a9/33029_tlf8J.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/a9/33029_tlf8J.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD Vol.3 逆巻カナト",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 33029
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/d2/33030_aDfL2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/d2/33030_aDfL2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/d2/33030_aDfL2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/d2/33030_aDfL2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/d2/33030_aDfL2.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD Vol.4 逆巻ライト",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 33030
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/2b/33031_iYstS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/2b/33031_iYstS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/81/2b/33031_iYstS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/2b/33031_iYstS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/2b/33031_iYstS.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD Vol.5 逆巻レイジ",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 33031
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/46/33033_zXhHL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/46/33033_zXhHL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5f/46/33033_zXhHL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/46/33033_zXhHL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/46/33033_zXhHL.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD Vol.6 逆巻シュウ",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 33033
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/09/48760_9jcSi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/09/48760_9jcSi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/67/09/48760_9jcSi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/09/48760_9jcSi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/09/48760_9jcSi.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD VERSUS 1 アヤトVSシュウ",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 48760
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/8b/50706_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/8b/50706_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/09/8b/50706_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/8b/50706_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/8b/50706_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD VERSUS 2 ライトVS スバル",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 50706
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3f/88/52683_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3f/88/52683_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3f/88/52683_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3f/88/52683_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3f/88/52683_jp.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD VERSUS 3 カナト VS レイジ",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 52683
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/c0/48761_tIbT5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/c0/48761_tIbT5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a3/c0/48761_tIbT5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/c0/48761_tIbT5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/c0/48761_tIbT5.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドラマCD「Blood＆Love Sweat」",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 48761
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/63/58484_mcAiL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/63/58484_mcAiL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/02/63/58484_mcAiL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/63/58484_mcAiL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/63/58484_mcAiL.jpg"
+          },
+          "name": "DIABOLIK LOVERS ドS吸血CD ～月夜の晩餐会～",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 58484
         }
       ]
     }

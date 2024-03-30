@@ -50,6 +50,50 @@
         {
           "key": "发售日",
           "value": "1994年11月21日"
+        },
+        {
+          "key": "企画",
+          "value": "サンライズ"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇"
+        },
+        {
+          "key": "系列构成",
+          "value": "會川昇"
+        },
+        {
+          "key": "人物设定",
+          "value": "二宮常雄、本橋秀之"
+        },
+        {
+          "key": "机械设定",
+          "value": "大河原邦男"
+        },
+        {
+          "key": "制片人",
+          "value": "南雅彦、川城和実"
+        },
+        {
+          "key": "製作",
+          "value": "サンライズ、バンダイビジュアル"
+        },
+        {
+          "key": "分镜",
+          "value": "アミノテツロー、大畑清隆、織田美浩"
+        },
+        {
+          "key": "演出",
+          "value": "織田美浩、大畑清隆、織田美浩"
+        },
+        {
+          "key": "作画监督",
+          "value": "本橋秀之、山本泰一郎、柳沢哲也（柳沢テツヤ）"
+        },
+        {
+          "key": "原画",
+          "value": "渡部圭祐、大浪太、長屋侑利子、宮崎なぎさ、山本泰一郎、才木康寛、黒沢裕一、川上智也、近藤高光、重田智、飯野泰造、宮田忠明、門智昭、杉浦幸次、吉川博明、博多正寿、横手博人、黒沢裕一"
         }
       ],
       "total_episodes": 5,
@@ -112,7 +156,6 @@
         "mv",
         "东京巴比伦",
         "其他",
-        "卖萌",
         "增原光幸",
         "日本",
         "旧物",
@@ -121,6 +164,7 @@
         "特典",
         "独立ova",
         "短片",
+        "短篇",
         "神作",
         "笠原弘子",
         "高桥久美子"
@@ -177,6 +221,34 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/49/113514_oIond.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/49/113514_oIond.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1a/49/113514_oIond.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/49/113514_oIond.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/49/113514_oIond.jpg"
+          },
+          "name": "Wish",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 2,
+          "id": 113514
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/21/18575_E4jaM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/21/18575_E4jaM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/21/18575_E4jaM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/21/18575_E4jaM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/21/18575_E4jaM.jpg"
+          },
+          "name": "CLOVER",
+          "name_cn": "三叶草",
+          "relation": "其他",
+          "type": 2,
+          "id": 18575
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/ef/563_7IeTf.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/ef/563_7IeTf.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/8e/ef/563_7IeTf.jpg",
@@ -205,20 +277,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/c0/46741_AOEet.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/c0/46741_AOEet.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/22/c0/46741_AOEet.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/c0/46741_AOEet.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/c0/46741_AOEet.jpg"
-          },
-          "name": "PRECIOUS SONGS",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 46741
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/fd/34/155014_bb4wz.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fd/34/155014_bb4wz.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/fd/34/155014_bb4wz.jpg",
@@ -230,6 +288,20 @@
           "relation": "角色出演",
           "type": 1,
           "id": 155014
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/c0/46741_AOEet.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/c0/46741_AOEet.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/22/c0/46741_AOEet.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/c0/46741_AOEet.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/c0/46741_AOEet.jpg"
+          },
+          "name": "PRECIOUS SONGS",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 46741
         },
         {
           "images": {

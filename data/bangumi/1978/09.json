@@ -20,6 +20,7 @@
         "1978",
         "1978年",
         "1978年9月",
+        "70s",
         "70年代",
         "SF",
         "TV",
@@ -30,10 +31,10 @@
         "剧情",
         "剧情类",
         "动画",
-        "大长篇",
         "日本",
         "日本动画",
         "昭和",
+        "未",
         "東映アニメーション",
         "松本零士",
         "漫改",
@@ -44,7 +45,6 @@
         "补旧番",
         "西沢信孝",
         "银河铁道999",
-        "长篇",
         "青木望"
       ],
       "infobox": [
@@ -131,17 +131,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/5e/127777_DrIrw.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/5e/127777_DrIrw.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3a/5e/127777_DrIrw.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/5e/127777_DrIrw.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/5e/127777_DrIrw.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/14/351559_S8tHz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/14/351559_S8tHz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/14/351559_S8tHz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/14/351559_S8tHz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/14/351559_S8tHz.jpg"
           },
-          "name": "銀河鉄道999 ガラスのクレア",
-          "name_cn": "银河铁道999 玻璃克莱尔",
-          "relation": "总集篇",
+          "name": "銀河鉄道999 不滅の空間軌道",
+          "name_cn": "银河铁道999 不灭的空间轨道",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 127777
+          "id": 351559
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/64/484405_o7uOG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/64/484405_o7uOG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b9/64/484405_o7uOG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/64/484405_o7uOG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/64/484405_o7uOG.jpg"
+          },
+          "name": "銀河鉄道999 ～時空を超えたエネルギーの旅～",
+          "name_cn": "银河铁道999 超越时空的能量之旅",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 484405
         },
         {
           "images": {
@@ -285,20 +299,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/14/351559_S8tHz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/14/351559_S8tHz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2f/14/351559_S8tHz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/14/351559_S8tHz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/14/351559_S8tHz.jpg"
-          },
-          "name": "銀河鉄道999 不滅の空間軌道",
-          "name_cn": "银河铁道999 不灭的空间轨道",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 351559
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_7lwS8.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_7lwS8.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_7lwS8.jpg",
@@ -310,6 +310,20 @@
           "relation": "相同世界观",
           "type": 2,
           "id": 12784
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/5e/127777_DrIrw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/5e/127777_DrIrw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/5e/127777_DrIrw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/5e/127777_DrIrw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/5e/127777_DrIrw.jpg"
+          },
+          "name": "銀河鉄道999 ガラスのクレア",
+          "name_cn": "银河铁道999 玻璃克莱尔",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 127777
         },
         {
           "images": {

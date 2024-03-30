@@ -19,8 +19,6 @@
         "2019",
         "2019年",
         "2019年7月",
-        "Film",
-        "HobbyJAPAN",
         "MAHOFILM",
         "MAHO_FILM",
         "TV",
@@ -32,6 +30,7 @@
         "女儿",
         "季番",
         "小说改",
+        "岡本信彦",
         "异世界",
         "恋爱",
         "日常",
@@ -42,6 +41,7 @@
         "治愈",
         "父嫁",
         "萌",
+        "萌系",
         "萝莉",
         "轻小说改",
         "轻改",
@@ -243,9 +243,9 @@
         "J.C.STAFF",
         "TV",
         "冒险",
-        "动画",
         "后宫",
         "在地下城寻求邂逅是否搞错了什么",
+        "地下城",
         "奇幻",
         "小说改",
         "异世界",
@@ -704,7 +704,6 @@
       "name_cn": "战姬绝唱SYMPHOGEAR XV",
       "tags": [
         "2019",
-        "2019年",
         "2019年7月",
         "Satelight",
         "TV",
@@ -714,6 +713,7 @@
         "井口裕香",
         "偶像",
         "动画",
+        "南条爱乃",
         "原创",
         "变身",
         "声乐",
@@ -871,6 +871,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/8b/486288_PEk9X.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/8b/486288_PEk9X.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ce/8b/486288_PEk9X.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/8b/486288_PEk9X.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/8b/486288_PEk9X.jpg"
+          },
+          "name": "戦姫絶唱シンフォギアXV デザインアーカイヴ",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 486288
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/9d/467954_Xzm1O.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/9d/467954_Xzm1O.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/17/9d/467954_Xzm1O.jpg",
@@ -955,20 +969,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/75/285920_g3ngg.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/75/285920_g3ngg.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2d/75/285920_g3ngg.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/75/285920_g3ngg.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/75/285920_g3ngg.jpg"
-          },
-          "name": "TVアニメ「戦姫絶唱シンフォギアXV」キャラクターソング1",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 285920
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/76/292508_67JLb.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/76/292508_67JLb.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/ce/76/292508_67JLb.jpg",
@@ -980,6 +980,20 @@
           "relation": "插入歌",
           "type": 3,
           "id": 292508
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/75/285920_g3ngg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/75/285920_g3ngg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2d/75/285920_g3ngg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/75/285920_g3ngg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/75/285920_g3ngg.jpg"
+          },
+          "name": "TVアニメ「戦姫絶唱シンフォギアXV」キャラクターソング1",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 285920
         },
         {
           "images": {
@@ -1149,6 +1163,7 @@
         "一方通行",
         "外传",
         "奇幻",
+        "季番",
         "岡本信彦",
         "战斗",
         "日本",
@@ -1165,7 +1180,6 @@
         "轻小说改",
         "轻改",
         "鎌仲史陽",
-        "鎌池和馬",
         "镰仲史阳",
         "镰池和马",
         "魔法",
@@ -1239,6 +1253,14 @@
         {
           "key": "人物设定",
           "value": "八重樫洋平"
+        },
+        {
+          "key": "企画",
+          "value": "青柳昌行、川村明廣、田島宏行、西角浩一、國枝信吾、宮田知行、山崎明日香"
+        },
+        {
+          "key": "制片人",
+          "value": "三木一馬（ストレートエッジ）、峯健司、志治雄一郎、服部健太郎、中倉岳大、阿部倫久、金庭こず恵、礒谷徳知、川瀬浩平、広野啓、松倉友二"
         }
       ],
       "total_episodes": 13,
@@ -1374,13 +1396,13 @@
         "J.C.STAFF",
         "TV",
         "undefined",
-        "三重野瞳",
         "冒险",
         "动画",
         "卖肉",
         "厕纸",
         "后宫",
         "奇幻",
+        "季番",
         "小说改",
         "岩崎良明",
         "异世界",
@@ -1912,7 +1934,6 @@
         "パッショーネ",
         "三瓶圣",
         "丰崎爱生",
-        "动画",
         "吐槽",
         "女高中生的无所事事",
         "户松遥",
@@ -1931,7 +1952,8 @@
         "赤﨑千夏",
         "轻百合",
         "青春",
-        "高桥丈夫"
+        "高桥丈夫",
+        "高桥李依"
       ],
       "infobox": [
         {
@@ -2158,6 +2180,7 @@
         "2019",
         "2019年",
         "2019年7月",
+        "GEEKTOYS",
         "GeekToys",
         "TV",
         "いまざきいつき",
@@ -2170,7 +2193,6 @@
         "后宫",
         "妹控",
         "小说改",
-        "山下宪一",
         "恋爱",
         "搞笑",
         "日常",
@@ -2181,7 +2203,7 @@
         "竹达彩奈",
         "竹達彩奈",
         "肉",
-        "节操",
+        "花間燈",
         "贫穷",
         "轻小说改",
         "轻改"
@@ -2365,12 +2387,12 @@
         "奇幻",
         "小说改",
         "平凡职业成就世界最强",
-        "平凡职业造就世界最强",
         "异世界",
         "恋爱",
         "惨遭动画化",
         "战斗",
         "搞笑",
+        "日本",
         "日本动画",
         "穿越",
         "装逼",
@@ -2633,7 +2655,6 @@
         "TV",
         "UHF",
         "冒险",
-        "动画",
         "厕纸",
         "后宫",
         "天﨑滉平",
@@ -2646,10 +2667,11 @@
         "战斗",
         "搞笑",
         "日本动画",
+        "日笠陽子",
         "热血",
-        "異世界",
         "穿越",
         "筑紫大介",
+        "装逼",
         "轻小说改",
         "轻改",
         "高橋李依",
@@ -2904,11 +2926,23 @@
         },
         {
           "key": "Copyright",
-          "value": "© 神埼黒音／双葉社・「魔王様、リトライ！」製作委員会"
+          "value": "©神埼黒音／双葉社・「魔王様、リトライ！」製作委員会"
         },
         {
           "key": "原作",
-          "value": "神埼黒音"
+          "value": "神埼黒音 (『魔王様、リトライ！』/双葉社・Mノベルス)"
+        },
+        {
+          "key": "导演",
+          "value": "木村寛"
+        },
+        {
+          "key": "人物设定",
+          "value": "中山知世"
+        },
+        {
+          "key": "製作",
+          "value": "「魔王様、リトライ！」製作委員会"
         }
       ],
       "total_episodes": 12,
@@ -2977,11 +3011,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/41/451119_TmclH.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/41/451119_TmclH.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d5/41/451119_TmclH.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/41/451119_TmclH.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/41/451119_TmclH.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/41/451119_6v65J.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/41/451119_6v65J.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d5/41/451119_6v65J.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/41/451119_6v65J.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/41/451119_6v65J.jpg"
           },
           "name": "魔王様、リトライ! R",
           "name_cn": "重来吧、魔王大人！R",
@@ -3018,6 +3052,7 @@
         "动画工房",
         "動画工房",
         "卖肉",
+        "吐槽",
         "周指活",
         "堀江由衣",
         "山崎光惠",
@@ -3034,7 +3069,6 @@
         "硬核",
         "科普",
         "肉",
-        "肌肉",
         "肌肉少女",
         "轻百合",
         "运动",
@@ -3484,7 +3518,6 @@
         "2019",
         "2019年",
         "2019年7月",
-        "7月",
         "LIDENFILMS",
         "TV",
         "动画",
@@ -3509,6 +3542,7 @@
         "肉",
         "肉番",
         "臼井文明",
+        "高橋李依",
         "魔术",
         "魔术学姐"
       ],
@@ -3824,7 +3858,6 @@
       "name_cn": "满月之战",
       "tags": [
         "2019",
-        "2019夏",
         "2019年",
         "2019年7月",
         "Granbelm",
@@ -3852,7 +3885,8 @@
         "花田十辉",
         "萝卜",
         "表番",
-        "轻百合"
+        "轻百合",
+        "魔法少女"
       ],
       "infobox": [
         {
@@ -4033,7 +4067,6 @@
         "2019年7月",
         "Lay-duce",
         "TV",
-        "TVA",
         "レイ・デュース",
         "冈田磨里",
         "冈田麿里",
@@ -4053,6 +4086,7 @@
         "漫改",
         "漫画改",
         "百合",
+        "福山润",
         "胃疼",
         "胃药",
         "贵乱",
@@ -4287,16 +4321,16 @@
         "大卫社",
         "奇幻",
         "守岡英行",
-        "悠木碧",
         "战斗",
         "搞笑",
+        "日本",
         "日本动画",
+        "末廣健一郎",
         "梶原岳人",
         "漫改",
         "漫画改",
         "炎炎消防队",
         "热血",
-        "王道",
         "蓜島岳斗",
         "超能力"
       ],
@@ -4577,25 +4611,24 @@
         "2019",
         "2019夏",
         "2019年",
+        "2019年4月",
         "2019年7月",
         "MAPPA",
         "TV",
+        "a.Anime",
         "cygames",
+        "f.日本",
+        "三话弃",
         "中村悠一",
-        "二〇一九年",
         "兽化",
-        "加隈亚衣",
-        "动画",
         "奇幻",
         "宍户淳",
         "宍戸淳",
         "小西克幸",
-        "屹青",
         "待上映",
         "战斗",
         "日本",
         "日本动画",
-        "智商下线",
         "村越繁",
         "津田健次郎",
         "漫改",
@@ -4603,7 +4636,8 @@
         "热血",
         "石川界人",
         "能登麻美子",
-        "致曾为神之众兽"
+        "致曾为神之众兽",
+        "萌二"
       ],
       "infobox": [
         {
@@ -4791,8 +4825,8 @@
         "TMSEntertainment",
         "TMS_Entertainment",
         "TV",
-        "トムス・エンタテインメント",
         "中村悠一",
+        "冒险",
         "半年番",
         "古川慎",
         "奇幻",
@@ -5064,12 +5098,12 @@
         "梦太",
         "梦太公司",
         "游戏改",
-        "游改",
         "片貝慎",
         "片贝慎",
         "牧野天音",
         "百合",
         "萌",
+        "轻百合",
         "音乐"
       ],
       "infobox": [
@@ -5615,11 +5649,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/43/6a/456251_s0B1F.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/43/6a/456251_s0B1F.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/43/6a/456251_s0B1F.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/43/6a/456251_s0B1F.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/6a/456251_s0B1F.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/43/6a/456251_qn9OM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/43/6a/456251_qn9OM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/43/6a/456251_qn9OM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/43/6a/456251_qn9OM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/6a/456251_qn9OM.jpg"
           },
           "name": "あんさんぶるスターズ！！追憶セレクション『チェックメイト』",
           "name_cn": "偶像梦幻祭 追忆Selection『Checkmate』",
@@ -6326,26 +6360,27 @@
       "name": "コップクラフト",
       "name_cn": "COP CRAFT",
       "tags": [
+        "19-7",
         "2019",
         "2019夏",
         "2019年",
         "2019年7月",
+        "Millepensee",
         "TV",
         "millepensee",
         "ミルパンセ",
         "全缉毒狂潮",
         "奇幻",
-        "季番",
         "小说改",
         "岩崎琢",
         "异世界",
         "悬疑",
         "战斗",
-        "日本",
         "日本动画",
         "村田莲尔",
         "板垣伸",
         "津田健次郎",
+        "热血",
         "犯罪",
         "科幻",
         "穿越",
@@ -6354,8 +6389,7 @@
         "賀東招二",
         "贺东招二",
         "轻小说改",
-        "轻改",
-        "都市"
+        "轻改"
       ],
       "infobox": [
         {
@@ -6504,22 +6538,18 @@
       "name_cn": "高校星歌剧 第三季",
       "tags": [
         "2019",
-        "2019夏",
         "2019年7月",
         "C-Station",
-        "KenArai",
         "TV",
-        "「✘」",
         "ハラダサヤカ",
         "偶像",
         "内田雄馬",
-        "冈本信彦",
         "前野智昭",
-        "动画",
         "原创",
-        "原创动画",
-        "基",
         "多田俊介",
+        "女性向",
+        "小野賢章",
+        "斉藤壮馬",
         "日本",
         "日本动画",
         "校园",
@@ -6527,9 +6557,13 @@
         "森川智之",
         "歌番",
         "武内骏辅",
+        "浪川大辅",
         "渡边亚彩美",
         "细谷佳正",
         "续作",
+        "花江夏树",
+        "花江夏樹",
+        "诹访部顺一",
         "音乐",
         "高校星歌剧",
         "齐藤壮马"
@@ -6861,12 +6895,12 @@
         "GIVEN",
         "Lerche",
         "TV",
-        "a.Anime",
         "f.日本",
         "noitaminA",
         "キヅナツキ",
         "乐队",
         "内田雄馬",
+        "可重温",
         "基",
         "山口ひかる",
         "恋爱",
@@ -7137,6 +7171,7 @@
         "BEM",
         "LandQStudios",
         "LandQ_studios",
+        "LandQstudios",
         "M・A・O",
         "Production.I.G",
         "ProductionI.G",
@@ -7144,7 +7179,6 @@
         "TV",
         "ランドック・スタジオ",
         "冨岡淳広",
-        "动画",
         "原创",
         "坂本真绫",
         "奇幻",
@@ -7558,6 +7592,7 @@
         "2019年夏季番",
         "ILCA",
         "TV",
+        "七期",
         "五星",
         "佐佐木充郭",
         "动画",
@@ -7571,7 +7606,6 @@
         "恐怖",
         "惊悚",
         "日常",
-        "日本",
         "日本动画",
         "暗芝居",
         "泡面",
@@ -7949,16 +7983,20 @@
           "value": "坂本みねぢ"
         },
         {
+          "key": "导演",
+          "value": "加藤誠"
+        },
+        {
+          "key": "人物设定",
+          "value": "中井準"
+        },
+        {
           "key": "道具设计",
           "value": "江間一隆"
         },
         {
           "key": "魔术考证",
           "value": "三輪清宗"
-        },
-        {
-          "key": "人物设定",
-          "value": "中井準"
         }
       ],
       "total_episodes": 14,
@@ -8244,7 +8282,6 @@
         "2019",
         "2019年",
         "2019年7月",
-        "8分",
         "TV",
         "WIT",
         "WITSTUDIO",
@@ -8261,6 +8298,7 @@
         "成长",
         "战争",
         "战斗",
+        "日本",
         "海盗",
         "海盗战记",
         "漫改",
@@ -8452,11 +8490,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/2e/289917_CSSVp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/2e/289917_CSSVp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/2e/289917_CSSVp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/2e/289917_CSSVp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/2e/289917_CSSVp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/2e/289917_uxXuQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/2e/289917_uxXuQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/2e/289917_uxXuQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/2e/289917_uxXuQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/2e/289917_uxXuQ.jpg"
           },
           "name": "Drown / You &amp; I",
           "name_cn": "",
@@ -8774,6 +8812,7 @@
         "3D",
         "7",
         "LARXENTERTAINMENT",
+        "LARX_ENTERTAINMENT",
         "Netflix",
         "TV",
         "WEB",
@@ -8793,7 +8832,6 @@
         "漫改",
         "漫画改",
         "热血",
-        "爽",
         "石田彰",
         "运动",
         "鈴木達央"
@@ -9426,10 +9464,10 @@
         "2019",
         "2019年7月",
         "GUNDAM",
-        "ROBO",
         "SUNRISE",
         "TV",
         "WEB",
+        "robo",
         "⊘日本",
         "☐",
         "サンライズ",
@@ -9803,7 +9841,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/94/136802_8ymyj.jpg"
           },
           "name": "少女前线",
-          "name_cn": "",
+          "name_cn": "少女前线",
           "relation": "游戏",
           "type": 4,
           "id": 136802
@@ -10177,6 +10215,7 @@
         "2019年",
         "2019年7月",
         "8-Bit",
+        "8-bit",
         "8bit",
         "OAD",
         "OVA",
@@ -10201,8 +10240,7 @@
         "菊地康仁",
         "転生したらスライムだった件",
         "轻小说改",
-        "轻改",
-        "龙傲天"
+        "轻改"
       ],
       "infobox": [
         {
