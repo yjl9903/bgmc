@@ -50,7 +50,9 @@
         "poster_path": "/nH9HZrygttwBBSSfWOggUmcYfzj.jpg",
         "media_type": "tv",
         "genre_ids": [
-          16
+          16,
+          18,
+          10765
         ],
         "first_air_date": "2018-07-09",
         "origin_country": [
@@ -161,7 +163,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kZRZPsvFwYVHgYKzQWi18kOF4G.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+          16
+        ],
         "id": 92365,
         "origin_country": [
           "JP"

@@ -34,23 +34,29 @@
       "id": "14878"
     },
     "tmdb": {
-      "id": 1164894,
-      "type": "movie",
+      "id": 20353,
+      "type": "tv",
+      "season": 4,
       "search": {
         "adult": false,
-        "backdrop_path": null,
-        "id": 1164894,
-        "title": "Doremi and the Witch That Stopped Being a Witch",
-        "original_language": "ja",
-        "original_title": "どれみと魔女をやめた魔女",
-        "overview": "Doremi, who has no clue about her future, meets a retired witch named Mirai, who gives her guidance.",
-        "poster_path": "/mNQFlb4iDbYdccQUovDbTs1NloA.jpg",
-        "media_type": "movie",
+        "backdrop_path": "/zJi8eaweBRbCjQU5C1HxucUCW6i.jpg",
         "genre_ids": [
-          16
+          16,
+          35,
+          10765,
+          10759,
+          10762
         ],
-        "release_date": "2002-11-10",
-        "video": false
+        "id": 20353,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "おジャ魔女どれみ",
+        "overview": "这是一个魔女与人类共存的世界，为保证魔女身份不被揭穿，被人类发现真实身份的魔女会变成魔女青蛙，唯有另一个拥有正式身份的魔女才能解开魔法。一次偶然中，一直梦想能够成为魔女的Doremi识破了魔女莉卡的身份，无奈之下，莉卡将春风收为见习魔女。春风须经历漫长而艰苦的修炼，通过魔女考试才能获得魔女资格。\n\n故事舞台发生在架空的城市──日本美空市美空町，除此之外还有魔女世界和魔法堂等。顺带一提，虽然香港和台湾的小魔女DoReMi相关产品（漫画、精品等）仍然遵照下述译名，但动画部分，无线电视播放的版本一律称为《小魔女DoReMi》，并不作任何区分，东森幼幼台方面则是以第几部来区分。",
+        "poster_path": "/iCINo8JNXswWelsEycO1frahHS1.jpg",
+        "first_air_date": "1999-02-07",
+        "name": "小魔女DoReMi"
       }
     }
   },

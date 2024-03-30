@@ -1044,14 +1044,20 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
-        "genre_ids": [],
+        "genre_ids": [
+          16,
+          10765,
+          10762,
+          35
+        ],
         "id": 107036,
         "origin_country": [
-          "JP"
+          "JP",
+          "KR"
         ],
-        "original_language": "en",
+        "original_language": "ja",
         "original_name": "スペースバグ",
-        "overview": "This story is about Mick, a sleeping chironomid. Insects are taken up into space for use in experiments by humans. An epic space adventure of Mick and his friends of their journey back home to Earth. The development plans and experiments are aborted by humans for no known reason, the organisms are left behind in the space station with limited resources. Going over hurdles and fighting through challenges, together, they travel across planets and gain new comrades, heading for Earth. As their journey progresses, the mystery behind the human’s abandonment unravels…",
+        "overview": "This story is about Mick, a sleeping chironomid. Insects are taken up into space for use in experiments by humans. An epic space adventure of Mick and his friends of their journey back home to Earth.\n\nThe development plans and experiments are aborted by humans for no known reason, the organisms are left behind in the space station with limited resources. Going over hurdles and fighting through challenges, together, they travel across planets and gain new comrades, heading for Earth. As their journey progresses, the mystery behind the human’s abandonment unravels…",
         "poster_path": "/c9eZlHkY0HViguUBZXynLzgcyrG.jpg",
         "first_air_date": "2018-07-08",
         "name": "Space Bug"
@@ -1129,7 +1135,9 @@
         "adult": false,
         "backdrop_path": "/gTPwFRah0oxiApaPktfWMmINqhd.jpg",
         "genre_ids": [
-          16
+          16,
+          18,
+          10765
         ],
         "id": 80732,
         "origin_country": [
@@ -1696,7 +1704,7 @@
       "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/zZIPruONHcBsUWAfacGgu4UtNuw.jpg",
+        "backdrop_path": "/7GaznibgPchg31lTebrbNeVzVjs.jpg",
         "id": 567767,
         "title": "鲁邦三世：现在还在燃烧吗？",
         "original_language": "ja",
@@ -1711,7 +1719,7 @@
           80,
           16
         ],
-        "release_date": "2018-07-25",
+        "release_date": "2021-10-01",
         "video": false
       }
     }

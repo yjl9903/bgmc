@@ -251,7 +251,11 @@
         "backdrop_path": "/bpbWrKlBRxtp1iCxtHDC5Y1eMEs.jpg",
         "genre_ids": [
           10759,
-          16
+          16,
+          35,
+          10762,
+          10765,
+          10751
         ],
         "id": 67667,
         "origin_country": [
@@ -372,7 +376,9 @@
         "backdrop_path": "/6llzd3LLcMqfNSsi5W1HAGlPdeS.jpg",
         "genre_ids": [
           10759,
-          16
+          16,
+          18,
+          10765
         ],
         "id": 61374,
         "origin_country": [
@@ -640,7 +646,11 @@
         "backdrop_path": "/5meyZ1ZcmpcKqNUr8V6IVrRBwh3.jpg",
         "genre_ids": [
           16,
-          35
+          35,
+          18,
+          10751,
+          10762,
+          10765
         ],
         "id": 79024,
         "origin_country": [
@@ -730,7 +740,8 @@
         "genre_ids": [
           16,
           10759,
-          18
+          18,
+          10765
         ],
         "id": 77939,
         "origin_country": [
@@ -1112,7 +1123,8 @@
           16,
           10759,
           35,
-          18
+          18,
+          10765
         ],
         "id": 77701,
         "origin_country": [
@@ -1333,7 +1345,7 @@
         "overview": "卡利古拉动画全集是由Furyu发行的同名学园RPG游戏改编的。动画将于2018年4月播出。本作是一款以现代病理、心理创伤为焦点的校园式RPG，卡里古拉意味着“越是看不见的东西就越想看见，越是不能得到的东西就越想得到”的“卡里古拉效应”。",
         "poster_path": "/epAhPqfiRoyIxeNpldQ6bZ1YZuO.jpg",
         "first_air_date": "2018-04-08",
-        "name": "卡里古拉"
+        "name": "卡利古拉"
       }
     }
   },
@@ -1831,7 +1843,7 @@
         "original_language": "ja",
         "original_name": "シュタインズ・ゲート ゼロ",
         "overview": "2010年11月β世界线——\n\n主人公·冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\n\n跌落失意谷底的冈部伦太郎。担心着他的同伴们。\n\n没能得到拯救的“她”将会变得如何？\n\n迎来新的角色，描绘而成的“零”之物语。",
-        "poster_path": "/lmx0rW83DCh60ARiZqM6DY2XJhB.jpg",
+        "poster_path": "/9u07yBllJTBRIcYxnfbgUxougk5.jpg",
         "first_air_date": "2018-04-12",
         "name": "命运石之门 0"
       }
@@ -1879,7 +1891,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/837hGmZa8umeWJbxRmCcvlqQVTl.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
         "id": 126340,
         "origin_country": [
           "JP"
@@ -2118,11 +2134,13 @@
         "poster_path": "/9jMR1AjV549jLpmodxlNIdMuSPj.jpg",
         "media_type": "movie",
         "genre_ids": [
+          12,
+          28,
           16,
+          10751,
           80,
           9648,
-          28,
-          18
+          53
         ],
         "release_date": "2018-04-13",
         "video": false
@@ -2230,7 +2248,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kZRZPsvFwYVHgYKzQWi18kOF4G.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+          16
+        ],
         "id": 92365,
         "origin_country": [
           "JP"

@@ -351,8 +351,8 @@
         ],
         "id": 104366,
         "origin_country": [
-          "JP",
-          "FR"
+          "FR",
+          "JP"
         ],
         "original_language": "ja",
         "original_name": "GO!GO!アトム",
@@ -616,7 +616,11 @@
         "backdrop_path": "/sb7bBvr9pRlTkDBI8zPkyuRRNk8.jpg",
         "genre_ids": [
           16,
-          10765
+          10765,
+          35,
+          18,
+          10762,
+          10751
         ],
         "id": 94313,
         "origin_country": [
@@ -979,7 +983,7 @@
         "overview": "《梦幻之星Online2 EPISODE ORACLE》于2019年10月开始放送，全25话。故事内容是将原作游戏的「EPISODE 1-3」重新整合的原创故事。",
         "poster_path": "/f89UBSLFrF2HRqmyxSFnhfZQny5.jpg",
         "first_air_date": "2019-10-07",
-        "name": "梦幻之星 神谕篇"
+        "name": "梦幻之星Online2 神谕篇"
       }
     }
   },
@@ -1143,7 +1147,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/837hGmZa8umeWJbxRmCcvlqQVTl.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
         "id": 126340,
         "origin_country": [
           "JP"
@@ -1661,40 +1669,9 @@
         "original_language": "ja",
         "original_name": "PSYCHO-PASS サイコパス",
         "overview": "在人类的心理状态和性格倾向都将即时的数值化的未来。人们为了实现“好的人生”的数值指标，而将所有的感情、欲望、社会病态心理倾向等记录并管理起来。判断人类心之所在的方法，则是以某些人的个人灵魂本身作为标准，而这些被作为计测值的人们，他们被称为“PSYCHO-PASS”。其中与犯罪相关的数值也用“犯罪系数”来计测，犯罪者们就根据这些数值被制裁。维持治安的警察们常常和抓捕犯人们的行动部队“执行官”、以及监视指挥执行官们的“监视官”们一起作为一支队伍执行任务。自身就有着相当高的犯罪系数、能够接近犯罪根源的搜查官才能够成为优秀的“执行官”。因为“执行官”也有着可能孕育成犯罪者的危险倾向，所以就需要对搜查行动有着冷静的判断力的精英“监视官”来监视。公安局刑事科第一分队的成员们各怀想法，虽然常常会与真正的正义相悖却不得不继续执行任务。他们的所面临的彼岸将会有着什么？",
-        "poster_path": "/29lrxUigmlzfbZQwdtCE8QUXguN.jpg",
+        "poster_path": "/kYW26H4M0eNyWelYQifFouliygN.jpg",
         "first_air_date": "2012-10-12",
         "name": "心理测量者"
-      }
-    }
-  },
-  {
-    "title": "Thunderbolt Fantasy 西幽玹歌",
-    "date": "2019-10-24T16:00:00.000Z",
-    "bangumi": {
-      "id": "278683"
-    },
-    "tmdb": {
-      "id": 642586,
-      "type": "movie",
-      "search": {
-        "adult": false,
-        "backdrop_path": "/gOjLDFzdAUkuZ2NMNTYQkxhXSTr.jpg",
-        "id": 642586,
-        "title": "东离剑游纪 西幽玹歌",
-        "original_language": "ja",
-        "original_title": "Thunderbolt Fantasy 西幽玹歌",
-        "overview": "生来便怀有异能歌声的少年浪巫谣，自小便跟在隐遁雪山的盲眼母亲身边，接受经年累月的苛刻训练。母亲怀着野心，想将儿子的歌声锻炼成天下无双，然后送入宫廷。然而过于苛刻的训练却招致了不幸的事故，母亲在浪巫谣眼前断送了性命。失去了母亲的浪巫谣成了流浪之身。但他的异能却总被无情的人们利用，成为他们满足欲望的道具，渐渐消磨著少年的心灵。  　　尽管如此，浪巫谣罕见的歌声终于吸引到了西幽皇女，因而得到了过去母亲所梦想的飞黄腾达。但是等待着他的，却是成为执政者玩物、赌上性命与其他乐师进行演奏竞赛的残忍游戏。就在某一天，浪巫谣听闻有一名在西幽各地夺取魔剑、占为己有的大罪人──“啖剑太岁”。而啖剑太岁的下一个目标，正是皇帝藏在宫中的圣剑。",
-        "poster_path": "/p5sHV49UgS4OWCKXjo9Zg6DBSr3.jpg",
-        "media_type": "movie",
-        "genre_ids": [
-          28,
-          18,
-          14,
-          12,
-          16
-        ],
-        "release_date": "2019-10-25",
-        "video": false
       }
     }
   },
@@ -1785,6 +1762,37 @@
     }
   },
   {
+    "title": "Thunderbolt Fantasy 西幽玹歌",
+    "date": "2019-10-25",
+    "bangumi": {
+      "id": "278683"
+    },
+    "tmdb": {
+      "id": 642586,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/gOjLDFzdAUkuZ2NMNTYQkxhXSTr.jpg",
+        "id": 642586,
+        "title": "东离剑游纪 西幽玹歌",
+        "original_language": "ja",
+        "original_title": "Thunderbolt Fantasy 西幽玹歌",
+        "overview": "生来便怀有异能歌声的少年浪巫谣，自小便跟在隐遁雪山的盲眼母亲身边，接受经年累月的苛刻训练。母亲怀着野心，想将儿子的歌声锻炼成天下无双，然后送入宫廷。然而过于苛刻的训练却招致了不幸的事故，母亲在浪巫谣眼前断送了性命。失去了母亲的浪巫谣成了流浪之身。但他的异能却总被无情的人们利用，成为他们满足欲望的道具，渐渐消磨著少年的心灵。  　　尽管如此，浪巫谣罕见的歌声终于吸引到了西幽皇女，因而得到了过去母亲所梦想的飞黄腾达。但是等待着他的，却是成为执政者玩物、赌上性命与其他乐师进行演奏竞赛的残忍游戏。就在某一天，浪巫谣听闻有一名在西幽各地夺取魔剑、占为己有的大罪人──“啖剑太岁”。而啖剑太岁的下一个目标，正是皇帝藏在宫中的圣剑。",
+        "poster_path": "/p5sHV49UgS4OWCKXjo9Zg6DBSr3.jpg",
+        "media_type": "movie",
+        "genre_ids": [
+          28,
+          18,
+          14,
+          12,
+          16
+        ],
+        "release_date": "2019-10-25",
+        "video": false
+      }
+    }
+  },
+  {
     "title": "冴えない彼女の育てかた Fine",
     "date": "2019-10-26",
     "bangumi": {
@@ -1838,7 +1846,7 @@
         "original_language": "en",
         "original_name": "Hazbin Hotel",
         "overview": "地狱公主夏莉·晨星努力说服一众恶魔与天使，地狱的灵魂可以被救赎。这部有歌唱有咒骂的成人音乐喜剧讲述灵魂获得第二次机会的故事。",
-        "poster_path": "/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+        "poster_path": "/dTiZBcnMHSMfc4QVIbgULIWPcwL.jpg",
         "first_air_date": "2024-01-18",
         "name": "地狱客栈"
       }
