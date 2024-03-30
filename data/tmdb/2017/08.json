@@ -96,21 +96,26 @@
       "id": "212459"
     },
     "tmdb": {
-      "id": 1160010,
-      "type": "movie",
+      "id": 60863,
+      "type": "tv",
+      "season": 0,
       "search": {
         "adult": false,
-        "backdrop_path": null,
-        "id": 1160010,
-        "title": "排球少年：特集！赌在春高上的青春",
-        "original_language": "zh",
-        "original_title": "排球少年：特集！赌在春高上的青春",
-        "overview": "原作漫画单行本第27卷限定版同捆，各校选手采访篇。",
-        "poster_path": null,
-        "media_type": "movie",
-        "genre_ids": [],
-        "release_date": "2017-08-04",
-        "video": false
+        "backdrop_path": "/zotzm1IzazadBQOSocTQ8Ta1bCb.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "id": 60863,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ハイキュー!!",
+        "overview": "童年时一次看电视转播的经历，在少年日向翔阳的心中种下了排球的种子。他在初中时代是排球部的主将，可是人丁寥落的排球部始终没有起色，唯一一场比赛也已惨败告终。在此之后，他终于如愿考入梦寐以求的学府乌野高中，并加入了该校的排球部。当年翔阳在电视上看到的正是乌野高中的比赛，如今这个学校的排球却正面临着衰败的命运。与宿命的对手和好友影山飞雄聚首于此，心怀排球梦想的少年们将团结一心，带领着乌野这名王者再度振翅高飞。",
+        "poster_path": "/gpna2w6NF83I9LX2eQRCdBzz6kF.jpg",
+        "first_air_date": "2014-04-06",
+        "name": "排球少年"
       }
     }
   },
@@ -328,35 +333,6 @@
     }
   },
   {
-    "title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い",
-    "date": "2017-08-26",
-    "bangumi": {
-      "id": "193373"
-    },
-    "tmdb": {
-      "id": 461083,
-      "type": "movie",
-      "search": {
-        "adult": false,
-        "backdrop_path": "/6krwKHCp9KQtboITamlCEjeXLde.jpg",
-        "genre_ids": [
-          28,
-          16,
-          18,
-          14
-        ],
-        "id": 461083,
-        "original_language": "ja",
-        "original_title": "劇場版 Fate/kaleid liner プリズマ☆イリヤ 雪下の誓い",
-        "overview": "“我想我可以说出来了。我与美游的……至今为止的故事”  世界向着毁灭前进。能够阻止毁灭的步伐的，唯有身为“圣杯”的美游的牺牲而已。要选择世界，还是美游——。面对发起“世界的救济”的爱因兹华斯所提出的这个问题，伊莉雅给出的答案是，“拯救双方”这种单纯的“任性”。  战斗迎来暂时的休止，一行人暂时栖身于美游与士郎成长的家中。在众人团聚的途中，士郎开始讲述自己与美游的过去。  曾经能够无差别地实现任何愿望的神稚儿美游。士郎将无家可归的她带回了自己与切嗣一同生活过的家里。在那之后过了5年。两人如同亲兄妹一般度过着平稳的生活。  但，这样的日常却突然迎来了结束。造访美游老家的两人。在他们的面前，将美游当成“奇迹”地追求的朱利安出现了——。  美游与士郎、爱因兹华斯的因缘，在此揭晓。",
-        "poster_path": "/dGxZJ7SNWGG2h7nzxqotbpBcx4V.jpg",
-        "release_date": "2017-08-26",
-        "title": "剧场版 Fate／kaleid liner 魔法少女☆伊莉雅 雪下的誓言",
-        "video": false
-      }
-    }
-  },
-  {
     "title": "阿修羅少女～BLOOD-C異聞～",
     "date": "2017-08-26",
     "bangumi": {
@@ -373,7 +349,7 @@
         "original_language": "ja",
         "original_title": "阿修羅少女～BLOOD-C 異聞～",
         "overview": "　　92年功夫美少女青野枫领衔经典漫改真人版作品，战前军事政权下的日本，极度蛮横的特高警察VS村民，以血还血的战斗开始了！",
-        "poster_path": "/oC79YE6FdNz1T31VBEkqAjZGaMT.jpg",
+        "poster_path": "/jCyB4wnseroOkuVqeKYMXOzMRbJ.jpg",
         "media_type": "movie",
         "genre_ids": [
           28

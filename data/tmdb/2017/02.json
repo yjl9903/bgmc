@@ -20,7 +20,7 @@
         ],
         "id": 357407,
         "original_language": "ja",
-        "original_title": "Gyakusatsu Kikan",
+        "original_title": "虐殺器官",
         "overview": "《虐杀器官》的舞台将设定在赛拉耶佛核爆后的地球，此时部分落后国家爆发了一连串内战及民族冲突，在这血腥风暴之中，美国特殊情报部队「克拉维斯（クラヴィス）」发现了在阴影之下有一名叫「约翰·保罗（ジョン・ポール）」的美国人参与其中，约翰路过之处必定掀起腥风血雨，这让众人疯狂的「虐杀器官」到底是什么？",
         "poster_path": "/iDclwXgOxnr9Vgl7HYG2drTtho8.jpg",
         "release_date": "2017-02-03",
@@ -72,10 +72,12 @@
         "adult": false,
         "backdrop_path": "/uVz5wSW1Z3u3fN6hL9uFwgSxy1H.jpg",
         "genre_ids": [
-          16,
           10765,
+          16,
           10759,
-          35
+          35,
+          10751,
+          10762
         ],
         "id": 69289,
         "origin_country": [
@@ -193,7 +195,6 @@
           28,
           12,
           14,
-          10749,
           878
         ],
         "id": 413594,
@@ -220,10 +221,10 @@
         "adult": false,
         "backdrop_path": null,
         "id": 999118,
-        "title": "ONIHEI: That Man, Heizo Hasegawa",
+        "title": "鬼平～那个男人、长谷川平藏～",
         "original_language": "ja",
         "original_title": "鬼平~その男, 長谷川平蔵~",
-        "overview": "Edo period, Heizo Hasegawa was feared by thieves and villains as \"Heizo the Oni\". A young man inspects Heizo's surroundings to find out more about him, visiting Kumehachi, Hikoju, and Omasa. Heizo's true colors as a person start to become apparent.",
+        "overview": "时值江户后期，有一个被极其暴虐的盗贼们称为“鬼”并畏惧着的男人。这个人正是“鬼之平藏”火付盗贼改方·长谷川平藏。火付盗贼改方，是特别警察的一种，不仅负责取缔江户市内外的犯罪，还能去他国抓捕犯罪者，是一个机动性很高的组织。然而平藏并不是个只忠于职务的顽固男人，有时也会对犯罪者手下留情。平藏绝不容许的，是非人道。《盗贼三项》——不杀人，不奸污妇女，不偷盗要倒闭的店——一旦违反这三条，背弃人道的人则决不饶恕。",
         "poster_path": "/fvkVLwiRJnvx7jQzngjL1pejmwp.jpg",
         "media_type": "movie",
         "genre_ids": [
@@ -310,9 +311,12 @@
         "adult": false,
         "backdrop_path": "/iuJTMrW5LP8SeRgN8iWPZbbyqm.jpg",
         "genre_ids": [
-          16,
           12,
-          28
+          28,
+          16,
+          10751,
+          14,
+          878
         ],
         "id": 422347,
         "original_language": "ja",

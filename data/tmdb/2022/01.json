@@ -224,13 +224,14 @@
         ],
         "id": 103409,
         "origin_country": [
-          "JP"
+          "JP",
+          "CN"
         ],
         "original_language": "ja",
         "original_name": "終末のハーレム",
         "overview": "西元2040年，罹患罕见疾病的青年——怜人，在与青梅竹马绘理沙相约再会之后接受了冷冻睡眠治疗。过了5年后，怜人醒来之后等待他的却是全世界99.9%的男性皆感染病毒而死，现存50亿人口大多为女性的世界。近未来情色悬疑漫画就此开幕。",
         "poster_path": "/8bt9aItz3pC4Vl1vUUp7vHTgjHh.jpg",
-        "first_air_date": "2021-10-08",
+        "first_air_date": "2022-01-07",
         "name": "终末的后宫"
       }
     }
@@ -368,7 +369,8 @@
         "genre_ids": [
           16,
           10759,
-          10765
+          10765,
+          10768
         ],
         "id": 117310,
         "origin_country": [
@@ -459,7 +461,7 @@
         "original_language": "ja",
         "original_name": "その着せ替え人形は恋をする",
         "overview": "男高中生五条新菜梦想着成为制作雏人形面部的「头师」。全身心地投入到制作雏人形后，他离同龄人的流行话题越来越远，以至于迟迟无法融入班级。对于这样的新菜来说，一直是班级中心人物的喜多川海梦简直像是生活在完全不同世界的人。然而有一天，一件意想不到的事情让他与海梦拥有了共同的秘密……！？两人原本毫无交集的世界因此产生了联系！",
-        "poster_path": "/4MewGfQu5Cxq04TiWyTdZDQeZEI.jpg",
+        "poster_path": "/qcVvlnovweMyWGMGMPSBYSpscB8.jpg",
         "first_air_date": "2022-01-09",
         "name": "更衣人偶坠入爱河"
       }
@@ -767,26 +769,26 @@
       "id": "331752"
     },
     "tmdb": {
-      "id": 1429,
-      "type": "tv",
+      "id": 1257390,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+        "backdrop_path": "/rA6RxeCy92lh5IElz3ndpDFz6Lk.jpg",
+        "id": 1257390,
+        "title": "进击的巨人 最终季 完结篇 后篇",
+        "original_language": "ja",
+        "original_title": "進撃の巨人 The Final season 完結編(後編)",
+        "overview": "艾伦为了毁灭世界，发动了「地鸣」。无数的巨人开始进攻，摧毁一切。米卡莎、阿尔敏、让、康尼、汉吉、莱纳、安妮、皮克，以及身受重伤的利威尔……剩下的人们为了阻止艾伦，展开了最后的战斗。",
+        "poster_path": "/2WWikeGTOabxzKlJYPCEDvQ2fWr.jpg",
+        "media_type": "movie",
         "genre_ids": [
           16,
-          10765,
-          10759
+          28,
+          18,
+          14
         ],
-        "id": 1429,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "進撃の巨人",
-        "overview": "曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
-        "poster_path": "/by4f66EHK82OZNyEuYbOW5RxFBa.jpg",
-        "first_air_date": "2013-04-07",
-        "name": "进击的巨人"
+        "release_date": "",
+        "video": false
       }
     }
   },
@@ -979,7 +981,7 @@
       "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": "/wcUTzxybqnchOZtX1FlUJAoAydj.jpg",
+        "backdrop_path": "/qulMEkeKTNo0ICTEW1rlODT3uOA.jpg",
         "genre_ids": [
           16,
           35,
@@ -1278,7 +1280,9 @@
       "search": {
         "adult": false,
         "backdrop_path": "/kZRZPsvFwYVHgYKzQWi18kOF4G.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+          16
+        ],
         "id": 92365,
         "origin_country": [
           "JP"

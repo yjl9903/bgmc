@@ -145,7 +145,7 @@
         "original_language": "ja",
         "original_name": "ワンパンマン",
         "overview": "主人公埼玉原本是一名整日奔波于求职的普通人。3 年前的一天偶然遇到了要对淘气少年下杀手的异变螃蟹人后，回忆起年少年时“想要成为英雄”的梦想，最终拼尽全力救下了淘气少年。重拾对于成为英雄的兴趣之后，通过拼命锻炼，埼玉终于脱胎换骨获得了最强的力量，但同时失去了头发变成了光头，似乎还失去了某些感情。在无人知晓的情况下独自做了一段时间英雄后，与弟子杰诺斯一起，正式加入英雄协会，与众多英雄一起开始了对抗各种怪人以及灾难的生活 ……",
-        "poster_path": "/bS6GeCRInMRl6oQN6czCqPFdcHN.jpg",
+        "poster_path": "/jbYJuxfZMpYDalkiOnBcCv9TaL.jpg",
         "first_air_date": "2015-10-05",
         "name": "一拳超人"
       }
@@ -287,7 +287,7 @@
         "original_language": "ja",
         "original_name": "叛逆性ミリオンアーサー",
         "overview": "圣剑“Excalibur”。\n\n　　以不列颠的统治为目标，为了确定王而准备的选定之剑。\n\n　　拔出此剑之人将被称作“亚瑟”，并获得强大的力量。\n\n　　但，拔出Excalibur的不止一人。\n\n　　随着力量的大量产生，传说发生泛滥，并引发历史的歪曲。\n\n　　为了将历史导向正轨，被称为团长、铁拳、山猫、阁下、炼金、流浪的六位亚瑟，\n\n　　降临到过去之地“不列颠”。\n\n　　他们的使命，是将歪曲历史的Excalibur全部折断。\n\n　　其数量，约有100万。\n\n　　这是，对过去的叛逆。\n\n　　以及，守护未来现在的战斗——。",
-        "poster_path": "/lMSVJuKclEHtR7nKTK9t5eHoFAG.jpg",
+        "poster_path": "/cX9GWxuJZl3xoEuDha9l3tfOBHm.jpg",
         "first_air_date": "2018-10-25",
         "name": "叛逆性百万亚瑟王"
       }
@@ -481,13 +481,15 @@
         "backdrop_path": "/nTG4hwa7PyJaQdFOlj4swjRc2MZ.jpg",
         "genre_ids": [],
         "id": 100019,
-        "origin_country": [],
+        "origin_country": [
+          "JP"
+        ],
         "original_language": "ja",
         "original_name": "妖怪ウォッチ！",
-        "overview": "",
+        "overview": "A new season of Youkai Watch focusing on elementary schooler Keita Amano again. The events take place right after the original season; but still chronologically occur before the now complete Shadow Side events as they take place 30 years in the future.",
         "poster_path": "/7DG3cKqzdrEmdheVsMnICqVkRvd.jpg",
         "first_air_date": "2019-04-05",
-        "name": "妖怪ウォッチ！"
+        "name": "Yo-kai Watch!"
       }
     }
   },
@@ -540,7 +542,11 @@
         "media_type": "tv",
         "genre_ids": [
           10759,
-          16
+          16,
+          35,
+          10762,
+          10765,
+          10751
         ],
         "first_air_date": "2016-04-04",
         "origin_country": [
@@ -1242,7 +1248,8 @@
         "genre_ids": [
           16,
           10759,
-          10765
+          10765,
+          35
         ],
         "id": 86919,
         "origin_country": [
@@ -1347,7 +1354,8 @@
           12,
           80,
           10751,
-          9648
+          9648,
+          10749
         ],
         "release_date": "2019-04-12",
         "video": false

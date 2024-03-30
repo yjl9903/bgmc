@@ -19,8 +19,11 @@
         "poster_path": "/ouigEf38GDHsH5U46J7iwNUBqIN.jpg",
         "media_type": "tv",
         "genre_ids": [
-          16,
           10759,
+          16,
+          18,
+          80,
+          9648,
           10765
         ],
         "first_air_date": "2018-03-02",
@@ -83,7 +86,7 @@
         "id": 495925,
         "original_language": "ja",
         "original_title": "映画ドラえもん のび太の宝島",
-        "overview": "这一次，嘴里没把门的大雄（大原惠美 配音）又在胖虎（木村昴 配音）和小夫（关智一 配音）面前立下豪言壮语，“我一定要发现金银岛！”当然，一如既往地，哆啦A梦（水田山葵 配音）及时补位，拿出了秘密道具“金银岛地图”来，开始了前途未卜的寻宝之旅。谁曾想，寻宝地图居然在太平洋中心发现了一座新的岛屿。于是，大雄、哆啦A梦、胖虎、小夫以及静香（嘉数由美 配音）等伙伴们乘坐着巨船朝着目的地出发。最初的航海之旅当然充满惊险、快乐和刺激，但是危险也不期而至……",
+        "overview": "这一次，嘴里没把门的大雄 又在胖虎 和小夫 面前立下豪言壮语，“我一定要发现金银岛！”当然，一如既往地，哆啦A梦 及时补位，拿出了秘密道具“金银岛地图”来，开始了前途未卜的寻宝之旅。谁曾想，寻宝地图居然在太平洋中心发现了一座新的岛屿。于是，大雄、哆啦A梦、胖虎、小夫以及静香 等伙伴们乘坐着巨船朝着目的地出发。最初的航海之旅当然充满惊险、快乐和刺激，但是危险也不期而至……",
         "poster_path": "/wsBs2r7N7C8FTwAFlCoKrTP3hmf.jpg",
         "release_date": "2018-03-03",
         "title": "哆啦A梦：大雄的金银岛",
@@ -135,12 +138,13 @@
         "adult": false,
         "backdrop_path": null,
         "genre_ids": [
-          16
+          16,
+          14
         ],
         "id": 495872,
         "original_language": "ja",
         "original_title": "えんぎもん",
-        "overview": "",
+        "overview": "In the children's room of the Amanogawa household in the neighborhood of Shichifukujin, there are five Engimon: Haruo (a papier-mache dog), Kin-chan (a goldfish paper balloon), Hebikura (a bamboo snake), Chief Daruma (a daruma doll), and Koume (a Kokeshi doll). They are always watching over the siblings of the household, Himi and Yamato. One day, an Engimon from somewhere else appears, and Himi leaves the house to chase it. Haruo and his friends come alive, much to Yamato's surprise, and together they go to rescue Himi.",
         "poster_path": "/gGrswc5nLNgRkMIeaUPNGOI6uuJ.jpg",
         "release_date": "2018-03-10",
         "title": "Engimon",
@@ -293,27 +297,20 @@
       "id": "228109"
     },
     "tmdb": {
-      "id": 67075,
-      "type": "tv",
-      "season": 0,
+      "id": 1245852,
+      "type": "movie",
       "search": {
         "adult": false,
-        "backdrop_path": "/kP5duNJEbTfXpBs6CITsaZ88pQi.jpg",
-        "genre_ids": [
-          16,
-          10759,
-          35
-        ],
-        "id": 67075,
-        "origin_country": [
-          "JP"
-        ],
+        "backdrop_path": "/jwO4i8qZdzTip0dv8EUvkoFDjlM.jpg",
+        "genre_ids": [],
+        "id": 1245852,
         "original_language": "ja",
-        "original_name": "モブサイコ100",
-        "overview": "平凡的中学二年级少年影山茂夫，因其微弱的存在感与名字茂夫的谐音被周遭人称为龙套（モブ），但不起眼的他其实是强大的天生超能力者。历经每一次的成长，龙套开始认为自己的超能力是危险的存在，为了不让超能力失控，龙套无意识的压抑著情感。虽然只想平凡的度过每一天，但各种麻烦却接二连三找上他，随着被压抑的情感在内心一点点膨胀，龙套体内积累的力量似乎也正蠢蠢欲动......",
-        "poster_path": "/Ac3y0rLjPIQAhyg5ie68SQogXOb.jpg",
-        "first_air_date": "2016-07-12",
-        "name": "灵能百分百"
+        "original_title": "モブサイコ100 REIGEN ～知られざる奇跡の霊能力者～",
+        "overview": "平凡的中学二年级少年影山茂夫，因其微弱的存在感与名字茂夫的谐音被周遭人称为龙套（モブ）（路人），但不起眼的他其实是强大的天生超能力者。  　　历经每一次的成长，龙套开始认为自己的超能力是危险的存在，为了不让超能力失控，龙套无意识的压抑著情感。虽然只想平凡的度过每一天，但各种麻烦却接二连三找上他，随着被压抑的情感在内心一点点膨胀，龙套体内积累的力量似乎也正蠢蠢欲动……",
+        "poster_path": "/oXBnOItgjIoGdvvaOz13NR9qBCw.jpg",
+        "release_date": "2018-03-17",
+        "title": "灵能百分百 REIGEN～不为人知奇迹的灵能力者～",
+        "video": true
       }
     }
   },
