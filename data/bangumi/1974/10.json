@@ -195,7 +195,6 @@
         "TV",
         "TVA",
         "アニメ",
-        "东京MOVIE",
         "东京movie",
         "丸山裕子",
         "出崎统",
@@ -292,7 +291,6 @@
       "name": "宇宙戦艦ヤマト",
       "name_cn": "宇宙战舰大和号",
       "tags": [
-        "1970-1979",
         "1974",
         "1974年10月",
         "70年代",
@@ -321,7 +319,8 @@
         "经典",
         "萝卜",
         "补旧番",
-        "西崎义展"
+        "西崎义展",
+        "西崎義展"
       ],
       "infobox": [
         {
@@ -602,6 +601,20 @@
           "relation": "其他",
           "type": 3,
           "id": 415347
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/64/487207_86Ph8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/64/487207_86Ph8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/64/487207_86Ph8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/64/487207_86Ph8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/64/487207_86Ph8.jpg"
+          },
+          "name": "宇宙戦艦ヤマト パイロット版",
+          "name_cn": "宇宙战舰大和号 试播版",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 487207
         }
       ]
     }

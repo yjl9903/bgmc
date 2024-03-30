@@ -19,10 +19,13 @@
         "1988",
         "1988年",
         "80年代",
+        "IC",
         "StudioPierrot",
+        "ganeid",
         "ぴえろ",
         "剧场",
         "剧场版",
+        "原えりこ",
         "奇幻",
         "寺田憲史",
         "小丑社",
@@ -31,17 +34,14 @@
         "我是80生的，橙路是我",
         "文青气质",
         "日本",
-        "时泪",
-        "映画",
         "望月智充",
         "校园",
         "橙路",
+        "治愈",
         "漫改",
         "漫画改",
         "爱情",
         "电影",
-        "老物",
-        "远古",
         "青春",
         "高田明美",
         "鶴ひろみ",
@@ -429,6 +429,7 @@
       "name": "トップをねらえ!",
       "name_cn": "飞跃巅峰！",
       "tags": [
+        "1980s",
         "1988",
         "1988年",
         "1988年10月",
@@ -457,7 +458,6 @@
         "萝卜",
         "萝卜动画",
         "超热血",
-        "量子力学",
         "飞跃巅峰"
       ],
       "infobox": [
@@ -857,8 +857,9 @@
         "TVA",
         "TVB",
         "やなせたかし",
-        "东京movie",
+        "东京MOVIE",
         "动",
+        "动画",
         "動畫",
         "原创",
         "奇幻",
@@ -1745,6 +1746,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/5e/480675_Q38Un.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/5e/480675_Q38Un.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/79/5e/480675_Q38Un.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/5e/480675_Q38Un.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/5e/480675_Q38Un.jpg"
+          },
+          "name": "それいけ!アンパンマン リズムでうたおう! アンパンマン夏まつり",
+          "name_cn": "",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 480675
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/da/185732_5uQOr.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/da/185732_5uQOr.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/36/da/185732_5uQOr.jpg",
@@ -1801,17 +1816,59 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/f7/418493_JlK33.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/f7/418493_JlK33.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ba/f7/418493_JlK33.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/f7/418493_JlK33.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/f7/418493_JlK33.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/1d/480719_2pW2L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/1d/480719_2pW2L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d6/1d/480719_2pW2L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/1d/480719_2pW2L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/1d/480719_2pW2L.jpg"
+          },
+          "name": "それいけ！アンパンマン ふわふわフワリーと雲の国",
+          "name_cn": "面包超人 软绵绵与云之国",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 480719
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/9c/480879_1kJiE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/9c/480879_1kJiE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/9c/480879_1kJiE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/9c/480879_1kJiE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/9c/480879_1kJiE.jpg"
+          },
+          "name": "それいけ！アンパンマン ドロリンとバケ〜るカーニバル",
+          "name_cn": "面包超人 多洛林与妖怪嘉年华",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 480879
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/f7/418493_78ttM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/f7/418493_78ttM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ba/f7/418493_78ttM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/f7/418493_78ttM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/f7/418493_78ttM.jpg"
           },
           "name": "それいけ!アンパンマン ロボリィとぽかぽかプレゼント",
           "name_cn": "面包超人 乐波莉与暖呼呼礼物",
           "relation": "番外篇",
           "type": 2,
           "id": 418493
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/38/480882_OIOvu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/38/480882_OIOvu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/38/480882_OIOvu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/38/480882_OIOvu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/38/480882_OIOvu.jpg"
+          },
+          "name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+          "name_cn": "面包超人 细菌人与绘本的森林妖精",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 480882
         }
       ]
     }

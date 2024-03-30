@@ -323,6 +323,7 @@
         "あおい輝彦",
         "出崎统",
         "出﨑統",
+        "剧场",
         "剧场版",
         "动画",
         "动画（剧场版）",
@@ -342,8 +343,7 @@
         "竹内启雄",
         "藤岡重慶",
         "虫Production",
-        "虫制作",
-        "表番"
+        "虫制作"
       ],
       "infobox": [
         {
@@ -435,7 +435,7 @@
           },
           "name": "あしたのジョー ソングファイル ( サウンド・トラック ) TKCA-72506-K",
           "name_cn": "",
-          "relation": "片尾曲",
+          "relation": "其他",
           "type": 3,
           "id": 132921
         },
@@ -447,7 +447,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/28/132923_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/28/132923_jp.jpg"
           },
-          "name": "あしたのジョー 2 ― オリジナル・サウンドトラック",
+          "name": "映画「あしたのジョー2」オリジナル・サウンド・トラック",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -480,6 +480,20 @@
           "relation": "不同世界观",
           "type": 2,
           "id": 294836
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/73/486057_G2TBO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/73/486057_G2TBO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3c/73/486057_G2TBO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/73/486057_G2TBO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/73/486057_G2TBO.jpg"
+          },
+          "name": "あしたのジョー2のテーマ～明日への叫び～",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 486057
         }
       ]
     }
@@ -513,6 +527,7 @@
         "日本动画",
         "旧物",
         "机器人",
+        "机战",
         "机甲",
         "松岡洋子",
         "湯山邦彦",
@@ -552,10 +567,6 @@
         {
           "key": "播放结束",
           "value": "1981年12月28日"
-        },
-        {
-          "key": "imdb_id",
-          "value": "tt0294184"
         }
       ],
       "total_episodes": 26,

@@ -605,13 +605,16 @@
         "80年代",
         "80年代动画",
         "M1",
+        "TV",
         "あおい輝彦",
         "出崎统",
         "出﨑統",
+        "剧场",
         "剧场版",
         "动画",
         "已看漫画",
         "总集篇",
+        "拳击",
         "日本",
         "日本动画",
         "旧物",
@@ -620,13 +623,10 @@
         "漫改",
         "漫画改",
         "热血",
-        "电影",
         "福田阳一郎",
         "福田陽一郎",
-        "竞技",
         "藤岡重慶",
         "虫Production",
-        "虫プロダクション",
         "虫制作"
       ],
       "infobox": [
@@ -747,7 +747,7 @@
           },
           "name": "あしたのジョー ソングファイル ( サウンド・トラック ) TKCA-72506-K",
           "name_cn": "",
-          "relation": "插入歌",
+          "relation": "其他",
           "type": 3,
           "id": 132921
         },
@@ -773,7 +773,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/75/eb/134768_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/75/eb/134768_jp.jpg"
           },
-          "name": "あしたのジョー サントラ",
+          "name": "あしたのジョー オリジナル・サウンド・トラック盤",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -795,17 +795,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/52/442293_QQpEG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/52/442293_QQpEG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7e/52/442293_QQpEG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/52/442293_QQpEG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/52/442293_QQpEG.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/d3/486043_fIk42.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/d3/486043_fIk42.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/d3/486043_fIk42.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/d3/486043_fIk42.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/d3/486043_fIk42.jpg"
           },
-          "name": "あしたのジョー-美しき狼たち-尾藤イサオ",
-          "name_cn": "明日之丈 电影版主题歌 尾藤イサオ版",
+          "name": "あしたのジョー —美しき狼たち—",
+          "name_cn": "",
           "relation": "片头曲",
           "type": 3,
-          "id": 442293
+          "id": 486043
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/63/c6/486045_1DAVY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/63/c6/486045_1DAVY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/63/c6/486045_1DAVY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/63/c6/486045_1DAVY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/63/c6/486045_1DAVY.jpg"
+          },
+          "name": "グッバイ・ジョー",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 486045
         }
       ]
     }

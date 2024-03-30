@@ -18,7 +18,6 @@
       "tags": [
         "2010s",
         "2015",
-        "2015年",
         "2015年6月",
         "2015年7月",
         "TV",
@@ -30,17 +29,18 @@
         "国产动画",
         "国创",
         "国漫",
-        "國漫",
         "夏天岛",
         "奇幻",
         "恋爱",
         "战斗",
         "搞笑",
         "治愈",
+        "洛水花原",
         "漫改",
         "漫画改",
         "热血",
         "爱情",
+        "狐妖",
         "狐妖小红娘",
         "王昕",
         "绘梦",
@@ -69,7 +69,7 @@
         },
         {
           "key": "放送开始",
-          "value": "2015年6月26日－播放中"
+          "value": "2015年6月26日"
         },
         {
           "key": "放送星期",
@@ -80,8 +80,16 @@
           "value": "http://ac.qq.com/event/hyxhn/"
         },
         {
+          "key": "播放结束",
+          "value": "2015年11月27日"
+        },
+        {
+          "key": "网络播放平台",
+          "value": "腾讯视频、bilibili、优酷网、爱奇艺、niconico"
+        },
+        {
           "key": "原作",
-          "value": "小新"
+          "value": "小新(庹小新)（夏天岛工作室）"
         },
         {
           "key": "出品人",
@@ -120,40 +128,24 @@
           "value": "韩诚洁"
         },
         {
-          "key": "企画",
-          "value": "腾讯动漫"
+          "key": "分镜",
+          "value": "李庆韬、杨勇、方承辰、王昕、董易、王博、明佳瑛"
         },
         {
-          "key": "制作协力",
-          "value": "韩国绘梦、CMC Media"
+          "key": "音乐监制",
+          "value": "Riyo"
         },
         {
           "key": "音乐",
-          "value": "IBG、沈怡、桂子油"
+          "value": "IBG、沈佶、桂子油"
         },
         {
-          "key": "制作",
-          "value": "腾讯动漫"
+          "key": "混音",
+          "value": "鬼散樱"
         },
         {
-          "key": "网络播放平台",
-          "value": "腾讯视频、bilibili、优酷网、爱奇艺、niconico"
-        },
-        {
-          "key": "动画制作",
-          "value": "绘梦动画（绘梦）、洛水花原"
-        },
-        {
-          "key": "人物原案",
-          "value": "孟豪范"
-        },
-        {
-          "key": "导演",
-          "value": "王子轩（王昕）、f导演"
-        },
-        {
-          "key": "音乐制作",
-          "value": "腾讯音乐"
+          "key": "人物设定",
+          "value": "金秉范"
         }
       ],
       "total_episodes": 15,
@@ -748,9 +740,9 @@
         "Production.I.G",
         "WITSTUDIO",
         "WIT_STUDIO",
-        "剧场",
         "剧场版",
         "动画",
+        "动画电影",
         "后篇",
         "奇幻",
         "小林靖子",
@@ -993,15 +985,16 @@
       "tags": [
         "2015",
         "2015年",
-        "2015年4月",
         "2015年6月",
         "2015年四月番",
         "PIG作死又用冲方丁",
         "Production.I.G",
         "ProductionI.G",
+        "Production_I.G",
         "冲方丁",
         "剧场版",
         "劇場版",
+        "动作",
         "动画",
         "原创",
         "坂本真綾",
@@ -1011,7 +1004,6 @@
         "战斗",
         "攻壳机动队",
         "攻殻機動隊",
-        "日本",
         "松田健一郎",
         "漫改",
         "漫画改",
@@ -1199,6 +1191,20 @@
           "relation": "前传",
           "type": 2,
           "id": 384634
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/91/477110_KZ81t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/91/477110_KZ81t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a6/91/477110_KZ81t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/91/477110_KZ81t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/91/477110_KZ81t.jpg"
+          },
+          "name": "攻殻機動隊 PERFECT BOOK 1995→2017",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 477110
         }
       ]
     }
@@ -1223,6 +1229,7 @@
         "2015",
         "2015年",
         "2015年6月",
+        "LL",
         "LoveLive",
         "LoveLive!",
         "LoveLive！",
@@ -1240,7 +1247,6 @@
         "日本动画",
         "校园",
         "治愈",
-        "电影",
         "百合",
         "花田十輝",
         "花田十辉",
@@ -1306,7 +1312,23 @@
         },
         {
           "key": "製作",
-          "value": "サンライズ、バンダイビジュアル、ランティス、ブシロード、KADOKAWA、アスキー・メディアワークス"
+          "value": "2015 プロジェクトラブライブ！ムービー(サンライズ、バンダイビジュアル、ランティス、ブシロード、KADOKAWA、アスキー・メディアワークス)宮河恭夫、川城和実、井上俊次、木谷高明、塚田正晃"
+        },
+        {
+          "key": "执行制片人",
+          "value": "佐々木新、上山公一、櫻井優香、広瀬和彦、鈴木一智"
+        },
+        {
+          "key": "企划制作人",
+          "value": "田中紀明、木皿陽平、高野希義"
+        },
+        {
+          "key": "制片人",
+          "value": "平山理志、槙本裕紀、安達薫"
+        },
+        {
+          "key": "制作进行",
+          "value": "水沼佑太、石塚金吾、木村倫大、池本佑樹、山口詩喜、岡崎裕平、星越祐馬（project No.9）"
         }
       ],
       "total_episodes": 1,
@@ -1361,11 +1383,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/e3/402815_400Ke.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/e3/402815_400Ke.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/40/e3/402815_400Ke.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/e3/402815_400Ke.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/e3/402815_400Ke.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/e3/402815_zh8E7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/e3/402815_zh8E7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/e3/402815_zh8E7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/e3/402815_zh8E7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/e3/402815_zh8E7.jpg"
           },
           "name": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
           "name_cn": "LoveLive！学园偶像祭2",
@@ -2037,12 +2059,13 @@
         "OVA",
         "OVA-01",
         "pokemon",
+        "オー・エル・エム",
         "二〇一五年",
         "佐仓绫音",
-        "佐倉綾音",
         "光碟动画",
         "剧场版",
         "动画",
+        "原创",
         "口袋妖怪",
         "口袋怪兽",
         "宝可梦",
@@ -2050,12 +2073,11 @@
         "富冈淳广",
         "日本动画",
         "汤山邦彦",
-        "游戏",
         "游戏改",
+        "短片",
         "神奇宝贝",
-        "童年",
         "精灵宝可梦",
-        "釘宮理恵",
+        "萌",
         "钉宫",
         "钉宫理惠",
         "高桥直人"

@@ -17,11 +17,13 @@
       "name_cn": "NG骑士柠檬汽水&amp;40",
       "tags": [
         "1990",
+        "1990年",
+        "90s",
         "90年代",
         "ProductionReed",
-        "ROBO",
         "TV",
         "TVA",
+        "robo",
         "ねぎしひろし",
         "ぶらざあのっぽ",
         "ロボット",
@@ -40,11 +42,9 @@
         "童年",
         "经典",
         "苇PRODUCTION",
-        "苇Production",
         "草尾毅",
         "萝卜",
         "葦プロダクション",
-        "补",
         "赛璐珞"
       ],
       "infobox": [
@@ -330,24 +330,24 @@
           "value": "赤塚不二夫"
         },
         {
-          "key": "プロデューサー",
+          "key": "制片人",
           "value": "川田方寿、太田賢司、籏野義文、東伊里弥"
         },
         {
-          "key": "シリーズディレクター",
-          "value": "佐藤順一"
-        },
-        {
-          "key": "キャラクターデザイン",
-          "value": "直井正博"
-        },
-        {
-          "key": "美術デザイン",
+          "key": "美术设计",
           "value": "椋尾篁"
         },
         {
           "key": "音楽",
           "value": "吉田明彦"
+        },
+        {
+          "key": "导演",
+          "value": "佐藤順一"
+        },
+        {
+          "key": "人物设定",
+          "value": "直井正博"
         }
       ],
       "total_episodes": 34,
@@ -423,6 +423,7 @@
         "大森貴弘",
         "奇幻",
         "姆明一族",
+        "家庭",
         "年番&大长篇",
         "日本",
         "旧物",
@@ -433,7 +434,6 @@
         "温馨",
         "漫画改",
         "童年",
-        "经典",
         "赛璐珞",
         "！"
       ],
@@ -635,13 +635,13 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/e5/189822_xAfvX.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/e5/189822_xAfvX.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9f/e5/189822_xAfvX.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/e5/189822_xAfvX.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/e5/189822_xAfvX.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/e5/189822_u4RBF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/e5/189822_u4RBF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/e5/189822_u4RBF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/e5/189822_u4RBF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/e5/189822_u4RBF.jpg"
           },
-          "name": "夢の世界へ",
+          "name": "夢の世界へ / 遠いあこがれ",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -649,17 +649,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/d5/189823_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/d5/189823_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/64/d5/189823_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/d5/189823_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/d5/189823_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/d5/189823_a4ahl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/d5/189823_a4ahl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/d5/189823_a4ahl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/d5/189823_a4ahl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/d5/189823_a4ahl.jpg"
           },
-          "name": "おまじないのうた",
+          "name": "おまじないのうた / いつかすてきな旅",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
           "id": 189823
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/a4/375693_JfA1O.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/a4/375693_JfA1O.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/19/a4/375693_JfA1O.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/a4/375693_JfA1O.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/a4/375693_JfA1O.jpg"
+          },
+          "name": "Snufkin: Melody of Moominvalley",
+          "name_cn": "史力奇：姆明谷的旋律",
+          "relation": "游戏",
+          "type": 4,
+          "id": 375693
         }
       ]
     }

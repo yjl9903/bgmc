@@ -30,6 +30,7 @@
         "剧场版",
         "动画",
         "原创",
+        "小山高生",
         "巴达克",
         "战斗",
         "拯救世界",
@@ -41,10 +42,9 @@
         "漫画改",
         "热血",
         "童年",
-        "童年系列",
-        "菊池俊辅",
         "西尾大介",
         "隅沢克之",
+        "鸟山明",
         "龙珠"
       ],
       "infobox": [
@@ -418,10 +418,10 @@
       "name_cn": "至尊勇者",
       "tags": [
         "1990",
-        "ROBO",
         "StudioGallop",
         "TV",
         "TVA",
+        "robo",
         "なみきまさと",
         "増田裕生",
         "日本动画",
@@ -515,7 +515,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7a/3c/485845_Xmt9b.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7a/3c/485845_Xmt9b.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7a/3c/485845_Xmt9b.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/3c/485845_Xmt9b.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/3c/485845_Xmt9b.jpg"
+          },
+          "name": "カモン! ヘポイ / ダイナマイトCAT",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 485845
+        }
+      ]
     }
   },
   {
@@ -631,6 +646,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 450029
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/18/482655_LVm9B.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/18/482655_LVm9B.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/18/482655_LVm9B.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/18/482655_LVm9B.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/18/482655_LVm9B.jpg"
+          },
+          "name": "里見八犬伝",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 482655
         }
       ]
     }

@@ -22,7 +22,6 @@
         "2017年",
         "2017年7月",
         "TV",
-        "a.Anime",
         "f.日本",
         "ひなろじ",
         "动画工房",
@@ -37,8 +36,9 @@
         "日常",
         "日本",
         "校园",
-        "浪费生命",
         "百合",
+        "百合番(日常)",
+        "菅原雪絵",
         "萌",
         "萌豚",
         "萝莉",
@@ -976,9 +976,10 @@
         "2010s",
         "2017",
         "2017年",
+        "2017年4月",
         "2017年6月",
+        "2017年Web·SP",
         "6月",
-        "720P",
         "GUNDAM",
         "OVA",
         "SUNRISE",
@@ -996,7 +997,6 @@
         "泡面番",
         "清水理沙",
         "短片",
-        "秋天补的",
         "科幻",
         "萝卜",
         "观看史",
@@ -1165,12 +1165,12 @@
         "SILVERLINK.",
         "SLIVERLINK.",
         "上坂すみれ",
-        "二〇一七年",
         "剧场版",
         "动画",
         "反乌托邦",
         "妄想科学",
         "悬疑",
+        "新世纪OVA及剧场",
         "日本动画",
         "松冈祯丞",
         "松岡禎丞",
@@ -1844,6 +1844,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/2d/482314_p2UWW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/2d/482314_p2UWW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/2d/482314_p2UWW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/2d/482314_p2UWW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/2d/482314_p2UWW.jpg"
+          },
+          "name": "学園アイドルマスター",
+          "name_cn": "学园偶像大师",
+          "relation": "其他",
+          "type": 4,
+          "id": 482314
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/23/216770_83BLZ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/20/23/216770_83BLZ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/20/23/216770_83BLZ.jpg",
@@ -3944,11 +3958,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/c6/473436_dfvvI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/c6/473436_dfvvI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/c6/473436_dfvvI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/c6/473436_dfvvI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/c6/473436_dfvvI.jpg"
           },
           "name": "THE IDOLM@STER MILLION THE@TER VARIETY 05",
           "name_cn": "",
@@ -3983,6 +3997,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 473433
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/98/486447_v5v7e.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/98/486447_v5v7e.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2c/98/486447_v5v7e.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/98/486447_v5v7e.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/98/486447_v5v7e.jpg"
+          },
+          "name": "THE IDOLM@STER MILLION C@STING 03 ミステイク・マーダー！",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 486447
         }
       ]
     }
@@ -4435,6 +4463,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/2d/482314_p2UWW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/2d/482314_p2UWW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/2d/482314_p2UWW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/2d/482314_p2UWW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/2d/482314_p2UWW.jpg"
+          },
+          "name": "学園アイドルマスター",
+          "name_cn": "学园偶像大师",
+          "relation": "其他",
+          "type": 4,
+          "id": 482314
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/23/216770_83BLZ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/20/23/216770_83BLZ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/20/23/216770_83BLZ.jpg",
@@ -6535,11 +6577,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/c6/473436_dfvvI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/c6/473436_dfvvI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/c6/473436_dfvvI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/c6/473436_dfvvI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/c6/473436_dfvvI.jpg"
           },
           "name": "THE IDOLM@STER MILLION THE@TER VARIETY 05",
           "name_cn": "",
@@ -6574,6 +6616,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 473433
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/98/486447_v5v7e.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/98/486447_v5v7e.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2c/98/486447_v5v7e.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/98/486447_v5v7e.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/98/486447_v5v7e.jpg"
+          },
+          "name": "THE IDOLM@STER MILLION C@STING 03 ミステイク・マーダー！",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 486447
         }
       ]
     }

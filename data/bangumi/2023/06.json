@@ -28,10 +28,12 @@
         "三次元",
         "乐队",
         "偶像",
+        "剧情",
         "原创",
         "悬疑",
         "扭曲",
         "无法预测的命运之舞台",
+        "日常",
         "柿本广大",
         "柿本広大",
         "校园",
@@ -39,11 +41,9 @@
         "百合",
         "神作",
         "綾奈ゆにこ",
-        "绫奈由仁子",
         "羊宮妃那",
         "轻百合",
         "重力",
-        "重女",
         "青春",
         "音乐"
       ],
@@ -227,6 +227,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg"
+          },
+          "name": "BanG Dream!",
+          "name_cn": "",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 186515
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
@@ -266,34 +280,6 @@
           "relation": "片头曲",
           "type": 3,
           "id": 437672
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/ee/394260_VMqvV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/ee/394260_VMqvV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/01/ee/394260_VMqvV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/ee/394260_VMqvV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/ee/394260_VMqvV.jpg"
-          },
-          "name": "僕の心のヤバイやつ",
-          "name_cn": "我心里危险的东西",
-          "relation": "动画",
-          "type": 2,
-          "id": 394260
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg"
-          },
-          "name": "BanG Dream!",
-          "name_cn": "",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 186515
         },
         {
           "images": {
@@ -520,6 +506,7 @@
         "⊘日本",
         "☐",
         "【国家】日本",
+        "ブラッククローバー",
         "七下",
         "令和",
         "剧场版",
@@ -527,7 +514,6 @@
         "动画",
         "原创",
         "奇幻",
-        "待维护",
         "战斗",
         "战斗热血",
         "日本",
@@ -713,6 +699,20 @@
           "relation": "插入歌",
           "type": 3,
           "id": 441838
+        },
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
+          },
+          "name": "映画『ブラッククローバー 魔法帝の剣』サウンドトラックCD",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 486916
         }
       ]
     }
@@ -749,19 +749,19 @@
         "动画",
         "历史",
         "后宫",
+        "女多男少",
         "女性向",
         "宮野真守",
         "川井宪次",
         "性转",
         "日本",
+        "未分類",
         "松井恵理子",
         "架空",
         "永塚拓马",
         "漫改",
         "漫画改",
         "猎奇",
-        "王室",
-        "逻辑闭环",
         "阿部記之",
         "阿部记之"
       ],
@@ -937,6 +937,7 @@
         "劇場版アニメ",
         "女性向",
         "待上映",
+        "悬疑",
         "推理",
         "斉藤壮馬",
         "日本动画",
@@ -1091,7 +1092,6 @@
         "LoveLive",
         "LoveLive！",
         "OVA",
-        "OVA-01",
         "SUNRISE",
         "サンライズ",
         "偶像",
@@ -1099,8 +1099,8 @@
         "原创",
         "日本",
         "日本动画",
+        "有角色歌",
         "校园",
-        "楠木ともり",
         "河村智之",
         "田中仁",
         "百合",
@@ -1108,6 +1108,7 @@
         "续作",
         "虹咲",
         "虹团",
+        "远藤直树",
         "青春",
         "音乐",
         "鬼頭明里"
@@ -1264,11 +1265,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/eb/442614_WNLsq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/eb/442614_WNLsq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/68/eb/442614_WNLsq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/eb/442614_WNLsq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/eb/442614_WNLsq.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/eb/442614_o0v1j.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/eb/442614_o0v1j.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/eb/442614_o0v1j.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/eb/442614_o0v1j.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/eb/442614_o0v1j.jpg"
           },
           "name": "映画 ラブライブ！虹ヶ咲学園スクールアイドル同好会 完結編 第1章",
           "name_cn": "电影 Love Live! 虹咲学园校园偶像同好会 完结篇 第1章",
@@ -1316,11 +1317,12 @@
         "2023年7月",
         "CloverWorks",
         "TV",
+        "兄妹",
         "剧场版",
+        "动画",
         "増井壮一",
         "增井壮一",
         "奇幻",
-        "妹妹",
         "小说改",
         "待上映",
         "恋爱",
@@ -1328,7 +1330,6 @@
         "日本",
         "日本动画",
         "未定档",
-        "未开播",
         "校园",
         "横谷昌宏",
         "治愈",
@@ -1543,8 +1544,6 @@
       "name": "逆異世界転生エージェント エーコさん",
       "name_cn": "",
       "tags": [
-        "异世界",
-        "搞笑",
         "泡面番"
       ],
       "infobox": [
@@ -1645,30 +1644,30 @@
       "name_cn": "生化危机 死亡岛",
       "tags": [
         "2023",
-        "2023年",
-        "2023年6月",
         "2023年夏",
         "3D",
-        "3DCG☆",
-        "6月",
         "CG",
         "Quebico",
-        "SF",
+        "TV",
         "capcom",
         "丧尸",
+        "中年",
         "剧场版",
         "动作",
         "动画",
         "动画电影",
         "射击",
         "待上映",
+        "恐怖",
         "战斗",
         "日本",
         "日本动画",
+        "欧美",
         "深見真",
         "深见真",
         "游戏",
         "游戏改",
+        "游戏改编",
         "特工",
         "犯罪",
         "生化危机",
@@ -1764,11 +1763,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/fc/435854_9u23R.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/fc/435854_9u23R.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/47/fc/435854_9u23R.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/fc/435854_9u23R.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/fc/435854_9u23R.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/fc/435854_VVPd7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/fc/435854_VVPd7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/47/fc/435854_VVPd7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/fc/435854_VVPd7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/fc/435854_VVPd7.jpg"
           },
           "name": "バイオハザード：デスアイランド",
           "name_cn": "生化危机 死亡岛",
@@ -1845,6 +1844,7 @@
         "2023年4月",
         "2023年5月",
         "2023年春",
+        "STUDIO_DEEN",
         "studiodeen",
         "ふでやすかずゆき",
         "スタジオディーン",
@@ -1856,7 +1856,6 @@
         "刁主席亲自评价",
         "剧场版",
         "动画",
-        "少女向",
         "待上映",
         "恋爱",
         "日本",
@@ -2017,6 +2016,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 452416
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/f2/478317_AwjAY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/f2/478317_AwjAY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/05/f2/478317_AwjAY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/f2/478317_AwjAY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/f2/478317_AwjAY.jpg"
+          },
+          "name": "劇場版「美少女戦士セーラームーンCosmos」公式ビジュアルBOOK",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 478317
         }
       ]
     }
@@ -2173,6 +2186,7 @@
         "2023年",
         "2023年4月",
         "2023年春",
+        "STUDIO_DEEN",
         "studiodeen",
         "『剧场版』",
         "ふでやすかずゆき",
@@ -2330,6 +2344,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 452416
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/f2/478317_AwjAY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/f2/478317_AwjAY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/05/f2/478317_AwjAY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/f2/478317_AwjAY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/f2/478317_AwjAY.jpg"
+          },
+          "name": "劇場版「美少女戦士セーラームーンCosmos」公式ビジュアルBOOK",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 478317
         }
       ]
     }
@@ -2442,6 +2470,7 @@
       "name_cn": "狐妖小红娘 无暮篇",
       "tags": [
         "2023",
+        "2023年6月",
         "2023年7月",
         "TV",
         "WEB",
@@ -2465,6 +2494,7 @@
         "狐妖小红娘",
         "第11季",
         "续集",
+        "致郁",
         "萌系"
       ],
       "infobox": [

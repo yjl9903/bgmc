@@ -189,10 +189,10 @@
         "2002",
         "6JA",
         "TV",
-        "TVA",
         "TVB",
         "top100",
         "くまいもとこ",
+        "アニメ",
         "一周目",
         "体育",
         "喵帕斯记录~",
@@ -203,18 +203,18 @@
         "日本",
         "日本Animedia",
         "日本アニメディア",
-        "游戏改",
+        "日本动画",
         "漫改",
+        "漫画改",
         "爆旋陀螺",
         "竞技",
         "童年",
         "童年回憶",
         "童年系列",
         "竹内啓雄",
-        "系列",
         "经典",
-        "续集",
         "超自然队",
+        "陀螺",
         "高乃麗"
       ],
       "infobox": [
@@ -313,7 +313,7 @@
           "value": "テレビ東京、読売広告社、ディーライツ"
         }
       ],
-      "total_episodes": 50,
+      "total_episodes": 51,
       "id": 9349,
       "eps": 51,
       "volumes": 0,
@@ -516,20 +516,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/13/133215_H47V6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/13/133215_H47V6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c5/13/133215_H47V6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/13/133215_H47V6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/13/133215_H47V6.jpg"
-          },
-          "name": "キン肉マン キン肉星王位争奪編",
-          "name_cn": "",
-          "relation": "前传",
-          "type": 2,
-          "id": 133215
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/6e/133219_m1Nu7.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/6e/133219_m1Nu7.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/34/6e/133219_m1Nu7.jpg",
@@ -555,6 +541,20 @@
           "relation": "其他",
           "type": 3,
           "id": 424685
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1b/83/424853_h0Huu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1b/83/424853_h0Huu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1b/83/424853_h0Huu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1b/83/424853_h0Huu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1b/83/424853_h0Huu.jpg"
+          },
+          "name": "キン肉マン 完璧超人始祖編",
+          "name_cn": "筋肉人 完美超人始祖篇",
+          "relation": "前传",
+          "type": 2,
+          "id": 424853
         }
       ]
     }
@@ -882,7 +882,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/20/07/77893_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/20/07/77893_jp.jpg"
           },
-          "name": "ラーゼフォン ― オリジナル・サウンドトラック 1",
+          "name": "ラーゼフォン オリジナルサウンドトラック 1",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -896,7 +896,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/c8/77894_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/c8/77894_jp.jpg"
           },
-          "name": "ラーゼフォン オリジナルサウンドトラック2",
+          "name": "ラーゼフォン オリジナルサウンドトラック 2",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -1000,7 +1000,6 @@
         "pocky",
         "井上喜久子",
         "井出安轨",
-        "保志总一朗",
         "停滞",
         "动画",
         "原创",
@@ -1013,6 +1012,7 @@
         "拜托系列",
         "无口",
         "日常",
+        "日本",
         "早婚",
         "校园",
         "田村ゆかり",
@@ -1081,7 +1081,7 @@
           "value": "I've/中沢伴行、折戸伸治"
         },
         {
-          "key": "音乐制作",
+          "key": "音乐制作人",
           "value": "伊藤善之（Lantis）"
         },
         {
@@ -1089,12 +1089,28 @@
           "value": "童夢"
         },
         {
-          "key": "制作",
+          "key": "製作",
           "value": "バンダイビジュアル"
         },
         {
           "key": "制片人",
-          "value": "森本浩二、安西武 共同プロデューサー - 大澤信博"
+          "value": "森本浩二、安西武 共同プロデューサー - 大澤信博  協力プロデューサー：長谷川徳司（WOWOW）"
+        },
+        {
+          "key": "机械设定",
+          "value": "森木靖泰、渡辺義弘"
+        },
+        {
+          "key": "美术监督",
+          "value": "堀壮太郎（くさなぎ）"
+        },
+        {
+          "key": "美术设定",
+          "value": "須江信人（くさなぎ）"
+        },
+        {
+          "key": "动画制片人",
+          "value": "野澤勝彦、石田博"
         }
       ],
       "total_episodes": 16,
@@ -1121,6 +1137,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/72/11869_Ff57X.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/72/11869_Ff57X.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/57/72/11869_Ff57X.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/72/11869_Ff57X.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/72/11869_Ff57X.jpg"
+          },
+          "name": "I've Girls Compilation 5th - OUT FLOW",
+          "name_cn": "",
+          "relation": "印象曲",
+          "type": 3,
+          "id": 11869
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/90/15072_p6YJM.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/90/15072_p6YJM.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/0a/90/15072_p6YJM.jpg",
@@ -1132,6 +1162,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 15072
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/06/20805_tAbuq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/06/20805_tAbuq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/06/20805_tAbuq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/06/20805_tAbuq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/06/20805_tAbuq.jpg"
+          },
+          "name": "I've Girls Compilation 3rd - disintegration",
+          "name_cn": "",
+          "relation": "印象曲",
+          "type": 3,
+          "id": 20805
         },
         {
           "images": {
@@ -1269,32 +1313,32 @@
         "2002年",
         "2002年1月",
         "BL",
-        "MADHOUSE",
         "MADHouse",
         "TV",
         "アニメ",
+        "中村亮介",
         "关俊彦",
         "基",
         "小说改",
         "工藤進",
+        "忘记剧情",
         "总是这么虐",
         "换生",
         "暗战国",
         "桑原水菜",
         "炎の蜃気楼",
+        "狂犬",
+        "电视动画",
+        "疯房子",
         "直江×景虎",
         "直高",
         "耽美",
         "耽美神作",
         "腐",
-        "蔷薇",
         "虐",
         "轻小说改",
         "轻改",
-        "速水奖",
-        "速水奨",
-        "関俊彦",
-        "関智一"
+        "速水奖"
       ],
       "infobox": [
         {
@@ -2096,6 +2140,18 @@
         {
           "key": "播放结束",
           "value": "2002年6月27日"
+        },
+        {
+          "key": "原作",
+          "value": "今川泰宏"
+        },
+        {
+          "key": "导演",
+          "value": "今川泰宏"
+        },
+        {
+          "key": "人物设定",
+          "value": "西田亜沙子"
         }
       ],
       "total_episodes": 26,
@@ -2155,8 +2211,10 @@
       "name_cn": "水瓶新世纪",
       "tags": [
         "2002",
+        "2002冬",
+        "2002年",
         "2002年1月",
-        "MADHOUSE",
+        "2002年一月番",
         "MADHouse",
         "SF",
         "TV",
@@ -2181,8 +2239,6 @@
         "相馬和彦",
         "科幻",
         "秦義人",
-        "背景",
-        "补旧番",
         "补番"
       ],
       "infobox": [
@@ -2577,34 +2633,34 @@
       "tags": [
         "2002",
         "2002年",
-        "2021",
-        "7+",
-        "Again",
         "OVA",
-        "OVA-01",
-        "OVA、OAD、WEB",
         "XEBEC",
-        "ovaoad",
+        "ova",
         "世纪初",
         "会川升",
+        "兄妹",
         "动画",
         "后宫",
         "后宫，后宫伊始",
         "堀江由衣",
         "岩崎良明",
-        "帆船社",
         "平成",
         "忘记剧情",
         "恋爱",
+        "恋爱喜剧",
         "搞笑",
         "日本",
         "日本动画",
         "日漫",
+        "會川昇",
+        "林原惠",
         "漫改",
         "漫画改",
+        "爱情",
         "纯情房东俏房客",
         "纯爱",
-        "补番"
+        "补番",
+        "赤松健"
       ],
       "infobox": [
         {

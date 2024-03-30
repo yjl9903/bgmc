@@ -23,13 +23,14 @@
         "SUNRISE",
         "TV",
         "TVA",
-        "TVB",
         "robo",
         "ロボットアニメ",
         "伊倉一恵",
         "冨岡淳広",
         "勇者シリーズ",
+        "勇者系列",
         "原创",
+        "大張正己",
         "太阳勇者",
         "平野靖士",
         "待補1",
@@ -37,7 +38,6 @@
         "日本动画",
         "旧物",
         "星山博之",
-        "机器人",
         "机战",
         "松本保典",
         "科幻",
@@ -304,7 +304,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/0b/485857_pZY4T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/0b/485857_pZY4T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/0b/485857_pZY4T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/0b/485857_pZY4T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/0b/485857_pZY4T.jpg"
+          },
+          "name": "Dancing Beat",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 485857
+        }
+      ]
     }
   }
 ]

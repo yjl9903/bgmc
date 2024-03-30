@@ -75,8 +75,16 @@
           "value": "1990年10月11日"
         },
         {
-          "key": "imdb_id",
-          "value": "tt0302129"
+          "key": "原作",
+          "value": "手塚治虫"
+        },
+        {
+          "key": "导演",
+          "value": "宇井孝司"
+        },
+        {
+          "key": "人物设定",
+          "value": "手塚治虫、川尻善昭"
         }
       ],
       "total_episodes": 52,
@@ -169,7 +177,7 @@
         "TV",
         "studiodeen",
         "乱马",
-        "动画",
+        "井上喜久子",
         "后宫",
         "女装",
         "山口胜平",
@@ -226,6 +234,34 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/fa/5239_hHKv4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/fa/5239_hHKv4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/23/fa/5239_hHKv4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/fa/5239_hHKv4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/fa/5239_hHKv4.jpg"
+          },
+          "name": "らんま1/2",
+          "name_cn": "乱马1/2",
+          "relation": "书籍",
+          "type": 1,
+          "id": 5239
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/cc/72754_OY339.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/cc/72754_OY339.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6a/cc/72754_OY339.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/cc/72754_OY339.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/cc/72754_OY339.jpg"
+          },
+          "name": "らんま1/2 熱闘歌合戦",
+          "name_cn": "乱马1/2 热斗歌合战",
+          "relation": "衍生",
+          "type": 2,
+          "id": 72754
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/9a/2789_4OsUj.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/9a/2789_4OsUj.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b1/9a/2789_4OsUj.jpg",
@@ -237,6 +273,104 @@
           "relation": "前传",
           "type": 2,
           "id": 2789
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/ad/482421_oQp0P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/ad/482421_oQp0P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/ad/482421_oQp0P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/ad/482421_oQp0P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/ad/482421_oQp0P.jpg"
+          },
+          "name": "らんま1/2 最強音楽編",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 482421
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/8b/482418_C8qqm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/8b/482418_C8qqm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/8b/482418_C8qqm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/8b/482418_C8qqm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/8b/482418_C8qqm.jpg"
+          },
+          "name": "らんま1/2 熱闘音楽編",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 482418
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/c2/482589_VVr2C.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/c2/482589_VVr2C.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/51/c2/482589_VVr2C.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/c2/482589_VVr2C.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/c2/482589_VVr2C.jpg"
+          },
+          "name": "ド・ン・マ・イ来々少年",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 482589
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/1f/454177_NP2uW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/1f/454177_NP2uW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/83/1f/454177_NP2uW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/1f/454177_NP2uW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/1f/454177_NP2uW.jpg"
+          },
+          "name": "リトル☆デイト",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 454177
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/51/195916_U4bfq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/51/195916_U4bfq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/51/195916_U4bfq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/51/195916_U4bfq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/51/195916_U4bfq.jpg"
+          },
+          "name": "乱馬ダ☆RANMA",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 195916
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c4/2c/454185_2Z3tn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c4/2c/454185_2Z3tn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c4/2c/454185_2Z3tn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c4/2c/454185_2Z3tn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c4/2c/454185_2Z3tn.jpg"
+          },
+          "name": "夏の友達 / 思い出がいっぱい",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 454185
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/b1/129288_f8U44.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/b1/129288_f8U44.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/b1/129288_f8U44.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/b1/129288_f8U44.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/b1/129288_f8U44.jpg"
+          },
+          "name": "絶対! Part2",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 129288
         },
         {
           "images": {
@@ -268,59 +402,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/b1/129288_f8U44.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/b1/129288_f8U44.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/df/b1/129288_f8U44.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/b1/129288_f8U44.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/b1/129288_f8U44.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6c/c9/482588_kAkUK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6c/c9/482588_kAkUK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6c/c9/482588_kAkUK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6c/c9/482588_kAkUK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6c/c9/482588_kAkUK.jpg"
           },
-          "name": "絶対! Part2",
+          "name": "地球オーケストラ",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
-          "id": 129288
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/24/327597_61f1b.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/24/327597_61f1b.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/24/327597_61f1b.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/24/327597_61f1b.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/24/327597_61f1b.jpg"
-          },
-          "name": "決定盤 らんま1/2 アニメ主題歌&amp;キャラソン大全集",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 327597
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/1f/454177_NP2uW.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/1f/454177_NP2uW.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/83/1f/454177_NP2uW.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/1f/454177_NP2uW.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/1f/454177_NP2uW.jpg"
-          },
-          "name": "リトル☆デイト",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 454177
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c4/2c/454185_2Z3tn.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c4/2c/454185_2Z3tn.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c4/2c/454185_2Z3tn.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c4/2c/454185_2Z3tn.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c4/2c/454185_2Z3tn.jpg"
-          },
-          "name": "夏の友達 / 思い出がいっぱい",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 454185
+          "id": 482588
         },
         {
           "images": {
@@ -352,6 +444,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/da/201039_5384r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/da/201039_5384r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3d/da/201039_5384r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/da/201039_5384r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/da/201039_5384r.jpg"
+          },
+          "name": "POSITIVE",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 201039
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/61/454662_7z770.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/61/454662_7z770.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/71/61/454662_7z770.jpg",
@@ -363,6 +469,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 454662
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/9f/112759_3vKkb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/9f/112759_3vKkb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3c/9f/112759_3vKkb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/9f/112759_3vKkb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/9f/112759_3vKkb.jpg"
+          },
+          "name": "虹と太陽の丘",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 112759
         }
       ]
     }
@@ -384,6 +504,7 @@
       "name": "YAWARA!",
       "name_cn": "以柔克刚",
       "tags": [
+        "1",
         "1989",
         "1989年10月",
         "80s",
@@ -392,10 +513,10 @@
         "MADHouse",
         "TV",
         "TVA",
+        "YAWARA!",
         "ときたひろこ",
         "中篇动画",
         "以柔克刚",
-        "动画",
         "年番&大长篇",
         "恋爱",
         "日本动画",
@@ -404,7 +525,6 @@
         "时田广子",
         "柔道少女",
         "浦沢直樹",
-        "浦泽直树",
         "漫改",
         "漫画改",
         "皆口裕子",
@@ -801,6 +921,7 @@
       "name": "機動警察パトレイバー",
       "name_cn": "机动警察",
       "tags": [
+        "1980s",
         "1989",
         "1989年",
         "1989年10月",
@@ -814,7 +935,6 @@
         "吉永尚之",
         "川井宪次",
         "川井憲次",
-        "年番",
         "押井守",
         "搞笑",
         "日本",

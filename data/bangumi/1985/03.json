@@ -28,7 +28,6 @@
         "上妻晋作",
         "剧场版",
         "原创",
-        "反常规高手评分",
         "合田浩章",
         "増尾昭一",
         "奇幻",
@@ -38,6 +37,7 @@
         "池田秀一",
         "汤山邦彦",
         "湯山邦彦",
+        "独立OVA、OAD、特番",
         "独立ova",
         "猪股睦实",
         "科幻",
@@ -503,7 +503,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/33/297742_t6XG9.jpg"
           },
           "name": "タッチ",
-          "name_cn": "",
+          "name_cn": "棒球英豪",
           "relation": "三次元",
           "type": 6,
           "id": 297742
@@ -740,7 +740,7 @@
       "tags": [
         "1980s",
         "1985",
-        "1985年",
+        "1985年3月",
         "80年代",
         "GUNDAM",
         "SUNRISE",
@@ -751,12 +751,12 @@
         "中二卡谬",
         "修正动画",
         "刚大木",
-        "动画",
         "卡疯",
         "原创",
         "嘉美尤",
         "安彦良和",
         "富野由悠季",
+        "年番",
         "战争",
         "日本",
         "时代的眼泪",
@@ -792,7 +792,7 @@
         },
         {
           "key": "原作",
-          "value": "矢立肇"
+          "value": "矢立肇、富野由悠季"
         },
         {
           "key": "人物设定",
@@ -2435,6 +2435,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/c0/325241_4i646.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/c0/325241_4i646.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/c0/325241_4i646.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/c0/325241_4i646.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/c0/325241_4i646.jpg"
+          },
+          "name": "スクランブル・ウォーズ 突走れ!ゲノムトロフィーラリー",
+          "name_cn": "",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 325241
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/6a/375851_RBCGN.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/6a/375851_RBCGN.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b9/6a/375851_RBCGN.jpg",
@@ -2550,10 +2564,6 @@
         {
           "key": "播放结束",
           "value": "1985年7月"
-        },
-        {
-          "key": "imdb_id",
-          "value": "tt0088595"
         }
       ],
       "total_episodes": 85,
