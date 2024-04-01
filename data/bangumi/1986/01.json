@@ -322,5 +322,103 @@
         }
       ]
     }
+  },
+  {
+    "title": "メイプルタウン物語",
+    "date": "1986-01-19",
+    "bangumi": {
+      "date": "1986-01-19",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/71/134960_31Qpi.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/71/134960_31Qpi.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/57/71/134960_31Qpi.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/71/134960_31Qpi.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/71/134960_31Qpi.jpg"
+      },
+      "summary": "帕蒂·霍普巴比特和她的家人来到了枫叶镇，与一群友善的动物作伴。在一次火车劫案中，一个狡猾的小偷偷走了她父亲的邮袋，逃进了森林。于是帕蒂就紧跟在小偷后面去追回邮袋。在从小偷手里拿回包的过程中，她结识了一个和她同龄的名叫鲍比·库曼诺夫的男孩，并合计一同摧毁王尔德狼的阴谋。在他们与王尔德狼斗智斗勇并最终逃脱后，他们成功地把邮袋安全送回了她父亲的手里。不久，兔子一家在枫树镇安顿下来，成为邮递员，帕蒂和博比之间苦涩而甜蜜的友谊开始开花结果。\r\n故事背景设定在20世纪20年代的加拿大，而棕榈城的故事背景设定在20世纪80年代的美国西海岸。",
+      "name": "メイプルタウン物語",
+      "name_cn": "枫城物语",
+      "tags": [
+        "1986",
+        "80年代",
+        "TV",
+        "佐藤顺一",
+        "旧物"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "枫城物语"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "动物城"
+            },
+            {
+              "v": "动物村"
+            },
+            {
+              "v": "枫叶镇物语"
+            },
+            {
+              "v": "动物小英雄"
+            },
+            {
+              "v": "Maple Town Stories"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "52"
+        },
+        {
+          "key": "放送开始",
+          "value": "1986年1月19日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "播放结束",
+          "value": "1987年1月11日"
+        },
+        {
+          "key": "导演",
+          "value": "佐藤順一"
+        },
+        {
+          "key": "人物设定",
+          "value": "二宮常雄"
+        }
+      ],
+      "total_episodes": 52,
+      "id": 134960,
+      "eps": 52,
+      "volumes": 0,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/34/134961_44KL4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/34/134961_44KL4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/34/134961_44KL4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/34/134961_44KL4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/34/134961_44KL4.jpg"
+          },
+          "name": "新メイプルタウン物語 パームタウン編",
+          "name_cn": "新枫城物语",
+          "relation": "续集",
+          "type": 2,
+          "id": 134961
+        }
+      ]
+    }
   }
 ]
