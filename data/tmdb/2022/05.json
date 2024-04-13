@@ -35,15 +35,15 @@
       "id": 99772,
       "type": "tv",
       "search": {
-        "adult": false,
         "backdrop_path": "/7Iorh0CtvK85oX96BdP2jXziir5.jpg",
         "id": 99772,
-        "name": "Vampire in the Garden",
-        "original_language": "ja",
         "original_name": "ヴァンパイア・イン・ザ・ガーデン",
         "overview": "寻求吸血鬼和人类一起生活的“乐园”而旅行的少女们的故事。",
         "poster_path": "/cL7AmuHxCwDCu8d3kX93NTEDhdw.jpg",
         "media_type": "tv",
+        "adult": false,
+        "name": "Vampire in the Garden",
+        "original_language": "ja",
         "genre_ids": [
           16,
           18,
@@ -129,17 +129,16 @@
       "search": {
         "adult": false,
         "backdrop_path": null,
+        "genre_ids": [
+          16
+        ],
         "id": 978039,
-        "title": "Toku Touken Ranbu Hanamaru: Yuki no Maki",
         "original_language": "ja",
         "original_title": "特『刀剣乱舞-花丸-』～雪ノ巻～",
         "overview": "Part one of Touken Ranbu Hanamaru ~Setsugetsuka~",
         "poster_path": "/8Oliwzur1mpOuWm8nbqomDD8V0R.jpg",
-        "media_type": "movie",
-        "genre_ids": [
-          16
-        ],
         "release_date": "2022-05-20",
+        "title": "Toku Touken Ranbu Hanamaru: Yuki no Maki",
         "video": false
       }
     }

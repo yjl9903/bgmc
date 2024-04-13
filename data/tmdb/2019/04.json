@@ -9,15 +9,15 @@
       "id": 80795,
       "type": "tv",
       "search": {
-        "adult": false,
         "backdrop_path": "/vgoeMt2R5DdwK7DCbJJUS2Vkah7.jpg",
         "id": 80795,
-        "name": "机动奥特曼",
-        "original_language": "ja",
         "original_name": "ULTRAMAN",
         "overview": "几十年前，来自外太空的英雄离开地球，留下一个和平的世界。现在，奥特曼之子必须奋起保护地球，抵御新的外星威胁。",
         "poster_path": "/zhfbBmUgUA8GebZ4ZsnyOZmjisO.jpg",
         "media_type": "tv",
+        "adult": false,
+        "name": "机动奥特曼",
+        "original_language": "ja",
         "genre_ids": [
           16,
           10759,
@@ -344,7 +344,7 @@
         "original_language": "ja",
         "original_name": "BAKUMATSU ~恋愛幕末カレシ 外伝~",
         "overview": "Kyoto, Japan. The heroine meets a man who gives her a pocket watch somehow leading to a Torii in a shrine, and suddenly it warps her into the Bakumatsu period. In the world of where there is such a difference in importance of value, she tries to find a way to go back. When she meets a man who has crossed time and says, \"I will live for you,\" a love story between the two blossoms.",
-        "poster_path": "/tOEc28kvIfo19mEnvLpLnzI1urk.jpg",
+        "poster_path": "/qtVtTnMe4neHuWtMuRITU2Bd0K1.jpg",
         "first_air_date": "2018-10-04",
         "name": "恋爱幕末男友～于时之彼方盛开之恋～CRISIS"
       }
@@ -486,7 +486,7 @@
         ],
         "original_language": "ja",
         "original_name": "妖怪ウォッチ！",
-        "overview": "A new season of Youkai Watch focusing on elementary schooler Keita Amano again. The events take place right after the original season; but still chronologically occur before the now complete Shadow Side events as they take place 30 years in the future.",
+        "overview": "A new season of Yo-kai Watch focusing on elementary schooler Keita Amano again. The events take place right after the original season; but still chronologically occur before the now complete Shadow Side events as they take place 30 years in the future.",
         "poster_path": "/7DG3cKqzdrEmdheVsMnICqVkRvd.jpg",
         "first_air_date": "2019-04-05",
         "name": "Yo-kai Watch!"
@@ -531,15 +531,15 @@
       "id": 67667,
       "type": "tv",
       "search": {
-        "adult": false,
         "backdrop_path": "/bpbWrKlBRxtp1iCxtHDC5Y1eMEs.jpg",
         "id": 67667,
-        "name": "爆旋陀螺 击爆战魂",
-        "original_language": "ja",
         "original_name": "ベイブレードバースト",
         "overview": "战斗陀螺是世界上最受欢迎的陀螺战斗专用玩具，会随着陀螺手的热情在对战盘互相碰撞。而霸旋陀螺 爆刃对决就是一群少年把梦想寄托在陀螺上面奋战的故事。除了讲述热爱战斗陀螺的少年苍井霸斗成为陀螺手及他长大后遇见新时代主角的经历，也会讲述新主角因为开展有血有泪的成长旅程而遇到的人。",
         "poster_path": "/7gNPKHaW3VB2UlDVxpfcTQBPk9N.jpg",
         "media_type": "tv",
+        "adult": false,
+        "name": "爆旋陀螺 击爆战魂",
+        "original_language": "ja",
         "genre_ids": [
           10759,
           16,
@@ -969,35 +969,6 @@
     }
   },
   {
-    "title": "キラッとプリ☆チャン シーズン2",
-    "date": "2019-04-07",
-    "bangumi": {
-      "id": "269023"
-    },
-    "tmdb": {
-      "id": 78482,
-      "type": "tv",
-      "season": 1,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/3DjZldbDA7L727H4xJF8rhTHIXd.jpg",
-        "genre_ids": [
-          16
-        ],
-        "id": 78482,
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "キラッとプリ☆チャン",
-        "overview": "　　美妙频道是一个无论谁都能简单地开始，谁都能成为偶像的梦想频道。开设自己的频道从而成为偶像是女孩子们共通的梦想。闪闪之丘中学一年级的桃山未来和萌黄绘萌为了对抗学校里面的人气偶像赤城安娜，也开设了自己的频道。同时非常熟悉美妙频道的优等生青叶凛花也加入了团队中，属于三个人的梦想偶像频道开始了，最终她们也创立了自己的频道，频道的名称是奇迹闪光（奇迹闪耀组），这个频道人气也很高，一点都不输给安娜的频道.....",
-        "poster_path": "/KjPQEeKmlWSy20MQl5bUQxhjh5.jpg",
-        "first_air_date": "2018-04-08",
-        "name": "美妙频道"
-      }
-    }
-  },
-  {
     "title": "RobiHachi",
     "date": "2019-04-08",
     "bangumi": {
@@ -1347,7 +1318,7 @@
         "original_language": "ja",
         "original_name": "文豪ストレイドッグス",
         "overview": "以现代横滨为舞台讲述文豪们的超能力战斗！！ 被孤儿院赶出，因为饥饿昏倒在旅途中的少年中岛敦救出了企图自杀的名为太宰治的青年。在听说太宰所属的组织“武装侦探社”正在追捕为害一方的猛兽“食人虎”时，敦意外地露出了惊惧的神情——食人虎与敦有什么关系？侦探们将如何捕捉它？后续又会有怎样的发展？",
-        "poster_path": "/fnwEW1feWN3xSF2PYtVAZxcoLkd.jpg",
+        "poster_path": "/igUJ6XjgHb6Dt3VKJhNr3OnzHAf.jpg",
         "first_air_date": "2016-04-07",
         "name": "文豪野犬"
       }
@@ -1363,15 +1334,15 @@
       "id": 566555,
       "type": "movie",
       "search": {
-        "adult": false,
         "backdrop_path": "/wf6VDSi4aFCZfuD8sX8JAKLfJ5m.jpg",
         "id": 566555,
-        "title": "名侦探柯南：绀青之拳",
-        "original_language": "ja",
         "original_title": "名探偵コナン 紺青の拳（フィスト）",
         "overview": "在19世纪末与海盗船一同沉入新加坡近海的、世界上最大的蓝宝石“绀青之拳”。在当地的富豪将其回收，于舞台上展现其真容时，在滨海湾金沙酒店附近发生了杀人案。现场留下了怪盗基德沾有血迹的预告函。而在那时，为了观看在新加坡举办的空手道锦标赛，小兰和园子到访了当地。  由于没有护照所以无法出国的柯南本来应当在看家，但他被试图利用他的基德以魔术般的方法，强行带到了新加坡。若不服从对方就连回日本都做不到的柯南，眼镜、手表、衣服等全被夺走进行了变装。被没有注意到其真实身份的小兰问及名字，情急之下化名“亚瑟·平井”。  基德得到了在某个宅邸的地下金库中沉睡着蓝宝石的情报。他以为很简单就可入侵成功，但无比危险的陷阱等待着基德。挡在他面前的，是400战无败绩的最强空手道家——京极真。基德的命运是……在那之后，就如预兆着什么不祥之事一般，从新加坡的象征——鱼尾狮中喷出了被染为鲜红的水！",
         "poster_path": "/1RJnRfTDNrn5hg5U6dscWXEu0ou.jpg",
         "media_type": "movie",
+        "adult": false,
+        "title": "名侦探柯南：绀青之拳",
+        "original_language": "ja",
         "genre_ids": [
           28,
           16,
@@ -1531,15 +1502,15 @@
       "id": 84655,
       "type": "tv",
       "search": {
-        "adult": false,
         "backdrop_path": "/jLIEjHrxzFmCMwqW4qjafgDHCm6.jpg",
         "id": 84655,
-        "name": "轻松小熊和小薰",
-        "original_language": "ja",
         "original_name": "リラックマとカオルさん",
         "overview": "有点糊涂的30岁左右女性小薰，是在东京都内一家小商社工作的普通OL。唯一有点特别的是，不知不觉在房间里，和每天懒散的轻松熊，喜欢恶作剧的轻松熊，还有擅长打扫卫生的小黄鸡一起生活。用定格动画描绘了，对自己认真的性格稍微抱有自卑感的小薰，和过着无忧无虑生活的轻松熊们一起度过的丰富多彩的12个月。一个温柔又苦乐参半的故事。",
         "poster_path": "/1MphaSHRCuPOGeVqb9whGn3E5Jd.jpg",
         "media_type": "tv",
+        "adult": false,
+        "name": "轻松小熊和小薰",
+        "original_language": "ja",
         "genre_ids": [
           16,
           35,
