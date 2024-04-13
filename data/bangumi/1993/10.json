@@ -419,9 +419,9 @@
         "AnimateFilm",
         "Arslan",
         "OVA",
-        "OVA&OAD",
         "OVA&OAD&SP",
         "OVA-01",
+        "アニメイトフィルム",
         "アミノテツロー",
         "アルスラーン戦記",
         "井上和彦",
@@ -569,18 +569,17 @@
       "tags": [
         "1990-1999",
         "1993",
-        "1993年",
         "8+",
         "OVA",
         "OVA-01",
         "SUNRISE",
         "robo",
+        "サンライズ",
         "井内秀治",
         "伊倉一恵",
         "儿时萌",
         "六星",
         "动画",
-        "原创",
         "大长篇",
         "小山高生",
         "怀旧",
@@ -589,6 +588,7 @@
         "旧物",
         "机战",
         "机甲",
+        "林原女王",
         "爷青回",
         "神龙斗士",
         "童年",
@@ -741,6 +741,7 @@
         "TV",
         "TVA",
         "Tac",
+        "グループ・タック",
         "华娱卫视",
         "山口勝平",
         "岸谷五朗",
@@ -822,6 +823,10 @@
         {
           "key": "动画制作",
           "value": "グループ・タック"
+        },
+        {
+          "key": "imdb_id",
+          "value": "tt5031412"
         },
         {
           "key": "主题歌作词",
@@ -933,6 +938,48 @@
           "relation": "片头曲",
           "type": 3,
           "id": 437390
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/a8/489329_qPX8L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/a8/489329_qPX8L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/52/a8/489329_qPX8L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/a8/489329_qPX8L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/a8/489329_qPX8L.jpg"
+          },
+          "name": "Virgin Land",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 489329
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/26/489330_zl8KD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/26/489330_zl8KD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/26/489330_zl8KD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/26/489330_zl8KD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/26/489330_zl8KD.jpg"
+          },
+          "name": "MISTY HEARTBREAK",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 489330
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/bc/489331_GGo4g.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/bc/489331_GGo4g.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/bc/489331_GGo4g.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/bc/489331_GGo4g.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/bc/489331_GGo4g.jpg"
+          },
+          "name": "JINGLE JUNGLE DANCE",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 489331
         }
       ]
     }
@@ -965,6 +1012,7 @@
         "村山靖",
         "续集",
         "苇PRODUCTION",
+        "葦プロダクション",
         "金丸淳一"
       ],
       "infobox": [
@@ -1269,6 +1317,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 136081
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/de/489328_1GuVO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/de/489328_1GuVO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/de/489328_1GuVO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/de/489328_1GuVO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/de/489328_1GuVO.jpg"
+          },
+          "name": "JUST FALLIN' LOVE ~幾つものせつない夜の中で",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 489328
         }
       ]
     }

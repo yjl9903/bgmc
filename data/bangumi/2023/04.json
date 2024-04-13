@@ -128,12 +128,12 @@
         "パッショーネ",
         "一迅社",
         "三瓶圣",
-        "上坂すみれ",
         "久弥直树",
         "久弥直樹",
         "小仓唯",
         "小倉唯",
         "恋爱",
+        "我的百合乃工作是也！",
         "扭曲",
         "搞笑",
         "日常",
@@ -391,7 +391,6 @@
         "偶像",
         "偶像大师",
         "冈本学",
-        "励志",
         "季番",
         "岡本学",
         "幼女",
@@ -404,6 +403,7 @@
         "治愈",
         "漫改",
         "漫画改",
+        "百合",
         "萌",
         "萝莉",
         "铁窗P",
@@ -884,6 +884,7 @@
         "StudioKAFKA",
         "TV",
         "WITSTUDIO",
+        "スタジオカフカ",
         "乙女向",
         "内山昂輝",
         "奇幻",
@@ -903,7 +904,6 @@
         "纯爱",
         "续作",
         "续集",
-        "高羽彩",
         "魔法",
         "魔法使的新娘"
       ],
@@ -1119,9 +1119,9 @@
         "2023年",
         "2023年4月",
         "2023年春",
-        "20s",
         "NipponAnimation",
         "TV",
+        "TV2",
         "TVA",
         "加隈亜衣",
         "动画",
@@ -1139,9 +1139,9 @@
         "未确定",
         "柿原優子",
         "校园",
-        "涩涩",
         "漫改",
         "漫画改",
+        "管弦乐",
         "追番",
         "青春",
         "音乐"
@@ -1856,7 +1856,6 @@
         "2023年4月",
         "2023春",
         "TV",
-        "TVA",
         "乙女",
         "乙女向",
         "动画",
@@ -1879,6 +1878,7 @@
         "石田彰",
         "穿越",
         "转生",
+        "韩国",
         "韩漫",
         "颱風グラフィックス"
       ],
@@ -2609,7 +2609,7 @@
         "动画",
         "原创",
         "可以预测的命运之舞台",
-        "富士电视台",
+        "子供向",
         "屹青",
         "无法预测的命运之舞台",
         "日本",
@@ -2707,19 +2707,19 @@
         },
         {
           "key": "主题歌编曲",
-          "value": "佐藤純一（OP）"
+          "value": "佐藤純一（OP） / Suzzy（ED5）"
         },
         {
           "key": "主题歌作曲",
-          "value": "佐藤純一（OP） / Stand Alone、Yu-ki Kokubo、JUNE（ED1） / 玉屋2060%（ED2） / 稲生司（ED3） / Phil Schwan、SOFTSERVEBOY、SQVARE（ED4）"
+          "value": "佐藤純一（OP） / Stand Alone、Yu-ki Kokubo、JUNE（ED1） / 玉屋2060%（ED2） / 稲生司（ED3） / Phil Schwan、SOFTSERVEBOY、SQVARE（ED4） / 大智、伊橋成哉、Suzzy（ED5）"
         },
         {
           "key": "主题歌作词",
-          "value": "林英樹（OP） / Yu-ki Kokubo（ED1） / 玉屋2060%（ED2） / 稲生司（ED3） / 藤林聖子（ED4）"
+          "value": "林英樹（OP） / Yu-ki Kokubo（ED1） / 玉屋2060%（ED2） / 稲生司（ED3） / 藤林聖子（ED4） / miyake（ED5）"
         },
         {
           "key": "主题歌演出",
-          "value": "fhána（OP） / AB6IX（ED1） / Wienners（ED2） / Mr.ふぉるて（ED3） / TEMPEST（ED4）"
+          "value": "fhána（OP） / AB6IX（ED1） / Wienners（ED2） / Mr.ふぉるて（ED3） / TEMPEST（ED4） / ICEx（ED5）"
         },
         {
           "key": "製作",
@@ -2759,6 +2759,34 @@
           "relation": "不同演绎",
           "type": 6,
           "id": 141601
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/50/488082_B1TZ0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/50/488082_B1TZ0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ed/50/488082_B1TZ0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/50/488082_B1TZ0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/50/488082_B1TZ0.jpg"
+          },
+          "name": "逃走中 THE MOVIE",
+          "name_cn": "逃走中 电影版",
+          "relation": "其他",
+          "type": 6,
+          "id": 488082
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/0d/489405_PAa2L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/0d/489405_PAa2L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/0d/489405_PAa2L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/0d/489405_PAa2L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/0d/489405_PAa2L.jpg"
+          },
+          "name": "逃走中 グレートミッション",
+          "name_cn": "逃走中 GREAT MISSION",
+          "relation": "游戏",
+          "type": 4,
+          "id": 489405
         },
         {
           "images": {
@@ -3351,14 +3379,14 @@
       "name_cn": "什么情况都不知道的转校生一个劲的凑过来。",
       "tags": [
         "2020-2029",
-        "2020s",
         "2023",
         "2023年",
         "2023年4月",
+        "9.5X",
         "A-1Pictures",
         "St.Signpost",
         "TV",
-        "【ANIME】TV丨日本",
+        "不太行",
         "不建议观看",
         "动画",
         "小原好美",
@@ -3376,10 +3404,10 @@
         "治愈",
         "漫改",
         "漫画改",
-        "特定人群向",
         "石上静香",
         "福山潤",
-        "辣鸡"
+        "辣鸡",
+        "近藤玲奈"
       ],
       "infobox": [
         {
@@ -3616,7 +3644,7 @@
         "TYOAnimations",
         "にゅ～♡",
         "ゆめ太カンパニー",
-        "东京猫猫",
+        "グラフィニカ",
         "动画",
         "十二稜子",
         "名取孝浩",
@@ -4194,12 +4222,12 @@
         "内田真礼",
         "动画",
         "厕纸",
+        "可独立观赏",
         "后宫",
         "奇幻",
         "小说改",
         "岩崎良明",
         "带着智能手机闯荡异世界。",
-        "开挂无敌",
         "异世界",
         "恋爱",
         "战斗",
@@ -4550,6 +4578,7 @@
         "TV",
         "TVA",
         "シンエイ動画",
+        "动画",
         "堀江瞬",
         "季番",
         "恋爱",
@@ -4571,7 +4600,6 @@
         "花田十輝",
         "花田十辉",
         "赤城博昭",
-        "追番",
         "青春"
       ],
       "infobox": [
@@ -4874,11 +4902,11 @@
         "TV",
         "冒险",
         "凤傲天",
-        "动画",
         "和氣あず未",
         "奇幻",
         "小说改",
         "异世界",
+        "搞笑",
         "日常",
         "日本",
         "未定档",
@@ -5312,11 +5340,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/ee/441939_LvDdz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/ee/441939_LvDdz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0a/ee/441939_LvDdz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/ee/441939_LvDdz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/ee/441939_LvDdz.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/ee/441939_6l6VR.jpg"
           },
           "name": "鬼滅の刃 柱稽古編",
           "name_cn": "鬼灭之刃 柱训练篇",
@@ -5478,11 +5506,11 @@
         "ProductionI.G",
         "Production_I.G",
         "TV",
-        "公路",
         "公路片",
         "冒险",
         "天国大魔境",
         "奇幻",
+        "季番",
         "废土",
         "性转",
         "悬疑",
@@ -5809,7 +5837,6 @@
         "TVA",
         "内田真礼",
         "出合小都美",
-        "动画",
         "女性向",
         "季番",
         "恋爱",
@@ -5824,6 +5851,7 @@
         "漫画改",
         "群像",
         "跃动青春",
+        "追番",
         "青春",
         "高松美咲",
         "黑泽朋世",
@@ -6006,9 +6034,7 @@
         "2023",
         "2023年",
         "2023年4月",
-        "Drive",
         "TV",
-        "TVA",
         "drive",
         "ドライブ",
         "上江洲誠",
@@ -6024,15 +6050,17 @@
         "搞笑",
         "日常",
         "日本",
-        "未定档",
+        "日本动画",
+        "校园",
         "百合",
         "素晴",
-        "续作",
+        "菊田幸一",
         "轻小说改",
         "轻改",
         "轻百合",
         "高桥李依",
-        "高橋李依"
+        "高橋李依",
+        "魔法"
       ],
       "infobox": [
         {
@@ -6263,10 +6291,9 @@
         "2023",
         "2023年",
         "2023年4月",
-        "2023年春",
         "TV",
+        "伪后宫",
         "党争",
-        "动画",
         "卖肉",
         "后宫",
         "和氣あず未",
@@ -6289,7 +6316,8 @@
         "瀬尾公治",
         "职场",
         "肉",
-        "肉番"
+        "肉番",
+        "青木瑠璃子"
       ],
       "infobox": [
         {
@@ -6861,7 +6889,7 @@
         "搞笑",
         "日常",
         "日本",
-        "松田彬人",
+        "日本动画",
         "治愈",
         "漫改",
         "漫画改",
@@ -7109,6 +7137,7 @@
         "Ascension",
         "TV",
         "TVA",
+        "アセンション",
         "内田彩",
         "子供向",
         "小倉唯",
@@ -7268,13 +7297,13 @@
         "偶像元素",
         "动画",
         "原创",
-        "史",
         "日原あゆみ",
         "日本",
         "日本动画",
         "松岡侑李",
         "校园",
         "涩涩",
+        "百合",
         "答辩",
         "绊爱",
         "虚拟偶像",
@@ -7524,7 +7553,6 @@
         "2023",
         "2023年",
         "2023年4月",
-        "2023春",
         "LIDENFILMS",
         "LINDENFILMS",
         "TV",
@@ -7533,6 +7561,7 @@
         "ライデンフィルム",
         "佐藤元",
         "天文",
+        "季番",
         "恋爱",
         "摄影",
         "放学后失眠的你",
@@ -7833,15 +7862,14 @@
         "2023",
         "2023年",
         "2023年4月",
-        "24补标",
         "Satelight",
         "TV",
+        "サテライト",
         "上坂すみれ",
         "不良",
         "佐藤元",
         "六道的恶女们",
         "动画",
-        "可独立观赏",
         "后宫",
         "奇幻",
         "恋爱",
@@ -7858,6 +7886,7 @@
         "特定人群向",
         "百瀬祐一郎",
         "神棍社",
+        "血压飙升",
         "表"
       ],
       "infobox": [
@@ -8097,11 +8126,11 @@
         "抽象",
         "搞笑",
         "日本",
+        "日本动画",
         "榎木淳弥",
         "淳皇",
         "漫改",
         "漫画改",
-        "番剧",
         "科幻",
         "稲葉友紀",
         "稻叶友纪",
@@ -8296,10 +8325,11 @@
         "2023年",
         "2023年4月",
         "EMT2",
+        "EMTスクエアード",
         "MagicBus",
         "TV",
+        "一二三書房",
         "中村憲由",
-        "依田菜津",
         "内田彩",
         "冒险",
         "南條愛乃",
@@ -8315,7 +8345,6 @@
         "日本动画",
         "正太",
         "穿越",
-        "花井美春",
         "萝莉",
         "装逼",
         "转生",
@@ -9162,12 +9191,13 @@
         "冒险",
         "奇幻",
         "小林裕介",
-        "异世界",
         "战斗",
         "搞笑",
         "新石纪",
+        "日本",
         "日本动画",
         "智斗",
+        "未定档",
         "松下周平",
         "漫改",
         "漫画改",
@@ -9177,8 +9207,7 @@
         "科学",
         "科幻",
         "科普",
-        "续作",
-        "鈴木崚汰"
+        "续作"
       ],
       "infobox": [
         {
@@ -9418,6 +9447,7 @@
         "2023",
         "2023年",
         "2023年4月",
+        "2023春",
         "5分",
         "SEVEN・ARCS",
         "SevenArcs",
@@ -9431,7 +9461,6 @@
         "日常",
         "日本",
         "日本动画",
-        "未上映",
         "未定档",
         "治愈",
         "漫改",
@@ -9964,16 +9993,16 @@
         "奇幻",
         "宅文化",
         "安那其",
+        "愛美",
         "战斗",
         "抽象",
         "搞笑",
         "无法预测的命运之舞台",
         "日本",
         "日本动画",
-        "沓名健一",
         "烂尾",
+        "热血",
         "电波",
-        "荒诞",
         "谷村大四郎",
         "追番",
         "魔法少女",
@@ -10214,6 +10243,7 @@
         "2023",
         "2023年",
         "2023年4月",
+        "4月",
         "JUMP",
         "MAPPA",
         "TV",
@@ -10237,7 +10267,6 @@
         "牧田佳织",
         "猎奇",
         "血腥",
-        "追番",
         "金田一明"
       ],
       "infobox": [
@@ -10476,11 +10505,11 @@
         "TV",
         "偶像",
         "党争",
+        "剧情",
         "动画工房",
         "動画工房",
         "复仇",
         "奇幻",
-        "娱乐圈",
         "平山宽菜",
         "平牧大輔",
         "平牧大辅",
@@ -10492,10 +10521,10 @@
         "日本",
         "日本动画",
         "校园",
+        "横枪萌果",
         "漫改",
         "漫画改",
         "田中仁",
-        "神作",
         "赤坂アカ",
         "赤坂明",
         "转生",
@@ -10605,6 +10634,10 @@
         {
           "key": "音乐制作人",
           "value": "水鳥智栄子"
+        },
+        {
+          "key": "IMDb_id",
+          "value": "tt21030032"
         },
         {
           "key": "主题歌演出",
@@ -10883,7 +10916,6 @@
       "name": "贄姫と獣の王",
       "name_cn": "祭品公主与兽之王",
       "tags": [
-        "2020-2029",
         "2023",
         "2023年",
         "2023年4月",
@@ -10891,28 +10923,29 @@
         "J.C.STAFF",
         "TV",
         "TVA",
-        "anime",
         "【ANIME】TV丨日本",
+        "こい",
         "乙女向",
         "今千秋",
         "冒险",
         "动画",
+        "可独立观赏",
         "奇幻",
         "少女",
+        "屹青",
         "异世界",
         "恋爱",
         "日本",
         "日本动画",
         "日野聡",
-        "未发售(TV)",
         "未确定",
+        "水上清資",
         "治愈",
         "漫改",
         "漫画改",
         "特定人群向",
         "福瑞",
-        "花澤香菜",
-        "藤代P"
+        "花澤香菜"
       ],
       "infobox": [
         {
@@ -11161,7 +11194,7 @@
         "2023年",
         "2023年4月",
         "TV",
-        "TVA",
+        "不下载",
         "动画",
         "厕纸",
         "后宫",
@@ -11169,13 +11202,13 @@
         "姐姐",
         "姐弟",
         "姐控",
+        "小清水亜美",
         "异世界",
         "异世界一击无双姐姐",
         "弟控",
         "战斗",
         "搞笑",
         "日常",
-        "日本",
         "日本动画",
         "月虹",
         "榊原優希",
@@ -11425,6 +11458,7 @@
         "TVA",
         "加藤陽一",
         "子供向",
+        "小学館ミュージック&デジタルエンタテイメント",
         "小学馆Music&DigitalEntertainment",
         "屹青",
         "日本动画",
@@ -11440,7 +11474,7 @@
         },
         {
           "key": "话数",
-          "value": "*"
+          "value": "49"
         },
         {
           "key": "放送开始",
@@ -11464,6 +11498,10 @@
         {
           "key": "播放电视台",
           "value": "テレビ東京系"
+        },
+        {
+          "key": "播放结束",
+          "value": "2024年3月31日"
         },
         {
           "key": "Copyright",
@@ -11514,9 +11552,9 @@
           "value": "大隅啓良"
         }
       ],
-      "total_episodes": 50,
+      "total_episodes": 52,
       "id": 426044,
-      "eps": 0,
+      "eps": 49,
       "volumes": 0,
       "locked": false,
       "nsfw": false,
@@ -11549,6 +11587,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 396502
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/6f/487755_b0Eez.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/6f/487755_b0Eez.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/80/6f/487755_b0Eez.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/6f/487755_b0Eez.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/6f/487755_b0Eez.jpg"
+          },
+          "name": "デュエル・マスターズ Special Movie「導火」",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 2,
+          "id": 487755
         },
         {
           "images": {
@@ -11671,31 +11723,31 @@
         "2023",
         "2023年",
         "2023年4月",
+        "2023年春",
+        "2023里番",
         "2D里番",
+        "GET",
         "TV",
         "studioHōKIBOSHI",
-        "中島ヨシキ",
+        "studio_HōKIBOSHI",
+        "①僧侣档",
+        "①露点番",
+        "。",
+        "『TVA』",
         "乙女",
-        "乙女向",
         "僧侣档",
         "凪早苗",
-        "动画",
         "女性向",
         "已收录(WebRip)",
         "彗星社",
-        "日剧",
-        "日本",
         "日本动画",
         "村上晶",
-        "泡面",
         "泡面番",
         "泡面里番",
         "漫改",
         "漫画改",
         "白砂沙帆",
         "纯爱",
-        "观望",
-        "里",
         "里番",
         "黒崎エーヨ"
       ],
@@ -11879,17 +11931,17 @@
         "大久保瑠美",
         "奇幻",
         "小林裕介",
+        "小说改",
         "战斗",
         "日本",
         "日本动画",
-        "日笠陽子",
         "森久保祥太郎",
         "水野麻里絵",
         "流水线",
-        "浜名孝行",
         "滨名孝行",
         "漫画改",
         "漫画改编",
+        "续作",
         "轻小说改",
         "轻改",
         "青木志貴",
@@ -12109,10 +12161,10 @@
         "2023",
         "2023年",
         "2023年4月",
-        "GET",
         "NOMAD",
         "TV",
         "TVA",
+        "ノーマッド",
         "内田真礼",
         "动画",
         "原创",
@@ -12380,9 +12432,9 @@
         "2023春",
         "4月",
         "GeekToys",
-        "Link:Universe",
         "TV",
         "亡骸游戏",
+        "内田雄馬",
         "动画",
         "奇幻",
         "小野学",
@@ -12636,16 +12688,12 @@
       "name": "王様ランキング 勇気の宝箱",
       "name_cn": "国王排名 勇气的宝箱",
       "tags": [
-        "2020-2029",
         "2023",
-        "2023年",
         "2023年4月",
         "TV",
         "TVA",
         "WITSTUDIO",
         "WIT_STUDIO",
-        "【ANIME】SP丨日本",
-        "ゆうまお",
         "八田洋介",
         "冒险",
         "动画",
@@ -12659,12 +12707,16 @@
         "日本动画",
         "村瀬歩",
         "梶裕貴",
-        "正常",
         "治愈",
         "漫改",
         "漫画改",
         "答辩",
+        "萌",
+        "西式",
+        "追番",
+        "野崎あつこ",
         "野崎温子",
+        "长剧集",
         "霸权社"
       ],
       "infobox": [
@@ -12886,10 +12938,10 @@
         "异世界",
         "战斗",
         "搞笑",
+        "日常",
         "日本",
         "日本动画",
         "校园",
-        "横山克",
         "漫改",
         "漫画改",
         "热血",
@@ -13401,19 +13453,21 @@
       "date": "2023-04-14",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/1b/411247_C9zG9.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/1b/411247_C9zG9.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/12/1b/411247_C9zG9.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/1b/411247_C9zG9.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/1b/411247_C9zG9.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/1b/411247_RHPPV.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/1b/411247_RHPPV.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/12/1b/411247_RHPPV.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/1b/411247_RHPPV.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/1b/411247_RHPPV.jpg"
       },
       "summary": "精灵宝可梦，简称宝可梦，\r\n这颗星球上非常非常不可思议的生物，\r\n在天空、大海、森林、街道之中到处都能看到它们的身影。\r\n\r\n持有不可思议吊坠的来自帕底亚的少女——莉可。\r\n持有神秘精灵球的来自关都的少年——罗伊。\r\n\r\n以广阔的宝可梦世界为舞台，\r\n莉可和罗伊的新冒险开始了！\r\n等待两人的相遇，还有命运是—！？\r\n\r\n这是一个通过冒险“找到”重要的东西的故事。",
       "name": "ポケットモンスター",
       "name_cn": "宝可梦 地平线",
       "tags": [
+        "2020s",
         "2023",
         "2023年",
         "2023年4月",
+        "2023春",
         "OLM",
         "OLMTEAMOTA",
         "TV",
@@ -13425,22 +13479,20 @@
         "傳沙織",
         "动画",
         "原创",
+        "大女主",
         "奇幻",
         "宝可梦",
         "山崎玲愛",
         "战斗",
+        "无法预测的命运之舞台",
         "日常",
         "日本",
         "日本动画",
         "治愈",
         "游戏改",
         "精灵宝可梦",
-        "追番",
-        "选看",
-        "鈴木みのり",
-        "长剧集",
-        "长篇",
-        "风之"
+        "辱华",
+        "选看"
       ],
       "infobox": [
         {
@@ -13502,11 +13554,11 @@
         },
         {
           "key": "动画制作",
-          "value": "OLM TEAM KATO"
+          "value": "OLM TEAM KATO（1-45）；OLM TEAM KUMEMURA（45~）"
         },
         {
           "key": "动作作画监督",
-          "value": "【动作导演】矢嶋哲生"
+          "value": "【动作导演】矢嶋哲生（1-45）"
         },
         {
           "key": "监修",
@@ -13526,15 +13578,15 @@
         },
         {
           "key": "主题歌演出",
-          "value": "asmi feat. Chinozo"
+          "value": "asmi feat. Chinozo / yama×ぼっちぼろまる"
         },
         {
           "key": "主题歌作词",
-          "value": "Chinozo"
+          "value": "Chinozo / yama、ぼっちぼろまる"
         },
         {
           "key": "主题歌作曲",
-          "value": "Chinozo"
+          "value": "Chinozo / yama、ぼっちぼろまる、是︎"
         },
         {
           "key": "主题歌编曲",
@@ -13546,7 +13598,7 @@
         },
         {
           "key": "OP・ED 分镜",
-          "value": "傳沙織（OP1）、冨安大貴（OP2）坂本鼓太郎（ED1）"
+          "value": "傳沙織（OP1）、冨安大貴（OP2/ED3）、坂本鼓太郎（ED1·2）、京極尚彦（OP3）"
         },
         {
           "key": "製作",
@@ -13570,10 +13622,18 @@
         },
         {
           "key": "动画制片人",
-          "value": "加藤浩幸、【现场制片人】久米村誠"
+          "value": "加藤浩幸（1-45）、久米村誠（46~）"
+        },
+        {
+          "key": "设定",
+          "value": "动画宝可梦设定：一石小百合、松原徳弘、安田周平、山崎玲愛、柳原好貴、酒井裕未、海老沢咲希、辻早智子、吉野真一、伊藤京子；飞行艇设计：由利聡"
+        },
+        {
+          "key": "副标题",
+          "value": "リコとロイの旅立ち(1话~25话)；テラパゴスのかがやき(26话~45话)；テラスタルデビュー(46话~)"
         }
       ],
-      "total_episodes": 48,
+      "total_episodes": 50,
       "id": 411247,
       "eps": 0,
       "volumes": 0,
@@ -13653,20 +13713,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/4e/461000_FUZFv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/4e/461000_FUZFv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/03/4e/461000_FUZFv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/4e/461000_FUZFv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/4e/461000_FUZFv.jpg"
-          },
-          "name": "ハロ",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 461000
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/7d/467946_MJl37.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/be/7d/467946_MJl37.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/be/7d/467946_MJl37.jpg",
@@ -13695,6 +13741,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/4e/461000_FUZFv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/4e/461000_FUZFv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/4e/461000_FUZFv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/4e/461000_FUZFv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/4e/461000_FUZFv.jpg"
+          },
+          "name": "ハロ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 461000
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/97/447572_e0IG1.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/97/447572_e0IG1.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/8f/97/447572_e0IG1.jpg",
@@ -13706,6 +13766,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 447572
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/15/489589_jmkFf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/15/489589_jmkFf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a4/15/489589_jmkFf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/15/489589_jmkFf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/15/489589_jmkFf.jpg"
+          },
+          "name": "Will",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 489589
         },
         {
           "images": {
@@ -13762,6 +13836,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 447577
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/0b/489597_NwlN3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/0b/489597_NwlN3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9d/0b/489597_NwlN3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/0b/489597_NwlN3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/0b/489597_NwlN3.jpg"
+          },
+          "name": "Let me battle",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 489597
         }
       ]
     }
@@ -13784,7 +13872,7 @@
       "name_cn": "安利亚王国",
       "tags": [
         "2023",
-        "OLMTEAMOTA",
+        "OLM",
         "TVA",
         "インフィニティビジョン",
         "市川十億衛門",
@@ -13811,7 +13899,7 @@
         },
         {
           "key": "话数",
-          "value": "*"
+          "value": "39"
         },
         {
           "key": "放送开始",
@@ -13839,6 +13927,10 @@
         {
           "key": "其他电视台",
           "value": "鹿児島テレビ"
+        },
+        {
+          "key": "播放结束",
+          "value": "2023年12月24日"
         },
         {
           "key": "Copyright",
@@ -13907,7 +13999,7 @@
       ],
       "total_episodes": 39,
       "id": 426274,
-      "eps": 0,
+      "eps": 39,
       "volumes": 0,
       "locked": false,
       "nsfw": false,
@@ -14493,11 +14585,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/05/440409_QUUGP.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/05/440409_QUUGP.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c5/05/440409_QUUGP.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/05/440409_QUUGP.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/05/440409_QUUGP.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/05/440409_LY171.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/05/440409_LY171.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/05/440409_LY171.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/05/440409_LY171.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/05/440409_LY171.jpg"
           },
           "name": "BIRDIE WING -Golf Girls’ Story- Season 2 オリジナルサウンドトラックCD",
           "name_cn": "",
@@ -14528,6 +14620,7 @@
         "2023",
         "2023年",
         "2023年4月",
+        "4月",
         "CygamesPictures",
         "OVA",
         "TV",
@@ -14540,11 +14633,10 @@
         "女人跑步男人哭",
         "小針哲也",
         "廖程芝",
-        "拟人",
+        "日常",
         "日本",
         "日本动画",
         "校园",
-        "治愈",
         "游戏改",
         "热血",
         "番外",
@@ -14845,6 +14937,7 @@
         "2023年4月",
         "2023年春",
         "PieInTheSky",
+        "Pie_in_the_sky",
         "SF",
         "TV",
         "中年",
@@ -14853,6 +14946,7 @@
         "哥斯拉",
         "子供向",
         "小哥斯拉的逆袭",
+        "怪兽",
         "推荐",
         "搞笑",
         "新海岳人",
@@ -15159,6 +15253,7 @@
         "2023年",
         "2023年4月",
         "Actas",
+        "GL",
         "OVA",
         "PrincessPrincipal",
         "Princess_Principal",
@@ -15166,7 +15261,6 @@
         "アクタス",
         "剧场版",
         "原创",
-        "古賀葵",
         "大河内一楼",
         "奇幻",
         "悬疑",
@@ -15535,9 +15629,9 @@
         "推理",
         "搞笑",
         "日本",
+        "映画",
         "柯南",
         "柯哀",
-        "樱井武晴",
         "櫻井武晴",
         "漫改",
         "漫画改",
@@ -15947,9 +16041,9 @@
         "推理",
         "搞笑",
         "日本",
+        "映画",
         "柯南",
         "柯哀",
-        "樱井武晴",
         "櫻井武晴",
         "漫改",
         "漫画改",
