@@ -20,13 +20,20 @@
         "TVA",
         "东京movie",
         "五武冬史",
+        "什真先",
+        "伊东恒久",
         "千々松幸子",
+        "富野由悠季",
+        "小林七郎",
         "岡部英二",
         "日本动画",
         "旧物",
         "星山博之",
+        "東京ムービー",
+        "石黑升",
         "童年",
         "野沢雅子",
+        "铃木良武",
         "長浜忠夫"
       ],
       "infobox": [
@@ -196,12 +203,12 @@
         "TV",
         "TVA",
         "アニメ",
+        "タツノコプロ",
         "动",
         "原创",
         "吉田龙夫",
         "大河原邦男",
         "太多了",
-        "川尻善昭",
         "战队",
         "无中文字幕",
         "日本动画",
@@ -480,7 +487,7 @@
         "TVA",
         "bilibili",
         "robo",
-        "ナック",
+        "ナック映画",
         "小林利雄",
         "日本动画",
         "旧物",
@@ -535,7 +542,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/91/c0/489605_zT6XE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/91/c0/489605_zT6XE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/91/c0/489605_zT6XE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/91/c0/489605_zT6XE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/91/c0/489605_zT6XE.jpg"
+          },
+          "name": "アストロガンガー",
+          "name_cn": "铁甲飞天侠 主题歌",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 489605
+        }
+      ]
     }
   }
 ]

@@ -21,13 +21,13 @@
         "TVA",
         "robo",
         "さかいあきお",
-        "东京Movie新社",
         "山口勝平",
         "岩坪理江",
         "待補1",
         "新铁金刚",
         "日本动画",
         "旧物",
+        "東京ムービー新社",
         "武上純希",
         "特摄",
         "童年",
@@ -200,8 +200,8 @@
         "SUNRISE",
         "TV",
         "TVA",
-        "TVB",
         "ガンダムG",
+        "サンライズ",
         "东方不败",
         "五武冬史",
         "今川泰宏",
@@ -777,11 +777,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/1a/98653_K3hkQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/1a/98653_K3hkQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0c/1a/98653_K3hkQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/1a/98653_K3hkQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/1a/98653_K3hkQ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/1a/98653_Pjz5q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/1a/98653_Pjz5q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0c/1a/98653_Pjz5q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/1a/98653_Pjz5q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/1a/98653_Pjz5q.jpg"
           },
           "name": "FLYING IN THE SKY",
           "name_cn": "",
@@ -889,13 +889,13 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/49/98652_BjnBE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/49/98652_BjnBE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/49/98652_BjnBE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/49/98652_BjnBE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/49/98652_BjnBE.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/49/98652_RFaH3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/49/98652_RFaH3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/49/98652_RFaH3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/49/98652_RFaH3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/49/98652_RFaH3.jpg"
           },
-          "name": "Trust You Forever／Beat The ウエル",
+          "name": "Trust You Forever",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -1008,12 +1008,14 @@
         "00前",
         "1990s",
         "1994",
-        "6.5",
+        "2020",
         "SHIN-EI",
-        "ならはしみき",
+        "TV",
         "アニメ",
         "アニメ映画",
         "シンエイ動画",
+        "七分",
+        "六分",
         "剧场版",
         "劇場版",
         "动画长片",
@@ -1025,11 +1027,9 @@
         "搞笑",
         "日本",
         "日本动画",
-        "有空补上",
         "本乡满",
         "本郷みつる",
         "漫改",
-        "漫画原案",
         "漫画改",
         "童年",
         "童年系",
@@ -1584,6 +1584,7 @@
         "TV",
         "TVA",
         "TVB",
+        "ぴえろ",
         "搞笑",
         "日本动画",
         "旧物",
@@ -1742,6 +1743,7 @@
         "TV",
         "TVA",
         "robo",
+        "サンライズ",
         "ロボットアニメ",
         "原创",
         "小杉十郎太",
@@ -1831,11 +1833,19 @@
         },
         {
           "key": "音乐制作",
-          "value": "ビクターエンタテインメント、テレビ東京ミュージック、サンライズ音楽出版"
+          "value": "ビクターエンタテインメント、テレビ東京ミュージック、サンライズ音楽出版(サンライズミュージック)"
         },
         {
-          "key": "制作",
+          "key": "製作",
           "value": "テレビ東京・創通エージェンシー・サンライズ"
+        },
+        {
+          "key": "机械设定",
+          "value": "中沢数宣、石垣純哉"
+        },
+        {
+          "key": "制片人",
+          "value": "小林教子(テレビ東京)、小水流正勝(創通エージェンシー)、富岡秀行(サンライズ)"
         }
       ],
       "total_episodes": 52,
@@ -1859,20 +1869,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 78546
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/3a/106856_ydDGM.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/3a/106856_ydDGM.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a3/3a/106856_ydDGM.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/3a/106856_ydDGM.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/3a/106856_ydDGM.jpg"
-          },
-          "name": "瞳でEle-phant!",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 106856
         },
         {
           "images": {
@@ -1901,6 +1897,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 141050
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/a0/147182_52Hmm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/a0/147182_52Hmm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1e/a0/147182_52Hmm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/a0/147182_52Hmm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/a0/147182_52Hmm.jpg"
+          },
+          "name": "Run ~今日が変わるMagic~",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 147182
         },
         {
           "images": {
@@ -1971,6 +1981,34 @@
           "relation": "书籍",
           "type": 1,
           "id": 482657
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/96/a8/489332_i2MNN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/96/a8/489332_i2MNN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/96/a8/489332_i2MNN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/a8/489332_i2MNN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/a8/489332_i2MNN.jpg"
+          },
+          "name": "Good-bye Tears",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 489332
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/b9/489333_CF11c.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/b9/489333_CF11c.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/b9/489333_CF11c.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/b9/489333_CF11c.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/b9/489333_CF11c.jpg"
+          },
+          "name": "瞳にDiamond",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 489333
         }
       ]
     }
@@ -2136,6 +2174,7 @@
         "E&GFILMS",
         "TV",
         "TVA",
+        "イージー・フイルム",
         "三石琴乃",
         "上世纪",
         "太空歌剧",
@@ -2191,6 +2230,10 @@
         {
           "key": "播放结束",
           "value": "1995年3月31日"
+        },
+        {
+          "key": "imdb_id",
+          "value": "tt0346280"
         },
         {
           "key": "主题歌演出",
@@ -2522,13 +2565,14 @@
         "ova2",
         "东映",
         "东映动画",
+        "乳首",
         "女性主角",
-        "屋良有作",
         "已收录(BDRip)",
         "待補0",
         "战斗",
         "旧物",
         "木村貴宏",
+        "東映アニメーション",
         "根谷美智子",
         "永井豪",
         "深见梨加",
@@ -2541,8 +2585,7 @@
         "肉番",
         "肉番(百合)",
         "長岡康史",
-        "长冈康史",
-        "高木涉"
+        "长冈康史"
       ],
       "infobox": [
         {
@@ -2781,11 +2824,11 @@
         "1994年4月",
         "1994年四月番",
         "90s",
-        "NipponAnimation",
         "TV",
         "TVA",
         "robo",
         "井内秀治",
+        "日本アニメーション",
         "日本动画",
         "旧物",
         "有空补完",
@@ -2856,6 +2899,20 @@
           "relation": "衍生",
           "type": 6,
           "id": 413894
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/13/489013_Qq46q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/13/489013_Qq46q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/13/489013_Qq46q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/13/489013_Qq46q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/13/489013_Qq46q.jpg"
+          },
+          "name": "Flower of Desert / Twilight Songs",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 489013
         }
       ]
     }

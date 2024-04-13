@@ -976,11 +976,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/4f/471338_S3gd3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/4f/471338_S3gd3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/30/4f/471338_S3gd3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/4f/471338_S3gd3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/4f/471338_S3gd3.jpg"
           },
           "name": "PSYCHO-PASS 10th ANNIVERSARY BEST",
           "name_cn": "",
@@ -2292,6 +2292,10 @@
         {
           "key": "播放网站",
           "value": "Netflix"
+        },
+        {
+          "key": "imdb_id",
+          "value": "tt9217782"
         }
       ],
       "total_episodes": 10,

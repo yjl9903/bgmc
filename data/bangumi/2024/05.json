@@ -24,19 +24,19 @@
         "TV",
         "TVA",
         "ヒーローアカ",
-        "三宅健太",
         "中山奈緒美",
         "剧场版",
         "可以预测的命运之舞台",
         "奇幻",
+        "屎",
         "山下大輝",
         "岡本信彦",
+        "我的英雄学院",
         "我的英雄學院",
         "战斗",
         "无法预测的命运之舞台",
         "日本",
         "日本动画",
-        "日漫",
         "校园",
         "漫改",
         "漫画",
@@ -45,7 +45,7 @@
         "男同性恋",
         "超能力",
         "辱华",
-        "黒田洋介"
+        "長崎健司"
       ],
       "infobox": [
         {
@@ -107,7 +107,19 @@
         },
         {
           "key": "製作",
-          "value": "僕のヒーローアカデミア製作委員会"
+          "value": "僕のヒーローアカデミア製作委員会（東宝、読売テレビ、集英社、BONES、電通、ソニー・ミュージックエンタテインメント、ムービック）大田圭二、松本拓也、大好誠、南雅彦、新居祐介、佐野弘明、髙橋竜"
+        },
+        {
+          "key": "执行制片人",
+          "value": "山中一孝"
+        },
+        {
+          "key": "总制片人",
+          "value": "高橋敦司、武井克弘、永井幸治、三條場一正、大藪芳広、石黒研三、外川明宏"
+        },
+        {
+          "key": "制片人",
+          "value": "津村美玲、加藤椋大、中田博也、呂夏娜、嵯峨隼人"
         }
       ],
       "total_episodes": 1,
@@ -159,6 +171,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 487245
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/11/488960_1GbYP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/11/488960_1GbYP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f2/11/488960_1GbYP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/11/488960_1GbYP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/11/488960_1GbYP.jpg"
+          },
+          "name": "僕のヒーローアカデミア Memories",
+          "name_cn": "我的英雄学院 memories",
+          "relation": "前传",
+          "type": 2,
+          "id": 488960
         }
       ]
     }
@@ -170,27 +196,27 @@
       "date": "2024-05-12",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/ee/441939_LvDdz.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/ee/441939_LvDdz.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/0a/ee/441939_LvDdz.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/ee/441939_LvDdz.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/ee/441939_LvDdz.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/ee/441939_6l6VR.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/ee/441939_6l6VR.jpg"
       },
       "summary": "",
       "name": "鬼滅の刃 柱稽古編",
       "name_cn": "鬼灭之刃 柱训练篇",
       "tags": [
-        "2020s",
         "2024",
+        "202404",
         "2024年",
         "2024年4月",
         "2024年5月",
         "2024春",
-        "24年4月",
         "BD0",
         "TV",
-        "TVA",
         "ufotable",
+        "『TVA』",
+        "冒险",
         "外崎春雄",
         "奇幻",
         "战斗",
@@ -198,13 +224,13 @@
         "日本",
         "日本动画",
         "日漫",
+        "未上映",
         "未定档",
         "未开播",
         "漫改",
         "漫画改",
         "热血",
         "续作",
-        "花江夏樹",
         "花澤香菜",
         "训练",
         "鬼滅の刃",
@@ -306,6 +332,20 @@
           "relation": "总集篇",
           "type": 2,
           "id": 469668
+        },
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
+          },
+          "name": "夢幻",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 488510
         }
       ]
     }
