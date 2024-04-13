@@ -375,7 +375,6 @@
         "adult": false,
         "backdrop_path": "/6llzd3LLcMqfNSsi5W1HAGlPdeS.jpg",
         "genre_ids": [
-          10759,
           16,
           18,
           10765
@@ -1532,7 +1531,6 @@
     "tmdb": {
       "id": 115785,
       "type": "tv",
-      "season": 2,
       "search": {
         "adult": false,
         "backdrop_path": "/8Um9JreliKGKkIyYiIf4OCKthka.jpg",
@@ -1546,7 +1544,7 @@
           "JP"
         ],
         "original_language": "ja",
-        "original_name": "こねこのチー ポンポンらー大冒険",
+        "original_name": "こねこのチー",
         "overview": "一只黑灰斑纹的小猫跟丢母亲又找不到回家的路，在筋疲力尽累瘫之际巧遇一个跌倒的小男孩，从此由男孩一家暂时照顾。因男孩家为禁止饲养宠物的公寓，一家人还得费尽心机不让邻居发现小猫的存在，只是偏偏一直找不到饲主又和小猫日久生情。在经历某些事情后，一家人终于搬到新公寓展开全新的生活。",
         "poster_path": "/nGIejsszFZl8xb3g9Epsdk0ClRq.jpg",
         "first_air_date": "2016-10-02",
@@ -1652,15 +1650,15 @@
       "id": 78521,
       "type": "tv",
       "search": {
-        "adult": false,
         "backdrop_path": "/d8dmSEVy1Mz5ObcFTM8WFCZk2Sp.jpg",
         "id": 78521,
-        "name": "实验品家庭",
-        "original_language": "zh",
         "original_name": "实验品家庭",
         "overview": "丹尼斯的父母是世间无法容许的疯狂科学家，他们将孩子囚禁在孤岛的研究所，\n\n在那边进行着残忍的秘密实验，将除了丹尼斯之外的孩子全都改造成特异人种。\n\n一日，秘密岛屿的实验室被发现了，\n\n父母被警察拘捕、孩子们则在社工安排下到另一个小岛上居住。\n\n问题是，除了丹尼斯以外的四个兄姐，并不具有现代人的常识……",
         "poster_path": "/ue72revk27X4RWIEHgrRVsPiffy.jpg",
         "media_type": "tv",
+        "adult": false,
+        "name": "实验品家庭",
+        "original_language": "zh",
         "genre_ids": [
           16,
           35,
@@ -2126,13 +2124,6 @@
       "search": {
         "adult": false,
         "backdrop_path": "/yU6oCgM4xGF7ZokINvCKjkMo8ex.jpg",
-        "id": 493006,
-        "title": "名侦探柯南：零的执行人",
-        "original_language": "ja",
-        "original_title": "名探偵コナン ゼロの執行人",
-        "overview": "作为东京峰会召开地的东京湾新设施“海洋边缘”「Edge of Ocean」。在峰会召开的5月1日有约2万名警察出动的这一超巨大设施，发生了大规模爆炸案！那里，有隶属于暗中掌控全国公安警察、俗称为“零”的警察厅秘密组织的安室透的身影。秘密暗中出动的安室的神秘行动令柯南不禁感到蹊跷。根据现场留下的作为证据的指纹，犯人被断定为曾在警视厅就职的毛利小五郎！与安室围绕小五郎的逮捕开始敌对的柯南听说了过去安室曾将嫌疑人逼至自杀的奇妙案件。随后在决定起诉小五郎的那时，在戒备森严的东京都内，同时爆发了多起难以理解的恐袭！柯南和公安警察正接近着隐藏在案件后的阴谋，峰会召开那天也被确定是大型无人探测器“天鹅”完成在火星的任务返回地球的日子。究竟，迫近的X日会发生什么？神秘的存在——安室透，究竟是敌人，还是伙伴？",
-        "poster_path": "/9jMR1AjV549jLpmodxlNIdMuSPj.jpg",
-        "media_type": "movie",
         "genre_ids": [
           12,
           28,
@@ -2142,7 +2133,13 @@
           9648,
           53
         ],
+        "id": 493006,
+        "original_language": "ja",
+        "original_title": "名探偵コナン ゼロの執行人",
+        "overview": "作为东京峰会召开地的东京湾新设施“海洋边缘”「Edge of Ocean」。在峰会召开的5月1日有约2万名警察出动的这一超巨大设施，发生了大规模爆炸案！那里，有隶属于暗中掌控全国公安警察、俗称为“零”的警察厅秘密组织的安室透的身影。秘密暗中出动的安室的神秘行动令柯南不禁感到蹊跷。根据现场留下的作为证据的指纹，犯人被断定为曾在警视厅就职的毛利小五郎！与安室围绕小五郎的逮捕开始敌对的柯南听说了过去安室曾将嫌疑人逼至自杀的奇妙案件。随后在决定起诉小五郎的那时，在戒备森严的东京都内，同时爆发了多起难以理解的恐袭！柯南和公安警察正接近着隐藏在案件后的阴谋，峰会召开那天也被确定是大型无人探测器“天鹅”完成在火星的任务返回地球的日子。究竟，迫近的X日会发生什么？神秘的存在——安室透，究竟是敌人，还是伙伴？",
+        "poster_path": "/9jMR1AjV549jLpmodxlNIdMuSPj.jpg",
         "release_date": "2018-04-13",
+        "title": "名侦探柯南：零的执行人",
         "video": false
       }
     }
@@ -2188,15 +2185,15 @@
       "id": 78941,
       "type": "tv",
       "search": {
-        "adult": false,
         "backdrop_path": "/dOydHyhs02UTk7jLmFszFueuz79.jpg",
         "id": 78941,
-        "name": "职场小烈",
-        "original_language": "ja",
         "original_name": "アグレッシブ烈子",
         "overview": "冲吧烈子和凯蒂猫同属三丽鸥公司创造，但她与凯蒂猫可爱的模样大不同。  　　冲吧烈子的外形像一只红熊猫小姐，25岁，在东京一家贸易公司会计部上班。外形十分可爱，但生气时——例如老板要她加班或同事戏弄她──她就会变得和凯蒂猫完全相反。头上会出现“烈”字，表达自己的怒气。  　　冲吧烈子每天被塞满工作，压力大到只能到卡拉OK狂唱死亡摇滚乐舒压、或是去喝啤酒，叫喊着“我会辞职！这不会是我的命运！”她的经历对于上班族来说甚有共鸣，而平常可爱的影像也与爆发Death Metal模式的样子有着强烈的反差。",
         "poster_path": "/PAAskjDFxJRdgAlvI1AspfNCHe.jpg",
         "media_type": "tv",
+        "adult": false,
+        "name": "职场小烈",
+        "original_language": "ja",
         "genre_ids": [
           16,
           35
@@ -2285,7 +2282,7 @@
         "original_language": "ja",
         "original_title": "ニンジャバットマン",
         "overview": "大猩猩古鲁德发明了一种新的机器展示给高谭市的超级罪犯们观看时，蝙蝠侠也随之出动欲阻止古鲁德的阴谋，但随着机器的发动，蝙蝠侠回过神来时已置身于古代的日本，并从先一步来到这个时代的猫女那得知了小丑、哈莉·奎茵、丧钟、毒藤女、企鹅人、双面人都在更早之前来到这里，并取代了日本历史上的大名们开始肆意改变过去。\r 为了回到自己的时代，失去了所有高科技装备的蝙蝠侠与同样来到这个时代的夜翼、红头罩、红罗宾、罗宾一起联手出击，欲要阻止恶徒们篡改历史的暴行。",
-        "poster_path": "/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg",
+        "poster_path": "/s8wUrD35eUyjLnPCGEy6iGhW6Bw.jpg",
         "release_date": "2018-06-15",
         "title": "忍者蝙蝠侠",
         "video": false

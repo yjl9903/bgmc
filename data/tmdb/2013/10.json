@@ -227,7 +227,8 @@
         "genre_ids": [
           10759,
           16,
-          35
+          35,
+          10765
         ],
         "id": 46025,
         "origin_country": [
@@ -403,7 +404,6 @@
     "tmdb": {
       "id": 38441,
       "type": "tv",
-      "season": 2,
       "search": {
         "adult": false,
         "backdrop_path": "/nPcgyYd2pJA5nuGJJ7EvNwzsJJ4.jpg",
@@ -496,15 +496,15 @@
       "id": 726409,
       "type": "movie",
       "search": {
-        "adult": false,
         "backdrop_path": null,
         "id": 726409,
-        "title": "白色相簿2 演唱会",
-        "original_language": "ja",
         "original_title": "WHITE ALBUM2 CONCERT",
         "overview": "2013年11月24日在东京国际论坛大厅C举办的“WHITE ALBUM2 CONCERT”决定蓝光化！！  SA-CD Hybrid盘收录了蓝光收录的一部分乐曲的现场音源。特制小册子预定收录「WHITE ALBUM2CONCERT座谈会」。\r 除了出演者米泽圆（饰演小木曾雪菜）、上原玲奈（歌手）、津田朱里（歌手）之外，制作人下川直哉、剧本作家丸户史明，还有作为顾客代表的生天目仁美（饰演冬马香）、上川优（饰演工藤美代子）、三宅麻理惠（饰演女学生）也参加了座谈会。",
         "poster_path": "/iiLRBzsvbYVXoKszVHPAz5o6DMP.jpg",
         "media_type": "movie",
+        "adult": false,
+        "title": "白色相簿2 演唱会",
+        "original_language": "ja",
         "genre_ids": [
           10402
         ],
@@ -832,7 +832,7 @@
         "original_language": "ja",
         "original_name": "世界でいちばん強くなりたい！",
         "overview": "国民偶像团体“Sweet Diva”人气各霸一方的萩原樱和宫泽惠丽奈，不仅是对手，也是惺惺相惜的伙伴。有一天，惠丽奈在节目中被“BERSERK”（狂战士）的职业女子摔角手风间璃绪挑衅、遭受摔角技攻击而受伤。为了帮惠丽奈报仇，樱决定下战帖、以职业摔角决胜负……",
-        "poster_path": "/1YaxVSLtXRH9qZjF4JIXML0PNDG.jpg",
+        "poster_path": "/8sMBAlIqPgDDAPECpGWKkKDPSl.jpg",
         "first_air_date": "2013-10-06",
         "name": "想成为世界最强"
       }
@@ -1151,15 +1151,15 @@
       "id": 118218,
       "type": "tv",
       "search": {
-        "adult": false,
         "backdrop_path": "/4lyuBcRAMtjkYow5yjMHErk1sPM.jpg",
         "id": 118218,
-        "name": "夜樱四重奏：月之泣",
-        "original_language": "ja",
         "original_name": "夜桜四重奏 〜ツキニナク〜",
         "overview": "全3话同捆于限定版单行本第14卷～第16卷。",
         "poster_path": "/rs0BRRvrz6LONuArADrD2KGCRRj.jpg",
         "media_type": "tv",
+        "adult": false,
+        "name": "夜樱四重奏：月之泣",
+        "original_language": "ja",
         "genre_ids": [],
         "first_air_date": "2013-10-09",
         "origin_country": [

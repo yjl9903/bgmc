@@ -42,22 +42,21 @@
       "search": {
         "adult": false,
         "backdrop_path": "/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg",
-        "id": 85937,
-        "name": "鬼灭之刃",
-        "original_language": "ja",
-        "original_name": "鬼滅の刃",
-        "overview": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，由 ufotable 制作。日本大正时期，那是一个吃人的恶鬼横行的世界，一名家人被鬼杀死，妹妹也变成了鬼的主人公炭治郎，在猎鬼人的指引下，成为了鬼猎人组织“鬼杀队”的一员，为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁而展开了战斗。",
-        "poster_path": "/8yL6oB8eGvnbJr4W1fTdHrI103R.jpg",
-        "media_type": "tv",
         "genre_ids": [
           16,
           10759,
           10765
         ],
-        "first_air_date": "2019-04-06",
+        "id": 85937,
         "origin_country": [
           "JP"
-        ]
+        ],
+        "original_language": "ja",
+        "original_name": "鬼滅の刃",
+        "overview": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，由 ufotable 制作。日本大正时期，那是一个吃人的恶鬼横行的世界，一名家人被鬼杀死，妹妹也变成了鬼的主人公炭治郎，在猎鬼人的指引下，成为了鬼猎人组织“鬼杀队”的一员，为了让妹妹祢豆子变回人类，为了讨伐杀害家人的恶鬼，为了斩断悲伤的连锁而展开了战斗。",
+        "poster_path": "/8yL6oB8eGvnbJr4W1fTdHrI103R.jpg",
+        "first_air_date": "2019-04-06",
+        "name": "鬼灭之刃"
       }
     }
   },
@@ -71,15 +70,15 @@
       "id": 1223178,
       "type": "movie",
       "search": {
-        "adult": false,
         "backdrop_path": null,
         "id": 1223178,
-        "title": "赛马娘 新时代之扉",
-        "original_language": "ja",
         "original_title": "ウマ娘 プリティーダービー 新時代の扉",
         "overview": "The film follows Jungle Pocket, who wishes to participate in the Triple Crown Classic race, which can only be run once in a lifetime. She faces rivals Agnes Tachyon and Manhattan Cafe.",
         "poster_path": "/kLa0EEAOxuoTD22lprQKGv6w9lL.jpg",
         "media_type": "movie",
+        "adult": false,
+        "title": "赛马娘 新时代之扉",
+        "original_language": "ja",
         "genre_ids": [
           16,
           18,
