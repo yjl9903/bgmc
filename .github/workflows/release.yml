@@ -1,8 +1,6 @@
 name: Release
 
 on:
-  workflow_dispatch:
-
   pull_request:
     types:
       - closed
@@ -11,7 +9,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
 
-    # if: ${{ github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'data') }}
+    if: ${{ github.event.pull_request.merged == true && contains(github.event.pull_request.labels.*.name, 'data') }}
 
     permissions:
       contents: write
