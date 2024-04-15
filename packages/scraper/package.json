@@ -1,0 +1,50 @@
+{
+  "name": "@bgmd/scraper",
+  "version": "0.0.2",
+  "private": true,
+  "description": "Scraper for bgmd",
+  "keywords": [
+    "bgmd"
+  ],
+  "homepage": "https://github.com/yjl9903/bgmc#readme",
+  "bugs": {
+    "url": "https://github.com/yjl9903/bgmc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjl9903/bgmc.git"
+  },
+  "license": "MIT",
+  "author": "XLor",
+  "sideEffects": false,
+  "type": "module",
+  "exports": {
+    ".": {
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "bgmd": "./cli.mjs"
+  },
+  "files": [
+    "*.mjs",
+    "dist"
+  ],
+  "scripts": {
+    "format": "prettier --write src/**/*.ts test/**/*.ts"
+  },
+  "dependencies": {
+    "bgmc": "workspace:*",
+    "bgmd": "workspace:*",
+    "breadc": "^0.9.7",
+    "tmdbc": "workspace:*"
+  },
+  "engines": {
+    "node": ">=v20.8.0"
+  }
+}

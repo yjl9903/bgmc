@@ -50,6 +50,14 @@
   "main": "data/index.json",
   "module": "data/index.json",
   "types": "index.d.ts",
+  "typesVersions": {
+    "*": {
+      "*": [
+        "./dist/*",
+        "./*"
+      ]
+    }
+  },
   "files": [
     "dist",
     "data",
