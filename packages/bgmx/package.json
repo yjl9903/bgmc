@@ -1,5 +1,5 @@
 {
-  "name": "@bgmd/scraper",
+  "name": "bgmx",
   "version": "0.0.2",
   "private": true,
   "description": "Scraper for bgmd",
@@ -36,6 +36,7 @@
     "dist"
   ],
   "scripts": {
+    "build": "unbuild",
     "format": "prettier --write src/**/*.ts test/**/*.ts"
   },
   "dependencies": {
@@ -46,5 +47,19 @@
   },
   "engines": {
     "node": ">=v20.8.0"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore(bgmx): release v${version}",
+      "tag": false,
+      "push": true
+    },
+    "npm": {
+      "publish": true
+    },
+    "hooks": {
+      "after:version": "pnpm run build",
+      "before:init": "pnpm run build && pnpm run test:ci"
+    }
   }
 }

@@ -100,7 +100,7 @@ importers:
         specifier: ^1.5.0
         version: 1.5.0(@types/node@20.12.7)
 
-  packages/scraper:
+  packages/bgmx:
     dependencies:
       bgmc:
         specifier: workspace:*
@@ -120,6 +120,8 @@ importers:
       breadc:
         specifier: ^0.9.7
         version: 0.9.7
+
+  packages/toolkit: {}
 
 packages:
 

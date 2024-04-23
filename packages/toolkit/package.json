@@ -1,0 +1,69 @@
+{
+  "name": "@bgmd/toolkit",
+  "version": "0.0.10",
+  "description": "Bangumi Data Toolkit",
+  "keywords": [
+    "bangumi",
+    "bgm"
+  ],
+  "homepage": "https://github.com/yjl9903/bgmc#readme",
+  "bugs": {
+    "url": "https://github.com/yjl9903/bgmc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjl9903/bgmc.git"
+  },
+  "license": "MIT",
+  "author": "XLor",
+  "sideEffects": false,
+  "type": "module",
+  "exports": {
+    ".": {
+      "require": "./dist/index.cjs",
+      "import": "./dist/index.mjs",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "typesVersions": {
+    "*": {
+      "*": [
+        "./dist/*",
+        "./*"
+      ]
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "unbuild",
+    "format": "prettier --write src/**/*.ts test/**/*.ts",
+    "release": "release-it",
+    "test": "vitest",
+    "test:ci": "vitest --run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=v20.8.0"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore(toolkit): release v${version}",
+      "tag": false,
+      "push": true
+    },
+    "npm": {
+      "publish": true
+    },
+    "hooks": {
+      "after:version": "pnpm run build",
+      "before:init": "pnpm run build && pnpm run test:ci"
+    }
+  }
+}
