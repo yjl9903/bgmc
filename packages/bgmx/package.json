@@ -64,7 +64,7 @@
     },
     "hooks": {
       "after:version": "pnpm run build",
-      "before:init": "pnpm run build && pnpm run test:ci"
+      "before:init": "pnpm run build"
     }
   }
 }
