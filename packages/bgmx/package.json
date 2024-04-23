@@ -20,12 +20,10 @@
   "type": "module",
   "exports": {
     ".": {
-      "require": "./dist/index.cjs",
       "import": "./dist/index.mjs",
       "types": "./dist/index.d.ts"
     }
   },
-  "main": "dist/index.cjs",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "bin": {
@@ -40,10 +38,17 @@
     "format": "prettier --write src/**/*.ts test/**/*.ts"
   },
   "dependencies": {
+    "@onekuma/map": "^0.1.10",
+    "bangumi-data": ">=0.3.142",
     "bgmc": "workspace:*",
     "bgmd": "workspace:*",
+    "bgmt": "workspace:*",
     "breadc": "^0.9.7",
-    "tmdbc": "workspace:*"
+    "fastest-levenshtein": "^1.0.16",
+    "fs-extra": "^11.2.0",
+    "rimraf": "^5.0.5",
+    "tmdbc": "workspace:*",
+    "undici": "^6.14.1"
   },
   "engines": {
     "node": ">=v20.8.0"

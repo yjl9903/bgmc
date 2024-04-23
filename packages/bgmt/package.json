@@ -1,5 +1,5 @@
 {
-  "name": "@bgmd/toolkit",
+  "name": "bgmt",
   "version": "0.0.10",
   "description": "Bangumi Data Toolkit",
   "keywords": [
@@ -54,7 +54,7 @@
   },
   "release-it": {
     "git": {
-      "commitMessage": "chore(toolkit): release v${version}",
+      "commitMessage": "chore(bgmt): release v${version}",
       "tag": false,
       "push": true
     },

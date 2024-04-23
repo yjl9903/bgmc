@@ -78,14 +78,8 @@
     "type-fest": "^4.16.0"
   },
   "devDependencies": {
-    "@onekuma/map": "^0.1.10",
     "@types/fs-extra": "^11.0.4",
-    "breadc": "^0.9.7",
-    "fastest-levenshtein": "^1.0.16",
-    "fs-extra": "^11.2.0",
-    "rimraf": "^5.0.5",
-    "undici": "^6.14.1",
-    "vitest": "^1.5.0"
+    "breadc": "^0.9.7"
   },
   "engines": {
     "node": ">=v20.8.0"

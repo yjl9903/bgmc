@@ -1,12 +1,12 @@
 # Bangumi Data Toolkit
 
-[![version](https://img.shields.io/npm/v/@bgmd/toolkit?label=@bgmd/toolkit)](https://www.npmjs.com/package/@bgmd/toolkit)
+[![version](https://img.shields.io/npm/v/bgmt?label=bgmt)](https://www.npmjs.com/package/bgmt)
 [![CI](https://github.com/yjl9903/bgmc/actions/workflows/ci.yml/badge.svg)](https://github.com/yjl9903/bgmc/actions/workflows/ci.yml)
 
 ## Installation
 
 ```bash
-npm i @bgmd/toolkit
+npm i bgmt
 ```
 
 ## Usage
