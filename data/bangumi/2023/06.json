@@ -27,10 +27,9 @@
         "サンジゲン",
         "三次元",
         "乐队",
+        "乐队题材",
         "偶像",
-        "剧情",
         "原创",
-        "悬疑",
         "扭曲",
         "无法预测的命运之舞台",
         "日常",
@@ -41,6 +40,7 @@
         "百合",
         "神作",
         "綾奈ゆにこ",
+        "绫奈由仁子",
         "羊宮妃那",
         "轻百合",
         "重力",
@@ -98,7 +98,7 @@
         },
         {
           "key": "脚本",
-          "value": "綾奈ゆにこ、後藤みどり、小川ひとみ、和場明子、晴日たに"
+          "value": "綾奈ゆにこ(1/3/7/13)、後藤みどり(2/6/10)、小川ひとみ(4/8/11)、和場明子(5/9/12)、晴日たに"
         },
         {
           "key": "音乐",
@@ -119,10 +119,6 @@
         {
           "key": "绑骨监督",
           "value": "矢代奈津子、柏木亨"
-        },
-        {
-          "key": "色彩设计",
-          "value": "北川順子"
         },
         {
           "key": "CG 导演",
@@ -154,17 +150,18 @@
         },
         {
           "key": "分镜",
-          "value": "林翔子"
+          "value": "林翔子(4/12)、柿本広大(1/3)、梅津朋美(2/7/10)、森田紘吏(5/8/11)、岡こずえ(6)、奥川尚弥(9/13)、日髙初美(12/13Live分镜)、鈴木大介(12Live分镜)"
         },
         {
           "key": "演出",
-          "value": "古賀公一郎"
+          "value": "古賀公一郎(4/6/8/11)、遠藤求(1/2/9)、大森大地(3/5/12)、梅津朋美(7/10)、山之口創(3/13)、池田新助"
         }
       ],
       "total_episodes": 14,
       "id": 428735,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -182,6 +179,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 208415
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/22/497784_p888P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/22/497784_p888P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0f/22/497784_p888P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/22/497784_p888P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/22/497784_p888P.jpg"
+          },
+          "name": "TVアニメ「BanG Dream! It's MyGO!!!!!」official guidebook FOOTPRINTS",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 497784
         },
         {
           "images": {
@@ -227,20 +238,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg"
-          },
-          "name": "BanG Dream!",
-          "name_cn": "",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 186515
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
@@ -283,6 +280,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg"
+          },
+          "name": "BanG Dream!",
+          "name_cn": "",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 186515
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/d7/308630_25Y75.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/d7/308630_25Y75.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a7/d7/308630_25Y75.jpg",
@@ -297,11 +308,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/62/473832_1jAAC.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/62/473832_1jAAC.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/68/62/473832_1jAAC.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/62/473832_1jAAC.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/62/473832_1jAAC.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/62/473832_z54hw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/62/473832_z54hw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/62/473832_z54hw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/62/473832_z54hw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/62/473832_z54hw.jpg"
           },
           "name": "劇場版 BanG Dream! It's MyGO!!!!! 前編 春の陽だまり、迷い猫",
           "name_cn": "",
@@ -465,11 +476,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/30/473854_WrP9A.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/30/473854_WrP9A.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/30/473854_WrP9A.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/30/473854_WrP9A.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/30/473854_WrP9A.jpg"
           },
           "name": "迷星叫(Anime ver.) / 迷路日々(Anime ver.)",
           "name_cn": "",
@@ -505,8 +516,7 @@
         "StudioPierrot",
         "⊘日本",
         "☐",
-        "【国家】日本",
-        "ブラッククローバー",
+        "ぴえろ",
         "七下",
         "令和",
         "剧场版",
@@ -514,6 +524,8 @@
         "动画",
         "原创",
         "奇幻",
+        "待上映",
+        "待维护",
         "战斗",
         "战斗热血",
         "日本",
@@ -525,7 +537,6 @@
         "種村綾隆",
         "续作",
         "续集",
-        "黑四",
         "黑色五叶草"
       ],
       "infobox": [
@@ -568,24 +579,16 @@
           "value": "田畠裕基（总监修）"
         },
         {
-          "key": "人物原案",
-          "value": "田畠裕基"
-        },
-        {
           "key": "导演",
           "value": "種村綾隆"
         },
         {
           "key": "人物设定",
-          "value": "竹田逸子；副人物设定：徳永久美子"
-        },
-        {
-          "key": "脚本",
-          "value": "ジョニー音田、折井愛"
+          "value": "竹田逸子；副人设：徳永久美子"
         },
         {
           "key": "製作",
-          "value": "映画ブラッククローバー製作委員会（テレビ東京、集英社、ぴえろ、avex entertainment、バンダイナムコエンターテインメント）"
+          "value": "映画ブラッククローバー製作委員会（テレビ東京、集英社、ぴえろ、avex pictures、バンダイナムコエンターテインメント）"
         },
         {
           "key": "发行",
@@ -596,14 +599,6 @@
           "value": "Netflix"
         },
         {
-          "key": "分镜",
-          "value": "種村綾隆、椅子汰、吉原達矢"
-        },
-        {
-          "key": "原画",
-          "value": "遠藤正明、濱﨑秀樹、Till、赤坂俊士、砂川貴哉、Daniel Baron、Riooo、Mitchell Gonzales、曾信雄、三木達也、Rondeseo、小坂倫洋、前並武志、小澤和則、小琳、木椽、FASTO、杉田柊、田中宏紀、富岡海任、三宮昌太、川崎博嗣、工藤昌史、松竹徳幸、小畑賢、坂本俊太、式地幸喜"
-        },
-        {
           "key": "话数",
           "value": "1"
         }
@@ -612,6 +607,7 @@
       "id": 331759,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -734,7 +730,6 @@
       "name": "大奥",
       "name_cn": "大奥",
       "tags": [
-        "2020-2029",
         "2023",
         "2023年",
         "2023年4月",
@@ -747,21 +742,22 @@
         "studiodeen",
         "よしながふみ",
         "スタジオディーン",
+        "低于7",
         "动画",
         "历史",
         "后宫",
-        "女多男少",
         "女性向",
+        "完整世界观",
         "宮野真守",
         "川井宪次",
         "性转",
         "日本",
         "松井恵理子",
         "架空",
-        "永塚拓马",
         "漫改",
         "漫画改",
         "猎奇",
+        "网飞精品",
         "阿部記之",
         "阿部记之"
       ],
@@ -830,6 +826,7 @@
       "id": 425986,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1018,6 +1015,7 @@
       "id": 411244,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1074,11 +1072,11 @@
       "date": "2023-06-23",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/ed/408883_799N9.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/ed/408883_799N9.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/bb/ed/408883_799N9.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/ed/408883_799N9.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/ed/408883_799N9.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/ed/408883_mguw7.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/ed/408883_mguw7.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/bb/ed/408883_mguw7.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/ed/408883_mguw7.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/ed/408883_mguw7.jpg"
       },
       "summary": "栞子・ミア・ランジュを加え13名となった「虹ヶ咲学園スクールアイドル同好会」。\r\n他校も巻き込んだ祭典「第2回スクールアイドルフェスティバル」、\r\nそして同好会ファーストライブの開催――。\r\n進んでいく季節のなかで、メンバーたちはあるときはライバル、あるときは仲間として、\r\nそれぞれの想いを胸に活動している。\r\n\r\nそんな中、2週間の短期留学を終えてロンドンから帰国した歩夢の隣には、\r\nスクールアイドルに憧れる短期留学生のアイラがいた。\r\n栞子をはじめとした同好会のメンバーたちは彼女の夢を応援するため、\r\nスクールアイドル体験プロジェクトを計画する。",
       "name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
@@ -1096,18 +1094,18 @@
         "OVA",
         "SUNRISE",
         "サンライズ",
-        "令和3年",
         "偶像",
         "剧场版",
+        "励志",
         "原创",
         "日常",
         "日本",
         "日本动画",
         "校园",
         "河村智之",
+        "治愈",
         "田中仁",
         "百合",
-        "矢野妃菜喜",
         "续作",
         "虹咲",
         "虹团",
@@ -1205,6 +1203,7 @@
       "id": 408883,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1219,7 +1218,7 @@
           },
           "name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 2期",
           "name_cn": "Love Live! 虹咲学园校园偶像同好会 第二季",
-          "relation": "主线故事",
+          "relation": "前传",
           "type": 2,
           "id": 335579
         },
@@ -1315,15 +1314,16 @@
       "tags": [
         "2023",
         "2023年",
-        "2023年10月",
         "2023年6月",
         "2023年7月",
         "CloverWorks",
         "TV",
+        "兄妹",
         "剧场版",
         "増井壮一",
         "增井壮一",
         "奇幻",
+        "妹妹",
         "小说改",
         "待上映",
         "恋爱",
@@ -1339,7 +1339,6 @@
         "轻小说改",
         "轻改",
         "青春",
-        "青春猪头少年",
         "青春猪头少年系列",
         "鴨志田一",
         "鸭志田一"
@@ -1424,6 +1423,7 @@
       "id": 402656,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1622,6 +1622,7 @@
       "id": 443686,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1648,6 +1649,7 @@
         "2020-2029",
         "2023",
         "2023年春",
+        "LIDENFILMS",
         "LINDERFILMS",
         "TV",
         "migmi",
@@ -1722,6 +1724,7 @@
       "id": 425604,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1874,6 +1877,7 @@
       "id": 419426,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1968,34 +1972,34 @@
       "name": "劇場版 美少女戦士セーラームーンCosmos 前編",
       "name_cn": "剧场版 美少女战士Cosmos 前篇",
       "tags": [
+        "2020-2029",
         "2020s",
         "2023",
+        "2023年",
+        "2023年4月",
+        "2023年5月",
+        "2023年春",
+        "STUDIO_DEEN",
         "studiodeen",
         "ふでやすかずゆき",
-        "アニメ映画",
         "スタジオディーン",
-        "三石琴乃",
         "东映",
         "东映动画",
+        "东映动画、StudioDEEN",
         "令和",
         "偶像元素",
         "刁主席亲自评价",
         "剧场版",
-        "动画",
         "少女向",
         "待上映",
-        "恋爱",
         "战斗",
         "日本",
         "日本动画",
-        "村瀬歩",
         "東映アニメーション",
         "漫改",
         "漫画改",
         "童年系列",
         "美少女战士",
-        "野島健児",
-        "高桥知也",
         "高橋知也",
         "魔法少女"
       ],
@@ -2060,6 +2064,7 @@
       "id": 379605,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2197,6 +2202,7 @@
         "三石琴乃",
         "东映",
         "东映动画",
+        "东映动画、StudioDEEN",
         "令和",
         "刁主席再评",
         "剧场版",
@@ -2205,11 +2211,10 @@
         "恋爱",
         "日本动画",
         "東映アニメーション",
+        "漫改",
         "漫画改",
-        "童年系列",
         "美少女战士",
         "野島健児",
-        "高桥知也",
         "高橋知也",
         "魔法少女"
       ],
@@ -2274,6 +2279,7 @@
       "id": 415728,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2389,6 +2395,7 @@
         "WEB",
         "中国",
         "中国动画",
+        "低于7",
         "冒险",
         "动画",
         "動畫片",
@@ -2556,6 +2563,7 @@
       "id": 345761,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

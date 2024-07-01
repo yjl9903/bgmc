@@ -6,11 +6,11 @@
       "date": "2023-02-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/8e/409323_8axt1.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/8e/409323_8axt1.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/38/8e/409323_8axt1.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/8e/409323_8axt1.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/8e/409323_8axt1.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/8e/409323_aexjw.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/8e/409323_aexjw.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/38/8e/409323_aexjw.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/8e/409323_aexjw.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/8e/409323_aexjw.jpg"
       },
       "summary": "和平的天空之地发生了大事件！？年幼的艾尔公主被安达古帝国给带走了！勇敢的少女索拉追着公主来到不可思议的洞穴，洞穴居然是通往异世界的天窗市！？电视？车子！？是魔法道具吗…！？没时间感到惊讶！要快点将公主带回…！飞往两个不同世界！光之美少女们的冒险即将开始了！英雄在此登场！",
       "name": "ひろがるスカイ！プリキュア",
@@ -38,12 +38,12 @@
         "斎藤敦史",
         "日常",
         "日本动画",
-        "村濑步",
         "東映アニメーション",
         "深澤恵梨香",
         "百合",
         "金月龍之介",
         "金月龙之介",
+        "霹雳Q娃",
         "魔法",
         "魔法少女"
       ],
@@ -202,6 +202,7 @@
       "id": 409323,
       "eps": 50,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -345,6 +346,34 @@
           "relation": "书籍",
           "type": 1,
           "id": 481128
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/93/485315_EO7Kz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/93/485315_EO7Kz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/22/93/485315_EO7Kz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/93/485315_EO7Kz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/93/485315_EO7Kz.jpg"
+          },
+          "name": "わんだふるぷりきゅあ！ざ・むーびー! ドキドキ♡ゲームの世界で大冒険！",
+          "name_cn": "美妙宠物 光之美少女！The Movie！心跳不已♡游戏世界大冒险！",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 485315
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f4/d4/497835_461ii.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f4/d4/497835_461ii.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f4/d4/497835_461ii.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f4/d4/497835_461ii.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f4/d4/497835_461ii.jpg"
+          },
+          "name": "ひろがるスカイ!プリキュア オフィシャルコンプリートブック",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 1,
+          "id": 497835
         }
       ]
     }
@@ -370,6 +399,7 @@
         "2023年1月",
         "3D",
         "5",
+        "5Inc.",
         "Animation",
         "Five",
         "Netflix",
@@ -471,6 +501,7 @@
       "id": 338655,
       "eps": 8,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -609,6 +640,7 @@
       "id": 419847,
       "eps": 16,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -637,7 +669,7 @@
         "2023年1月",
         "BL",
         "studiodeen",
-        "アニメ映画",
+        "『剧场版』",
         "スタジオディーン",
         "上野壮大",
         "中村能子",
@@ -649,7 +681,6 @@
         "待上映",
         "恋爱",
         "斉藤壮馬",
-        "日常",
         "日本动画",
         "未确定",
         "松岡禎丞",
@@ -661,7 +692,8 @@
         "石平信司",
         "耽美",
         "腐",
-        "青春"
+        "青春",
+        "齐藤壮马"
       ],
       "infobox": [
         {
@@ -739,6 +771,7 @@
       "id": 376008,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -872,11 +905,11 @@
         "欧美",
         "热血",
         "百合",
-        "真百合",
         "短片",
         "红白黑黄",
         "美国",
-        "美国动画"
+        "美国动画",
+        "补番"
       ],
       "infobox": [
         {
@@ -904,6 +937,7 @@
       "id": 390395,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -956,7 +990,6 @@
       "name": "BLUE GIANT",
       "name_cn": "蓝色巨星",
       "tags": [
-        "2020-2024",
         "2020-2029",
         "2022",
         "2023",
@@ -970,6 +1003,7 @@
         "アニメ映画",
         "上原ひろみ",
         "剧场版",
+        "剧场版2",
         "动画",
         "动画电影",
         "励志",
@@ -1101,6 +1135,7 @@
       "id": 353792,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1251,6 +1286,7 @@
       "id": 402657,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

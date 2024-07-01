@@ -23,7 +23,7 @@
         "SUNRISE",
         "サンライズ",
         "剧场版",
-        "动画",
+        "劇場版アニメ",
         "动画电影",
         "奇幻",
         "妖怪",
@@ -93,6 +93,7 @@
       "id": 19392,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -149,11 +150,11 @@
       "date": "2004-12-22",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/3d/3100_A60BU.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/3d/3100_A60BU.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/cc/3d/3100_A60BU.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/3d/3100_A60BU.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/3d/3100_A60BU.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/3d/3100_Its4e.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/3d/3100_Its4e.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/cc/3d/3100_Its4e.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/3d/3100_Its4e.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/3d/3100_Its4e.jpg"
       },
       "summary": "　　今まで全く運から見放されていた「榎本千尋」は、この春に無事に立橋院高校に合格。だが、この学校、入学試験などの重要な行事を「くじびき」で解決しようとする一風変わった高校だった。\r\n\r\n　　入学式のHR後、ふらりと立ち寄った図書館でとある少女に出会う。彼女の名前は「秋山時乃」。極度のキノコ好きで、「キノコ」という単語を耳にするだけで幸せになれる…らしい。千尋は時乃に「キノコ、好き?」と無造作に詰め寄られて、千尋はその積極的な態度に時乃に一目惚れをする。\r\n\r\n　　また立橋院高校は、1年間をかけて次期生徒会執行部を決めるという大きな行事がある。この行事は、くじびきで分かれたチームでライバル達と戦い、最後まで勝ち残ったチームが次期生徒会執行部に就任できるという壮大な行事だ。くじびきの運命に身を委ねるままに決まったチームには、自分は書記候補として、会長候補として同じチームに時乃の姿が…会計候補「朝霧小牧」、副会長候補「橘いづみ」と共に、激しい戦いを繰り広げる千尋達、果たして、執行部の座を勝ち取れるのか…そして千尋の恋の行方は…",
       "name": "くじびきアンバランス",
@@ -161,6 +162,7 @@
       "tags": [
         "2004",
         "2004年",
+        "2004年12月",
         "OVA",
         "PALM",
         "PALMSTUDIO",
@@ -185,7 +187,6 @@
         "漫改",
         "漫画改",
         "现视研",
-        "田村ゆかり",
         "神田朱未",
         "补番",
         "钢盔"
@@ -244,10 +245,6 @@
           "value": "大河原晴男"
         },
         {
-          "key": "动画制作",
-          "value": "PALM COMPANY LTD."
-        },
-        {
           "key": "制作",
           "value": "現視研研究会"
         },
@@ -260,6 +257,7 @@
       "id": 3100,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

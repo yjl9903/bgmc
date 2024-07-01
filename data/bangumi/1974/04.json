@@ -68,6 +68,7 @@
       "id": 107440,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -126,12 +127,12 @@
         "1974年4月",
         "70年代",
         "Cha研",
-        "ICHI",
         "Knack",
         "TV",
         "TVA",
         "アニメ",
         "ナック映画",
+        "单元剧",
         "原创",
         "吐槽",
         "吐槽片",
@@ -140,10 +141,10 @@
         "战斗",
         "搞笑",
         "无力吐槽",
-        "日本",
         "日本动画",
         "泡面",
         "泡面番",
+        "玉戸義雄",
         "田中英二",
         "神作",
         "科幻",
@@ -225,6 +226,7 @@
       "id": 16872,
       "eps": 65,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -284,6 +286,20 @@
           "relation": "其他",
           "type": 2,
           "id": 234881
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/d4/498980_5JCC4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/d4/498980_5JCC4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0c/d4/498980_5JCC4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/d4/498980_5JCC4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/d4/498980_5JCC4.jpg"
+          },
+          "name": "チャージマン研!",
+          "name_cn": "Chargeman研！",
+          "relation": "书籍",
+          "type": 1,
+          "id": 498980
         }
       ]
     }
@@ -305,7 +321,8 @@
       "name": "星の子チョビン",
       "name_cn": "星星王子",
       "tags": [
-        "旧物"
+        "旧物",
+        "零工作室"
       ],
       "infobox": [
         {
@@ -341,6 +358,7 @@
       "id": 213784,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -372,10 +390,12 @@
         "ロボットアニメ",
         "三一万能侠",
         "东映",
+        "仅了解就好",
         "元组",
         "原创",
         "原画",
         "大野清",
+        "山田俊司",
         "屹青",
         "恐龙帝国",
         "日本",
@@ -383,8 +403,6 @@
         "机器人",
         "机战",
         "東映アニメーション",
-        "東映アニメーション水木一郎",
-        "正剧没太大价值补仅了解就好",
         "永井豪",
         "流龙马",
         "燃",
@@ -433,23 +451,24 @@
       "id": 10405,
       "eps": 51,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/94/260925_bLmzx.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/94/260925_bLmzx.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/94/260925_bLmzx.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/94/260925_bLmzx.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/94/260925_bLmzx.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/ca/261045_eId7i.jpg"
           },
-          "name": "スーパーロボット大戦F完結編",
-          "name_cn": "超级机器人大战F完结篇",
+          "name": "第3次スーパーロボット大戦",
+          "name_cn": "第3次超级机器人大战",
           "relation": "游戏",
           "type": 4,
-          "id": 260925
+          "id": 261045
         },
         {
           "images": {
@@ -579,6 +598,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/94/260925_bLmzx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/94/260925_bLmzx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/94/260925_bLmzx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/94/260925_bLmzx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/94/260925_bLmzx.jpg"
+          },
+          "name": "スーパーロボット大戦F完結編",
+          "name_cn": "超级机器人大战F完结篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 260925
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/d1/120059_23A73.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/d1/120059_23A73.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/29/d1/120059_23A73.jpg",
@@ -590,20 +623,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 120059
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/ca/261045_eId7i.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/ca/261045_eId7i.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b0/ca/261045_eId7i.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/ca/261045_eId7i.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/ca/261045_eId7i.jpg"
-          },
-          "name": "第3次スーパーロボット大戦",
-          "name_cn": "第3次超级机器人大战",
-          "relation": "游戏",
-          "type": 4,
-          "id": 261045
         },
         {
           "images": {
@@ -719,6 +738,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/cf/492583_972R6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/cf/492583_972R6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/cf/492583_972R6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/cf/492583_972R6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/cf/492583_972R6.jpg"
+          },
+          "name": "ダイナミックスーパーロボット総進撃!!",
+          "name_cn": "Dynamic超级机器人总进击",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 492583
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/dd/48842_wX2wx.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/dd/48842_wX2wx.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/04/dd/48842_wX2wx.jpg",
@@ -817,11 +850,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/19/25921_3Al0N.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/19/25921_3Al0N.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/df/19/25921_3Al0N.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/19/25921_3Al0N.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/19/25921_3Al0N.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/19/25921_2qCQd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/19/25921_2qCQd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/19/25921_2qCQd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/19/25921_2qCQd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/19/25921_2qCQd.jpg"
           },
           "name": "ゲッターロボG",
           "name_cn": "盖塔机器人G",
@@ -971,11 +1004,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/2b/112951_AzaxM.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/2b/112951_AzaxM.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/46/2b/112951_AzaxM.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/2b/112951_AzaxM.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/2b/112951_AzaxM.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/2b/112951_t8gBP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/2b/112951_t8gBP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/2b/112951_t8gBP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/2b/112951_t8gBP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/2b/112951_t8gBP.jpg"
           },
           "name": "グレートマジンガー対ゲッターロボ",
           "name_cn": "大魔神对盖塔机器人",
@@ -1024,7 +1057,6 @@
         "“喜剧”",
         "ウルトラマン",
         "两级反转",
-        "修車工阿正",
         "全灭",
         "动作",
         "厕纸都不如",
@@ -1039,6 +1071,7 @@
         "暴死",
         "没有故乡的男人",
         "特摄",
+        "电波",
         "电视剧",
         "真人特摄",
         "童年",
@@ -1138,6 +1171,7 @@
       "id": 38659,
       "eps": 51,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 6,
@@ -1158,11 +1192,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/87/61260_OFZwi.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/87/61260_OFZwi.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/46/87/61260_OFZwi.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/87/61260_OFZwi.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/87/61260_OFZwi.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/87/61260_773s7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/87/61260_773s7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/87/61260_773s7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/87/61260_773s7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/87/61260_773s7.jpg"
           },
           "name": "ザ☆ウルトラマン",
           "name_cn": "乔尼亚斯奥特曼",
@@ -1211,6 +1245,76 @@
           "relation": "总集篇",
           "type": 6,
           "id": 329945
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/d8/493029_DLMh4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/d8/493029_DLMh4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f0/d8/493029_DLMh4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/d8/493029_DLMh4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/d8/493029_DLMh4.jpg"
+          },
+          "name": "ウルトラマンレオ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 493029
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/53/493033_6hX9R.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/53/493033_6hX9R.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/18/53/493033_6hX9R.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/53/493033_6hX9R.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/53/493033_6hX9R.jpg"
+          },
+          "name": "この広い野原いっぱい",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 493033
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9e/af/493034_bZV9V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9e/af/493034_bZV9V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9e/af/493034_bZV9V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9e/af/493034_bZV9V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9e/af/493034_bZV9V.jpg"
+          },
+          "name": "学園天国 / フィンガー5のテーマ",
+          "name_cn": "学园天国",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 493034
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/19/493035_Wns9e.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/19/493035_Wns9e.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cc/19/493035_Wns9e.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/19/493035_Wns9e.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/19/493035_Wns9e.jpg"
+          },
+          "name": "花咲じいさん",
+          "name_cn": "开花爷爷",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 493035
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/e4/493036_k2MlU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/e4/493036_k2MlU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/59/e4/493036_k2MlU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/e4/493036_k2MlU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/e4/493036_k2MlU.jpg"
+          },
+          "name": "桃太郎／浦島太郎／金太郎／一寸法師／牛若丸／だいこくさま",
+          "name_cn": "哥伦比亚儿歌合集 20",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 493036
         }
       ]
     }

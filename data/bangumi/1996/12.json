@@ -17,11 +17,12 @@
       "name_cn": "金田一少年之事件簿 歌剧院杀人事件",
       "tags": [
         "1996",
-        "8分",
         "OVA",
         "lxy",
+        "『剧场版』",
         "アニメ映画",
         "东映",
+        "东映动画",
         "剧场版",
         "剧场版1",
         "动画",
@@ -44,7 +45,6 @@
         "西尾大介",
         "西岡琢也",
         "金田一",
-        "金田一少年事件簿",
         "黑暗"
       ],
       "infobox": [
@@ -108,6 +108,7 @@
       "id": 49424,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -125,6 +126,20 @@
           "relation": "主线故事",
           "type": 2,
           "id": 9588
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/59/98729_qs9XE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/59/98729_qs9XE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/59/98729_qs9XE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/59/98729_qs9XE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/59/98729_qs9XE.jpg"
+          },
+          "name": "Mystery of Sound",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 98729
         }
       ]
     }
@@ -152,11 +167,10 @@
         "1996年12月",
         "90年代",
         "GroupTac",
+        "Group_Tuc",
         "OVA",
         "TV",
         "TVSP",
-        "『剧场版』",
-        "アニメ映画",
         "グループ・タック",
         "人兽路线",
         "传记",
@@ -175,7 +189,8 @@
         "独立剧场版",
         "猫片",
         "电影",
-        "贤治"
+        "贤治",
+        "难过"
       ],
       "infobox": [
         {
@@ -249,6 +264,7 @@
       "id": 3697,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

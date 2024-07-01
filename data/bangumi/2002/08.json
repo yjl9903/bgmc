@@ -22,7 +22,6 @@
         "HalFilmMaker",
         "TV",
         "TVB",
-        "乙女向",
         "伊藤郁子",
         "佐藤順一",
         "佐藤顺一",
@@ -38,6 +37,7 @@
         "彩梦芭蕾",
         "悲伤",
         "横手美智子",
+        "河本升悟",
         "河本昇悟",
         "治愈",
         "独特风格",
@@ -144,6 +144,7 @@
       "id": 5694,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -306,6 +307,7 @@
         "中田叔",
         "中田让治",
         "人机恋",
+        "十川誠志",
         "基情",
         "堺雅人",
         "多田由美",
@@ -315,13 +317,12 @@
         "山口宏",
         "战争",
         "战斗妖精雪风",
+        "机战",
         "深井零",
-        "神林長平",
         "神林长平",
         "科幻",
         "空战",
         "轻小说改",
-        "轻改",
         "闷",
         "雪风"
       ],
@@ -408,6 +409,7 @@
       "id": 2842,
       "eps": 5,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -523,6 +525,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 376009
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/90/500962_9lYvV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/90/500962_9lYvV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d8/90/500962_9lYvV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/90/500962_9lYvV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/90/500962_9lYvV.jpg"
+          },
+          "name": "戦闘妖精雪風 デザイナーズノート",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 500962
         }
       ]
     }
@@ -553,7 +569,7 @@
         "京都动画",
         "京阿尼",
         "偶像",
-        "动画",
+        "其他",
         "原创",
         "川濑浩平",
         "恶搞",
@@ -665,6 +681,7 @@
       "id": 18150,
       "eps": 6,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -845,23 +862,38 @@
       "id": 9351,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/99/9349_rsr5R.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/99/9349_rsr5R.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3e/99/9349_rsr5R.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/99/9349_rsr5R.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/99/9349_rsr5R.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/99/9349_kXDkD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/99/9349_kXDkD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/99/9349_kXDkD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/99/9349_kXDkD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/99/9349_kXDkD.jpg"
           },
           "name": "爆転シュート ベイブレード 2002",
           "name_cn": "爆旋陀螺2",
           "relation": "主线故事",
           "type": 2,
           "id": 9349
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/ad/496291_tsH22.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/ad/496291_tsH22.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a5/ad/496291_tsH22.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/ad/496291_tsH22.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/ad/496291_tsH22.jpg"
+          },
+          "name": "爆転シュート ベイブレード THE MOVIE 激闘!!タカオVS大地 オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 496291
         }
       ]
     }
@@ -873,11 +905,11 @@
       "date": "2002-08-25",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/cc/3292_53WbA.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/cc/3292_53WbA.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/cf/cc/3292_53WbA.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/cc/3292_53WbA.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/cc/3292_53WbA.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/cc/3292_k8iFF.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/cc/3292_k8iFF.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/cf/cc/3292_k8iFF.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/cc/3292_k8iFF.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/cc/3292_k8iFF.jpg"
       },
       "summary": "第一部OVA《热带雨林的爆笑生活DELUXE》（以下简称DELUXE）于2002年末至2003年初制作，共12集（分为6卷）",
       "name": "ジャングルはいつもハレのちグゥ デラックス",
@@ -988,6 +1020,7 @@
       "id": 3292,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1022,11 +1055,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/0a/3291_N88q3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/0a/3291_N88q3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/98/0a/3291_N88q3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/0a/3291_N88q3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/0a/3291_N88q3.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/0a/3291_6I7k6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/0a/3291_6I7k6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/98/0a/3291_6I7k6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/0a/3291_6I7k6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/0a/3291_6I7k6.jpg"
           },
           "name": "ジャングルはいつもハレのちグゥ",
           "name_cn": "热带雨林的爆笑生活",
@@ -1036,11 +1069,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/3e/3293_d1548.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/3e/3293_d1548.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ca/3e/3293_d1548.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/3e/3293_d1548.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/3e/3293_d1548.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/3e/3293_jL446.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/3e/3293_jL446.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/3e/3293_jL446.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/3e/3293_jL446.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/3e/3293_jL446.jpg"
           },
           "name": "ジャングルはいつもハレのちグゥ FINAL",
           "name_cn": "热带雨林的爆笑生活FINAL",
@@ -1116,6 +1149,7 @@
       "id": 450512,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1191,6 +1225,7 @@
       "id": 120935,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1204,7 +1239,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/44/321732_Hq6tA.jpg"
           },
           "name": "魔王ダンテ-THE FIRST",
-          "name_cn": "魔王但丁",
+          "name_cn": "",
           "relation": "书籍",
           "type": 1,
           "id": 321732
@@ -1248,12 +1283,12 @@
         "大宇",
         "张良",
         "惊天动地拳",
-        "昔日大宇",
         "机关术",
         "枫之舞后续",
         "柒",
         "水镜",
         "砍头三人组",
+        "苍之涛后无轩辕",
         "视频通关",
         "设定系",
         "赤松子",
@@ -1314,6 +1349,7 @@
       "id": 2483,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,

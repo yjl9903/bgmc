@@ -18,6 +18,7 @@
       "tags": [
         "1998",
         "TV",
+        "studiodeen",
         "少女向",
         "掉节操",
         "搞笑",
@@ -49,6 +50,7 @@
       "id": 86436,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -89,11 +91,11 @@
       "tags": [
         "1998",
         "1998年",
-        "2023",
         "J.C.STAFF",
         "SLAYERS",
+        "わたなべひろし",
+        "アニメ映画",
         "剧场版",
-        "剧场版续作",
         "动画",
         "可看可不看",
         "大长篇",
@@ -148,6 +150,7 @@
       "id": 11647,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -253,6 +256,7 @@
         "b.Movie",
         "f.日本",
         "j.值得且只值得看一遍(3星)",
+        "movie",
         "サンライズ",
         "剧场版",
         "加濑充子",
@@ -262,7 +266,6 @@
         "原创",
         "总集篇",
         "战争",
-        "敢达",
         "日升",
         "日本",
         "机战",
@@ -303,6 +306,7 @@
       "id": 41743,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -383,6 +387,7 @@
       "name": "新機動戦記ガンダムW Endless Waltz 特別篇",
       "name_cn": "新机动战记高达W 无尽的华尔兹 剧场版",
       "tags": [
+        "1990s",
         "1998",
         "1998年",
         "90年代",
@@ -392,6 +397,7 @@
         "サンライズ",
         "五小强",
         "剧场版",
+        "动画",
         "動畫",
         "原创",
         "大谷幸",
@@ -406,9 +412,7 @@
         "电影",
         "神ED",
         "科幻",
-        "绿川光",
         "萝卜",
-        "装b",
         "隅沢克之",
         "青木康直",
         "高达",
@@ -488,6 +492,7 @@
       "id": 2772,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -893,23 +898,38 @@
       "id": 23213,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/27/91493_WwOQj.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/27/91493_WwOQj.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b1/27/91493_WwOQj.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/27/91493_WwOQj.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/27/91493_WwOQj.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/41/93169_qNY67.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/41/93169_qNY67.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/41/93169_qNY67.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/41/93169_qNY67.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/41/93169_qNY67.jpg"
           },
-          "name": "第3次スーパーロボット大戦Z 時獄篇",
-          "name_cn": "第3次超级机器人大战Z 时狱篇",
-          "relation": "游戏",
-          "type": 4,
-          "id": 91493
+          "name": "真ゲッターロボ",
+          "name_cn": "真盖塔机器人",
+          "relation": "书籍",
+          "type": 1,
+          "id": 93169
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/cf/492583_972R6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/cf/492583_972R6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/cf/492583_972R6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/cf/492583_972R6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/cf/492583_972R6.jpg"
+          },
+          "name": "ダイナミックスーパーロボット総進撃!!",
+          "name_cn": "Dynamic超级机器人总进击",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 492583
         },
         {
           "images": {
@@ -1053,20 +1073,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/41/93169_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/41/93169_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b4/41/93169_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/41/93169_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/41/93169_jp.jpg"
-          },
-          "name": "真ゲッターロボ",
-          "name_cn": "真盖塔",
-          "relation": "书籍",
-          "type": 1,
-          "id": 93169
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/c6/47_yJDdk.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/c6/47_yJDdk.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/67/c6/47_yJDdk.jpg",
@@ -1078,6 +1084,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 47
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/27/91493_WwOQj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/27/91493_WwOQj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/27/91493_WwOQj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/27/91493_WwOQj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/27/91493_WwOQj.jpg"
+          },
+          "name": "第3次スーパーロボット大戦Z 時獄篇",
+          "name_cn": "第3次超级机器人大战Z 时狱篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 91493
         },
         {
           "images": {
@@ -1239,20 +1259,21 @@
       "name": "機動戦艦ナデシコ -The prince of darkness-",
       "name_cn": "机动战舰抚子号 暗黑王子",
       "tags": [
+        "1990s",
         "1998",
         "1998年",
         "90年代",
         "ED神作",
         "Nadesico",
-        "SF",
         "TV",
         "XEBEC",
+        "robo",
         "会川升",
         "佐藤竜雄",
         "佐藤龙雄",
+        "几原邦彦",
         "剧场版",
         "动画",
-        "南央美",
         "原创",
         "後藤圭二",
         "战斗",
@@ -1262,7 +1283,6 @@
         "映画",
         "最悲剧男女主角",
         "服部隆之",
-        "机动战舰",
         "机动战舰抚子",
         "机战",
         "機動戦艦ナデシコ-The_prince_of_darknes",
@@ -1345,6 +1365,7 @@
       "id": 516,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

@@ -211,23 +211,94 @@
       "id": 3019,
       "eps": 276,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/b9/202242_LGQ9J.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/b9/202242_LGQ9J.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/45/b9/202242_LGQ9J.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/b9/202242_LGQ9J.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/b9/202242_LGQ9J.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/04/288961_hb3L4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/04/288961_hb3L4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/67/04/288961_hb3L4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/04/288961_hb3L4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/04/288961_hb3L4.jpg"
           },
-          "name": "劇場版ポケットモンスター キミにきめた！",
-          "name_cn": "剧场版 精灵宝可梦 就决定是你了！",
-          "relation": "不同演绎",
+          "name": "Pocket Monster",
+          "name_cn": "口袋妖怪",
+          "relation": "游戏",
+          "type": 4,
+          "id": 288961
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/e7/90015_OlL1Q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/e7/90015_OlL1Q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/e7/90015_OlL1Q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/e7/90015_OlL1Q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/e7/90015_OlL1Q.jpg"
+          },
+          "name": "ピチューとピカチュウのふゆやすみ2001",
+          "name_cn": "皮卡丘的寒假2001",
+          "relation": "衍生",
           "type": 2,
-          "id": 202242
+          "id": 90015
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/d9/90014_NlgsF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/d9/90014_NlgsF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/d9/90014_NlgsF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/d9/90014_NlgsF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/d9/90014_NlgsF.jpg"
+          },
+          "name": "ピカチュウのふゆやすみ2000",
+          "name_cn": "皮卡丘的寒假2000",
+          "relation": "衍生",
+          "type": 2,
+          "id": 90014
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/16/90013_rUFkV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/16/90013_rUFkV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/16/90013_rUFkV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/16/90013_rUFkV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/16/90013_rUFkV.jpg"
+          },
+          "name": "ピカチュウのふゆやすみ",
+          "name_cn": "皮卡丘的寒假",
+          "relation": "衍生",
+          "type": 2,
+          "id": 90013
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/c0/103707_EFbpN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/c0/103707_EFbpN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d6/c0/103707_EFbpN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/c0/103707_EFbpN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/c0/103707_EFbpN.jpg"
+          },
+          "name": "ポケモン3Dアドベンチャー ミュウを探せ!",
+          "name_cn": "宝可梦3D大冒险 寻找梦幻！",
+          "relation": "衍生",
+          "type": 2,
+          "id": 103707
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/f2/103708_775t5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/f2/103708_775t5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e4/f2/103708_775t5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/f2/103708_775t5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/f2/103708_775t5.jpg"
+          },
+          "name": "ポケモン3Dアドベンチャー2 ピカチュウの海底大冒険",
+          "name_cn": "精灵宝可梦 3D冒险2 皮卡丘的海底大冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 103708
         },
         {
           "images": {
@@ -245,17 +316,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/c0/103707_EFbpN.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/c0/103707_EFbpN.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d6/c0/103707_EFbpN.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/c0/103707_EFbpN.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/c0/103707_EFbpN.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/2d/192723_wp7aX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/2d/192723_wp7aX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/01/2d/192723_wp7aX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/2d/192723_wp7aX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/2d/192723_wp7aX.jpg"
           },
-          "name": "ポケモン3Dアドベンチャー ミュウを探せ!",
-          "name_cn": "宝可梦3D大冒险 寻找梦幻！",
-          "relation": "衍生",
+          "name": "Pokémon Generations",
+          "name_cn": "宝可梦世代",
+          "relation": "其他",
           "type": 2,
-          "id": 103707
+          "id": 192723
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/b9/202242_LGQ9J.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/b9/202242_LGQ9J.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/b9/202242_LGQ9J.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/b9/202242_LGQ9J.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/b9/202242_LGQ9J.jpg"
+          },
+          "name": "劇場版ポケットモンスター キミにきめた！",
+          "name_cn": "剧场版 精灵宝可梦 就决定是你了！",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 202242
         },
         {
           "images": {
@@ -329,76 +414,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/f2/103708_775t5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/f2/103708_775t5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e4/f2/103708_775t5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/f2/103708_775t5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/f2/103708_775t5.jpg"
-          },
-          "name": "ポケモン3Dアドベンチャー2 ピカチュウの海底大冒険",
-          "name_cn": "精灵宝可梦 3D冒险2 皮卡丘的海底大冒险",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 103708
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/e7/90015_OlL1Q.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/e7/90015_OlL1Q.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5e/e7/90015_OlL1Q.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/e7/90015_OlL1Q.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/e7/90015_OlL1Q.jpg"
-          },
-          "name": "ピチューとピカチュウのふゆやすみ2001",
-          "name_cn": "皮卡丘的寒假2001",
-          "relation": "衍生",
-          "type": 2,
-          "id": 90015
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/2d/192723_wp7aX.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/2d/192723_wp7aX.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/01/2d/192723_wp7aX.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/2d/192723_wp7aX.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/2d/192723_wp7aX.jpg"
-          },
-          "name": "Pokémon Generations",
-          "name_cn": "宝可梦世代",
-          "relation": "其他",
-          "type": 2,
-          "id": 192723
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/df/3026_Hbt91.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/df/3026_Hbt91.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0c/df/3026_Hbt91.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/df/3026_Hbt91.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/df/3026_Hbt91.jpg"
-          },
-          "name": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
-          "name_cn": "剧场版 精灵宝可梦：水都的守护神 拉帝亚斯与拉帝欧斯",
-          "relation": "衍生",
-          "type": 2,
-          "id": 3026
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/04/288961_hb3L4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/04/288961_hb3L4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/67/04/288961_hb3L4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/04/288961_hb3L4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/04/288961_hb3L4.jpg"
-          },
-          "name": "Pocket Monster",
-          "name_cn": "口袋妖怪",
-          "relation": "游戏",
-          "type": 4,
-          "id": 288961
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/71/338353_eaTh6.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/71/338353_eaTh6.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/83/71/338353_eaTh6.jpg",
@@ -427,17 +442,59 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/d9/90014_NlgsF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/d9/90014_NlgsF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8e/d9/90014_NlgsF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/d9/90014_NlgsF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/d9/90014_NlgsF.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/df/3026_Hbt91.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/df/3026_Hbt91.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0c/df/3026_Hbt91.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/df/3026_Hbt91.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/df/3026_Hbt91.jpg"
           },
-          "name": "ピカチュウのふゆやすみ2000",
-          "name_cn": "皮卡丘的寒假2000",
+          "name": "劇場版ポケットモンスター 水の都の護神 ラティアスとラティオス",
+          "name_cn": "剧场版 精灵宝可梦：水都的守护神 拉帝亚斯与拉帝欧斯",
           "relation": "衍生",
           "type": 2,
-          "id": 90014
+          "id": 3026
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d2/3025_Ya2yt.jpg"
+          },
+          "name": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
+          "name_cn": "剧场版 精灵宝可梦：时拉比 穿梭时空的相遇",
+          "relation": "衍生",
+          "type": 2,
+          "id": 3025
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/52/3024_uHcRT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/52/3024_uHcRT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e5/52/3024_uHcRT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/52/3024_uHcRT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/52/3024_uHcRT.jpg"
+          },
+          "name": "劇場版ポケットモンスター 結晶塔の帝王 ENTEI",
+          "name_cn": "剧场版 精灵宝可梦：结晶塔的帝王",
+          "relation": "衍生",
+          "type": 2,
+          "id": 3024
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/d3/3023_inaQq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/d3/3023_inaQq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/09/d3/3023_inaQq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/d3/3023_inaQq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/d3/3023_inaQq.jpg"
+          },
+          "name": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
+          "name_cn": "剧场版 精灵宝可梦：梦幻的精灵宝可梦  洛奇亚爆诞",
+          "relation": "衍生",
+          "type": 2,
+          "id": 3023
         },
         {
           "images": {
@@ -455,11 +512,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/1b/411247_RHPPV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/1b/411247_RHPPV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/12/1b/411247_RHPPV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/1b/411247_RHPPV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/1b/411247_RHPPV.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/1b/411247_PX05P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/1b/411247_PX05P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/12/1b/411247_PX05P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/1b/411247_PX05P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/1b/411247_PX05P.jpg"
           },
           "name": "ポケットモンスター",
           "name_cn": "宝可梦 地平线",
@@ -494,20 +551,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 470087
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/16/90013_rUFkV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/16/90013_rUFkV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/40/16/90013_rUFkV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/16/90013_rUFkV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/16/90013_rUFkV.jpg"
-          },
-          "name": "ピカチュウのふゆやすみ",
-          "name_cn": "皮卡丘的寒假",
-          "relation": "衍生",
-          "type": 2,
-          "id": 90013
         },
         {
           "images": {
@@ -553,20 +596,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/a0/97240_9iUSR.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/a0/97240_9iUSR.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b1/a0/97240_9iUSR.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/a0/97240_9iUSR.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/a0/97240_9iUSR.jpg"
-          },
-          "name": "ライバル!",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 97240
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/85/2039_3l12Z.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/85/2039_3l12Z.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a4/85/2039_3l12Z.jpg",
@@ -578,6 +607,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 2039
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/a0/97240_9iUSR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/a0/97240_9iUSR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/a0/97240_9iUSR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/a0/97240_9iUSR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/a0/97240_9iUSR.jpg"
+          },
+          "name": "ライバル!",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 97240
         },
         {
           "images": {
@@ -609,17 +652,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/d3/3023_inaQq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/d3/3023_inaQq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/09/d3/3023_inaQq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/d3/3023_inaQq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/d3/3023_inaQq.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/20/97260_2jkem.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/20/97260_2jkem.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/17/20/97260_2jkem.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/20/97260_2jkem.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/20/97260_2jkem.jpg"
           },
-          "name": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
-          "name_cn": "剧场版 精灵宝可梦：梦幻的精灵宝可梦  洛奇亚爆诞",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 3023
+          "name": "Ready Go!",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 97260
         },
         {
           "images": {
@@ -637,17 +680,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/20/97260_2jkem.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/20/97260_2jkem.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/17/20/97260_2jkem.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/20/97260_2jkem.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/20/97260_2jkem.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/ae/4166_il9mR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/ae/4166_il9mR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/ae/4166_il9mR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/ae/4166_il9mR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/ae/4166_il9mR.jpg"
           },
-          "name": "Ready Go!",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 97260
+          "name": "ポケットモンスター 金",
+          "name_cn": "精灵宝可梦 金",
+          "relation": "游戏",
+          "type": 4,
+          "id": 4166
         },
         {
           "images": {
@@ -662,34 +705,6 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 98453
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/52/3024_uHcRT.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/52/3024_uHcRT.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e5/52/3024_uHcRT.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/52/3024_uHcRT.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/52/3024_uHcRT.jpg"
-          },
-          "name": "劇場版ポケットモンスター 結晶塔の帝王 ENTEI",
-          "name_cn": "剧场版 精灵宝可梦：结晶塔的帝王",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 3024
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/ae/4166_il9mR.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/ae/4166_il9mR.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/65/ae/4166_il9mR.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/ae/4166_il9mR.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/ae/4166_il9mR.jpg"
-          },
-          "name": "ポケットモンスター 金",
-          "name_cn": "精灵宝可梦 金",
-          "relation": "游戏",
-          "type": 4,
-          "id": 4166
         },
         {
           "images": {
@@ -721,20 +736,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/fe/2055_na1Hq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/fe/2055_na1Hq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9a/fe/2055_na1Hq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/fe/2055_na1Hq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/fe/2055_na1Hq.jpg"
-          },
-          "name": "ポケットモンスター クリスタル",
-          "name_cn": "精灵宝可梦 水晶",
-          "relation": "游戏",
-          "type": 4,
-          "id": 2055
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/17/98460_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/17/98460_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/02/17/98460_jp.jpg",
@@ -749,31 +750,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d2/3025_Ya2yt.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/fe/2055_na1Hq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/fe/2055_na1Hq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9a/fe/2055_na1Hq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/fe/2055_na1Hq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/fe/2055_na1Hq.jpg"
           },
-          "name": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
-          "name_cn": "剧场版 精灵宝可梦：时拉比 穿梭时空的相遇",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 3025
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/9b/146092_Sw8Mj.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/9b/146092_Sw8Mj.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/56/9b/146092_Sw8Mj.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/9b/146092_Sw8Mj.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/9b/146092_Sw8Mj.jpg"
-          },
-          "name": "Pokémon GO",
-          "name_cn": "精灵宝可梦 GO",
+          "name": "ポケットモンスター クリスタル",
+          "name_cn": "精灵宝可梦 水晶",
           "relation": "游戏",
           "type": 4,
-          "id": 146092
+          "id": 2055
         },
         {
           "images": {
@@ -788,6 +775,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 86966
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/9b/146092_Sw8Mj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/9b/146092_Sw8Mj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/9b/146092_Sw8Mj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/9b/146092_Sw8Mj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/9b/146092_Sw8Mj.jpg"
+          },
+          "name": "Pokémon GO",
+          "name_cn": "精灵宝可梦 GO",
+          "relation": "游戏",
+          "type": 4,
+          "id": 146092
         },
         {
           "images": {
@@ -897,11 +898,11 @@
       "date": "1997-04-01",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/72/19542_YCyY0.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/72/19542_YCyY0.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/bd/72/19542_YCyY0.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/72/19542_YCyY0.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/72/19542_YCyY0.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/72/19542_BBA7B.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/72/19542_BBA7B.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/bd/72/19542_BBA7B.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/72/19542_BBA7B.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/72/19542_BBA7B.jpg"
       },
       "summary": "此作是同名动画系列第二次以电视动画的方式播出的作品。1997年4月1日至同年9月23日每周二下午18时00分同样在东京电视台系列首播。全26话。\r\n该作原本在制作以前的计划名称为根岸版“天地无用TV系列”第2弹，但是经过讨论后定向的结果是决定更换制作人员，导演改由高本宣弘担任，剧本统筹由关岛真赖负责。而原案者梶岛在动画播出后的工作人员表上新的职称“原创人物设定”列出。\r\n该动画在播出之后，因片头曲的主唱者是由山本琳达担任而引发了话题。还有，音乐的工作则是交由以往参加过许多特摄影集或动画英雄作品的菊池俊辅负责。\r\n并于东京电视台首播完结1年之后，又在AT-X以一举放送（连续13小时）的方式再放送。",
       "name": "新・天地無用!",
@@ -964,6 +965,7 @@
       "id": 19542,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1230,7 +1232,7 @@
         },
         {
           "key": "脚本",
-          "value": "榎戸洋司、五十嵐卓哉、山口亮太、上村一宏、月村了衛"
+          "value": "榎戸洋司(1,2,3,4,5,7,9,13,14,15,22,23,25,26,30,33,34,37,38,39)、五十嵐卓哉(19)、山口亮太(6,8,10,16,18,24,27,31,32)、上村一宏(11,12)、月村了衛(17,20,21,28,35,36)"
         },
         {
           "key": "プランナー、広報",
@@ -1239,12 +1241,21 @@
         {
           "key": "主题歌演出",
           "value": "奥井雅美、裕未瑠華、上谷麻紀"
+        },
+        {
+          "key": "分镜",
+          "value": "幾原邦彦(1)、高橋亨(4,13,36)、松本淳(6,10,17,22,24,26,32,35)、ほしかわたかふみ(15)、金子伸吾(2,11,32,38)、錦織博(5,11,16,27,31,36)、五十嵐卓哉(9,19,25,30,37)、西村聡(8,18)、佐藤順一(34)、竹之内和久(3)、細田守(7,14,20,23,29,33,39)、曽我部孝(12)、桜井弘明(21)"
+        },
+        {
+          "key": "演出",
+          "value": "岡崎幸男(6,7,14,18,23,26,31)、ほしかわたかふみ(15)、桜井弘明(21)、金子伸吾(2,5,11,25,32,38)、岩崎良明(29)、西山明樹彦(8)、渡部高志(3)、桜美かつし(10,17,20,30,34,37)、五十嵐卓哉(9)、伊達勇登(22,27,35)、腰繁男(16)、高橋亨(1,4,12,13,19,24,28,33,36,39)"
         }
       ],
       "total_episodes": 39,
       "id": 1453,
       "eps": 39,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1961,10 +1972,9 @@
         "90年代",
         "95-99",
         "OP",
-        "SF",
         "StudioJunio",
         "TV",
-        "TVA",
+        "イメージケイ手冢Production",
         "スタジオジュニオ",
         "关俊彦",
         "内田直哉",
@@ -1973,18 +1983,19 @@
         "原创",
         "大友龙三郎",
         "大塚明夫",
+        "安利",
         "宝龟克寿",
-        "小说改",
         "待補0",
         "手塚PRO",
         "手塚PRODUCTION",
-        "手塚制作",
-        "日本动画",
         "旧物",
         "星际生活",
+        "植田浩二",
         "水谷优子",
+        "白井久男",
         "科幻",
-        "赛璐珞"
+        "赛璐珞",
+        "高桥宏固"
       ],
       "infobox": [
         {
@@ -2020,6 +2031,7 @@
       "id": 105129,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2050,7 +2062,6 @@
         "SLAYERS",
         "TV",
         "TV动画",
-        "アニメ",
         "イージー・フイルム",
         "动画",
         "原创",
@@ -2072,6 +2083,7 @@
         "轻小说改",
         "轻改",
         "魔剑美神",
+        "魔幻",
         "魔法"
       ],
       "infobox": [
@@ -2143,6 +2155,7 @@
       "id": 2097,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2281,6 +2294,7 @@
       "tags": [
         "1997",
         "90s",
+        "PIERROT",
         "SF",
         "StudioPierrot",
         "TV",
@@ -2332,6 +2346,7 @@
       "id": 85436,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2417,6 +2432,7 @@
         "1997年4月",
         "90年代",
         "TV",
+        "TVA",
         "TVB",
         "TV完结",
         "中华小当家",
@@ -2433,7 +2449,6 @@
         "漫画改",
         "热血",
         "熱血",
-        "田中真弓",
         "祖國版",
         "童年",
         "童年爱",
@@ -2544,6 +2559,7 @@
       "id": 1934,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2735,6 +2751,7 @@
         "漫改",
         "热血",
         "神谷明",
+        "补番",
         "赛璐珞",
         "黑暗"
       ],
@@ -2767,6 +2784,7 @@
       "id": 53939,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2812,6 +2830,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 215557
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/3e/490420_IPk6y.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/3e/490420_IPk6y.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/3e/490420_IPk6y.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/3e/490420_IPk6y.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/3e/490420_IPk6y.jpg"
+          },
+          "name": "RIDE ON THE NIGHT",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 490420
         }
       ]
     }
@@ -2839,10 +2871,10 @@
         "90年代",
         "TV",
         "TVA",
-        "TVB",
         "东映",
         "东映动画",
         "严谨",
+        "亜樹直",
         "侦探类",
         "动画",
         "悬疑",
@@ -2912,24 +2944,11 @@
       "id": 9588,
       "eps": 148,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/22/17200_M8m5q.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/22/17200_M8m5q.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/62/22/17200_M8m5q.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/22/17200_M8m5q.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/22/17200_M8m5q.jpg"
-          },
-          "name": "金田一少年の事件簿",
-          "name_cn": "金田一少年事件簿",
-          "relation": "书籍",
-          "type": 1,
-          "id": 17200
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/4d/17308_jp.jpg",
@@ -2946,45 +2965,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/d8/45159_R9lYm.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/d8/45159_R9lYm.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5f/d8/45159_R9lYm.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/d8/45159_R9lYm.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d8/45159_R9lYm.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/22/17200_M8m5q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/22/17200_M8m5q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/62/22/17200_M8m5q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/22/17200_M8m5q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/22/17200_M8m5q.jpg"
           },
-          "name": "CONFUSED MEMORIES",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 45159
-        },
-        {
-          "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
-          },
-          "name": "meet again",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 45160
-        },
-        {
-          "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
-          },
-          "name": "君がいるから・・・",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 45161
+          "name": "金田一少年の事件簿",
+          "name_cn": "金田一少年事件簿",
+          "relation": "书籍",
+          "type": 1,
+          "id": 17200
         },
         {
           "images": {
@@ -3002,17 +2993,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/59/98729_qs9XE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/59/98729_qs9XE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8e/59/98729_qs9XE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/59/98729_qs9XE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/59/98729_qs9XE.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/d8/45159_R9lYm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/d8/45159_R9lYm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5f/d8/45159_R9lYm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/d8/45159_R9lYm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/d8/45159_R9lYm.jpg"
           },
-          "name": "Mystery of Sound",
+          "name": "CONFUSED MEMORIES",
           "name_cn": "",
-          "relation": "片尾曲",
+          "relation": "片头曲",
           "type": 3,
-          "id": 98729
+          "id": 45159
         },
         {
           "images": {
@@ -3030,6 +3021,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/fd/45160_jaoVJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/fd/45160_jaoVJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6d/fd/45160_jaoVJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/fd/45160_jaoVJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/fd/45160_jaoVJ.jpg"
+          },
+          "name": "meet again",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 45160
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/0f/100451_bMzfH.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/0f/100451_bMzfH.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/13/0f/100451_bMzfH.jpg",
@@ -3044,6 +3049,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/9f/45161_fyY7l.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/9f/45161_fyY7l.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/9f/45161_fyY7l.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/9f/45161_fyY7l.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/9f/45161_fyY7l.jpg"
+          },
+          "name": "君がいるから...",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 45161
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/8e/49423_pTwwi.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/8e/49423_pTwwi.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/8f/8e/49423_pTwwi.jpg",
@@ -3055,6 +3074,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 49423
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/6d/499728_pq4gc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/6d/499728_pq4gc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/6d/499728_pq4gc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/6d/499728_pq4gc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/6d/499728_pq4gc.jpg"
+          },
+          "name": "BRAVE",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499728
         },
         {
           "images": {
@@ -3083,6 +3116,188 @@
           "relation": "番外篇",
           "type": 2,
           "id": 49425
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/3e/499732_146c4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/3e/499732_146c4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cb/3e/499732_146c4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/3e/499732_146c4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/3e/499732_146c4.jpg"
+          },
+          "name": "JUSTICE ~Future Mystery~",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499732
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/36/139103_8xGee.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/36/139103_8xGee.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f3/36/139103_8xGee.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/36/139103_8xGee.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/36/139103_8xGee.jpg"
+          },
+          "name": "Why?",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 139103
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/70/499739_kpI0U.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/70/499739_kpI0U.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/76/70/499739_kpI0U.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/70/499739_kpI0U.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/70/499739_kpI0U.jpg"
+          },
+          "name": "Never Say Why, Never Say No",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499739
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/17/499740_88Bsn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/17/499740_88Bsn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/90/17/499740_88Bsn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/17/499740_88Bsn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/17/499740_88Bsn.jpg"
+          },
+          "name": "2人",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499740
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/8c/499741_X39hg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/8c/499741_X39hg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f0/8c/499741_X39hg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/8c/499741_X39hg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/8c/499741_X39hg.jpg"
+          },
+          "name": "Boo Bee MAGIC",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499741
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/7d/499745_W111z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/7d/499745_W111z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/7d/499745_W111z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/7d/499745_W111z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/7d/499745_W111z.jpg"
+          },
+          "name": "Mysterious Night",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499745
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/92/499749_dHII3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/92/499749_dHII3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2e/92/499749_dHII3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/92/499749_dHII3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/92/499749_dHII3.jpg"
+          },
+          "name": "White page",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499749
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/f0/499756_PTO2F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/f0/499756_PTO2F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ed/f0/499756_PTO2F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/f0/499756_PTO2F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/f0/499756_PTO2F.jpg"
+          },
+          "name": "ジーンズ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499756
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/93/499760_zEV7v.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/93/499760_zEV7v.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7c/93/499760_zEV7v.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/93/499760_zEV7v.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/93/499760_zEV7v.jpg"
+          },
+          "name": "はてしなく青い空を見た",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499760
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6e/71/499764_Lt3T9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6e/71/499764_Lt3T9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6e/71/499764_Lt3T9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6e/71/499764_Lt3T9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6e/71/499764_Lt3T9.jpg"
+          },
+          "name": "Believe myself",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499764
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/df/499766_8EwGG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/df/499766_8EwGG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5c/df/499766_8EwGG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5c/df/499766_8EwGG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/df/499766_8EwGG.jpg"
+          },
+          "name": "Sink",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499766
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/ec/499772_Z11zX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/ec/499772_Z11zX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/da/ec/499772_Z11zX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/ec/499772_Z11zX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/ec/499772_Z11zX.jpg"
+          },
+          "name": "コングラッチェ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499772
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/29/499785_2r215.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/29/499785_2r215.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/29/499785_2r215.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/29/499785_2r215.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/29/499785_2r215.jpg"
+          },
+          "name": "ウルトライダー",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499785
         }
       ]
     }
@@ -3107,11 +3322,11 @@
         "00前",
         "1990s",
         "1997",
+        "1997年4月",
         "2020",
         "SHIN-EI",
-        "ならはしみき",
+        "SHIN-EI动画",
         "アニメ映画",
-        "クレヨンしんちゃん",
         "シンエイ動画",
         "六分",
         "剧场版",
@@ -3119,9 +3334,10 @@
         "原创",
         "原恵一",
         "原惠一",
+        "堤規至",
+        "宮崎慎二",
         "弱7",
         "搞笑",
-        "新锐动画",
         "日本",
         "日本动画",
         "映画",
@@ -3130,10 +3346,9 @@
         "漫画改",
         "童年",
         "童年系",
-        "藤原啓治",
+        "荒川敏行",
         "蜡笔小新",
-        "蠟筆小新",
-        "补标"
+        "蠟筆小新"
       ],
       "infobox": [
         {
@@ -3223,6 +3438,7 @@
       "id": 8971,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3426,6 +3642,7 @@
       "id": 2968,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3539,9 +3756,11 @@
         "90年代",
         "TV",
         "TVB",
+        "studiodeen",
         "不到7分",
         "动",
         "喜欢",
+        "在电视上断断续续看过",
         "奇幻",
         "找不到资源",
         "搞笑",
@@ -3594,6 +3813,7 @@
       "id": 19454,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3636,11 +3856,11 @@
       "date": "1997-04-02",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/1b/8412_02Lyk.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/1b/8412_02Lyk.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/83/1b/8412_02Lyk.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/1b/8412_02Lyk.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/1b/8412_02Lyk.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/1b/8412_0PzvI.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/1b/8412_0PzvI.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/83/1b/8412_0PzvI.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/1b/8412_0PzvI.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/1b/8412_0PzvI.jpg"
       },
       "summary": "从宇宙的彼方Bratcher星而来的拥有黑暗能源的三人组快速魔头号、黑暗使者号、马虎恶魔号到达地球，将能源附身于蒸汽机车之上获得了拥有自我意识且可以变身的机体，为了实现“把世界变成漆黑一片”（OVA是以征服地球为目标的恶作剧）的目的，决定首先要把日本作为中心展开他们的“黑暗大作战”。为了阻止这一野心，正义的铁胆火车侠从Hikarian行星追赶而来，把作为各自能源起源的电力与容易被采用的新干线铁道车辆相融合，也有靠引擎和蒸汽机关电力发电的登场人物（电车·铁路机车）存在。\r\n穿过路线之外时候的变形，各自在地球上的生活，铁胆火车侠与他们最大的敌人银色魔头号不断的进行战斗。地球人为了支援铁胆火车侠而开设了日本ヒカリアン鉄道（JHR）与铁道公司，平时处理着一些不是铁胆火车侠的新干线电车的旅客输送任务。",
       "name": "超特急ヒカリアン",
@@ -3653,13 +3873,13 @@
         "TV",
         "TVA",
         "TV动画",
+        "アニメ",
         "井上敏樹",
         "儿时回忆",
         "动画",
         "原创",
         "廣川集一",
         "战斗",
-        "新田義方",
         "日本",
         "日本动画",
         "机器人",
@@ -3745,17 +3965,18 @@
       "id": 8412,
       "eps": 156,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/27/8413_cVv1F.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/27/8413_cVv1F.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6b/27/8413_cVv1F.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/27/8413_cVv1F.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/27/8413_cVv1F.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/27/8413_4F4i4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/27/8413_4F4i4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6b/27/8413_4F4i4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/27/8413_4F4i4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/27/8413_4F4i4.jpg"
           },
           "name": "電光超特急ヒカリアン",
           "name_cn": "铁胆火车侠2",
@@ -3870,6 +4091,7 @@
         "1997",
         "TV",
         "TVB",
+        "日本动画公司",
         "旧物",
         "热血",
         "童年",
@@ -3915,6 +4137,7 @@
       "id": 36013,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3969,7 +4192,9 @@
       "tags": [
         "1997",
         "TV",
+        "TriangleStaff",
         "圣子到",
+        "在电视上断断续续看过",
         "战斗",
         "旧物",
         "校园",
@@ -4001,6 +4226,7 @@
       "id": 87630,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

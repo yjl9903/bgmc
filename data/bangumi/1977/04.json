@@ -6,11 +6,11 @@
       "date": "1977-04-09",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/57/37225_cEC4t.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/57/37225_cEC4t.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/6a/57/37225_cEC4t.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/57/37225_cEC4t.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/57/37225_cEC4t.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/57/37225_0I60U.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/57/37225_0I60U.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/6a/57/37225_0I60U.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/57/37225_0I60U.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/57/37225_0I60U.jpg"
       },
       "summary": "在地底复苏的沙索里昂帝国(サゾリオン帝国)侵袭日本，而在游乐场工作的白银五郎等四人，接受刚堂博士的请求驾驶机器人战斗，机器人则游乐场的平时的游乐设施。除了和沙索里昂帝国战斗，五郎等人还要去找安塔尔大魔玉(アンターレス大魔玉)。",
       "name": "超合体魔術ロボ ギンガイザー",
@@ -28,6 +28,7 @@
         "山本優",
         "日本アニメーション",
         "日本动画",
+        "日本动画公司苇Production",
         "旧物",
         "案納正美",
         "科幻",
@@ -99,10 +100,26 @@
       "id": 37225,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/e2/493337_51wVD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/e2/493337_51wVD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/e2/493337_51wVD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/e2/493337_51wVD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/e2/493337_51wVD.jpg"
+          },
+          "name": "超合体魔術ロボ ギンガイザー オリジナル・サウンドトラック",
+          "name_cn": "超合体魔术机器人 银凯撒 OST",
+          "relation": "原声集",
+          "type": 3,
+          "id": 493337
+        }
+      ]
     }
   },
   {
@@ -132,6 +149,7 @@
         "岡部英二",
         "日本アニメーション",
         "日本动画",
+        "日本动画公司",
         "旧物",
         "永井豪",
         "麻生美代子",
@@ -163,6 +181,7 @@
       "id": 190658,
       "eps": 23,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

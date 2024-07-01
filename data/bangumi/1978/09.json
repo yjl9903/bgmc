@@ -20,7 +20,6 @@
         "1978",
         "1978年",
         "1978年9月",
-        "70s",
         "70年代",
         "SF",
         "TV",
@@ -30,11 +29,9 @@
         "公路",
         "剧情",
         "剧情类",
-        "动画",
         "日本",
         "日本动画",
         "昭和",
-        "未",
         "東映アニメーション",
         "松本零士",
         "漫改",
@@ -43,8 +40,11 @@
         "经典",
         "荒木伸吾",
         "补旧番",
+        "补番",
+        "被低估",
         "西沢信孝",
         "银河铁道999",
+        "长篇",
         "青木望"
       ],
       "infobox": [
@@ -125,6 +125,7 @@
       "id": 10392,
       "eps": 113,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -142,6 +143,20 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 351559
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/bd/499402_McMlM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/bd/499402_McMlM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/bd/499402_McMlM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/bd/499402_McMlM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/bd/499402_McMlM.jpg"
+          },
+          "name": "銀河鉄道999 / 青い地球",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499402
         },
         {
           "images": {
@@ -299,11 +314,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_7lwS8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_7lwS8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_7lwS8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/81/12784_7lwS8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/81/12784_7lwS8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_4Yff9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_4Yff9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_4Yff9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/81/12784_4Yff9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/81/12784_4Yff9.jpg"
           },
           "name": "銀河鉄道物語",
           "name_cn": "银河铁道物语",
@@ -489,6 +504,7 @@
         "70s",
         "TV",
         "TVspecial",
+        "日本动画公司",
         "旧物",
         "赛璐珞"
       ],
@@ -514,6 +530,7 @@
       "id": 97133,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

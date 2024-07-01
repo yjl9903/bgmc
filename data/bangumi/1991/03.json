@@ -23,8 +23,8 @@
         "GPX",
         "SUNRISE",
         "TV",
-        "TVA",
         "TVB",
+        "动画",
         "原创",
         "大谷幸",
         "怀旧",
@@ -132,6 +132,7 @@
       "id": 1954,
       "eps": 37,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -219,6 +220,20 @@
           "relation": "总集篇",
           "type": 2,
           "id": 435568
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/a2/490422_9d5iD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/a2/490422_9d5iD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f0/a2/490422_9d5iD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/a2/490422_9d5iD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/a2/490422_9d5iD.jpg"
+          },
+          "name": "新世紀GPXサイバーフォーミュラ",
+          "name_cn": "",
+          "relation": "番外篇",
+          "type": 1,
+          "id": 490422
         }
       ]
     }
@@ -246,7 +261,7 @@
         "F91",
         "GUNDAM",
         "SUNRISE",
-        "サンライズ",
+        "UC",
         "剧场版",
         "动画",
         "原创",
@@ -350,6 +365,7 @@
       "id": 4482,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -906,17 +922,18 @@
       "name": "ドラゴンボールZ 超サイヤ人だ孫悟空",
       "name_cn": "龙珠Z 超级赛亚人孙悟空",
       "tags": [
-        "1990s",
         "1991",
         "2018",
         "90年代",
         "JUMP",
+        "TV",
         "アニメ映画",
         "世纪初",
         "东映",
         "前田実",
         "剧场版",
         "动画",
+        "动画电影",
         "原创",
         "小山高生",
         "战斗",
@@ -934,8 +951,7 @@
         "系列映画",
         "菊池俊輔",
         "鸟山明",
-        "龙珠",
-        "龙珠系列"
+        "龙珠"
       ],
       "infobox": [
         {
@@ -983,6 +999,7 @@
       "id": 44942,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1055,7 +1072,6 @@
         "SF",
         "SHIN-EI",
         "Shin-EiAnimation",
-        "movie",
         "アニメ映画",
         "シンエイ動画",
         "ドラえもん",
@@ -1067,6 +1083,7 @@
         "哆啦A梦",
         "天方夜谭",
         "奇幻",
+        "战斗",
         "搞笑",
         "日本",
         "日本动画",
@@ -1176,6 +1193,7 @@
       "id": 450,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1283,6 +1301,7 @@
         "中篇",
         "剧场",
         "剧场版",
+        "动画电影",
         "原创",
         "原恵一",
         "原惠一",
@@ -1296,7 +1315,6 @@
         "漫画改",
         "童年",
         "童年系列",
-        "经典",
         "藤子・F・不二雄",
         "附映",
         "附篇电影"
@@ -1323,6 +1341,7 @@
       "id": 121742,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1426,6 +1445,7 @@
       "id": 23180,
       "eps": 5,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1553,10 +1573,25 @@
       "id": 36808,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/bf/29278_s5vSs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/bf/29278_s5vSs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/bf/29278_s5vSs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/bf/29278_s5vSs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/bf/29278_s5vSs.jpg"
+          },
+          "name": "BURN-UP SCRAMBLE",
+          "name_cn": "杀人科 SCRAMBLE",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 29278
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/66/36809_X6x0S.jpg",
@@ -1567,7 +1602,7 @@
           },
           "name": "BURN-UP W",
           "name_cn": "杀人科 W",
-          "relation": "续集",
+          "relation": "不同世界观",
           "type": 2,
           "id": 36809
         },
@@ -1607,6 +1642,7 @@
       "tags": [
         "1991",
         "GUNDAM",
+        "OVA",
         "SD",
         "SUNRISE",
         "剧场版"
@@ -1657,6 +1693,7 @@
       "id": 279055,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1811,6 +1848,7 @@
       "id": 416781,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

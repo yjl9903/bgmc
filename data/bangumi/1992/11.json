@@ -26,6 +26,7 @@
         "OVA",
         "SUNRISE",
         "TV",
+        "TVB",
         "サンライズ",
         "体育",
         "兰度~",
@@ -41,7 +42,6 @@
         "科幻",
         "竞技",
         "童年",
-        "競技",
         "续集",
         "补旧番",
         "赛车",
@@ -127,6 +127,7 @@
       "id": 1955,
       "eps": 6,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -200,6 +201,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 98509
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/a2/490422_9d5iD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/a2/490422_9d5iD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f0/a2/490422_9d5iD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/a2/490422_9d5iD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/a2/490422_9d5iD.jpg"
+          },
+          "name": "新世紀GPXサイバーフォーミュラ",
+          "name_cn": "",
+          "relation": "番外篇",
+          "type": 1,
+          "id": 490422
         }
       ]
     }

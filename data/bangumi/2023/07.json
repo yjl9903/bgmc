@@ -16,13 +16,13 @@
       "name": "幻日のヨハネ -SUNSHINE in the MIRROR-",
       "name_cn": "幻日夜羽 -镜中晖光-",
       "tags": [
+        "2020s",
         "2023",
         "2023年",
         "2023年7月",
         "Aqours",
         "LoveLive",
         "LoveLive！",
-        "LoveLive！Sunshine!!",
         "SUNRISE",
         "TV",
         "TVA",
@@ -30,9 +30,9 @@
         "中谷亚沙美",
         "中谷亜沙美",
         "偶像",
-        "加藤达也",
         "动画",
         "原创",
+        "外传",
         "大野敏哉",
         "奇幻",
         "小林愛香",
@@ -172,23 +172,38 @@
       "id": 389772,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/34/443093_jF8sb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/34/443093_jF8sb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b0/34/443093_jF8sb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/34/443093_jF8sb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/34/443093_jF8sb.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/58/380948_Fe5En.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/58/380948_Fe5En.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/58/380948_Fe5En.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/58/380948_Fe5En.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/58/380948_Fe5En.jpg"
           },
-          "name": "幻日のヨハネ -BLAZE in the DEEPBLUE-",
-          "name_cn": "幻日夜羽 -湛海耀光-",
-          "relation": "游戏",
-          "type": 4,
-          "id": 443093
+          "name": "幻日のヨハネ -Unpolarized Reflexion-",
+          "name_cn": "幻日之夜羽 -Unpolarized Reflexion-",
+          "relation": "书籍",
+          "type": 1,
+          "id": 380948
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/e1/501937_8ITeu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/e1/501937_8ITeu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e1/e1/501937_8ITeu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/e1/501937_8ITeu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/e1/501937_8ITeu.jpg"
+          },
+          "name": "幻日のヨハネ -SUNSHINE in the MIRROR- 劇場総集編",
+          "name_cn": "幻日夜羽 -镜中晖光- 剧场总集篇",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 501937
         },
         {
           "images": {
@@ -220,17 +235,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/37/165553_5f88z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/37/165553_5f88z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d3/37/165553_5f88z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/37/165553_5f88z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/37/165553_5f88z.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/34/443093_jF8sb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/34/443093_jF8sb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/34/443093_jF8sb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/34/443093_jF8sb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/34/443093_jF8sb.jpg"
           },
-          "name": "ラブライブ! サンシャイン!!",
-          "name_cn": "LoveLive! Sunshine!!",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 165553
+          "name": "幻日のヨハネ -BLAZE in the DEEPBLUE-",
+          "name_cn": "幻日夜羽 -湛海耀光-",
+          "relation": "游戏",
+          "type": 4,
+          "id": 443093
         },
         {
           "images": {
@@ -304,31 +319,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/58/380948_Fe5En.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/58/380948_Fe5En.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3a/58/380948_Fe5En.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/58/380948_Fe5En.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/58/380948_Fe5En.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/37/165553_5f88z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/37/165553_5f88z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/37/165553_5f88z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/37/165553_5f88z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/37/165553_5f88z.jpg"
           },
-          "name": "幻日のヨハネ -Unpolarized Reflexion-",
-          "name_cn": "幻日之夜羽 -Unpolarized Reflexion-",
-          "relation": "书籍",
-          "type": 1,
-          "id": 380948
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/ac/442999_cz6r4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/ac/442999_cz6r4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dd/ac/442999_cz6r4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/ac/442999_cz6r4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/ac/442999_cz6r4.jpg"
-          },
-          "name": "Far far away / Be as one!!!",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 442999
+          "name": "ラブライブ! サンシャイン!!",
+          "name_cn": "LoveLive! Sunshine!!",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 165553
         },
         {
           "images": {
@@ -343,6 +344,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 443002
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/ac/442999_cz6r4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/ac/442999_cz6r4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/ac/442999_cz6r4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/ac/442999_cz6r4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/ac/442999_cz6r4.jpg"
+          },
+          "name": "Far far away / Be as one!!!",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 442999
         },
         {
           "images": {
@@ -499,7 +514,6 @@
         "TV",
         "TVA",
         "トリダモノ",
-        "ライデンフィルム",
         "下谷智之",
         "冒险",
         "动画",
@@ -515,6 +529,7 @@
         "游改",
         "炼金工房",
         "百合",
+        "第一季",
         "肉腿",
         "腿",
         "莱莎的炼金工房",
@@ -682,6 +697,7 @@
       "id": 425236,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -788,9 +804,9 @@
         "答辩",
         "装逼",
         "谎言游戏",
+        "豊田百香",
         "轻小说改",
         "轻改",
-        "首藤志奈",
         "龙傲天"
       ],
       "infobox": [
@@ -930,6 +946,7 @@
       "id": 333979,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -997,17 +1014,17 @@
       "name_cn": "能干的猫今天也忧郁",
       "tags": [
         "2023",
-        "2023夏",
         "2023年",
         "2023年7月",
-        "2023年夏",
         "7分",
         "GoHands",
         "TV",
+        "TVA",
         "光污染",
         "八薙玉造",
         "动画",
         "奇幻",
+        "安元洋貴",
         "小西克幸",
         "工藤进",
         "搞笑",
@@ -1136,6 +1153,7 @@
       "id": 384672,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1352,6 +1370,7 @@
       "id": 410203,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1557,6 +1576,7 @@
       "id": 414461,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1641,6 +1661,7 @@
         "2023年",
         "2023年7月",
         "StudioBind",
+        "Studio_Bind",
         "TV",
         "冈本学",
         "冒险",
@@ -1657,7 +1678,6 @@
         "无职转生",
         "日本",
         "未定档",
-        "未开播",
         "校园",
         "热血",
         "神作",
@@ -1842,6 +1862,7 @@
       "id": 373247,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1904,25 +1925,25 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/6c/414751_ajHOZ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/6c/414751_ajHOZ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2d/6c/414751_ajHOZ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/6c/414751_ajHOZ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/6c/414751_ajHOZ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/6c/414751_e35p7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/6c/414751_e35p7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2d/6c/414751_e35p7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/6c/414751_e35p7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/6c/414751_e35p7.jpg"
           },
           "name": "無職転生 ~異世界行ったら本気だす~ Quest of Memories",
-          "name_cn": "",
+          "name_cn": "无职转生 ~到了异世界就拿出真本事~ Quest of Memories",
           "relation": "游戏",
           "type": 4,
           "id": 414751
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/25/444557_P66C6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/25/444557_P66C6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ad/25/444557_P66C6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/25/444557_P66C6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_P66C6.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/25/444557_e4hPO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/25/444557_e4hPO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ad/25/444557_e4hPO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/25/444557_e4hPO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/25/444557_e4hPO.jpg"
           },
           "name": "無職転生Ⅱ ～異世界行ったら本気だす～ 第2クール",
           "name_cn": "无职转生Ⅱ ～到了异世界就拿出真本事～ 第2部分",
@@ -1957,6 +1978,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 456140
+        },
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
+          },
+          "name": "TVアニメ『無職転生Ⅱ ～異世界行ったら本気だす～』エンディングテーマコレクション",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 502085
         },
         {
           "images": {
@@ -2002,20 +2037,6 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
-          },
-          "name": "『無職転生II ～異世界行ったら本気だす～』Blu-ray Chapter 3 特典CD",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 447662
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/7d/456114_fz5Uz.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/7d/456114_fz5Uz.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/7f/7d/456114_fz5Uz.jpg",
@@ -2056,6 +2077,7 @@
         "Studio五組",
         "Studio五组",
         "TV",
+        "动画",
         "厕纸",
         "奇幻",
         "小说改",
@@ -2072,7 +2094,6 @@
         "福山潤",
         "秋田谷典昭",
         "穿越",
-        "自动贩卖机",
         "转生",
         "轻小说改",
         "轻改",
@@ -2215,6 +2236,7 @@
       "id": 392973,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2333,7 +2355,6 @@
         "TVA",
         "中村悠一",
         "作画",
-        "动画",
         "半年番",
         "咒术回战",
         "奇幻",
@@ -2341,16 +2362,17 @@
         "御所圆翔太",
         "御所園翔太",
         "战斗",
+        "搞笑",
         "日本",
         "日本动画",
         "日漫",
         "校园",
-        "津田健次郎",
         "漫改",
         "漫画改",
         "濑古浩司",
         "瀬古浩司",
         "热血",
+        "第二季",
         "续作",
         "超能力"
       ],
@@ -2482,6 +2504,7 @@
       "id": 369304,
       "eps": 23,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2558,11 +2581,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ab/77/472741_40Nk0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ab/77/472741_40Nk0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ab/77/472741_40Nk0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ab/77/472741_40Nk0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ab/77/472741_40Nk0.jpg"
           },
           "name": "呪術廻戦 死滅回游",
           "name_cn": "咒术回战 死灭回游",
@@ -2712,9 +2735,9 @@
         "noitaminA",
         "ライデンフィルム",
         "仓田英之",
+        "倉田英之",
         "剧场版",
         "历史",
-        "和月伸宏",
         "和风",
         "山本秀世",
         "幕末",
@@ -2856,6 +2879,7 @@
       "id": 363102,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3062,7 +3086,7 @@
       "name": "百姓貴族",
       "name_cn": "百姓贵族",
       "tags": [
-        "2020-2029",
+        "2020s",
         "2023",
         "2023年",
         "2023年7月",
@@ -3207,6 +3231,7 @@
       "id": 406160,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3418,6 +3443,7 @@
       "id": 369784,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3531,7 +3557,6 @@
         "2023年7月",
         "8-Bit",
         "8bit",
-        "SF",
         "SYNDUALITY",
         "TV",
         "TVA",
@@ -3554,6 +3579,7 @@
         "游戏改",
         "科幻",
         "萝卜",
+        "青山渚",
         "鴨志田一",
         "鸭志田一"
       ],
@@ -3723,6 +3749,7 @@
       "id": 401301,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3852,6 +3879,20 @@
           "relation": "续集",
           "type": 2,
           "id": 456042
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/a0/496500_Q22a7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/a0/496500_Q22a7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/eb/a0/496500_Q22a7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/eb/a0/496500_Q22a7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/eb/a0/496500_Q22a7.jpg"
+          },
+          "name": "TVアニメ『SYNDUALITY Noir』オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 496500
         }
       ]
     }
@@ -3886,16 +3927,16 @@
         "公司的小小前辈",
         "动画",
         "大糖精时代被埋没的产物",
-        "工业糖精",
         "巨乳",
         "已收录(BDRip)",
         "恋爱",
+        "搞笑",
         "新祐樹",
         "日常",
         "日本",
         "日本动画",
+        "未发售(TV)",
         "治愈",
-        "涩涩",
         "漫改",
         "漫画改",
         "立花日菜",
@@ -4024,6 +4065,7 @@
       "id": 405198,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4290,6 +4332,7 @@
       "id": 347942,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4502,6 +4545,7 @@
       "id": 376433,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4611,16 +4655,16 @@
         "大西雄仁",
         "奇幻",
         "女性向",
+        "季番",
         "小说改",
+        "少女",
         "少女漫",
         "恋爱",
         "日常",
         "日本",
         "日本动画",
-        "木村良平",
         "未确定",
         "治愈",
-        "爱情",
         "石川界人",
         "纯爱",
         "豊田百香",
@@ -4778,10 +4822,11 @@
           "value": "廣江啓輔 / 辻彩夏"
         }
       ],
-      "total_episodes": 13,
+      "total_episodes": 12,
       "id": 377125,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5083,6 +5128,7 @@
       "id": 425916,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5164,7 +5210,6 @@
       "name_cn": "七魔剑支配天下",
       "tags": [
         "2023",
-        "2023夏",
         "2023年",
         "2023年7月",
         "2023年七月",
@@ -5176,10 +5221,13 @@
         "动画",
         "厕纸",
         "后宫",
+        "圣母",
         "奇幻",
         "季番",
+        "宇野朴人",
         "小说改",
         "异世界",
+        "性转",
         "恋爱",
         "战斗",
         "日本动画",
@@ -5188,11 +5236,9 @@
         "校园",
         "田丸篤志",
         "观望",
-        "貫井柚佳",
         "轻小说改",
         "轻改",
-        "魔法",
-        "龙傲天"
+        "魔法"
       ],
       "infobox": [
         {
@@ -5316,6 +5362,7 @@
       "id": 362006,
       "eps": 15,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5378,11 +5425,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/44/444747_KzKnr.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/44/444747_KzKnr.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/46/44/444747_KzKnr.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/44/444747_KzKnr.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/44/444747_KzKnr.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/44/444747_abt4k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/44/444747_abt4k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/44/444747_abt4k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/44/444747_abt4k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/44/444747_abt4k.jpg"
           },
           "name": "キンバリー魔法学校のゆかいな日常",
           "name_cn": "金伯利魔法学校的愉快日常",
@@ -5415,14 +5462,13 @@
         "2023年",
         "2023年7月",
         "MAHOFILM",
+        "MAHO_FILM",
         "TV",
-        "tv-s",
         "久住琳",
+        "作者是贫乳控",
         "冒险",
         "厕纸",
-        "可独立观赏",
         "后宫",
-        "圣剑",
         "奇幻",
         "小说改",
         "山田由香",
@@ -5433,12 +5479,13 @@
         "日本",
         "日本动画",
         "柳瀬雄之",
-        "涩涩",
+        "白丝",
         "石川界人",
         "穿越",
         "萝莉",
         "轻小说改",
         "轻改",
+        "黑丝",
         "龙傲天"
       ],
       "infobox": [
@@ -5557,6 +5604,7 @@
       "id": 380582,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5629,27 +5677,27 @@
         "7月",
         "BLEACH",
         "JUMP",
-        "PIERROT",
         "StudioPierrot",
         "TV",
         "TVA",
         "ぴえろ",
-        "久保帯人",
+        "アニメ",
+        "久保带人",
+        "剧情",
         "动画",
         "奇幻",
         "小丑社",
+        "少年",
         "战斗",
         "日本",
         "日本动画",
         "日漫",
         "梅原裕一郎",
-        "森田成一",
         "死神",
         "漫改",
         "漫画",
         "漫画改",
         "热血",
-        "爷青回",
         "田口智久",
         "续作",
         "鷺巣詩郎"
@@ -5744,6 +5792,7 @@
       "id": 412916,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6024,6 +6073,7 @@
       "id": 350523,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6111,17 +6161,17 @@
         "OLM",
         "OLMTEAMOTA",
         "TV",
-        "剧情",
         "半年番",
         "博史池畠",
         "奇幻",
         "妖怪",
         "宝可梦",
-        "岛崎信长",
         "怪谈",
+        "恋爱",
         "恐怖",
         "悬疑",
         "战斗",
+        "日本",
         "日本动画",
         "暗黑宝可梦",
         "未确定",
@@ -6130,8 +6180,8 @@
         "漫画改",
         "灵异",
         "猎奇",
-        "篠原侑",
         "花泽香菜",
+        "花澤香菜",
         "萝莉",
         "黑暗集会"
       ],
@@ -6192,8 +6242,40 @@
           "value": "博史池畠"
         },
         {
+          "key": "脚本",
+          "value": "村越繁、山下憲一、兵頭一歩、佐藤裕"
+        },
+        {
+          "key": "分镜",
+          "value": "博史池畠、福山大、中川航、博多正寿、福島宏之、尼野浩正、中田誠、牧野吉高、西森章、川石テツヤ、土屋日、内藤明吾、江島泰男"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "許平康、かまくらゆみ(鎌倉由実)"
+        },
+        {
+          "key": "演出",
+          "value": "寺田素都、長岡義孝、武田秀樹、小林孝志、和田拓也、月野正志、國本一穂、割田圭介、寒竹清隆、江島泰男、橋本みつお、内堀雅人、粟井重紀、毛応星(毛应星)、薮内悠、植木貴一、前園文夫、藤田健太郎、白石道太、西島圭祐，柳屋圭宏、かまくらゆみ(鎌倉由実)"
+        },
+        {
+          "key": "总作画监督",
+          "value": "井ノ上ユウ子、横松雄馬、古川博之；总作画监督補佐：小林陽奈、古川博之、佐々木綾、酒井強至、山縣研一"
+        },
+        {
+          "key": "作画监督",
+          "value": "井ノ上ユウ子、横松雄馬、山縣研一、大竹晃裕、馮含露(冯含露)、松本勝次、葉増堯(叶增尧)、和田拓也、五十嵐優花、中野彰子、羽野広範、吉田肇、臼田美夫、なかじまちゅうじ、王敏、劉冬冬(刘冬冬)、李偉峰(李伟峰)、周晓华、趙小川(赵小川)、徐超、陳玲玲(陈玲玲)、姜海華(姜海华)、小林陽奈、古池ゆかり(穐本ゆかり)、長谷川一生、桜井木ノ実(桜井木の実)、飯飼一幸、鈴木健史、杜伟峰、魏旭龍(魏旭龙)、陈亮、Brian Barredo、佐々木綾、劉雲留(刘云留)、江湧(江涌)、朱暁林(朱晓林)、陈玉峰、赵玲、杭新华、顾金秋、黄凤、高橋こう平、福島喜晴、ふたふさ、シモイロブ・パベロ、チャ ミョンジュン、ク ジャチョン、酒井強至、古川博之、相音光、宮暁秀、高添響、明光、龍光、瑞木晶、慧敏、南伸一郎、倉内雄志朗、PARK SUN YOUNG、HONG HYUN SOOK、DING YI NAN、Joo hyunwoo、Kim Jungwoo、Park Jiyoon，謝宛倩"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "濱中朋子、古川博之、高添響、嶋田俊彦、酒井強至、五十嵐優花、小林陽奈"
+        },
+        {
           "key": "动画制作",
           "value": "OLM"
+        },
+        {
+          "key": "制作协力",
+          "value": "STUDIO MASSKET、ZEAL VISION、オクルトノボル、One's work、十文字、光の園・アニメーション、HOTLINE"
         },
         {
           "key": "音乐",
@@ -6280,6 +6362,7 @@
       "id": 390794,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6374,13 +6457,14 @@
         "岩崎琢",
         "异能",
         "战斗",
+        "搞笑",
         "文豪野犬",
+        "日本",
         "日本动画",
+        "智斗",
         "榎戸洋司",
-        "津田健次郎",
         "漫改",
         "漫画改",
-        "漫画改编",
         "热血",
         "石田彰",
         "神谷浩史",
@@ -6388,7 +6472,6 @@
         "续作",
         "群像",
         "超能力",
-        "轻小说改",
         "骨头社"
       ],
       "infobox": [
@@ -6495,6 +6578,7 @@
       "id": 426815,
       "eps": 11,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6606,7 +6690,7 @@
         "2023",
         "2023年",
         "2023年7月",
-        "2023年夏季番",
+        "6分",
         "BLADE",
         "LV1魔王与独居废勇者",
         "SILVERLINK.",
@@ -6631,7 +6715,7 @@
         "福利",
         "节操",
         "芳文社",
-        "逆异世界",
+        "表番",
         "魔王勇者"
       ],
       "infobox": [
@@ -6768,6 +6852,7 @@
       "id": 376106,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7020,6 +7105,7 @@
       "id": 426531,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7115,34 +7201,34 @@
       "name_cn": "AYAKA ‐绫岛奇谭‐",
       "tags": [
         "2023",
-        "2023夏",
         "2023年",
         "2023年7月",
         "2023年秋",
-        "6.3",
         "Ayaka",
         "GoRA",
         "StudioBlanc",
         "StudioBlanc.",
         "Studio_Blanc.",
         "TV",
-        "maybe",
+        "TVA",
+        "fmt.TV",
         "上村祐翔",
         "乙女",
         "乙女向",
         "动画",
         "原创",
         "奇幻",
-        "好像有看又好像沒看",
         "寺島拓篤",
         "战斗",
         "日本",
         "日本动画",
         "村井美里",
         "梅原裕一郎",
+        "特定人群向",
         "福山润",
+        "羊宮妃那",
+        "花泽香菜",
         "長山延好",
-        "长剧集",
         "长山延好"
       ],
       "infobox": [
@@ -7313,6 +7399,7 @@
       "id": 406171,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7436,18 +7523,18 @@
       "name_cn": "堀与宫村 -piece-",
       "tags": [
         "2023",
-        "2023夏",
         "2023年",
         "2023年7月",
-        "2023年夏",
-        "2023年夏季番",
         "Aniplex",
         "CloverWorks",
         "TV",
+        "TVA",
         "内山昂輝",
         "动画",
         "吉岡たかを",
         "堀与宫村",
+        "季番",
+        "山下誠一郎",
         "恋爱",
         "户松遥",
         "戸松遥",
@@ -7603,6 +7690,7 @@
       "id": 425992,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7784,7 +7872,6 @@
         "2023",
         "2023年",
         "2023年7月",
-        "7月",
         "GoHands",
         "TV",
         "TVA",
@@ -7794,7 +7881,9 @@
         "八薙玉造",
         "动画",
         "喜欢的人忘记戴眼镜了",
-        "工业糖浆",
+        "工业糖精",
+        "工藤进",
+        "工藤進",
         "恋爱",
         "搞笑",
         "日常",
@@ -7805,12 +7894,11 @@
         "横峰克昌",
         "漫改",
         "漫画改",
-        "漫画改编",
-        "狗粮",
         "科幻",
         "纯爱",
         "若山詩音",
-        "轻小说改"
+        "轻小说改",
+        "青春"
       ],
       "infobox": [
         {
@@ -7924,7 +8012,7 @@
         },
         {
           "key": "主题歌作词",
-          "value": "DECO27 / 大石昌良"
+          "value": "DECO*27 / 大石昌良"
         },
         {
           "key": "主题歌作曲",
@@ -7963,6 +8051,7 @@
       "id": 415182,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8167,6 +8256,7 @@
       "id": 424509,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8216,7 +8306,7 @@
         "厕纸",
         "后宫",
         "奇幻",
-        "妹",
+        "妹妹",
         "妹控",
         "小说改",
         "开挂无敌",
@@ -8372,6 +8462,7 @@
       "id": 400215,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8501,8 +8592,8 @@
         "日本动画",
         "未确定",
         "校园",
+        "校园系列",
         "横手美智子",
-        "涩涩",
         "涼本あきほ",
         "满怀美梦的少年是现实主义者",
         "狗粮",
@@ -8648,6 +8739,7 @@
       "id": 408351,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8738,14 +8830,12 @@
         "TVA-02",
         "ファイルーズあい",
         "三重野瞳",
-        "乙女",
         "乙女向",
         "内田真礼",
         "凤傲天",
         "厕纸",
         "奇幻",
         "女性向",
-        "女王",
         "小说改",
         "异世界",
         "恋爱",
@@ -8753,7 +8843,9 @@
         "恶役大小姐",
         "新田典生",
         "日本动画",
+        "月詠み",
         "穿越",
+        "超能力",
         "转生",
         "轻小说改",
         "轻改",
@@ -8901,6 +8993,7 @@
       "id": 406307,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8974,6 +9067,7 @@
         "CLAMP",
         "GiftAnimation",
         "KINEMACITRUS",
+        "KINEMACITRUS、GiftAnimation、STU",
         "STUDIOJEMI",
         "TV",
         "TVA",
@@ -8984,7 +9078,6 @@
         "卡片战斗先导者",
         "卡牌",
         "原创",
-        "各務華梨",
         "子供向",
         "小笠原仁",
         "小野友樹",
@@ -9144,6 +9237,7 @@
       "id": 402835,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9231,8 +9325,8 @@
         "CLOUDHEARTS",
         "TV",
         "クラウドハーツ",
-        "中岛由贵",
         "厕纸",
+        "后宫",
         "地下城",
         "大塚明夫",
         "大知慶一郎",
@@ -9242,18 +9336,18 @@
         "异世界",
         "战斗",
         "搞笑",
+        "日常",
         "日本动画",
         "未确定",
         "横浜アニメーションラボ",
         "横滨AnimationLABO",
+        "漫改",
         "热血",
         "玉川真人",
-        "石見舞菜香",
         "穿越",
-        "立花日菜",
+        "转生",
         "轻小说改",
-        "轻改",
-        "长剧集"
+        "轻改"
       ],
       "infobox": [
         {
@@ -9367,6 +9461,7 @@
       "id": 403741,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9599,6 +9694,7 @@
       "id": 416019,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9707,6 +9803,7 @@
       "name": "アンデッドガール・マーダーファルス",
       "name_cn": "不死少女 杀人笑剧",
       "tags": [
+        "2020s",
         "2023",
         "2023夏",
         "2023年",
@@ -9718,7 +9815,6 @@
         "ラパントラック",
         "不死少女",
         "剧情",
-        "剧集",
         "动画",
         "奇幻",
         "季番",
@@ -9859,6 +9955,7 @@
       "id": 425591,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10100,7 +10197,7 @@
           "value": "二本松和哉"
         },
         {
-          "key": "美术设定",
+          "key": "美术设计",
           "value": "中村千恵子、橋本日香里、秋元克己、田知本ゆう、佐南有里"
         },
         {
@@ -10116,6 +10213,7 @@
       "id": 387822,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10210,7 +10308,6 @@
       "name": "死神坊ちゃんと黒メイド 第2期",
       "name_cn": "死神少爷与黑女仆 第二季",
       "tags": [
-        "2020-2029",
         "2023",
         "2023夏",
         "2023年",
@@ -10218,6 +10315,8 @@
         "3D",
         "J.C.STAFF",
         "TV",
+        "一口气看完",
+        "可以一试",
         "奇幻",
         "小学馆",
         "山川吉树",
@@ -10226,10 +10325,9 @@
         "搞笑",
         "日常",
         "日本动画",
-        "松尾P",
+        "未保存",
         "死神少爷与黑女仆",
         "水瀬いのり",
-        "涩涩",
         "漫改",
         "漫画改",
         "狗粮",
@@ -10342,6 +10440,7 @@
       "id": 349319,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10539,6 +10638,7 @@
       "id": 432751,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10599,7 +10699,6 @@
         "スパイ教室",
         "后宫",
         "声优",
-        "奇幻",
         "季番",
         "小说改",
         "川口敬一郎",
@@ -10608,9 +10707,10 @@
         "战斗",
         "搞笑",
         "日常",
-        "日本动画",
         "智斗",
         "梅原裕一郎",
+        "楠木ともり",
+        "水濑祈",
         "猪爪慎一",
         "百合",
         "续作",
@@ -10754,6 +10854,7 @@
       "id": 428418,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10869,26 +10970,26 @@
         "23夏",
         "2话",
         "7+",
+        "TV",
         "WEB",
+        "anime",
         "projectNo.9",
-        "いわたかずや",
         "上坂すみれ",
         "中6",
         "奇幻",
-        "小倉唯",
+        "小不点社长",
+        "岩田和也",
         "幼女社长",
         "搞笑",
         "日常",
-        "日本动画",
+        "日本",
         "日高里菜",
         "杉澤悟",
-        "治愈",
+        "泡面",
         "泡面番",
         "漫改",
         "漫画改",
-        "短片",
         "糀谷智司",
-        "续作",
         "金元寿子",
         "金子彩花",
         "長谷川育美"
@@ -10993,6 +11094,7 @@
       "id": 401970,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11092,6 +11194,7 @@
         "川口敬一郎",
         "年番&大长篇",
         "影之诗",
+        "影之诗F",
         "新时代的游戏王",
         "日本",
         "浦和希",
@@ -11101,7 +11204,6 @@
         "良作",
         "赤尾凸",
         "长剧集",
-        "集貝はな",
         "首藤志奈"
       ],
       "infobox": [
@@ -11211,6 +11313,7 @@
       "id": 425969,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11305,13 +11408,13 @@
       "name": "彼女、お借りします 第3期",
       "name_cn": "租借女友 第三季",
       "tags": [
+        "2020s",
         "2023",
         "2023年7月",
         "2023年夏",
         "TMS",
         "TMS_Entertainment",
         "TV",
-        "TVA",
         "党争",
         "动画",
         "古賀一臣",
@@ -11467,6 +11570,7 @@
       "id": 401783,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11562,6 +11666,7 @@
       "name_cn": "打工吧！！魔王大人 第二季",
       "tags": [
         "2023",
+        "2023年",
         "2023年7月",
         "2023年夏",
         "Studio3Hz",
@@ -11584,7 +11689,6 @@
         "日本动画",
         "日笠陽子",
         "東山奈央",
-        "異世界",
         "穿越",
         "筑紫大介",
         "续作",
@@ -11695,6 +11799,7 @@
       "id": 403225,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11933,6 +12038,7 @@
       "id": 402128,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12028,7 +12134,6 @@
         "动画",
         "博史池畠",
         "奇幻",
-        "寿命论",
         "总之就是非常可爱",
         "恋爱",
         "搞笑",
@@ -12042,6 +12147,7 @@
         "狗粮",
         "纯爱",
         "续作",
+        "青春",
         "鬼頭明里"
       ],
       "infobox": [
@@ -12114,6 +12220,7 @@
       "id": 441233,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12290,6 +12397,7 @@
       "id": 349222,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12389,6 +12497,7 @@
         "2023年",
         "2023年7月",
         "BASTARD",
+        "LIDENFILMS",
         "LINDENFILMS",
         "Netflix",
         "TV",
@@ -12545,6 +12654,7 @@
       "id": 414753,
       "eps": 15,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12782,6 +12892,7 @@
       "id": 341311,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12862,12 +12973,12 @@
         "二等",
         "便宜",
         "刃牙",
+        "动画",
         "島﨑信長",
         "平野俊貴",
         "平野俊贵",
         "战斗",
         "搞笑",
-        "日本",
         "日本动画",
         "未发售(TV)",
         "未确定",
@@ -12960,6 +13071,7 @@
       "id": 375541,
       "eps": 27,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -13144,6 +13256,7 @@
       "id": 338372,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -13161,6 +13274,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 148900
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/16/174722_IIAIW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/16/174722_IIAIW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/57/16/174722_IIAIW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/16/174722_IIAIW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/16/174722_IIAIW.jpg"
+          },
+          "name": "おそ松さん",
+          "name_cn": "阿松",
+          "relation": "书籍",
+          "type": 1,
+          "id": 174722
         },
         {
           "images": {
@@ -13241,6 +13368,7 @@
         "2020-2029",
         "2020s",
         "2023",
+        "2023年",
         "2023年7月",
         "Graphinica",
         "Netflix",
@@ -13266,8 +13394,7 @@
         "热血",
         "終末のワルキューレ",
         "终末的女武神",
-        "终末的女武神2",
-        "関智一"
+        "终末的女武神2"
       ],
       "infobox": [
         {
@@ -13326,6 +13453,7 @@
       "id": 425937,
       "eps": 5,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -13442,10 +13570,11 @@
           "value": "大塚剛央、稲垣好"
         }
       ],
-      "total_episodes": 29,
+      "total_episodes": 32,
       "id": 369401,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 6,
@@ -13482,112 +13611,6 @@
     }
   },
   {
-    "title": "永生之十年之约",
-    "date": "2023-07-08",
-    "bangumi": {
-      "date": "2023-07-08",
-      "platform": "WEB",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/b2/405213_CoX2Z.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/b2/405213_CoX2Z.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/05/b2/405213_CoX2Z.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/b2/405213_CoX2Z.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/b2/405213_CoX2Z.jpg"
-      },
-      "summary": "玄黄大世界，仙魔对立，自古纷争不断...又有怎样的磨砺，在等着方寒呢？",
-      "name": "永生之十年之约",
-      "name_cn": "永生 第二季",
-      "tags": [
-        "2023",
-        "2023年7月",
-        "3D",
-        "TV",
-        "WEB",
-        "中国",
-        "修仙",
-        "可以",
-        "国产",
-        "国漫",
-        "天工艺彩",
-        "奇幻",
-        "战斗",
-        "烂",
-        "玄幻",
-        "第二季",
-        "网文改"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "永生 第二季"
-        },
-        {
-          "key": "话数",
-          "value": "12"
-        },
-        {
-          "key": "放送开始",
-          "value": "2023年7月8日"
-        },
-        {
-          "key": "放送星期",
-          "value": "星期六"
-        }
-      ],
-      "total_episodes": 12,
-      "id": 405213,
-      "eps": 12,
-      "volumes": 0,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/46/320241_F1W1a.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/46/320241_F1W1a.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bb/46/320241_F1W1a.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/46/320241_F1W1a.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/46/320241_F1W1a.jpg"
-          },
-          "name": "永生",
-          "name_cn": "",
-          "relation": "前传",
-          "type": 2,
-          "id": 320241
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/ec/367175_Y492k.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/ec/367175_Y492k.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/22/ec/367175_Y492k.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/ec/367175_Y492k.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/ec/367175_Y492k.jpg"
-          },
-          "name": "永生",
-          "name_cn": "永生",
-          "relation": "书籍",
-          "type": 1,
-          "id": 367175
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/22/453314_1vvwJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/22/453314_1vvwJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/af/22/453314_1vvwJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/22/453314_1vvwJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/22/453314_1vvwJ.jpg"
-          },
-          "name": "永生 第三季",
-          "name_cn": "",
-          "relation": "续集",
-          "type": 2,
-          "id": 453314
-        }
-      ]
-    }
-  },
-  {
     "title": "万圣街 第四季",
     "date": "2023-07-05",
     "bangumi": {
@@ -13614,11 +13637,14 @@
         "中国国产动画",
         "动画",
         "動畫片",
+        "吸血鬼",
         "国产",
         "国产动画",
         "国动",
         "国漫",
         "奇幻",
+        "寒木春华",
+        "搞笑",
         "泡面番",
         "漫画改"
       ],
@@ -13708,6 +13734,7 @@
       "id": 440072,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -13739,6 +13766,113 @@
           "relation": "前传",
           "type": 2,
           "id": 345809
+        }
+      ]
+    }
+  },
+  {
+    "title": "永生之十年之约",
+    "date": "2023-07-08",
+    "bangumi": {
+      "date": "2023-07-08",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/b2/405213_CoX2Z.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/b2/405213_CoX2Z.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/05/b2/405213_CoX2Z.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/b2/405213_CoX2Z.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/b2/405213_CoX2Z.jpg"
+      },
+      "summary": "玄黄大世界，仙魔对立，自古纷争不断...又有怎样的磨砺，在等着方寒呢？",
+      "name": "永生之十年之约",
+      "name_cn": "永生 第二季",
+      "tags": [
+        "2023",
+        "2023年7月",
+        "3D",
+        "TV",
+        "WEB",
+        "中国",
+        "修仙",
+        "可以",
+        "国产",
+        "国漫",
+        "天工艺彩",
+        "奇幻",
+        "战斗",
+        "烂",
+        "玄幻",
+        "第二季",
+        "网文改"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "永生 第二季"
+        },
+        {
+          "key": "话数",
+          "value": "12"
+        },
+        {
+          "key": "放送开始",
+          "value": "2023年7月8日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        }
+      ],
+      "total_episodes": 12,
+      "id": 405213,
+      "eps": 12,
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/46/320241_F1W1a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/46/320241_F1W1a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/46/320241_F1W1a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/46/320241_F1W1a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/46/320241_F1W1a.jpg"
+          },
+          "name": "永生",
+          "name_cn": "",
+          "relation": "前传",
+          "type": 2,
+          "id": 320241
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/ec/367175_Y492k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/ec/367175_Y492k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/22/ec/367175_Y492k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/ec/367175_Y492k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/ec/367175_Y492k.jpg"
+          },
+          "name": "永生",
+          "name_cn": "永生",
+          "relation": "书籍",
+          "type": 1,
+          "id": 367175
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/22/453314_1vvwJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/22/453314_1vvwJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/af/22/453314_1vvwJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/22/453314_1vvwJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/22/453314_1vvwJ.jpg"
+          },
+          "name": "永生之气壮山河",
+          "name_cn": "永生 第三季",
+          "relation": "续集",
+          "type": 2,
+          "id": 453314
         }
       ]
     }

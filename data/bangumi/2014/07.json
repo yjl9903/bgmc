@@ -97,6 +97,7 @@
       "id": 101195,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -338,6 +339,7 @@
       "id": 95010,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -863,6 +865,7 @@
       "id": 99116,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1256,6 +1259,7 @@
       "id": 93714,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1571,7 +1575,6 @@
         "原创",
         "原创动画",
         "奇幻",
-        "季番",
         "恋爱",
         "日本",
         "日本动画",
@@ -1582,6 +1585,7 @@
         "没有冈田玛丽",
         "治愈",
         "玻璃之唇",
+        "看不懂",
         "种田梨沙",
         "药",
         "药",
@@ -1671,6 +1675,7 @@
       "id": 99505,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1916,6 +1921,7 @@
       "id": 100498,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2085,13 +2091,13 @@
         "恋爱",
         "搞笑",
         "日本國有鐵道公安隊",
+        "日野聪",
         "末田宜史",
         "福利",
         "福山润",
         "职场",
         "肉",
         "肉番",
-        "茅原実里",
         "轻小说改",
         "轻改",
         "铁路",
@@ -2159,6 +2165,7 @@
       "id": 91420,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2297,7 +2304,6 @@
       "tags": [
         "2014",
         "2014年",
-        "2014年4月",
         "2014年7月",
         "Feel.",
         "TV",
@@ -2323,6 +2329,7 @@
         "漫画改编",
         "百合",
         "綾奈ゆにこ",
+        "绫奈由仁子",
         "萌",
         "轻百合"
       ],
@@ -2400,6 +2407,7 @@
       "id": 94236,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2638,6 +2646,7 @@
       "id": 43523,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2875,23 +2884,24 @@
       "id": 92382,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/a9/130173_WaNY6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/a9/130173_WaNY6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6a/a9/130173_WaNY6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/a9/130173_WaNY6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a9/130173_WaNY6.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/c8/23686_e36x9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/c8/23686_e36x9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2e/c8/23686_e36x9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/c8/23686_e36x9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/c8/23686_e36x9.jpg"
           },
-          "name": "ソードアート・オンラインII Original Soundtrack vol.2",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 130173
+          "name": "ソードアート・オンライン",
+          "name_cn": "刀剑神域",
+          "relation": "前传",
+          "type": 2,
+          "id": 23686
         },
         {
           "images": {
@@ -3007,6 +3017,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/a1/185771_8hG7m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/a1/185771_8hG7m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6f/a1/185771_8hG7m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/a1/185771_8hG7m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/a1/185771_8hG7m.jpg"
+          },
+          "name": "そーどあーと・おふらいん つー",
+          "name_cn": "掉线神域 第二季",
+          "relation": "衍生",
+          "type": 2,
+          "id": 185771
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/20/168089_BmaJQ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/20/168089_BmaJQ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/08/20/168089_BmaJQ.jpg",
@@ -3049,48 +3073,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/bf/133616_Yp9hO.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/bf/133616_Yp9hO.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5b/bf/133616_Yp9hO.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/bf/133616_Yp9hO.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/bf/133616_Yp9hO.jpg"
-          },
-          "name": "ソードアート・オンライン II 第9巻 特典CD",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 133616
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/4d/133322_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/4d/133322_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5e/4d/133322_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/4d/133322_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/4d/133322_jp.jpg"
-          },
-          "name": "ラジオCD「ソードアート・オンエアーⅡ」Vol.3",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 133322
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/0b/130174_556i5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/0b/130174_556i5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c2/0b/130174_556i5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/0b/130174_556i5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/0b/130174_556i5.jpg"
-          },
-          "name": "ソードアート・オンライン II 第8巻 特典CD",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 130174
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/da/5397_S6jRK.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/da/5397_S6jRK.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/01/da/5397_S6jRK.jpg",
@@ -3105,59 +3087,115 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/b5/127173_5o353.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/b5/127173_5o353.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4c/b5/127173_5o353.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/b5/127173_5o353.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/b5/127173_5o353.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/b1/35579_GDMp7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/b1/35579_GDMp7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/b1/35579_GDMp7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/b1/35579_GDMp7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/b1/35579_GDMp7.jpg"
           },
-          "name": "ソードアート・オンライン II 第6巻 特典CD",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 127173
+          "name": "嫁コレ",
+          "name_cn": "新娘梦工厂",
+          "relation": "游戏",
+          "type": 4,
+          "id": 35579
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/22/125849_EH6rj.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/22/125849_EH6rj.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f2/22/125849_EH6rj.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/22/125849_EH6rj.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/22/125849_EH6rj.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/91/106309_7EdLJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/91/106309_7EdLJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6a/91/106309_7EdLJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/91/106309_7EdLJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/91/106309_7EdLJ.jpg"
           },
-          "name": "ソードアート・オンライン II 第5巻 特典CD",
+          "name": "Startear",
           "name_cn": "",
-          "relation": "角色歌",
+          "relation": "片尾曲",
           "type": 3,
-          "id": 125849
+          "id": 106309
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/38/121503_bhjJ6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/38/121503_bhjJ6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/79/38/121503_bhjJ6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/38/121503_bhjJ6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/38/121503_bhjJ6.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/dc/106310_3BRWz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/dc/106310_3BRWz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/dc/106310_3BRWz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/dc/106310_3BRWz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/dc/106310_3BRWz.jpg"
           },
-          "name": "ソードアート・オンライン II 第4巻 特典CD",
+          "name": "IGNITE",
           "name_cn": "",
-          "relation": "角色歌",
+          "relation": "片头曲",
           "type": 3,
-          "id": 121503
+          "id": 106310
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/fb/119882_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/fb/119882_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bb/fb/119882_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/fb/119882_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/fb/119882_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/fd/115069_q55UQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/fd/115069_q55UQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/fd/115069_q55UQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/fd/115069_q55UQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/fd/115069_q55UQ.jpg"
           },
-          "name": "ラジオCD「ソードアート・オンエアーII」Vol.2",
+          "name": "ソードアート・オンライン -ロスト・ソング-",
+          "name_cn": "刀剑神域：失落之歌",
+          "relation": "游戏",
+          "type": 4,
+          "id": 115069
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/34/115942_aG80T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/34/115942_aG80T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f0/34/115942_aG80T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/34/115942_aG80T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/34/115942_aG80T.jpg"
+          },
+          "name": "courage",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 115942
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/5e/115943_ya858.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/5e/115943_ya858.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c7/5e/115943_ya858.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/5e/115943_ya858.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/5e/115943_ya858.jpg"
+          },
+          "name": "シルシ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 115943
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/d0/109790_M3H3a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/d0/109790_M3H3a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/44/d0/109790_M3H3a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/d0/109790_M3H3a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/d0/109790_M3H3a.jpg"
+          },
+          "name": "ソードアート・オンラインII 第1卷 特典CD",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 109790
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/a1/114163_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/a1/114163_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/eb/a1/114163_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/eb/a1/114163_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/eb/a1/114163_jp.jpg"
+          },
+          "name": "ラジオCD「ソードアート・オンエアーII」Vol.1",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
-          "id": 119882
+          "id": 114163
         },
         {
           "images": {
@@ -3189,143 +3227,115 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/5e/115943_ya858.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/5e/115943_ya858.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c7/5e/115943_ya858.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/5e/115943_ya858.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/5e/115943_ya858.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/fb/119882_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/fb/119882_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/fb/119882_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/fb/119882_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/fb/119882_jp.jpg"
           },
-          "name": "シルシ",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 115943
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/34/115942_aG80T.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/34/115942_aG80T.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f0/34/115942_aG80T.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/34/115942_aG80T.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/34/115942_aG80T.jpg"
-          },
-          "name": "courage",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 115942
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/fd/115069_q55UQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/fd/115069_q55UQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/fd/115069_q55UQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/fd/115069_q55UQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/fd/115069_q55UQ.jpg"
-          },
-          "name": "ソードアート・オンライン -ロスト・ソング-",
-          "name_cn": "刀剑神域：失落之歌",
-          "relation": "游戏",
-          "type": 4,
-          "id": 115069
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/a1/114163_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/a1/114163_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/eb/a1/114163_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/eb/a1/114163_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/eb/a1/114163_jp.jpg"
-          },
-          "name": "ラジオCD「ソードアート・オンエアーII」Vol.1",
+          "name": "ラジオCD「ソードアート・オンエアーII」Vol.2",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
-          "id": 114163
+          "id": 119882
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/d0/109790_M3H3a.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/d0/109790_M3H3a.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/44/d0/109790_M3H3a.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/d0/109790_M3H3a.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/d0/109790_M3H3a.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/a9/130173_WaNY6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/a9/130173_WaNY6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6a/a9/130173_WaNY6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/a9/130173_WaNY6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/a9/130173_WaNY6.jpg"
           },
-          "name": "ソードアート・オンラインII 第1卷 特典CD",
+          "name": "ソードアート・オンラインII Original Soundtrack vol.2",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 130173
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/4d/133322_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/4d/133322_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/4d/133322_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/4d/133322_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/4d/133322_jp.jpg"
+          },
+          "name": "ラジオCD「ソードアート・オンエアーⅡ」Vol.3",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 133322
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/38/121503_bhjJ6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/38/121503_bhjJ6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/79/38/121503_bhjJ6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/38/121503_bhjJ6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/38/121503_bhjJ6.jpg"
+          },
+          "name": "ソードアート・オンライン II 第4巻 特典CD",
           "name_cn": "",
           "relation": "角色歌",
           "type": 3,
-          "id": 109790
+          "id": 121503
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/dc/106310_3BRWz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/dc/106310_3BRWz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3e/dc/106310_3BRWz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/dc/106310_3BRWz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/dc/106310_3BRWz.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/22/125849_EH6rj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/22/125849_EH6rj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f2/22/125849_EH6rj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/22/125849_EH6rj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/22/125849_EH6rj.jpg"
           },
-          "name": "IGNITE",
+          "name": "ソードアート・オンライン II 第5巻 特典CD",
           "name_cn": "",
-          "relation": "片头曲",
+          "relation": "角色歌",
           "type": 3,
-          "id": 106310
+          "id": 125849
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/91/106309_7EdLJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/91/106309_7EdLJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6a/91/106309_7EdLJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/91/106309_7EdLJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/91/106309_7EdLJ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/b5/127173_5o353.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/b5/127173_5o353.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/b5/127173_5o353.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/b5/127173_5o353.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/b5/127173_5o353.jpg"
           },
-          "name": "Startear",
+          "name": "ソードアート・オンライン II 第6巻 特典CD",
           "name_cn": "",
-          "relation": "片尾曲",
+          "relation": "角色歌",
           "type": 3,
-          "id": 106309
+          "id": 127173
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/b1/35579_GDMp7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/b1/35579_GDMp7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ea/b1/35579_GDMp7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/b1/35579_GDMp7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/b1/35579_GDMp7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/0b/130174_556i5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/0b/130174_556i5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c2/0b/130174_556i5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/0b/130174_556i5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/0b/130174_556i5.jpg"
           },
-          "name": "嫁コレ",
-          "name_cn": "新娘梦工厂",
-          "relation": "游戏",
-          "type": 4,
-          "id": 35579
+          "name": "ソードアート・オンライン II 第8巻 特典CD",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 130174
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/c8/23686_e36x9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/c8/23686_e36x9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2e/c8/23686_e36x9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/c8/23686_e36x9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/c8/23686_e36x9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/bf/133616_Yp9hO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/bf/133616_Yp9hO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/bf/133616_Yp9hO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/bf/133616_Yp9hO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/bf/133616_Yp9hO.jpg"
           },
-          "name": "ソードアート・オンライン",
-          "name_cn": "刀剑神域",
-          "relation": "前传",
-          "type": 2,
-          "id": 23686
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/a1/185771_8hG7m.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/a1/185771_8hG7m.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6f/a1/185771_8hG7m.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/a1/185771_8hG7m.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/a1/185771_8hG7m.jpg"
-          },
-          "name": "そーどあーと・おふらいん つー",
-          "name_cn": "掉线神域 第二季",
-          "relation": "衍生",
-          "type": 2,
-          "id": 185771
+          "name": "ソードアート・オンライン II 第9巻 特典CD",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 133616
         }
       ]
     }
@@ -3484,6 +3494,7 @@
       "id": 96918,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3804,21 +3815,21 @@
       "tags": [
         "2014",
         "2014年7月",
+        "DongwooA＆E",
         "TV",
+        "TVA",
         "¬",
         "タツノコプロ",
-        "プリズムの煌めき",
-        "伪娘",
         "偶像",
         "原创",
         "原将治",
         "可爱",
         "土屋理敬",
         "子供向",
-        "屹青",
         "幼女向",
         "很好",
         "搞笑",
+        "森胁真琴",
         "森脇真琴",
         "百合",
         "美妙天堂",
@@ -3944,6 +3955,7 @@
       "id": 99748,
       "eps": 38,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4284,10 +4296,9 @@
         "ZEXCS",
         "五色战队",
         "偶像",
+        "动画",
         "原创",
-        "可重温",
         "基",
-        "小推",
         "小说改",
         "小野賢章",
         "少年ハリウッド",
@@ -4305,6 +4316,7 @@
         "轻小说改",
         "轻改",
         "逢坂良太",
+        "音乐",
         "黒柳トシマサ"
       ],
       "infobox": [
@@ -4364,6 +4376,7 @@
       "id": 99806,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4636,7 +4649,6 @@
         "TV",
         "あおしまたかし",
         "东山奈央",
-        "内山夕実",
         "吐槽",
         "大久保瑠美",
         "大桥彩香",
@@ -4652,6 +4664,7 @@
         "校园",
         "漫改",
         "漫画改",
+        "漫画改编",
         "生存游戏社",
         "百合",
         "轻百合",
@@ -4747,6 +4760,7 @@
       "id": 82193,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4998,6 +5012,7 @@
       "id": 83868,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5198,6 +5213,7 @@
       "id": 92430,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5487,6 +5503,7 @@
       "id": 94244,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5677,11 +5694,11 @@
         "studiodeen",
         "⑨bishi",
         "『TVA』",
-        "スタジオディーン",
         "动画",
         "大地丙太郎",
         "搞笑",
         "新番记录",
+        "无厘头",
         "日常",
         "沙雕",
         "没地下",
@@ -5750,6 +5767,7 @@
       "id": 95679,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5805,7 +5823,6 @@
         "2014",
         "2014年",
         "2014年7月",
-        "2014年夏",
         "TAF",
         "TV",
         "TVA",
@@ -5822,6 +5839,7 @@
         "小林利充",
         "战国",
         "战国BASARA",
+        "战斗",
         "搞笑",
         "新番",
         "日本动画",
@@ -5867,6 +5885,7 @@
       "id": 99962,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5976,6 +5995,7 @@
         "原创",
         "吉野裕行",
         "夏目真悟",
+        "太空丹迪",
         "季番",
         "宇宙",
         "搞笑",
@@ -5989,7 +6009,6 @@
         "续作",
         "菅野洋子",
         "诹访部顺一",
-        "谷口悟朗",
         "骨头社"
       ],
       "infobox": [
@@ -6041,6 +6060,7 @@
       "id": 100501,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6123,6 +6143,7 @@
       "tags": [
         "2014",
         "2014-07",
+        "2014夏",
         "2014年",
         "2014年7月",
         "7月",
@@ -6149,7 +6170,6 @@
         "科幻",
         "节操",
         "萝卜",
-        "跟弟弟一起看的",
         "高达"
       ],
       "infobox": [
@@ -6198,6 +6218,7 @@
       "id": 106834,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6253,6 +6274,7 @@
         "2014",
         "2014年7月",
         "2014年夏",
+        "HeARTBIT、TelecomAnimationFilmC",
         "TV",
         "TelecomAnimationFilm",
         "tv-s",
@@ -6269,7 +6291,6 @@
         "搞笑",
         "文化",
         "新番",
-        "星期一",
         "杉山纪彰",
         "森江美咲",
         "法兰雀丝卡",
@@ -6358,6 +6379,7 @@
       "id": 92415,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6418,6 +6440,7 @@
         "ProductionI.G",
         "Production_I.G",
         "TV",
+        "TVA",
         "乙女向",
         "内田真礼",
         "吉村愛",
@@ -6426,7 +6449,6 @@
         "少女",
         "少女向",
         "少女漫",
-        "山田由香",
         "平川大輔",
         "恋爱",
         "日常",
@@ -6498,6 +6520,7 @@
       "id": 92836,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6632,7 +6655,6 @@
         "动画",
         "原创",
         "増本庄一郎",
-        "增本莊一郎",
         "怪谈",
         "恐怖",
         "恐怖泡面番",
@@ -6641,6 +6663,7 @@
         "日本",
         "日本动画",
         "暗芝居",
+        "村井良大",
         "泡面",
         "泡面番",
         "清水崇",
@@ -6709,6 +6732,7 @@
       "id": 95824,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6776,7 +6800,6 @@
       "name_cn": "搞姬日常",
       "tags": [
         "2014",
-        "2014夏",
         "2014年",
         "2014年7月",
         "TV",
@@ -6785,12 +6808,13 @@
         "伪百合",
         "佐仓绫音",
         "佐倉綾音",
-        "动画",
+        "女装",
         "搞姬日常",
         "搞姬的日常",
         "搞笑",
         "日常",
         "日本",
+        "日本动画",
         "旭production",
         "旭プロダクション",
         "柳濑雄之",
@@ -6988,6 +7012,7 @@
       "id": 97927,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7176,6 +7201,7 @@
       "id": 100449,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7441,6 +7467,7 @@
       "id": 100557,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7538,6 +7565,7 @@
         "2014",
         "2014年",
         "2014年7月",
+        "MADHOUSE",
         "MADHouse",
         "TV",
         "いしづかあつこ",
@@ -7549,19 +7577,18 @@
         "日常",
         "校园",
         "治愈",
-        "沼仓爱美",
         "漫改",
         "漫画改",
         "漫画改编",
         "田中美海",
         "百合",
         "石塚敦子",
-        "社团",
         "花漾小屋百合开",
         "花舞少女",
         "芳文社",
         "萌",
         "萌豚",
+        "萝莉",
         "轻百合",
         "青春",
         "音乐"
@@ -7695,6 +7722,7 @@
       "id": 91222,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8050,7 +8078,6 @@
         "projectNo.9",
         "モモキュンソード",
         "三上枝织",
-        "三森すずこ",
         "今井麻美",
         "加藤英美里",
         "动画",
@@ -8059,6 +8086,7 @@
         "大坪由佳",
         "搞笑",
         "日本",
+        "日本动画",
         "柳伸亮",
         "桃剑",
         "津田美波",
@@ -8143,6 +8171,7 @@
       "id": 93865,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8349,6 +8378,7 @@
       "id": 101322,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8491,7 +8521,6 @@
         "8-Bit",
         "8bit",
         "TV",
-        "TVA",
         "エイトビット",
         "井口裕香",
         "向山进发",
@@ -8512,6 +8541,7 @@
         "续作",
         "萌",
         "萌豚",
+        "轻百",
         "轻百合",
         "运动",
         "阿澄佳奈"
@@ -8665,6 +8695,7 @@
       "id": 86670,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8992,6 +9023,7 @@
       "id": 102694,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9163,6 +9195,7 @@
       "id": 74755,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9409,6 +9442,7 @@
       "id": 83402,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9717,12 +9751,21 @@
         {
           "key": "制作协力",
           "value": "小倉悠加、藤津亮太(#1-#3)、Jonathan Nawrocki(#5-#11)"
+        },
+        {
+          "key": "导演",
+          "value": "渡辺信一郎"
+        },
+        {
+          "key": "人物设定",
+          "value": "中澤一登"
         }
       ],
       "total_episodes": 11,
       "id": 100443,
       "eps": 11,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9825,21 +9868,21 @@
         "不可错过",
         "光田康典",
         "吉野弘幸",
+        "哥特",
         "坂本真绫",
         "基",
         "大河内一楼",
         "奇幻",
         "宫野真守",
-        "宮野真守",
         "小野大輔",
         "小野大辅",
         "悬疑",
+        "战斗",
         "有生之年",
         "木村良平",
         "漫改",
         "漫画改",
         "福山润",
-        "福山潤",
         "续作",
         "耽美",
         "腐",
@@ -9936,6 +9979,7 @@
       "id": 100526,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10293,6 +10337,7 @@
       "id": 100986,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10346,12 +10391,12 @@
       "name_cn": "女神异闻录4 黄金版",
       "tags": [
         "2014",
+        "2014夏",
         "2014年",
         "2014年7月",
         "7月",
         "A-1",
         "A-1Pictures",
-        "A-1_Pictures",
         "PERSONA",
         "TV",
         "TVA",
@@ -10432,6 +10477,7 @@
       "id": 103304,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10597,6 +10643,7 @@
         "塩谷直義",
         "很强大的样子",
         "心理测量者",
+        "总集篇",
         "悬疑",
         "战斗",
         "樱井孝宏",
@@ -10610,7 +10657,6 @@
         "虚淵玄",
         "虚渊玄",
         "虚玄渊",
-        "龙之子",
         "龙之子Production"
       ],
       "infobox": [
@@ -10676,6 +10722,7 @@
       "id": 103906,
       "eps": 11,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10867,6 +10914,7 @@
       "id": 88676,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11044,6 +11092,7 @@
         "健速",
         "动画",
         "后宫",
+        "喜剧",
         "大沼心",
         "奇幻",
         "安川正吾",
@@ -11059,8 +11108,7 @@
         "穿越",
         "萌",
         "轻小说改",
-        "轻改",
-        "魔法少女"
+        "轻改"
       ],
       "infobox": [
         {
@@ -11176,6 +11224,7 @@
       "id": 98286,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11559,6 +11608,7 @@
       "id": 103671,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11645,7 +11695,6 @@
         "TNK",
         "TV",
         "ティー・エヌ・ケー",
-        "伪娘",
         "卖肉",
         "后宫",
         "奇幻",
@@ -11656,6 +11705,7 @@
         "战斗",
         "搞笑",
         "新番",
+        "日本",
         "日笠阳子",
         "杰克苏",
         "柳沢テツヤ",
@@ -11739,6 +11789,7 @@
       "id": 79226,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11948,10 +11999,12 @@
         "2014",
         "2014年7月",
         "2014年夏",
+        "Ltd.",
         "MMD",
         "RMK",
         "TV",
         "YAOYOROZU",
+        "YAOYOROZUCO.",
         "apr7",
         "ヤオヨロズ",
         "优先级D",
@@ -12036,6 +12089,7 @@
       "id": 101107,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12146,6 +12200,7 @@
       "id": 134334,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12172,10 +12227,9 @@
         "2014",
         "2014年",
         "2014年7月",
-        "2018",
+        "2014年七月番",
         "OLM",
         "pokemon",
-        "『精灵宝可梦』",
         "アニメ映画",
         "オー・エル・エム",
         "一石小百合",
@@ -12192,6 +12246,7 @@
         "日本",
         "日本动画",
         "松原德弘",
+        "林原惠",
         "汤山邦彦",
         "游戏改",
         "湯山邦彦",
@@ -12285,6 +12340,7 @@
       "id": 90368,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12456,7 +12512,7 @@
         },
         {
           "key": "上映年度",
-          "value": "2014-07-19"
+          "value": "2014年7月19日"
         },
         {
           "key": "话数",
@@ -12467,6 +12523,7 @@
       "id": 99951,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12601,6 +12658,7 @@
       "id": 90367,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12773,6 +12831,7 @@
       "id": 108249,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12812,6 +12871,7 @@
       "name_cn": "澄子",
       "tags": [
         "2014",
+        "opera",
         "未知",
         "没地下",
         "空"
@@ -12898,6 +12958,7 @@
       "id": 107852,
       "eps": 8,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12985,6 +13046,7 @@
       "id": 60003,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12998,7 +13060,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/ed/38069_SPp4e.jpg"
           },
           "name": "K",
-          "name_cn": "「K」",
+          "name_cn": "",
           "relation": "前传",
           "type": 2,
           "id": 38069
@@ -13091,7 +13153,7 @@
     }
   },
   {
-    "title": "のんのんびより OAD",
+    "title": "のんのんびより 沖縄へ行くことになった",
     "date": "2014-07-23",
     "bangumi": {
       "date": "2014-07-23",
@@ -13104,7 +13166,7 @@
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/c1/86895_0ezw8.jpg"
       },
       "summary": "单行本第7卷同捆OAD。",
-      "name": "のんのんびより OAD",
+      "name": "のんのんびより 沖縄へ行くことになった",
       "name_cn": "悠哉日常大王 OAD",
       "tags": [
         "2014",
@@ -13114,11 +13176,11 @@
         "OVA",
         "SILVERLINK.",
         "SILVER_LINK.",
+        "あっと",
         "乡村",
         "佐仓绫音",
         "吉田玲子",
         "喵帕斯",
-        "小岩井小鸟",
         "川面真也",
         "悠哉日常大王",
         "搞笑",
@@ -13184,6 +13246,7 @@
       "id": 86895,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -13320,13 +13383,13 @@
         "WEB",
         "二期",
         "动作",
-        "动画",
         "原创",
         "原创动画",
         "同人动画",
         "奇幻",
         "战斗",
         "暴力美学",
+        "校园",
         "欧美",
         "泡面番",
         "炸裂",
@@ -13379,6 +13442,7 @@
       "id": 95445,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -13554,6 +13618,7 @@
         "原创",
         "吉田玲子",
         "少女与战车",
+        "島田フミカネ",
         "意呆立",
         "战斗",
         "战车",
@@ -13565,7 +13630,6 @@
         "欢乐",
         "水岛努",
         "水島努",
-        "浜口史郎",
         "热血",
         "燃",
         "百合",
@@ -13612,6 +13676,7 @@
       "id": 96130,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -13756,14 +13821,11 @@
         "SP",
         "WEB",
         "WHITEFOX",
-        "タカヒロ",
         "中村浩二郎",
-        "伊藤俊介",
+        "动画",
+        "后宫",
         "小剧场",
-        "屹青",
-        "已保存",
         "搞笑",
-        "斉藤壮馬",
         "斩·赤红之瞳！",
         "日本",
         "日本动画",
@@ -13773,10 +13835,13 @@
         "田村正文",
         "番外",
         "短片",
-        "练习",
+        "老番",
+        "虐",
         "血腥猎奇",
         "表番",
         "雨宮天",
+        "魔幻",
+        "黑暗系",
         "［致郁系］"
       ],
       "infobox": [
@@ -13805,6 +13870,7 @@
       "id": 192815,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -13851,6 +13917,7 @@
         "OVA-01",
         "SEVEN・ARCS",
         "SevenArcs",
+        "SevenArcsPictures",
         "VCB",
         "二〇一四年",
         "加藤陽一",
@@ -13871,7 +13938,6 @@
         "漫画改",
         "漫画改编",
         "热血",
-        "肉",
         "虫奉行"
       ],
       "infobox": [
@@ -13908,6 +13974,7 @@
       "id": 103811,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -14003,6 +14070,7 @@
       "id": 138352,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -14104,6 +14172,7 @@
       "id": 108651,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -14142,6 +14211,8 @@
       "name": "それいけ!アンパンマン たのしくてあそび ママになったコキンちゃん!?",
       "name_cn": "",
       "tags": [
+        "2014",
+        "TMSEntertainment",
         "子供向"
       ],
       "infobox": [
@@ -14246,6 +14317,7 @@
       "id": 455928,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -14298,6 +14370,8 @@
       "name": "それいけ!アンパンマン りんごぼうやとみんなの願い",
       "name_cn": "面包超人：苹果男孩与大家的愿望",
       "tags": [
+        "2014",
+        "TMSEntertainment",
         "子供向"
       ],
       "infobox": [
@@ -14420,6 +14494,7 @@
       "id": 455927,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -14512,6 +14587,9 @@
           "key": "别名",
           "value": [
             {
+              "v": "苹果核战记：阿尔法"
+            },
+            {
               "v": "アップルシード アルファ"
             }
           ]
@@ -14537,6 +14615,7 @@
       "id": 104139,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -14604,6 +14683,8 @@
       "name_cn": "校园恐怖传说 - 新·花子来了！！第二季",
       "tags": [
         "2014",
+        "GroupTacCo.",
+        "Ltd.",
         "没地下"
       ],
       "infobox": [
@@ -14632,6 +14713,7 @@
       "id": 108417,
       "eps": 20,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

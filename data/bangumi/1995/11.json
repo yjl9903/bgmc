@@ -128,23 +128,38 @@
       "id": 237,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/1d/238_jJONA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/1d/238_jJONA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ac/1d/238_jJONA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/1d/238_jJONA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/1d/238_jJONA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/30/99506_KEiln.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/30/99506_KEiln.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/94/30/99506_KEiln.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/30/99506_KEiln.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/30/99506_KEiln.jpg"
           },
-          "name": "イノセンス",
-          "name_cn": "攻壳机动队2 无罪",
-          "relation": "续集",
+          "name": "未来への約束",
+          "name_cn": "",
+          "relation": "印象曲",
+          "type": 3,
+          "id": 99506
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/10/496276_I5XnA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/10/496276_I5XnA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/10/496276_I5XnA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/10/496276_I5XnA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_I5XnA.jpg"
+          },
+          "name": "攻殻機動隊 新作TVアニメ",
+          "name_cn": "攻壳机动队 新作TV动画",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 238
+          "id": 496276
         },
         {
           "images": {
@@ -159,62 +174,6 @@
           "relation": "书籍",
           "type": 1,
           "id": 477110
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/18/10291_4dGhK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/18/10291_4dGhK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ef/18/10291_4dGhK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/18/10291_4dGhK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/18/10291_4dGhK.jpg"
-          },
-          "name": "GHOST IN THE SHELL / 攻殻機動隊2.0",
-          "name_cn": "攻壳机动队2.0",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 10291
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/ad/25256_tdDz5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/ad/25256_tdDz5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bb/ad/25256_tdDz5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/ad/25256_tdDz5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/ad/25256_tdDz5.jpg"
-          },
-          "name": "攻殻機動隊",
-          "name_cn": "攻壳机动队",
-          "relation": "书籍",
-          "type": 1,
-          "id": 25256
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/18/25259_3I3Fp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/18/25259_3I3Fp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8d/18/25259_3I3Fp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/18/25259_3I3Fp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/18/25259_3I3Fp.jpg"
-          },
-          "name": "攻殻機動隊",
-          "name_cn": "攻壳机动队",
-          "relation": "书籍",
-          "type": 1,
-          "id": 25259
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/b6/53415_HBk06.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/b6/53415_HBk06.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5e/b6/53415_HBk06.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/b6/53415_HBk06.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/b6/53415_HBk06.jpg"
-          },
-          "name": "攻殻機動隊／オリジナル・サウンドトラック",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 53415
         },
         {
           "images": {
@@ -260,17 +219,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/30/99506_KEiln.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/30/99506_KEiln.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/94/30/99506_KEiln.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/30/99506_KEiln.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/30/99506_KEiln.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/3d/133383_WnO2y.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/3d/133383_WnO2y.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/3d/133383_WnO2y.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/3d/133383_WnO2y.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/3d/133383_WnO2y.jpg"
           },
-          "name": "未来への約束",
-          "name_cn": "",
-          "relation": "印象曲",
-          "type": 3,
-          "id": 99506
+          "name": "Ghost in the Shell",
+          "name_cn": "攻壳机动队",
+          "relation": "三次元",
+          "type": 6,
+          "id": 133383
         },
         {
           "images": {
@@ -288,17 +247,73 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/3d/133383_WnO2y.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/3d/133383_WnO2y.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/3d/133383_WnO2y.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/3d/133383_WnO2y.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/3d/133383_WnO2y.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/1d/238_jJONA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/1d/238_jJONA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ac/1d/238_jJONA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/1d/238_jJONA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/1d/238_jJONA.jpg"
           },
-          "name": "Ghost in the Shell",
+          "name": "イノセンス",
+          "name_cn": "攻壳机动队2 无罪",
+          "relation": "续集",
+          "type": 2,
+          "id": 238
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/b6/53415_HBk06.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/b6/53415_HBk06.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/b6/53415_HBk06.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/b6/53415_HBk06.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/b6/53415_HBk06.jpg"
+          },
+          "name": "攻殻機動隊／オリジナル・サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 53415
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/18/25259_3I3Fp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/18/25259_3I3Fp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/18/25259_3I3Fp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/18/25259_3I3Fp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/18/25259_3I3Fp.jpg"
+          },
+          "name": "攻殻機動隊",
           "name_cn": "攻壳机动队",
-          "relation": "三次元",
-          "type": 6,
-          "id": 133383
+          "relation": "书籍",
+          "type": 1,
+          "id": 25259
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/ad/25256_tdDz5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/ad/25256_tdDz5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/ad/25256_tdDz5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/ad/25256_tdDz5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/ad/25256_tdDz5.jpg"
+          },
+          "name": "攻殻機動隊",
+          "name_cn": "攻壳机动队",
+          "relation": "书籍",
+          "type": 1,
+          "id": 25256
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/18/10291_4dGhK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/18/10291_4dGhK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/18/10291_4dGhK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/18/10291_4dGhK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/18/10291_4dGhK.jpg"
+          },
+          "name": "GHOST IN THE SHELL / 攻殻機動隊2.0",
+          "name_cn": "攻壳机动队2.0",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 10291
         },
         {
           "images": {
@@ -424,6 +439,10 @@
         "1995年十月番",
         "OVA",
         "OVA-01",
+        "robo",
+        "井内秀治",
+        "日本アニメーション",
+        "日本动画",
         "旧物",
         "机战"
       ],
@@ -445,6 +464,7 @@
       "id": 180401,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

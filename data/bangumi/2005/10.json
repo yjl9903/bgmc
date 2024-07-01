@@ -124,6 +124,7 @@
       "id": 4756,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -361,6 +362,10 @@
           "value": "2005年12月29日"
         },
         {
+          "key": "Copyright",
+          "value": "©2005 天野こずえ/マッグガーデン・ＡＲＩＡカンパニー"
+        },
+        {
           "key": "原作",
           "value": "天野こずえ「ARIA」（月刊コミックブレイド連載）"
         },
@@ -378,15 +383,15 @@
         },
         {
           "key": "脚本",
-          "value": "佐藤順一、吉田玲子、藤咲あゆな"
+          "value": "佐藤順一(1,8)、吉田玲子(2-7, 10, 12)、藤咲あゆな(9, 11, 13)"
         },
         {
           "key": "分镜",
-          "value": "佐藤順一、向中野義雄、後藤圭二、福多潤、島崎奈々子、佐々木守、布施木一喜、竹下健一"
+          "value": "佐藤順一(1-2, 4, 8, 11-12)、向中野義雄(2)、後藤圭二(3)、福多潤(5, 10)、島崎奈々子(6)、佐々木守(6)、布施木一喜(7, 13)、竹下健一(9)"
         },
         {
           "key": "演出",
-          "value": "布施木一喜、向中野義雄、後藤圭二、玉川真人、筑紫大介、島崎奈々子、名取孝浩、竹下健一、いとがしんたろー、荒川眞嗣"
+          "value": "布施木一喜(1-2, 7, 13)、向中野義雄(2)、後藤圭二(3)、玉川真人(4, 8, 12)、筑紫大介(5, 11)、島崎奈々子(6)、名取孝浩(7, 10, 13)、竹下健一(9, 11)、いとがしんたろー(10, 13)、荒川眞嗣(ED)"
         },
         {
           "key": "演出助理",
@@ -394,7 +399,7 @@
         },
         {
           "key": "OP・ED 分镜",
-          "value": "数井浩子"
+          "value": "数井浩子(ED)"
         },
         {
           "key": "音乐",
@@ -406,7 +411,7 @@
         },
         {
           "key": "构图",
-          "value": "レイアウト監修：荒川眞嗣、レイアウト協力：小村方宏治"
+          "value": "レイアウト監修：荒川眞嗣、レイアウト協力：小村方宏治(2)"
         },
         {
           "key": "美术监督",
@@ -434,11 +439,11 @@
         },
         {
           "key": "作画监督",
-          "value": "古賀誠、近藤優次、吉本拓二、住本悦子、霜山朋久、羽生貴之、柳瀬雄之、藤原未来夫、宮本由紀子、松林唯人、藤澤俊幸、日下岳史、音地正行、和井宏"
+          "value": "古賀誠(1,13)、近藤優次(2)、吉本拓二(3,7,13)、住本悦子(4)、霜山朋久(5,10,13)、羽生貴之(6)、柳瀬雄之(6,10,12-13)、藤原未来夫(7)、宮本由紀子(7)、松林唯人(8)、藤澤俊幸(9)、日下岳史(11,13)、音地正行(11)、和井宏(12)"
         },
         {
           "key": "作画监督助理",
-          "value": "藤原未来夫、日下岳史、和田高明、霜山朋久、西條ヒデキ、音地正行、後藤圭二"
+          "value": "藤原未来夫(3)、日下岳史(6,9-10)、和田高明(11)、霜山朋久(11)、西條ヒデキ、音地正行(13)、後藤圭二(13)"
         },
         {
           "key": "原画",
@@ -522,35 +527,35 @@
         },
         {
           "key": "主题歌编曲",
-          "value": "窪田ミナ、ROUND TABLE、桜井康史"
+          "value": "窪田ミナ(OP)、ROUND TABLE、桜井康史(ED)"
         },
         {
           "key": "主题歌作曲",
-          "value": "窪田ミナ、北川勝利"
+          "value": "窪田ミナ(OP)、北川勝利(ED)"
         },
         {
           "key": "主题歌作词",
-          "value": "河井英里、北川勝利"
+          "value": "河井英里(OP)、北川勝利(ED)"
         },
         {
           "key": "主题歌演出",
-          "value": "牧野由依、ROUND TABLE featuring Nino"
+          "value": "牧野由依(OP)、ROUND TABLE featuring Nino(ED)"
         },
         {
           "key": "插入歌编曲",
-          "value": "窪田ミナ、桜井康史、ROUND TABLE"
+          "value": "窪田ミナ(6,11)、桜井康史(11-12,13)、ROUND TABLE(13)"
         },
         {
           "key": "插入歌作曲",
-          "value": "窪田ミナ、北川勝利"
+          "value": "窪田ミナ(6,11)、北川勝利(11-12,13)"
         },
         {
           "key": "插入歌作词",
-          "value": "河井英里、伊藤利恵子"
+          "value": "河井英里(6,11)、伊藤利恵子(11-12,13)"
         },
         {
           "key": "插入歌演出",
-          "value": "河井英里、牧野由依、ROUND TABLE featuring Nino"
+          "value": "河井英里(6,11)、牧野由依(11-12)、ROUND TABLE featuring Nino(13)"
         },
         {
           "key": "制作进行",
@@ -617,6 +622,7 @@
       "id": 531,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -827,11 +833,11 @@
       "date": "2005-10-03",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/ea/41883_2y4pQ.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/ea/41883_2y4pQ.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/ff/ea/41883_2y4pQ.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/ea/41883_2y4pQ.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/ea/41883_2y4pQ.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/ea/41883_Yta9i.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/ea/41883_Yta9i.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ff/ea/41883_Yta9i.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/ea/41883_Yta9i.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/ea/41883_Yta9i.jpg"
       },
       "summary": "槙村香不幸于交通意外中逝世，其心脏被移植到来自台湾的杀手李香莹身上。之后，李香莹脱离组织，成为冴羽獠的女儿，共组新的城市猎人。 与原作漫画一样，以《城市猎人》的平行世界为背景，部分设定与《城市猎人》有所不同。",
       "name": "エンジェル・ハート",
@@ -839,6 +845,7 @@
       "tags": [
         "2005",
         "2005年",
+        "2005年10月",
         "2012年10月",
         "TMS",
         "TV",
@@ -908,6 +915,7 @@
       "id": 41883,
       "eps": 50,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1062,11 +1070,11 @@
       "date": "2005-10-20",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/14/1026_bZoK5.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/14/1026_bZoK5.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/24/14/1026_bZoK5.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/14/1026_bZoK5.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/14/1026_bZoK5.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/14/1026_6u53I.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/14/1026_6u53I.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/24/14/1026_6u53I.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/14/1026_6u53I.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/14/1026_6u53I.jpg"
       },
       "summary": "真红将水银灯打败后，又回到了普通生活。\r\n可是过没多久,又出现新的人偶——自称第七人偶的蔷薇水晶。\r\n另一方面,随着金丝雀的来到，所有的蔷薇少女都到齐了，爱丽丝游戏也随之开启。\r\n究竟蔷薇少女们会如何面对自己的命运……",
       "name": "ローゼンメイデン・トロイメント",
@@ -1185,6 +1193,7 @@
       "id": 1026,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1470,9 +1479,7 @@
         "TV",
         "noitaminA",
         "アニメ",
-        "乙女动画",
         "乙女向",
-        "天堂之吻",
         "女性向",
         "实感",
         "小林治",
@@ -1486,10 +1493,12 @@
         "漫改",
         "漫画改",
         "爱情",
+        "疯房子",
         "矢沢あい",
         "矢泽爱",
         "纯爱",
         "补旧番",
+        "补番",
         "西村聡"
       ],
       "infobox": [
@@ -1600,6 +1609,7 @@
       "id": 7880,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1819,6 +1829,7 @@
       "id": 1263,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1979,11 +1990,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/e5/35679_BudFn.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/e5/35679_BudFn.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2e/e5/35679_BudFn.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/e5/35679_BudFn.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/e5/35679_BudFn.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/e5/35679_r1c11.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/e5/35679_r1c11.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2e/e5/35679_r1c11.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/e5/35679_r1c11.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/e5/35679_r1c11.jpg"
           },
           "name": "魔法少女リリカルなのは The MOVIE 2nd A's",
           "name_cn": "魔法少女奈叶 The MOVIE 2nd A’s",
@@ -2218,6 +2229,7 @@
       "id": 490,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2586,6 +2598,7 @@
       "id": 47534,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2690,6 +2703,7 @@
       "id": 1028,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2710,11 +2724,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/fe/3944_U4898.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/fe/3944_U4898.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f9/fe/3944_U4898.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/fe/3944_U4898.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/fe/3944_U4898.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/fe/3944_0V879.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/fe/3944_0V879.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/fe/3944_0V879.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/fe/3944_0V879.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/fe/3944_0V879.jpg"
           },
           "name": "舞-乙HiME Zwei",
           "name_cn": "舞-乙HiME Zwei",
@@ -2724,11 +2738,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/f1/3948_Cem55.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/f1/3948_Cem55.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6d/f1/3948_Cem55.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/f1/3948_Cem55.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/f1/3948_Cem55.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/f1/3948_Dl7An.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/f1/3948_Dl7An.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6d/f1/3948_Dl7An.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/f1/3948_Dl7An.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/f1/3948_Dl7An.jpg"
           },
           "name": "舞-乙HiME 0 ～S.ifr～",
           "name_cn": "舞-乙HiME 0～S.ifr～",
@@ -3017,6 +3031,7 @@
       "id": 2300,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3133,20 +3148,20 @@
         "SF",
         "Satelight",
         "TV",
-        "TVA",
         "サテライト",
+        "中井和哉",
         "伊藤真澄",
         "到另一个你的身边",
         "半年番",
         "卫星社",
         "原创",
-        "听歌",
         "多世界诠释",
         "大野木寛",
         "岸田隆宏",
         "工藤晴香",
         "平行世界",
         "日本动画",
+        "松本宪生",
         "神棍系",
         "科幻",
         "补旧番",
@@ -3222,6 +3237,7 @@
       "id": 2314,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3304,9 +3320,9 @@
       "tags": [
         "2000s",
         "2005",
+        "2005.10.3",
         "2005年",
         "2005年10月",
-        "7分",
         "GAL",
         "GAL改",
         "OLM",
@@ -3316,7 +3332,7 @@
         "leaf",
         "伊藤静",
         "佐藤利奈",
-        "发色多样",
+        "六分",
         "后宫",
         "喜剧",
         "山口宏",
@@ -3328,8 +3344,8 @@
         "校园",
         "治愈",
         "游戏改",
-        "游改",
         "直击心脏2",
+        "补番",
         "須藤典彦",
         "须藤典彦"
       ],
@@ -3385,6 +3401,7 @@
       "id": 8758,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3584,7 +3601,6 @@
         "I.G",
         "Production.I.G",
         "ProductionI.G",
-        "Production_I.G",
         "TV",
         "blood+",
         "动画",
@@ -3597,6 +3613,7 @@
         "小西克幸",
         "幻想",
         "战斗",
+        "押井守",
         "日本",
         "暴力",
         "暴力美学",
@@ -3661,6 +3678,7 @@
       "id": 981,
       "eps": 50,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4061,6 +4079,7 @@
       "id": 29344,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4089,6 +4108,7 @@
         "2005年",
         "2005年10月",
         "Canvas2",
+        "F&C",
         "GAL",
         "GAL改",
         "NTR",
@@ -4096,21 +4116,20 @@
         "ZEXCS",
         "七尾奈留",
         "七彩的素描",
-        "兄妹",
         "名塚佳織",
         "后宫",
         "妹",
         "妹控",
-        "岡田麿里",
         "川崎逸朗",
         "幼馴染",
         "恋爱",
+        "日常",
+        "日本动画",
         "朋子",
         "校园",
         "樱井孝宏",
+        "治愈",
         "游戏改",
-        "游改",
-        "生天目仁美",
         "睡了实妹",
         "素描",
         "补番"
@@ -4240,6 +4259,7 @@
       "id": 4021,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4521,6 +4541,7 @@
       "id": 1260,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4717,11 +4738,11 @@
       "date": "2005-10-10",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/07/10506_6C60T.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/07/10506_6C60T.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/e4/07/10506_6C60T.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/07/10506_6C60T.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/07/10506_6C60T.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/07/10506_HQYM4.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/07/10506_HQYM4.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/e4/07/10506_HQYM4.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/07/10506_HQYM4.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/07/10506_HQYM4.jpg"
       },
       "summary": "小时候搬来这个海滨城镇的由坂健次，眼里看到的，是一望无际的大海被日光照射后呈现的那一片玻子汽水般的色彩。健次在那海边同一位少女相遇。少女的名字叫做近卫七海，就住在健次新家的隔壁，窗对窗仅有1、2米伸手可及的距离。\r\n四季转变，时光飞逝。他们两人的回忆和一起度过的岁月一起渐渐堆积。一如既往的每一天，自然而然的情感，对他们来说，这些就是如同宝物一般。日光渐渐刺眼，蝉叫依稀可辨，天空愈发湛蓝……今年的夏天也来了，对健次和七海来说平常却又有些许改变的夏天……\r\n\r\n此波子汽水非彼波子汽水。仅仅是同名而已。",
       "name": "ラムネ",
@@ -4741,19 +4762,19 @@
         "后宫",
         "后藤邑子",
         "夏",
-        "太纯情不能忍",
-        "季番",
         "幼驯染",
         "弹珠汽水",
         "恋爱",
         "日常",
+        "日本动画",
+        "校园",
         "治愈",
         "波子汽水",
         "游戏改",
         "猫猫社",
         "田口宏子",
         "纯爱",
-        "经典",
+        "补番",
         "谷山纪章",
         "高田淳",
         "鴻野貴光"
@@ -4803,6 +4824,7 @@
       "id": 10506,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4902,6 +4924,7 @@
         "摩砂雪",
         "日本动画",
         "旧物",
+        "本乡满",
         "本郷みつる",
         "机器人",
         "游戏改",
@@ -4955,6 +4978,7 @@
       "id": 20924,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5120,6 +5144,7 @@
       "id": 340,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5356,7 +5381,7 @@
         },
         {
           "key": "原作",
-          "value": "前川凉"
+          "value": "前川涼"
         },
         {
           "key": "企画",
@@ -5367,6 +5392,7 @@
       "id": 10181,
       "eps": 51,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5537,6 +5563,7 @@
       "id": 48030,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5602,7 +5629,7 @@
         "竞技",
         "赌博",
         "赤木",
-        "高屋敷英夫",
+        "赤木茂",
         "麻将",
         "麻雀"
       ],
@@ -5676,6 +5703,7 @@
       "id": 2059,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5710,11 +5738,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/e4/250372_gM4EW.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/e4/250372_gM4EW.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/e4/250372_gM4EW.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/e4/250372_gM4EW.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/e4/250372_gM4EW.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/e4/250372_lr1qD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/e4/250372_lr1qD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/e4/250372_lr1qD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/e4/250372_lr1qD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/e4/250372_lr1qD.jpg"
           },
           "name": "雀魂麻将",
           "name_cn": "",
@@ -5788,11 +5816,11 @@
       "date": "2005-10-08",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/5b/7160_u88Up.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/5b/7160_u88Up.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/52/5b/7160_u88Up.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/5b/7160_u88Up.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/5b/7160_u88Up.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/5b/7160_TXcXT.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/5b/7160_TXcXT.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/52/5b/7160_TXcXT.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/5b/7160_TXcXT.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/5b/7160_TXcXT.jpg"
       },
       "summary": "16岁的花样滑冰运动员樱野鹤纱，突然被加拿大幽灵彼得附体，偏偏此时鹤纱向媒体宣布，要赢得奥林匹克运动会出场权......这样不知该说“两个人”还是“一个人”的组合，似乎要为绝不太平的将来作出许多牺牲...... 16岁的樱野鹤纱是自称拥有100亿美金的美貌花样溜冰选手，但是却因为心直口快，作风硬朗而不招人喜欢，本被期待的实力派的她在女子单人花样滑冰比赛中失利败北，更惨的是，还被一个倒霉的加拿大少年彼得的灵魂附体，彼得的灵魂要在100天后才能升天，他们两人要度过整整100天同心同体的生活，彼特能够通过鹤纱的眼睛看到外界的一切，也就是说，鹤纱在洗手间也不得安宁……混乱的生活就此开始…… 喜欢耍贫嘴而得罪媒体、陷入媒体集中炮火的鹤纱能够取得奥林匹克运动会的出场权吗……？震撼花样滑冰界的恶女主角的最凶传说就这样开始了!",
       "name": "銀盤カレイドスコープ",
@@ -5805,10 +5833,9 @@
         "Actas",
         "TV",
         "TVA",
+        "inc.",
         "アクタス",
-        "乙女向!",
         "体育",
-        "冰上萬花筒",
         "动画",
         "大和屋暁",
         "小说男主早滚蛋了！",
@@ -5822,10 +5849,11 @@
         "日本动画",
         "滑冰",
         "画面崩坏",
-        "花样滑冰",
+        "競技",
         "轻小说改",
         "轻改",
         "运动",
+        "运动番",
         "银盘万花筒",
         "高松信司"
       ],
@@ -5955,6 +5983,7 @@
       "id": 7160,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6051,13 +6080,13 @@
         "原创",
         "另一个世界",
         "吉野裕行",
+        "大野木宽",
         "大野木寛",
         "小形尚弘",
         "山根公利",
         "岸尾大辅",
         "日升2005秋",
         "日本",
-        "日本动画",
         "池田成",
         "福山润",
         "福山潤",
@@ -6108,6 +6137,7 @@
       "id": 18502,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6169,6 +6199,7 @@
         "AIC",
         "AIC_Digital",
         "GONZO",
+        "QTS",
         "SF",
         "TV",
         "megrock",
@@ -6181,7 +6212,6 @@
         "大叔X萝莉",
         "安利",
         "平池芳正",
-        "年差カプ",
         "待補2",
         "斎藤桃子",
         "曙光少女",
@@ -6288,6 +6318,7 @@
       "id": 3974,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6427,6 +6458,7 @@
       "id": 3357,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6486,6 +6518,7 @@
         "BrainsBase",
         "Brain’sBase",
         "J.C.STAFF",
+        "SCEI",
         "TV",
         "TVA",
         "robo",
@@ -6564,6 +6597,7 @@
       "id": 30522,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6763,6 +6797,7 @@
       "id": 195012,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6813,7 +6848,7 @@
       },
       "summary": "　オリジナルのＴＶシリーズ全50話に新作カットを追加し、新解釈でブラッシュアップした劇場版シリーズ第２弾。いよいよ新型モビルスーツ“Ｚガンダム”が登場し、地球と宇宙を跨いだ戦乱の局面へ突入。カミーユとフォウの運命的な出会いを中心に、第三勢力も交えた壮絶な戦いが繰り広げられていく。\r\n　宇宙世紀0087年、カミーユが参加した反地球連邦組織エゥーゴと連邦軍のエリート組織ティターンズの内戦は相譲らず、激化の一途を辿っていた。そんな中、地球に残っていたカミーユは神秘的な女性フォウ・ムラサメと出会う。彼女に運命的なものを感じたカミーユ。しかし、実はフォウはティターンズの強化人間だったため、２人は哀しき宿命へいざなわれていく。やがて宇宙に戻ったカミーユは新型モビルスーツＺガンダムに搭乗し、混沌の戦場へ。また一方では、新たな勢力である旧ジオン軍の残党アクシズが台頭していた…。",
       "name": "機動戦士ZガンダムII -恋人たち-",
-      "name_cn": "机动战士Z高达II 恋人们",
+      "name_cn": "机动战士Z高达II A New Translation -恋人们-",
       "tags": [
         "2005",
         "2005年",
@@ -6821,6 +6856,7 @@
         "SUNRISE",
         "Zeta",
         "サンライズ",
+        "三枝成彰",
         "剧场版",
         "动画",
         "动画电影",
@@ -6842,14 +6878,13 @@
         "热血",
         "科幻",
         "萝卜",
-        "藤田一己",
         "补旧番",
         "高达"
       ],
       "infobox": [
         {
           "key": "中文名",
-          "value": "机动战士Z高达II 恋人们"
+          "value": "机动战士Z高达II A New Translation -恋人们-"
         },
         {
           "key": "别名",
@@ -6869,7 +6904,7 @@
         },
         {
           "key": "片长",
-          "value": "98分"
+          "value": "98分钟"
         },
         {
           "key": "官方网站",
@@ -6878,12 +6913,61 @@
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "机械设定",
+          "value": "大河原邦男、藤田一己"
+        },
+        {
+          "key": "作画监督",
+          "value": "重田敦司、中島利洋、中谷誠一、仲盛文、恩田尚之"
+        },
+        {
+          "key": "色彩设计",
+          "value": "すずきたかこ(数码色彩设计)"
+        },
+        {
+          "key": "原画",
+          "value": "重田敦司、中谷誠一、佐村義一、西村聡、阿部邦博、城前龍治、津野田勝敏、中矢雅樹、田頭真理恵、高山朋浩、土器手司、糸島雅彦、小松英司、松井章、桑名郁朗、安彦英二、桝田浩史、鈴木卓也、飯野利明、前田清明、玉城史郎、桜井司、尾崎正幸、矢上孝一、坂本修司、小木曽伸吾、関野昌弘、森下博光、吉田直美、高木晴美、夏目真悟、原田大基、高石和三、山田誠、後藤圭二"
+        },
+        {
+          "key": "背景美术",
+          "value": "久保田正宏、伊奈淳子、黒田聡、山川晃、吉田昇、伊奈涼子、福留嘉一、長田昌子、矢野きくよ、大森崇、西川洋一、甲斐政俊"
+        },
+        {
+          "key": "Harmony",
+          "value": "河野羚、甲斐政俊"
+        },
+        {
+          "key": "摄影",
+          "value": "ディー・アール・トウキョー(増本由紀大、雲藤隆太、奈良井昌幸)、須貝克俊"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "太田敏明"
+        },
+        {
+          "key": "製作",
+          "value": "サンライズ(吉井孝幸) 製作協力：バンダイビジュアル"
+        },
+        {
+          "key": "制片人",
+          "value": "松村圭一（サンライズ）、久保聡（バンダイビジュアル）"
+        },
+        {
+          "key": "发行",
+          "value": "松竹"
+        },
+        {
+          "key": "企画",
+          "value": "サンライズ(内田健二)"
         }
       ],
       "total_episodes": 1,
       "id": 18778,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6925,7 +7009,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/3e/5378_AhaCA.jpg"
           },
           "name": "機動戦士Zガンダム -星を継ぐ者-",
-          "name_cn": "机动战士Z高达 星之继承者",
+          "name_cn": "机动战士Z高达 A New Translation -星之继承者-",
           "relation": "前传",
           "type": 2,
           "id": 5378
@@ -6967,7 +7051,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/b2/18779_leD90.jpg"
           },
           "name": "機動戦士ZガンダムIII -星の鼓動は愛-",
-          "name_cn": "机动战士Z高达III 星辰的鼓动是爱",
+          "name_cn": "机动战士Z高达III A New Translation -星辰的鼓动是爱-",
           "relation": "续集",
           "type": 2,
           "id": 18779
@@ -7110,6 +7194,7 @@
       "id": 69365,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7219,6 +7304,7 @@
       "id": 48745,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7287,7 +7373,6 @@
       "tags": [
         "2005",
         "2005年",
-        "2005年10月",
         "2009",
         "BrainsBase",
         "Brain’sBase",
@@ -7313,6 +7398,7 @@
         "游戏改编",
         "科幻",
         "萝卜",
+        "补番",
         "西園悟",
         "超级机器人大战"
       ],
@@ -7394,6 +7480,7 @@
       "id": 3284,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7560,6 +7647,7 @@
       "id": 53046,
       "eps": 616,
       "volumes": 63,
+      "series": true,
       "locked": false,
       "nsfw": false,
       "type": 1,

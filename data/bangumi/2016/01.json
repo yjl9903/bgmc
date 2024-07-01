@@ -93,6 +93,7 @@
       "id": 160328,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -137,7 +138,7 @@
         "MADHouse",
         "TV",
         "いしづかあつこ",
-        "下野紘",
+        "乙女",
         "乙女向",
         "体育",
         "冈本信彦",
@@ -256,6 +257,7 @@
       "id": 145781,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -638,6 +640,7 @@
       "id": 94040,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -749,7 +752,6 @@
         "2016",
         "2016年",
         "2016年1月",
-        "2016年一月番",
         "KINEMACITRUS",
         "NORN9",
         "TV",
@@ -761,8 +763,8 @@
         "佐藤拓也",
         "吉野裕行",
         "命运九重奏",
-        "声优",
         "女性向",
+        "异能",
         "恋爱",
         "日本动画",
         "杉田智和",
@@ -772,6 +774,7 @@
         "游戏改",
         "濑户麻沙美",
         "科幻",
+        "遊佐浩二",
         "遊戲改",
         "阿保孝雄",
         "阿部敦",
@@ -831,6 +834,7 @@
       "id": 98638,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -956,8 +960,8 @@
         "搞笑",
         "斉藤壮馬",
         "日常",
-        "日本",
         "日本动画",
+        "春&夏推理事件簿",
         "春&夏推理事件簿～春太与千夏的青春～",
         "校园",
         "桥本昌和",
@@ -1075,6 +1079,7 @@
       "id": 136213,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1435,6 +1440,7 @@
       "id": 137722,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1751,6 +1757,7 @@
       "id": 148233,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1810,6 +1817,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 192240
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
+          },
+          "name": "スーパーロボット大戦DD",
+          "name_cn": "超级机器人大战DD",
+          "relation": "游戏",
+          "type": 4,
+          "id": 271927
         },
         {
           "images": {
@@ -2006,6 +2027,7 @@
       "id": 149993,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2191,10 +2213,10 @@
         "3D",
         "KOO-KI",
         "SEDIC",
+        "SEDICInternational、KOO-KI",
         "SEDIC_INTERNATIONAL",
         "TV",
         "中石贤悟",
-        "动画",
         "原创",
         "哔哩哔哩观看",
         "安藤康太郎",
@@ -2301,6 +2323,7 @@
       "id": 162792,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2330,7 +2353,7 @@
         "JUMP",
         "Lerche",
         "TV",
-        "ラルケ",
+        "上江洲誠",
         "上江洲诚",
         "催泪",
         "励志",
@@ -2405,6 +2428,7 @@
       "id": 131891,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2725,6 +2749,7 @@
       "id": 135816,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2826,14 +2851,13 @@
         "Creators_in_Pack",
         "Creators_in_Pack佐々木勅嘉",
         "CreatorsinPack",
+        "Pack",
         "TV",
         "マンガ原作",
         "佐々木勅嘉",
         "佐佐木勅嘉",
-        "喜剧",
         "喜多村英梨",
         "大叔与棉花糖",
-        "岡篤志",
         "恋爱",
         "搞笑",
         "日常",
@@ -2848,7 +2872,8 @@
         "稲田徹",
         "职场",
         "花泽香菜",
-        "花澤香菜"
+        "花澤香菜",
+        "音井れこ丸"
       ],
       "infobox": [
         {
@@ -2922,6 +2947,7 @@
       "id": 138210,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3084,6 +3110,7 @@
       "id": 139830,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3239,7 +3266,6 @@
         "2016年1月",
         "LIDENFILMS",
         "TV",
-        "アニメ",
         "ライデンフィルム",
         "原创",
         "古城門志帆",
@@ -3263,7 +3289,8 @@
         "石膏男孩",
         "福山润",
         "福山潤",
-        "立花慎之介"
+        "立花慎之介",
+        "黒田崇矢"
       ],
       "infobox": [
         {
@@ -3327,6 +3354,7 @@
       "id": 145457,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3452,17 +3480,14 @@
         "2016",
         "2016年",
         "2016年1月",
-        "2016年一月番",
+        "StudioDEEN",
         "TV",
-        "bilibili",
         "studiodeen",
         "中国动画",
         "中日合作",
         "从前有座灵剑山",
         "仙侠",
-        "修仙",
         "国产",
-        "国产动画",
         "国漫",
         "奇幻",
         "小说改",
@@ -3471,6 +3496,8 @@
         "日本动画",
         "日本改编中国作品",
         "李豪凌",
+        "漫改",
+        "漫画改",
         "灵剑山",
         "玄幻",
         "穿越",
@@ -3478,6 +3505,7 @@
         "网络小说改",
         "腾讯",
         "腾讯动漫",
+        "轻小说改",
         "鈴木行"
       ],
       "infobox": [
@@ -3589,6 +3617,7 @@
       "id": 146861,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3672,17 +3701,14 @@
         "2016",
         "2016年",
         "2016年1月",
-        "2016年一月番",
+        "StudioDEEN",
         "TV",
-        "bilibili",
         "studiodeen",
         "中国动画",
         "中日合作",
         "从前有座灵剑山",
         "仙侠",
-        "修仙",
         "国产",
-        "国产动画",
         "国漫",
         "奇幻",
         "小说改",
@@ -3691,6 +3717,8 @@
         "日本动画",
         "日本改编中国作品",
         "李豪凌",
+        "漫改",
+        "漫画改",
         "灵剑山",
         "玄幻",
         "穿越",
@@ -3698,6 +3726,7 @@
         "网络小说改",
         "腾讯",
         "腾讯动漫",
+        "轻小说改",
         "鈴木行"
       ],
       "infobox": [
@@ -3809,6 +3838,7 @@
       "id": 146861,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3895,7 +3925,6 @@
         "2016年一月番",
         "Feel.",
         "TV",
-        "TVA",
         "コトヤマ",
         "加茂靖子",
         "卖肉",
@@ -3911,6 +3940,7 @@
         "沼倉愛美",
         "漫改",
         "漫画改",
+        "科普",
         "竹达彩奈",
         "竹達彩奈",
         "粗点心",
@@ -3970,6 +4000,7 @@
       "id": 146994,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4039,7 +4070,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/d8/221490_4pO1s.jpg"
           },
           "name": "だがしかし2",
-          "name_cn": "粗点心战争2",
+          "name_cn": "粗点心战争 第二季",
           "relation": "续集",
           "type": 2,
           "id": 221490
@@ -4106,6 +4137,7 @@
         "川口敬一郎",
         "搞笑",
         "日常",
+        "日本动画",
         "校园",
         "櫻井孝宏",
         "污",
@@ -4115,7 +4147,6 @@
         "漫画改",
         "漫画改编",
         "短片",
-        "科普",
         "糟糕",
         "能登麻美子",
         "节操",
@@ -4245,6 +4276,7 @@
       "id": 153140,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4338,7 +4370,6 @@
         "名和宗则",
         "名和宗則",
         "士郎正宗",
-        "奇幻",
         "战斗",
         "搞笑",
         "日常",
@@ -4349,6 +4380,7 @@
         "漫画改",
         "田中敦子",
         "百合",
+        "福沙奈恵",
         "科幻",
         "红壳的潘多拉",
         "萌",
@@ -4476,6 +4508,7 @@
       "id": 159269,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4748,6 +4781,7 @@
       "id": 114968,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4961,7 +4995,6 @@
         "TV",
         "TVA",
         "studiodeen",
-        "スタジオディーン",
         "关智一",
         "剧情",
         "历史",
@@ -4971,6 +5004,7 @@
         "文化",
         "日本动画",
         "昭和元禄落語心中",
+        "林原めぐみ",
         "林原惠",
         "林原惠美",
         "治愈",
@@ -5083,6 +5117,7 @@
       "id": 119394,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5316,6 +5351,7 @@
       "id": 146104,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5505,6 +5541,7 @@
         "TV",
         "TVA",
         "东山奈央",
+        "京极尚彦",
         "京極尚彦",
         "分割放松",
         "后宫",
@@ -5522,8 +5559,7 @@
         "自衛隊",
         "诹访部顺一",
         "轻小说改",
-        "轻改",
-        "金元寿子"
+        "轻改"
       ],
       "infobox": [
         {
@@ -5587,6 +5623,7 @@
       "id": 147036,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5832,6 +5869,7 @@
       "id": 153214,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6114,6 +6152,7 @@
       "id": 155281,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6234,8 +6273,9 @@
       },
       "summary": "21世纪最大的发现与发明——次元间电磁诱导装置，通称[线圈]。通过线圈，人类获得了无穷无尽的能量。通过不断朝小型进化的线圈自由地获得电力已经成为可能，这个发明正推动着整个世界，开启了崭新的时代。描绘出科学与人类应该前往的未来“progressivesF”始动！\r\n有利必有弊，犯罪者们获得能量武器也更加容易，因此产生了处理此类问题的回收者。\r\n这是一个回收者的故事。",
       "name": "Dimension W",
-      "name_cn": "Dimension W -第四次元-",
+      "name_cn": "维度战记",
       "tags": [
+        "16冬",
         "2016",
         "2016冬",
         "2016年",
@@ -6258,7 +6298,6 @@
         "机器人",
         "梅津泰臣",
         "椎名豪",
-        "檜垣亮",
         "漫改",
         "漫画改",
         "石田彰",
@@ -6270,22 +6309,25 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "Dimension W -第四次元-"
+          "value": "维度战记"
         },
         {
           "key": "别名",
           "value": [
             {
+              "v": "Dimension W 第四次元"
+            },
+            {
               "v": "Dimension W 维度战记"
             },
             {
-              "v": "Dimension W ～維度戰記～"
+              "v": "Dimension W 維度戰記"
+            },
+            {
+              "v": "ディメンション W"
             },
             {
               "v": "ディメンション ダブリュー"
-            },
-            {
-              "v": "ディメンションW"
             }
           ]
         },
@@ -6402,6 +6444,7 @@
       "id": 139221,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6500,8 +6543,10 @@
         "2016年1月",
         "2016年一月番",
         "PRODUCTION.REED",
-        "PRODUCTIONREED",
+        "ProductionReed",
         "TV",
+        "プロダクション_リード",
+        "内山夕実",
         "内山昂輝",
         "大久保富彦",
         "少女",
@@ -6509,6 +6554,7 @@
         "岛崎信长",
         "島﨑信長",
         "恋爱",
+        "日常",
         "日本动画",
         "松冈祯丞",
         "松岡禎丞",
@@ -6516,14 +6562,11 @@
         "水野美波",
         "江口拓也",
         "泡脚番",
-        "泡面",
         "泡面番",
         "津田美波",
         "漫改",
         "漫画改",
-        "石上静香",
-        "苇Production",
-        "虹色Days",
+        "苇PRODUCTION",
         "虹色时光",
         "青春"
       ],
@@ -6612,6 +6655,7 @@
       "id": 142990,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6790,7 +6834,6 @@
       "name": "大家さんは思春期！",
       "name_cn": "房东妹子青春期",
       "tags": [
-        "1月",
         "2016",
         "2016年",
         "2016年1月",
@@ -6800,6 +6843,7 @@
         "久保ユリカ",
         "小川优树",
         "小川優樹",
+        "恋爱",
         "憋气番",
         "房东妹子青春期",
         "搞笑",
@@ -6938,6 +6982,7 @@
       "id": 146611,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7142,6 +7187,7 @@
       "id": 148726,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7162,11 +7208,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fd/11/166397_8j28k.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fd/11/166397_8j28k.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fd/11/166397_8j28k.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fd/11/166397_8j28k.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fd/11/166397_8j28k.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fd/11/166397_0NA0G.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fd/11/166397_0NA0G.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fd/11/166397_0NA0G.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fd/11/166397_0NA0G.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fd/11/166397_0NA0G.jpg"
           },
           "name": "灰と幻想のグリムガル",
           "name_cn": "灰与幻想的格林姆迦尔",
@@ -7399,6 +7445,7 @@
       "id": 149412,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7504,11 +7551,10 @@
         "后宫",
         "奇幻",
         "安藤正臣",
-        "小泽亚李",
         "小说改",
+        "异世界",
         "恋爱",
         "战斗",
-        "日本动画",
         "春日歩",
         "最弱无败神装机龙",
         "机战",
@@ -7518,6 +7564,7 @@
         "田村睦心",
         "种田梨沙",
         "種田梨沙",
+        "肉番",
         "萝卜",
         "装逼",
         "轻小说改",
@@ -7603,6 +7650,7 @@
       "id": 133387,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7620,6 +7668,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 91765
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/bd/108441_ls556.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/bd/108441_ls556.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/83/bd/108441_ls556.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/bd/108441_ls556.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/bd/108441_ls556.jpg"
+          },
+          "name": "閃乱カグラ NewWave",
+          "name_cn": "闪乱神乐 NewWave",
+          "relation": "游戏",
+          "type": 4,
+          "id": 108441
         },
         {
           "images": {
@@ -7770,7 +7832,6 @@
         "2016",
         "2016年",
         "2016年1月",
-        "2016年一月番",
         "LIDENFILMS",
         "MUV-LUV",
         "Muv-Luv外传",
@@ -7778,6 +7839,7 @@
         "ixtl",
         "ixtl、LIDENFILMS",
         "东德",
+        "动画",
         "南条爱乃",
         "吉田博彦",
         "小说改",
@@ -7876,6 +7938,7 @@
       "id": 134390,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8094,7 +8157,7 @@
       },
       "summary": "あきづき空太原作によるTVアニメ「赤髪の白雪姫」の第2クールが、2016年1月より放送されることが決定した。",
       "name": "赤髪の白雪姫 第2クール",
-      "name_cn": "赤发白雪姬 第二季",
+      "name_cn": "赤发白雪姬 第2部分",
       "tags": [
         "2016",
         "2016年",
@@ -8114,13 +8177,13 @@
         "少女向",
         "少女漫",
         "恋爱",
+        "日常",
         "早見沙織",
         "早见沙织",
         "治愈",
         "漫改",
         "漫画改",
         "石田彰",
-        "福山润",
         "续作",
         "虐狗",
         "赤发白雪姬",
@@ -8130,16 +8193,13 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "赤发白雪姬 第二季"
+          "value": "赤发白雪姬 第2部分"
         },
         {
           "key": "别名",
           "value": [
             {
-              "v": "红发的白雪公主 第二季"
-            },
-            {
-              "v": "红发的白雪公主 后半"
+              "v": "红发的白雪公主 第2部分"
             }
           ]
         },
@@ -8178,12 +8238,37 @@
         {
           "key": "原作",
           "value": "あきづき空太（白泉社刊・月刊LaLa連載）"
+        },
+        {
+          "key": "企画",
+          "value": "川村明廣、前田哲也、南雅彦、村田嘉邦、武智恒雄、濱田直樹、立本洋之"
+        },
+        {
+          "key": "主动画师",
+          "value": "藤田しげる、小森高博、斎藤恒徳"
+        },
+        {
+          "key": "制片人",
+          "value": "松田章男、種岡智子、永野優希、大貫一雄、福田順、小岐須泰世、細田成樹、伊藤幸弘"
+        },
+        {
+          "key": "道具设计",
+          "value": "ヒラタリョウ、森川さやか"
+        },
+        {
+          "key": "助理制片人",
+          "value": "林良樹、山崎史紀、京谷知美"
+        },
+        {
+          "key": "製作",
+          "value": "「赤髪の白雪姫」製作委員会：ワーナー・ブラザース・ホームエンターテイメント（现:ワーナー ブラザース ジャパン）、白泉社、BONES、ショウゲート/ 博報堂DYミュージック&amp;ピクチャーズ、クロックワークス、博報堂DYメディアパートナーズ、ドコモ・アニメストア、BSフジ"
         }
       ],
       "total_episodes": 12,
       "id": 145407,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8351,7 +8436,6 @@
         "2016",
         "2016年",
         "2016年1月",
-        "2016年1月番",
         "2016年一月番",
         "ILCA",
         "TV",
@@ -8362,7 +8446,8 @@
         "岸野聡子",
         "岸野聪子",
         "恐怖",
-        "恐怖暗",
+        "恐怖猎奇",
+        "悬疑",
         "惊悚",
         "日本",
         "日本动画",
@@ -8370,14 +8455,14 @@
         "村井良大",
         "泡面",
         "泡面番",
-        "泡面，恐怖",
         "熊本浩武",
         "猎奇",
         "石川智久",
         "续作",
         "谷口崇",
-        "闇芝居",
-        "高岛友也"
+        "谷口崇&石川智久",
+        "这几年的老番",
+        "闇芝居"
       ],
       "infobox": [
         {
@@ -8437,6 +8522,7 @@
       "id": 152567,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8610,6 +8696,7 @@
       "id": 117601,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8822,7 +8909,7 @@
         "PINEJAM",
         "PINE_JAM",
         "TV",
-        "マンガ原作",
+        "ふでやすかずゆき",
         "双見酔",
         "奇幻",
         "搞笑",
@@ -8836,12 +8923,12 @@
         "漫画改",
         "田中美海",
         "百合",
+        "笔安一幸",
         "米田和博",
         "米田和弘",
         "若井友希",
         "萌",
         "藤田茜",
-        "西明日香",
         "轻百合",
         "魔法",
         "魔法少女",
@@ -8891,12 +8978,21 @@
         {
           "key": "动画制作",
           "value": "PINE JAM"
+        },
+        {
+          "key": "导演",
+          "value": "米田和弘"
+        },
+        {
+          "key": "人物设定",
+          "value": "嶋田和晃"
         }
       ],
       "total_episodes": 12,
       "id": 148241,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8967,12 +9063,14 @@
         "2016年",
         "2016年1月",
         "MAPPA",
+        "Piyo",
         "TV",
         "millepensee",
         "ミルパンセ",
         "三森すずこ",
         "动画",
         "吐槽",
+        "喜剧",
         "搞笑",
         "日常",
         "日本",
@@ -8983,16 +9081,14 @@
         "渡部優衣",
         "漫改",
         "漫画改",
+        "电波",
         "百合",
         "石原夏织",
-        "社团",
         "神语速",
         "网球少女",
-        "网球并不可笑嘛",
         "花泽香菜",
         "花澤香菜",
-        "轻百合",
-        "鳴海杏子"
+        "轻百合"
       ],
       "infobox": [
         {
@@ -9043,6 +9139,7 @@
       "id": 159365,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9169,17 +9266,18 @@
         "2016年",
         "2016年1月",
         "2016年一月番",
+        "AssezFinaudFabric.",
         "Feel.",
         "TV",
         "ZEXCS",
         "中原麻衣",
         "中村悠一",
-        "六星",
         "堀江由衣",
         "大山佳久",
         "小林ゆう",
         "山下憲一",
         "悠木碧",
+        "拟人",
         "搞笑",
         "日本",
         "日本动画",
@@ -9192,7 +9290,6 @@
         "石田彰",
         "福山润",
         "福山潤",
-        "第四季",
         "萌",
         "血型君"
       ],
@@ -9246,6 +9343,7 @@
       "id": 159892,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9316,9 +9414,9 @@
         "2016年",
         "2016年1月",
         "STUDIO_DEEN",
-        "StudioDEEN",
         "TV",
         "studiodeen",
+        "上江洲诚",
         "为美好的世界献上祝福",
         "为美好的世界献上祝福！",
         "冒险",
@@ -9475,6 +9573,7 @@
       "id": 135275,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9712,7 +9811,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/70/107681_RhxEr.jpg"
           },
           "name": "この素晴らしい世界に祝福を！",
-          "name_cn": "祝福这个美好的世界！",
+          "name_cn": "为美好的世界献上祝福！",
           "relation": "书籍",
           "type": 1,
           "id": 107681
@@ -9904,6 +10003,7 @@
       "id": 146093,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10191,6 +10291,7 @@
       "id": 160210,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10219,6 +10320,7 @@
         "2016年",
         "2016年1月",
         "2016年一月番",
+        "FanWorks",
         "TV",
         "泡面番"
       ],
@@ -10272,6 +10374,7 @@
       "id": 162799,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10403,6 +10506,7 @@
       "id": 160674,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10542,6 +10646,7 @@
       "id": 7707,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10674,11 +10779,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/d6/454045_aGzj8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/d6/454045_aGzj8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ea/d6/454045_aGzj8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/d6/454045_aGzj8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/d6/454045_aGzj8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/d6/454045_ici23.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/d6/454045_ici23.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/d6/454045_ici23.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/d6/454045_ici23.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/d6/454045_ici23.jpg"
           },
           "name": "傷物語-こよみヴァンプ-",
           "name_cn": "伤物语-历吸血鬼-",
@@ -10704,12 +10809,13 @@
       },
       "summary": "成功华丽出道了的Over The Rainbow。\r\n以他们为目标，接连有新生入学了Edel Rose。\r\n以4年一度的「Prism King Cup」为目标，不断地练习技艺的广他们的面前，突然出现了名为「Schwarz Rose」的对立势力…\r\n能够获得\"最能够让女孩子心动的男性\"的名号——Prism King的，是谁！？",
       "name": "KING OF PRISM by PrettyRhythm",
-      "name_cn": "棱镜少男 KING OF PRISM by PrettyRhythm",
+      "name_cn": "绫镜少男 KING OF PRISM by PrettyRhythm",
       "tags": [
         "2016",
         "2016年",
         "2016年1月",
         "2016年一月番",
+        "36-100",
         "KINGOFPRISMbyPrettyRhythm",
         "KING_OF_PRISM",
         "KOP",
@@ -10719,7 +10825,6 @@
         "一周目结束",
         "偶像",
         "剧场版",
-        "劇場",
         "劇場版",
         "动画",
         "原创",
@@ -10740,13 +10845,13 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "棱镜少男 KING OF PRISM by PrettyRhythm"
+          "value": "绫镜少男 KING OF PRISM by PrettyRhythm"
         },
         {
           "key": "别名",
           "value": [
             {
-              "v": "绫镜少男 KING OF PRISM by PrettyRhythm"
+              "v": "棱镜少男 KING OF PRISM by PrettyRhythm"
             },
             {
               "v": "星光少男 彩虹舞台"
@@ -10833,6 +10938,7 @@
       "id": 148226,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10916,7 +11022,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/81/192559_0BG6p.jpg"
           },
           "name": "KING OF PRISM -PRIDE the HERO-",
-          "name_cn": "棱镜少男 KING OF PRISM PRIDE the HERO",
+          "name_cn": "绫镜少男 KING OF PRISM PRIDE the HERO",
           "relation": "续集",
           "type": 2,
           "id": 192559
@@ -11021,14 +11127,14 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/1d/292764_4qO6h.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/1d/292764_4qO6h.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/38/1d/292764_4qO6h.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/1d/292764_4qO6h.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/1d/292764_4qO6h.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/1d/292764_55MiD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/1d/292764_55MiD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/1d/292764_55MiD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/1d/292764_55MiD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/1d/292764_55MiD.jpg"
           },
           "name": "KING OF PRISM ALL STARS -プリズムショー☆ベストテン-",
-          "name_cn": "",
+          "name_cn": "绫镜少男 星光時尚秀 BEST10",
           "relation": "其他",
           "type": 2,
           "id": 292764
@@ -11137,6 +11243,7 @@
       "id": 124532,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11366,6 +11473,7 @@
       "id": 139046,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11479,16 +11587,16 @@
         "日本动画",
         "早見沙織",
         "早见沙织",
+        "治愈",
         "清水恵",
         "漫改",
         "漫画改",
-        "纯爱",
-        "续作",
-        "若林和弘",
+        "番外",
         "虐狗",
         "赤发白雪姬",
         "逢坂良太",
         "难波日登志",
+        "骨头社",
         "高桥久美子"
       ],
       "infobox": [
@@ -11503,12 +11611,45 @@
         {
           "key": "发售日",
           "value": "2016年1月5日"
+        },
+        {
+          "key": "原作",
+          "value": "あきづき空太"
+        },
+        {
+          "key": "导演",
+          "value": "安藤真裕"
+        },
+        {
+          "key": "脚本",
+          "value": "清水恵"
+        },
+        {
+          "key": "人物设定",
+          "value": "高橋久美子"
+        },
+        {
+          "key": "企画",
+          "value": "川村明廣、菅原弘文、南雅彦、村田嘉邦、武智恒雄、濱田直樹、立本洋之"
+        },
+        {
+          "key": "製作",
+          "value": "「赤髪の白雪姫」製作委員会：ワーナー・ブラザース・ホームエンターテイメント（现:ワーナー ブラザース ジャパン）、白泉社、BONES、ショウゲート/ 博報堂DYミュージック&amp;ピクチャーズ、クロックワークス、博報堂DYメディアパートナーズ、ドコモ・アニメストア、BSフジ"
+        },
+        {
+          "key": "助理制片人",
+          "value": "林良樹、山崎史紀、京谷知美、細田成樹"
+        },
+        {
+          "key": "制片人",
+          "value": "松田章男、種岡智子、永野優希、大貫一雄、福田順、小岐須泰世、西園信也、伊藤幸弘"
         }
       ],
       "total_episodes": 1,
       "id": 144620,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11599,6 +11740,7 @@
       "id": 148100,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11664,7 +11806,6 @@
         "乳皇之刃",
         "乳首",
         "二〇一六年",
-        "光碟动画",
         "卖肉",
         "吉本欣司",
         "夕澄慶英",
@@ -11676,6 +11817,7 @@
         "日本",
         "游戏改",
         "爆衣",
+        "番外",
         "百合",
         "福利",
         "糟糕",
@@ -11716,6 +11858,7 @@
       "id": 134951,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -11774,12 +11917,12 @@
         "WEB",
         "不评分",
         "催泪",
+        "剧集",
         "动画",
         "国产",
         "国产TV动画",
         "国产动画",
         "国创",
-        "国动",
         "国漫",
         "奇幻",
         "恋爱",
@@ -11861,6 +12004,7 @@
       "id": 281271,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -12032,6 +12176,20 @@
           "relation": "不同演绎",
           "type": 6,
           "id": 469935
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/85/487392_Vwpv5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/85/487392_Vwpv5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a2/85/487392_Vwpv5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/85/487392_Vwpv5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/85/487392_Vwpv5.jpg"
+          },
+          "name": "狐妖小红娘 王权篇",
+          "name_cn": "狐妖小红娘·王权篇",
+          "relation": "三次元",
+          "type": 6,
+          "id": 487392
         }
       ]
     }
@@ -12107,6 +12265,7 @@
       "id": 241477,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

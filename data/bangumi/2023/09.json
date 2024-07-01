@@ -219,6 +219,7 @@
       "id": 400602,
       "eps": 28,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -337,6 +338,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/49/501356_Pe8HJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/49/501356_Pe8HJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9d/49/501356_Pe8HJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/49/501356_Pe8HJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/49/501356_Pe8HJ.jpg"
+          },
+          "name": "TVアニメ『葬送のフリーレン』公式ガイドブック ~王都からオイサーストまでの旅路~",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 501356
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/92/457254_6E9f9.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/92/457254_6E9f9.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/fe/92/457254_6E9f9.jpg",
@@ -391,6 +406,7 @@
         "SHAFT",
         "TV",
         "TVSP",
+        "五等分の花嫁",
         "五等分的新娘",
         "党争",
         "剧场版",
@@ -399,11 +415,10 @@
         "宫本幸裕",
         "宮本幸裕",
         "恋爱",
-        "恋爱喜剧",
         "搞笑",
         "日常",
         "日本",
-        "日漫",
+        "日本动画",
         "未确定",
         "松冈祯丞",
         "校园",
@@ -411,7 +426,7 @@
         "漫改",
         "漫画改",
         "续作",
-        "长田宽人",
+        "萌",
         "青春"
       ],
       "infobox": [
@@ -530,6 +545,7 @@
       "id": 427233,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -603,6 +619,34 @@
           "relation": "原声集",
           "type": 3,
           "id": 442595
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/25/489784_1YZd2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/25/489784_1YZd2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4a/25/489784_1YZd2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/25/489784_1YZd2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/25/489784_1YZd2.jpg"
+          },
+          "name": "TVアニメ「五等分の花嫁」5th Anniversary Best Album",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 489784
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/70/489786_v9bCc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/70/489786_v9bCc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/70/489786_v9bCc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/70/489786_v9bCc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/70/489786_v9bCc.jpg"
+          },
+          "name": "君だったから",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 489786
         }
       ]
     }
@@ -632,28 +676,28 @@
         "20s",
         "Disney+",
         "OVA",
+        "SF",
         "Studio4℃",
         "TV",
         "TVA",
         "WEB",
         "二等",
-        "令和",
+        "人性",
         "剧集",
+        "动画",
         "奇幻",
-        "宮沢りえ",
         "手冢治虫",
+        "日本",
         "日本动画",
         "期待一波",
         "漫改",
         "漫画改",
         "火之鸟",
-        "看完就删",
+        "火鸟",
         "科幻",
         "窪塚洋介",
-        "西田达三",
         "西見祥示郎",
-        "西见祥示郎",
-        "长剧集"
+        "西见祥示郎"
       ],
       "infobox": [
         {
@@ -686,6 +730,10 @@
           "value": "2023年9月13日"
         },
         {
+          "key": "播放结束",
+          "value": "2023年9年13日"
+        },
+        {
           "key": "在线播放平台",
           "value": "Disney+"
         },
@@ -698,12 +746,48 @@
           "value": "西見祥示郎"
         },
         {
+          "key": "脚本",
+          "value": "真野勝成、木ノ花咲"
+        },
+        {
+          "key": "演出",
+          "value": "斉藤亜規子"
+        },
+        {
+          "key": "音乐",
+          "value": "村松崇継"
+        },
+        {
           "key": "人物设定",
           "value": "西田達三"
         },
         {
-          "key": "脚本",
-          "value": "真野勝成、木ノ花咲"
+          "key": "美术监督",
+          "value": "木村真二"
+        },
+        {
+          "key": "色彩设计",
+          "value": "江上柚布子"
+        },
+        {
+          "key": "总作画监督",
+          "value": "西田達三"
+        },
+        {
+          "key": "作画监督",
+          "value": "秦綾子、古屋勝悟、笠原由博、嶋田真恵"
+        },
+        {
+          "key": "机械设定",
+          "value": "久保まさひこ"
+        },
+        {
+          "key": "道具设计",
+          "value": "久保まさひこ"
+        },
+        {
+          "key": "剪辑",
+          "value": "重村建吾"
         },
         {
           "key": "音乐制作人",
@@ -711,11 +795,19 @@
         },
         {
           "key": "製作",
-          "value": "ビヨンド･カルタ"
+          "value": "Beyond C.(ビヨンド･カルタ)"
         },
         {
           "key": "执行制片人",
           "value": "田中栄子"
+        },
+        {
+          "key": "动画制作",
+          "value": "STUDIO 4℃"
+        },
+        {
+          "key": "CG 导演",
+          "value": "斉藤亜規子"
         },
         {
           "key": "动画制片人",
@@ -738,6 +830,7 @@
       "id": 409350,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -909,6 +1002,7 @@
         "欧美",
         "法国",
         "游戏改",
+        "番剧",
         "神秘学",
         "网飞",
         "美国",
@@ -952,6 +1046,7 @@
       "id": 386947,
       "eps": 8,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -986,11 +1081,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/e3/208708_AfXqg.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/e3/208708_AfXqg.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/26/e3/208708_AfXqg.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/e3/208708_AfXqg.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/e3/208708_AfXqg.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/e3/208708_NNzNp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/e3/208708_NNzNp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/26/e3/208708_NNzNp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/e3/208708_NNzNp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/e3/208708_NNzNp.jpg"
           },
           "name": "Castlevania Season 1",
           "name_cn": "恶魔城 第一季",
@@ -1046,8 +1141,9 @@
         "可以预测的命运之舞台",
         "女同性恋",
         "对的题材遇上不对的制作",
-        "拖就硬拖",
+        "无法预测的命运之舞台",
         "日常",
+        "村田雅彦",
         "榎木淳弥",
         "正常",
         "消防",
@@ -1059,7 +1155,6 @@
         "纪实",
         "职场",
         "藤田伸三",
-        "轻蔷薇",
         "长剧集",
         "鸡肋"
       ],
@@ -1170,6 +1265,7 @@
       "id": 411106,
       "eps": 23,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1278,6 +1374,7 @@
       "name": "チキップダンサーズ 3期",
       "name_cn": "小鸡舞者 第三季",
       "tags": [
+        "FanWorks",
         "泡面番"
       ],
       "infobox": [
@@ -1369,6 +1466,7 @@
       "id": 451858,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1407,23 +1505,24 @@
       "name": "お嬢と番犬くん",
       "name_cn": "大小姐和看门犬",
       "tags": [
+        "2020-2029",
         "2023",
-        "2023年",
         "2023年10月",
+        "2023年秋",
         "2023秋",
-        "24补标",
-        "P9领衔",
         "TV",
         "p9",
         "projectNo.9",
         "一坨答辯",
+        "乐，什么三皇阵容。",
         "乙女向",
-        "冒充动画",
+        "可独立观赏",
         "哈哈哈哈哈哈哈哈哈",
         "大小姐和看门犬",
         "女性向",
         "少女漫",
         "恋爱",
+        "搞笑",
         "日常",
         "日本动画",
         "校园",
@@ -1432,7 +1531,6 @@
         "漫改",
         "漫画改",
         "皐月彩",
-        "老公司",
         "高本宣弘",
         "鬼头明里",
         "鬼頭明里",
@@ -1541,6 +1639,7 @@
       "id": 403631,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1635,6 +1734,7 @@
         "奇幻",
         "小林千晃",
         "异世界",
+        "恋爱",
         "战斗",
         "日本",
         "日本动画",
@@ -1647,7 +1747,6 @@
         "热血",
         "狩龙人拉格纳",
         "穿越",
-        "第一季",
         "高桥贤",
         "高橋賢",
         "龙傲天"
@@ -1798,6 +1897,7 @@
       "id": 374648,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1832,11 +1932,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/b5/457546_Z7Mi5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/b5/457546_Z7Mi5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/b5/457546_Z7Mi5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/b5/457546_Z7Mi5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/b5/457546_Z7Mi5.jpg"
           },
           "name": "ラグナクリムゾン オリジナルサウンドトラック Vol.2",
           "name_cn": "",
@@ -1924,7 +2024,7 @@
         "2023年",
         "2023年10月",
         "2023年7月",
-        "2023年秋",
+        "2023秋",
         "23.12.18",
         "FelixFilm",
         "Link:Universe",
@@ -1936,7 +2036,6 @@
         "中智仁",
         "内田雄馬",
         "动画",
-        "可以预测的命运之舞台",
         "头文字D",
         "头文字D精神续作",
         "女人只会影响我漂移的速度",
@@ -1947,6 +2046,7 @@
         "未发售(TV)",
         "漫改",
         "漫画改",
+        "看完就删",
         "竞技",
         "赛车",
         "运动"
@@ -2092,6 +2192,7 @@
       "id": 364252,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2210,9 +2311,9 @@
         "亲情",
         "养女儿",
         "冒险",
+        "动画",
         "厕纸",
         "台风Graphics",
-        "因想当冒险者而前往大都市的女儿已经升到了S级",
         "奇幻",
         "小说改",
         "异世界",
@@ -2394,6 +2495,7 @@
       "id": 406736,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2480,7 +2582,7 @@
         "2023年",
         "2023年10月",
         "2023年9月",
-        "2024年1月",
+        "2024",
         "MAPPA",
         "アニメ映画",
         "东地和生",
@@ -2499,8 +2601,8 @@
         "日常",
         "日本",
         "未开播",
+        "東地和生",
         "校园",
-        "榎木淳弥",
         "横山克",
         "电影",
         "石井百合子"
@@ -2629,6 +2731,7 @@
       "id": 340167,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2697,9 +2800,9 @@
       "tags": [
         "2020s",
         "2023",
+        "2023年",
         "2023年9月",
         "2023年夏",
-        "23夏",
         "【映画館】",
         "プリキュア",
         "プリキュア剧场版",
@@ -2712,11 +2815,11 @@
         "变身bank",
         "奇幻",
         "子供向",
+        "幼女向",
         "待上映",
         "我难道说，是史上最弱的大友吗？",
         "战斗",
         "日本",
-        "日本剧场版动画已看合集",
         "東映アニメーション",
         "板岡錦",
         "深澤恵梨香",
@@ -2822,6 +2925,7 @@
       "id": 422699,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2842,11 +2946,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/8e/409323_8axt1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/8e/409323_8axt1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/38/8e/409323_8axt1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/8e/409323_8axt1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/8e/409323_8axt1.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/8e/409323_aexjw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/8e/409323_aexjw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/8e/409323_aexjw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/8e/409323_aexjw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/8e/409323_aexjw.jpg"
           },
           "name": "ひろがるスカイ！プリキュア",
           "name_cn": "开阔天空！光之美少女",
@@ -2932,6 +3036,7 @@
       "tags": [
         "2023",
         "2023年",
+        "2023年10月",
         "2分",
         "FLCL",
         "MontBlancPictures",
@@ -3023,6 +3128,7 @@
       "id": 375217,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3075,27 +3181,27 @@
       "name": "ケンガンアシュラ Season2",
       "name_cn": "拳愿阿修罗 Season2",
       "tags": [
+        "2020-2029",
         "2020s",
         "2023",
         "2023年10月",
         "2023年7月",
+        "2023年9月",
         "2023年Web·SP",
-        "2023年夏",
         "LARXENTERTAINMENT",
         "Netflix",
         "ONA",
         "TV",
         "WEB",
-        "一口气看完",
         "上江洲诚",
-        "令和",
-        "动画（WEBCM）",
         "原创",
         "可独立观赏",
         "季番組",
         "岸誠二",
         "岸诚二",
+        "战力学",
         "战斗",
+        "拳愿阿修罗",
         "日本",
         "日本动画",
         "未确定",
@@ -3195,6 +3301,7 @@
       "id": 375512,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3273,295 +3380,6 @@
     }
   },
   {
-    "title": "仮面ライダーガッチャード",
-    "date": "2023-09-03",
-    "bangumi": {
-      "date": "2023-09-03",
-      "platform": "日剧",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/25/443506_Od07W.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/25/443506_Od07W.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/fc/25/443506_Od07W.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/25/443506_Od07W.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/25/443506_Od07W.jpg"
-      },
-      "summary": "炼金术是指通过不同物质的组合来产生「金」的技术。其中一项神秘研究还包括尝试人工培育生物。在「假面骑士歌查德」中，其舞台是那些实验在不为人知的情况下成功的现代。\r\n故事的关键，是集合了炼金术的最高技术被制造了的「人工生命体(怪物)克米」。克米是模仿蚱蜢、SL(蒸汽机车)等世上存在的万物而制造的生命体。数量为101只，保管在名为Ridkemecard的卡片中。然而，严密保管着的克米突然跳出卡片，被解封。主人公是偶然卷入该事件的高中生·一之濑宝太郎。宝太郎被托付变身腰带，被赋予回收逃出的克米的使命。\r\n宝太郎通过将2张骑士卡装进歌查德驱动器，与克米融合变身成假面骑士歌查德。克米只要与善良的心相呼应，就会成为人类的伙伴，是令人鼓舞的存在。另一方面，克米与人类的恶意结合的话，也有产生怪人·马尔甘的危险，具有善与恶表里一体的性质。\r\n故事中有101张卡的奇妙组合，使歌查德变身成各种各样的样子，宝太郎的口头禅是“咔嚓!”。这是英语的俚语，意思是“干了”或“抓住了”，宝太郎为了把101个克米全部“抓起来”而四处奔走。",
-      "name": "仮面ライダーガッチャード",
-      "name_cn": "假面骑士歌查德",
-      "tags": [
-        "2020s",
-        "2023",
-        "2023年",
-        "2023年9月",
-        "TV",
-        "marvel",
-        "东映",
-        "令和",
-        "仮面ライダー",
-        "假面骑士",
-        "假面骑士(令和)",
-        "卡片",
-        "卡牌",
-        "战斗",
-        "東映",
-        "炼金术",
-        "特摄",
-        "特撮",
-        "田﨑竜太",
-        "石ノ森章太郎",
-        "融合召唤",
-        "说实话灾难的演技我真的刻意去忽视了，但是你说得对但是ギーツケ",
-        "长谷川圭一"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "假面骑士歌查德"
-        },
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "假面骑士Gotchard"
-            }
-          ]
-        },
-        {
-          "key": "开始",
-          "value": "2023年9月3日"
-        },
-        {
-          "key": "类型",
-          "value": "特摄"
-        },
-        {
-          "key": "国家/地区",
-          "value": "日本"
-        },
-        {
-          "key": "语言",
-          "value": "日语"
-        },
-        {
-          "key": "每集长",
-          "value": "24分钟"
-        },
-        {
-          "key": "电视台",
-          "value": "テレビ朝日"
-        },
-        {
-          "key": "首播国家",
-          "value": "日本"
-        },
-        {
-          "key": "官方网站",
-          "value": "https://www.kamen-rider-official.com/gotchard/"
-        },
-        {
-          "key": "编剧",
-          "value": "長谷川圭一 、内田裕基"
-        },
-        {
-          "key": "导演",
-          "value": "田﨑竜太"
-        },
-        {
-          "key": "动作导演",
-          "value": "福沢博文"
-        },
-        {
-          "key": "特摄导演",
-          "value": "佛田洋"
-        },
-        {
-          "key": "制片人/制作人",
-          "value": "大川武宏、芝高啓介、凑阳祐"
-        },
-        {
-          "key": "制作",
-          "value": "テレビ朝日、東映、アサツー ディ・ケイ"
-        },
-        {
-          "key": "主演",
-          "value": "本島純政"
-        },
-        {
-          "key": "配角",
-          "value": "松本麗世、藤林泰也、安倍乙、富園力也、熊木陸斗、沖田絃乃、宮原華音、坂巻有紗、加部亜門、南野陽子、石丸幹二"
-        },
-        {
-          "key": "官方网站（朝日）",
-          "value": "https://www.tv-asahi.co.jp/gotchard/"
-        }
-      ],
-      "total_episodes": 47,
-      "id": 443506,
-      "eps": 0,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 6,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/36/392724_s63Kf.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/36/392724_s63Kf.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/11/36/392724_s63Kf.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/36/392724_s63Kf.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/36/392724_s63Kf.jpg"
-          },
-          "name": "仮面ライダーギーツ",
-          "name_cn": "假面骑士极狐",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 392724
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/90/449802_3Bbm5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/90/449802_3Bbm5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/94/90/449802_3Bbm5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/90/449802_3Bbm5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/90/449802_3Bbm5.jpg"
-          },
-          "name": "仮面ライダーギーツ 4人のエースと黒狐",
-          "name_cn": "假面骑士极狐：4位王者与黑狐",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 449802
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/b9/453820_3woOB.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/b9/453820_3woOB.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ef/b9/453820_3woOB.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/b9/453820_3woOB.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/b9/453820_3woOB.jpg"
-          },
-          "name": "仮面ライダーガッチャード 変身講座",
-          "name_cn": "假面骑士歌查德 变身讲座",
-          "relation": "其他",
-          "type": 6,
-          "id": 453820
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/68/459464_IAAy8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/68/459464_IAAy8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e6/68/459464_IAAy8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/68/459464_IAAy8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/68/459464_IAAy8.jpg"
-          },
-          "name": "仮面ライダーガッチャードVS仮面ライダーレジェンド",
-          "name_cn": "假面骑士 歌查德 VS 假面骑士 雷杰多",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 459464
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/fc/466018_213Nk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/fc/466018_213Nk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/24/fc/466018_213Nk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/fc/466018_213Nk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/fc/466018_213Nk.jpg"
-          },
-          "name": "仮面ライダー THE WINTER MOVIE ガッチャード＆ギーツ 最強ケミー★ガッチャ大作戦",
-          "name_cn": "",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 466018
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/10/483779_19I3j.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/10/483779_19I3j.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a2/10/483779_19I3j.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/10/483779_19I3j.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/10/483779_19I3j.jpg"
-          },
-          "name": "我ら3年G組",
-          "name_cn": "我们3年G班",
-          "relation": "衍生",
-          "type": 6,
-          "id": 483779
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/4d/484918_Rg5kX.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/4d/484918_Rg5kX.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/56/4d/484918_Rg5kX.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/4d/484918_Rg5kX.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/4d/484918_Rg5kX.jpg"
-          },
-          "name": "冥黑の三妹妹プレゼンツ 仮面ライダーガッチャード 未完計画",
-          "name_cn": "冥黑三姊妹礼物 假面骑士歌查德 未完计划",
-          "relation": "衍生",
-          "type": 6,
-          "id": 484918
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/4f/488159_7q2jv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/4f/488159_7q2jv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e2/4f/488159_7q2jv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/4f/488159_7q2jv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/4f/488159_7q2jv.jpg"
-          },
-          "name": "てれびくん超バトルDVD「仮面ライダーガッチャード　どうする！？宝太郎とりんねがいれかわっちゃった！！」",
-          "name_cn": "电视君 超战斗DVD 假面骑士歌查德 怎么办！？宝太郎和凛音互换身体了！！",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 488159
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/8d/490338_hurKR.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/8d/490338_hurKR.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e0/8d/490338_hurKR.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/8d/490338_hurKR.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/8d/490338_hurKR.jpg"
-          },
-          "name": "ウラ仮面ライダー",
-          "name_cn": "幕后假面骑士",
-          "relation": "衍生",
-          "type": 6,
-          "id": 490338
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/da/491200_Hfd8h.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/da/491200_Hfd8h.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/99/da/491200_Hfd8h.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/da/491200_Hfd8h.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/da/491200_Hfd8h.jpg"
-          },
-          "name": "仮面ライダー THE SUMMER MOVIE 2024",
-          "name_cn": "",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 491200
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8b/5a/492259_vZmqq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8b/5a/492259_vZmqq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8b/5a/492259_vZmqq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8b/5a/492259_vZmqq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/5a/492259_vZmqq.jpg"
-          },
-          "name": "ガッチャードショートアニメ ガッチャニメ 富良洲高校七不思議をガッチャせよ！",
-          "name_cn": "歌查德短篇动画 咔嚓动画 拿下富良洲高中七大不可思议吧！",
-          "relation": "衍生",
-          "type": 2,
-          "id": 492259
-        }
-      ]
-    }
-  },
-  {
     "title": "FLCL: Shoegaze",
     "date": "2023-09-30",
     "bangumi": {
@@ -3579,6 +3397,7 @@
       "name_cn": "",
       "tags": [
         "2023",
+        "2023年10月",
         "2分",
         "FLCL",
         "NUT",
@@ -3586,9 +3405,11 @@
         "Production_I.G",
         "TV",
         "上村泰",
+        "动画",
         "动画（TV）",
         "原创",
         "日常",
+        "日本",
         "日本动画",
         "未确定",
         "生肉",
@@ -3640,6 +3461,7 @@
       "id": 375218,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

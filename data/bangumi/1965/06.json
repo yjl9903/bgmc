@@ -74,6 +74,7 @@
       "id": 53747,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -91,6 +92,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 423380
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/40/499397_Odt3r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/40/499397_Odt3r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d6/40/499397_Odt3r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/40/499397_Odt3r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/40/499397_Odt3r.jpg"
+          },
+          "name": "ワンダースリー",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499397
         }
       ]
     }

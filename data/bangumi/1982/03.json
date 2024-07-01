@@ -22,6 +22,7 @@
         "80s",
         "80年代",
         "GUNDAM",
+        "SF",
         "SUNRISE",
         "サンライズ",
         "剧场版",
@@ -33,7 +34,7 @@
         "富野由悠季",
         "总集篇",
         "战争",
-        "日升",
+        "战斗",
         "日本",
         "日本动画",
         "映画",
@@ -43,7 +44,6 @@
         "热血",
         "电影",
         "科幻",
-        "续作",
         "萝卜",
         "高达"
       ],
@@ -73,18 +73,31 @@
           "value": "富野喜幸"
         },
         {
-          "key": "制作",
-          "value": "日本サンライズ"
+          "key": "製作",
+          "value": "日本サンライズ(岸本吉功) 製作協力 - 名古屋テレビ、創通エージェンシー"
         },
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "企画",
+          "value": "山浦栄二、伊藤昌典"
+        },
+        {
+          "key": "音响监督",
+          "value": "百瀬慶一（III特別版）"
+        },
+        {
+          "key": "制片人",
+          "value": "渋江靖夫、岩崎正美"
         }
       ],
       "total_episodes": 1,
       "id": 38437,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -283,7 +296,6 @@
         "SF",
         "SHIN-EI",
         "Shin-EiAnimation",
-        "movie",
         "アニメ映画",
         "シンエイ動画",
         "ドラえもん",
@@ -301,6 +313,7 @@
         "映画",
         "漫改",
         "漫画改",
+        "电影",
         "科幻",
         "童年",
         "童年系列",
@@ -381,6 +394,7 @@
       "id": 437,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -454,6 +468,20 @@
           "relation": "其他",
           "type": 2,
           "id": 312240
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fd/23/461180_KUJUV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fd/23/461180_KUJUV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fd/23/461180_KUJUV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fd/23/461180_KUJUV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fd/23/461180_KUJUV.jpg"
+          },
+          "name": "ドラえもん Sound Track History ～菊池俊輔 音楽集～",
+          "name_cn": "哆啦A梦 音乐史 菊池俊辅 音乐集",
+          "relation": "原声集",
+          "type": 3,
+          "id": 461180
         }
       ]
     }
@@ -475,6 +503,7 @@
       "name": "魔法のプリンセス ミンキーモモ",
       "name_cn": "魔法公主明琪桃子",
       "tags": [
+        "1980s",
         "1982",
         "80s",
         "TV",
@@ -487,6 +516,7 @@
         "日本动画",
         "旧物",
         "汤山邦彦",
+        "淚",
         "湯山邦彦",
         "经典",
         "苇PRODUCTION",
@@ -539,10 +569,11 @@
           "value": "1983年5月26日"
         }
       ],
-      "total_episodes": 52,
+      "total_episodes": 63,
       "id": 73928,
       "eps": 63,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -651,6 +682,7 @@
       "name": "劇場版 おはよう!スパンク",
       "name_cn": "剧场版 小狗亚斑",
       "tags": [
+        "东京电影新社",
         "旧物"
       ],
       "infobox": [
@@ -682,6 +714,7 @@
       "id": 375087,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -735,7 +768,12 @@
       "name_cn": "",
       "tags": [
         "1982",
-        "旧物"
+        "东京电影新社",
+        "剧场版",
+        "川島あきら",
+        "旧物",
+        "漫画改",
+        "芝山努"
       ],
       "infobox": [
         {
@@ -759,6 +797,7 @@
       "id": 159760,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -800,6 +839,7 @@
         "-1990",
         "1980-1989",
         "1982",
+        "1982年",
         "SF",
         "movie",
         "アニメ映画",
@@ -807,7 +847,6 @@
         "东映动画",
         "剧场版",
         "劇場版",
-        "动",
         "动画",
         "千年女王",
         "戸田恵子",
@@ -894,6 +933,7 @@
       "id": 80823,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

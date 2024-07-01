@@ -6,11 +6,11 @@
       "date": "1976-09-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/b9/37218_6DH6A.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/b9/37218_6DH6A.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/4b/b9/37218_6DH6A.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/b9/37218_6DH6A.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/b9/37218_6DH6A.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/b9/37218_ZOoTx.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/b9/37218_ZOoTx.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/4b/b9/37218_ZOoTx.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/b9/37218_ZOoTx.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/b9/37218_ZOoTx.jpg"
       },
       "summary": "『鋼鉄ジーグ』に続く『マグネロボシリーズ』の第二弾。マグネロボシリーズというのは本作のタイトルから取っている。また、スポンサーのタカラのマグネモシリーズ第三弾である。なお、同シリーズの第二弾は『ゴワッパー5ゴーダム』である。\r\n\r\n沉眠于地底的伊采尔（イザール）星人再度对地球侵略而来！ 由关（花月）博士率领着的无敌（地球システム）研究所，以其所秘密开发的无敌航舰（ゴッドフリーダム）与无敌王（ガ・キーン）开始战开反击！",
       "name": "マグネロボ ガ・キーン",
@@ -20,10 +20,11 @@
         "1976年",
         "70",
         "70s",
+        "ROBO",
         "TV",
         "TVA",
-        "robo",
         "ロボットアニメ",
+        "东映动画",
         "勝間田具治",
         "古川登志夫",
         "日本动画",
@@ -87,6 +88,7 @@
       "id": 37218,
       "eps": 39,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -118,6 +120,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 294406
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/1f/493702_N2E3z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/1f/493702_N2E3z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e7/1f/493702_N2E3z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e7/1f/493702_N2E3z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e7/1f/493702_N2E3z.jpg"
+          },
+          "name": "渡辺宙明 BGM COLLECTION",
+          "name_cn": "渡边宙明 BGM集",
+          "relation": "原声集",
+          "type": 3,
+          "id": 493702
         }
       ]
     }

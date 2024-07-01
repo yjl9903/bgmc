@@ -19,10 +19,11 @@
         "1963",
         "1963年",
         "60s",
+        "ROBO",
+        "TCJ",
         "TCJ動画センター",
         "TV",
         "TVA",
-        "robo",
         "岡本欣三",
         "日本",
         "日本动画",
@@ -48,7 +49,7 @@
         },
         {
           "key": "话数",
-          "value": "97"
+          "value": "96 (+誕生編)"
         },
         {
           "key": "放送开始",
@@ -75,10 +76,11 @@
           "value": "TCJ動画センター"
         }
       ],
-      "total_episodes": 50,
+      "total_episodes": 97,
       "id": 37258,
-      "eps": 97,
+      "eps": 96,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -152,6 +154,34 @@
           "relation": "书籍",
           "type": 1,
           "id": 400899
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/fc/498850_QX4qf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/fc/498850_QX4qf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2c/fc/498850_QX4qf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/fc/498850_QX4qf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/fc/498850_QX4qf.jpg"
+          },
+          "name": "鉄人28号の歌 / 進め 正太郎",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 498850
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/b9/498851_rWTDJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/b9/498851_rWTDJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dc/b9/498851_rWTDJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/b9/498851_rWTDJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/b9/498851_rWTDJ.jpg"
+          },
+          "name": "鉄人28号の歌 / 正太郎のマーチ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 498851
         }
       ]
     }

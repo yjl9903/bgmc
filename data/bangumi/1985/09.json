@@ -20,14 +20,12 @@
         "1985",
         "MADHouse",
         "OVA",
-        "OVA-01",
-        "OVA-02",
+        "SF",
         "studiodeen",
         "やまざきかずお",
         "スタジオディーン",
         "マジックバス",
         "乳首",
-        "仙台弁",
         "出崎哲",
         "动画",
         "四分一節子",
@@ -43,9 +41,11 @@
         "漫改",
         "漫画改",
         "福星小子",
+        "童年",
         "米たにヨシトモ",
         "表",
-        "高桥留美子"
+        "高桥留美子",
+        "高橋留美子"
       ],
       "infobox": [
         {
@@ -113,6 +113,7 @@
       "id": 47158,
       "eps": 11,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -189,11 +190,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/a2/454896_k0LUa.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/a2/454896_k0LUa.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/13/a2/454896_k0LUa.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/13/a2/454896_k0LUa.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/13/a2/454896_k0LUa.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/a2/454896_N2uy4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/a2/454896_N2uy4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/13/a2/454896_N2uy4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/13/a2/454896_N2uy4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/13/a2/454896_N2uy4.jpg"
           },
           "name": "ロック・ザ・プラネット",
           "name_cn": "",
@@ -274,6 +275,7 @@
       "id": 299218,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -367,12 +369,49 @@
         {
           "key": "发售日",
           "value": "1985年9月25日"
+        },
+        {
+          "key": "製作",
+          "value": "日本サンライズ(伊藤昌典)"
+        },
+        {
+          "key": "原作",
+          "value": "星山博之、神田武幸"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "白鳥座"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "高比良豊"
+        },
+        {
+          "key": "原画",
+          "value": "櫻井美知代、村中博美、中島美子、山本佐和子、黄瀬和哉、大島城次、遠藤栄一、坂本英明、小林智子、津久井明子、川名久美子、山内貴美子"
+        },
+        {
+          "key": "背景美术",
+          "value": "スタジオ風雅(黒田聡、工藤美幸)、野々宮恒男、海老沢誠治、柴田千佳子)、アド・コスモ(伊藤信治、金島邦夫)"
+        },
+        {
+          "key": "摄影",
+          "value": "旭プロダクション(酒井幸徳、長谷川洋一、刑部徹、大塚恵美子)"
+        },
+        {
+          "key": "音乐制作",
+          "value": "サンライズ音楽出版/サンライズミュージック(指田英司)"
+        },
+        {
+          "key": "制作进行",
+          "value": "小林真一郎、南雅彦"
         }
       ],
       "total_episodes": 1,
       "id": 303135,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -404,6 +443,20 @@
           "relation": "前传",
           "type": 2,
           "id": 37471
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/3f/500701_0JG0C.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/3f/500701_0JG0C.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/01/3f/500701_0JG0C.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/3f/500701_0JG0C.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/3f/500701_0JG0C.jpg"
+          },
+          "name": "銀河漂流 バイファム コンプリート・ミュージック ＆ ドラマ・コレクション メモリアル・コレクション CD-BOX",
+          "name_cn": "银河漂流华尔分 完全版音乐集＆广播剧集纪念CD-BOX",
+          "relation": "原声集",
+          "type": 3,
+          "id": 500701
         }
       ]
     }
