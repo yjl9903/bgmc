@@ -20,8 +20,8 @@ importers:
         specifier: ^20.14.9
         version: 20.14.9
       bangumi-data:
-        specifier: '>=0.3.145'
-        version: 0.3.145
+        specifier: '>=0.3.146'
+        version: 0.3.146
       bumpp:
         specifier: latest
         version: 9.4.1
@@ -63,8 +63,8 @@ importers:
   packages/bgmd:
     dependencies:
       bangumi-data:
-        specifier: '>=0.3.145'
-        version: 0.3.145
+        specifier: '>=0.3.146'
+        version: 0.3.146
       bgmc:
         specifier: workspace:*
         version: link:../bgmc
@@ -90,8 +90,8 @@ importers:
         specifier: ^0.1.10
         version: 0.1.10
       bangumi-data:
-        specifier: '>=0.3.145'
-        version: 0.3.145
+        specifier: '>=0.3.146'
+        version: 0.3.146
       bgmc:
         specifier: workspace:*
         version: link:../bgmc
@@ -1173,8 +1173,8 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
-  bangumi-data@0.3.145:
-    resolution: {integrity: sha512-BQKLX2Ep45E/b0w7H6wlVX72oQxWOpQ5IN6Yne92K4UQ1DH/aRyyUeqsMuPo3wzTdmnLkE6eL7qWtpTmJIWLiQ==}
+  bangumi-data@0.3.146:
+    resolution: {integrity: sha512-YOHllmxn/Zgf7hBlP/+E2/ibpHMzC6PWZ88kdRdCa+gAzHYVwsHagoLNWwuJ6uFPFjhIjT11F6Lyf0YpV16SLw==}
 
   base64-js@1.5.1:
     resolution: {integrity: sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==}
@@ -4219,7 +4219,7 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
-  bangumi-data@0.3.145: {}
+  bangumi-data@0.3.146: {}
 
   base64-js@1.5.1: {}
 
