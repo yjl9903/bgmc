@@ -22,6 +22,7 @@
         "Q娃",
         "TV",
         "TVA",
+        "precure",
         "プリキュア",
         "不也挺好吗",
         "东映",
@@ -29,7 +30,7 @@
         "光之美少女",
         "原创",
         "古賀豪",
-        "子供向",
+        "古贺豪",
         "寿美菜子",
         "山口亮太",
         "年番",
@@ -39,7 +40,6 @@
         "扭曲",
         "東映",
         "東映アニメーション",
-        "渕上舞",
         "生天目仁美",
         "白色相簿3",
         "百合",
@@ -98,6 +98,7 @@
       "id": 55100,
       "eps": 49,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -115,6 +116,20 @@
           "relation": "角色出演",
           "type": 2,
           "id": 58948
+        },
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
+          },
+          "name": "小説 ドキドキ!プリキュア",
+          "name_cn": "小说 心跳！光之美少女",
+          "relation": "书籍",
+          "type": 1,
+          "id": 501082
         },
         {
           "images": {
@@ -378,15 +393,16 @@
         "2013年",
         "2013年1月",
         "3D",
-        "KEI",
         "MMD",
         "RMK",
         "TV",
+        "Zarugozaru",
         "apr7",
         "cort",
         "gdgd萝卜s",
         "オリジナルアニメ",
         "ザルゴザール",
+        "动画",
         "原创",
         "吐槽",
         "喜剧或日常系",
@@ -394,16 +410,15 @@
         "搞笑",
         "日本",
         "机器人动画",
-        "泡面",
         "泡面番",
         "直白标题机器人动画",
         "石ダテコー太郎",
         "石舘光太郎",
         "石馆光太郎",
+        "科幻",
         "荒川美穂",
         "萝卜",
-        "西明日香",
-        "颜艺"
+        "西明日香"
       ],
       "infobox": [
         {
@@ -516,6 +531,7 @@
       "id": 61141,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -671,6 +687,7 @@
       "id": 26804,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -803,20 +820,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/0a/101788_iyViu.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/0a/101788_iyViu.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/33/0a/101788_iyViu.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/0a/101788_iyViu.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/0a/101788_iyViu.jpg"
-          },
-          "name": "ディバインゲート",
-          "name_cn": "神圣之门",
-          "relation": "游戏",
-          "type": 4,
-          "id": 101788
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/5f/121183_p91h4.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/5f/121183_p91h4.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/6d/5f/121183_p91h4.jpg",
@@ -828,34 +831,6 @@
           "relation": "书籍",
           "type": 1,
           "id": 121183
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/38/269645_e99GQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/38/269645_e99GQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/60/38/269645_e99GQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/38/269645_e99GQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/38/269645_e99GQ.jpg"
-          },
-          "name": "とある魔術の禁書目録 幻想収束",
-          "name_cn": "魔法禁书目录 幻想收束",
-          "relation": "游戏",
-          "type": 4,
-          "id": 269645
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/8b/272525_43MO5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/8b/272525_43MO5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e4/8b/272525_43MO5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/8b/272525_43MO5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/8b/272525_43MO5.jpg"
-          },
-          "name": "とある魔術の禁書目録 頂点決戦Ⅱ",
-          "name_cn": "魔法禁书目录：顶点决战",
-          "relation": "游戏",
-          "type": 4,
-          "id": 272525
         }
       ]
     }
@@ -881,6 +856,7 @@
         "2013年",
         "2013年2月",
         "BONES",
+        "robo",
         "ゝω・）★綺羅星",
         "五十岚卓哉",
         "五十嵐卓哉",
@@ -899,14 +875,13 @@
         "榎戸洋司",
         "电影",
         "石田彰",
-        "神作画",
         "神前晓",
         "福山润",
         "科幻",
         "萝卜",
         "银河美少年",
-        "飒爽登场",
-        "（"
+        "青春",
+        "飒爽登场"
       ],
       "infobox": [
         {
@@ -1025,6 +1000,7 @@
       "id": 48702,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1121,6 +1097,7 @@
         "泡面番",
         "田中琳",
         "穿越",
+        "胜哄Studio",
         "諏訪貴之"
       ],
       "infobox": [
@@ -1153,6 +1130,7 @@
       "id": 66960,
       "eps": 5,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1196,16 +1174,16 @@
         "恋爱",
         "捆绑光碟动画",
         "搞笑",
-        "日本",
+        "日常",
         "杉田智和",
         "校园",
         "涼村千夏",
         "漫改",
         "漫画改",
-        "热血",
         "猪爪慎一",
         "花泽香菜",
-        "青春"
+        "青春",
+        "龙之子Production"
       ],
       "infobox": [
         {
@@ -1229,6 +1207,7 @@
       "id": 69069,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1316,11 +1295,11 @@
         "洼冈俊之",
         "漫改",
         "漫画改",
-        "烙印战士",
         "热血",
         "猎奇",
         "神作",
         "窪岡俊之",
+        "血腥",
         "魔幻",
         "鷺巣詩郎",
         "鹭巢诗郎",
@@ -1422,6 +1401,7 @@
       "id": 45241,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1682,6 +1662,7 @@
       "id": 66785,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,
@@ -1744,11 +1725,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/ae/211088_BkwQE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/ae/211088_BkwQE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/85/ae/211088_BkwQE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/ae/211088_BkwQE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/ae/211088_BkwQE.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/ae/211088_hW8aa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/ae/211088_hW8aa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/ae/211088_hW8aa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/ae/211088_hW8aa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/ae/211088_hW8aa.jpg"
           },
           "name": "アイドルマスター ミリオンライブ！ シアターデイズ",
           "name_cn": "偶像大师 MILLION LIVE! THEATER DAYS",
@@ -2916,28 +2897,28 @@
         "2013年OVA·OAD",
         "A-1.Pictures",
         "A-1Pictures",
+        "JUMP",
         "OAD",
         "OVA",
         "OVA-01",
         "TV",
         "ovaoad",
+        "中村悠一",
         "剧场版",
+        "动画",
         "十川誠志",
         "喵帕斯记录~",
         "奇幻",
         "妖精尾巴",
         "妖精的尾巴",
-        "平野綾",
-        "总集篇",
+        "平野绫",
+        "战斗",
         "搞笑",
         "日本",
-        "日本动画",
         "柿原徹也",
         "漫改",
         "漫画改",
         "热血",
-        "番外",
-        "短篇",
         "西本由紀夫",
         "釘宮理恵"
       ],
@@ -2975,6 +2956,7 @@
       "id": 64988,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3109,6 +3091,7 @@
       "id": 66785,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,
@@ -3171,11 +3154,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/ae/211088_BkwQE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/ae/211088_BkwQE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/85/ae/211088_BkwQE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/ae/211088_BkwQE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/ae/211088_BkwQE.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/ae/211088_hW8aa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/ae/211088_hW8aa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/ae/211088_hW8aa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/ae/211088_hW8aa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/ae/211088_hW8aa.jpg"
           },
           "name": "アイドルマスター ミリオンライブ！ シアターデイズ",
           "name_cn": "偶像大师 MILLION LIVE! THEATER DAYS",
@@ -4395,6 +4378,7 @@
       "id": 169424,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 6,

@@ -20,32 +20,32 @@
         "2024年",
         "2024年剧场版",
         "LoveLive",
-        "LoveLive!",
         "LoveLive！",
-        "OVA",
         "SUNRISE",
+        "けろりら",
         "サンライズ",
         "偶像",
         "剧场版",
         "原创",
         "年指活",
         "日常",
+        "日昇动画",
         "日本动画",
         "未上映",
         "未开播",
+        "未确定",
         "林鼓子",
         "校园",
         "横田拓己",
         "河村智之",
+        "治愈",
         "田中仁",
         "电影",
         "百合",
-        "矢立肇",
         "矢野妃菜喜",
         "虹咲",
         "虹学会",
-        "音乐",
-        "鬼頭明里"
+        "音乐"
       ],
       "infobox": [
         {
@@ -78,7 +78,7 @@
         },
         {
           "key": "人物设定",
-          "value": "横田拓己"
+          "value": "横田拓己；视觉导演: けろりら"
         },
         {
           "key": "脚本",
@@ -87,10 +87,6 @@
         {
           "key": "原案",
           "value": "公野櫻子"
-        },
-        {
-          "key": "视觉导演",
-          "value": "けろりら"
         },
         {
           "key": "设定",
@@ -149,6 +145,7 @@
       "id": 442614,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -183,11 +180,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/ed/408883_799N9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/ed/408883_799N9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bb/ed/408883_799N9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/ed/408883_799N9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/ed/408883_799N9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/ed/408883_mguw7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/ed/408883_mguw7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/ed/408883_mguw7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/ed/408883_mguw7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/ed/408883_mguw7.jpg"
           },
           "name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 NEXT SKY",
           "name_cn": "LoveLive！虹咲学园学园偶像同好会 NEXT SKY",
@@ -208,76 +205,6 @@
           "relation": "续集",
           "type": 2,
           "id": 442615
-        }
-      ]
-    }
-  },
-  {
-    "title": "わんだふるぷりきゅあ！ざ・むーびー！",
-    "date": "2024-09-13",
-    "bangumi": {
-      "date": "2024-09-13",
-      "platform": "剧场版",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/93/485315_9BWFn.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/93/485315_9BWFn.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/22/93/485315_9BWFn.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/93/485315_9BWFn.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/93/485315_9BWFn.jpg"
-      },
-      "summary": "“すてきなお友達“って誰のこと…！？\r\n\r\nこの秋、#プリキュア の歴史に\r\n新たな“わん”ページを刻む\r\n超わんだふる～！な大冒険をお楽しみに",
-      "name": "わんだふるぷりきゅあ！ざ・むーびー！",
-      "name_cn": "Wonderful 光之美少女！电影！",
-      "tags": [
-        "2024",
-        "东映动画",
-        "光之美少女",
-        "剧场版",
-        "東映アニメーション"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "Wonderful 光之美少女！电影！"
-        },
-        {
-          "key": "上映年度",
-          "value": "2024年9月13日"
-        },
-        {
-          "key": "官方网站",
-          "value": "https://2024.precure-movie.com/"
-        },
-        {
-          "key": "Copyright",
-          "value": "©2024 わんだふるぷりきゅあ！ざ・むーびー！製作委員会"
-        },
-        {
-          "key": "话数",
-          "value": "1"
-        }
-      ],
-      "total_episodes": 1,
-      "id": 485315,
-      "eps": 1,
-      "volumes": 0,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/62/467784_4422O.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/62/467784_4422O.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/17/62/467784_4422O.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/62/467784_4422O.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/62/467784_4422O.jpg"
-          },
-          "name": "わんだふるぷりきゅあ！",
-          "name_cn": "美妙宠物 光之美少女！",
-          "relation": "前传",
-          "type": 2,
-          "id": 467784
         }
       ]
     }

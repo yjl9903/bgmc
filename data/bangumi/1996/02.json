@@ -23,9 +23,9 @@
         "GT",
         "JUMP",
         "TV",
-        "X星龙",
         "东映",
         "东映动画",
+        "冒险",
         "动画",
         "原创",
         "又燃又基",
@@ -109,6 +109,7 @@
       "id": 9566,
       "eps": 64,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -410,14 +411,27 @@
           "value": "サンライズ"
         },
         {
-          "key": "製作",
+          "key": "制作",
           "value": "名古屋テレビ、サンライズ、東急エージェンシー"
+        },
+        {
+          "key": "摄影监督",
+          "value": "松沢宏明、森夏子"
+        },
+        {
+          "key": "制片人",
+          "value": "加古均（名古屋テレビ）、本名洋一（３１話～４８話）・小原麻美（東急エージェンシー）、吉井孝幸（３１話～４８話）・高森宏治（サンライズ）"
+        },
+        {
+          "key": "剪辑",
+          "value": "布施由美子・野尻由紀子（ＹＡスタッフ）"
         }
       ],
       "total_episodes": 48,
       "id": 37249,
       "eps": 48,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -432,19 +446,19 @@
           },
           "name": "勇者シリーズ20周年記念企画 HARVEST",
           "name_cn": "",
-          "relation": "片头曲",
+          "relation": "其他",
           "type": 3,
           "id": 13231
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/13/76629_y4U0U.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/13/76629_y4U0U.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/34/13/76629_y4U0U.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/13/76629_y4U0U.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/13/76629_y4U0U.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/8e/490058_VonnV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/8e/490058_VonnV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ed/8e/490058_VonnV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/8e/490058_VonnV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/8e/490058_VonnV.jpg"
           },
-          "name": "勇者指令ダグオン",
+          "name": "輝け!! ダグオン / 風の中のプリズム",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -459,7 +473,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/65/182011_v7I57.jpg"
           },
           "name": "新世代ロボット戦記ブレイブサーガ",
-          "name_cn": "勇者圣战",
+          "name_cn": "勇者传说",
           "relation": "游戏",
           "type": 4,
           "id": 182011
@@ -474,7 +488,7 @@
           },
           "name": "勇者シリーズ20周年記念企画 More BRAVEST",
           "name_cn": "",
-          "relation": "片头曲",
+          "relation": "其他",
           "type": 3,
           "id": 194741
         },
@@ -543,7 +557,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/49/348260_oLw7B.jpg"
           },
           "name": "ブレイブサーガ2",
-          "name_cn": "勇者圣战2",
+          "name_cn": "勇者传说2",
           "relation": "游戏",
           "type": 4,
           "id": 348260

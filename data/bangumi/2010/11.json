@@ -21,6 +21,7 @@
         "估计是冷番",
         "子供向",
         "想补的旧番",
+        "日本动画公司",
         "绘本"
       ],
       "infobox": [
@@ -72,6 +73,7 @@
       "id": 9851,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -176,6 +178,7 @@
       "id": 10494,
       "eps": 5,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -258,6 +261,7 @@
       "id": 9852,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -331,6 +335,7 @@
       "id": 210466,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -393,6 +398,7 @@
       "id": 210761,
       "eps": 15,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -515,7 +521,15 @@
         },
         {
           "key": "脚本",
-          "value": "吉田玲子"
+          "value": "佐藤順一(1,4)、吉田玲子(2-3)"
+        },
+        {
+          "key": "分镜",
+          "value": "佐藤順一(1-4)"
+        },
+        {
+          "key": "演出",
+          "value": "酒井和男(1-2,4)、中山敦史(3)"
         },
         {
           "key": "人物设定",
@@ -523,7 +537,7 @@
         },
         {
           "key": "作画监督",
-          "value": "音地正行"
+          "value": "音地正行(1)、渡辺はじめ(2,4)、阿部智之(3)"
         },
         {
           "key": "美术监督",
@@ -558,6 +572,7 @@
       "id": 8452,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -749,6 +764,7 @@
       "id": 10070,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -777,11 +793,11 @@
         "AIC",
         "OAD",
         "OVA",
-        "★OVA・OAD",
         "☆OVA",
         "下野紘",
         "今井麻美",
         "伊藤浩二",
+        "动画",
         "岡本信彦",
         "平川大輔",
         "恋爱",
@@ -861,6 +877,7 @@
       "id": 9368,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -919,27 +936,27 @@
         "OVA",
         "OVA-01",
         "Satelight",
+        "fanservice",
+        "♥",
         "乌鸦君",
         "伊瀬茉莉也",
-        "冈本信彦",
         "前作烂",
-        "前川淳",
         "动画",
+        "卖肉",
         "各种王",
-        "大原さやか",
         "大暮维人",
-        "已看",
         "戸松遥",
-        "早见沙织",
+        "杉田智和",
         "東映アニメーション",
-        "死而无憾",
+        "校园",
         "滑板鞋",
         "漫改",
         "漫画改",
         "热血",
-        "田中理恵",
-        "石平信司",
+        "白石涼子",
+        "神作",
         "竞技",
+        "补番",
         "运动",
         "鎌苅健太",
         "飞轮少年"
@@ -982,6 +999,7 @@
       "id": 10299,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1041,28 +1059,28 @@
         "OVA-01",
         "OVA8",
         "SUNRISE",
+        "SUNRISR",
         "robo",
         "サンライズ",
         "中庸",
+        "五十岚紫樟",
         "五十岚达也",
         "五十嵐達也",
         "佐藤卓哉",
-        "动画",
         "原创",
         "單集長篇",
         "平川大輔",
         "户外",
-        "日本",
         "日本动画",
         "机战",
         "机甲",
         "森川智之",
         "独立ova",
-        "福山潤",
         "科幻",
         "萝卜",
         "装甲騎兵ボトムズ",
         "装甲骑兵",
+        "豊崎愛生",
         "高橋良輔"
       ],
       "infobox": [
@@ -1111,6 +1129,7 @@
       "id": 13406,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1168,10 +1187,12 @@
         "SHIN-EI",
         "¬",
         "あたしンち",
+        "シンエイ動画",
         "剧场版",
         "家庭",
         "我们这一家",
         "搞笑",
+        "新锐动画",
         "日常",
         "泡面番"
       ],
@@ -1261,17 +1282,18 @@
       "id": 111231,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/17/40388_r8WuD.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/17/40388_r8WuD.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4d/17/40388_r8WuD.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/17/40388_r8WuD.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/17/40388_r8WuD.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/17/40388_92io2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/17/40388_92io2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4d/17/40388_92io2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/17/40388_92io2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/17/40388_92io2.jpg"
           },
           "name": "あたしンち",
           "name_cn": "我们这一家",
@@ -1376,6 +1398,7 @@
       "id": 204116,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1495,6 +1518,7 @@
       "id": 4274,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1566,10 +1590,10 @@
         "2010年10月",
         "3D",
         "Digitalscape",
+        "PolygonPictures",
         "Polygon_Pictures",
         "TV",
         "Transformers",
-        "人物",
         "分太低了",
         "剧集",
         "动作",
@@ -1601,6 +1625,9 @@
           "key": "别名",
           "value": [
             {
+              "v": "變形金剛：先鋒至尊之證"
+            },
+            {
               "v": "超ロボット生命体 トランスフォーマー プライム"
             },
             {
@@ -1631,26 +1658,91 @@
         {
           "key": "其他电视台",
           "value": "テレビ愛知"
+        },
+        {
+          "key": "企画",
+          "value": "Roberto Orci、Alex Kurtzman、Duane Capizzi、Jeff Kline"
+        },
+        {
+          "key": "总导演",
+          "value": "David Hartman"
+        },
+        {
+          "key": "人物设定",
+          "value": "José López、Augusto Barranco、Walter Gatus、Arato Kato"
+        },
+        {
+          "key": "总制片人",
+          "value": "日本語版：阿部祥三→村川淳、鈴木祐治、嵯峨隼人"
+        },
+        {
+          "key": "制片人",
+          "value": "Mandy Safavi、Rafael Ruthchild、秋田穣（1）→山藤真士（2、3） 日本語版：鈴木勇人、田島豊、前田典秋、大田豪"
+        },
+        {
+          "key": "执行制片人",
+          "value": "Roberto Orci、Alex Kurtzman、Jeff Kline、Stephen Davis、塩田周三"
+        },
+        {
+          "key": "音乐",
+          "value": "Brian Tyler、Matthew Margeson（第15話 - ）"
+        },
+        {
+          "key": "CG 导演",
+          "value": "林弘幸"
+        },
+        {
+          "key": "美术监督",
+          "value": "David Hartman、José López、Tomoaki Okada(岡田有章)"
+        },
+        {
+          "key": "色彩设定",
+          "value": "Christophe Vacher"
+        },
+        {
+          "key": "道具设计",
+          "value": "José López"
+        },
+        {
+          "key": "视觉艺术",
+          "value": "Christophe Vacher"
+        },
+        {
+          "key": "动画制作",
+          "value": "ポリゴン・ピクチュアズ、Silver Ant PPI（3）"
+        },
+        {
+          "key": "制作",
+          "value": "Hasbro Studios(现:Allspark) 日本語版：08、ACクリエイト、テレビ愛知、電通"
+        },
+        {
+          "key": "製作",
+          "value": "Hasbro Studios(现:Allspark)、ポリゴン・ピクチュアズ、Silver Ant PPI、K/O Paper Products、Darby Pop Productions"
+        },
+        {
+          "key": "制作协力",
+          "value": "日本語版：タカラトミー、日活"
         }
       ],
       "total_episodes": 65,
       "id": 18268,
       "eps": 65,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/1e/1639_9JPHh.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/1e/1639_9JPHh.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3c/1e/1639_9JPHh.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/1e/1639_9JPHh.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/1e/1639_9JPHh.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/1e/1639_U99Wm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/1e/1639_U99Wm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3c/1e/1639_U99Wm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/1e/1639_U99Wm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/1e/1639_U99Wm.jpg"
           },
           "name": "The Transformers",
-          "name_cn": "变形金刚G1",
+          "name_cn": "变形金刚（G1）",
           "relation": "不同世界观",
           "type": 2,
           "id": 1639
@@ -1668,6 +1760,48 @@
           "relation": "前传",
           "type": 2,
           "id": 4522
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/40/491933_bv00v.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/40/491933_bv00v.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6a/40/491933_bv00v.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/40/491933_bv00v.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/40/491933_bv00v.jpg"
+          },
+          "name": "TRANSFORMERS PRIME MUSIC FROM THE ANIMATED SERIES SEASON ONE",
+          "name_cn": "变形金刚领袖之证第一季 OST",
+          "relation": "原声集",
+          "type": 3,
+          "id": 491933
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/d2/502000_X8fYX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/d2/502000_X8fYX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fc/d2/502000_X8fYX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/d2/502000_X8fYX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/d2/502000_X8fYX.jpg"
+          },
+          "name": "Transformers Prime Beast Hunters: Predacons Rising",
+          "name_cn": "变形金刚：狩魔之战",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 502000
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/67/502071_f00kK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/67/502071_f00kK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6b/67/502071_f00kK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/67/502071_f00kK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/67/502071_f00kK.jpg"
+          },
+          "name": "Transformers: The Album",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 502071
         }
       ]
     }
@@ -1847,6 +1981,7 @@
       "id": 10336,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,
@@ -1920,6 +2055,20 @@
           "relation": "资料片、外传",
           "type": 4,
           "id": 230421
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/46/228217_eU0GM.jpg"
+          },
+          "name": "第五人格",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 228217
         },
         {
           "images": {
@@ -2265,7 +2414,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/86/82041_Y16Bb.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/86/82041_Y16Bb.jpg"
           },
-          "name": "チェインクロニクル3",
+          "name": "チェインクロニクル",
           "name_cn": "锁链战记",
           "relation": "角色出演",
           "type": 4,
@@ -2477,6 +2626,7 @@
       "id": 10336,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,
@@ -2550,6 +2700,20 @@
           "relation": "资料片、外传",
           "type": 4,
           "id": 230421
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/46/228217_eU0GM.jpg"
+          },
+          "name": "第五人格",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 228217
         },
         {
           "images": {
@@ -2895,7 +3059,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/86/82041_Y16Bb.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/86/82041_Y16Bb.jpg"
           },
-          "name": "チェインクロニクル3",
+          "name": "チェインクロニクル",
           "name_cn": "锁链战记",
           "relation": "角色出演",
           "type": 4,

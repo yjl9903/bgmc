@@ -101,14 +101,31 @@
           "value": "サンライズ"
         },
         {
-          "key": "製作",
+          "key": "制作",
           "value": "名古屋テレビ、サンライズ、東急エージェンシー"
+        },
+        {
+          "key": "演出",
+          "value": "日高政光(演出チーフ)"
+        },
+        {
+          "key": "制片人",
+          "value": "今井慎（名古屋テレビ）、本名洋一（東急エージェンシー）、吉井孝幸（サンライズ）"
+        },
+        {
+          "key": "剪辑",
+          "value": "布施由美子、野尻由紀子"
+        },
+        {
+          "key": "助理制片人",
+          "value": "古澤文邦"
         }
       ],
       "total_episodes": 48,
       "id": 37246,
       "eps": 48,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -143,11 +160,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/ab/37247_vuC1V.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/ab/37247_vuC1V.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/66/ab/37247_vuC1V.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/ab/37247_vuC1V.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/ab/37247_vuC1V.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/ab/37247_mabO9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/ab/37247_mabO9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/ab/37247_mabO9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/ab/37247_mabO9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/ab/37247_mabO9.jpg"
           },
           "name": "伝説の勇者ダ・ガーン",
           "name_cn": "勇者传说",
@@ -178,7 +195,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/65/182011_v7I57.jpg"
           },
           "name": "新世代ロボット戦記ブレイブサーガ",
-          "name_cn": "勇者圣战",
+          "name_cn": "勇者传说",
           "relation": "游戏",
           "type": 4,
           "id": 182011
@@ -234,7 +251,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/49/348260_oLw7B.jpg"
           },
           "name": "ブレイブサーガ2",
-          "name_cn": "勇者圣战2",
+          "name_cn": "勇者传说2",
           "relation": "游戏",
           "type": 4,
           "id": 348260
@@ -276,6 +293,7 @@
         "1991",
         "90s",
         "TV",
+        "东京电影",
         "旧物",
         "赛璐珞"
       ],
@@ -301,6 +319,7 @@
       "id": 81581,
       "eps": 50,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

@@ -28,6 +28,7 @@
         "宇井孝司",
         "平見瞠",
         "手冢",
+        "手冢Production",
         "手冢治虫",
         "手塚PRODUCTION",
         "手塚治虫",
@@ -95,6 +96,7 @@
       "id": 81573,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -184,7 +186,6 @@
         "井上喜久子",
         "后宫",
         "奇幻",
-        "女装",
         "山口胜平",
         "川井宪次",
         "性转",
@@ -204,6 +205,7 @@
         "经典",
         "芝山努",
         "西村純二",
+        "西村纯二",
         "高桥留美子"
       ],
       "infobox": [
@@ -232,6 +234,7 @@
       "id": 65883,
       "eps": 143,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -511,7 +514,7 @@
         "1",
         "1989",
         "1989年10月",
-        "80s",
+        "2022",
         "80年代",
         "85~89年",
         "MADHouse",
@@ -523,15 +526,15 @@
         "以柔克刚",
         "年番&大长篇",
         "恋爱",
-        "日本动画",
         "日番",
         "旧物",
         "时田广子",
+        "柔道",
         "柔道少女",
         "浦沢直樹",
-        "漫改",
         "漫画改",
         "皆口裕子",
+        "神谷明",
         "老动画",
         "老物",
         "草尾毅",
@@ -630,6 +633,7 @@
       "id": 62914,
       "eps": 124,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -802,7 +806,6 @@
         "アウベック",
         "不太记得剧情系列",
         "儿时回忆",
-        "六分",
         "冲刺流星",
         "动画",
         "四驱小子",
@@ -820,6 +823,7 @@
         "竞技",
         "童年",
         "童年T",
+        "童年的经典",
         "笹川ひろし",
         "舞蹈天使",
         "野沢雅子",
@@ -873,6 +877,7 @@
       "id": 18850,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -933,13 +938,13 @@
         "SUNRISE",
         "TV",
         "TVA",
-        "サンライズ",
         "伊藤和典",
-        "动画",
         "原创",
         "吉永尚之",
         "川井宪次",
         "川井憲次",
+        "年番",
+        "战斗",
         "押井守",
         "搞笑",
         "日本",
@@ -1010,23 +1015,38 @@
       "id": 8484,
       "eps": 47,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/c5/110541_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/c5/110541_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/85/c5/110541_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/c5/110541_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/c5/110541_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/c7/110542_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/c7/110542_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/c7/110542_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/c7/110542_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/c7/110542_jp.jpg"
           },
-          "name": "機動警察パトレイバー テーマ・コレクション Vol.1",
+          "name": "機動警察パトレイバー PHASE II",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
-          "id": 110541
+          "id": 110542
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/b8/495397_E89w4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/b8/495397_E89w4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/b8/495397_E89w4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/b8/495397_E89w4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/b8/495397_E89w4.jpg"
+          },
+          "name": "機動警察パトレイバー35th 美術設定集",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 495397
         },
         {
           "images": {
@@ -1156,20 +1176,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/c7/110542_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/c7/110542_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3a/c7/110542_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/c7/110542_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/c7/110542_jp.jpg"
-          },
-          "name": "機動警察パトレイバー PHASE II",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 110542
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/f1/321_j3YWy.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/f1/321_j3YWy.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/ca/f1/321_j3YWy.jpg",
@@ -1181,6 +1187,20 @@
           "relation": "衍生",
           "type": 2,
           "id": 321
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/c5/110541_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/c5/110541_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/c5/110541_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/c5/110541_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/c5/110541_jp.jpg"
+          },
+          "name": "機動警察パトレイバー テーマ・コレクション Vol.1",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 110541
         },
         {
           "images": {
@@ -1212,17 +1232,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/f0/13612_D04ZT.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/f0/13612_D04ZT.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9f/f0/13612_D04ZT.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/f0/13612_D04ZT.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/f0/13612_D04ZT.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/23/110529_RC7CH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/23/110529_RC7CH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/23/110529_RC7CH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/23/110529_RC7CH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/23/110529_RC7CH.jpg"
           },
-          "name": "ミニパト",
-          "name_cn": "机动警察迷你版",
-          "relation": "衍生",
-          "type": 2,
-          "id": 13612
+          "name": "機動警察パトレイバー PATLABOR TV+NEW OVA 20th ANNIVERSARY PATLABOR THE MUSIC SET-2",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 110529
         },
         {
           "images": {
@@ -1282,17 +1302,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/f2/110530_PhS4p.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/f2/110530_PhS4p.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/f2/110530_PhS4p.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/f2/110530_PhS4p.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/f2/110530_PhS4p.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/f0/13612_D04ZT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/f0/13612_D04ZT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/f0/13612_D04ZT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/f0/13612_D04ZT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/f0/13612_D04ZT.jpg"
           },
-          "name": "機動警察パトレイバー PATLABOR TV+NEW OVA 20th ANNIVERSARY PATLABOR THE MUSIC SET-3",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 110530
+          "name": "ミニパト",
+          "name_cn": "机动警察迷你版",
+          "relation": "衍生",
+          "type": 2,
+          "id": 13612
         },
         {
           "images": {
@@ -1380,17 +1400,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/23/110529_RC7CH.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/23/110529_RC7CH.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/95/23/110529_RC7CH.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/23/110529_RC7CH.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/23/110529_RC7CH.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/f2/110530_PhS4p.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/f2/110530_PhS4p.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f7/f2/110530_PhS4p.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/f2/110530_PhS4p.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/f2/110530_PhS4p.jpg"
           },
-          "name": "機動警察パトレイバー PATLABOR TV+NEW OVA 20th ANNIVERSARY PATLABOR THE MUSIC SET-2",
+          "name": "機動警察パトレイバー PATLABOR TV+NEW OVA 20th ANNIVERSARY PATLABOR THE MUSIC SET-3",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
-          "id": 110529
+          "id": 110530
         },
         {
           "images": {
@@ -1525,6 +1545,7 @@
       "name_cn": "小松左京动画剧场",
       "tags": [
         "1989",
+        "AIC、GAINAX",
         "GAINAX",
         "SF",
         "名古屋章",
@@ -1560,6 +1581,7 @@
       "id": 213109,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1586,6 +1608,7 @@
         "1980-1989",
         "1989",
         "SHIN-EI",
+        "SHIN-EI动画",
         "TV",
         "TVA",
         "「✘」",
@@ -1599,7 +1622,8 @@
         "漫画改",
         "米たにヨシトモ",
         "藤子·F·不二雄老师",
-        "补旧番"
+        "补旧番",
+        "黑暗"
       ],
       "infobox": [
         {
@@ -1648,6 +1672,7 @@
       "id": 36224,
       "eps": 114,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1751,6 +1776,7 @@
         "OVA-01",
         "SF",
         "Studio-Fantasia",
+        "StudioFantasia",
         "lxy",
         "スタジオ・ファンタジア",
         "伊藤美紀",
@@ -1790,6 +1816,7 @@
       "id": 55060,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1920,6 +1947,7 @@
       "id": 23178,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1986,7 +2014,6 @@
         "北条司",
         "城市猎人",
         "大长篇",
-        "女性",
         "季番組",
         "寒羽良",
         "已收录(BDRip)",
@@ -1995,13 +2022,14 @@
         "日本",
         "日本动画",
         "星山博之",
-        "枪战",
         "漫改",
         "漫画改",
         "热血",
+        "神作",
         "神谷明",
         "童年",
-        "经典"
+        "经典",
+        "都市"
       ],
       "infobox": [
         {
@@ -2036,6 +2064,7 @@
       "id": 53926,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2172,6 +2201,7 @@
         "湯山邦彦",
         "神结局",
         "苇PRODUCTION",
+        "苇Pro",
         "葦プロダクション",
         "西原久美子",
         "赛璐珞"
@@ -2262,6 +2292,7 @@
       "id": 207706,
       "eps": 39,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2390,6 +2421,7 @@
       "id": 112588,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2432,6 +2464,7 @@
         "1989年",
         "1989年10月",
         "1989年十月番",
+        "Eiken",
         "TV",
         "旧物"
       ],
@@ -2453,6 +2486,7 @@
       "id": 188947,
       "eps": 45,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2552,6 +2586,7 @@
       "id": 106694,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

@@ -16,6 +16,7 @@
       "name": "うる星やつら2 ビューティフル・ドリーマー",
       "name_cn": "福星小子2 绮丽梦中人",
       "tags": [
+        "1980s",
         "1984",
         "1984年",
         "80年代",
@@ -35,17 +36,16 @@
         "日本动画",
         "映画",
         "板野一郎",
+        "校园",
         "梦境",
         "漫改",
         "漫画改",
         "电影",
         "福星小子",
-        "经典",
         "西村純二",
         "西村纯二",
         "轮回",
-        "高桥留美子",
-        "高橋留美子"
+        "高桥留美子"
       ],
       "infobox": [
         {
@@ -81,6 +81,7 @@
       "id": 40003,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -240,6 +241,7 @@
       "id": 37294,
       "eps": 22,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -279,6 +281,7 @@
       "name_cn": "重战机艾尔盖姆",
       "tags": [
         "1980-1989",
+        "1980s",
         "1984",
         "1984年",
         "1984年2月",
@@ -288,15 +291,14 @@
         "80年代",
         "SUNRISE",
         "TV",
-        "robo",
         "サンライズ",
         "ロボットアニメ",
         "北爪宏幸",
         "原创",
-        "富野",
         "富野由悠季",
         "年番&大长篇",
         "战争",
+        "日本SUNRISE",
         "旧物",
         "机战",
         "永野护",
@@ -335,14 +337,39 @@
           "value": "矢立肇"
         },
         {
-          "key": "製作",
-          "value": "名古屋テレビ"
+          "key": "企画",
+          "value": "日本サンライズ"
+        },
+        {
+          "key": "制片人",
+          "value": "森山涇(名古屋テレビ)、大西邦明 (創通エージェンシー)、中川宏徳 (日本サンライズ)"
+        },
+        {
+          "key": "制作",
+          "value": "名古屋テレビ、創通エージェンシー、日本サンライズ"
+        },
+        {
+          "key": "色彩设计",
+          "value": "高島清子"
+        },
+        {
+          "key": "剪辑",
+          "value": "布施由美子 (井上編集室)"
+        },
+        {
+          "key": "制作管理",
+          "value": "内田健二、西河稔、高森宏治"
+        },
+        {
+          "key": "设定制作",
+          "value": "杉島邦久、吉村信明"
         }
       ],
       "total_episodes": 54,
       "id": 37170,
       "eps": 54,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -360,6 +387,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 261047
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/00/499178_k7o8o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/00/499178_k7o8o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/00/499178_k7o8o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/00/499178_k7o8o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/00/499178_k7o8o.jpg"
+          },
+          "name": "重戦機エルガイム",
+          "name_cn": "重战机艾尔盖姆",
+          "relation": "书籍",
+          "type": 1,
+          "id": 499178
         },
         {
           "images": {
@@ -676,6 +717,7 @@
       "name_cn": "古堡勇士莱特雅斯",
       "tags": [
         "1984",
+        "日本动画公司",
         "旧物"
       ],
       "infobox": [
@@ -704,6 +746,7 @@
       "id": 220528,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

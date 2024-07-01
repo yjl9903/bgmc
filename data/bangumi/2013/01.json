@@ -22,10 +22,10 @@
         "2013",
         "AIC",
         "TV",
-        "WEB",
         "neta",
         "二期",
         "今泉賢一",
+        "今泉贤一",
         "十月番",
         "吉田玲子",
         "后宫",
@@ -149,6 +149,7 @@
       "id": 48289,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -169,11 +170,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/a0/2567_Vg1Y8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/a0/2567_Vg1Y8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dd/a0/2567_Vg1Y8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/a0/2567_Vg1Y8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a0/2567_Vg1Y8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/a0/2567_090zo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/a0/2567_090zo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/a0/2567_090zo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/a0/2567_090zo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a0/2567_090zo.jpg"
           },
           "name": "生徒会の一存",
           "name_cn": "学生会的一己之见",
@@ -439,6 +440,7 @@
       "id": 54435,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -546,8 +548,8 @@
         "百合",
         "萌",
         "迷你偶像",
-        "長谷川明子",
         "面都泡不熟",
+        "音乐",
         "骗钱大师"
       ],
       "infobox": [
@@ -588,6 +590,7 @@
       "id": 52586,
       "eps": 64,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -913,6 +916,7 @@
       "id": 55783,
       "eps": 59,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1159,9 +1163,8 @@
       },
       "summary": "一次意外的自来水厂污染，打破了屌丝青年白小飞的平淡生活。面对前所未闻超强大尸兄，小飞毅然踏上了寻找女友的道路。但途中困难重重，身为普通人类的小飞渐渐力不从心。\r\n在注射了从网上购买的人体强化药剂后，自身潜能逐渐爆发。过五关斩六将，打败了各式各样的变异大尸兄。变异的源头幕后黑手也渐渐显露除了其锋利的獠牙……",
       "name": "尸兄",
-      "name_cn": "",
+      "name_cn": "尸兄",
       "tags": [
-        "2010s",
         "2013",
         "2013年",
         "2013年1月",
@@ -1171,7 +1174,7 @@
         "丧失",
         "丧尸",
         "中国",
-        "动画剧集",
+        "动画",
         "吐槽",
         "国产",
         "国产动画",
@@ -1181,18 +1184,23 @@
         "官方吐槽超多",
         "宝木中阳",
         "尸兄",
-        "山新",
         "战斗",
         "搞笑",
         "泡面番",
         "漫改",
         "漫画改",
         "猎奇",
+        "皇贞季",
         "短片",
+        "童年",
         "腾讯",
         "腾讯动漫"
       ],
       "infobox": [
+        {
+          "key": "中文名",
+          "value": "尸兄"
+        },
         {
           "key": "话数",
           "value": "41"
@@ -1207,21 +1215,86 @@
         },
         {
           "key": "原作",
-          "value": "七度鱼"
+          "value": "贾海波（七度鱼）"
         },
         {
-          "key": "制作",
-          "value": "卢恒宇和李姝洁工作室"
+          "key": "出品人",
+          "value": "邹正宇（Kenzou）"
+        },
+        {
+          "key": "监制",
+          "value": "李筱婷（阿布）（总监制），赵军（摩西）"
+        },
+        {
+          "key": "出品",
+          "value": "腾讯动漫平台（ac.qq.com）"
+        },
+        {
+          "key": "制片人",
+          "value": "赵军（摩西）"
+        },
+        {
+          "key": "配音监督",
+          "value": "皇贞季"
+        },
+        {
+          "key": "脚本",
+          "value": "卢恒宇，李姝洁"
+        },
+        {
+          "key": "人物设定",
+          "value": "马晓东"
+        },
+        {
+          "key": "作画监督",
+          "value": "马晓东，周雪"
+        },
+        {
+          "key": "美术监督",
+          "value": "树小亦，黎宪扬"
+        },
+        {
+          "key": "顾问",
+          "value": "南派三叔"
+        },
+        {
+          "key": "基情支持",
+          "value": "爱奇艺"
         },
         {
           "key": "导演",
-          "value": "卢恒宇"
+          "value": "卢恒宇和李姝洁"
+        },
+        {
+          "key": "推广",
+          "value": "陶昌（tc）"
+        },
+        {
+          "key": "媒体支持",
+          "value": "高澎涛（涛涛）"
+        },
+        {
+          "key": "后期协力",
+          "value": "李姝洁、谢吉、侯育明"
+        },
+        {
+          "key": "字幕",
+          "value": "林美福"
+        },
+        {
+          "key": "剪辑",
+          "value": "李姝洁"
+        },
+        {
+          "key": "音乐",
+          "value": "铭乐工作室、高铭、冯硕、孙玉镜"
         }
       ],
       "total_episodes": 44,
       "id": 62115,
       "eps": 41,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1367,6 +1440,7 @@
       "id": 53890,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1586,6 +1660,7 @@
       "id": 46013,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1829,6 +1904,7 @@
       "id": 52170,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2077,6 +2153,7 @@
       "id": 46011,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2350,6 +2427,7 @@
       "id": 29074,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2650,6 +2728,7 @@
       "id": 43557,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2959,6 +3038,7 @@
       "id": 47685,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3155,7 +3235,7 @@
         "小杉十郎太",
         "搞笑",
         "新番",
-        "日常",
+        "日本动画",
         "杉田智和",
         "森川智之",
         "満仲勧",
@@ -3226,6 +3306,7 @@
       "id": 46829,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3422,6 +3503,7 @@
       "id": 55113,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3647,8 +3729,8 @@
         "2013年1月",
         "AIC",
         "TV",
+        "あおしまたかし",
         "えのきづ",
-        "アニメ",
         "三泽康广",
         "下野紘",
         "喜剧",
@@ -3742,6 +3824,7 @@
       "id": 48034,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3864,6 +3947,7 @@
         "佐倉綾音",
         "内田彩",
         "内田真礼",
+        "卖肉",
         "原创",
         "原创动画",
         "变身",
@@ -3872,7 +3956,6 @@
         "奇幻",
         "季番",
         "战斗",
-        "日本",
         "深澤秀行",
         "百合",
         "科幻",
@@ -3964,6 +4047,7 @@
       "id": 41245,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4197,6 +4281,7 @@
       "id": 53889,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4269,10 +4354,10 @@
         "宮崎羽衣",
         "恋爱",
         "新田恵海",
-        "日本动画",
         "校园",
         "游戏改",
         "游改",
+        "爱情",
         "石倉賢一",
         "续作",
         "肉",
@@ -4333,6 +4418,7 @@
       "id": 43574,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4561,6 +4647,7 @@
       "id": 43197,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4669,7 +4756,6 @@
       "name": "AKB0048 next stage",
       "name_cn": "",
       "tags": [
-        "1月",
         "2013",
         "2013年",
         "2013年1月",
@@ -4684,18 +4770,19 @@
         "サテライト",
         "偶像",
         "冈田麿里",
+        "动画",
         "励志",
         "原创",
         "岡田麿里",
         "平池芳正",
         "年第二季",
+        "战斗",
         "机战",
         "河森正治",
         "渡边麻友",
         "田村由加莉",
         "百合",
         "科幻",
-        "续作",
         "萝卜",
         "轻百合",
         "音乐"
@@ -4726,6 +4813,7 @@
       "id": 54173,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4796,6 +4884,7 @@
         "2013年",
         "2013年1月",
         "TV",
+        "业界",
         "中西伸彰",
         "动画工房",
         "動画工房",
@@ -4804,18 +4893,17 @@
         "宮本佳那子",
         "悠木碧",
         "搞笑",
+        "新番",
         "日常",
         "日本",
         "日本动画",
         "泡面",
         "泡面番",
-        "泡麵番",
         "漫改",
         "漫画少女",
         "漫画改",
         "生活",
         "百合",
-        "短片",
         "竹达彩奈",
         "竹達彩奈",
         "茅野愛衣",
@@ -4888,6 +4976,7 @@
       "id": 39761,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5077,6 +5166,7 @@
       "id": 49294,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5674,7 +5764,6 @@
         "小倉唯",
         "山本裕介",
         "日常",
-        "日笠阳子",
         "日笠陽子",
         "松尾祐輔",
         "松尾祐辅",
@@ -5688,6 +5777,7 @@
         "登山",
         "百合",
         "萌",
+        "轻百",
         "轻百合",
         "运动",
         "阿澄佳奈"
@@ -5899,6 +5989,7 @@
       "id": 41658,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6132,6 +6223,7 @@
       "id": 48669,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6258,6 +6350,7 @@
         "2013年",
         "2013年1月",
         "BL",
+        "STUDIO_DEEN",
         "TV",
         "studiodeen",
         "あべ美幸",
@@ -6282,7 +6375,6 @@
         "神谷浩史",
         "耽美",
         "腐",
-        "腐向",
         "阿部美幸"
       ],
       "infobox": [
@@ -6371,6 +6463,7 @@
       "id": 54438,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6578,11 +6671,11 @@
         "兵部京介",
         "原创",
         "基",
+        "外传",
         "奇幻",
         "季番",
         "战斗",
         "新番",
-        "楠大典",
         "游佐浩二",
         "猪爪慎一",
         "目测带感",
@@ -6654,6 +6747,7 @@
       "id": 52484,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6921,6 +7015,7 @@
         "2013年1月",
         "AMNESIA",
         "AMNESIA(アムネシア)",
+        "Brain",
         "BrainsBase",
         "TV",
         "アニメ",
@@ -6936,7 +7031,6 @@
         "少女系",
         "待田堂子",
         "恋爱",
-        "日野聡",
         "日野聪",
         "柿原彻也",
         "柿原徹也",
@@ -6997,6 +7091,7 @@
       "id": 46452,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7331,6 +7426,7 @@
       "tags": [
         "2013",
         "2013年1月",
+        "FanWorks",
         "TV",
         "冈田磨里",
         "子供向",
@@ -7388,6 +7484,7 @@
       "id": 49282,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7452,7 +7549,7 @@
       },
       "summary": "成为二年级学生的千早和太一等人，首次迎来后辈，在经历着作为前辈的痛苦与喜悦的同时，目标也直指竞争对手学校的强敌。更加充满激情的瑞泽高校歌牌部，将会一如既往地展开活力四射的青春群像剧——",
       "name": "ちはやふる2",
-      "name_cn": "歌牌情缘2",
+      "name_cn": "歌牌情缘 第二季",
       "tags": [
         "2013",
         "2013年1月",
@@ -7460,7 +7557,6 @@
         "TV",
         "乙女向",
         "伪少女真青春",
-        "体育",
         "体育竞技",
         "励志",
         "宫野真守",
@@ -7482,20 +7578,18 @@
         "细谷佳正",
         "花牌",
         "花牌情缘",
+        "茅野爱衣",
         "运动",
         "青春"
       ],
       "infobox": [
         {
           "key": "中文名",
-          "value": "歌牌情缘2"
+          "value": "歌牌情缘 第二季"
         },
         {
           "key": "别名",
           "value": [
-            {
-              "v": "歌牌情缘 第二季"
-            },
             {
               "v": "花牌情缘 第二季"
             }
@@ -7594,6 +7688,7 @@
       "id": 41568,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7691,7 +7786,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/65/238815_Vaf2J.jpg"
           },
           "name": "ちはやふる3",
-          "name_cn": "歌牌情缘3",
+          "name_cn": "歌牌情缘 第三季",
           "relation": "续集",
           "type": 2,
           "id": 238815
@@ -7745,7 +7840,7 @@
         "后宫",
         "子安秀明",
         "小说改",
-        "废萌",
+        "恋爱",
         "搞笑",
         "新番",
         "日常",
@@ -7847,6 +7942,7 @@
       "id": 48031,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8047,6 +8143,7 @@
       "id": 55358,
       "eps": 38,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8116,9 +8213,9 @@
         "2013",
         "2013年",
         "2013年1月",
-        "2013年一月番",
         "BL",
         "BL漫画",
+        "DAXProduction",
         "HOTLINE",
         "TV",
         "ぴっぷや",
@@ -8126,7 +8223,6 @@
         "动画",
         "回报腐女",
         "基",
-        "山下憲一",
         "报复腐女",
         "搞笑",
         "日本",
@@ -8140,6 +8236,7 @@
         "漫画改编",
         "猎奇",
         "石田とあさくら",
+        "石田与朝仓",
         "耽美",
         "腐",
         "节操"
@@ -8206,6 +8303,7 @@
       "id": 54602,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8237,6 +8335,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 80881
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/6c/497775_8Z8cY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/6c/497775_8Z8cY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/98/6c/497775_8Z8cY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/6c/497775_8Z8cY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/6c/497775_8Z8cY.jpg"
+          },
+          "name": "ドキドキドク",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 497775
         }
       ]
     }
@@ -8266,27 +8378,27 @@
         "OFFLINE",
         "TV",
         "line",
-        "tag1",
         "tag2",
-        "tag3",
+        "“人设”略简",
         "アニメ",
         "一月番",
+        "上班族的各种琐碎趣事",
         "动画",
         "小学館",
         "才是王道",
         "搞笑",
         "新番",
-        "日本",
         "日本动画",
         "末廣健一郎",
         "森川智之",
-        "治愈",
         "泡面",
         "泡面番",
         "泡麵",
         "牙医",
+        "田辺茂範",
         "职场",
         "飛田展男",
+        "鼻毛",
         "～サラリーマン～"
       ],
       "infobox": [
@@ -8331,6 +8443,7 @@
       "id": 57150,
       "eps": 114,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8570,6 +8683,7 @@
       "id": 46012,
       "eps": 20,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8820,7 +8934,8 @@
       "tags": [
         "勝鬨スタジオ",
         "没见着下载",
-        "泡面番"
+        "泡面番",
+        "胜哄Studio"
       ],
       "infobox": [
         {
@@ -8864,6 +8979,7 @@
       "id": 58871,
       "eps": 102,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8896,8 +9012,9 @@
         "pockmon",
         "pokemon",
         "中村悠一",
-        "冒险",
         "冨岡淳広",
+        "动画",
+        "原创",
         "口袋妖怪",
         "大谷育江",
         "奇幻",
@@ -8910,7 +9027,6 @@
         "热血",
         "矢岛哲生",
         "神奇宝贝",
-        "竞技",
         "童年",
         "精灵宝可梦",
         "续作",
@@ -8967,12 +9083,25 @@
         {
           "key": "动画制作",
           "value": "OLM Team Kato"
+        },
+        {
+          "key": "企画",
+          "value": "福永晋、浅井認"
+        },
+        {
+          "key": "制片人",
+          "value": "佐々木亮、田中茂裕、村椿拓郎"
+        },
+        {
+          "key": "设定",
+          "value": "【设定协力】ゲームフリーク、株式会社ポケモン、【动画宝可梦设定】一石小百合、松原徳弘、毛利和昭"
         }
       ],
       "total_episodes": 14,
       "id": 61429,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9142,6 +9271,7 @@
       "id": 63122,
       "eps": 15,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9182,11 +9312,11 @@
         "季番",
         "小野友树",
         "无趣",
+        "日常",
         "日本",
         "日本动画",
         "本多真梨子",
         "校园",
-        "治愈",
         "泡面",
         "泡面番",
         "泡麵",
@@ -9246,6 +9376,7 @@
       "id": 55354,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9277,6 +9408,7 @@
         "7分",
         "AIC",
         "XEBEC",
+        "XEBEC、AIC",
         "アニメ映画",
         "七分",
         "出渊裕",
@@ -9292,7 +9424,6 @@
         "星辰大海",
         "村井贞之",
         "桑岛法子",
-        "桑島法子",
         "森田繁",
         "榎本明广",
         "科幻",
@@ -9330,6 +9461,7 @@
       "id": 51945,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9427,9 +9559,9 @@
         "战斗",
         "日常",
         "日本",
-        "日本动画",
         "校园",
         "梶裕贵",
+        "死肥宅",
         "温泉",
         "溫泉",
         "热血",
@@ -9487,6 +9619,7 @@
       "id": 49362,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9604,6 +9737,7 @@
       "id": 218963,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9678,7 +9812,7 @@
         "战斗",
         "日本",
         "日本动画",
-        "浪川大輔",
+        "智斗",
         "漫画改",
         "热血",
         "猎人",
@@ -9727,17 +9861,18 @@
       "id": 44705,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/a6/21032_d6ETE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/a6/21032_d6ETE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fb/a6/21032_d6ETE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/a6/21032_d6ETE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/a6/21032_d6ETE.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/94/23640_T3pB2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/94/23640_T3pB2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fb/94/23640_T3pB2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/94/23640_T3pB2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/94/23640_T3pB2.jpg"
           },
           "name": "HUNTER×HUNTER",
           "name_cn": "猎人",
@@ -9835,8 +9970,8 @@
         "乱斗",
         "动画",
         "原创",
-        "后宫",
         "型月",
+        "奇幻",
         "奈须きのこ",
         "岸誠二",
         "岸诚二",
@@ -9846,10 +9981,10 @@
         "日本",
         "日本动画",
         "月姬",
+        "森田和明",
         "游戏改",
         "漫改",
         "漫画改",
-        "蘑菇",
         "骗钱"
       ],
       "infobox": [
@@ -9922,6 +10057,7 @@
       "id": 61545,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -10037,6 +10173,7 @@
       "id": 113438,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

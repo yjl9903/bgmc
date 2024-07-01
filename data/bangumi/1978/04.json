@@ -21,6 +21,7 @@
         "SF",
         "TV",
         "TVA",
+        "东映动画",
         "富田祐弘",
         "日本动画",
         "旧物",
@@ -67,6 +68,7 @@
       "id": 44932,
       "eps": 73,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -84,6 +86,34 @@
           "relation": "番外篇",
           "type": 2,
           "id": 265347
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/6d/499531_CiZ7r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/6d/499531_CiZ7r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/6d/499531_CiZ7r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/6d/499531_CiZ7r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/6d/499531_CiZ7r.jpg"
+          },
+          "name": "スタージンガーの歌 / 姫のためなら",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499531
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/95/499534_hMHdM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/95/499534_hMHdM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/95/499534_hMHdM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/95/499534_hMHdM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/95/499534_hMHdM.jpg"
+          },
+          "name": "宇宙の戦士スタージンガー",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499534
         }
       ]
     }
@@ -105,8 +135,8 @@
       "name": "闘将ダイモス",
       "name_cn": "斗将戴莫斯",
       "tags": [
-        "1970-1979",
         "1978",
+        "1978年4月",
         "70",
         "70s",
         "70年代",
@@ -115,14 +145,15 @@
         "SUNRISE",
         "TV",
         "东映",
+        "东映エージエンシー",
         "五武冬史",
         "伟大的三轮长官",
         "原创",
+        "婆",
         "富野由悠季",
         "巴姆星人",
         "待補0",
         "日本动画",
-        "旧物",
         "机战",
         "東映アニメーション",
         "神田武幸",
@@ -130,7 +161,6 @@
         "科幻",
         "耻Q",
         "萝卜",
-        "豆浆",
         "铃木良武",
         "長浜忠夫",
         "长滨忠夫",
@@ -163,13 +193,18 @@
         },
         {
           "key": "製作",
-          "value": "テレビ朝日、東映、東映エージエンシー"
+          "value": "テレビ朝日、東映、東映エージエンシー 製作協力：東北新社、日本サンライズ 製作担当：岩崎正美 製作担当補：中川宏徳"
+        },
+        {
+          "key": "企画",
+          "value": "落合兼武（テレビ朝日）、飯島敬、鈴木武幸（東映）"
         }
       ],
       "total_episodes": 44,
       "id": 37180,
       "eps": 44,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -327,6 +362,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 483557
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/ed/494043_e080r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/ed/494043_e080r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/ed/494043_e080r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/ed/494043_e080r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/ed/494043_e080r.jpg"
+          },
+          "name": "テレビオリジナルBGMコレクション 闘将ダイモス",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 494043
         }
       ]
     }
@@ -353,6 +402,7 @@
         "古谷徹",
         "日本アニメーション",
         "日本动画",
+        "日本动画公司",
         "旧物",
         "曽我部和行",
         "本橋浩一",
@@ -392,6 +442,7 @@
       "id": 65264,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -435,10 +486,10 @@
         "70s",
         "70年代",
         "80年代前",
-        "NipponAnimation",
         "TV",
         "TV2",
         "TVA",
+        "剧集",
         "动画",
         "原创",
         "大冢康生",
@@ -450,13 +501,13 @@
         "日本",
         "日本アニメーション",
         "日本动画",
+        "日本动画公司",
         "未来少年柯南",
         "社会",
         "科幻",
         "童年",
         "经典",
         "补",
-        "远古",
         "销量",
         "高畑勋",
         "高畑勲"
@@ -492,7 +543,7 @@
         },
         {
           "key": "原作",
-          "value": "アレグサンダー・ケイ 「残された人びと」"
+          "value": "アレグサンダー・ケイ（Alexander Key） 「残された人びと」"
         },
         {
           "key": "导演",
@@ -535,25 +586,30 @@
           "value": "日本アニメーション株式会社"
         },
         {
-          "key": "制作",
+          "key": "製作",
           "value": "本橋浩一（日本アニメーション）"
+        },
+        {
+          "key": "制片人",
+          "value": "中島順三\\遠藤重夫"
         }
       ],
       "total_episodes": 26,
       "id": 10389,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/dc/25418_tYe82.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/dc/25418_tYe82.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dd/dc/25418_tYe82.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/dc/25418_tYe82.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/dc/25418_tYe82.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/dc/25418_VirB5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/dc/25418_VirB5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/dc/25418_VirB5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/dc/25418_VirB5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/dc/25418_VirB5.jpg"
           },
           "name": "未来少年コナン特別篇 巨大機ギガントの復活",
           "name_cn": "未来少年柯南特别篇 巨大机毒蛾号的复活",
@@ -577,11 +633,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/ce/47668_sskc2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/ce/47668_sskc2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cf/ce/47668_sskc2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/ce/47668_sskc2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/ce/47668_sskc2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/ce/47668_90ZIB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/ce/47668_90ZIB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/ce/47668_90ZIB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/ce/47668_90ZIB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/ce/47668_90ZIB.jpg"
           },
           "name": "未来少年コナンII タイガアドベンチャー",
           "name_cn": "未来少年柯南II 泰加大冒险",

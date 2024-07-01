@@ -92,6 +92,7 @@
       "id": 192156,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -191,7 +192,6 @@
         "2019年3月",
         "SEVEN・ARCS",
         "SevenArcs",
-        "movie",
         "アニメ映画",
         "サイトウケンジ",
         "七人魔法使",
@@ -205,6 +205,7 @@
         "奇幻",
         "战斗",
         "日本动画",
+        "日笠陽子",
         "東山奈央",
         "松岡禎丞",
         "校园",
@@ -247,6 +248,7 @@
       "id": 252432,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -400,9 +402,7 @@
         "2018",
         "2019",
         "2019年",
-        "2019年1月",
         "2019年3月",
-        "2019年4月",
         "Bibury",
         "BiburyAnimationStudios",
         "Frontwing",
@@ -411,6 +411,7 @@
         "TV",
         "グリザイア",
         "バイブリーアニメーションスタジオ",
+        "佐倉綾音",
         "剧场版",
         "动画",
         "南条爱乃",
@@ -426,6 +427,7 @@
         "游戏改",
         "灰色系列",
         "灰色：幻影扳机",
+        "种崎敦美",
         "续作"
       ],
       "infobox": [
@@ -484,6 +486,7 @@
       "id": 219263,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -637,15 +640,15 @@
         "2019",
         "2019年",
         "2019年3月",
-        "2020",
         "5高中后期",
         "PIERROT",
         "StudioPierrot",
+        "anime",
         "ぴえろ",
         "中村悠一",
         "入野自由",
         "剧场版",
-        "剧场版续作",
+        "动画",
         "原创",
         "声优",
         "小野大輔",
@@ -675,12 +678,22 @@
           "value": [
             {
               "v": "阿松 剧场版"
+            },
+            {
+              "v": "Mr. Osomatsu the Movie"
+            },
+            {
+              "v": "Eiga no Osomatsu-san"
             }
           ]
         },
         {
           "key": "上映年度",
           "value": "2019年3月15日"
+        },
+        {
+          "key": "话数",
+          "value": "1"
         },
         {
           "key": "官方网站",
@@ -709,20 +722,31 @@
         {
           "key": "动画制作",
           "value": "ぴえろ"
-        },
-        {
-          "key": "话数",
-          "value": "1"
         }
       ],
       "total_episodes": 7,
       "id": 257740,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/16/174722_IIAIW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/16/174722_IIAIW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/57/16/174722_IIAIW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/16/174722_IIAIW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/16/174722_IIAIW.jpg"
+          },
+          "name": "おそ松さん",
+          "name_cn": "阿松",
+          "relation": "书籍",
+          "type": 1,
+          "id": 174722
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/18/212609_tMiIC.jpg",
@@ -832,7 +856,9 @@
         "タツノコプロ",
         "偶像",
         "剧场版",
+        "原创",
         "寺島惇太",
+        "总集篇",
         "斉藤壮馬",
         "日本动画",
         "畠中祐",
@@ -870,6 +896,7 @@
       "id": 249246,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -883,7 +910,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/53/249245_wBXfw.jpg"
           },
           "name": "KING OF PRISM -Shiny Seven Stars-",
-          "name_cn": "",
+          "name_cn": "绫镜少男 KING OF PRISM -Shiny Seven Stars",
           "relation": "全集",
           "type": 2,
           "id": 249245
@@ -955,7 +982,9 @@
         "タツノコプロ",
         "偶像",
         "剧场版",
+        "原创",
         "寺島惇太",
+        "总集篇",
         "斉藤壮馬",
         "日本动画",
         "畠中祐",
@@ -992,6 +1021,7 @@
       "id": 249247,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1005,7 +1035,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/53/249245_wBXfw.jpg"
           },
           "name": "KING OF PRISM -Shiny Seven Stars-",
-          "name_cn": "",
+          "name_cn": "绫镜少男 KING OF PRISM -Shiny Seven Stars",
           "relation": "全集",
           "type": 2,
           "id": 249245
@@ -1159,6 +1189,7 @@
       "id": 239926,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1362,6 +1393,7 @@
       "id": 275359,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1426,16 +1458,16 @@
         "一周目",
         "八鍬新之介",
         "八锹新之介",
-        "冒险",
         "剧场版",
         "劇場版",
+        "动画",
         "动画电影",
         "原创",
         "哆啦A梦",
         "奇幻",
         "日本",
         "日本动画",
-        "映画",
+        "正太",
         "漫改",
         "漫画改",
         "电影",
@@ -1589,6 +1621,7 @@
       "id": 263808,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1738,6 +1771,7 @@
       "id": 270473,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1804,7 +1838,6 @@
         "山川吉樹",
         "恋爱",
         "情怀",
-        "押切莲介",
         "押切蓮介",
         "搞笑",
         "无口",
@@ -1818,6 +1851,7 @@
         "白学",
         "续作",
         "街机游戏",
+        "鈴代紗弓",
         "青春",
         "高分少女"
       ],
@@ -1859,6 +1893,7 @@
       "id": 262277,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1980,6 +2015,7 @@
         "东映动画",
         "光之美少女",
         "剧场版",
+        "动画电影",
         "原创",
         "子供向",
         "小松未可子",
@@ -1995,7 +2031,6 @@
         "百合",
         "表",
         "貝澤幸男",
-        "贝泽幸男",
         "魔法少女"
       ],
       "infobox": [
@@ -2047,6 +2082,7 @@
       "id": 270279,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2201,6 +2237,7 @@
       "id": 424944,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2375,6 +2412,7 @@
       "id": 260946,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2498,6 +2536,7 @@
       "id": 294137,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2564,6 +2603,7 @@
       "name": "デビル メイ クライ 5",
       "name_cn": "鬼泣5",
       "tags": [
+        "(2019)",
         "2019",
         "2020",
         "20小时",
@@ -2590,7 +2630,6 @@
         "日本",
         "游戏",
         "经典",
-        "邪道",
         "鬼泣",
         "鬼泣5",
         "魔幻"
@@ -2685,12 +2724,17 @@
         {
           "key": "机械设定",
           "value": "河森正治（Devil Breakers）"
+        },
+        {
+          "key": "发行",
+          "value": "CAPCOM，中电博亚（中国大陆Steam版）"
         }
       ],
       "total_episodes": 0,
       "id": 249292,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,
@@ -2831,7 +2875,7 @@
           },
           "name": "デビル メイ クライ 5 スペシャルエディション",
           "name_cn": "鬼泣5 特别版",
-          "relation": "不同演绎",
+          "relation": "游戏",
           "type": 4,
           "id": 333684
         },
@@ -2906,7 +2950,6 @@
         "Rejet",
         "Switch",
         "オトメイト",
-        "乙女",
         "乙女ゲーム",
         "乙女向",
         "全年龄",
@@ -2967,6 +3010,7 @@
       "id": 260353,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,
@@ -3062,9 +3106,12 @@
       "name_cn": "最终幻想15 亚丹篇",
       "tags": [
         "2019",
+        "ARPG",
         "JRPG",
         "PS4",
+        "Square.Enix",
         "SquareEnix",
+        "岩崎琢",
         "扩展包"
       ],
       "infobox": [
@@ -3097,6 +3144,7 @@
       "id": 298124,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,
@@ -3177,8 +3225,8 @@
         "動畫片",
         "国产",
         "国产动画",
+        "国产，恋爱，2019，绘梦，漫改",
         "国漫",
-        "国漫巅峰",
         "奇幻",
         "恋爱",
         "战斗",
@@ -3436,6 +3484,7 @@
       "id": 281283,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

@@ -22,6 +22,7 @@
         "1970年七月番",
         "70s",
         "bilibili",
+        "东映动画",
         "剧场版",
         "原画",
         "旧物",
@@ -66,10 +67,26 @@
       "id": 139356,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/fb/497201_V0i8b.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/fb/497201_V0i8b.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c3/fb/497201_V0i8b.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/fb/497201_V0i8b.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/fb/497201_V0i8b.jpg"
+          },
+          "name": "海底3万マイル オリジナル・サウンドトラック",
+          "name_cn": "海底三万里 OST",
+          "relation": "原声集",
+          "type": 3,
+          "id": 497201
+        }
+      ]
     }
   }
 ]

@@ -96,6 +96,7 @@
       "id": 44680,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -250,8 +251,8 @@
         "95-99s",
         "A.P.P.P.",
         "AIC",
+        "AIC、A.P.P.P.",
         "TV",
-        "TVA",
         "中泽一登",
         "中澤一登",
         "久米一成",
@@ -330,6 +331,7 @@
       "id": 12749,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -356,15 +358,15 @@
         "1999",
         "1999年",
         "1999年7月",
-        "20世纪",
         "90s",
         "95-99",
+        "MADHOUSE、TRIANGLESTAFF",
         "MADHouse",
         "TV",
         "TVA",
         "TriangleStaff",
         "trianglestaff&acgt",
-        "佐山聖子",
+        "トライアングルスタッフ",
         "佐藤順一",
         "佐藤顺一",
         "原创",
@@ -462,6 +464,7 @@
       "id": 10412,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -509,8 +512,10 @@
         "TVSP",
         "TVspecial",
         "ルパン三世",
+        "东京电影新社",
         "井上真树夫",
         "井上真樹夫",
+        "剧场版",
         "动画",
         "千叶繁",
         "增山江威子",
@@ -519,17 +524,15 @@
         "搞笑",
         "日本",
         "日本动画",
-        "旧番",
         "栗田貫一",
         "栗田贯一",
-        "梅赛德斯奔驰SSK",
+        "渡边慎一",
         "漫改",
         "漫画改",
         "纳谷悟朗",
         "藤田伸三",
         "赛璐珞",
-        "鲁邦三世",
-        "黑暗"
+        "鲁邦三世"
       ],
       "infobox": [
         {
@@ -568,6 +571,7 @@
       "id": 84987,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -620,6 +624,7 @@
       "name": "劇場版ポケットモンスター 幻のポケモン ルギア爆誕",
       "name_cn": "剧场版 精灵宝可梦：梦幻的精灵宝可梦  洛奇亚爆诞",
       "tags": [
+        "1990s",
         "1999",
         "1999年",
         "1999年7月",
@@ -644,7 +649,6 @@
         "游戏改",
         "湯山邦彦",
         "热血",
-        "皮卡丘",
         "神奇宝贝",
         "神奇宝贝剧场版2",
         "童年",
@@ -683,7 +687,7 @@
         },
         {
           "key": "上映年度",
-          "value": "1999-07-17"
+          "value": "1999年7月17日"
         },
         {
           "key": "片长",
@@ -694,8 +698,18 @@
           "value": "http://www.pokemon-movie.jp/"
         },
         {
-          "key": "其他",
-          "value": "美国：2000-07-21，台湾、香港：2001-01-20，韩国：2001-08-11"
+          "key": "其他上映年度",
+          "value": [
+            {
+              "v": "美国：2000年7月21日"
+            },
+            {
+              "v": "台湾、香港：2001年1月20日"
+            },
+            {
+              "v": "韩国：2001年8月11日"
+            }
+          ]
         },
         {
           "key": "人物设定",
@@ -722,6 +736,7 @@
       "id": 3023,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -739,6 +754,34 @@
           "relation": "主线故事",
           "type": 2,
           "id": 3019
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/86/3022_D8Pvc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/86/3022_D8Pvc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c8/86/3022_D8Pvc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/86/3022_D8Pvc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/86/3022_D8Pvc.jpg"
+          },
+          "name": "劇場版ポケットモンスター ミュウツーの逆襲",
+          "name_cn": "剧场版 精灵宝可梦：超梦的逆袭",
+          "relation": "前传",
+          "type": 2,
+          "id": 3022
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/52/3024_uHcRT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/52/3024_uHcRT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e5/52/3024_uHcRT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/52/3024_uHcRT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/52/3024_uHcRT.jpg"
+          },
+          "name": "劇場版ポケットモンスター 結晶塔の帝王 ENTEI",
+          "name_cn": "剧场版 精灵宝可梦：结晶塔的帝王",
+          "relation": "续集",
+          "type": 2,
+          "id": 3024
         },
         {
           "images": {
@@ -778,6 +821,7 @@
         "1999年",
         "1999年7月",
         "JUMP",
+        "STUDIO_DEEN",
         "Studio-DEEN",
         "Studio.DEEN",
         "TV",
@@ -791,7 +835,6 @@
         "搅基",
         "搞笑",
         "日本动画",
-        "星空卫视",
         "星空台",
         "漫画改",
         "石田彰",
@@ -882,6 +925,7 @@
       "id": 8719,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1047,6 +1091,7 @@
       "name_cn": "生日快乐",
       "tags": [
         "1999",
+        "MagicBus",
         "出崎哲",
         "剧场版",
         "旧物",
@@ -1140,6 +1185,7 @@
       "id": 49483,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1223,6 +1269,7 @@
       "id": 27773,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1279,11 +1326,11 @@
       "date": "1999-07-05",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/33/54158_d1EMm.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/33/54158_d1EMm.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/2c/33/54158_d1EMm.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/33/54158_d1EMm.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/33/54158_d1EMm.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/33/54158_xOmC6.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/33/54158_xOmC6.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2c/33/54158_xOmC6.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/33/54158_xOmC6.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/33/54158_xOmC6.jpg"
       },
       "summary": "七千草菜々子は両親が作った莫大な借金のせいで天才外科医の拝狂児に肉体の108箇所を担保として取られてしまう（この設定は『どろろ』に因む）。菜々子は見習い看護師として毎日激しい訓練を課せられる。狂児は菜々子を鍛え上げ、自身が発明したロボット『ビーナス2000』に生体移植しようとしていたのだった。",
       "name": "菜々子解体診書",
@@ -1291,6 +1338,7 @@
       "tags": [
         "1900s",
         "1999",
+        "2000年前",
         "OVA",
         "OVA-01",
         "RADIX",
@@ -1313,12 +1361,11 @@
         "矢野义隆",
         "福利个鬼",
         "科幻",
-        "笑",
         "肉",
         "萌",
         "萌番",
-        "表番",
-        "黑田康弘"
+        "萝卜",
+        "表番"
       ],
       "infobox": [
         {
@@ -1382,6 +1429,7 @@
       "id": 54158,
       "eps": 6,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1395,16 +1443,17 @@
       "date": "1999-07-12",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/7b/87897_1UX3O.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/7b/87897_1UX3O.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/41/7b/87897_1UX3O.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/7b/87897_1UX3O.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/7b/87897_1UX3O.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/7b/87897_77257.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/7b/87897_77257.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/41/7b/87897_77257.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/7b/87897_77257.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/7b/87897_77257.jpg"
       },
       "summary": "前作で、天野原町の危機を救ったミトと葵。しかし、葵の身体が女になってしまい、彼が銀河星王家の王位継承者だったことも判明したことから、銀河星王家の女王と女子高生を掛け持つ日々を送りつつも、平穏な日々が過ぎていた天野原町。そんなある日、葵の地位を狙って、銀河星王家初代女王・陽怒が現れ、宇宙規模のバトルが巻き起こる。",
       "name": "宇宙海賊ミトの大冒険 2人の女王様",
       "name_cn": "宇宙海盗大冒险 两个女王",
       "tags": [
+        "10+",
         "1999",
         "1999年7月",
         "SF",
@@ -1512,17 +1561,18 @@
       "id": 87897,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/67/86977_PyPrq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/67/86977_PyPrq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/39/67/86977_PyPrq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/67/86977_PyPrq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/67/86977_PyPrq.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/67/86977_J6Zmb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/67/86977_J6Zmb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/39/67/86977_J6Zmb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/67/86977_J6Zmb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/67/86977_J6Zmb.jpg"
           },
           "name": "宇宙海賊ミトの大冒険",
           "name_cn": "宇宙海盗大冒险",
@@ -1564,13 +1614,14 @@
       "name": "ホーホケキョ となりの山田くん",
       "name_cn": "我的邻居山田君",
       "tags": [
+        "1990s",
         "1999",
         "1999年",
-        "1999年7月",
         "90年代",
         "GHIBLI",
         "アニメ映画",
         "スタジオジブリ",
+        "上世纪",
         "剧场版",
         "动画",
         "动画电影",
@@ -1589,7 +1640,6 @@
         "治愈",
         "漫改",
         "漫画改",
-        "田辺修",
         "电影",
         "矢野顕子",
         "高畑勋",
@@ -1644,6 +1694,7 @@
       "id": 503,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1798,11 +1849,11 @@
       "date": "1999-07-01",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/c4/13342_LJviv.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/c4/13342_LJviv.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/05/c4/13342_LJviv.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/c4/13342_LJviv.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/c4/13342_LJviv.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/c4/13342_4537e.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/c4/13342_4537e.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/05/c4/13342_4537e.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/c4/13342_4537e.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/c4/13342_4537e.jpg"
       },
       "summary": "TVアニメ版『下級生』はUHFアニメとして、1999年7月1日から9月23日まで全13話を放送（日付はサンテレビの場合で、放送局により異なる）。OVA版の続編ではない。シナリオをリセットして3年生の4月から物語を再び始めることで、OVA版で十分に描き切れなかったヒロインとの関係を描いた。また、主人公のキャラクターはOVA版の主人公と重ならないように変更されている。主人公の山口剛とヒロインの南里愛と飯島美雪の関係を描く他、持田真歩子、加納涼子、神山みこ、新藤麗子達とのエピソードも交えて話が展開する。ちなみに、TVアニメ版では主人公よりも年下の南里愛、飯島美雪、持田真歩子の登場回数が多く、その点では真の「下級生」となっていた。\r\n\r\nTV放送のためにOVA版よりも露出は控えめだったが、セルDVD/VHS版では本放送時にはなかったサービスカットが追加されている。その他、本放送時とセルDVD/VHS版との違いとしては、EDテーマを歌うあっぷ^2が出演する「下級生エンドコーナー」（メインスタッフへのインタビューや製作現場の映像も放送されていたが、セルDVD/VHS版には未収録）、あっぷ^2の実写映像が流れていたED（セルDVD/VHS版ではアニメに差し替え・DMM.com等のバンダイチャンネルの配信ではあっぷ^2の実写映像が採用された。）などがある。",
       "name": "下級生",
@@ -1815,20 +1866,20 @@
         "ELF",
         "GAL改",
         "PP_Project",
+        "PPプロジェクト",
         "Soft.Garage",
         "Softgarage",
         "TV",
-        "TVA",
         "pinkpineapple",
         "下级生",
         "动",
         "动画",
         "后宫",
         "季番",
-        "年",
         "恋爱",
         "日本",
         "日本动画",
+        "旧番",
         "游戏改",
         "游戏改编",
         "童年",
@@ -1929,6 +1980,7 @@
       "id": 13342,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1963,11 +2015,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/1c/100660_GO71b.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/1c/100660_GO71b.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a6/1c/100660_GO71b.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/1c/100660_GO71b.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/1c/100660_GO71b.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/1c/100660_NPH61.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/1c/100660_NPH61.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a6/1c/100660_NPH61.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/1c/100660_NPH61.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/1c/100660_NPH61.jpg"
           },
           "name": "エルフ版 下級生 あなただけを見つめて…",
           "name_cn": "下级生",
@@ -2000,17 +2052,20 @@
         "1999年7月",
         "7JA",
         "Group",
+        "GroupTac",
         "TV",
         "TVB",
         "TVB黑历史。。",
         "Tac",
         "グループ・タック",
         "動畫",
+        "在电视上断断续续看过",
         "子供向",
         "我没话说....",
         "日本",
         "日本动画",
         "旧物",
+        "星空卫视",
         "本郷みつる",
         "杂",
         "沒看全",
@@ -2042,6 +2097,7 @@
       "id": 36011,
       "eps": 91,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2067,7 +2123,7 @@
       "tags": [
         "08MS",
         "1999",
-        "1999年7月",
+        "1999年",
         "2022",
         "90年代",
         "GUNDAM",
@@ -2076,11 +2132,11 @@
         "SUNRISE",
         "robot",
         "サンライズ",
+        "佐藤淳",
         "剧场版",
         "动画",
         "北嶋博明",
         "原创",
-        "富野由悠季",
         "川元利浩",
         "战争",
         "日升",
@@ -2126,6 +2182,7 @@
       "id": 36358,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2168,6 +2225,7 @@
         "1999年",
         "1999年7月",
         "1999年七月番",
+        "TMSEntertainment",
         "剧场版",
         "子供向"
       ],
@@ -2185,6 +2243,7 @@
       "id": 89709,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2251,6 +2310,9 @@
       "name": "それいけ!アンパンマン 勇気の花がひらくとき",
       "name_cn": "面包超人：当勇气之花朵绽放时",
       "tags": [
+        "1999",
+        "TMSEntertainment",
+        "东京电影",
         "旧物"
       ],
       "infobox": [
@@ -2275,6 +2337,7 @@
       "id": 318328,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2365,6 +2428,8 @@
         "石塚运升",
         "石塚運昇",
         "稲荷昭彦",
+        "补番",
+        "西泽晋",
         "西澤晋",
         "資源已取得",
         "高木涉",
@@ -2428,6 +2493,7 @@
       "id": 82524,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2484,11 +2550,13 @@
         "1990s",
         "1999",
         "OV",
+        "OVA",
         "OV，",
         "X",
-        "円谷プロダクション",
+        "movie",
         "冬木透",
         "剧场版",
+        "剧情",
         "圆谷",
         "大岡新一",
         "太田愛",
@@ -2496,18 +2564,16 @@
         "奥特曼",
         "奥特曼之巅峰",
         "奥特赛文",
-        "奥田兼久",
         "日剧",
         "武上純希",
         "武上纯希",
         "特摄",
         "特撮",
         "神作",
+        "科幻",
         "赛文",
         "高島幹雄",
-        "，",
         "，七主席",
-        "，悬疑",
         "，成人向",
         "，黑暗系"
       ],
@@ -2557,10 +2623,25 @@
       "id": 73914,
       "eps": 6,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 6,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/0e/1356_N6OWw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/0e/1356_N6OWw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/98/0e/1356_N6OWw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/0e/1356_N6OWw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/0e/1356_N6OWw.jpg"
+          },
+          "name": "ウルトラセブン",
+          "name_cn": "奥特赛文",
+          "relation": "主线故事",
+          "type": 6,
+          "id": 1356
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/68/189210_pbVen.jpg",

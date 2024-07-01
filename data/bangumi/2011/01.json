@@ -23,7 +23,6 @@
         "TV",
         "TVA",
         "XEBEC",
-        "[NBG]",
         "乳摇",
         "井上",
         "井上麻里奈",
@@ -43,6 +42,7 @@
         "肉",
         "肉番",
         "胸大",
+        "补番",
         "财色兼备",
         "赌博",
         "赌场"
@@ -139,6 +139,7 @@
       "id": 10074,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -306,6 +307,7 @@
       "id": 9783,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -521,6 +523,7 @@
       "id": 9781,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -669,6 +672,7 @@
         "凶残肉番",
         "卖肉",
         "后宫",
+        "奇幻",
         "战姬",
         "战斗",
         "有血有肉",
@@ -678,7 +682,6 @@
         "漫改",
         "漫画改",
         "破鞋",
-        "福利",
         "肉",
         "肉番",
         "能登",
@@ -765,6 +768,7 @@
       "id": 10040,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -973,6 +977,7 @@
       "id": 9774,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1226,6 +1231,7 @@
       "id": 9779,
       "eps": 60,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1454,12 +1460,12 @@
         "百合",
         "神作",
         "致郁",
-        "荡漾",
         "蒼樹うめ",
         "虚淵玄",
         "虚渊玄",
         "轮回",
         "违和感",
+        "魔法",
         "魔法少女",
         "魔法少女小圆"
       ],
@@ -1471,6 +1477,12 @@
         {
           "key": "别名",
           "value": [
+            {
+              "v": "Mahou Shoujo Madoka Magica"
+            },
+            {
+              "v": "Puella Magi Madoka Magica"
+            },
             {
               "v": "魔法少女MADOKA☆MAGICA"
             },
@@ -1546,24 +1558,12 @@
           "value": "虚淵玄(Nitro+)"
         },
         {
-          "key": "人物原案",
-          "value": "蒼樹うめ"
-        },
-        {
-          "key": "系列监督",
-          "value": "宮本幸裕"
-        },
-        {
           "key": "人物设定",
           "value": "岸田隆宏"
         },
         {
           "key": "总作画监督",
           "value": "谷口淳一郎、高橋美香"
-        },
-        {
-          "key": "原画",
-          "value": "阿部望・神谷智大（动作监督）"
         },
         {
           "key": "构图",
@@ -1582,10 +1582,6 @@
           "value": "稲葉邦彦・金子雄司(1-6)、内藤健(7-12)"
         },
         {
-          "key": "美术设计",
-          "value": "大原盛仁"
-        },
-        {
           "key": "色彩设计",
           "value": "日比野仁、滝沢いづみ"
         },
@@ -1594,56 +1590,20 @@
           "value": "酒井基、倉原昌宏、宋守貞"
         },
         {
-          "key": "剪辑",
-          "value": "松原理恵"
-        },
-        {
-          "key": "摄影监督",
-          "value": "江藤慎一郎"
-        },
-        {
-          "key": "音乐",
-          "value": "梶浦由記"
-        },
-        {
-          "key": "音乐制作",
-          "value": "Aniplex"
-        },
-        {
-          "key": "音响监督",
-          "value": "鶴岡陽太"
-        },
-        {
           "key": "分镜",
-          "value": "芦野芳晴、笹木信作、小俣真一、西田正義、七嶋典子、伊藤智彦；协力：龍輪直征、岩崎安利"
+          "value": "芦野芳晴(1/2/3)、笹木信作(4/6/10/12)、小俣真一(5/8)、西田正義(7)、七嶋典子(9)、伊藤智彦(11)；协力：龍輪直征(7)、岩崎安利(7)"
         },
         {
           "key": "演出",
-          "value": "宮本幸裕、向井雅浩、八瀬祐樹、小俣真一、間島崇寛、浅利藤彰、城所聖明、川畑喬、渡邉こと乃；协力：向井雅浩、許平康、川畑喬"
+          "value": "宮本幸裕(1/12)、向井雅浩(2/9)、八瀬祐樹(3/10)、小俣真一(4)、間島崇寛(5)、浅利藤彰(6)、城所聖明(7)、川畑喬(8)、渡邉こと乃(11)；协力：向井雅浩(5)、許平康(9)、川畑喬(11)"
         },
         {
           "key": "作画监督",
           "value": "江畑諒真、高橋美香、実原登、鳥山冬美、潮月一也、神谷智大、小関雅、本多美乃、松本麻友子、小菅和久、宮嶋仁志、福永純一、小林亮、門智昭、近藤優次、松本朋之、片山みゆき、牧孝雄、松本元気、岩崎安利、伊藤良明、半澤淳、関口雅浩、宮前真一、藤澤俊幸、谷口淳一郎"
         },
         {
-          "key": "音效",
-          "value": "田中秀実"
-        },
-        {
-          "key": "录音",
-          "value": "矢野さとし"
-        },
-        {
-          "key": "アソシエイトプロデューサー",
+          "key": "副制片人",
           "value": "柏田真一郎、淀明子、小森規雄、小岐須泰世、大嶋実句、前田俊博"
-        },
-        {
-          "key": "制作管理",
-          "value": "岡田康弘（制作デスク）"
-        },
-        {
-          "key": "设定制作",
-          "value": "宗宮一輝"
         },
         {
           "key": "OP・ED 分镜",
@@ -1674,10 +1634,39 @@
       "id": 9717,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/5b/62586_1M1Zm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/5b/62586_1M1Zm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ed/5b/62586_1M1Zm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/5b/62586_1M1Zm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/5b/62586_1M1Zm.jpg"
+          },
+          "name": "まんがタイムきらら☆マギカ",
+          "name_cn": "",
+          "relation": "番外篇",
+          "type": 1,
+          "id": 62586
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/b8/491259_ghInI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/b8/491259_ghInI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/69/b8/491259_ghInI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/b8/491259_ghInI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/b8/491259_ghInI.jpg"
+          },
+          "name": "魔法少女まどか☆マギカ Magia Exedra",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 491259
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/f4/421987_Uz3W2.jpg",
@@ -1778,20 +1767,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/5b/62586_1M1Zm.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/5b/62586_1M1Zm.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ed/5b/62586_1M1Zm.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/5b/62586_1M1Zm.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/5b/62586_1M1Zm.jpg"
-          },
-          "name": "まんがタイムきらら☆マギカ",
-          "name_cn": "",
-          "relation": "番外篇",
-          "type": 1,
-          "id": 62586
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/b1/35579_GDMp7.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/b1/35579_GDMp7.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/ea/b1/35579_GDMp7.jpg",
@@ -1806,31 +1781,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/f0/16514_SQ8os.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/f0/16514_SQ8os.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8e/f0/16514_SQ8os.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/f0/16514_SQ8os.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/f0/16514_SQ8os.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/32/52396_8qg3a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/32/52396_8qg3a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5c/32/52396_8qg3a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5c/32/52396_8qg3a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/32/52396_8qg3a.jpg"
           },
-          "name": "TVアニメ 魔法少女まどか☆マギカ Blu-ray＆DVD 第一巻 [完全生産限定版] 特典CD",
-          "name_cn": "TV动画 魔法少女小圆 Blu-ray＆DVD 第一卷 [完全生产限定版] 特典CD",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 16514
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/55/05/10884_q3fMe.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/55/05/10884_q3fMe.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/55/05/10884_q3fMe.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/55/05/10884_q3fMe.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/55/05/10884_q3fMe.jpg"
-          },
-          "name": "コネクト",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 10884
+          "name": "魔法少女まどかマギカ TPS FEATURING 暁美ほむら",
+          "name_cn": "魔法少女小圆 TPS FEATURING 晓美焰",
+          "relation": "游戏",
+          "type": 4,
+          "id": 52396
         },
         {
           "images": {
@@ -1862,17 +1823,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/32/52396_8qg3a.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/32/52396_8qg3a.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5c/32/52396_8qg3a.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5c/32/52396_8qg3a.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/32/52396_8qg3a.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/f0/16514_SQ8os.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/f0/16514_SQ8os.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/f0/16514_SQ8os.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/f0/16514_SQ8os.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/f0/16514_SQ8os.jpg"
           },
-          "name": "魔法少女まどかマギカ TPS FEATURING 暁美ほむら",
-          "name_cn": "魔法少女小圆 TPS FEATURING 晓美焰",
-          "relation": "游戏",
-          "type": 4,
-          "id": 52396
+          "name": "TVアニメ 魔法少女まどか☆マギカ Blu-ray＆DVD 第一巻 [完全生産限定版] 特典CD",
+          "name_cn": "TV动画 魔法少女小圆 Blu-ray＆DVD 第一卷 [完全生产限定版] 特典CD",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 16514
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/55/05/10884_q3fMe.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/55/05/10884_q3fMe.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/55/05/10884_q3fMe.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/55/05/10884_q3fMe.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/55/05/10884_q3fMe.jpg"
+          },
+          "name": "コネクト",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 10884
         },
         {
           "images": {
@@ -1890,17 +1865,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/f7/19656_4Mwt6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/f7/19656_4Mwt6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/07/f7/19656_4Mwt6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/f7/19656_4Mwt6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/f7/19656_4Mwt6.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/84/10885_02sen.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/84/10885_02sen.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/84/10885_02sen.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/84/10885_02sen.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/84/10885_02sen.jpg"
           },
-          "name": "魔法少女まどか☆マギカ3巻完全限定生産版特典ドラマCD「サニーデイライフ」",
-          "name_cn": "TV动画 魔法少女小圆 Blu-ray＆DVD 第三卷 [完全生产限定版] 特典CD",
-          "relation": "广播剧",
+          "name": "Magia",
+          "name_cn": "",
+          "relation": "片尾曲",
           "type": 3,
-          "id": 19656
+          "id": 10885
         },
         {
           "images": {
@@ -1918,20 +1893,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/84/10885_02sen.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/84/10885_02sen.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/38/84/10885_02sen.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/84/10885_02sen.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/84/10885_02sen.jpg"
-          },
-          "name": "Magia",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 10885
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/b4/24923_Wx7Wk.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/b4/24923_Wx7Wk.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/8f/b4/24923_Wx7Wk.jpg",
@@ -1946,73 +1907,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/1c/44693_YS9kU.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/1c/44693_YS9kU.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/31/1c/44693_YS9kU.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/1c/44693_YS9kU.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/1c/44693_YS9kU.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/f7/19656_4Mwt6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/f7/19656_4Mwt6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/07/f7/19656_4Mwt6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/f7/19656_4Mwt6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/f7/19656_4Mwt6.jpg"
           },
-          "name": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
-          "name_cn": "剧场版 魔法少女小圆 [新篇] 叛逆的物语",
-          "relation": "续集",
-          "type": 2,
-          "id": 44693
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/88/96471_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/88/96471_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c0/88/96471_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/88/96471_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/88/96471_jp.jpg"
-          },
-          "name": "魔法少女まどか☆マギカ The Beginning Story",
-          "name_cn": "魔法少女小圆 The Beginning Story",
-          "relation": "相同世界观",
-          "type": 1,
-          "id": 96471
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/fc/16544_5ZuGi.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/fc/16544_5ZuGi.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/aa/fc/16544_5ZuGi.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/fc/16544_5ZuGi.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/fc/16544_5ZuGi.jpg"
-          },
-          "name": "魔法少女まどか☆マギカオリジナルサウンドトラックCD Vol.1",
-          "name_cn": "魔法少女小圆 OST Vol.1",
-          "relation": "原声集",
-          "type": 3,
-          "id": 16544
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/db/46/392210_D04f0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/db/46/392210_D04f0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/db/46/392210_D04f0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/db/46/392210_D04f0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/db/46/392210_D04f0.jpg"
-          },
-          "name": "魔法少女まどか☆マギカ",
-          "name_cn": "魔法少女小圆（星海社文库）",
-          "relation": "书籍",
-          "type": 1,
-          "id": 392210
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/21/22418_38xqY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/21/22418_38xqY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/88/21/22418_38xqY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/21/22418_38xqY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/21/22418_38xqY.jpg"
-          },
-          "name": "魔法少女まどか☆マギカ Blu-ray＆DVD 第5巻 [完全生産限定版] 特典CD",
-          "name_cn": "TV动画 魔法少女小圆 Blu-ray＆DVD 第五卷 [完全生产限定版] 特典CD",
+          "name": "魔法少女まどか☆マギカ3巻完全限定生産版特典ドラマCD「サニーデイライフ」",
+          "name_cn": "TV动画 魔法少女小圆 Blu-ray＆DVD 第三卷 [完全生产限定版] 特典CD",
           "relation": "广播剧",
           "type": 3,
-          "id": 22418
+          "id": 19656
         },
         {
           "images": {
@@ -2030,17 +1935,87 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/26/20797_tJjFF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/26/20797_tJjFF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f1/26/20797_tJjFF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/26/20797_tJjFF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/26/20797_tJjFF.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/fc/16544_5ZuGi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/fc/16544_5ZuGi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/aa/fc/16544_5ZuGi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/fc/16544_5ZuGi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/fc/16544_5ZuGi.jpg"
           },
-          "name": "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.2",
-          "name_cn": "魔法少女小圆 OST Vol.2",
+          "name": "魔法少女まどか☆マギカオリジナルサウンドトラックCD Vol.1",
+          "name_cn": "魔法少女小圆 OST Vol.1",
           "relation": "原声集",
           "type": 3,
-          "id": 20797
+          "id": 16544
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/1c/44693_YS9kU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/1c/44693_YS9kU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/31/1c/44693_YS9kU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/1c/44693_YS9kU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/1c/44693_YS9kU.jpg"
+          },
+          "name": "劇場版 魔法少女まどか☆マギカ [新編] 叛逆の物語",
+          "name_cn": "剧场版 魔法少女小圆 [新篇] 叛逆的物语",
+          "relation": "续集",
+          "type": 2,
+          "id": 44693
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/21/22418_38xqY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/21/22418_38xqY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/88/21/22418_38xqY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/21/22418_38xqY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/21/22418_38xqY.jpg"
+          },
+          "name": "魔法少女まどか☆マギカ Blu-ray＆DVD 第5巻 [完全生産限定版] 特典CD",
+          "name_cn": "TV动画 魔法少女小圆 Blu-ray＆DVD 第五卷 [完全生产限定版] 特典CD",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 22418
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/88/96471_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/88/96471_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c0/88/96471_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/88/96471_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/88/96471_jp.jpg"
+          },
+          "name": "魔法少女まどか☆マギカ The Beginning Story",
+          "name_cn": "魔法少女小圆 The Beginning Story",
+          "relation": "相同世界观",
+          "type": 1,
+          "id": 96471
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/db/46/392210_D04f0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/db/46/392210_D04f0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/db/46/392210_D04f0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/db/46/392210_D04f0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/db/46/392210_D04f0.jpg"
+          },
+          "name": "魔法少女まどか☆マギカ",
+          "name_cn": "魔法少女小圆（星海社文库）",
+          "relation": "书籍",
+          "type": 1,
+          "id": 392210
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/3b/12710_RjJZ6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/3b/12710_RjJZ6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b8/3b/12710_RjJZ6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/3b/12710_RjJZ6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/3b/12710_RjJZ6.jpg"
+          },
+          "name": "魔法少女まどか☆マギカ",
+          "name_cn": "魔法少女小圆",
+          "relation": "书籍",
+          "type": 1,
+          "id": 12710
         },
         {
           "images": {
@@ -2055,6 +2030,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 229843
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/26/20797_tJjFF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/26/20797_tJjFF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/26/20797_tJjFF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/26/20797_tJjFF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/26/20797_tJjFF.jpg"
+          },
+          "name": "魔法少女まどか☆マギカ オリジナルサウンドトラックCD Vol.2",
+          "name_cn": "魔法少女小圆 OST Vol.2",
+          "relation": "原声集",
+          "type": 3,
+          "id": 20797
         },
         {
           "images": {
@@ -2086,17 +2075,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/3b/12710_RjJZ6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/3b/12710_RjJZ6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b8/3b/12710_RjJZ6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/3b/12710_RjJZ6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/3b/12710_RjJZ6.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/48/24358_jcGf7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/48/24358_jcGf7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/48/24358_jcGf7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/48/24358_jcGf7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/48/24358_jcGf7.jpg"
           },
-          "name": "魔法少女まどか☆マギカ",
-          "name_cn": "魔法少女小圆",
-          "relation": "书籍",
-          "type": 1,
-          "id": 12710
+          "name": "魔法少女まどか☆マギカ オリジナルサウンドトラックCDVol.3",
+          "name_cn": "魔法少女小圆 OST Vol.3",
+          "relation": "原声集",
+          "type": 3,
+          "id": 24358
         },
         {
           "images": {
@@ -2114,34 +2103,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/7c/289812_DeKEL.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/7c/289812_DeKEL.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ff/7c/289812_DeKEL.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/7c/289812_DeKEL.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/7c/289812_DeKEL.jpg"
-          },
-          "name": "魔法少女まどか☆マギカ",
-          "name_cn": "魔法少女小圆",
-          "relation": "游戏",
-          "type": 4,
-          "id": 289812
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/48/24358_jcGf7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/48/24358_jcGf7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/48/24358_jcGf7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/48/24358_jcGf7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/48/24358_jcGf7.jpg"
-          },
-          "name": "魔法少女まどか☆マギカ オリジナルサウンドトラックCDVol.3",
-          "name_cn": "魔法少女小圆 OST Vol.3",
-          "relation": "原声集",
-          "type": 3,
-          "id": 24358
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/5b/159690_2mim1.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/5b/159690_2mim1.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/35/5b/159690_2mim1.jpg",
@@ -2153,6 +2114,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 159690
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/7c/289812_DeKEL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/7c/289812_DeKEL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/7c/289812_DeKEL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/7c/289812_DeKEL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/7c/289812_DeKEL.jpg"
+          },
+          "name": "魔法少女まどか☆マギカ",
+          "name_cn": "魔法少女小圆",
+          "relation": "游戏",
+          "type": 4,
+          "id": 289812
         },
         {
           "images": {
@@ -2170,17 +2145,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/5a/52399_TUr6L.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/5a/52399_TUr6L.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2b/5a/52399_TUr6L.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/5a/52399_TUr6L.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/5a/52399_TUr6L.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/8f/18730_P2b7p.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/8f/18730_P2b7p.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/09/8f/18730_P2b7p.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/8f/18730_P2b7p.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/8f/18730_P2b7p.jpg"
           },
-          "name": "魔法少女まどかマギカ TPS FEATURING 美樹さやか＆佐倉杏子",
-          "name_cn": "魔法少女小圆 TPS FEATURING 美树沙耶香＆佐仓杏子",
-          "relation": "游戏",
-          "type": 4,
-          "id": 52399
+          "name": "魔法少女おりこ☆マギカ",
+          "name_cn": "魔法少女织莉子",
+          "relation": "相同世界观",
+          "type": 1,
+          "id": 18730
         },
         {
           "images": {
@@ -2198,17 +2173,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/8f/18730_P2b7p.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/8f/18730_P2b7p.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/09/8f/18730_P2b7p.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/8f/18730_P2b7p.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/8f/18730_P2b7p.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/5a/52399_TUr6L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/5a/52399_TUr6L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2b/5a/52399_TUr6L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/5a/52399_TUr6L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/5a/52399_TUr6L.jpg"
           },
-          "name": "魔法少女おりこ☆マギカ",
-          "name_cn": "魔法少女织莉子",
-          "relation": "相同世界观",
-          "type": 1,
-          "id": 18730
+          "name": "魔法少女まどかマギカ TPS FEATURING 美樹さやか＆佐倉杏子",
+          "name_cn": "魔法少女小圆 TPS FEATURING 美树沙耶香＆佐仓杏子",
+          "relation": "游戏",
+          "type": 4,
+          "id": 52399
         },
         {
           "images": {
@@ -2226,20 +2201,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/93/46290_5x5G5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/93/46290_5x5G5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5b/93/46290_5x5G5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/93/46290_5x5G5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/93/46290_5x5G5.jpg"
-          },
-          "name": "魔法少女かずみ☆マギカ The innocent malice",
-          "name_cn": "魔法少女和美",
-          "relation": "相同世界观",
-          "type": 1,
-          "id": 46290
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/2c/339998_Rokv8.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/2c/339998_Rokv8.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/0e/2c/339998_Rokv8.jpg",
@@ -2251,6 +2212,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 339998
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/93/46290_5x5G5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/93/46290_5x5G5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/93/46290_5x5G5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/93/46290_5x5G5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/93/46290_5x5G5.jpg"
+          },
+          "name": "魔法少女かずみ☆マギカ The innocent malice",
+          "name_cn": "魔法少女和美",
+          "relation": "相同世界观",
+          "type": 1,
+          "id": 46290
         },
         {
           "images": {
@@ -2483,12 +2458,12 @@
         "名作之壁",
         "后宫",
         "小说改",
+        "恋爱",
         "战斗",
         "日笠阳子",
         "机娘",
         "机战",
         "校园",
-        "秋山澪",
         "科幻",
         "肉",
         "花泽香菜",
@@ -2617,6 +2592,7 @@
       "id": 9800,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3017,7 +2993,6 @@
         "兄妹",
         "兄控",
         "动画",
-        "卖肉",
         "后宫",
         "喜多村英梨",
         "妹",
@@ -3034,7 +3009,8 @@
         "肉",
         "腹黑",
         "腹黑妹妹控兄记",
-        "草野紅壱"
+        "草野紅壱",
+        "补番"
       ],
       "infobox": [
         {
@@ -3097,6 +3073,7 @@
       "id": 9801,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3232,14 +3209,14 @@
         "工口三姐妹",
         "工口小学生",
         "我整个人都全力了",
-        "户松遥",
         "搞笑",
         "无下限",
         "日常",
-        "治愈",
+        "校园",
         "淫荡三姐妹",
         "漫改",
         "漫画改",
+        "爆笑",
         "神误会",
         "糟糕",
         "续作",
@@ -3312,6 +3289,7 @@
       "id": 10071,
       "eps": 8,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3410,6 +3388,7 @@
         "2011年1月",
         "TCG",
         "TMS",
+        "TMSEntertainment",
         "TV",
         "VG",
         "Vanguard",
@@ -3433,7 +3412,6 @@
         "磕cp",
         "竞技",
         "脑补基片",
-        "轻腐向",
         "辻初樹",
         "阿部敦"
       ],
@@ -3499,6 +3477,7 @@
       "id": 10225,
       "eps": 65,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3764,7 +3743,6 @@
         "女主萌",
         "好腰",
         "山内重保",
-        "岡本信彦",
         "待研究",
         "战斗",
         "期待",
@@ -3773,6 +3751,7 @@
         "牛木義隆",
         "白根秀樹",
         "芳文社",
+        "茅野愛衣",
         "补番",
         "遠藤綾",
         "露肚子",
@@ -3868,6 +3847,7 @@
       "id": 8990,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4021,7 +4001,6 @@
         "2011",
         "2011年1月",
         "2011年1月番",
-        "FJ",
         "JUMP",
         "SF",
         "StudioPierrot",
@@ -4046,6 +4025,7 @@
         "漫画改",
         "王子",
         "科幻",
+        "花田十辉",
         "马鹿",
         "马鹿王子"
       ],
@@ -4144,6 +4124,7 @@
       "id": 9853,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4335,6 +4316,7 @@
       "id": 8474,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4476,13 +4458,14 @@
         "2011年1月",
         "A-1",
         "A-1Pictures",
-        "A-1_Pictures",
         "FRACTALE",
+        "NTR",
         "SF",
         "TV",
         "noitaminA",
         "世界观",
         "冈田麿里",
+        "动画",
         "原创",
         "吉野弘幸",
         "奇幻",
@@ -4496,7 +4479,6 @@
         "左",
         "治愈",
         "津田美波",
-        "浅沼晋太郎",
         "科幻",
         "花泽香菜",
         "花澤香菜",
@@ -4610,6 +4592,7 @@
       "id": 8218,
       "eps": 11,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4690,22 +4673,21 @@
       "name": "WOLVERINE",
       "name_cn": "金刚狼",
       "tags": [
-        "2010-2019",
         "2011",
-        "2011冬",
         "2011年1月",
         "2011年1月番",
+        "MADHOUSE",
         "MADHouse",
         "Marvel",
-        "Marvel改",
         "TV",
-        "b级",
+        "madhouse",
         "二〇一一年",
         "动画",
         "原创",
         "在心目中的形象崩坏了",
         "我家金刚狼才没有这么OOC",
         "战斗",
+        "抛弃",
         "日本",
         "日本动画",
         "日本漫威",
@@ -4715,6 +4697,7 @@
         "漫画改",
         "狼狼君",
         "疯房子",
+        "科幻",
         "美国",
         "豺狗",
         "豺狼",
@@ -4767,6 +4750,7 @@
       "id": 9850,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4915,6 +4899,7 @@
       "id": 118810,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4992,6 +4977,7 @@
         "アンサー・スタジオ",
         "人生",
         "动画",
+        "动画短片",
         "原创",
         "吉田玲子",
         "唯川恵",
@@ -5007,7 +4993,6 @@
         "文艺",
         "文艺风",
         "日本",
-        "日本动画",
         "短片",
         "细腻",
         "青春"
@@ -5102,6 +5087,7 @@
       "id": 12351,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5199,10 +5185,10 @@
         "平野綾",
         "平野绫",
         "恋爱",
+        "日常",
         "校园",
         "沢城みゆき",
         "治愈",
-        "治愈系",
         "浪川大辅",
         "漫改",
         "漫画改",
@@ -5222,13 +5208,22 @@
           "key": "别名",
           "value": [
             {
+              "v": "只想告诉你 第二季"
+            },
+            {
               "v": "君届2"
+            },
+            {
+              "v": "Kimi ni Todoke 2nd Season"
+            },
+            {
+              "v": "Kimi ni Todoke: From Me to You Season 2"
             }
           ]
         },
         {
           "key": "话数",
-          "value": "13 (12+1SP)"
+          "value": "13"
         },
         {
           "key": "放送开始",
@@ -5247,30 +5242,67 @@
           "value": "2011年3月29日"
         },
         {
-          "key": "系列构成",
-          "value": "金春智子"
+          "key": "Copyright",
+          "value": "©椎名軽穂・集英社／「君に届け」製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "椎名軽穂（「君に届け」／集英社「別冊マーガレット」連載）"
+        },
+        {
+          "key": "导演",
+          "value": "鏑木ひろ"
+        },
+        {
+          "key": "副导演",
+          "value": "長沼範裕"
         },
         {
           "key": "人物设定",
-          "value": "柴田由香"
+          "value": "柴田由香；协力：中村章子、佐藤仁実、長谷川ひとみ、井川麗奈"
         },
         {
-          "key": "美术监督",
-          "value": "竹田悠介"
+          "key": "美术板",
+          "value": "岡本春美"
         },
         {
-          "key": "摄影监督",
-          "value": "田中宏侍"
+          "key": "美术设计",
+          "value": "加藤浩、成田偉保、加藤朋則"
         },
         {
-          "key": "动画制作",
-          "value": "Production I.G"
+          "key": "主题歌演出",
+          "value": "タニザワトモフミ / MAY'S"
+        },
+        {
+          "key": "製作",
+          "value": "「君に届け」製作委員会【D.N.ドリームパートナーズ/日本テレビ（宮崎洋、阿佐見弘恭、小野利恵子、熊谷宜和、小林将高）、バップ（長富忠裕、山田祥二、板坂さゆり）、集英社（渡辺直樹、東秀人、足立聡史）、Production I.G（石川みちる、森下勝司、井上亜希）】"
+        },
+        {
+          "key": "企画",
+          "value": "今村司、大島満、近藤裕、石川光久"
+        },
+        {
+          "key": "制片人",
+          "value": "中谷敏夫、興野裕之、田村学、和田丈嗣"
+        },
+        {
+          "key": "动画制片人",
+          "value": "中武哲也"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "山田慎也、渡邊博、森川愛"
+        },
+        {
+          "key": "协力",
+          "value": "北畠輝幸、佐々木勝、池田真理子"
         }
       ],
       "total_episodes": 15,
       "id": 9757,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5389,11 +5421,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/81/453140_yyDWY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/81/453140_yyDWY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ba/81/453140_yyDWY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/81/453140_yyDWY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/81/453140_yyDWY.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/81/453140_23cV6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/81/453140_23cV6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ba/81/453140_23cV6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/81/453140_23cV6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/81/453140_23cV6.jpg"
           },
           "name": "君に届け 3RD SEASON",
           "name_cn": "好想告诉你 第三季",
@@ -5421,22 +5453,20 @@
       "name": "マジンカイザーSKL",
       "name_cn": "魔神凯撒SKL",
       "tags": [
-        "1月",
         "2011",
         "2011年",
         "Actas",
         "OVA",
+        "OVA-01",
         "robo",
         "アクタス",
+        "マジンガーシリーズ",
         "凯撒",
         "动画",
         "原创",
         "坑爹",
-        "川越淳",
         "待看",
-        "日本",
         "日本动画",
-        "早川正",
         "早見沙織",
         "早见沙织",
         "机器人",
@@ -5445,12 +5475,14 @@
         "永井豪",
         "漫改",
         "燃",
+        "独立ova",
         "科幻",
         "萝卜",
         "超级机器人大战",
         "魔神",
         "魔神Z",
-        "魔神凯撒"
+        "魔神凯撒",
+        "魔神凯撒skl"
       ],
       "infobox": [
         {
@@ -5474,17 +5506,18 @@
       "id": 15885,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/96/10390_p0b08.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/96/10390_p0b08.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7f/96/10390_p0b08.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/96/10390_p0b08.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/96/10390_p0b08.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/96/10390_zbk7j.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/96/10390_zbk7j.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/96/10390_zbk7j.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/96/10390_zbk7j.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/96/10390_zbk7j.jpg"
           },
           "name": "マジンガーZ",
           "name_cn": "魔神Z",
@@ -5604,12 +5637,12 @@
         "2011年4月",
         "GAME",
         "HACK",
-        "KINEMA-CITRUS",
         "KINEMACITRUS",
         "KINEMA_CITRUS",
         "OVA",
         "Quantum",
         "SF",
+        "ova",
         "伪初音",
         "剧场版",
         "动画",
@@ -5729,6 +5762,7 @@
       "id": 11715,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5986,6 +6020,7 @@
       "id": 28206,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6038,7 +6073,6 @@
       "name": "装甲騎兵ボトムズ 孤影再び",
       "name_cn": "装甲骑兵 孤影再临",
       "tags": [
-        "10",
         "2010-2019",
         "2011",
         "2011年",
@@ -6058,12 +6092,13 @@
         "战斗",
         "日本动画",
         "机战",
-        "机甲",
         "池田成",
         "盐山纪生",
+        "真实系",
         "科幻",
         "网盘保存",
         "萝卜",
+        "补番",
         "装甲騎兵ボトムズ",
         "装甲骑兵",
         "高桥良辅",
@@ -6139,6 +6174,7 @@
       "id": 41736,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6316,6 +6352,7 @@
       "id": 11044,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6460,6 +6497,7 @@
       "id": 46078,
       "eps": 34,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6518,10 +6556,10 @@
         "漫改",
         "漫画改",
         "爱萝莉得永生",
+        "真堂圭",
         "福利",
         "糟糕",
         "菅沼栄治",
-        "菅沼荣治",
         "萌",
         "萝莉",
         "萝莉的世界",
@@ -6613,6 +6651,7 @@
       "id": 11142,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

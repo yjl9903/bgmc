@@ -26,6 +26,7 @@
         "¬",
         "ロボットアニメ",
         "东映",
+        "东映动画",
         "勝間田具治",
         "待補1",
         "惑星机器人",
@@ -107,6 +108,7 @@
       "id": 37228,
       "eps": 56,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -166,6 +168,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 127775
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/9a/499422_YYkmB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/9a/499422_YYkmB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e9/9a/499422_YYkmB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/9a/499422_YYkmB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/9a/499422_YYkmB.jpg"
+          },
+          "name": "すきだッダンガードA / その名もタクマ宇宙パイロット",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499422
         }
       ]
     }
@@ -188,13 +204,16 @@
       "name_cn": "合身战队麦康达机器人",
       "tags": [
         "1977",
+        "1977年3月",
         "70",
         "70s",
         "TV",
         "TVA",
         "robo",
         "ロボットアニメ",
+        "原创",
         "和光PRODUCTION",
+        "和光プロ",
         "和光プロダクション",
         "待補1",
         "新田義方",
@@ -273,12 +292,17 @@
         {
           "key": "製作",
           "value": "和光プロダクション"
+        },
+        {
+          "key": "演出",
+          "value": "富野由悠季(9)"
         }
       ],
       "total_episodes": 35,
       "id": 37239,
       "eps": 35,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

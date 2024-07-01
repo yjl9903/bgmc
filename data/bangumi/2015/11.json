@@ -101,6 +101,7 @@
       "id": 127817,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -246,6 +247,7 @@
       "id": 158315,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -288,7 +290,6 @@
         "2015年",
         "2015年11月",
         "2015年1月",
-        "2015年4月",
         "2015春番",
         "TV",
         "digimon",
@@ -298,6 +299,7 @@
         "元永慶太郎",
         "冒险",
         "剧场版",
+        "动画",
         "原创",
         "奇幻",
         "宇木敦哉",
@@ -395,10 +397,25 @@
       "id": 109739,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/f8/3128_4QNAH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/f8/3128_4QNAH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/f8/3128_4QNAH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/f8/3128_4QNAH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/f8/3128_4QNAH.jpg"
+          },
+          "name": "デジモンアドベンチャー",
+          "name_cn": "数码宝贝大冒险",
+          "relation": "前传",
+          "type": 2,
+          "id": 3128
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/a0/3129_910I9.jpg",
@@ -656,15 +673,27 @@
         },
         {
           "key": "导演",
-          "value": "なかむらたかし、Michael Arias"
+          "value": "なかむらたかし、マイケル・アリアス(Michael Arias)"
         },
         {
           "key": "原作",
           "value": "伊藤計劃"
         },
         {
-          "key": "特效作监",
-          "value": "渡辺浩二"
+          "key": "脚本",
+          "value": "山本幸治"
+        },
+        {
+          "key": "人物原案",
+          "value": "redjuice"
+        },
+        {
+          "key": "原画",
+          "value": "竹内一義、清水保行、伊本龍守、桑原幹根、嶋田真恵、石川晋吾、山本祐子、板垣彰子、金井次朗、渡辺浩二、田中孝弘、なかむらたかし、大橋学、松竹徳幸、山田一、中村深雪、岩瀧智、町田菜保子、江戸春馬、道下康太、近藤圭一、小田真弓、千葉ゆみ、奥野浩行、白井孝奈、中山由美、石井ゆみこ、渡辺絵美、酒井智史、万年麻美、栗原美樹、林明偉、福島陽子、二松真理、山科和佳菜、長谷川貴子、清水文乃、佐々木昌彦、梶谷睦子、加来由加里、趙春香、伊藤憲子、磯部智子、Ami Thompson、アンサー・スタジオ、スタジオ・ワンパック、Production I.G、エクラアニマル、虫プロダクション、スタジオエル"
+        },
+        {
+          "key": "制作",
+          "value": "Project Itoh（フジテレビジョン、Aniplex、東宝、関西テレビ放送、京楽産業ホールディングス、電通、ソニー・ミュージックエンタテインメント、Beyond C./ ビヨンド･カルタ）"
         },
         {
           "key": "场景美术监督",
@@ -675,14 +704,39 @@
           "value": "笠松広司"
         },
         {
-          "key": "制作",
-          "value": "Project Itoh"
+          "key": "色彩指定",
+          "value": "成毛久美子、成畑愛和、許德姬"
+        },
+        {
+          "key": "美术设计",
+          "value": "冨永拓生 、菱山徹"
+        },
+        {
+          "key": "动画制片人",
+          "value": "荻原知子"
+        },
+        {
+          "key": "製作",
+          "value": "清水賢治、植田益朗、大田圭二、横澤良雄、中尾勇一、中村理一郎、竹中幸平、田中栄子 製作担当：藤田雅規、尾上太基、中村伊那彦、半田恭平、村田莉恵 製作委員会:窪田正利、岩上敦宏、古澤佳寛、堀切八郎、岩野貢、山西太平、桜井眞理美"
+        },
+        {
+          "key": "总制片人",
+          "value": "松崎容子、山本幸治"
+        },
+        {
+          "key": "制片人",
+          "value": "田中栄子、尾崎紀子、吉澤隆"
+        },
+        {
+          "key": "配給",
+          "value": "東宝映像事業部"
         }
       ],
       "total_episodes": 1,
       "id": 100448,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -808,9 +862,9 @@
         "2015",
         "2015年11月",
         "2016",
-        "2016年",
         "2016年1月",
         "BrainsBase",
+        "DRRR!!",
         "OVA",
         "TV",
         "デュラララ!!",
@@ -829,8 +883,8 @@
         "日常",
         "日本",
         "朱夏",
+        "池袋",
         "神谷浩史",
-        "福山潤",
         "群像",
         "群像剧",
         "轻小说改",
@@ -909,6 +963,7 @@
       "id": 145745,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1080,6 +1135,7 @@
       "id": 128322,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1183,6 +1239,7 @@
         "ポリゴン・ピクチュアズ",
         "亚人",
         "剧场版",
+        "劇場版",
         "安藤裕章",
         "宫野真守",
         "宮野真守",
@@ -1197,7 +1254,6 @@
         "櫻井孝宏",
         "漫改",
         "漫画改",
-        "濑下宽之",
         "瀬下寛之",
         "瀬古浩司",
         "热血",
@@ -1259,6 +1315,7 @@
       "id": 135805,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1345,17 +1402,17 @@
         "2015年11月",
         "2015年OVA·OAD",
         "Actas",
+        "BeeMedia、Actas",
+        "Devilman",
         "OVA",
-        "乡田织穗",
+        "OVA-01",
         "人造人009",
         "伊藤岳史",
-        "冈村步",
         "剧场版",
         "原创",
         "四分",
         "小山刚志",
         "川越淳",
-        "工藤宽显",
         "异态",
         "战斗",
         "早川正",
@@ -1424,6 +1481,7 @@
       "id": 129976,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1532,7 +1590,8 @@
       "name": "こども刑事めめたん",
       "name_cn": "",
       "tags": [
-        "空"
+        "空",
+        "米子GAINAX"
       ],
       "infobox": [
         {
@@ -1556,6 +1615,7 @@
       "id": 258393,
       "eps": 8,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1764,6 +1824,7 @@
       "id": 72266,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2125,6 +2186,7 @@
       "id": 136913,
       "eps": 84,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2207,6 +2269,7 @@
       "tags": [
         "2015",
         "2015年",
+        "2015年10月",
         "2015年11月",
         "ARAGOTO",
         "BONES",
@@ -2217,7 +2280,6 @@
         "奇幻",
         "妖怪",
         "小野大輔",
-        "小野大辅",
         "岩崎琢",
         "战斗",
         "搞笑",
@@ -2228,13 +2290,13 @@
         "泽城美雪",
         "漫改",
         "漫画改",
+        "热血",
         "田村耕太郎",
         "番外",
         "神谷浩史",
         "福山润",
         "福山潤",
-        "野良神",
-        "骨头社"
+        "野良神"
       ],
       "infobox": [
         {
@@ -2350,6 +2412,7 @@
       "id": 147364,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2498,6 +2561,7 @@
       "id": 168459,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

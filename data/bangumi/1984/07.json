@@ -24,11 +24,10 @@
         "KittyFilm",
         "OVA",
         "OVA-01",
-        "OVAOAD特典",
         "キティ・フィルム",
         "ヴァージンVS",
-        "六分",
         "其他",
+        "剧场版",
         "原创",
         "在2023",
         "天野喜孝",
@@ -43,7 +42,8 @@
         "西久保瑞穗",
         "西出栄子",
         "西川裕子",
-        "録像帶",
+        "要补",
+        "赛璐珞",
         "首藤刚志",
         "首藤剛志"
       ],
@@ -93,6 +93,7 @@
       "id": 46043,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -268,6 +269,7 @@
       "id": 3172,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -683,6 +685,7 @@
       "id": 215100,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -724,6 +727,7 @@
         "1984",
         "80s",
         "TV",
+        "日本动画公司",
         "旧物",
         "童年",
         "赛璐珞"
@@ -746,6 +750,7 @@
       "id": 77938,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -835,6 +840,7 @@
       "id": 67779,
       "eps": 48,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -964,6 +970,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 470597
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/c3/501796_n4wss.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/c3/501796_n4wss.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/c3/501796_n4wss.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/c3/501796_n4wss.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/c3/501796_n4wss.jpg"
+          },
+          "name": "ぴえろ魔法少女シリーズ TVアニメーション最新作",
+          "name_cn": "皮乐魔法少女系列 电视动画最新作",
+          "relation": "其他",
+          "type": 2,
+          "id": 501796
         }
       ]
     }

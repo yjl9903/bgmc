@@ -23,8 +23,8 @@
         "SHAFT",
         "TV",
         "TVA",
+        "maid",
         "入野自由",
-        "动画",
         "十月番",
         "坂本真绫",
         "女仆",
@@ -161,6 +161,7 @@
       "id": 7883,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -384,6 +385,7 @@
       "id": 8081,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -593,6 +595,7 @@
       "id": 6858,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -840,6 +843,7 @@
       "id": 6933,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -913,6 +917,48 @@
           "relation": "续集",
           "type": 2,
           "id": 48055
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/e5/234042_of236.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/e5/234042_of236.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c2/e5/234042_of236.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/e5/234042_of236.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/e5/234042_of236.jpg"
+          },
+          "name": "シノビマスター 閃乱カグラ NEW LINK",
+          "name_cn": "忍者大师 闪乱神乐 NEW LINK",
+          "relation": "游戏",
+          "type": 4,
+          "id": 234042
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/5a/496239_Qu3rU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/5a/496239_Qu3rU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b9/5a/496239_Qu3rU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/5a/496239_Qu3rU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/5a/496239_Qu3rU.jpg"
+          },
+          "name": "百花繚乱 サムライガールズ オリジナル・サウンドトラック ～沁・伎・躰～",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 496239
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/28/496240_V2YHw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/28/496240_V2YHw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fc/28/496240_V2YHw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/28/496240_V2YHw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/28/496240_V2YHw.jpg"
+          },
+          "name": "ラジオCD 百花繚乱 スーパーラジオガールズ",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 496240
         }
       ]
     }
@@ -930,7 +976,7 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/05/8560_zxx9X.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/05/8560_zxx9X.jpg"
       },
-      "summary": "「侦探歌剧 Milky Holmes」，是游戏公司Bushiroad预定今年12月在PSP平台上推出的一款原创AVG，游戏发生在侦探和怪盗盛行的“大侦探时代”，以新旧文化混杂的侦探之都横浜为舞台，4名立志成为名侦探的少女和曾是侦探的青年相遇，推理与浪漫并存的故事由此展开。通常游戏改编动画基本都是在游戏发行了一段时间，让相关公司看清楚市场走势才做定夺，而预定今冬发行的这款游戏，竟然会反超前推出动画版，为游戏预热用意相当明显。",
+      "summary": "「侦探歌剧 Milky Holmes」，改编自游戏公司Bushiroad预定于2010年12月在PSP平台上推出的一款原创AVG。故事发生在侦探和怪盗盛行的“大侦探时代”，以新旧文化混杂的侦探之都横浜为舞台，以4名立志成为名侦探的少女为中心展开。",
       "name": "探偵オペラ ミルキィホームズ",
       "name_cn": "侦探歌剧 少女福尔摩斯",
       "tags": [
@@ -971,6 +1017,14 @@
           "value": "侦探歌剧 少女福尔摩斯"
         },
         {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Tantei Opera Milky Holmes"
+            }
+          ]
+        },
+        {
           "key": "话数",
           "value": "12"
         },
@@ -995,14 +1049,55 @@
           "value": "2010年12月23日"
         },
         {
+          "key": "Copyright",
+          "value": "©bushiroad/Project MILKY HOLMES"
+        },
+        {
+          "key": "原作",
+          "value": "ブシロード、クロノギアクリエイティヴ"
+        },
+        {
+          "key": "导演",
+          "value": "森脇真琴"
+        },
+        {
+          "key": "人物设定",
+          "value": "沼田誠也"
+        },
+        {
           "key": "音乐",
           "value": "原田勝通(Angel Note)"
+        },
+        {
+          "key": "统括制作人",
+          "value": "中村伸行"
+        },
+        {
+          "key": "执行制片人",
+          "value": "木谷高明[制作总指挥]、福場一義、井上俊次、安藝貴範、伴龍一郎、青木建彦、森本浩二"
+        },
+        {
+          "key": "制片人",
+          "value": "大島靖、斎藤滋、小田ツヨシ、二瓶茂人、福良啓、松倉友二"
+        },
+        {
+          "key": "原作协力",
+          "value": "奥村越後屋、小玉励"
+        },
+        {
+          "key": "剪辑",
+          "value": "後藤正浩(REAL-T)"
+        },
+        {
+          "key": "製作",
+          "value": "ミルキィホームズ製作委員会（ブシロード、ポニーキャニオン、ランティス、Good Smile Company、ドワンゴ、創通、エモーション）"
         }
       ],
       "total_episodes": 12,
       "id": 8560,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1390,6 +1485,7 @@
       "id": 5779,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1628,6 +1724,7 @@
       "id": 7157,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1947,6 +2044,7 @@
       "id": 7843,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2360,6 +2458,7 @@
       "id": 7150,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2565,6 +2664,7 @@
         "十月番",
         "历史",
         "吉野裕行",
+        "女性向",
         "少年白头",
         "山崎理",
         "帅哥",
@@ -2580,7 +2680,6 @@
         "游戏改",
         "薄樱鬼",
         "逆后宫",
-        "遊佐浩二",
         "鳥海浩輔"
       ],
       "infobox": [
@@ -2657,6 +2756,7 @@
       "id": 7350,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2669,8 +2769,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/4d/3363_6C4W2.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/4d/3363_6C4W2.jpg"
           },
-          "name": "薄桜鬼 〜新選組奇譚〜",
-          "name_cn": "薄樱鬼 〜新选组奇谭〜",
+          "name": "薄桜鬼ポータブル",
+          "name_cn": "薄樱鬼 携带版",
           "relation": "游戏",
           "type": 4,
           "id": 3363
@@ -2878,6 +2978,7 @@
       "id": 5332,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3082,6 +3183,7 @@
       "id": 8546,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3389,6 +3491,7 @@
       "id": 5436,
       "eps": 16,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3738,7 +3841,6 @@
         "2010",
         "2010年",
         "2010年10月",
-        "2010年十月番",
         "CV閃",
         "OG",
         "OG2",
@@ -3750,7 +3852,6 @@
         "十月番",
         "原创世纪",
         "原創世紀",
-        "大张你是故意的吧",
         "大张我信你啊",
         "大張正己",
         "崩坏",
@@ -3759,10 +3860,12 @@
         "机战",
         "森川智之",
         "游戏改",
+        "离游戏水准十万八千里",
         "科幻",
         "究极亡灵踢!",
         "草尾毅",
         "萝卜",
+        "萝卜大战第二回",
         "蘿蔔",
         "超级机器人大战"
       ],
@@ -3836,6 +3939,7 @@
       "id": 8400,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3995,7 +4099,7 @@
         "ぴえろプラス",
         "中井和哉",
         "信蜂",
-        "十月番",
+        "动画",
         "奇幻",
         "小清水亜美",
         "小西克幸",
@@ -4075,6 +4179,7 @@
       "id": 7882,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4293,6 +4398,7 @@
       "id": 3428,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4694,6 +4800,7 @@
       "id": 8390,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4922,6 +5029,7 @@
       "id": 5976,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5032,7 +5140,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/8c/17573_PtfB5.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/8c/17573_PtfB5.jpg"
           },
-          "name": "神のみぞ知るセカイ ROUTE 4.0 特典DCD 「恋、ヨロシクお願いします!」",
+          "name": "神のみぞ知るセカイ ROUTE 4.0 特典CD 「恋、ヨロシクお願いします!」",
           "name_cn": "",
           "relation": "插入歌",
           "type": 3,
@@ -5391,6 +5499,7 @@
       "id": 8402,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5537,7 +5646,7 @@
         "中村悠一",
         "乌贼娘",
         "乌贼拟人",
-        "侵略",
+        "侵略！乌贼娘",
         "十月番",
         "墨汁面",
         "大姐是腹黑",
@@ -5683,6 +5792,7 @@
       "id": 7842,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5822,6 +5932,7 @@
         "2010",
         "2010年",
         "2010年10月",
+        "ARTERIAL",
         "AUGUST",
         "FA",
         "Feel.",
@@ -5845,7 +5956,6 @@
         "校园",
         "校園",
         "游戏改",
-        "游改",
         "生天目仁美",
         "赤い約束",
         "赤色的约定"
@@ -5915,6 +6025,7 @@
       "id": 7844,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6039,6 +6150,9 @@
             },
             {
               "v": "银河美少年"
+            },
+            {
+              "v": "Star Driver: Kagayaki no Takuto"
             }
           ]
         },
@@ -6111,6 +6225,7 @@
       "id": 7348,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6511,13 +6626,14 @@
         },
         {
           "key": "动画制作",
-          "value": "Brain's･Base"
+          "value": "Brain's Base"
         }
       ],
       "total_episodes": 16,
       "id": 6811,
       "eps": 11,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6719,6 +6835,7 @@
       "id": 8994,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6834,6 +6951,7 @@
       "id": 13014,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6945,6 +7063,7 @@
       "id": 8619,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -6968,6 +7087,7 @@
       "name": "カルルとふしぎな塔",
       "name_cn": "卡鲁鲁与不可思议之塔",
       "tags": [
+        "日本动画公司",
         "治愈",
         "看上去很治愈",
         "补"
@@ -7018,6 +7138,7 @@
       "id": 8392,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7042,16 +7163,12 @@
       "name_cn": "钢铁侠",
       "tags": [
         "2010",
-        "2010-2019",
         "2010年10月",
-        "2010秋",
         "Ironman",
+        "MADHOUSE",
         "MADHouse",
         "Marvel",
-        "Marvel改",
         "TV",
-        "Tony",
-        "anime",
         "tony好萌",
         "井上敏树",
         "动画",
@@ -7059,15 +7176,19 @@
         "原创",
         "小池健",
         "日本",
+        "日本动画",
         "日本漫威",
         "日漫",
         "日番",
         "欧美",
         "民工漫",
+        "漫改",
+        "漫画改编",
         "疯房子",
         "科幻",
         "美动",
         "美国",
+        "藤原启治",
         "金刚牛郎",
         "钢铁侠",
         "静姐"
@@ -7134,6 +7255,7 @@
       "id": 8543,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7249,8 +7371,10 @@
         "TV",
         "kids",
         "キッズ",
+        "亚细亚堂",
         "动画",
         "宫西达也",
+        "待看",
         "日本",
         "朧澤正治",
         "治愈",
@@ -7328,6 +7452,7 @@
       "id": 17777,
       "eps": 20,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7370,12 +7495,12 @@
         "2010-2019",
         "Q娃",
         "precure",
-        "アニメ映画",
         "プリキュア",
         "东映",
         "东映动画",
         "光之美少女",
         "剧场版",
+        "动画电影",
         "原创",
         "奇幻",
         "山田隆司",
@@ -7387,10 +7512,10 @@
         "松本理恵",
         "松本理惠",
         "武斗系",
-        "水樹奈々",
         "燃",
         "电影",
         "百合",
+        "霹雳Q娃",
         "馬越嘉彦",
         "马琳纯爷们",
         "马越嘉彦",
@@ -7431,6 +7556,7 @@
       "id": 13498,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7501,6 +7627,7 @@
         "2010-10",
         "2010年",
         "2010年10月",
+        "I.G",
         "OVA",
         "Production.I.G",
         "ProductionI.G",
@@ -7513,7 +7640,6 @@
         "天野远子",
         "小说改",
         "山田由香",
-        "平野綾",
         "平野绫",
         "恋爱",
         "悲剧",
@@ -7554,6 +7680,7 @@
       "id": 6813,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7654,6 +7781,7 @@
       "id": 238449,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7694,15 +7822,15 @@
       "tags": [
         "2010",
         "2010年10月",
+        "7分",
         "OVA",
         "SHAFT",
         "きらら",
+        "其他",
         "后藤邑子",
         "向阳素描",
         "向阳素描×☆☆☆",
-        "喜欢",
         "四格",
-        "小见川千明",
         "搞笑",
         "新房昭之",
         "新谷良子",
@@ -7793,6 +7921,7 @@
       "id": 9639,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -7860,22 +7989,20 @@
       "name_cn": "夜樱四重奏 星之海",
       "tags": [
         "2010",
-        "2010-2019",
         "2010年10月",
         "OAD",
         "OVA",
         "OVA·OAD",
         "web系",
-        "☆OVA",
         "りょーちも",
         "タツノコプロ",
         "作画",
+        "作画アニメ",
         "动画",
         "夜樱四重奏",
         "奇幻",
         "妖怪",
         "战斗",
-        "捆绑光碟动画",
         "星之海",
         "梶裕贵",
         "治愈",
@@ -7887,8 +8014,10 @@
         "福圆美里",
         "花之歌",
         "藤田咲",
+        "补番",
         "龙之子",
-        "龙之子Production"
+        "龙之子Production",
+        "龙之子制作公司紫牛工作室"
       ],
       "infobox": [
         {
@@ -7948,6 +8077,7 @@
       "id": 9385,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8034,7 +8164,7 @@
         "漫改",
         "漫画改",
         "爽朗君",
-        "短片",
+        "竹达彩奈",
         "竹達彩奈",
         "純愛",
         "纯爱",
@@ -8103,6 +8233,7 @@
       "id": 9380,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8202,6 +8333,7 @@
       "id": 36793,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8241,7 +8373,6 @@
         "喵帕斯记录~",
         "坑",
         "女主",
-        "无字幕组",
         "日本",
         "日本动画",
         "東映アニメーション",
@@ -8254,6 +8385,7 @@
         "百合",
         "短片",
         "萌",
+        "补番",
         "農業ムスメ"
       ],
       "infobox": [
@@ -8306,6 +8438,7 @@
       "id": 8083,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8399,6 +8532,7 @@
       "id": 9428,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8436,7 +8570,7 @@
         "大平晋也",
         "小池健",
         "山本沙代",
-        "日本动画",
+        "川尻善昭",
         "映画",
         "木村拓哉",
         "榎户洋司",
@@ -8555,6 +8689,7 @@
       "id": 8726,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8756,6 +8891,7 @@
       "id": 11043,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -8848,7 +8984,7 @@
     }
   },
   {
-    "title": "OVA とある科学の超電磁砲",
+    "title": "とある科学の超電磁砲 炎天下の撮影モデルも楽じゃありませんわね",
     "date": "2010-10-29",
     "bangumi": {
       "date": "2010-10-29",
@@ -8861,7 +8997,7 @@
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/5a/98371_zdWKw.jpg"
       },
       "summary": "由镰池和马撰写的轻小说《魔法禁书目录》作为电击文库最畅销的作品不仅公布了动画第二期的消息，其由冬川基连载的漫画外传作品《某科学的超电磁炮》由于炮姐的高人气其受欢迎程度也一点不亚于本篇作品。传出在7月24日发售的《某科学的超电磁炮OFFICIAL VISUAL BOOK》中将附赠一话OVA《第13話 – 炎天下の撮影モデルも楽じゃありませんわね。》当作DVD的特典。如今，在炮姐漫画的第5卷上又公布了《某科学的电磁炮》在10月29日即将发售OVA的消息。",
-      "name": "OVA とある科学の超電磁砲",
+      "name": "とある科学の超電磁砲 炎天下の撮影モデルも楽じゃありませんわね",
       "name_cn": "某科学的超电磁炮 OVA",
       "tags": [
         "2010",
@@ -8988,6 +9124,7 @@
       "id": 98371,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9161,6 +9298,7 @@
       "id": 10765,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -9203,23 +9341,29 @@
       "date": "2010-10-03",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/f4/425179_q0vcH.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/f4/425179_q0vcH.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/49/f4/425179_q0vcH.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/f4/425179_q0vcH.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/f4/425179_q0vcH.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/f4/425179_tZ0Yo.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/f4/425179_tZ0Yo.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/49/f4/425179_tZ0Yo.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/f4/425179_tZ0Yo.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/f4/425179_tZ0Yo.jpg"
       },
       "summary": "２年間のパリ留学を終えた天野いちごは、高等部１年生に進学。日本への帰国を機にスイーツ王子の3人、樫野、安堂、花房ともう一度「チームいちご」を組み、パティシエールとして更なる成長をしたいと考えていたが、仲間たちはすでにそれぞれの夢のために歩きだしていた……。\r\nそんな矢先、突然アンリ先生から呼びだされたいちご、樫野、れもん、留学生のジョニーは「スイーツショップを中心とした町づくり」という壮大な計画を聞かされる。そして、そのプロジェクトに協力するため、メインストリートにあるスイーツショップを樫野たちと一緒に経営することになるのだった。\r\n高校生となり、少しだけ大人になったいちごの新しい挑戦を描いた『夢色パティシエール』の新シリーズ。 ",
       "name": "夢色パティシエールSP プロフェッショナル",
       "name_cn": "梦色蛋糕师SP Professional",
       "tags": [
+        "TV",
+        "anime",
         "乙女",
         "乙女向",
+        "云雀工作室",
+        "少女漫",
         "恋爱",
         "悠木碧",
         "料理",
         "料理系",
         "校园",
+        "漫画改",
+        "美食",
         "蛋糕"
       ],
       "infobox": [
@@ -9244,17 +9388,18 @@
       "id": 425179,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/bd/2725_2f991.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/bd/2725_2f991.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4b/bd/2725_2f991.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/bd/2725_2f991.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/bd/2725_2f991.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/bd/2725_ZddW3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/bd/2725_ZddW3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/bd/2725_ZddW3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/bd/2725_ZddW3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/bd/2725_ZddW3.jpg"
           },
           "name": "夢色パティシエール",
           "name_cn": "梦色蛋糕师",
@@ -9296,6 +9441,7 @@
         "吸奶娃",
         "圣痕炼金士",
         "奇幻",
+        "平野绫",
         "战斗",
         "搞笑",
         "日本",
@@ -9310,8 +9456,7 @@
         "肉",
         "肉番",
         "金子ひらく",
-        "金子拓",
-        "露点"
+        "金子拓"
       ],
       "infobox": [
         {
@@ -9379,6 +9524,7 @@
       "id": 99925,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

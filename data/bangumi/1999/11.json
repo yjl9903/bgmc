@@ -35,7 +35,6 @@
         "日本动画",
         "桜井弘明",
         "樱井弘明",
-        "氷上恭子",
         "沢城みゆき",
         "治愈",
         "治愈系",
@@ -45,6 +44,7 @@
         "真田アサミ",
         "童年",
         "萌",
+        "补番",
         "超级铃铛猫"
       ],
       "infobox": [
@@ -145,17 +145,32 @@
       "id": 38072,
       "eps": 16,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/57/258798_6B92S.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/57/258798_6B92S.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ac/57/258798_6B92S.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/57/258798_6B92S.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/57/258798_6B92S.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b6/ed/498762_0tx9z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b6/ed/498762_0tx9z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b6/ed/498762_0tx9z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b6/ed/498762_0tx9z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b6/ed/498762_0tx9z.jpg"
+          },
+          "name": "ぷちこのうた",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 498762
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/57/258798_6m7L4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/57/258798_6m7L4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ac/57/258798_6m7L4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/57/258798_6m7L4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/57/258798_6m7L4.jpg"
           },
           "name": "only one, No.1",
           "name_cn": "",
@@ -179,20 +194,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/30/82369_sgSQ0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/30/82369_sgSQ0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d8/30/82369_sgSQ0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/30/82369_sgSQ0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/30/82369_sgSQ0.jpg"
-          },
-          "name": "AKIBA'S TRIP 2",
-          "name_cn": "秋叶脱物语2",
-          "relation": "游戏",
-          "type": 4,
-          "id": 82369
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/b0/91175_BOhah.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/b0/91175_BOhah.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/09/b0/91175_BOhah.jpg",
@@ -204,6 +205,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 91175
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/30/82369_sgSQ0.jpg"
+          },
+          "name": "AKIBA'S TRIP 2",
+          "name_cn": "秋叶脱物语2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 82369
         },
         {
           "images": {
@@ -235,20 +250,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/db/217248_Ypf0l.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/db/217248_Ypf0l.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/15/db/217248_Ypf0l.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/db/217248_Ypf0l.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/db/217248_Ypf0l.jpg"
-          },
-          "name": "デ・ジ・キャラット でじこミュニケーション",
-          "name_cn": "",
-          "relation": "游戏",
-          "type": 4,
-          "id": 217248
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/0d/205296_oZEVe.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/0d/205296_oZEVe.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/36/0d/205296_oZEVe.jpg",
@@ -260,6 +261,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 205296
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/db/217248_Ypf0l.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/db/217248_Ypf0l.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/db/217248_Ypf0l.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/db/217248_Ypf0l.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/db/217248_Ypf0l.jpg"
+          },
+          "name": "デ・ジ・キャラット でじこミュニケーション",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 217248
         },
         {
           "images": {
@@ -277,11 +292,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/a3/205299_E11JJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/a3/205299_E11JJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9b/a3/205299_E11JJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/a3/205299_E11JJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/a3/205299_E11JJ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/a3/205299_6z5n1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/a3/205299_6z5n1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/a3/205299_6z5n1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/a3/205299_6z5n1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/a3/205299_6z5n1.jpg"
           },
           "name": "Di Gi Charat 夏休みスペシャル",
           "name_cn": "Di Gi Charat 暑假特别篇",
@@ -440,6 +455,7 @@
         "2001",
         "2001-11",
         "2001里番",
+        "90年代",
         "OVA",
         "OVA-03",
         "R17",
@@ -496,6 +512,7 @@
       "id": 48768,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -535,6 +552,7 @@
       "name_cn": "仙魔大战2000",
       "tags": [
         "2001",
+        "StudioComet",
         "スタジオコメット",
         "旧物"
       ],
@@ -576,6 +594,7 @@
       "id": 339977,
       "eps": 68,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -646,11 +665,11 @@
       "date": "1999-11-25",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/78/39002_ph4TV.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/78/39002_ph4TV.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/0f/78/39002_ph4TV.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/78/39002_ph4TV.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/78/39002_ph4TV.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/78/39002_eeSqU.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/78/39002_eeSqU.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0f/78/39002_eeSqU.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/78/39002_eeSqU.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/78/39002_eeSqU.jpg"
       },
       "summary": "1999年発売。テレビアニメ『ヴァイスクロイツ』の最終話の後に続くストーリー。この続きとしてドラマCD『ヴァイスクロイツ Dramatic Precious』（全4巻）がある。\r\n「Verbrechen（フェアブレッヒェン）」、「Strafe（シュトラーフェ）」の2話で完結（DVD版には2話同時収録）。タイトルはそれぞれドイツ語で「罪」と「罰」の意。",
       "name": "ヴァイスクロイツ Verbrechen / Strafe",
@@ -690,32 +709,33 @@
         },
         {
           "key": "发售日",
-          "value": "1999-11-25"
+          "value": "1999年11月25日"
         },
         {
           "key": "开始",
-          "value": "1999-11-25"
+          "value": "1999年11月25日"
         },
         {
           "key": "结束",
-          "value": "2000-02-23"
+          "value": "2000年2月23日"
         }
       ],
       "total_episodes": 2,
       "id": 39002,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/5d/11913_99O99.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/5d/11913_99O99.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/90/5d/11913_99O99.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/5d/11913_99O99.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/5d/11913_99O99.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/5d/11913_9b1v3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/5d/11913_9b1v3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/90/5d/11913_9b1v3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/5d/11913_9b1v3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/5d/11913_9b1v3.jpg"
           },
           "name": "ヴァイスクロイツ",
           "name_cn": "白色猎人",
@@ -744,6 +764,7 @@
       "name_cn": "仙魔大战2000",
       "tags": [
         "2001",
+        "StudioComet",
         "スタジオコメット",
         "旧物"
       ],
@@ -785,6 +806,7 @@
       "id": 339977,
       "eps": 68,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

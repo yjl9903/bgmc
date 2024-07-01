@@ -27,7 +27,6 @@
         "井上麻里奈",
         "伪娘",
         "伪百合",
-        "动画",
         "后宮",
         "吐槽",
         "喜剧",
@@ -38,6 +37,7 @@
         "新房昭之",
         "日常",
         "日本",
+        "日本动画",
         "校园",
         "横谷昌宏",
         "毒舌",
@@ -130,6 +130,7 @@
       "id": 894,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -273,25 +274,25 @@
         "Brain",
         "BrainsBase",
         "TV",
+        "s･Base",
         "丰崎爱生",
         "人生赢家",
         "卖肉",
         "后宫",
         "哈密瓜",
         "小说改",
+        "恋爱",
         "悠木碧",
         "战斗",
         "搞笑",
         "日本动画",
         "男屋",
-        "百合",
         "福山润",
         "空罐",
         "空罐少女",
         "肉",
         "肉番",
         "能登麻美子",
-        "节操",
         "豊崎愛生",
         "轻小说改",
         "轻改"
@@ -362,6 +363,7 @@
       "id": 1182,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -472,13 +474,13 @@
       "tags": [
         "2009",
         "2009年1月",
+        "2009年一月番",
         "2009年春",
         "NHK教育",
         "Production.I.G",
         "ProductionI.G",
         "Production_I.G",
         "TV",
-        "★★★★★★★★★",
         "トランス・アーツ",
         "上桥菜穂子",
         "上橋菜穂子",
@@ -495,9 +497,9 @@
         "治愈",
         "浜名孝行",
         "滨名孝行",
+        "石田彰",
         "艾琳",
         "补番",
-        "补番计划",
         "轻小说改",
         "ＴＶアニメ"
       ],
@@ -587,6 +589,7 @@
       "id": 1456,
       "eps": 50,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -699,11 +702,11 @@
       "date": "2009-01-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/bc/891_d5mwr.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/bc/891_d5mwr.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/cf/bc/891_d5mwr.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/bc/891_d5mwr.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/bc/891_d5mwr.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/bc/891_MR08Z.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/bc/891_MR08Z.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/cf/bc/891_MR08Z.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/bc/891_MR08Z.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/bc/891_MR08Z.jpg"
       },
       "summary": "玲子的孙子夏目贵志从祖母的遗物中得到了那些契约书所做成的“友人帐”，同样他也能看到不会显现在人前的物体。可是，作为唯一继承了玲子血统的他却做出了一个重要的决定：将玲子夺过来的妖怪们的名字一一归还。伴随着归还名字的行动，贵志渐渐的认识了一个更真实的夏目铃子，同时也重新的认识了妖怪们——其实妖和人一样，有恶妖恶人，也有好妖好人，贵志慢慢的和铃子一样有了许多的朋友，不再感觉到孤独。",
       "name": "続 夏目友人帳",
@@ -749,13 +752,13 @@
           "key": "别名",
           "value": [
             {
-              "v": "夏目友人帐 续"
-            },
-            {
               "v": "夏目友人帐 二"
             },
             {
               "v": "Zoku Natsume Yuujinchou"
+            },
+            {
+              "v": "Natsume's Book of Friends Season 2"
             }
           ]
         },
@@ -773,7 +776,17 @@
         },
         {
           "key": "官方网站",
-          "value": "http://www.nasinc.co.jp/jp/natsume-anime/"
+          "value": [
+            {
+              "v": "https://www.nasinc.co.jp/jp/natsume-anime/"
+            },
+            {
+              "v": "http://www.natsume-anime.jp/"
+            },
+            {
+              "v": "https://www.tv-tokyo.co.jp/anime/zokunatsume/"
+            }
+          ]
         },
         {
           "key": "播放电视台",
@@ -793,97 +806,66 @@
         },
         {
           "key": "原作",
-          "value": "緑川ゆき"
+          "value": "緑川ゆき（白泉社「月刊LaLa」「LaLa DX」連載）"
         },
         {
           "key": "导演",
           "value": "大森貴弘"
         },
         {
-          "key": "脚本",
-          "value": "関島眞頼、荒木憲一、金巻兼一、高木登"
-        },
-        {
-          "key": "分镜",
-          "value": "高田淳、今掛勇、後藤圭二、寺東克己、大森貴弘、名村英敏、大畑清隆、矢野博之"
-        },
-        {
-          "key": "演出",
-          "value": "高田淳、今掛勇、松本マサユキ、中野英明、大森貴弘、梅本唯"
-        },
-        {
-          "key": "音乐",
-          "value": "吉森信"
-        },
-        {
           "key": "人物设定",
           "value": "髙田晃"
         },
         {
-          "key": "系列构成",
-          "value": "金巻兼一"
+          "key": "主题歌编曲",
+          "value": "LONG SHOT PARTY / 伊藤ゴロー"
         },
         {
-          "key": "美术监督",
-          "value": "渋谷幸弘"
+          "key": "主题歌作曲",
+          "value": "LONG SHOT PARTY / 高鈴"
         },
         {
-          "key": "色彩设计",
-          "value": "宮脇裕美"
+          "key": "主题歌作词",
+          "value": "sasaji / 山本高稲"
         },
         {
-          "key": "总作画监督",
-          "value": "髙田晃"
-        },
-        {
-          "key": "作画监督",
-          "value": "久木晃嗣、奥野治男、野道佳代、亀谷響子"
-        },
-        {
-          "key": "摄影监督",
-          "value": "田村仁"
-        },
-        {
-          "key": "原画",
-          "value": "岸田隆宏、竹内哲也、小島崇史"
-        },
-        {
-          "key": "第二原画",
-          "value": "小島崇史"
-        },
-        {
-          "key": "剪辑",
-          "value": "関一彦"
-        },
-        {
-          "key": "音响监督",
-          "value": "大森貴弘"
-        },
-        {
-          "key": "特效",
-          "value": "長谷川敏生"
-        },
-        {
-          "key": "补间动画",
-          "value": "西谷泰史"
-        },
-        {
-          "key": "制作助手",
-          "value": "XEBEC"
+          "key": "主题歌演出",
+          "value": "LONG SHOT PARTY / 高鈴"
         },
         {
           "key": "音乐制作",
           "value": "Aniplex"
         },
         {
-          "key": "动画制作",
-          "value": "Brain's･Base"
+          "key": "制作",
+          "value": "NAS"
+        },
+        {
+          "key": "製作",
+          "value": "「夏目友人帳」製作委員会"
+        },
+        {
+          "key": "企画",
+          "value": "山崎立士、植田益朗、白石誠（テレビ東京）、内山晴人；企画协力：LaLa編集部（柳沢仁、佐藤一哉）"
+        },
+        {
+          "key": "制片人",
+          "value": "村松紗也子（テレビ東京）、三宅将典、横山朱子、市川育秀"
+        },
+        {
+          "key": "助理制片人",
+          "value": "京谷知美（テレビ東京）"
+        },
+        {
+          "key": "动画制片人",
+          "value": "佐藤由美"
         }
       ],
       "total_episodes": 13,
       "id": 891,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1101,6 +1083,7 @@
       "id": 978,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1454,6 +1437,7 @@
       "id": 323,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1540,9 +1524,11 @@
         "2009年1月",
         "TV",
         "ZEXCS",
+        "アニメ",
         "中原麻衣",
         "动画",
         "后宫",
+        "小说改",
         "崩片",
         "川崎逸朗",
         "幻想",
@@ -1551,18 +1537,16 @@
         "日本",
         "日本动画",
         "架空",
+        "池田眞美子",
         "热血",
         "科幻",
-        "轻小说",
         "轻小说改",
         "轻改",
         "鋼殻のレギオス",
         "钢壳都市雷吉欧斯",
         "钢都",
         "雷锋",
-        "高垣彩阳",
         "高桥美佳子",
-        "高橋美佳子",
         "鬼畜王雷锋"
       ],
       "infobox": [
@@ -1611,6 +1595,7 @@
       "id": 1455,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1802,6 +1787,7 @@
       "id": 889,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1878,6 +1864,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/d6/497493_h0qP5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/d6/497493_h0qP5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/50/d6/497493_h0qP5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/d6/497493_h0qP5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/d6/497493_h0qP5.jpg"
+          },
+          "name": "TV ANIMATION みなみけ おかえり おふぃしゃるふぁんぶっく",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 497493
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/a1/3016_tst0c.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/a1/3016_tst0c.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/53/a1/3016_tst0c.jpg",
@@ -1924,23 +1924,23 @@
       "name": "VIPER'S CREED-ヴァイパーズ・クリード-",
       "name_cn": "毒蛇信条",
       "tags": [
+        "2000-2009",
         "2009",
         "2009年1月",
         "2010",
         "AIC",
         "AICスピリッツ",
-        "ROBO",
         "RY",
         "TV",
         "TVA",
+        "robo",
         "Ⅰ类tv",
         "デジタル・フロンティア",
-        "中庸",
         "丰口惠",
-        "佐藤利奈",
         "原创",
         "已下载",
         "日本动画",
+        "机战",
         "毒蛇",
         "毒蛇信条",
         "皆川纯子",
@@ -1999,6 +1999,7 @@
       "id": 18771,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2025,12 +2026,13 @@
         "2009",
         "2009年",
         "2009年1月",
+        "2009年1月番",
         "MADHouse",
         "RideBack",
         "TV",
+        "a.Anime",
         "anime",
         "三木真一郎",
-        "动画",
         "原作漫画",
         "原创",
         "变形",
@@ -2050,7 +2052,6 @@
         "科幻",
         "背骑少女",
         "萝卜",
-        "高屋敷英夫",
         "高橋敦史"
       ],
       "infobox": [
@@ -2102,6 +2103,7 @@
       "id": 892,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2170,6 +2172,7 @@
         "戶松遙",
         "户松遥",
         "搞笑",
+        "日常",
         "日本动画",
         "明日のよいち!",
         "明日的与一",
@@ -2179,7 +2182,6 @@
         "漫改",
         "漫画改",
         "田村ゆかり",
-        "福利",
         "肉",
         "肉番",
         "花泽香菜",
@@ -2285,6 +2287,7 @@
       "id": 1131,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2438,10 +2441,10 @@
         "千葉紗子",
         "大野木寛",
         "山下清悟",
-        "恋爱",
+        "川澄绫子",
         "战斗",
         "日本动画",
-        "松本宪生",
+        "水上清資",
         "水上清资",
         "漫改",
         "漫画改",
@@ -2494,6 +2497,7 @@
       "id": 1194,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2584,7 +2588,7 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/e3/887_GmRjU.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/e3/887_GmRjU.jpg"
       },
-      "summary": "　初中生的少女・梦见在小的时候就有一着烦恼。\r\n　　―看、在那里―\r\n　　还很小的时候梦见天真的指向遥远的天空、有不可思议的岛屿浮现出来。\r\n　　―啊。那里那里？―\r\n　　但是、好友们、没有一个人可以看到。有一天、突然、红色头发的少年出现在梦见的面前。他的名字是MUNTO。\r\n　　是从梦见可以看到的天上世界其中一个国家、魔导国来的。\r\n　　原来、「天上界」和「地上界」在平衡万能的力量“akuto ”的循环下保护着。\r\n　　但是、很久以前、发生的灾难将时空关闭上导致循环被切断的天上界akuto枯竭、\r\n　　天上各国面临消失的危机。\r\n　　这样下去、迟早地上界的akuto也将消耗枯竭、世界将迎来灭亡。\r\n　　―我们需要你的力量！―\r\n　　被寄托使命来到地上界的魔导国之王・MUNTO 梦见不可思议的力量将是最后的希望。\r\n　　异界之王的突然来访 不知如何是好的梦见。\r\n　　二人最终能否拯救世界的危机。\r\n　　遥远时空交错着的二个命运现在开始运动起来！",
+      "summary": "初中生的少女梦见在小的时候就有着烦恼。\r\n“看、在那里”\r\n还很小的时候梦见天真的指向遥远的天空、有不可思议的岛屿浮现出来。\r\n“哪里哪里？”\r\n但是，好友们没有一个人可以看到。有一天，红色头发的少年出现在梦见的面前。他的名字是MUNTO。是从梦见可以看到的天上世界其中一个国家，魔导国来的。\r\n原来，「天上界」和「地上界」在平衡万能的力量“akuto ”的循环下保护着。但是，很久以前发生的灾难将时空关闭上导致循环被切断的天上界akuto枯竭。天上各国面临消失的危机。这样下去、迟早地上界的akuto也将消耗枯竭，世界将迎来灭亡。\r\n“我们需要你的力量！”\r\n被寄托使命来到地上界的魔导国之王MUNTO 梦见不可思议的力量将是最后的希望。异界之王的突然来访 不知如何是好的梦见。二人最终能否拯救世界的危机。遥远时空交错着的二个命运现在开始运动起来！",
       "name": "空を見上げる少女の瞳に映る世界",
       "name_cn": "仰望天空的少女瞳中的世界",
       "tags": [
@@ -2676,6 +2680,7 @@
       "id": 887,
       "eps": 9,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2816,11 +2821,11 @@
       "date": "2009-01-01",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/36/7298_ugN00.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/36/7298_ugN00.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/cc/36/7298_ugN00.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/36/7298_ugN00.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/36/7298_ugN00.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/36/7298_xzSYJ.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/36/7298_xzSYJ.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/cc/36/7298_xzSYJ.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/36/7298_xzSYJ.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/36/7298_xzSYJ.jpg"
       },
       "summary": "大元帅系真言密教宗派之一光言宗有一种神秘的法术，令那些对人世间仍有眷恋的女性死尸变成有思想会感情能走动的尸姬。尸姬的能力比常人强数倍，更有不死之身，她们必须与光言宗的僧人订下契约，把其他为祸人间的僵尸杀死。只要杀满一百零八具就可以圆约，升上天堂。\r\n义兄田神景世死后，旺里成为真姬那的契约僧，二人继续并肩与“七星”作战。",
       "name": "屍姫 玄",
@@ -2954,17 +2959,18 @@
       "id": 7298,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c4/01/923_c56lq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c4/01/923_c56lq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c4/01/923_c56lq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c4/01/923_c56lq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c4/01/923_c56lq.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c4/01/923_8UCmL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c4/01/923_8UCmL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c4/01/923_8UCmL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c4/01/923_8UCmL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c4/01/923_8UCmL.jpg"
           },
           "name": "屍姫 赫",
           "name_cn": "尸姬 赫",
@@ -3052,7 +3058,6 @@
         "小说改",
         "日常",
         "日本",
-        "更本就没男猪脚",
         "校园",
         "植田佳奈",
         "治愈",
@@ -3062,6 +3067,7 @@
         "百合赛高",
         "续作",
         "能登麻美子",
+        "补番",
         "轻小说改",
         "轻改"
       ],
@@ -3123,6 +3129,7 @@
       "id": 1321,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3324,6 +3331,7 @@
       "id": 888,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3408,11 +3416,11 @@
       "date": "2009-01-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/4a/886_fv5Xy.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/4a/886_fv5Xy.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/70/4a/886_fv5Xy.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/4a/886_fv5Xy.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/4a/886_fv5Xy.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/4a/886_I9s0G.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/4a/886_I9s0G.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/70/4a/886_I9s0G.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/4a/886_I9s0G.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/4a/886_I9s0G.jpg"
       },
       "summary": "轨道历311年，人类的生活圈中心已经转移向宇宙，在那个时代，有无数的殖民群落飘浮在宇宙空间。\r\n少女秋叶是在开发宇宙方面名动四方的狮子堂财团中的狮子堂五姐妹中的三女。在殖民星出生，也在那里被养育长大，并正在殖民星学校上学。就是这个极其普通的少女，某一天忽然和一个叫做“雷欧帕尔德”的内置人工智能的殖民星相识。这个拥有人类思考能力的人工智能的家伙个性恶劣、自私、还光口出恶言，可以说是集人类的恶劣于一身。兴趣是上网的它在面对秋叶的时候也是相当蛮横无礼，秋叶对于它把自己当做佣人使唤的事情相当的反感。不过，这个雷欧帕尔德却怀有一个相当大的目的……",
       "name": "宇宙をかける少女",
@@ -3507,6 +3515,7 @@
       "id": 886,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3686,6 +3695,7 @@
         "奇幻",
         "小林常夫",
         "少女",
+        "年代久远无印象派",
         "幻想",
         "战斗",
         "既视感",
@@ -3697,7 +3707,6 @@
         "漫画改",
         "漫画改编",
         "热血",
-        "电视版",
         "裸足",
         "韩国",
         "黑神"
@@ -3736,6 +3745,7 @@
       "id": 898,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3939,6 +3949,7 @@
       "id": 2889,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4131,6 +4142,7 @@
       "id": 3641,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4329,7 +4341,7 @@
         },
         {
           "key": "动画制作",
-          "value": "SEVEN・ARCS"
+          "value": "Seven Arcs"
         },
         {
           "key": "制作",
@@ -4340,6 +4352,7 @@
       "id": 993,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4367,7 +4380,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/71/2586_TKsEE.jpg"
           },
           "name": "WHITE ALBUM-後半",
-          "name_cn": "白色相簿 下半编章",
+          "name_cn": "白色相簿-后半",
           "relation": "续集",
           "type": 2,
           "id": 2586
@@ -4483,6 +4496,7 @@
         "=",
         "Loli养成",
         "TMS",
+        "TMS_Entertainment",
         "TV",
         "TVA",
         "noitaminA",
@@ -4491,11 +4505,9 @@
         "动画版",
         "历史",
         "古典",
-        "名著改",
         "和风",
         "夭折",
         "小说改",
-        "惯性使然",
         "手冢Production",
         "手塚PRODUCTION",
         "日本动画",
@@ -4505,6 +4517,7 @@
         "櫻井孝宏",
         "源氏物语",
         "神思者",
+        "补番",
         "遠藤綾"
       ],
       "infobox": [
@@ -4577,6 +4590,7 @@
       "id": 2098,
       "eps": 11,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4643,6 +4657,7 @@
       "name": "夢をかなえるゾウ",
       "name_cn": "梦象成真",
       "tags": [
+        "studiodeen",
         "空"
       ],
       "infobox": [
@@ -4671,6 +4686,7 @@
       "id": 209691,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4695,6 +4711,7 @@
       "name_cn": "海豹宝宝",
       "tags": [
         "TMS",
+        "TMSEntertainment",
         "治愈",
         "萌"
       ],
@@ -4760,6 +4777,7 @@
       "id": 1530,
       "eps": 51,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4791,6 +4809,7 @@
         "アニメ映画",
         "サンライズ",
         "五武冬史",
+        "今西隆志",
         "剧场版",
         "剧情",
         "动画",
@@ -4806,7 +4825,6 @@
         "机甲",
         "真实系",
         "科幻",
-        "经典",
         "萝卜",
         "装甲騎兵ボトムズ",
         "装甲骑兵",
@@ -4862,6 +4880,7 @@
       "id": 30223,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4966,6 +4985,7 @@
       "id": 54529,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5018,11 +5038,11 @@
         "搞笑",
         "日常",
         "松冈美羽",
+        "横手美智子",
         "治愈",
         "治愈系",
         "漫改",
         "漫画改",
-        "生天目仁美",
         "百合",
         "童夢",
         "童梦",
@@ -5115,6 +5135,7 @@
       "id": 918,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5192,7 +5213,6 @@
         "井口裕香",
         "动画",
         "卖萌",
-        "原创",
         "小说改",
         "搞笑",
         "日常",
@@ -5207,6 +5227,7 @@
         "轻改",
         "鎌池和馬",
         "镰池和马",
+        "魔法",
         "魔法禁书目录",
         "魔法禁书目录炭",
         "魔禁"
@@ -5236,6 +5257,10 @@
           "value": "2009年1月23日"
         },
         {
+          "key": "开始",
+          "value": "2009年1月23日"
+        },
+        {
           "key": "结束",
           "value": "2019年4月30日"
         }
@@ -5244,24 +5269,11 @@
       "id": 25363,
       "eps": 6,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/1b/3559_rrwkw.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/1b/3559_rrwkw.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f1/1b/3559_rrwkw.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/1b/3559_rrwkw.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/1b/3559_rrwkw.jpg"
-          },
-          "name": "とある魔術の禁書目録",
-          "name_cn": "魔法禁书目录",
-          "relation": "书籍",
-          "type": 1,
-          "id": 3559
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/6d/1014_nqAH8.jpg",
@@ -5275,6 +5287,20 @@
           "relation": "主线故事",
           "type": 2,
           "id": 1014
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/1b/3559_rrwkw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/1b/3559_rrwkw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/1b/3559_rrwkw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/1b/3559_rrwkw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/1b/3559_rrwkw.jpg"
+          },
+          "name": "とある魔術の禁書目録",
+          "name_cn": "魔法禁书目录",
+          "relation": "书籍",
+          "type": 1,
+          "id": 3559
         },
         {
           "images": {
@@ -5399,6 +5425,7 @@
       "id": 38428,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5454,7 +5481,6 @@
         "2009",
         "2009年",
         "2009年1月",
-        "2009年9月",
         "Diomedea",
         "Diomedéa",
         "LOLI",
@@ -5476,6 +5502,7 @@
         "爱萝莉救世界",
         "糟糕",
         "肉",
+        "菅沼栄治",
         "菅沼荣治",
         "萌",
         "萝莉",
@@ -5548,6 +5575,7 @@
       "id": 4830,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5727,6 +5755,7 @@
       "id": 1911,
       "eps": 0,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 4,

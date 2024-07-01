@@ -57,6 +57,7 @@
       "id": 78060,
       "eps": 3,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -88,6 +89,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 314568
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/63/493262_XZ7m3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/63/493262_XZ7m3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/63/493262_XZ7m3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/63/493262_XZ7m3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/63/493262_XZ7m3.jpg"
+          },
+          "name": "RISING SOUL",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 493262
         }
       ]
     }

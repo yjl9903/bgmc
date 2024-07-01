@@ -25,6 +25,7 @@
         "ゲゲゲの鬼太郎",
         "东映",
         "东映动画",
+        "什真先",
         "动",
         "奇幻",
         "子供向",
@@ -38,6 +39,7 @@
         "童年",
         "经典",
         "补番",
+        "高畑勋",
         "鬼太郎"
       ],
       "infobox": [
@@ -81,6 +83,7 @@
       "id": 40379,
       "eps": 65,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -140,6 +143,48 @@
           "relation": "番外篇",
           "type": 2,
           "id": 211091
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/64/499013_a0i02.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/64/499013_a0i02.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f8/64/499013_a0i02.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/64/499013_a0i02.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/64/499013_a0i02.jpg"
+          },
+          "name": "ゲゲゲの鬼太郎 / ハリスの旋風",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 499013
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/a4/499014_InDmd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/a4/499014_InDmd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d2/a4/499014_InDmd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/a4/499014_InDmd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/a4/499014_InDmd.jpg"
+          },
+          "name": "ゲゲゲの鬼太郎 / カランコロンの歌",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499014
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/cc/499015_80XYP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1d/cc/499015_80XYP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1d/cc/499015_80XYP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1d/cc/499015_80XYP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1d/cc/499015_80XYP.jpg"
+          },
+          "name": "ナイナイ音頭 / メキシコ・オリンピック・マーチ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 499015
         }
       ]
     }

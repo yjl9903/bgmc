@@ -17,6 +17,7 @@
       "name_cn": "哦! 超级小奶糖",
       "tags": [
         "2000",
+        "StudioPierrot",
         "TV",
         "动作",
         "喜剧",
@@ -57,6 +58,7 @@
       "id": 85771,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -123,7 +125,6 @@
         "大地丙太郎",
         "安原麗子",
         "小池健",
-        "小池键第一集20分开始的打戏好看炸！",
         "岡村明美",
         "战斗",
         "搞笑",
@@ -132,6 +133,7 @@
         "时代剧",
         "横手美智子",
         "武士",
+        "治愈",
         "流浪",
         "百合",
         "补番",
@@ -197,6 +199,7 @@
       "id": 4047,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -228,6 +231,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 116110
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/99/493818_iff3Q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/99/493818_iff3Q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/99/493818_iff3Q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/99/493818_iff3Q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/99/493818_iff3Q.jpg"
+          },
+          "name": "風まかせ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 493818
         }
       ]
     }
@@ -325,6 +342,7 @@
       "id": 37487,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -351,7 +369,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/75/51/65643_0Kk4j.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/75/51/65643_0Kk4j.jpg"
           },
-          "name": "発進前夜 ～Get a dream! ～ (NHKアニメーション「女神候補生」)",
+          "name": "発進前夜 ～Get a dream! ～",
           "name_cn": "",
           "relation": "插入歌",
           "type": 3,
@@ -359,11 +377,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/9c/119847_AK6z0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/9c/119847_AK6z0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/15/9c/119847_AK6z0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/9c/119847_AK6z0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/9c/119847_AK6z0.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/9c/119847_95Ku4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/9c/119847_95Ku4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/9c/119847_95Ku4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/9c/119847_95Ku4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/9c/119847_95Ku4.jpg"
           },
           "name": "チャンス",
           "name_cn": "",
@@ -413,6 +431,7 @@
         "Lain",
         "MADHouse",
         "TV",
+        "TVA",
         "上远野浩平",
         "不吉波普不笑",
         "世界系",
@@ -425,7 +444,6 @@
         "抑郁",
         "日本动画",
         "村井さだゆき",
-        "村井贞之",
         "校园",
         "清水香里",
         "渡部高志",
@@ -560,6 +578,7 @@
       "id": 3769,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -676,10 +695,8 @@
         "TVB",
         "サンライズ",
         "五武冬史",
-        "动画",
         "勇者シリーズ",
         "勇者王",
-        "勇者系列",
         "原创",
         "山口祐司",
         "废燃",
@@ -691,11 +708,13 @@
         "燃",
         "田中公平",
         "神仙打架",
+        "神作",
         "科幻",
         "童年",
         "米たにヨシトモ",
         "米谷良知",
-        "萝卜"
+        "萝卜",
+        "补番"
       ],
       "infobox": [
         {
@@ -727,30 +746,75 @@
           "value": "©サンライズ"
         },
         {
-          "key": "副导演",
-          "value": "原田奈奈"
+          "key": "企画",
+          "value": "サンライズ"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇"
+        },
+        {
+          "key": "人物设定",
+          "value": "木村貴宏"
         },
         {
           "key": "机械设定",
           "value": "大河原邦男、藤田一己"
         },
         {
-          "key": "美术",
+          "key": "设定",
+          "value": "鈴木竜也、鈴木卓也、中谷誠一、岡田有章、井上邦彦、鈴木雅久、萩原栄一（big body）、高倉武史、秋山英一  スペシャルコンセプター：野崎透"
+        },
+        {
+          "key": "美术监督",
           "value": "佐藤勝、加藤朋則、島田雄司、岡田順"
         },
         {
-          "key": "摄影",
+          "key": "摄影监督",
           "value": "関戸宏樹、木部さおり、津村治彦、桑原賢治"
         },
         {
-          "key": "设计工作",
-          "value": "鈴木竜也、鈴木卓也、中谷誠一、岡田有章"
+          "key": "监修",
+          "value": "高橋良輔"
+        },
+        {
+          "key": "音响监督",
+          "value": "千葉耕市、藤野貞義"
+        },
+        {
+          "key": "制片人",
+          "value": "尾留川宏之、小林真一郎、河内山隆（８話）"
+        },
+        {
+          "key": "助理制片人",
+          "value": "河内山隆（１話～７話）、松村圭一（５話～８話）"
+        },
+        {
+          "key": "製作",
+          "value": "ビクターエンタテインメント、サンライズ"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "佐々木史朗、福田正夫"
+        },
+        {
+          "key": "特效",
+          "value": "干場豊、長谷川敏生（マリックス）"
+        },
+        {
+          "key": "美术设计",
+          "value": "平澤晃弘、服部由美子"
+        },
+        {
+          "key": "剪辑",
+          "value": "布施由美子、野尻由紀子（ウインズ）"
         }
       ],
       "total_episodes": 8,
       "id": 2979,
       "eps": 8,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -805,7 +869,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/d2/11352_su2M8.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/d2/11352_su2M8.jpg"
           },
-          "name": "勇者王誕生!-神話(マイソロジー)バージョン",
+          "name": "勇者王誕生! -神話(マイソロジー)バージョン-",
           "name_cn": "勇者王GAOGAIGAR FINAL OP",
           "relation": "片头曲",
           "type": 3,

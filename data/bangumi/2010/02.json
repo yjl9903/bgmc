@@ -19,7 +19,6 @@
         "2010",
         "2010年2月",
         "TV",
-        "TVA",
         "precure",
         "ハートキャッチプリキュア",
         "プリキュア",
@@ -37,6 +36,7 @@
         "東映アニメーション",
         "水樹奈々",
         "治愈",
+        "燃",
         "百合",
         "長峯達也",
         "长峰达也",
@@ -140,6 +140,7 @@
       "id": 4124,
       "eps": 49,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -520,6 +521,7 @@
         "2023",
         "SP",
         "TMS",
+        "TMSEntertainment",
         "TV",
         "TVSP",
         "lxy",
@@ -530,7 +532,6 @@
         "动画",
         "增山江威子",
         "大川俊道",
-        "大长篇",
         "小林清志",
         "战斗",
         "搞笑",
@@ -541,7 +542,7 @@
         "漫改",
         "漫画改",
         "秋田犬",
-        "纳谷悟朗",
+        "网野哲郎",
         "风魔一族",
         "鲁邦三世"
       ],
@@ -575,6 +576,7 @@
       "id": 49313,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -592,6 +594,20 @@
           "relation": "主线故事",
           "type": 2,
           "id": 24274
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/2c/497505_El9D4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/2c/497505_El9D4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/83/2c/497505_El9D4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/2c/497505_El9D4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/2c/497505_El9D4.jpg"
+          },
+          "name": "LUPIN THE THIRD ～ the Last Job ～",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 497505
         }
       ]
     }
@@ -617,6 +633,7 @@
         "TV",
         "搞笑",
         "日常",
+        "日本电视台",
         "日番",
         "欢乐",
         "泡面番",
@@ -652,6 +669,7 @@
       "id": 46076,
       "eps": 41,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -797,6 +815,7 @@
       "id": 3375,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -958,11 +977,11 @@
         "渡辺久美子",
         "漫改",
         "漫画改",
+        "爆笑",
         "科幻",
         "草尾毅",
         "誕生!究極ケロロ奇跡の時空島であります!!",
-        "超劇場版ケロロ軍曹",
-        "遗作"
+        "超劇場版ケロロ軍曹"
       ],
       "infobox": [
         {
@@ -974,12 +993,15 @@
           "value": [
             {
               "v": "超剧场版 Keroro军曹5 诞生！究极Keroro奇迹的时空之岛！！"
+            },
+            {
+              "v": "Chou Gekijouban Keroro Gunsou Tanjou! Kyuukyoku Keroro Kiseki no Jikuujima de Arimasu!"
             }
           ]
         },
         {
           "key": "上映年度",
-          "value": "2010-02-27"
+          "value": "2010年2月27日"
         },
         {
           "key": "片长",
@@ -990,6 +1012,10 @@
           "value": "http://www.keroro-movie.net/"
         },
         {
+          "key": "话数",
+          "value": "1"
+        },
+        {
           "key": "原作",
           "value": "吉崎観音"
         },
@@ -998,22 +1024,43 @@
           "value": "山口晋"
         },
         {
-          "key": "话数",
-          "value": "1"
-        },
-        {
           "key": "人物设定",
           "value": "追崎史敏"
         },
         {
           "key": "总导演",
           "value": "佐藤順一"
+        },
+        {
+          "key": "美术监督",
+          "value": "田尻健一"
+        },
+        {
+          "key": "色彩设计",
+          "value": "中里智恵"
+        },
+        {
+          "key": "影监督",
+          "value": "福士享、後藤健男"
+        },
+        {
+          "key": "剪辑",
+          "value": "今井大介"
+        },
+        {
+          "key": "音响监督",
+          "value": "鶴岡陽太"
+        },
+        {
+          "key": "制片人",
+          "value": "渡辺啓之、大橋千恵雄"
         }
       ],
       "total_episodes": 1,
       "id": 3765,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1100,30 +1147,30 @@
         "CasioEntertainment",
         "I.G",
         "OVA",
+        "OVA或OAD",
         "Production",
         "Production.I.G",
         "ProductionI.G",
-        "STUDIO.4℃",
         "Studio4℃",
         "halo",
         "东映",
         "二村秀树",
+        "作画不喜",
         "士官长",
         "微软",
         "战斗",
         "押井守",
         "日本",
-        "村木靖",
         "東映アニメーション",
         "游戏",
         "游戏改",
+        "独立ova",
         "真下耕一",
         "科幻",
         "荒牧伸志",
         "西尾大介",
         "触手",
-        "这不是斯巴达！",
-        "这都有6.5"
+        "这不是斯巴达！"
       ],
       "infobox": [
         {
@@ -1179,6 +1226,7 @@
       "id": 3782,
       "eps": 8,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

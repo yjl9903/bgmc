@@ -97,6 +97,7 @@
       "id": 330,
       "eps": 14,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -454,6 +455,7 @@
       "id": 54760,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -498,7 +500,6 @@
         "A-1",
         "A-1Pictures",
         "A-1_Pictures",
-        "SF",
         "TV",
         "web系",
         "りょーちも",
@@ -514,6 +515,7 @@
         "战斗系",
         "日本动画",
         "水上清资",
+        "渡边信一郎",
         "漫改",
         "漫画改",
         "科幻",
@@ -593,6 +595,7 @@
       "id": 2443,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -796,6 +799,7 @@
       "id": 11645,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -985,6 +989,7 @@
       "id": 492,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1074,7 +1079,6 @@
         "TV",
         "主仆",
         "井上和彦",
-        "吉森信",
         "夏目友人帐",
         "夏目友人帳",
         "夏目友人账",
@@ -1086,6 +1090,7 @@
         "弱气受",
         "感人",
         "日常",
+        "日本",
         "治愈",
         "治愈系",
         "温情",
@@ -1105,7 +1110,10 @@
           "key": "别名",
           "value": [
             {
-              "v": "夏目友人帐 一"
+              "v": "Natsume Yuujinchou"
+            },
+            {
+              "v": "Natsume's Book of Friends"
             }
           ]
         },
@@ -1118,41 +1126,105 @@
           "value": "2008年7月7日"
         },
         {
+          "key": "官方网站",
+          "value": [
+            {
+              "v": "http://www.natsume-anime.jp/"
+            },
+            {
+              "v": "https://www.tv-tokyo.co.jp/anime/natsume/"
+            }
+          ]
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ東京"
+        },
+        {
           "key": "播放结束",
           "value": "2008年9月30日"
         },
         {
+          "key": "Copyright",
+          "value": "©緑川ゆき・白泉社／「夏目友人帳」製作委員会"
+        },
+        {
           "key": "原作",
-          "value": "緑川ゆき"
+          "value": "緑川ゆき（白泉社「月刊LaLa」「LaLa DX」連載）"
         },
         {
           "key": "导演",
           "value": "大森貴弘"
         },
         {
-          "key": "系列构成",
-          "value": "金巻兼一"
+          "key": "人物设定",
+          "value": "髙田晃"
         },
         {
-          "key": "音乐",
-          "value": "吉森信"
+          "key": "美术监督",
+          "value": "渋谷幸弘（石垣プロダクション）"
+        },
+        {
+          "key": "摄影监督",
+          "value": "田村仁（デコロコ）"
+        },
+        {
+          "key": "设定",
+          "value": "妖怪设计：山田起生"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "TAKUYA、h-wonder / 羽毛田丈史"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "TAKUYA / 江崎とし子"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "椎名慶治 / 江崎とし子"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "喜多修平 / 中孝介"
+        },
+        {
+          "key": "製作",
+          "value": "「夏目友人帳」製作委員会"
+        },
+        {
+          "key": "制作",
+          "value": "NAS"
+        },
+        {
+          "key": "企画",
+          "value": "山崎立士、植田益朗、白石誠（テレビ東京）、内山晴人"
+        },
+        {
+          "key": "制片人",
+          "value": "小田原明子（テレビ東京）、三宅将典、横山朱子、市川育秀"
+        },
+        {
+          "key": "动画制片人",
+          "value": "佐藤由美"
         }
       ],
       "total_episodes": 13,
       "id": 259,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/bc/891_d5mwr.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/bc/891_d5mwr.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cf/bc/891_d5mwr.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/bc/891_d5mwr.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/bc/891_d5mwr.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/bc/891_MR08Z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/bc/891_MR08Z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/bc/891_MR08Z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/bc/891_MR08Z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/bc/891_MR08Z.jpg"
           },
           "name": "続 夏目友人帳",
           "name_cn": "续 夏目友人帐",
@@ -1285,7 +1357,7 @@
         "最萌",
         "电击文库",
         "穿越",
-        "第三季",
+        "紅優",
         "贫乳",
         "轻小说改",
         "轻改",
@@ -1392,6 +1464,7 @@
       "id": 763,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1630,9 +1703,9 @@
         "2008年",
         "2008年7月",
         "TV",
+        "TVA",
         "TV动画",
         "凉子女王",
-        "动画",
         "动画工房",
         "動画工房",
         "奇幻",
@@ -1739,6 +1812,7 @@
       "id": 907,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1873,6 +1947,7 @@
       "id": 15184,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2036,6 +2111,7 @@
       "id": 2087,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2108,7 +2184,6 @@
         "Diomedea",
         "Diomedéa",
         "TV",
-        "ディオメディア",
         "乃木坂春香の秘密",
         "乃木坂春香的秘密",
         "动画",
@@ -2129,6 +2204,7 @@
         "白银星屑",
         "能登",
         "能登麻美子",
+        "补番",
         "轻小说改",
         "轻改",
         "闪光弹"
@@ -2191,6 +2267,7 @@
       "id": 762,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2290,21 +2367,21 @@
         "2008年7月",
         "GONZO",
         "LOLI",
+        "Loli",
         "STRIKE_WICTHES",
         "TV",
         "パンツじゃないから恥ずかしくないもん",
         "兽耳",
         "内裤",
         "军事",
-        "卖肉",
         "原创",
         "奇幻",
         "小裤裤",
         "島田フミカネ",
         "强袭魔女",
-        "战争",
         "战斗",
         "日常",
+        "日本",
         "机战",
         "杀必死",
         "百合",
@@ -2388,6 +2465,7 @@
       "id": 698,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3030,7 +3108,6 @@
         "御姐",
         "战斗",
         "打斗",
-        "日本",
         "日本动画",
         "早見沙織",
         "早见沙织",
@@ -3038,6 +3115,7 @@
         "漫画改",
         "烂尾",
         "碎衣",
+        "福利",
         "肉",
         "肉番",
         "花泽香菜",
@@ -3098,6 +3176,7 @@
       "id": 325,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3171,6 +3250,34 @@
           "relation": "游戏",
           "type": 4,
           "id": 198197
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/85/499566_kpju6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/85/499566_kpju6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1c/85/499566_kpju6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/85/499566_kpju6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/85/499566_kpju6.jpg"
+          },
+          "name": "セキレイ サウンドステージ01",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 499566
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/74/499567_JJaj7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/74/499567_JJaj7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/74/499567_JJaj7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/74/499567_JJaj7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/74/499567_JJaj7.jpg"
+          },
+          "name": "セキレイ サウンドステージ02",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 499567
         }
       ]
     }
@@ -3192,6 +3299,7 @@
       "name": "スケアクロウマン",
       "name_cn": "稻草男",
       "tags": [
+        "TV",
         "空",
         "补"
       ],
@@ -3229,6 +3337,7 @@
       "id": 11877,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3248,7 +3357,7 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6e/7b/807_97bh8.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/6e/7b/807_97bh8.jpg"
       },
-      "summary": "故事的舞台在现代的东京。在这个世界中魔法使的存在被认为是很普通的事情。只要通过正式的办理手续，谁都可以成为拥有魔法的魔法使。虽然如此，但它和我们所住的世界还是没什么区别的。电视、移动电话、电脑这些东西也都有，汽车也是靠汽油开动的.为了营造画面真实感，片中的场景就像建筑广告，而熙来攘往的人群、电车，都与现实世界无二",
+      "summary": "故事的舞台在现代的东京。但在这个世界中魔法使的存在被认为是很普通的事情。虽然如此，它和我们所住的世界还是没什么区别的。电视、移动电话、电脑这些东西也都有，汽车也是靠汽油开动的，电车、飞机也是靠科学的力量开动的。周围存在着的魔法使，其实只要通过正式的办理手续，谁都可以成为。当魔法出现在你面前，当魔法进入日常社会，当魔法改变你的生活的时候。那么掌握魔力的魔法使他们，是如何遵守魔法的守则！",
       "name": "魔法遣いに大切なこと 〜夏のソラ〜",
       "name_cn": "魔法使的条件 夏季的天空",
       "tags": [
@@ -3268,13 +3377,13 @@
         "小林治",
         "山田典枝",
         "幻想",
+        "日常",
         "日本",
         "校园",
         "治愈",
         "治愈系",
         "漫改",
         "漫画改",
-        "矶光雄",
         "羽毛田丈史",
         "花泽香菜",
         "花澤香菜",
@@ -3361,17 +3470,18 @@
       "id": 807,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/87/3395_LyJV4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/87/3395_LyJV4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/82/87/3395_LyJV4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/87/3395_LyJV4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/87/3395_LyJV4.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/87/3395_wc7i6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/87/3395_wc7i6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/82/87/3395_wc7i6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/87/3395_wc7i6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/87/3395_wc7i6.jpg"
           },
           "name": "魔法遣いに大切なこと",
           "name_cn": "魔法使的条件",
@@ -3578,6 +3688,7 @@
       "id": 811,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3751,6 +3862,7 @@
       "id": 21035,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3910,6 +4022,7 @@
       "id": 482,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3969,6 +4082,34 @@
           "relation": "书籍",
           "type": 1,
           "id": 50649
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/27/493662_o9RZr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/27/493662_o9RZr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e7/27/493662_o9RZr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e7/27/493662_o9RZr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e7/27/493662_o9RZr.jpg"
+          },
+          "name": "서양골동양과자점 앤티크",
+          "name_cn": "西洋古董洋果子店",
+          "relation": "三次元",
+          "type": 6,
+          "id": 493662
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/52/493692_XmBpb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/52/493692_XmBpb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/86/52/493692_XmBpb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/52/493692_XmBpb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/52/493692_XmBpb.jpg"
+          },
+          "name": "รักของผม ขนมของคุณ",
+          "name_cn": "你的甜品我的爱",
+          "relation": "三次元",
+          "type": 6,
+          "id": 493692
         }
       ]
     }
@@ -3998,7 +4139,6 @@
         "TMSEntertainment",
         "TV",
         "TVSP",
-        "アミノテツロー",
         "ルパン三世",
         "五右卫门SAMA",
         "冒险",
@@ -4008,16 +4148,17 @@
         "名探偵コナン",
         "大川俊道",
         "小林清志",
-        "怪盗",
         "战斗",
         "搞笑",
         "日本",
         "日本动画",
         "栗田貫一",
         "栗田贯一",
+        "沢城みゆき",
         "漫改",
         "漫画改",
         "网野哲郎",
+        "补番",
         "鲁邦三世",
         "黑暗"
       ],
@@ -4047,6 +4188,7 @@
       "id": 84998,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4085,13 +4227,11 @@
       "name": "タカネの自転車",
       "name_cn": "高岭的自行车",
       "tags": [
-        "00s2",
         "2008",
         "2008年7月",
         "A-1Pictures",
         "A-1_Pictures",
         "Animax动画大赏",
-        "BB",
         "OVA",
         "SHORTS",
         "TV",
@@ -4101,20 +4241,22 @@
         "タカマガハヤト",
         "五星",
         "亲情",
+        "动画",
         "原创",
         "坂本真綾",
         "坂本真绫",
         "妖怪",
         "小林克良",
-        "折笠富美子",
         "日本",
         "旧物",
         "池田成",
+        "狐狸",
         "独立ova",
         "短",
         "短片",
         "石田彰",
-        "神村幸子"
+        "神村幸子",
+        "补番"
       ],
       "infobox": [
         {
@@ -4150,6 +4292,7 @@
       "id": 10558,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4263,6 +4406,7 @@
       "id": 313,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4476,7 +4620,7 @@
         },
         {
           "key": "上映年度",
-          "value": "2008-07-19"
+          "value": "2008年7月19日"
         },
         {
           "key": "片长",
@@ -4527,6 +4671,7 @@
       "id": 3032,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4572,20 +4717,6 @@
           "relation": "续集",
           "type": 2,
           "id": 3033
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/70/19618_Ko0O4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/70/19618_Ko0O4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3c/70/19618_Ko0O4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/70/19618_Ko0O4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/70/19618_Ko0O4.jpg"
-          },
-          "name": "劇場版ポケットモンスター ベストウイッシュ ビクティニと黒き英雄 ゼクロム",
-          "name_cn": "剧场版 精灵宝可梦超级愿望：比克提尼与黑英雄 捷克罗姆",
-          "relation": "续集",
-          "type": 2,
-          "id": 19618
         },
         {
           "images": {
@@ -4646,8 +4777,8 @@
         "SF",
         "伊藤和典",
         "剧场版",
-        "劇場版",
         "动画",
+        "原创",
         "士郎正宗",
         "复刻",
         "川井宪次",
@@ -4716,6 +4847,7 @@
       "id": 10291,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4885,6 +5017,7 @@
       "id": 37873,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4959,7 +5092,7 @@
         "SchoolRumble",
         "School_Rumble",
         "StudioComet",
-        "动画",
+        "党争",
         "喜剧",
         "喧嚣学院3",
         "堀江由衣",
@@ -5083,6 +5216,7 @@
       "id": 1879,
       "eps": 2,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5149,6 +5283,8 @@
       "name": "それいけ!アンパンマン ヒヤヒヤヒヤリコとばぶ・ばぶばいきんまん",
       "name_cn": "",
       "tags": [
+        "2008",
+        "TMSEntertainment",
         "子供向"
       ],
       "infobox": [
@@ -5212,6 +5348,7 @@
       "id": 422507,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5264,6 +5401,8 @@
       "name": "それいけ!アンパンマン 妖精リンリンのひみつ",
       "name_cn": "面包超人：妖精琳琳的秘密",
       "tags": [
+        "2008",
+        "TMSEntertainment",
         "子供向"
       ],
       "infobox": [
@@ -5345,6 +5484,7 @@
       "id": 335295,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

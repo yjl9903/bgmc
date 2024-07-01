@@ -65,7 +65,16 @@
               "v": "ポケットモンスター (2019)"
             },
             {
-              "v": "Pocket Monsters"
+              "v": "Pocket Monsters (2019)"
+            },
+            {
+              "v": "Pokemon Journeys: The Series"
+            },
+            {
+              "v": "Сериал Покемон: Приключения"
+            },
+            {
+              "v": "포켓몬스터W"
             }
           ]
         },
@@ -114,6 +123,22 @@
           "value": "安田周平"
         },
         {
+          "key": "美术监督",
+          "value": "武藤正敏"
+        },
+        {
+          "key": "色彩设计",
+          "value": "吉野記通"
+        },
+        {
+          "key": "摄影监督",
+          "value": "鈴木大倫"
+        },
+        {
+          "key": "剪辑",
+          "value": "野川仁"
+        },
+        {
           "key": "原画",
           "value": "一石小百合、涂泳策、毛利和昭、前並武志、西谷泰史"
         },
@@ -130,6 +155,7 @@
       "id": 292522,
       "eps": 136,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -234,11 +260,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/1b/411247_RHPPV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/1b/411247_RHPPV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/12/1b/411247_RHPPV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/1b/411247_RHPPV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/1b/411247_RHPPV.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/1b/411247_PX05P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/1b/411247_PX05P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/12/1b/411247_PX05P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/1b/411247_PX05P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/1b/411247_PX05P.jpg"
           },
           "name": "ポケットモンスター",
           "name_cn": "宝可梦 地平线",
@@ -259,6 +285,20 @@
           "relation": "衍生",
           "type": 2,
           "id": 411248
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/8d/500300_dDlzK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/8d/500300_dDlzK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4a/8d/500300_dDlzK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/8d/500300_dDlzK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/8d/500300_dDlzK.jpg"
+          },
+          "name": "アニメポケットモンスター リコとロイの冒険",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 500300
         },
         {
           "images": {
@@ -352,6 +392,7 @@
         "日本动画",
         "漫改",
         "漫画改",
+        "辻初树",
         "鲁邦三世",
         "黑暗"
       ],
@@ -416,6 +457,7 @@
       "id": 292940,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -472,7 +514,6 @@
         "2019年",
         "2019年10月",
         "2019年11月",
-        "40原",
         "A-Real",
         "OVA",
         "TV",
@@ -480,7 +521,9 @@
         "UWAN_PICTURES",
         "WEB",
         "一脸嫌弃表情的妹子给你看胖次",
+        "动画",
         "卖肉",
+        "嫌パン",
         "抖M",
         "日本",
         "日本动画",
@@ -496,8 +539,7 @@
         "第一视角",
         "续作",
         "肉",
-        "肉番",
-        "胖次"
+        "肉番"
       ],
       "infobox": [
         {
@@ -549,6 +591,7 @@
       "id": 256668,
       "eps": 6,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -607,15 +650,13 @@
         "2019年11月",
         "Lay-duce",
         "OVA",
-        "OVA&OAD",
         "TV",
         "TYOAnimations",
-        "なもり",
         "タカヒロ",
         "レイ・デュース",
         "一迅社",
+        "井上和俊",
         "动画工房",
-        "十周年",
         "山岸大悟",
         "搞笑",
         "摇曳百合",
@@ -626,8 +667,10 @@
         "治愈",
         "漫改",
         "漫画改",
+        "番外",
         "百合",
         "萌",
+        "补番",
         "轻百",
         "轻百合",
         "阿卡林"
@@ -720,6 +763,7 @@
       "id": 243787,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -934,6 +978,7 @@
       "id": 274243,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -990,13 +1035,13 @@
         "2019年",
         "2019年11月",
         "OVA",
+        "RE:0",
         "Re:ゼロから始める異世界生活",
         "Re:从零开始异世界生活",
         "Re：从零开始的异世界生活",
         "WHITEFOX",
         "WHITE_FOX",
         "re0",
-        "undefined",
         "剧场版",
         "后宫",
         "奇幻",
@@ -1051,6 +1096,7 @@
       "id": 261805,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1164,7 +1210,6 @@
         "剧场版",
         "原创",
         "奇幻",
-        "旭Production",
         "旭production",
         "短片",
         "糸曽賢志",
@@ -1224,6 +1269,7 @@
       "id": 284474,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1371,6 +1417,7 @@
       "id": 297088,
       "eps": 37,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1449,7 +1496,6 @@
         "剧场版",
         "动画",
         "多田俊介",
-        "太空",
         "太空歌剧",
         "宫野真守",
         "宮野真守",
@@ -1463,6 +1509,7 @@
         "科幻",
         "续作",
         "轻小说改",
+        "轻改",
         "重制版",
         "銀河英雄伝説",
         "银河英雄传说",
@@ -1522,6 +1569,7 @@
       "id": 226224,
       "eps": 4,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1781,6 +1829,7 @@
       "id": 278658,
       "eps": 12,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1887,10 +1936,10 @@
         "RWBY",
         "Rooster.Teeth",
         "RoosterTeeth",
-        "RoosterTeethProductions",
         "Rooster_Teeth",
         "TV",
         "WEB",
+        "anime",
         "rooster",
         "动画",
         "原创",
@@ -1932,6 +1981,7 @@
       "id": 285936,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2089,6 +2139,7 @@
       "id": 291175,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2185,6 +2236,7 @@
       "id": 302672,
       "eps": 20,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2207,188 +2259,6 @@
     }
   },
   {
-    "title": "HUMAN LOST 人間失格",
-    "date": "2019-11-28T16:00:00.000Z",
-    "bangumi": {
-      "date": null,
-      "platform": "剧场版",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/40/278768_v0aok.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/40/278768_v0aok.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/97/40/278768_v0aok.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/40/278768_v0aok.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/40/278768_v0aok.jpg"
-      },
-      "summary": "「我度过了羞耻很多的一生。」\r\n因医疗革命而克服了“死亡”的昭和111年的东京——。\r\n人类由体内的“纳米机器”与通过“网络”管理纳米机器的“S.H.E.L.L.”体制的支配下，得到了不会患病、不需疗伤、确定有120岁的寿命、无病长寿的保证。然而，在这极致的社会系统之下，国家诞生了诸样的扭曲。无法掩埋的经济差距、因不死而产生的颓废伦理观、重度环境污染。以及脱离S.H.E.L.L.网络后化为异形的“HUMAN LOST现象”。日本在文明的再生与崩坏的两种可能性之间剧烈晃荡着。\r\n\r\n大气污染严重的外部环状16号线之外——壹陆。沉溺于药物之中、过着怠惰的生活的大庭叶藏，某一日，与和暴走族集团共行的谜之男子·堀木正雄一同参加了对特权阶级所居住的内部环状7号线内的突击行动，卷入了激烈的斗争之中。在那里，遭遇了HUMAN LOST化的异形体——“丧失体”的叶藏，被所属于抗击丧失体机关“H.I.L.A.M”的有着不可思议的力量的少女·柊美子所救下，并得知了自己也拥有着与他人不同的力量——。\r\n\r\n堕落与死。生与希望。男子被命运所戏弄、撕裂了胸膛、叫喊着。\r\n愤怒、悲伤、同情——皆被绝望所吞没，流着血泪，大庭叶藏化为了“恶鬼”。\r\n你，是人间合格、抑或是人间失格——",
-      "name": "HUMAN LOST 人間失格",
-      "name_cn": "HUMAN LOST 人间失格",
-      "tags": [
-        "2019",
-        "2019劇場版",
-        "3D",
-        "Netflix",
-        "PolygonPictures",
-        "Polygon_Pictures",
-        "SF",
-        "アニメ映画",
-        "ポリゴン・ピクチュアズ",
-        "三渲二",
-        "人间失格",
-        "冲方丁",
-        "剧场版",
-        "动画",
-        "动画电影",
-        "原创",
-        "反乌托邦",
-        "宮野真守",
-        "小说改",
-        "屹青",
-        "战斗",
-        "搞笑",
-        "日本",
-        "日本动画",
-        "木崎文智",
-        "木﨑文智",
-        "电影",
-        "科幻",
-        "补标",
-        "裂开"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "HUMAN LOST 人间失格"
-        },
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "人间失格"
-            }
-          ]
-        },
-        {
-          "key": "上映年度",
-          "value": [
-            {
-              "v": "2019年10月22日（美国）"
-            },
-            {
-              "v": "2019年11月29日（日本）"
-            }
-          ]
-        },
-        {
-          "key": "片长",
-          "value": "110分"
-        },
-        {
-          "key": "官方网站",
-          "value": "https://human-lost.jp/"
-        },
-        {
-          "key": "Copyright",
-          "value": "©2019 HUMAN LOST Project"
-        },
-        {
-          "key": "原案",
-          "value": "太宰治「人間失格」"
-        },
-        {
-          "key": "导演",
-          "value": "木﨑文智"
-        },
-        {
-          "key": "脚本",
-          "value": "冲方丁"
-        },
-        {
-          "key": "人物设定",
-          "value": "コザキユースケ"
-        },
-        {
-          "key": "监修",
-          "value": "本広克行"
-        },
-        {
-          "key": "动画制作",
-          "value": "ポリゴン・ピクチュアズ"
-        },
-        {
-          "key": "概念美术",
-          "value": "富安健一郎（INEI）"
-        },
-        {
-          "key": "故事原案",
-          "value": "冲方丁"
-        },
-        {
-          "key": "企划·出品",
-          "value": "MAGNET、スロウカーブ"
-        },
-        {
-          "key": "配给",
-          "value": "東宝映像事業部"
-        },
-        {
-          "key": "话数",
-          "value": "1"
-        }
-      ],
-      "total_episodes": 1,
-      "id": 278768,
-      "eps": 1,
-      "volumes": 0,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/0a/4839_6fbwW.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/0a/4839_6fbwW.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4b/0a/4839_6fbwW.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/0a/4839_6fbwW.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/0a/4839_6fbwW.jpg"
-          },
-          "name": "人間失格",
-          "name_cn": "人间失格",
-          "relation": "其他",
-          "type": 1,
-          "id": 2176
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/00/ef/285407_84RaX.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/00/ef/285407_84RaX.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/00/ef/285407_84RaX.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/00/ef/285407_84RaX.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/00/ef/285407_84RaX.jpg"
-          },
-          "name": "HUMAN LOST 人間失格",
-          "name_cn": "HUMAN LOST 人间失格",
-          "relation": "书籍",
-          "type": 1,
-          "id": 285407
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/eb/294314_4rnzZ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/eb/294314_4rnzZ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cd/eb/294314_4rnzZ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/eb/294314_4rnzZ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/eb/294314_4rnzZ.jpg"
-          },
-          "name": "HUMAN LOST feat. J. Balvin / against all gods",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 294314
-        }
-      ]
-    }
-  },
-  {
     "title": "劇場版 Gのレコンギスタ I 行け！コア・ファイター",
     "date": "2019-11-29",
     "bangumi": {
@@ -2406,7 +2276,9 @@
       "name_cn": "剧场版 高达G之复国运动 I 去吧！核心战机",
       "tags": [
         "10S",
+        "10代",
         "2010-2019",
+        "2010s",
         "2019",
         "2019年",
         "GUNDAM",
@@ -2424,16 +2296,14 @@
         "富野由悠季",
         "总集篇",
         "新世纪OVA及剧场",
+        "日昇动画",
         "日本",
         "日本动画",
         "映画",
         "机战",
-        "机甲原创",
-        "石井マーク",
         "科幻",
         "红萝卜与白萝卜",
         "萝卜",
-        "观看史",
         "高达"
       ],
       "infobox": [
@@ -2473,6 +2343,7 @@
       "id": 152365,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2574,7 +2445,6 @@
         "EastFishStudio",
         "OVA",
         "TearStudio",
-        "rionos",
         "イーストフィッシュスタジオ",
         "ティアスタジオ",
         "东鱼工作室",
@@ -2590,6 +2460,7 @@
         "日本动画",
         "时光碎片",
         "时光碎片系列",
+        "映画",
         "校园",
         "治愈",
         "漫改",
@@ -2655,6 +2526,7 @@
       "id": 277727,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2778,6 +2650,7 @@
       "id": 294820,
       "eps": 6,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2968,6 +2841,7 @@
       "id": 291053,
       "eps": 46,
       "volumes": 11,
+      "series": true,
       "locked": false,
       "nsfw": false,
       "type": 1,
@@ -3174,7 +3048,7 @@
       "name": "狐妖小红娘 尾生篇",
       "name_cn": "狐妖小红娘 尾生篇",
       "tags": [
-        "1",
+        "2010s",
         "2019",
         "2019年10月",
         "2019年3月",
@@ -3192,11 +3066,11 @@
         "奇幻",
         "恋爱",
         "搞笑",
+        "未定档",
         "治愈",
         "洛水花原",
         "漫改",
         "漫画改",
-        "狐妖",
         "狐妖小红娘",
         "现代国产网络动画已看合集",
         "第7季",
@@ -3427,6 +3301,7 @@
       "id": 282634,
       "eps": 10,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

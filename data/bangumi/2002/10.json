@@ -142,6 +142,7 @@
       "id": 18082,
       "eps": 55,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -264,10 +265,12 @@
       "name": "真・女神転生Dチルドレン ライト&amp;ダーク",
       "name_cn": "真女神转生 恶魔之子 光与暗",
       "tags": [
+        "-",
         "2002",
         "2002年",
         "2003",
         "Actas",
+        "Actas（第1话",
         "StudioComet",
         "TV",
         "TVA",
@@ -283,6 +286,8 @@
         "森久保祥太郎",
         "游戏改",
         "童年",
+        "第26话）、スタジオコメット|STUDIOCOMET（第27",
+        "第52话）",
         "藤田伸三",
         "魔力宝贝"
       ],
@@ -328,6 +333,7 @@
       "id": 35980,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -533,6 +539,7 @@
       "id": 47968,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -731,6 +738,7 @@
       "id": 10401,
       "eps": 52,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -766,8 +774,8 @@
         "悬疑",
         "推理",
         "推理の绊",
-        "推理之绊",
         "推理系",
+        "校园",
         "漫改",
         "漫画很神棍",
         "漫画改",
@@ -859,6 +867,7 @@
       "id": 2174,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -962,7 +971,6 @@
         "TV",
         "ぴえろ",
         "一吻定情",
-        "伊达勇登",
         "佐鸣",
         "奇幻",
         "小丑社",
@@ -978,6 +986,7 @@
         "热血",
         "热血少年",
         "热血系",
+        "燃",
         "童年",
         "连载",
         "长篇",
@@ -1076,6 +1085,7 @@
       "id": 3425,
       "eps": 220,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -1765,6 +1775,7 @@
         "RADIXMOBANIMATION",
         "RADIX_MOBANIMATION",
         "TV",
+        "TVA",
         "ところともかず",
         "ゼロGルーム",
         "内涵",
@@ -1776,7 +1787,6 @@
         "安倍吉俊",
         "广桥凉",
         "所智一",
-        "救赎",
         "日本",
         "治愈",
         "治愈系",
@@ -1795,6 +1805,10 @@
           "value": "灰羽联盟"
         },
         {
+          "key": "别名",
+          "value": "Haibane Renmei"
+        },
+        {
           "key": "话数",
           "value": "13"
         },
@@ -1803,8 +1817,28 @@
           "value": "2002年10月9日"
         },
         {
+          "key": "放送星期",
+          "value": "星期三"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.nbcuni.co.jp/rondorobe/anime/haibane/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "フジテレビ"
+        },
+        {
+          "key": "播放结束",
+          "value": "2002年12月18日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©安倍吉俊・光輪密造工房"
+        },
+        {
           "key": "原作",
-          "value": "安倍吉俊、～オールドホームの灰羽達～"
+          "value": "安倍吉俊（～オールドホームの灰羽達～）"
         },
         {
           "key": "导演",
@@ -1816,11 +1850,11 @@
         },
         {
           "key": "分镜",
-          "value": "ところともかず（1）、大森貴弘（2、8）、しまづあきとし（島津裕行）（3）、高田淳（4、9、12）、吉川浩司（5、10）、しまづ聡行（6、11、13）、坂本郷（望月智充）（6）、いまざきいつき（7）、山本裕介（12）"
+          "value": "ところともかず、大森貴弘、しまづあきとし (島津裕行)、高田淳、吉川浩司、しまづ聡行、坂本郷 (望月智充)、いまざきいつき、山本裕介"
         },
         {
           "key": "演出",
-          "value": "ところともかず（1）、いまざきいつき（2、7）、木村寛（3）、高田淳（4、9）、吉川浩司（5、10）、渡辺健一郎（6、13）、大森貴弘（8）、荒川眞嗣（11）、境橋渡（12）"
+          "value": "ところともかず、いまざきいつき、木村寛、高田淳、吉川浩司、渡辺健一郎、大森貴弘、荒川眞嗣、境橋渡"
         },
         {
           "key": "音乐",
@@ -1848,7 +1882,7 @@
         },
         {
           "key": "作画监督",
-          "value": "髙田晃（1、7、13）、工藤柾輝（2、7）、日高真由美（3）、氏家章雄（4、9）、清水貴子（5、10）、吉野真一（6，12）、下坂英男（6）、茂木琢次（7）、田中雄一（8）、井口忠一（11）、斎藤新明（12）、山下敏成（12）、阿部智之（12）"
+          "value": "髙田晃、工藤柾輝、日高真由美、氏家章雄、清水貴子、吉野真一、下坂英男、茂木琢次、田中雄一、井口忠一、斎藤新明、山下敏成、阿部智之"
         },
         {
           "key": "摄影监督",
@@ -1876,7 +1910,7 @@
         },
         {
           "key": "主题歌演出",
-          "value": "Heart of Air（伊藤真澄）"
+          "value": "Heart of Air (伊藤真澄)"
         },
         {
           "key": "企画",
@@ -1888,7 +1922,7 @@
         },
         {
           "key": "设定",
-          "value": "金澤洪充 (デザインワークス)、大森貴弘 (设定辅佐)"
+          "value": "金澤洪充 (DesignWorks)、大森貴弘 (设定辅佐)"
         },
         {
           "key": "音响监督",
@@ -1900,7 +1934,7 @@
         },
         {
           "key": "制片人",
-          "value": "ueda yasuyuki（上田耕行）、Henry後藤、岩谷能宣、春名剛生"
+          "value": "ueda yasuyuki(上田耕行)、Henry後藤、岩谷能宣、春名剛生"
         },
         {
           "key": "动画制作",
@@ -1912,23 +1946,7 @@
         },
         {
           "key": "OP・ED 分镜",
-          "value": "ねぎしひろし（ED）、ところともかず（OP）"
-        },
-        {
-          "key": "别名",
-          "value": "haibane renmei"
-        },
-        {
-          "key": "官方网站",
-          "value": "http://www.nbcuni.co.jp/rondorobe/anime/haibane/"
-        },
-        {
-          "key": "播放电视台",
-          "value": "フジテレビ"
-        },
-        {
-          "key": "播放结束",
-          "value": "2002年12月18日"
+          "value": "ところともかず(OP)、ねぎしひろし(ED)"
         },
         {
           "key": "混音",
@@ -1943,6 +1961,7 @@
       "id": 893,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2037,6 +2056,7 @@
       "name": "超重神グラヴィオン",
       "name_cn": "超重神GRAVION",
       "tags": [
+        "2000-2009",
         "2002",
         "2002年",
         "2002年10月",
@@ -2045,13 +2065,11 @@
         "TVA",
         "TVB",
         "中原麻衣",
-        "伪娘",
+        "动画",
         "原创",
         "后宫",
         "大张正己",
         "大張正己",
-        "大河原邦男",
-        "女仆",
         "季番",
         "巨乳",
         "志茂文彦",
@@ -2066,7 +2084,8 @@
         "肉片",
         "萝卜",
         "补番",
-        "速水奖"
+        "速水奖",
+        "面具人"
       ],
       "infobox": [
         {
@@ -2173,6 +2192,7 @@
       "id": 13015,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2300,12 +2320,14 @@
         "2002年10月",
         "2002秋",
         "300",
+        "6分",
+        "7分",
         "GONZO",
         "HSM",
         "KG",
         "TV",
+        "キディ・グレイド",
         "井上喜久子",
-        "动",
         "动画",
         "原创",
         "可看可不看",
@@ -2317,14 +2339,12 @@
         "机战",
         "百合",
         "科幻",
+        "英配",
+        "萝卜",
         "补番",
         "记不清",
         "超能力",
-        "车轮战",
-        "转生",
-        "都和主义",
-        "銀河戰警",
-        "题材风格不合"
+        "车轮战"
       ],
       "infobox": [
         {
@@ -2454,17 +2474,18 @@
       "id": 3815,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/c0/2726_kq6gK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/c0/2726_kq6gK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b1/c0/2726_kq6gK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/c0/2726_kq6gK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/c0/2726_kq6gK.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/c0/2726_uVnnX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/c0/2726_uVnnX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/c0/2726_uVnnX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/c0/2726_uVnnX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/c0/2726_uVnnX.jpg"
           },
           "name": "キディ・ガーランド",
           "name_cn": "天使特警2",
@@ -2508,7 +2529,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/1b/397156_JnN27.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/1b/397156_JnN27.jpg"
           },
-          "name": "Future / Little Viking",
+          "name": "Future",
           "name_cn": "未来",
           "relation": "片尾曲",
           "type": 3,
@@ -2608,7 +2629,7 @@
         "2002",
         "2002年",
         "7分",
-        "9.4",
+        "8.5",
         "MADHouse",
         "TV",
         "一路",
@@ -2630,10 +2651,10 @@
         "漫改",
         "漫画改",
         "熊井统子",
-        "画风清爽暖剧",
         "神作",
         "童年",
-        "花田少年史"
+        "花田少年史",
+        "补番"
       ],
       "infobox": [
         {
@@ -2708,6 +2729,7 @@
       "id": 8748,
       "eps": 25,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -2918,6 +2940,7 @@
       "id": 4123,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -3117,6 +3140,7 @@
       "id": 1860,
       "eps": 50,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4182,6 +4206,7 @@
       "id": 324,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4199,6 +4224,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 80550
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/10/496276_I5XnA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/10/496276_I5XnA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/10/496276_I5XnA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/10/496276_I5XnA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_I5XnA.jpg"
+          },
+          "name": "攻殻機動隊 新作TVアニメ",
+          "name_cn": "攻壳机动队 新作TV动画",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 496276
         },
         {
           "images": {
@@ -4279,7 +4318,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/72/213780_333jT.jpg"
           },
           "name": "攻殻機動隊 S.A.C. ONLINE",
-          "name_cn": "",
+          "name_cn": "攻壳机动队OL",
           "relation": "游戏",
           "type": 4,
           "id": 213780
@@ -4532,11 +4571,11 @@
       "date": "2002-10-02",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/07/49119_4IQqN.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/07/49119_4IQqN.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/6d/07/49119_4IQqN.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/07/49119_4IQqN.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/07/49119_4IQqN.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/07/49119_uU7g1.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/07/49119_uU7g1.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/6d/07/49119_uU7g1.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/07/49119_uU7g1.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/07/49119_uU7g1.jpg"
       },
       "summary": "妹妹公主RePure 是一些小情节故事的合集，每一话由两个部分组成，第一部分是一个独立的小故事，第二部分是以12个姐妹中的一个的为主题的短故事。 ",
       "name": "シスター・プリンセス RePure",
@@ -4548,10 +4587,10 @@
         "RePure",
         "TV",
         "ZEXCS",
+        "あみやまさはる",
         "兄控",
         "分居之后",
         "动画",
-        "千葉千恵巳",
         "原创",
         "后宫",
         "喵帕斯记录~",
@@ -4561,8 +4600,8 @@
         "季番",
         "川澄綾子",
         "川澄绫子",
-        "已收录(DVDRip)",
         "年代久远无印象派",
+        "恋爱",
         "望月久代",
         "本世界线",
         "柚木涼香",
@@ -4645,17 +4684,18 @@
       "id": 49119,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/13/3690_8EyFE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/13/3690_8EyFE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/13/3690_8EyFE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/13/3690_8EyFE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/13/3690_8EyFE.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/13/3690_CD7EH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/13/3690_CD7EH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/13/3690_CD7EH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/13/3690_CD7EH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/13/3690_CD7EH.jpg"
           },
           "name": "シスター・プリンセス",
           "name_cn": "妹妹公主",
@@ -4743,11 +4783,11 @@
       "date": "2002-10-04",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/bb/67734_kTx85.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/bb/67734_kTx85.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/11/bb/67734_kTx85.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/bb/67734_kTx85.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/bb/67734_kTx85.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/bb/67734_KOka9.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/bb/67734_KOka9.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/11/bb/67734_KOka9.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/bb/67734_KOka9.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/bb/67734_KOka9.jpg"
       },
       "summary": "《帕拉图之链》(Platonic Chain) 本作把不久后未来的涩谷作为舞台，描绘了一个叫做“帕拉图之链”的神秘地方，以及被这个地方所吸引的少女们的故事。原作曾在日本著名游戏杂志《Fami 通》上连载，动画化之后，运用了时下最流行的“Motion Capture”技术拍摄而成。曾在世界CG动画展示盛会[SIGGRAPH2001]上放映，并在欧洲最大的数字电影展[IMAGINA2002]的竞赛单元里得到好评。由于运用了全3DCG来表现少女们的动作，千叶和野中两位声优有机会亲自体验motion capture技术参与拍摄。这部分的内容被做成一个[motion capture版]的经过浓缩的小故事，作为DVD的映像特典呈现给大家。",
       "name": "プラトニックチェーン",
@@ -4838,6 +4878,7 @@
       "id": 67734,
       "eps": 24,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -4880,11 +4921,11 @@
       "date": "2002-10-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/26/7217_qf1A4.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/26/7217_qf1A4.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/29/26/7217_qf1A4.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/26/7217_qf1A4.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/26/7217_qf1A4.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/26/7217_J2bBz.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/26/7217_J2bBz.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/29/26/7217_J2bBz.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/26/7217_J2bBz.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/26/7217_J2bBz.jpg"
       },
       "summary": "美堂蛮和天野银次都是拥有特别能力的人。美堂蛮有一双邪眼，他可以让人看到幻像，是让人看到噩梦般的幻像，还是看到幸福的幻像都是因他自己的意志来决定的，此外他还拥有“SNAKE BITE”这种能力，即是以200KILO的握力把敌人撕裂。而天野银次的能力就是在他的体内潜伏有高压电流，就象是电鳗一样最高可达到10万伏特，不止可以让人类的知觉麻痹，还能破坏电子仪器，用途非常的广泛。\r\n他们拥有这种天赐的能力从事“夺回者”这种工作，不只是说夺取，还为了取回。把委托人被夺走的东西取回来就是他们的工作，但即使有多么特殊的能力，他们做的工作的危险性是很高的，因为他们不是不死的超人，有时他们所付出的努力未必能得到相应的回报，但他们还是继续经营“夺回公司”。也许是他们了解“失去重要东西的痛苦”吧！所以他们不只为了“夺取”而使用自己的能力，而是为了“取回”而使用的。最重要的是为了让某人取回他的笑容吧？",
       "name": "GetBackers -奪還屋-",
@@ -5018,6 +5059,7 @@
       "id": 7217,
       "eps": 49,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5206,6 +5248,7 @@
         "TVA",
         "スタジオ雲雀",
         "丹下桜",
+        "云雀工作室、A・C・G・T",
         "子供向",
         "小林由美子",
         "日本动画",
@@ -5290,6 +5333,7 @@
       "id": 191115,
       "eps": 26,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5415,6 +5459,7 @@
       "id": 118797,
       "eps": 5,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -5428,11 +5473,11 @@
       "date": "2002-10-31",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/2e/37408_L9z0J.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/2e/37408_L9z0J.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/36/2e/37408_L9z0J.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/36/2e/37408_L9z0J.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/36/2e/37408_L9z0J.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/2e/37408_kcNc7.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/2e/37408_kcNc7.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/36/2e/37408_kcNc7.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/36/2e/37408_kcNc7.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/36/2e/37408_kcNc7.jpg"
       },
       "summary": "　　神から人類滅亡の使命を授けられた少年の苦悩を描く。横山光輝の初期傑作『マーズ』をＴＶ化。1981年に同じ原作をアレンジしたロボットアニメ「六神合体ゴッドマーズ」をヒットさせた藤川桂介が、今作も脚本とシリーズ構成を担当。監督は「アキハバラ電脳組」のふじもとよしたか。海底火山の噴火によって“平成新島”が誕生した。島に取材に行っていた岩倉記者は、そこで記憶喪失の少年マーズと遭遇。横山博士のもとに預けられたマーズは、どこか普通の人とは違う雰囲気があり…。",
       "name": "神世紀伝マーズ",
@@ -5440,6 +5485,7 @@
       "tags": [
         "2002",
         "2002-10",
+        "2002年10月",
         "OP",
         "Plum",
         "TV",
@@ -5451,6 +5497,7 @@
         "日本动画",
         "机战",
         "横山光辉",
+        "漫画改",
         "萝卜",
         "藤川桂介",
         "藤本义孝",
@@ -5491,6 +5538,7 @@
       "id": 37408,
       "eps": 13,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,

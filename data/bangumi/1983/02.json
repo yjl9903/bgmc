@@ -19,13 +19,14 @@
         "1980s",
         "1983",
         "1983年",
-        "1分",
         "80年代",
         "StudioPierrot",
         "ぴえろ",
         "上妻晋作",
+        "个人：-3",
         "剧场版",
         "动画",
+        "动画：4",
         "天野正道",
         "安濃高志",
         "小丑社",
@@ -42,7 +43,6 @@
         "电影",
         "福星小子",
         "童年",
-        "表",
         "金春智子",
         "高桥留美子",
         "高田明美"
@@ -91,6 +91,7 @@
       "id": 40001,
       "eps": 1,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
@@ -213,6 +214,7 @@
       "name": "聖戦士ダンバイン",
       "name_cn": "圣战士登拜因",
       "tags": [
+        "1980s",
         "1983",
         "1983年",
         "1983年2月",
@@ -226,10 +228,10 @@
         "出渕裕",
         "动画",
         "原创",
+        "奇幻",
         "富田祐弘",
         "富野由悠季",
         "异世界",
-        "日本动画",
         "旧",
         "昆虫萝卜",
         "机器人",
@@ -240,7 +242,6 @@
         "科幻",
         "经典",
         "萝卜",
-        "补",
         "补旧番",
         "黑富野"
       ],
@@ -286,7 +287,7 @@
         },
         {
           "key": "原作",
-          "value": "矢立肇、富野由悠季"
+          "value": "富野由悠季、矢立肇"
         },
         {
           "key": "企画",
@@ -306,7 +307,7 @@
         },
         {
           "key": "色彩设计",
-          "value": "戸部尚代、高島清子"
+          "value": "戸部尚代 [11-38]、高島清子 [39-]"
         },
         {
           "key": "音响监督",
@@ -322,44 +323,43 @@
         },
         {
           "key": "制作",
-          "value": "名古屋テレビ、創通エージェンシー、サンライズ"
+          "value": "名古屋テレビ、創通エージェンシー、日本サンライズ"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "綱倉一也"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "井荻麟(富野由悠季)"
+        },
+        {
+          "key": "制片人",
+          "value": "森山涇（名古屋テレビ）、大西邦明（創通エージェンシー）、中川宏徳（日本サンライズ）"
         }
       ],
       "total_episodes": 49,
       "id": 10402,
       "eps": 49,
       "volumes": 0,
+      "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
           },
-          "name": "スーパーロボット大戦DD",
-          "name_cn": "超级机器人大战DD",
+          "name": "スーパーロボット大戦64",
+          "name_cn": "超级机器人大战64",
           "relation": "游戏",
           "type": 4,
-          "id": 271927
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
-          },
-          "name": "スーパーロボット大戦COMPACT",
-          "name_cn": "超级机器人大战COMPACT",
-          "relation": "游戏",
-          "type": 4,
-          "id": 208853
+          "id": 308448
         },
         {
           "images": {
@@ -461,31 +461,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/1b/192002_0eOx2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/1b/192002_0eOx2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a5/1b/192002_0eOx2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/1b/192002_0eOx2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/1b/192002_0eOx2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
           },
-          "name": "Another Century's Episode",
-          "name_cn": "异世界传说",
+          "name": "スーパーロボット大戦DD",
+          "name_cn": "超级机器人大战DD",
           "relation": "游戏",
           "type": 4,
-          "id": 192002
+          "id": 271927
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
           },
-          "name": "スーパーロボット大戦64",
-          "name_cn": "超级机器人大战64",
+          "name": "スーパーロボット大戦COMPACT",
+          "name_cn": "超级机器人大战COMPACT",
           "relation": "游戏",
           "type": 4,
-          "id": 308448
+          "id": 208853
         },
         {
           "images": {
@@ -584,6 +584,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 467503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/41/493725_sdamZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/41/493725_sdamZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/41/493725_sdamZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/41/493725_sdamZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/41/493725_sdamZ.jpg"
+          },
+          "name": "AURA BATTLER DUNBINE SIDE L",
+          "name_cn": "圣战士丹拜因SIDE L",
+          "relation": "其他",
+          "type": 2,
+          "id": 493725
         },
         {
           "images": {
@@ -822,6 +836,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 145455
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/1b/192002_0eOx2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/1b/192002_0eOx2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a5/1b/192002_0eOx2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/1b/192002_0eOx2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/1b/192002_0eOx2.jpg"
+          },
+          "name": "Another Century's Episode",
+          "name_cn": "异世界传说",
+          "relation": "游戏",
+          "type": 4,
+          "id": 192002
         }
       ]
     }
