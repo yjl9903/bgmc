@@ -37,12 +37,12 @@
       "search": {
         "backdrop_path": "/7Iorh0CtvK85oX96BdP2jXziir5.jpg",
         "id": 99772,
+        "name": "Vampire in the Garden",
         "original_name": "ヴァンパイア・イン・ザ・ガーデン",
         "overview": "寻求吸血鬼和人类一起生活的“乐园”而旅行的少女们的故事。",
         "poster_path": "/cL7AmuHxCwDCu8d3kX93NTEDhdw.jpg",
         "media_type": "tv",
         "adult": false,
-        "name": "Vampire in the Garden",
         "original_language": "ja",
         "genre_ids": [
           16,
@@ -135,10 +135,10 @@
         "id": 978039,
         "original_language": "ja",
         "original_title": "特『刀剣乱舞-花丸-』～雪ノ巻～",
-        "overview": "Part one of Touken Ranbu Hanamaru ~Setsugetsuka~",
+        "overview": "Part one of Toku: Touken Ranbu: Hanamaru ~Setsugetsuka~",
         "poster_path": "/8Oliwzur1mpOuWm8nbqomDD8V0R.jpg",
         "release_date": "2022-05-20",
-        "title": "Toku Touken Ranbu Hanamaru: Yuki no Maki",
+        "title": "Toku: Touken Ranbu: Hanamaru  ~Setsugetsuka~ Yuki no Maki",
         "video": false
       }
     }
@@ -217,12 +217,12 @@
       "search": {
         "backdrop_path": "/A1uVlQSi0RhH92uY3X2O2J76QQT.jpg",
         "id": 195520,
+        "name": "Gugumi-chan",
         "original_name": "ググミちゃん",
         "overview": "Gugumi-chan is solving problems that her father gave her using her father's modified navigation app. The app allows her to warp anywhere, and she meets interesting characters in the warp tunnel.",
         "poster_path": null,
         "media_type": "tv",
         "adult": false,
-        "name": "Gugumi-chan",
         "original_language": "ja",
         "genre_ids": [
           16
@@ -249,7 +249,9 @@
         "genre_ids": [
           16,
           18,
-          10402
+          10402,
+          14,
+          36
         ],
         "id": 642538,
         "original_language": "ja",

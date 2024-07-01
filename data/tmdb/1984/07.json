@@ -6,23 +6,26 @@
       "id": "67779"
     },
     "tmdb": {
-      "id": 228892,
+      "id": 35678,
       "type": "tv",
-      "season": 1,
       "search": {
+        "backdrop_path": "/sU3IrMttwdP5fg0KBGfW4HSc71J.jpg",
+        "id": 35678,
+        "name": "魔法妖精贝露莎",
+        "original_name": "魔法の妖精 ペルシャ",
+        "overview": "在非洲长大的天真烂漫的少女贝露莎利用妖精传授给她的魔法，能够变身成为各种各样的女性专家。她为了拯救妖精之国Lovely Dream而收集爱的力量而展开了一系列故事。\n\n本作是Studio Pierrot制作的《Pierrot魔法少女》系列第2作为奔放的主人公贝露莎配音的富永美衣奈的优秀表演，以及通过细致的演出描绘出角色心理的动画后半部分剧情也得到了很高的评价。",
+        "poster_path": "/roqksnr0xUOOk7DHO3DlTVMLXSv.jpg",
+        "media_type": "tv",
         "adult": false,
-        "backdrop_path": "/hPp8vBHgriJF7zhnlH60Igam5wd.jpg",
-        "genre_ids": [],
-        "id": 228892,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "first_air_date": "1984-07-06",
         "origin_country": [
           "JP"
-        ],
-        "original_language": "ja",
-        "original_name": "魔法の妖精 ペルシャ",
-        "overview": "继着推出《我是小甜甜》而获得的热烈回响， Studio Pierrot 在隔年(1984 年)与日本电视台(出资)合作，以青沼贵子的漫画《我爱贝露莎(ペルシャがすき!)》为原作，推出了旗下的魔法少女系列第二作《贝露莎(魔法の妖精ペルシャ)》，台湾则是由台视在1986 年首播。《贝露莎》在原作漫画中并没有任何与魔法相关的元素，而在动画版的作品里，在美国长大的少女贝露莎，在回日本的路途上遇到了妖精，并被托付了魔力，她能够运用魔法变身并帮助世人，妖精希望她能借此收集爱的能量并拯救妖精国。",
-        "poster_path": "/okx4ZpCzTO6brxNx44AtmowkGUV.jpg",
-        "first_air_date": "1984-06-07",
-        "name": "魔法妖精贝露莎"
+        ]
       }
     }
   },
@@ -64,12 +67,12 @@
       "search": {
         "backdrop_path": null,
         "id": 333942,
+        "title": "街角的童话",
         "original_title": "街角のメルヘン",
         "overview": "Hiroshi is a high school student who dreams of one day writing a children's book. But knowing that dreams need money to become a reality, he works hard and saves for the day when he can be a writer. A chance meeting with Hiroko on the subway leads to love and is vital in helping him finally realise his ambitions.",
         "poster_path": "/84L0vnQwFEr9atY5ScPAnztxvPt.jpg",
         "media_type": "movie",
         "adult": false,
-        "title": "街角的童话",
         "original_language": "ja",
         "genre_ids": [
           10749,
