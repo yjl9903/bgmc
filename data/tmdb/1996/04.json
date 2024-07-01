@@ -11,12 +11,12 @@
       "search": {
         "backdrop_path": "/5FVHxFXCyQjAX45VMO0Z67pbVVH.jpg",
         "id": 148301,
+        "title": "大小姐搜查网",
         "original_title": "お嬢様捜査網",
         "overview": "綾小路公子、綾小路美幸、竜崎陽子、周麗華、ニーナ・キーロフ五人是足以影响日本经济的千金小姐，她们同一天进入私立清华女子高等学校就读。而在此前，监狱有三名凶犯逃脱，警方也收到了扬言杀死五千金的录像带，所以开学第一天五人就被重重保护。不甘于被保护的千金们用诡计调走了所有警察，正当她们松一口气的时侯，三名早就潜入学校的凶犯向她们发起了攻击，但五个大小姐也并非毫无还击之力的弱质女子……",
         "poster_path": "/j9ZoEN4eT3IqqwaB0nfyyKG04S4.jpg",
         "media_type": "movie",
         "adult": false,
-        "title": "大小姐搜查网",
         "original_language": "ja",
         "genre_ids": [
           16,
@@ -128,7 +128,6 @@
     "tmdb": {
       "id": 26318,
       "type": "tv",
-      "season": 2,
       "search": {
         "adult": false,
         "backdrop_path": "/8ww4fofYvbH0CuM1dofFvjywKHj.jpg",
@@ -227,6 +226,7 @@
         ],
         "id": 17017,
         "origin_country": [
+          "SE",
           "IT",
           "JP"
         ],
@@ -309,12 +309,12 @@
       "search": {
         "backdrop_path": "/8JbLP5AubDL1PJUCJldUXVmp2xr.jpg",
         "id": 43416,
+        "name": "杀人科 W",
         "original_name": "BURN-UP W",
         "overview": "未来城市东京城。随着科学的发展，暴力犯罪和恐怖主义继续增加。为了应对这种情况，警方组织了一支特殊的特警队“WARRIOR”。此时，WARRIOR的成员真希、里欧、玛雅、莉莉卡、南贝尔、雄二接到命令。神秘的恐怖组织Falcon Crow袭击了正在举办国际和平论坛的Hotel Kingdom！挟持各国要人的敌人要求的内容是什么！？",
         "poster_path": "/2q4HCIUNhcrEobjNHp5CczChSZm.jpg",
         "media_type": "tv",
         "adult": false,
-        "name": "杀人科 W",
         "original_language": "ja",
         "genre_ids": [
           16,
@@ -458,12 +458,12 @@
       "search": {
         "backdrop_path": "/vytXeyL1eC9ZnDKV5G9WPcOzLCd.jpg",
         "id": 106219,
+        "name": "魔印传说",
         "original_name": "タトゥーン☆マスター",
         "overview": "Hibio's adventurer mother sets off to research a mysterious tribe.",
         "poster_path": "/wWeg0gAy3Oj98U9FnxEJxZbled5.jpg",
         "media_type": "tv",
         "adult": false,
-        "name": "魔印传说",
         "original_language": "ja",
         "genre_ids": [
           16,
@@ -471,7 +471,9 @@
           10759
         ],
         "first_air_date": "1996-04-26",
-        "origin_country": []
+        "origin_country": [
+          "JP"
+        ]
       }
     }
   }

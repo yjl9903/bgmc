@@ -6,23 +6,26 @@
       "id": "118107"
     },
     "tmdb": {
-      "id": 231854,
+      "id": 60863,
       "type": "tv",
+      "season": 0,
       "search": {
-        "backdrop_path": null,
-        "id": 231854,
-        "original_name": "排球少年：列夫参上",
-        "overview": "　JSAF2014先行上映。\n\n　　同捆2015年3月4日发售的第15卷限定版。",
-        "poster_path": "/y8xP29liaRMAXbvmjaEImJ3a244.jpg",
-        "media_type": "tv",
         "adult": false,
-        "name": "排球少年：列夫参上",
-        "original_language": "zh",
-        "genre_ids": [],
-        "first_air_date": "2015-03-04",
+        "backdrop_path": "/12mYMPE7Jy7rhDv0rn95GEtF94V.jpg",
+        "genre_ids": [
+          16,
+          10759
+        ],
+        "id": 60863,
         "origin_country": [
-          "CN"
-        ]
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "ハイキュー!!",
+        "overview": "童年时一次看电视转播的经历，在少年日向翔阳的心中种下了排球的种子。他在初中时代是排球部的主将，可是人丁寥落的排球部始终没有起色，唯一一场比赛也已惨败告终。在此之后，他终于如愿考入梦寐以求的学府乌野高中，并加入了该校的排球部。当年翔阳在电视上看到的正是乌野高中的比赛，如今这个学校的排球却正面临着衰败的命运。与宿命的对手和好友影山飞雄聚首于此，心怀排球梦想的少年们将团结一心，带领着乌野这名王者再度振翅高飞。",
+        "poster_path": "/gpna2w6NF83I9LX2eQRCdBzz6kF.jpg",
+        "first_air_date": "2014-04-06",
+        "name": "排球少年"
       }
     }
   },
@@ -163,7 +166,9 @@
           35,
           10402,
           14,
-          28
+          28,
+          12,
+          10751
         ],
         "id": 315022,
         "original_language": "ja",
@@ -441,12 +446,12 @@
       "search": {
         "backdrop_path": "/fFnCVk1OkDmG4LjVh9MIVk4gTDV.jpg",
         "id": 107473,
+        "name": "勇者大冒险",
         "original_name": "勇者大冒险",
         "overview": "大四应届毕业生安岩（王梓 配音）是一个平凡男孩，此时此刻他正为工作的事情而焦虑，当然自视甚高的他时刻不改吐槽毒舌的本性。某天，安岩乘坐公交车去位于山中度假别墅的打工，谁知途中上来三个神色诡异的男女，接着又有一个男子上车将安岩扔了下来。次日一早，安岩在家中醒来，不久便从新闻中得知他前一晚死于公交车事故的噩耗。惊愕之余，昨天那个神秘男子——馗道高手神荼（赵路 配音）。命运将安岩和神荼、张天师（彭博 配音）、王胖子（夏磊 配音）以及T.H.A协会（世界宝藏猎人协会）搅在了一起。他也将踏上一个闻所未闻的神秘旅程……",
         "poster_path": "/dTSze2kNHaIBp9Rz8FBWzh84vgp.jpg",
         "media_type": "tv",
         "adult": false,
-        "name": "勇者大冒险",
         "original_language": "zh",
         "genre_ids": [
           16,
