@@ -22,12 +22,14 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
   extra: { data?: Item; tmdb?: FullBangumi['tmdb'] } = {},
   options: TransformOptions = {}
 ): T {
-  const name = bgm.name;
+  const name = decodeName(bgm.name);
 
-  const alias = new Set([
-    ...getSubjectAlias(bgm),
-    ...Object.values(extra?.data?.titleTranslate ?? {}).flat()
-  ]);
+  const alias = new Set(
+    [...getSubjectAlias(bgm), ...Object.values(extra?.data?.titleTranslate ?? {}).flat()].map(
+      decodeName
+    )
+  );
+
   if (extra.tmdb) {
     alias.add(extra.tmdb.name);
     alias.add(extra.tmdb.original_name);
@@ -78,6 +80,15 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
   }
 
   return full as T;
+}
+
+// Fix `&quot;Oshi no Ko&quot; 2` -> `"Oshi no Ko" 2`
+function decodeName(name: string) {
+  return name
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
 }
 
 function normalizeTags(tags: string[] | Array<{ name: string; count: number }>) {
