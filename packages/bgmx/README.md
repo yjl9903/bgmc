@@ -6,10 +6,14 @@
 ## Installation
 
 ```bash
-npm i bgmx
+npm i -g bgmx
 ```
 
 ## Usage
+
+```bash
+bgmx
+```
 
 ## License
 
