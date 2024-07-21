@@ -45,7 +45,7 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
     air_date: bgm.date ?? extra.data?.begin ?? '',
     bangumi: {
       id: +bgm.id,
-      name_cn: bgm.name_cn,
+      name_cn: decodeName(bgm.name_cn),
       images: bgm.images,
       tags: normalizeTags(bgm.tags)
     }
