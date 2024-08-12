@@ -657,17 +657,45 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/4d/62018_fz36m.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/4d/62018_fz36m.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/86/4d/62018_fz36m.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/4d/62018_fz36m.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/4d/62018_fz36m.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/63/73919_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/63/73919_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c7/63/73919_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/63/73919_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/63/73919_jp.jpg"
           },
-          "name": "アニメ『宇宙兄弟』BGMライブメドレー",
-          "name_cn": "动画 宇宙兄弟 BGM Live Medley",
-          "relation": "其他",
+          "name": "BEYOND/ライジング・ハート",
+          "name_cn": "",
+          "relation": "片尾曲",
           "type": 3,
-          "id": 62018
+          "id": 73919
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/43/506660_ZCwt3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/43/506660_ZCwt3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4a/43/506660_ZCwt3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/43/506660_ZCwt3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/43/506660_ZCwt3.jpg"
+          },
+          "name": "Space Dreamers 〜宇宙兄弟 南波六太がやってきた!〜",
+          "name_cn": "Space Dreamers 宇宙兄弟 南波六太来了",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 506660
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3b/90/505255_zf7P6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3b/90/505255_zf7P6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3b/90/505255_zf7P6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3b/90/505255_zf7P6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3b/90/505255_zf7P6.jpg"
+          },
+          "name": "宇宙兄弟 一点のひかり",
+          "name_cn": "宇宙兄弟 一点星光",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 505255
         },
         {
           "images": {
@@ -811,20 +839,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/63/73919_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/63/73919_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c7/63/73919_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/63/73919_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/63/73919_jp.jpg"
-          },
-          "name": "BEYOND/ライジング・ハート",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 73919
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/55/29137_JPi0Z.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/55/29137_JPi0Z.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/1c/55/29137_JPi0Z.jpg",
@@ -836,6 +850,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 29137
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/4d/62018_fz36m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/4d/62018_fz36m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/86/4d/62018_fz36m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/4d/62018_fz36m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/4d/62018_fz36m.jpg"
+          },
+          "name": "アニメ『宇宙兄弟』BGMライブメドレー",
+          "name_cn": "动画 宇宙兄弟 BGM Live Medley",
+          "relation": "其他",
+          "type": 3,
+          "id": 62018
         },
         {
           "images": {
@@ -1029,7 +1057,6 @@
         "恶心",
         "搞笑",
         "日常",
-        "日本动画",
         "校园",
         "梶裕贵",
         "植芝理一",
@@ -1039,6 +1066,7 @@
         "漫画改",
         "爱情",
         "纯爱",
+        "补番",
         "谜之彼女X",
         "重口"
       ],
@@ -1709,9 +1737,9 @@
         "SUNRISE",
         "Sphere",
         "TV",
+        "サンライズ",
         "スフィア",
         "丰崎爱生",
-        "伊藤真澄",
         "原创",
         "友情",
         "声优",
@@ -2218,6 +2246,7 @@
       "name": "咲-Saki- 阿知賀編 episode of side-A",
       "name_cn": "天才麻将少女 阿知贺篇",
       "tags": [
+        "2011年4月",
         "2012",
         "2012年",
         "2012年4月",
@@ -2234,7 +2263,6 @@
         "嶺上",
         "悠木碧",
         "校园",
-        "浦畑達彦",
         "漫改",
         "漫画改",
         "热血",
@@ -3105,16 +3133,15 @@
       "name_cn": "女皇之刃 叛乱",
       "tags": [
         "2012",
-        "2012-04",
         "2012年",
         "2012年4月",
         "Arms",
         "HobbyJAPAN",
         "TV",
-        "アームス",
         "丰崎爱生",
         "乳",
         "卖肉",
+        "四月番",
         "圣光君的阵亡",
         "奇幻",
         "女皇之刃",
@@ -3124,14 +3151,15 @@
         "户松遥",
         "挥舞着剑与球的少女们",
         "搞笑",
+        "櫻井浩美",
         "游戏改",
         "百合",
         "福利",
-        "糟糕",
         "肉",
         "肉片",
         "肉番",
         "茅原实里",
+        "茅原実里",
         "豊崎愛生",
         "钉宫理惠"
       ],
@@ -3195,11 +3223,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/6a/25610_XgRxS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/6a/25610_XgRxS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/6a/25610_XgRxS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/6a/25610_XgRxS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/6a/25610_XgRxS.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/6a/25610_7jOC2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/6a/25610_7jOC2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/6a/25610_7jOC2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/6a/25610_7jOC2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/6a/25610_7jOC2.jpg"
           },
           "name": "クイーンズブレイド リベリオン OVA",
           "name_cn": "女皇之刃 叛乱 OVA",
@@ -3529,7 +3557,6 @@
         "小野友树",
         "巨乳",
         "战斗",
-        "搞笑",
         "新番",
         "日本",
         "日本动画",
@@ -3542,7 +3569,8 @@
         "肉番",
         "西尾維新",
         "西尾维新",
-        "豊崎愛生"
+        "豊崎愛生",
+        "超能力"
       ],
       "infobox": [
         {
@@ -4110,14 +4138,13 @@
         "2012",
         "2012年",
         "2012年4月",
+        "3min",
         "SHIN-EI",
         "Shin-EiAnimation",
         "Sohn",
         "TV",
         "アニメ",
-        "两桶泡面",
         "两碗泡面番",
-        "二〇一二丶四月番",
         "低龄向",
         "四月番",
         "山本麻里安",
@@ -4127,6 +4154,7 @@
         "日本动画",
         "朴璐美",
         "松岡由貴",
+        "櫻井智",
         "泡两碗面番",
         "泡面番",
         "短片",
@@ -4237,7 +4265,6 @@
         "2012",
         "2012年",
         "2012年4月",
-        "65-100",
         "Dear",
         "Future",
         "TV",
@@ -4251,6 +4278,7 @@
         "伊藤かな恵",
         "偶像",
         "原创",
+        "同友动画",
         "四月番",
         "子供向",
         "少女系",
@@ -4487,7 +4515,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/d4/175353_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/d4/175353_jp.jpg"
           },
-          "name": "プリパラ&amp;プリティーリズム パーフェクトワールド (ジス・イズ・アニメーション)",
+          "name": "プリパラ&プリティーリズム パーフェクトワールド (ジス・イズ・アニメーション)",
           "name_cn": "",
           "relation": "书籍",
           "type": 1,
@@ -4819,7 +4847,6 @@
       "name_cn": "战国Collection",
       "tags": [
         "2012",
-        "2012年",
         "2012年4月",
         "Brain",
         "BrainsBase",
@@ -4839,6 +4866,7 @@
         "战国",
         "战国Collection",
         "战国大乱斗",
+        "搞笑",
         "新番",
         "架空战国",
         "游戏改",
@@ -6304,11 +6332,11 @@
       "date": "2012-04-22",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/38/27364_f432B.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/38/27364_f432B.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/cd/38/27364_f432B.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/38/27364_f432B.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/38/27364_f432B.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/38/27364_1ZFmr.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/38/27364_1ZFmr.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/cd/38/27364_1ZFmr.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/38/27364_1ZFmr.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/38/27364_1ZFmr.jpg"
       },
       "summary": "以节能为座右铭的高中生折木奉太郎， 为一个小小的原因而加入了濒临废社的“古典文学部”。古典文学部的社员，包括他在社里认识的好奇宝宝，也就是女主角千反田爱瑠，还有他从国中就认识的伊原摩耶花和福部里志。这是他们四人以神山高中为舞台，对一桩桩事件展开推理的青春学园推理剧。“我很好奇！”奉太郎平静的灰色高中生活，因为千反田的这一句话而为之一变！",
       "name": "氷菓",
@@ -7087,7 +7115,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/a0/36846_RER0I.jpg"
           },
           "name": "時世界～トキセカイ～ / ふわっふわのまほう",
-          "name_cn": "光明之心～幸福的面包～ OP&amp;ED",
+          "name_cn": "光明之心～幸福的面包～ OP&ED",
           "relation": "片头曲",
           "type": 3,
           "id": 36846
@@ -8530,15 +8558,14 @@
       "name_cn": "卡片战斗先导者 亚洲巡回赛篇",
       "tags": [
         "2012",
+        "2012年4月",
         "2012春",
         "2013",
         "TCG",
         "TMS",
-        "TMSEntertainment",
         "TV",
         "VG",
         "Vanguard",
-        "¬",
         "イメージしろ！",
         "カードファイト！！",
         "トムス・エンタテインメント",
@@ -8550,6 +8577,7 @@
         "先导爱知",
         "卡片战斗先导者",
         "卡牌",
+        "原创",
         "子供向",
         "屹青",
         "日本",
@@ -8863,12 +8891,12 @@
           "value": "小玉ユキ"
         },
         {
-          "key": "Twitter",
-          "value": "apollon_anime"
+          "key": "人物设定",
+          "value": "結城信輝；副人设：山下喜光"
         },
         {
-          "key": "副导演",
-          "value": "出合小都美"
+          "key": "动画制作",
+          "value": "MAPPA"
         },
         {
           "key": "导演",
@@ -9016,8 +9044,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/a1/37576_15puz.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/a1/37576_15puz.jpg"
           },
-          "name": "アニメ「坂道のアポロン」オリジナル・サウンドトラック プラス more &amp; rare",
-          "name_cn": "坂道上的阿波罗 OST PLUS more &amp; rare",
+          "name": "アニメ「坂道のアポロン」オリジナル・サウンドトラック プラス more & rare",
+          "name_cn": "坂道上的阿波罗 OST PLUS more & rare",
           "relation": "原声集",
           "type": 3,
           "id": 37576
@@ -9637,7 +9665,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/46/48911_S01s5.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/46/48911_S01s5.jpg"
           },
-          "name": "Rough &amp; Laugh",
+          "name": "Rough & Laugh",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -9651,7 +9679,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/22/58816_ms1Kf.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/22/58816_ms1Kf.jpg"
           },
-          "name": "You &amp; Me",
+          "name": "You & Me",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -9914,7 +9942,7 @@
         "小野大辅",
         "拯救病娇",
         "推理",
-        "日本动画",
+        "智斗",
         "杉田智和",
         "樱井孝宏",
         "浅沼晋太郎",
@@ -10390,7 +10418,15 @@
         },
         {
           "key": "原作",
-          "value": "川端裕人"
+          "value": "川端裕人（「銀河のワールドカップ」、「風のダンデライオン 銀河のワールドカップ ガールズ」/集英社文庫刊）"
+        },
+        {
+          "key": "导演",
+          "value": "宇田鋼之介"
+        },
+        {
+          "key": "人物设定",
+          "value": "渡辺はじめ"
         }
       ],
       "total_episodes": 39,
@@ -12217,6 +12253,7 @@
         "亜細亜堂",
         "子供向",
         "日本动画",
+        "时事热点",
         "河内日出夫",
         "田中真弓",
         "芝山努",
@@ -12469,7 +12506,6 @@
         "SP",
         "SUNRISE",
         "TV",
-        "サンライズ",
         "入野自由",
         "刷下限",
         "动画",
@@ -12486,6 +12522,7 @@
         "特典",
         "男子高中生的日常",
         "男子高中的日常",
+        "番外",
         "短片",
         "石田彰",
         "铃村健一",
@@ -13109,6 +13146,7 @@
       "name": "しまじろうのわお!",
       "name_cn": "巧虎 WAO！",
       "tags": [
+        "时事热点",
         "空"
       ],
       "infobox": [
@@ -13330,6 +13368,7 @@
       "name": "しまじろうのわお!",
       "name_cn": "巧虎 WAO！",
       "tags": [
+        "时事热点",
         "空"
       ],
       "infobox": [
@@ -13551,6 +13590,7 @@
       "name": "しまじろうのわお!",
       "name_cn": "巧虎 WAO！",
       "tags": [
+        "时事热点",
         "空"
       ],
       "infobox": [
@@ -13772,6 +13812,7 @@
       "name": "しまじろうのわお!",
       "name_cn": "巧虎 WAO！",
       "tags": [
+        "时事热点",
         "空"
       ],
       "infobox": [
@@ -13993,6 +14034,7 @@
       "name": "しまじろうのわお!",
       "name_cn": "巧虎 WAO！",
       "tags": [
+        "时事热点",
         "空"
       ],
       "infobox": [
@@ -14214,6 +14256,7 @@
       "name": "しまじろうのわお!",
       "name_cn": "巧虎 WAO！",
       "tags": [
+        "时事热点",
         "空"
       ],
       "infobox": [

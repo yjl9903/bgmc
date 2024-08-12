@@ -21,7 +21,6 @@
         "2023年7月",
         "3D",
         "BanGDream",
-        "MYGO",
         "SANZIGEN",
         "TV",
         "サンジゲン",
@@ -30,6 +29,7 @@
         "乐队题材",
         "偶像",
         "原创",
+        "悬疑",
         "扭曲",
         "无法预测的命运之舞台",
         "日常",
@@ -98,7 +98,7 @@
         },
         {
           "key": "脚本",
-          "value": "綾奈ゆにこ(1/3/7/13)、後藤みどり(2/6/10)、小川ひとみ(4/8/11)、和場明子(5/9/12)、晴日たに"
+          "value": "綾奈ゆにこ(1,3,7,13)、後藤みどり(2,6,10)、小川ひとみ(4,8,11)、和場明子(5,9,12)、晴日たに"
         },
         {
           "key": "音乐",
@@ -150,11 +150,11 @@
         },
         {
           "key": "分镜",
-          "value": "林翔子(4/12)、柿本広大(1/3)、梅津朋美(2/7/10)、森田紘吏(5/8/11)、岡こずえ(6)、奥川尚弥(9/13)、日髙初美(12/13Live分镜)、鈴木大介(12Live分镜)"
+          "value": "林翔子(4,12)、柿本広大(1,3)、梅津朋美(2,7,10)、森田紘吏(5,8,11)、岡こずえ(6)、奥川尚弥(9,13)、日髙初美(12,13Live分镜)、鈴木大介(12Live分镜)"
         },
         {
           "key": "演出",
-          "value": "古賀公一郎(4/6/8/11)、遠藤求(1/2/9)、大森大地(3/5/12)、梅津朋美(7/10)、山之口創(3/13)、池田新助"
+          "value": "古賀公一郎(4,6,8,11)、遠藤求(1,2,9)、大森大地(3,5,12)、梅津朋美(7,10)、山之口創(3,13)、池田新助"
         }
       ],
       "total_episodes": 14,
@@ -168,17 +168,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b2/00/208415_9u4eO.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b2/00/208415_9u4eO.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b2/00/208415_9u4eO.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b2/00/208415_9u4eO.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/00/208415_9u4eO.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/03/453812_04Vr4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/03/453812_04Vr4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/03/453812_04Vr4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/03/453812_04Vr4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/03/453812_04Vr4.jpg"
           },
-          "name": "バンドリ！ ガールズバンドパーティ！",
-          "name_cn": "BanG Dream! 少女乐团派对！",
-          "relation": "游戏",
-          "type": 4,
-          "id": 208415
+          "name": "MyGO!!!!!の「迷子集会」",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 453812
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/1f/505517_2iOis.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/1f/505517_2iOis.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/16/1f/505517_2iOis.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/1f/505517_2iOis.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/1f/505517_2iOis.jpg"
+          },
+          "name": "MyGO!!!!! 7th LIVE",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 505517
         },
         {
           "images": {
@@ -196,11 +210,123 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/c3/454684_I2wHw.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/c3/454684_I2wHw.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/77/c3/454684_I2wHw.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/c3/454684_I2wHw.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/c3/454684_I2wHw.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/df/492681_m27ZB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/df/492681_m27ZB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f0/df/492681_m27ZB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/df/492681_m27ZB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/df/492681_m27ZB.jpg"
+          },
+          "name": "MyGO!!!!! 1st LIVE「僕たちはここで叫ぶ」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 492681
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/d9/492680_565e6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/d9/492680_565e6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/92/d9/492680_565e6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/d9/492680_565e6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/d9/492680_565e6.jpg"
+          },
+          "name": "MyGO!!!!! 2nd LIVE「そのままを抱きしめて」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 492680
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/b6/492678_ROmmq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/b6/492678_ROmmq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/b6/492678_ROmmq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/b6/492678_ROmmq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/b6/492678_ROmmq.jpg"
+          },
+          "name": "MyGO!!!!! 3rd LIVE「声を抱えて生きる」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 492678
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/5d/492677_9xXVz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/5d/492677_9xXVz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3d/5d/492677_9xXVz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/5d/492677_9xXVz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/5d/492677_9xXVz.jpg"
+          },
+          "name": "MyGO!!!!! 4th LIVE「前へ進む音の中で」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 492677
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d9/f3/492675_fB3wB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d9/f3/492675_fB3wB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d9/f3/492675_fB3wB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d9/f3/492675_fB3wB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f3/492675_fB3wB.jpg"
+          },
+          "name": "MyGO!!!!! 5th LIVE「迷うことに迷わない」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 492675
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/24/492673_tchtc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/24/492673_tchtc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/24/492673_tchtc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/24/492673_tchtc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/24/492673_tchtc.jpg"
+          },
+          "name": "BanG Dream! 12th☆LIVE DAY2 : MyGO!!!!!「ちいさな一瞬」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 492673
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/7a/492657_QNvJZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/7a/492657_QNvJZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/30/7a/492657_QNvJZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/7a/492657_QNvJZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/7a/492657_QNvJZ.jpg"
+          },
+          "name": "MyGO!!!!! 6th LIVE「見つけた景色、たずさえて」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 492657
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/f5/492483_1aNa9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/f5/492483_1aNa9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/f5/492483_1aNa9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/f5/492483_1aNa9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/f5/492483_1aNa9.jpg"
+          },
+          "name": "Poppin'Party×MyGO!!!!! 合同ライブ「Divide/Unite」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 492483
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/c3/454684_f7nnq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/c3/454684_f7nnq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/c3/454684_f7nnq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/c3/454684_f7nnq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/c3/454684_f7nnq.jpg"
           },
           "name": "BanG Dream! Ave Mujica",
           "name_cn": "",
@@ -210,17 +336,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/03/453812_04Vr4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/03/453812_04Vr4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8f/03/453812_04Vr4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/03/453812_04Vr4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/03/453812_04Vr4.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/a5/186515_ZJhwb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg"
           },
-          "name": "MyGO!!!!!の「迷子集会」",
+          "name": "BanG Dream!",
           "name_cn": "",
-          "relation": "衍生",
-          "type": 6,
-          "id": 453812
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 186515
         },
         {
           "images": {
@@ -238,6 +364,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b2/00/208415_9u4eO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b2/00/208415_9u4eO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b2/00/208415_9u4eO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b2/00/208415_9u4eO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/00/208415_9u4eO.jpg"
+          },
+          "name": "バンドリ！ ガールズバンドパーティ！",
+          "name_cn": "BanG Dream! 少女乐团派对！",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208415
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d9/f3/246429_L8TbT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d9/f3/246429_L8TbT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d9/f3/246429_L8TbT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d9/f3/246429_L8TbT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d9/f3/246429_L8TbT.jpg"
+          },
+          "name": "BanG Dream! 2nd Season",
+          "name_cn": "BanG Dream! 第二季",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 246429
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
@@ -249,6 +403,20 @@
           "relation": "衍生",
           "type": 2,
           "id": 448391
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/9f/246430_BpvBB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/9f/246430_BpvBB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/42/9f/246430_BpvBB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/9f/246430_BpvBB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/9f/246430_BpvBB.jpg"
+          },
+          "name": "BanG Dream! 3rd Season",
+          "name_cn": "BanG Dream! 第三季",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 246430
         },
         {
           "images": {
@@ -280,34 +448,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/a5/186515_ZJhwb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/186515_ZJhwb.jpg"
-          },
-          "name": "BanG Dream!",
-          "name_cn": "",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 186515
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/d7/308630_25Y75.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/d7/308630_25Y75.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a7/d7/308630_25Y75.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/d7/308630_25Y75.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/d7/308630_25Y75.jpg"
-          },
-          "name": "Sasanqua",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 308630
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/62/473832_z54hw.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/62/473832_z54hw.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/68/62/473832_z54hw.jpg",
@@ -336,27 +476,27 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/f3/373148_5IL59.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/f3/373148_5IL59.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/28/f3/373148_5IL59.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/f3/373148_5IL59.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/f3/373148_5IL59.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/d7/308630_25Y75.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/d7/308630_25Y75.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a7/d7/308630_25Y75.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/d7/308630_25Y75.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/d7/308630_25Y75.jpg"
           },
-          "name": "ROZEN HORIZON",
+          "name": "Sasanqua",
           "name_cn": "",
           "relation": "插入歌",
           "type": 3,
-          "id": 373148
+          "id": 308630
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/02/473833_Lq74Q.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/02/473833_Lq74Q.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/29/02/473833_Lq74Q.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/02/473833_Lq74Q.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/02/473833_Lq74Q.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/02/473833_UEqoq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/02/473833_UEqoq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/02/473833_UEqoq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/02/473833_UEqoq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/02/473833_UEqoq.jpg"
           },
-          "name": "劇場版 BanG Dream! It's MyGO!!!!! 後編 うたう、僕らになれるうた &amp; FILM LIVE",
+          "name": "劇場版 BanG Dream! It's MyGO!!!!! 後編 うたう、僕らになれるうた & FILM LIVE",
           "name_cn": "",
           "relation": "总集篇",
           "type": 2,
@@ -375,6 +515,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 473851
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/f3/373148_5IL59.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/f3/373148_5IL59.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/28/f3/373148_5IL59.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/f3/373148_5IL59.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/f3/373148_5IL59.jpg"
+          },
+          "name": "ROZEN HORIZON",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 373148
         },
         {
           "images": {
@@ -510,13 +664,12 @@
       "tags": [
         "2020-2029",
         "2023",
-        "2023春",
-        "23夏",
         "JUMP",
         "StudioPierrot",
         "⊘日本",
         "☐",
         "ぴえろ",
+        "ブラッククローバー",
         "七下",
         "令和",
         "剧场版",
@@ -524,6 +677,7 @@
         "动画",
         "原创",
         "奇幻",
+        "屹青",
         "待上映",
         "待维护",
         "战斗",
@@ -698,11 +852,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/ab/486916_kEz4T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/ab/486916_kEz4T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/ab/486916_kEz4T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/ab/486916_kEz4T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/ab/486916_kEz4T.jpg"
           },
           "name": "映画『ブラッククローバー 魔法帝の剣』サウンドトラックCD",
           "name_cn": "",
@@ -730,8 +884,8 @@
       "name": "大奥",
       "name_cn": "大奥",
       "tags": [
+        "2020-2029",
         "2023",
-        "2023年",
         "2023年4月",
         "2023年7月",
         "20年代",
@@ -740,6 +894,7 @@
         "WEB",
         "fmt.ONA",
         "studiodeen",
+        "what",
         "よしながふみ",
         "スタジオディーン",
         "低于7",
@@ -747,7 +902,6 @@
         "历史",
         "后宫",
         "女性向",
-        "完整世界观",
         "宮野真守",
         "川井宪次",
         "性转",
@@ -1088,6 +1242,7 @@
         "2023年4月",
         "2023年6月",
         "2023年7月",
+        "7",
         "LL",
         "LoveLive",
         "LoveLive！",
@@ -1106,8 +1261,7 @@
         "治愈",
         "田中仁",
         "百合",
-        "续作",
-        "虹咲",
+        "矢野妃菜喜",
         "虹团",
         "青春",
         "音乐",
@@ -1310,15 +1464,15 @@
       },
       "summary": "高校二年生の三学期を迎えた梓川咲太。\r\n三年生の先輩であり恋人の桜島麻衣と、峰ヶ原高校で一緒に過ごせる学生生活も残り僅かとなった。\r\nそんななか、長年おうち大好きだった妹の花楓は、誰にも明かしたことのない胸の内を咲太に打ち明ける。\r\n「お兄ちゃんが行ってる高校に行きたい」\r\nそれは花楓にとって大きな決意。\r\n極めて難しい選択と知りながらも、咲太は優しく花楓の背中を押すことを決める。\r\n『かえで』から『花楓』へ託された想い。二人で踏み出す未来への物語。",
       "name": "青春ブタ野郎はおでかけシスターの夢を見ない",
-      "name_cn": "青春笨蛋少年不会梦到娇怜外出妹",
+      "name_cn": "青春笨蛋少年不做娇怜外出妹的梦",
       "tags": [
         "2023",
         "2023年",
+        "2023年4月",
         "2023年6月",
         "2023年7月",
         "CloverWorks",
         "TV",
-        "兄妹",
         "剧场版",
         "増井壮一",
         "增井壮一",
@@ -1329,7 +1483,6 @@
         "恋爱",
         "日常",
         "日本",
-        "日本动画",
         "未定档",
         "校园",
         "横谷昌宏",
@@ -1339,6 +1492,7 @@
         "轻小说改",
         "轻改",
         "青春",
+        "青春猪头少年",
         "青春猪头少年系列",
         "鴨志田一",
         "鸭志田一"
@@ -1346,19 +1500,22 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "青春笨蛋少年不会梦到娇怜外出妹"
+          "value": "青春笨蛋少年不做娇怜外出妹的梦"
         },
         {
           "key": "别名",
           "value": [
             {
+              "v": "青春笨蛋少年不会梦到娇怜外出妹"
+            },
+            {
+              "v": "青春猪头少年不会梦到娇怜外出妹"
+            },
+            {
               "v": "Seishun Buta Yarou wa Odekake Sister no Yume o Minai"
             },
             {
               "v": "Rascal Does Not Dream of a Sister Venturing Out"
-            },
-            {
-              "v": "青春猪头少年不会梦到娇怜外出妹"
             }
           ]
         },
@@ -1492,7 +1649,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/dd/443090_875k2.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/dd/443090_875k2.jpg"
           },
-          "name": "不可思議のカルテ 花楓&amp;かえで Ver.",
+          "name": "不可思議のカルテ 花楓&かえで Ver.",
           "name_cn": "",
           "relation": "片尾曲",
           "type": 3,
@@ -1546,6 +1703,7 @@
       "name": "逆異世界転生エージェント エーコさん",
       "name_cn": "",
       "tags": [
+        "时事热点",
         "泡面番"
       ],
       "infobox": [
@@ -1956,6 +2114,96 @@
     }
   },
   {
+    "title": "それいけ!アンパンマン ロボリィとぽかぽかプレゼント",
+    "date": "2023-06-30",
+    "bangumi": {
+      "date": "2023-06-30",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/f7/418493_78ttM.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/f7/418493_78ttM.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ba/f7/418493_78ttM.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/f7/418493_78ttM.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/f7/418493_78ttM.jpg"
+      },
+      "summary": "思いやりの心がみんなを笑顔にする！\r\n\r\n〈ロボ彗星〉に住むロボリィはなんでも作れるロボットの女の子。\r\nでもたった１つだけ作れない“大切なもの“があることを知り、\r\nそれを見つけるためロボ彗星を飛び出してしまいます。\r\n旅の途中、ロボリィと小鳥ロボット・コトはプレゼントの箱を拾い、\r\n落とし主を探すためにアンパンマンワールドへ。\r\nそこでアンパンマンたちと出会い、一緒に楽しい時間を過ごす中で、\r\nロボリィは胸が“ぽかぽか“することに気が付きます。\r\nその頃、ばいきんまんはロボ彗星を〈バイキンロボ彗星〉にしようと\r\n最強メカ“ロボキング“で大暴れして———！？\r\n映画＆テレビ35周年、絵本『あんぱんまん』誕生50周年の今年、\r\nみんなの心がぽかぽかあたたまる、ワクワクドキドキの大冒険がはじまります！",
+      "name": "それいけ!アンパンマン ロボリィとぽかぽかプレゼント",
+      "name_cn": "面包超人 乐波莉与暖呼呼礼物",
+      "tags": [
+        "2023",
+        "TMSEntertainment",
+        "TMS娱乐",
+        "子供向"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "面包超人 乐波莉与暖呼呼礼物"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Sore Ike! Anpanman: Roboly to Pokapoka Present"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2023年6月30日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://anpan-movie.com/2023/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©やなせたかし／フレーベル館・TMS・NTV ©やなせたかし／アンパンマン製作委員会2023"
+        },
+        {
+          "key": "发行",
+          "value": "東京テアトル"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "やなせたかし（フレーベル館刊）"
+        },
+        {
+          "key": "导演",
+          "value": "橋本敏一"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 418493,
+      "eps": 1,
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/52/81562_FMs3F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/52/81562_FMs3F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/52/81562_FMs3F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/52/81562_FMs3F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/52/81562_FMs3F.jpg"
+          },
+          "name": "それいけ!アンパンマン",
+          "name_cn": "面包超人",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 81562
+        }
+      ]
+    }
+  },
+  {
     "title": "劇場版 美少女戦士セーラームーンCosmos 前編",
     "date": "2023-06-09",
     "bangumi": {
@@ -1975,14 +2223,15 @@
         "2020-2029",
         "2020s",
         "2023",
-        "2023年",
         "2023年4月",
         "2023年5月",
+        "2023年6月",
         "2023年春",
         "STUDIO_DEEN",
         "studiodeen",
         "ふでやすかずゆき",
         "スタジオディーン",
+        "三石琴乃",
         "东映",
         "东映动画",
         "东映动画、StudioDEEN",
@@ -1990,11 +2239,10 @@
         "偶像元素",
         "刁主席亲自评价",
         "剧场版",
+        "动画",
         "少女向",
         "待上映",
-        "战斗",
         "日本",
-        "日本动画",
         "東映アニメーション",
         "漫改",
         "漫画改",
@@ -2171,6 +2419,190 @@
     }
   },
   {
+    "title": "沧元图",
+    "date": "2023-06-22",
+    "bangumi": {
+      "date": "2023-06-22",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/a5/403607_k0gXS.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/a5/403607_k0gXS.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/19/a5/403607_k0gXS.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/a5/403607_k0gXS.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/a5/403607_k0gXS.jpg"
+      },
+      "summary": "故事讲述了沧元界妖邪作乱，人族饱受摧残，主角孟川自小立下为母复仇的誓言，以镜湖道院为起点，凭借坚毅无畏的心志与利落果决的刀法身手，惩处奸恶，溃灭妖族，登顶四大道院，名满东宁府，拜上元初山，成就一代神魔的故事。",
+      "name": "沧元图",
+      "name_cn": "",
+      "tags": [
+        "2023",
+        "2023年7月",
+        "24集+",
+        "3D",
+        "TV",
+        "WEB",
+        "中国",
+        "优酷",
+        "修炼",
+        "动画",
+        "升级",
+        "国产",
+        "国产TV动画",
+        "国产动画",
+        "国漫",
+        "天使(神漫)",
+        "奇幻",
+        "小说改",
+        "张毅立",
+        "我吃西红柿",
+        "战斗",
+        "焦柄乾",
+        "燃",
+        "爽文",
+        "爽片",
+        "特效不错",
+        "玄幻",
+        "神漫文化",
+        "网文改",
+        "轻小说改"
+      ],
+      "infobox": [
+        {
+          "key": "话数",
+          "value": "26"
+        },
+        {
+          "key": "放送开始",
+          "value": "2023年6月22日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期四"
+        },
+        {
+          "key": "原作",
+          "value": "我吃西红柿 ​​​​"
+        },
+        {
+          "key": "出品",
+          "value": "优酷动漫、天使文化"
+        },
+        {
+          "key": "动画制作",
+          "value": "神漫文化"
+        }
+      ],
+      "total_episodes": 26,
+      "id": 403607,
+      "eps": 26,
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/ab/458903_G5It7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/ab/458903_G5It7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e9/ab/458903_G5It7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/ab/458903_G5It7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/ab/458903_G5It7.jpg"
+          },
+          "name": "沧元图",
+          "name_cn": "沧元图",
+          "relation": "书籍",
+          "type": 1,
+          "id": 458903
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/cd/458935_Vr0FP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/cd/458935_Vr0FP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/cd/458935_Vr0FP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/cd/458935_Vr0FP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/cd/458935_Vr0FP.jpg"
+          },
+          "name": "沧元图2",
+          "name_cn": "",
+          "relation": "续集",
+          "type": 2,
+          "id": 458935
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/e4/467375_11n1V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/e4/467375_11n1V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4f/e4/467375_11n1V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/e4/467375_11n1V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/e4/467375_11n1V.jpg"
+          },
+          "name": "忘川",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 467375
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e3/fd/467376_8Ru3b.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e3/fd/467376_8Ru3b.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e3/fd/467376_8Ru3b.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e3/fd/467376_8Ru3b.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e3/fd/467376_8Ru3b.jpg"
+          },
+          "name": "三秋",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 467376
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/cd/467378_JJ1Ki.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/cd/467378_JJ1Ki.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d8/cd/467378_JJ1Ki.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/cd/467378_JJ1Ki.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/cd/467378_JJ1Ki.jpg"
+          },
+          "name": "野草",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 467378
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/81/467379_CHufH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/81/467379_CHufH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/07/81/467379_CHufH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/81/467379_CHufH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/81/467379_CHufH.jpg"
+          },
+          "name": "阿苏拉则",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 467379
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/7a/469416_Bqkb8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/7a/469416_Bqkb8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/69/7a/469416_Bqkb8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/7a/469416_Bqkb8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/7a/469416_Bqkb8.jpg"
+          },
+          "name": "沧元图 东宁府番外篇",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 2,
+          "id": 469416
+        }
+      ]
+    }
+  },
+  {
     "title": "劇場版 美少女戦士セーラームーンCosmos 後編",
     "date": "2023-06-30",
     "bangumi": {
@@ -2192,12 +2624,11 @@
         "2023",
         "2023年",
         "2023年4月",
+        "2023年6月",
         "2023年春",
         "STUDIO_DEEN",
         "studiodeen",
-        "『剧场版』",
         "ふでやすかずゆき",
-        "アニメ映画",
         "スタジオディーン",
         "三石琴乃",
         "东映",
@@ -2210,6 +2641,7 @@
         "待上映",
         "恋爱",
         "日本动画",
+        "有趣",
         "東映アニメーション",
         "漫改",
         "漫画改",
@@ -2389,6 +2821,7 @@
       "name_cn": "狐妖小红娘 无暮篇",
       "tags": [
         "2023",
+        "2023夏",
         "2023年6月",
         "2023年7月",
         "TV",
@@ -2626,11 +3059,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/f6/449344_OdsQv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/f6/449344_OdsQv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/df/f6/449344_OdsQv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/f6/449344_OdsQv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/f6/449344_OdsQv.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/f6/449344_Zk6ls.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/f6/449344_Zk6ls.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/f6/449344_Zk6ls.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/f6/449344_Zk6ls.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/f6/449344_Zk6ls.jpg"
           },
           "name": "狐妖小红娘 镜花缘篇",
           "name_cn": "",

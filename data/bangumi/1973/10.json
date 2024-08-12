@@ -261,6 +261,7 @@
       "name_cn": "魔投手",
       "tags": [
         "1973",
+        "1973年10月",
         "70s",
         "TV",
         "TVA",
@@ -353,6 +354,34 @@
           "relation": "书籍",
           "type": 1,
           "id": 289882
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8b/64/502141_MMyn7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8b/64/502141_MMyn7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8b/64/502141_MMyn7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8b/64/502141_MMyn7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/64/502141_MMyn7.jpg"
+          },
+          "name": "侍ジャイアンツ / サムライ番場蛮",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 502141
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/7f/502143_7HyDT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/7f/502143_7HyDT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/7f/502143_7HyDT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/7f/502143_7HyDT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/7f/502143_7HyDT.jpg"
+          },
+          "name": "王者・侍ジャイアンツ / ゆけ! バンババン",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 502143
         }
       ]
     }
@@ -517,6 +546,7 @@
         "1973",
         "1973年",
         "1980年前",
+        "3クール",
         "70年代动画",
         "SF",
         "TV",
@@ -524,7 +554,6 @@
         "タツノコプロ",
         "三宅直子",
         "人",
-        "内海賢二",
         "内海贤二",
         "再造人卡辛",
         "原创",
@@ -834,7 +863,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/bd/502246_8rmrc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/bd/502246_8rmrc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/52/bd/502246_8rmrc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/bd/502246_8rmrc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/bd/502246_8rmrc.jpg"
+          },
+          "name": "空手バカ一代 / 空手道おとこ道",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 502246
+        }
+      ]
     }
   }
 ]

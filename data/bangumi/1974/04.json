@@ -26,6 +26,7 @@
         "子供向",
         "日本动画",
         "旧物",
+        "时事热点",
         "栗葉子",
         "童年",
         "龙之子"
@@ -127,12 +128,12 @@
         "1974年4月",
         "70年代",
         "Cha研",
+        "ICHI",
         "Knack",
         "TV",
         "TVA",
         "アニメ",
         "ナック映画",
-        "单元剧",
         "原创",
         "吐槽",
         "吐槽片",
@@ -362,7 +363,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/89/502247_94Iho.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/89/502247_94Iho.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ad/89/502247_94Iho.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/89/502247_94Iho.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/89/502247_94Iho.jpg"
+          },
+          "name": "星の子チョビン / 星のしずくの子守唄",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 502247
+        }
+      ]
     }
   },
   {
@@ -1061,6 +1077,7 @@
         "动作",
         "厕纸都不如",
         "原创",
+        "喜欢",
         "圆谷",
         "奥特曼",
         "战斗",
@@ -1071,7 +1088,6 @@
         "暴死",
         "没有故乡的男人",
         "特摄",
-        "电波",
         "电视剧",
         "真人特摄",
         "童年",
@@ -1192,11 +1208,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/87/61260_773s7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/87/61260_773s7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/46/87/61260_773s7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/87/61260_773s7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/87/61260_773s7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/87/61260_OFZwi.jpg"
           },
           "name": "ザ☆ウルトラマン",
           "name_cn": "乔尼亚斯奥特曼",
@@ -1212,7 +1228,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/62/318326_r4dig.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/62/318326_r4dig.jpg"
           },
-          "name": "ウルトラマンM78劇場 Love &amp; Peace",
+          "name": "ウルトラマンM78劇場 Love & Peace",
           "name_cn": "宇宙小超人 爱与和平",
           "relation": "角色出演",
           "type": 2,

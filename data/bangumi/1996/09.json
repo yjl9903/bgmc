@@ -422,18 +422,17 @@
         "7分",
         "8JA",
         "90s",
-        "90年代",
         "TV",
-        "TVA",
+        "anime",
         "东映",
-        "乙女向",
+        "东映动画",
         "动",
         "原画",
         "宮下直紀",
-        "少女",
         "少女向",
         "山内重保",
         "山本耕史",
+        "年番",
         "影山由美",
         "恋爱",
         "持田真樹",
@@ -446,7 +445,8 @@
         "漫画改",
         "漫画改编",
         "童年",
-        "馬越嘉彦",
+        "补番",
+        "逆后宫",
         "马越嘉彦"
       ],
       "infobox": [
@@ -606,7 +606,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/e3/257122_UjFwE.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/e3/257122_UjFwE.jpg"
           },
-          "name": "変奏曲集「花より男子」 Variations &quot;Hana-Dan&quot; ～サウンドトラックアルバム～",
+          "name": "変奏曲集「花より男子」 Variations \"Hana-Dan\" ～サウンドトラックアルバム～",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -628,7 +628,7 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/af/75624_15MpH.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/af/75624_15MpH.jpg"
       },
-      "summary": "",
+      "summary": "『キャシャーン』や『GATCHAMAN』に続き、基本的な設定を同じくするリメイクではあるものの武が本名のまま車探偵事務所に居候していたり、武がポリメットを手に入れる過程が異なるなど旧作とは異なる点が多い。また、人物の設定も大きく変更されている。武は鬼河原家の3兄弟の末弟であり、長兄トモル（漢字は不明）が失踪し武自身も父とは犬猿の仲であるため、事件で父や次兄の元に怒鳴り込んだ際に長兄の失踪は父の汚いやり口に反発してのことだと推測を事実であるかのようにまくし立てるなど父と末子の間の溝は大きい。しかし、ポリマーの活躍や車錠のドジっぷりは健在。また、今作で鬼河原武/ポリマーを演じた置鮎龍太郎は、オリジナル版で同役を演じた曽我部和恭の引退後、持ち役を数多く引き継いでいる。",
       "name": "新破裏拳ポリマー",
       "name_cn": "新破里拳Polimar",
       "tags": [
@@ -645,7 +645,6 @@
         "タツノコプロ",
         "其他",
         "剧集",
-        "卖肉",
         "原创",
         "必補",
         "新房昭之",
@@ -657,6 +656,7 @@
         "石浜真史",
         "破里拳Polimar",
         "科幻",
+        "腰斩",
         "英雄",
         "表番",
         "赛璐珞",
@@ -671,6 +671,9 @@
         {
           "key": "别名",
           "value": [
+            {
+              "v": "Shin Hurricane Polymer"
+            },
             {
               "v": "New Hurricane Polymar"
             },
@@ -767,6 +770,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 440980
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/eb/506305_fHm3m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/eb/506305_fHm3m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/89/eb/506305_fHm3m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/eb/506305_fHm3m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/eb/506305_fHm3m.jpg"
+          },
+          "name": "新 破裏拳ポリマー MUSIC COLLECTION",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 506305
         }
       ]
     }
@@ -800,11 +817,12 @@
         "SLG",
         "SRPG",
         "SS",
-        "SakuraWars",
         "galgame",
+        "■1",
         "サクラ大戦",
         "大神",
         "官方漢化",
+        "广井王子",
         "恋爱",
         "日本",
         "日系",
@@ -816,8 +834,7 @@
         "童年",
         "童年回忆",
         "童年回忆（大雾",
-        "經典",
-        "非文字冒險"
+        "經典"
       ],
       "infobox": [
         {
@@ -887,7 +904,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/ca/477067_4rAZy.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/ca/477067_4rAZy.jpg"
           },
-          "name": "サクラ大戦 原画&amp;設定資料集",
+          "name": "サクラ大戦 原画&設定資料集",
           "name_cn": "",
           "relation": "画集",
           "type": 1,
@@ -1112,7 +1129,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/fa/39258_r5b47.jpg"
           },
           "name": "サクラ大戦１＆２",
-          "name_cn": "樱花大战 1&amp;2",
+          "name_cn": "樱花大战 1&2",
           "relation": "游戏",
           "type": 4,
           "id": 39258

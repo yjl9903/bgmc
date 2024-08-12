@@ -19,11 +19,8 @@
         "1989",
         "1989年",
         "1989年4月",
-        "7分",
-        "80s",
         "80年代",
         "TV",
-        "タツノコプロ",
         "依莫拉撒",
         "关俊彦",
         "动画",
@@ -35,8 +32,11 @@
         "天空戦记",
         "奇幻",
         "子安武人",
+        "官方崩坏",
         "战斗",
         "战斗系",
+        "日本",
+        "果体海滩对谈",
         "热血",
         "童年",
         "老片",
@@ -234,7 +234,6 @@
         "乱马",
         "偽娘",
         "变身",
-        "后宫",
         "奇幻",
         "女装",
         "很搞笑每集都要打一次",
@@ -243,6 +242,7 @@
         "战斗",
         "搞笑",
         "日本",
+        "日本动画",
         "望月智充",
         "来啊来追我啊",
         "林原めぐみ",
@@ -374,6 +374,20 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/a3/489820_Hre3R.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/a3/489820_Hre3R.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/13/a3/489820_Hre3R.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/13/a3/489820_Hre3R.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/13/a3/489820_Hre3R.jpg"
+          },
+          "name": "らんま1/2",
+          "name_cn": "乱马1/2",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 489820
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/5d/482445_NfD79.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/5d/482445_NfD79.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c2/5d/482445_NfD79.jpg",
@@ -388,17 +402,45 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/b1/153049_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/b1/153049_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cb/b1/153049_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/b1/153049_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/b1/153049_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7b/50/482434_EZcta.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7b/50/482434_EZcta.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7b/50/482434_EZcta.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7b/50/482434_EZcta.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7b/50/482434_EZcta.jpg"
           },
-          "name": "らんま1/2 TVテーマソングス コンプリート",
+          "name": "らんま1/2 熱闘歌合戦",
           "name_cn": "",
-          "relation": "其他",
+          "relation": "角色歌",
           "type": 3,
-          "id": 153049
+          "id": 482434
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/d5/482413_LxP5G.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/d5/482413_LxP5G.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/50/d5/482413_LxP5G.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/d5/482413_LxP5G.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/d5/482413_LxP5G.jpg"
+          },
+          "name": "らんま1/2 音楽道場",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 482413
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/4f/454088_0Jdk8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/4f/454088_0Jdk8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/71/4f/454088_0Jdk8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/4f/454088_0Jdk8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/4f/454088_0Jdk8.jpg"
+          },
+          "name": "EQUALロマンス",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 454088
         },
         {
           "images": {
@@ -430,115 +472,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/24/327597_61f1b.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/24/327597_61f1b.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/24/327597_61f1b.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/24/327597_61f1b.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/24/327597_61f1b.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/72/482480_5mRH5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/72/482480_5mRH5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fc/72/482480_5mRH5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/72/482480_5mRH5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/72/482480_5mRH5.jpg"
           },
-          "name": "決定盤 らんま1/2 アニメ主題歌&amp;キャラソン大全集",
+          "name": "らんま1/2 DoCo★ファースト",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
-          "id": 327597
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/4f/454088_0Jdk8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/4f/454088_0Jdk8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/71/4f/454088_0Jdk8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/4f/454088_0Jdk8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/4f/454088_0Jdk8.jpg"
-          },
-          "name": "EQUALロマンス",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 454088
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/d5/482413_LxP5G.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/d5/482413_LxP5G.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/50/d5/482413_LxP5G.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/d5/482413_LxP5G.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/d5/482413_LxP5G.jpg"
-          },
-          "name": "らんま1/2 音楽道場",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 482413
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/12/482424_T8EBb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/12/482424_T8EBb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8d/12/482424_T8EBb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/12/482424_T8EBb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/12/482424_T8EBb.jpg"
-          },
-          "name": "らんま1/2 電子遊戯音楽集",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 482424
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/f0/65883_kIKII.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/f0/65883_kIKII.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d7/f0/65883_kIKII.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/f0/65883_kIKII.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/f0/65883_kIKII.jpg"
-          },
-          "name": "らんま1/2 熱闘編",
-          "name_cn": "乱马1/2 热斗篇",
-          "relation": "续集",
-          "type": 2,
-          "id": 65883
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/a3/489820_BpCcl.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/a3/489820_BpCcl.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/13/a3/489820_BpCcl.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/13/a3/489820_BpCcl.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/13/a3/489820_BpCcl.jpg"
-          },
-          "name": "らんま1/2",
-          "name_cn": "乱马1/2",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 489820
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/c5/482587_KE6a9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/c5/482587_KE6a9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/06/c5/482587_KE6a9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/c5/482587_KE6a9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/c5/482587_KE6a9.jpg"
-          },
-          "name": "プラトニックつらぬいて",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 482587
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/a7/43974_oGtFg.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/a7/43974_oGtFg.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/73/a7/43974_oGtFg.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/a7/43974_oGtFg.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/a7/43974_oGtFg.jpg"
-          },
-          "name": "らんま1/2 音楽の鉄人編",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 43974
+          "id": 482480
         },
         {
           "images": {
@@ -570,17 +514,73 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/29/482490_P24Dp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/29/482490_P24Dp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/60/29/482490_P24Dp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/29/482490_P24Dp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/29/482490_P24Dp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/f0/65883_kIKII.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/f0/65883_kIKII.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/f0/65883_kIKII.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/f0/65883_kIKII.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/f0/65883_kIKII.jpg"
           },
-          "name": "らんま1/2 格闘歌かるた",
+          "name": "らんま1/2 熱闘編",
+          "name_cn": "乱马1/2 热斗篇",
+          "relation": "续集",
+          "type": 2,
+          "id": 65883
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/c5/482587_KE6a9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/c5/482587_KE6a9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/c5/482587_KE6a9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/c5/482587_KE6a9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/c5/482587_KE6a9.jpg"
+          },
+          "name": "プラトニックつらぬいて",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 482587
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/2b/124487_ixhGJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/2b/124487_ixhGJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/2b/124487_ixhGJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/2b/124487_ixhGJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/2b/124487_ixhGJ.jpg"
+          },
+          "name": "この世でいちばん、お正月が好き",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 124487
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/b1/153049_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/b1/153049_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cb/b1/153049_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/b1/153049_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/b1/153049_jp.jpg"
+          },
+          "name": "らんま1/2 TVテーマソングス コンプリート",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 153049
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/c8/482504_1q1h8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/c8/482504_1q1h8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/32/c8/482504_1q1h8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/c8/482504_1q1h8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/c8/482504_1q1h8.jpg"
+          },
+          "name": "らんま1/2 DoCo☆Second",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
-          "id": 482490
+          "id": 482504
         },
         {
           "images": {
@@ -598,17 +598,45 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/2b/124487_ixhGJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/2b/124487_ixhGJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a1/2b/124487_ixhGJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/2b/124487_ixhGJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/2b/124487_ixhGJ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/a7/43974_oGtFg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/a7/43974_oGtFg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/73/a7/43974_oGtFg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/a7/43974_oGtFg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/a7/43974_oGtFg.jpg"
           },
-          "name": "この世でいちばん、お正月が好き",
+          "name": "らんま1/2 音楽の鉄人編",
           "name_cn": "",
-          "relation": "角色歌",
+          "relation": "其他",
           "type": 3,
-          "id": 124487
+          "id": 43974
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/29/482490_P24Dp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/29/482490_P24Dp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/60/29/482490_P24Dp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/29/482490_P24Dp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/29/482490_P24Dp.jpg"
+          },
+          "name": "らんま1/2 格闘歌かるた",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 482490
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/12/482424_T8EBb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/12/482424_T8EBb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/12/482424_T8EBb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/12/482424_T8EBb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/12/482424_T8EBb.jpg"
+          },
+          "name": "らんま1/2 電子遊戯音楽集",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 482424
         },
         {
           "images": {
@@ -651,6 +679,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 37020
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/24/327597_61f1b.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/24/327597_61f1b.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/24/327597_61f1b.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/24/327597_61f1b.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/24/327597_61f1b.jpg"
+          },
+          "name": "決定盤 らんま1/2 アニメ主題歌&キャラソン大全集",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 327597
         },
         {
           "images": {
@@ -724,31 +766,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/68/72348_CwcPG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/68/72348_CwcPG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/34/68/72348_CwcPG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/68/72348_CwcPG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/68/72348_CwcPG.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/68/72348_TS1zX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/68/72348_TS1zX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/34/68/72348_TS1zX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/68/72348_TS1zX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/68/72348_TS1zX.jpg"
           },
           "name": "らんま1/2 SPECIAL よみがえる記憶",
           "name_cn": "乱马1/2 苏醒的记忆",
           "relation": "番外篇",
           "type": 2,
           "id": 72348
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/ab/72347_8f833.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/ab/72347_8f833.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b0/ab/72347_8f833.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/ab/72347_8f833.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/ab/72347_8f833.jpg"
-          },
-          "name": "らんま1/2 SUPER 破恋洞ああ呪いの破恋洞！我が爱は永远に",
-          "name_cn": "乱马1/2 破恋洞的诅咒！吾爱永存",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 72347
         },
         {
           "images": {
@@ -763,6 +791,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 482457
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/ab/72347_8f833.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/ab/72347_8f833.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/ab/72347_8f833.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/ab/72347_8f833.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/ab/72347_8f833.jpg"
+          },
+          "name": "らんま1/2 SUPER 破恋洞ああ呪いの破恋洞！我が爱は永远に",
+          "name_cn": "乱马1/2 破恋洞的诅咒！吾爱永存",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 72347
         },
         {
           "images": {
@@ -794,20 +836,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/37/72343_iNSFo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/37/72343_iNSFo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d2/37/72343_iNSFo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/37/72343_iNSFo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/37/72343_iNSFo.jpg"
-          },
-          "name": "らんま1/2 SUPER 二人のあかね「乱馬、私を見て!」",
-          "name_cn": "乱马1/2 两个小茜",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 72343
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/85/482458_IYS9s.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/85/482458_IYS9s.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/4b/85/482458_IYS9s.jpg",
@@ -819,6 +847,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 482458
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/37/72343_iNSFo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/37/72343_iNSFo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d2/37/72343_iNSFo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/37/72343_iNSFo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/37/72343_iNSFo.jpg"
+          },
+          "name": "らんま1/2 SUPER 二人のあかね「乱馬、私を見て!」",
+          "name_cn": "乱马1/2 两个小茜",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 72343
         },
         {
           "images": {
@@ -1532,11 +1574,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b7/459435_2b1Vp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b7/459435_2b1Vp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/b7/459435_2b1Vp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b7/459435_2b1Vp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b7/459435_2b1Vp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b7/459435_ymzfL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b7/459435_ymzfL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b7/459435_ymzfL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b7/459435_ymzfL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b7/459435_ymzfL.jpg"
           },
           "name": "ドラゴンボールDAIMA",
           "name_cn": "龙珠大魔",
@@ -1851,12 +1893,12 @@
         "动画",
         "原创",
         "奇幻",
+        "年番",
         "战斗",
         "拉比",
         "日本",
         "日本动画",
         "机战",
-        "机甲",
         "热血",
         "田中公平",
         "童年",
@@ -2145,6 +2187,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 271927
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/d5/445950_Ps8Do.jpg"
+          },
+          "name": "ブレイブサーガ 新章 アスタリア",
+          "name_cn": "勇者传说 新章",
+          "relation": "游戏",
+          "type": 4,
+          "id": 445950
         }
       ]
     }
@@ -2366,6 +2422,54 @@
         {
           "key": "结束",
           "value": "1989年6月1日"
+        },
+        {
+          "key": "企画",
+          "value": "サンライズ"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇"
+        },
+        {
+          "key": "导演",
+          "value": "浜津守"
+        },
+        {
+          "key": "脚本",
+          "value": "浜津守"
+        },
+        {
+          "key": "人物设定",
+          "value": "塩山紀生、村瀬修功"
+        },
+        {
+          "key": "设定",
+          "value": "岡本英郎(铠装设计)"
+        },
+        {
+          "key": "剪辑",
+          "value": "鶴渕友彰"
+        },
+        {
+          "key": "制片人",
+          "value": "中川宏徳（サンライズ）、風間康久（CBSソニーグループ）"
+        },
+        {
+          "key": "製作",
+          "value": "サンライズ、CBSソニーグループ[现:Sony Music Records]"
+        },
+        {
+          "key": "作画监督",
+          "value": "村瀬修功（中村プロダクション）"
+        },
+        {
+          "key": "原画",
+          "value": "スタジオダブ(西村誠芳、木口寿恵子)、青木哲朗、佐藤卓哉、村瀬修功、塩山紀生、服部真奈美、アニメアール(逢坂浩司、吉田徹、柳沢まさひで、木村貴宏)"
+        },
+        {
+          "key": "动画检查",
+          "value": "清島孝一郎"
         }
       ],
       "total_episodes": 2,
@@ -2379,11 +2483,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/b2/3621_1W133.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/b2/3621_1W133.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c5/b2/3621_1W133.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/b2/3621_1W133.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/b2/3621_1W133.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/b2/3621_CrZsC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/b2/3621_CrZsC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/b2/3621_CrZsC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/b2/3621_CrZsC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/b2/3621_CrZsC.jpg"
           },
           "name": "鎧伝サムライトルーパー",
           "name_cn": "魔神坛斗士",
@@ -2421,6 +2525,7 @@
         "OVA",
         "りんたろう",
         "剧场版",
+        "劇場版",
         "动画电影",
         "原创",
         "大友克洋",
@@ -2432,7 +2537,6 @@
         "映画",
         "林太郎",
         "林重行",
-        "独立剧场版",
         "电影",
         "短片",
         "短片集",
@@ -2859,11 +2963,11 @@
       "date": "1989-04-08",
       "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/9d/78059_o99Sz.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/9d/78059_o99Sz.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/2d/9d/78059_o99Sz.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/9d/78059_o99Sz.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/9d/78059_o99Sz.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/9d/78059_3fF9g.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/9d/78059_3fF9g.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2d/9d/78059_3fF9g.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/9d/78059_3fF9g.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/9d/78059_3fF9g.jpg"
       },
       "summary": "",
       "name": "変幻退魔夜行 カルラ舞う! 奈良怨霊絵巻",
@@ -2958,11 +3062,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/7f/7369_Gp9g5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/7f/7369_Gp9g5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/7f/7369_Gp9g5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/7f/7369_Gp9g5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/7f/7369_Gp9g5.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/7f/7369_c4TSj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/7f/7369_c4TSj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/7f/7369_c4TSj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/7f/7369_c4TSj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/7f/7369_c4TSj.jpg"
           },
           "name": "変幻退魔夜行 カルラ舞う！～仙台小芥子怨歌～",
           "name_cn": "变幻退魔夜行 迦楼罗漫舞～仙台小芥子怨歌～",
@@ -3130,7 +3234,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/8e/409309_R2Jgx.jpg"
           },
           "name": "ウルトラマンG ウルトラマンUSA SPECIAL BOX",
-          "name_cn": "葛雷奥特曼 &amp; 美国奥特曼 特别CD BOX",
+          "name_cn": "葛雷奥特曼 & 美国奥特曼 特别CD BOX",
           "relation": "原声集",
           "type": 3,
           "id": 409309

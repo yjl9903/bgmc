@@ -27,6 +27,7 @@
         "日本",
         "日本动画",
         "旧物",
+        "漫画改",
         "生肉",
         "童年",
         "经典",
@@ -151,6 +152,7 @@
         "TVA",
         "bilibili",
         "中田浩二",
+        "城达也",
         "城達也",
         "待補1",
         "忍風卡姆依外伝",
@@ -160,10 +162,12 @@
         "日本アニメーション",
         "日本动画",
         "旧物",
+        "漫画改",
         "生肉",
         "田代淳二",
         "白土三平",
         "赛璐珞",
+        "高原幸藏",
         "高垣幸蔵"
       ],
       "infobox": [
@@ -208,16 +212,36 @@
           "value": "田代淳二"
         },
         {
-          "key": "美術",
-          "value": "大隅敏弘"
+          "key": "演出",
+          "value": "渡辺米彦、山本功、高垣幸蔵、村山修、村山徹、岡田宇啓、大西清、鳥居宥之"
         },
         {
-          "key": "导演",
-          "value": "冈田宇启"
+          "key": "作画监督",
+          "value": "毛内節夫、角田利隆、山内善英、福田皖"
         },
         {
-          "key": "出演",
-          "value": "栗叶子、二阶堂有希子"
+          "key": "制作人",
+          "value": "高橋茂人"
+        },
+        {
+          "key": "监修",
+          "value": "小林利雄"
+        },
+        {
+          "key": "音响监督",
+          "value": "近森啓祐 (東北新社)"
+        },
+        {
+          "key": "音乐",
+          "value": "水谷良一"
+        },
+        {
+          "key": "剪辑",
+          "value": "矢吹敏明"
+        },
+        {
+          "key": "制作进行",
+          "value": "大場伊紘"
         }
       ],
       "total_episodes": 26,
@@ -245,11 +269,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e3/45/289176_wW3N8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e3/45/289176_wW3N8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e3/45/289176_wW3N8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e3/45/289176_wW3N8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e3/45/289176_wW3N8.jpg"
           },
           "name": "忍風カムイ外伝 月日貝の巻",
           "name_cn": "",
@@ -266,7 +290,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/1a/498516_AnPZp.jpg"
           },
           "name": "カムイ外伝",
-          "name_cn": "",
+          "name_cn": "卡姆依外传",
           "relation": "三次元",
           "type": 6,
           "id": 498516
@@ -292,14 +316,14 @@
       "name_cn": "多罗罗",
       "tags": [
         "1969",
-        "1969年4月番",
+        "1969年4月",
+        "1970.00",
         "2019.1",
         "48妖怪",
         "60年代动画",
         "TV",
         "动画",
         "名作",
-        "哔哩哔哩观看",
         "多罗罗",
         "奥田诚治",
         "已完播",
@@ -309,7 +333,6 @@
         "手塚治虫",
         "日本",
         "日本动画",
-        "旧物",
         "残缺的身体",
         "漫改",
         "漫画改",
@@ -319,6 +342,7 @@
         "虫Production",
         "虫プロダクション",
         "虫制作",
+        "赛璐珞",
         "野泽那智",
         "黄金时代神作"
       ],
@@ -407,6 +431,20 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 240838
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/23/503698_iJLgN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/23/503698_iJLgN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/23/503698_iJLgN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/23/503698_iJLgN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/23/503698_iJLgN.jpg"
+          },
+          "name": "どろろ",
+          "name_cn": "多罗罗",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 503698
         }
       ]
     }

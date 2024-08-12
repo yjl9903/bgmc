@@ -107,9 +107,23 @@
           },
           "name": "ハイスクール・フリート",
           "name_cn": "高校舰队",
-          "relation": "主线故事",
+          "relation": "前传",
           "type": 2,
           "id": 144843
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/69/180526_mKw76.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/69/180526_mKw76.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/62/69/180526_mKw76.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/69/180526_mKw76.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/69/180526_mKw76.jpg"
+          },
+          "name": "はいふり",
+          "name_cn": "青春波纹",
+          "relation": "书籍",
+          "type": 1,
+          "id": 180526
         },
         {
           "images": {
@@ -119,7 +133,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/d3/215931_iP545.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/d3/215931_iP545.jpg"
           },
-          "name": "OVA「ハイスクール・フリート」オリジナルドラマ&amp;西崎芽依キャラクターソング",
+          "name": "OVA「ハイスクール・フリート」オリジナルドラマ&西崎芽依キャラクターソング",
           "name_cn": "",
           "relation": "角色歌",
           "type": 3,
@@ -835,6 +849,7 @@
         "Netflix",
         "PolygonPictures",
         "SF",
+        "アニメ映画",
         "ポリゴン・ピクチュアズ",
         "マンガ原作",
         "剧场版",
@@ -843,7 +858,6 @@
         "宫野真守",
         "弐瓶勉",
         "战斗",
-        "日本动画",
         "末世",
         "村井さだゆき",
         "村井贞之",
@@ -853,9 +867,9 @@
         "漫画改",
         "濑下宽之",
         "瀬下寛之",
-        "电影",
         "科幻",
         "花泽香菜",
+        "花澤香菜",
         "菅野祐悟"
       ],
       "infobox": [

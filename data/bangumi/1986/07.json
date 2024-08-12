@@ -218,7 +218,6 @@
         "SUNRISE",
         "サンライズ",
         "ボトムズ",
-        "其他",
         "原创",
         "吉川惣司",
         "單集長篇",
@@ -227,6 +226,7 @@
         "日本SUNRISE",
         "日本动画",
         "旧物",
+        "机器人",
         "机战",
         "泷泽敏文",
         "盐山纪生",
@@ -242,6 +242,14 @@
         {
           "key": "中文名",
           "value": "装甲骑兵 大战"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "ARMORED TROOPER VOTOMS BATTLE OF THE HETEROGENEOUS SPECIES"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -293,7 +301,19 @@
         },
         {
           "key": "动画制作",
-          "value": "サンライズ"
+          "value": "日本サンライズ第4スタジオ"
+        },
+        {
+          "key": "脚本",
+          "value": "はままさのり"
+        },
+        {
+          "key": "剪辑",
+          "value": "鶴渕映画"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "TETSU(織田哲郎)"
         }
       ],
       "total_episodes": 1,
@@ -678,7 +698,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/7a/37244_KgkG4.jpg"
           },
           "name": "出撃!マシンロボレスキュー",
-          "name_cn": "机甲露宝",
+          "name_cn": "出击！机器人救援队",
           "relation": "角色出演",
           "type": 2,
           "id": 37244
