@@ -92,22 +92,52 @@
       "id": 1083862,
       "type": "movie",
       "search": {
-        "backdrop_path": "/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
-        "id": 1083862,
-        "title": "生化危机：死亡岛",
-        "original_title": "バイオハザード：デスアイランド",
-        "overview": "里昂在执行从绑匪手中解救安东尼奥 泰勒博士的任务时，一个神秘女人挡住了他的任务。与此同时，克里斯正在调查旧金山爆发的僵尸事件，感染原因无法确定，唯一确定的是受害者最近都去过恶魔岛，根据这一线索，克里斯与他的团队前往这座小岛调查，那里有未知的恐怖在等待着他们。",
-        "poster_path": "/d7o4kmuG3AJ8EmDPvSZjKu5eSu0.jpg",
-        "media_type": "movie",
         "adult": false,
-        "original_language": "ja",
+        "backdrop_path": "/7drO1kYgQ0PnnU87sAnBEphYrSM.jpg",
         "genre_ids": [
           16,
           28,
           27
         ],
+        "id": 1083862,
+        "original_language": "ja",
+        "original_title": "バイオハザード：デスアイランド",
+        "overview": "里昂在执行从绑匪手中解救安东尼奥 泰勒博士的任务时，一个神秘女人挡住了他的任务。与此同时，克里斯正在调查旧金山爆发的僵尸事件，感染原因无法确定，唯一确定的是受害者最近都去过恶魔岛，根据这一线索，克里斯与他的团队前往这座小岛调查，那里有未知的恐怖在等待着他们。",
+        "poster_path": "/d7o4kmuG3AJ8EmDPvSZjKu5eSu0.jpg",
         "release_date": "2023-06-22",
+        "title": "生化危机：死亡岛",
         "video": false
+      }
+    }
+  },
+  {
+    "title": "沧元图",
+    "date": "2023-06-22",
+    "bangumi": {
+      "id": "403607"
+    },
+    "tmdb": {
+      "id": 229192,
+      "type": "tv",
+      "search": {
+        "backdrop_path": "/831OKC5j7gwA1a9MfT7esFG6O7p.jpg",
+        "id": 229192,
+        "name": "沧元图",
+        "original_name": "沧元图",
+        "overview": "沧元界妖邪作乱，人族饱受摧残，主角孟川自小立下为母复仇的誓言，以镜湖道院为起点，凭借坚毅无畏的心志与利落果决的刀法身手，惩处奸恶，溃灭妖族，登顶四大道院，名满东宁府，拜上元初山，成就一代神魔。",
+        "poster_path": "/elJhHN4Xeo3VvmC1HKQvg6lav6U.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "zh",
+        "genre_ids": [
+          16,
+          10759,
+          10765
+        ],
+        "first_air_date": "2023-06-22",
+        "origin_country": [
+          "CN"
+        ]
       }
     }
   },
@@ -205,7 +235,7 @@
       "season": 1,
       "search": {
         "adult": false,
-        "backdrop_path": "/lY31h526oVrk1jYBVQPARWaWgAn.jpg",
+        "backdrop_path": "/tcUUt7CBeW4uLaaHk5yUa6XndPX.jpg",
         "genre_ids": [
           16,
           10765,
@@ -218,7 +248,7 @@
         "original_language": "zh",
         "original_name": "狐妖小红娘",
         "overview": "故事围绕人与妖之间的爱情展开。根据古典小说记载，世上有人有妖，妖会与人相恋，妖寿命千万年，人的寿命有限，人死了，妖活着。人会投胎转世，但投胎以后，不记得上辈子的爱。妖如果痴情的话，就去找狐妖“购买”一项服务，让投胎转世的人，回忆起前世的爱。狐妖红娘这一个角色就这样诞生，作品主要讲述了以红娘为职业的狐妖在为前世恋人牵红线过程当中发生的一系列有趣、神秘的故事。",
-        "poster_path": "/zEMVeRl1kyZ4uNOTbIO1Yx2mWx.jpg",
+        "poster_path": "/5Ud02XCc1zuyu3vm4zhnSYRGhdH.jpg",
         "first_air_date": "2015-06-25",
         "name": "狐妖小红娘"
       }
@@ -280,6 +310,33 @@
         "origin_country": [
           "JP"
         ]
+      }
+    }
+  },
+  {
+    "title": "それいけ!アンパンマン ロボリィとぽかぽかプレゼント",
+    "date": "2023-06-30",
+    "bangumi": {
+      "id": "418493"
+    },
+    "tmdb": {
+      "id": 1142115,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/tCFZceJoIZyoSwhtHOmmWXkzsxX.jpg",
+        "genre_ids": [
+          16,
+          878
+        ],
+        "id": 1142115,
+        "original_language": "ja",
+        "original_title": "それいけ！アンパンマン ロボリィとぽかぽかプレゼント",
+        "overview": "",
+        "poster_path": "/E5C52CQNH8jVqp3MEneToXoZZd.jpg",
+        "release_date": "2023-06-30",
+        "title": "Go! Anpanman: Roboly and the Warming Present",
+        "video": false
       }
     }
   },

@@ -216,7 +216,7 @@
       "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": "/wC1ckkEXOprTrrpDh7LLHLrkXgX.jpg",
+        "backdrop_path": "/2wXkDB02tJnd2YZDLstCiZIuzFb.jpg",
         "genre_ids": [
           16,
           10765,
@@ -509,23 +509,27 @@
       "id": "68812"
     },
     "tmdb": {
-      "id": 1172474,
-      "type": "movie",
+      "id": 46195,
+      "type": "tv",
       "search": {
-        "backdrop_path": null,
-        "id": 1172474,
-        "title": "跳跃大搜查线：初夏女警物语",
-        "original_title": "踊る大捜査線 番外編湾岸署婦警物語 初夏の交通安全",
-        "overview": "1998年4月，从警察学校毕业的篠原夏美（内田有纪饰）被分配到湾岸署交通课交通课工作。这里是传说中的优秀刑警青岛俊作（织田裕二饰）工作过的地方。本以为能作为警察光荣工作的夏美，却发现湾岸署不过是一帮色咪咪的高层与如上班族般平凡的警察们。而带她上班的前辈，居然是有“新人杀手”之称的桑野冴子（渡辺えり子饰）。苦闷的夏美夜晚酒吧买醉，不想结识了犯罪嫌疑犯！为了找寻身为警察的意义，夏美决定，用自己的行动验证自己心中的真理。",
-        "poster_path": "/7VCcjqwy9mnLYtYk3CtcrWjcWCm.jpg",
-        "media_type": "movie",
         "adult": false,
-        "original_language": "ja",
+        "backdrop_path": "/2WBO3C7CjsOTT5wgi9Inn5iQhVv.jpg",
         "genre_ids": [
-          35
+          16,
+          35,
+          18,
+          9648
         ],
-        "release_date": "1998-06-19",
-        "video": false
+        "id": 46195,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "化物語",
+        "overview": "所谓怪异——是因为世界上没有那种东西的存在。与生物有所不同——但与世界紧紧相连。故事主人公阿良良木历，因为知道了同班同学战场原的某个“秘密”，从此被卷入一连串的怪异事件中……",
+        "poster_path": "/snwMpEzwQAi7QShO0pYrs6lNygh.jpg",
+        "first_air_date": "2009-07-03",
+        "name": "物语系列"
       }
     }
   },
@@ -1433,7 +1437,8 @@
           18,
           16,
           10749,
-          10752
+          10752,
+          36
         ],
         "id": 149870,
         "original_language": "ja",
@@ -1561,6 +1566,36 @@
         ],
         "release_date": "2013-07-26",
         "video": false
+      }
+    }
+  },
+  {
+    "title": "小林が可愛すぎてツライっ!!",
+    "date": "2013-07-26",
+    "bangumi": {
+      "id": "75180"
+    },
+    "tmdb": {
+      "id": 123274,
+      "type": "tv",
+      "search": {
+        "backdrop_path": "/ndxqb7asKalKeti561iBNIeC40t.jpg",
+        "id": 123274,
+        "name": "小林可爱到爆！",
+        "original_name": "小林が可愛すぎてツライっ!!",
+        "overview": "",
+        "poster_path": "/yHMjKHqHF1VVef9dpYElxmU2TE3.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "first_air_date": "2013-07-26",
+        "origin_country": [
+          "JP"
+        ]
       }
     }
   },
