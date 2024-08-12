@@ -159,7 +159,6 @@
       "name_cn": "圣斗士星矢",
       "tags": [
         "1986",
-        "1986年10月",
         "80年代",
         "JUMP",
         "TV",
@@ -176,6 +175,7 @@
         "小强",
         "战斗",
         "日本",
+        "日本动画",
         "星矢",
         "東映アニメーション",
         "森下孝三",
@@ -771,7 +771,7 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/0c/164980_AcSKC.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/0c/164980_AcSKC.jpg"
       },
-      "summary": "",
+      "summary": "漫画家わたせせいぞうが『週刊モーニング』で連載した、お洒落な雰囲気の同題コミックをアニメ化。原作が持つ独特の描線やポップな色使いは、アニメでも見事に再現された。熱帯雨林気候のため、蒸し暑い日が続く日本。ボクは本来ならば屋外でビールを飲むべきだろうと思いつつも、冷房の効いている喫茶店でアイスコーヒーを口にしていた。ついに思い立ったボクはカノジョに電話をかけ、二人だけのビアガーデンを開くことが決定。二人ともビールをおいしく飲むため、朝から余分な水分をとらないように注意しつつ、暑い日の夕方を迎えた。会社が終わり、ようやく二人の大切なビアガーデンがオープンする……。本作は金曜日の深夜に放送。一週につき5分のショートストーリーが用意された。アニメの制作は映画『魔女の宅急便』などにも参加しているメルヘン社が担当。作画監督にはベテランアニメーターの高橋信也らも参加していた。",
       "name": "ハートカクテル",
       "name_cn": "心情鸡尾酒",
       "tags": [
@@ -794,8 +794,12 @@
           "value": "心情鸡尾酒"
         },
         {
+          "key": "别名",
+          "value": "Heart Cocktail"
+        },
+        {
           "key": "话数",
-          "value": "77"
+          "value": "78"
         },
         {
           "key": "放送开始",
@@ -814,13 +818,73 @@
           "value": "わたせせいぞう"
         },
         {
-          "key": "制作",
+          "key": "製作",
+          "value": "野间惟道、加藤胜久"
+        },
+        {
+          "key": "企画",
+          "value": "平贺纯男、内田胜"
+        },
+        {
+          "key": "制片人",
+          "value": "铃木良平、栗原良幸、鬼丸一平"
+        },
+        {
+          "key": "音乐",
+          "value": "松冈直也、トニーズ・ショウ、島健、三枝成彰"
+        },
+        {
+          "key": "演出",
+          "value": "わだしんぺい、森田浩光、林昭男、小林治"
+        },
+        {
+          "key": "原画",
+          "value": "吉田利喜、山岸弘、岩崎治彦、辻佳宏、今野博司"
+        },
+        {
+          "key": "美术设计",
+          "value": "阿部行夫、青木稔、小关俊之、小出英男、下道一範、番野雅好、田中静惠、広瀬愛一郎、清水一利、龟谷三良、阿部幸次、横濑直士"
+        },
+        {
+          "key": "补间动画",
+          "value": "宮崎康子、山口直纯、新海美佐江、久松美子、铃木弥生、伊藤智子、武居あゆみ"
+        },
+        {
+          "key": "演出助理",
+          "value": "成川武千嘉"
+        },
+        {
+          "key": "摄影",
+          "value": "スタジオU、上野阳平、加藤昭弘"
+        },
+        {
+          "key": "剪辑",
+          "value": "田中修"
+        },
+        {
+          "key": "制作进行",
+          "value": "山口博行、横仓干英、小野勤、靏本一利"
+        },
+        {
+          "key": "制作管理",
+          "value": "大村数一、水尾芳正、藤井正和、吉村公一、森靖之、清水笃、冈本浩行、樋口正昭"
+        },
+        {
+          "key": "宣传",
+          "value": "高桥容三、平山守、田口幸太郎、宗真太郎、斋藤研"
+        },
+        {
+          "key": "动画制作",
           "value": "メルヘン社"
+        },
+        {
+          "key": "监修",
+          "value": "守谷孝一"
         }
       ],
-      "total_episodes": 77,
+      "total_episodes": 78,
       "id": 164980,
-      "eps": 77,
+      "eps": 78,
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -868,6 +932,90 @@
           "relation": "续集",
           "type": 2,
           "id": 425590
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/97/503617_62qLT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/97/503617_62qLT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/53/97/503617_62qLT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/97/503617_62qLT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/97/503617_62qLT.jpg"
+          },
+          "name": "ハートカクテル Vol.1",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 503617
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/27/ff/503618_H9RXx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/27/ff/503618_H9RXx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/27/ff/503618_H9RXx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/27/ff/503618_H9RXx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/27/ff/503618_H9RXx.jpg"
+          },
+          "name": "ハートカクテル Vol.2",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 503618
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/ce/503622_Rhn96.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/ce/503622_Rhn96.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c9/ce/503622_Rhn96.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/ce/503622_Rhn96.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/ce/503622_Rhn96.jpg"
+          },
+          "name": "ハートカクテル Vol.3",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 503622
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/46/503623_ZeYy2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/46/503623_ZeYy2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/44/46/503623_ZeYy2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/46/503623_ZeYy2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/46/503623_ZeYy2.jpg"
+          },
+          "name": "ハートカクテル Vol.4",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 503623
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/cd/503626_rLZ49.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/cd/503626_rLZ49.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/cd/503626_rLZ49.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/cd/503626_rLZ49.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/cd/503626_rLZ49.jpg"
+          },
+          "name": "ハートカクテル Vol.5",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 503626
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/2a/503627_al8W4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/2a/503627_al8W4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/2a/503627_al8W4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/2a/503627_al8W4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/2a/503627_al8W4.jpg"
+          },
+          "name": "ハートカクテル Vol.6",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 503627
         }
       ]
     }

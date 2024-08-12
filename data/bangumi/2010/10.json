@@ -23,9 +23,8 @@
         "SHAFT",
         "TV",
         "TVA",
-        "maid",
         "入野自由",
-        "十月番",
+        "动画",
         "坂本真绫",
         "女仆",
         "女仆咖啡厅",
@@ -42,6 +41,7 @@
         "治愈",
         "漫改",
         "漫画改",
+        "电波",
         "石黑正数",
         "石黒正数",
         "龍輪直征",
@@ -89,8 +89,12 @@
           "value": "石黒正数（少年画報社、月刊『ヤングキングアワーズ』連載）"
         },
         {
-          "key": "总导演",
-          "value": "新房昭之"
+          "key": "企画",
+          "value": "村上仁之、古川陽子、佐々木史朗、太布尚弘、高野宏明"
+        },
+        {
+          "key": "制片人",
+          "value": "田中潤一朗、中村伸一、伊藤将生、藤田朋洋、寺田千秋、久保田光俊"
         },
         {
           "key": "系列构成",
@@ -101,8 +105,12 @@
           "value": "山村洋貴"
         },
         {
-          "key": "作画监督",
-          "value": "山村洋貴"
+          "key": "总作画监督",
+          "value": "山村洋貴、西田美弥子、岩崎安利"
+        },
+        {
+          "key": "副导演",
+          "value": "龍輪直征"
         },
         {
           "key": "美术监督",
@@ -113,48 +121,64 @@
           "value": "日比野仁"
         },
         {
-          "key": "摄影监督",
-          "value": "江上怜"
+          "key": "特效",
+          "value": "酒井基"
         },
         {
-          "key": "音响监督",
-          "value": "亀山俊樹"
+          "key": "剪辑",
+          "value": "関一彦"
         },
         {
           "key": "音乐",
           "value": "ROUND TABLE"
         },
         {
-          "key": "动画制作",
-          "value": "SHAFT"
-        },
-        {
-          "key": "特效",
-          "value": "酒井基"
-        },
-        {
-          "key": "音效",
-          "value": "中野勝博"
-        },
-        {
-          "key": "录音",
-          "value": "池田裕貴"
+          "key": "音响监督",
+          "value": "亀山俊樹"
         },
         {
           "key": "音乐制作人",
           "value": "福田正夫"
         },
         {
-          "key": "制片人",
-          "value": "田中潤一朗、中村伸一、伊藤将生、藤田朋洋、寺田千秋、久保田光俊"
+          "key": "音乐制作",
+          "value": "フライングドッグ"
         },
         {
-          "key": "製作協力",
-          "value": "ポニーキャニオン、フライングドッグ、ムービック、シャフト、メモリーテック"
+          "key": "动画制作",
+          "value": "SHAFT"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "梅津泰臣(OP)、龍輪直征(ED)"
+        },
+        {
+          "key": "总导演",
+          "value": "新房昭之"
         },
         {
           "key": "製作",
-          "value": "それ町製作委員会、TBS"
+          "value": "それ町製作委員会×TBS || 製作协力：ポニーキャニオン、フライングドッグ、ムービック、SHAFT、メモリーテック"
+        },
+        {
+          "key": "脚本",
+          "value": "高山カツヒコ(1-4,8-12)、大嶋実句(5-7)"
+        },
+        {
+          "key": "分镜",
+          "value": "龍輪直征(1,2,8,12)、佐藤卓哉(3)、森義博(4,10)、藤森カズマ[小島正幸](5)、ところともかず(6)、板村智幸(7)、岡田明信(9,12)、今泉賢一(11)"
+        },
+        {
+          "key": "演出",
+          "value": "板村智幸(1,7)、龍輪直征(2,6,8,12)、熨斗谷充孝(3)、森義博(4,6,10)、八瀬祐樹(5,9)、岩崎安利(6)、ところともかず(6)、吉沢俊一(11)"
+        },
+        {
+          "key": "作画监督",
+          "value": "宮西多麻子、萩原省智、伊藤香織、三島千枝、八尋裕子、清水恵蔵、潮月一也、高野晃久、岩崎安利、小菅和久、桝井一平、泉保良輔、大森英敏、山村洋貴、佐藤友子、阿部千秋、伊藤良明、阿部智之、斉藤育実、三島千枝、西田美弥子、皆川一徳、中島千明、狩野正志、曾我篤史、久保茉莉子、山内則康、細山正樹、菱沼祐樹、実原登、前田達之、るたろー、佐々木剛、古川博之、KIM YONG-SIK、河野紘一郎、梅津泰臣"
+        },
+        {
+          "key": "设定",
+          "value": "尾石達也（副标题设计）"
         }
       ],
       "total_episodes": 12,
@@ -202,7 +226,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/40/10709_loWUp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/40/10709_loWUp.jpg"
           },
-          "name": "TVアニメ「それでも町は廻っている」オリジナルサウンドトラック「GO ROUND&amp;ROUND IN THE TOWN!」",
+          "name": "TVアニメ「それでも町は廻っている」オリジナルサウンドトラック「GO ROUND&ROUND IN THE TOWN!」",
           "name_cn": "女仆咖啡厅原声集",
           "relation": "原声集",
           "type": 3,
@@ -341,28 +365,28 @@
           "value": "新房昭之"
         },
         {
-          "key": "企画",
-          "value": "田口浩司・森山敦"
-        },
-        {
           "key": "系列构成",
           "value": "赤尾でこ（三重野瞳）"
         },
         {
-          "key": "脚本",
-          "value": "赤尾でこ（三重野瞳）"
+          "key": "系列监督",
+          "value": "宮本幸裕"
         },
         {
           "key": "人物设定",
           "value": "杉山延寛"
         },
         {
-          "key": "作画监督",
-          "value": "杉山延寛"
+          "key": "总作画监督",
+          "value": "杉山延寛（全话）、たむらかずひこ（第9话）"
+        },
+        {
+          "key": "特效",
+          "value": "酒井基"
         },
         {
           "key": "美术监督",
-          "value": "東 厚治"
+          "value": "東厚治"
         },
         {
           "key": "色彩设计",
@@ -373,12 +397,60 @@
           "value": "内村祥平"
         },
         {
+          "key": "剪辑",
+          "value": "松原理恵"
+        },
+        {
           "key": "音响监督",
           "value": "鶴岡陽太"
         },
         {
-          "key": "制作",
+          "key": "音乐",
+          "value": "横山克"
+        },
+        {
+          "key": "音乐制作",
+          "value": "STAR CHILD"
+        },
+        {
+          "key": "企画",
+          "value": "田口浩司・森山敦"
+        },
+        {
+          "key": "制片人",
+          "value": "宿利剛"
+        },
+        {
+          "key": "动画制片人",
+          "value": "久保田光俊×岩城忠雄"
+        },
+        {
+          "key": "动画制作",
+          "value": "SHAFT"
+        },
+        {
+          "key": "製作",
           "value": "荒川UB製作委員会"
+        },
+        {
+          "key": "脚本",
+          "value": "赤尾でこ（三重野瞳）"
+        },
+        {
+          "key": "分镜",
+          "value": "佐山聖子(1,3,8,10,12)、今千秋(2)、板村智幸(4)、森山雄治(5)、小俣真一(5,9)、桑原智(6)、成田歳法(7)、西村聡(11)、池添隆博(13)"
+        },
+        {
+          "key": "演出",
+          "value": "宮本幸裕(1)、小俣真一(2,9)、志村千里(3,10)、遠藤晋(4)、川畑喬(5,13)、間島崇寛(6)、浅利藤彰(7,12)、野上和男(8)、向井雅浩(11)"
+        },
+        {
+          "key": "作画监督",
+          "value": "高野晃久、村山公輔、小菅和久、KIM YONG-SIK、佐藤天昭、二宮壮史、片山みゆき、潮月一也、田中春香、小林利充、藤原未来夫、青木一紀、相坂ナオキ、木下由美子、増田敏彦、山下喜光、菱沼祐樹、細居美恵子"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "山本沙代（OP）"
         }
       ],
       "total_episodes": 13,
@@ -723,7 +795,6 @@
         "2010年",
         "2010年10月",
         "Arms",
-        "KOBUN",
         "TV",
         "一骑当千后继有人",
         "卖肉",
@@ -732,14 +803,15 @@
         "奇幻",
         "寿美菜子",
         "小林ゆう",
+        "小说改",
         "平川大輔",
         "悠木碧",
         "战斗",
+        "搞笑",
         "有汰渍没污渍",
         "水墨",
         "画风",
         "百花缭乱",
-        "福利",
         "给点百合吧",
         "肉",
         "肉片",
@@ -990,13 +1062,13 @@
         "loli侦探团",
         "三森すずこ",
         "下野紘",
+        "侦探",
         "侦探战队",
         "侦探歌剧",
         "十月番",
         "南条爱乃",
         "原创",
         "变态",
-        "弱智",
         "搞笑",
         "日常",
         "日本",
@@ -1822,7 +1894,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/43/193999_boOFl.jpg"
           },
           "name": "ヨスガノソラ オリジナルサウンドトラック／オープニング主題歌＆番組挿入歌アルバム",
-          "name_cn": "缘之空 原声带&amp;歌曲集",
+          "name_cn": "缘之空 原声带&歌曲集",
           "relation": "其他",
           "type": 3,
           "id": 193999
@@ -2051,17 +2123,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/f6/25363_tRzpY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/f6/25363_tRzpY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/29/f6/25363_tRzpY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/f6/25363_tRzpY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/f6/25363_tRzpY.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/1b/3559_rrwkw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/1b/3559_rrwkw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/1b/3559_rrwkw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/1b/3559_rrwkw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/1b/3559_rrwkw.jpg"
           },
-          "name": "とある魔術の禁書目録たん",
-          "name_cn": "魔法禁书目录炭",
-          "relation": "衍生",
-          "type": 2,
-          "id": 25363
+          "name": "とある魔術の禁書目録",
+          "name_cn": "魔法禁书目录",
+          "relation": "书籍",
+          "type": 1,
+          "id": 3559
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/8b/272525_43MO5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/8b/272525_43MO5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e4/8b/272525_43MO5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/8b/272525_43MO5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/8b/272525_43MO5.jpg"
+          },
+          "name": "とある魔術の禁書目録 頂点決戦Ⅱ",
+          "name_cn": "魔法禁书目录：顶点决战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 272525
         },
         {
           "images": {
@@ -2177,17 +2263,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/6d/1014_nqAH8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/6d/1014_nqAH8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/76/6d/1014_nqAH8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/6d/1014_nqAH8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/6d/1014_nqAH8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/f6/25363_tRzpY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/f6/25363_tRzpY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/f6/25363_tRzpY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/f6/25363_tRzpY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/f6/25363_tRzpY.jpg"
           },
-          "name": "とある魔術の禁書目録",
-          "name_cn": "魔法禁书目录",
-          "relation": "前传",
+          "name": "とある魔術の禁書目録たん",
+          "name_cn": "魔法禁书目录炭",
+          "relation": "衍生",
           "type": 2,
-          "id": 1014
+          "id": 25363
         },
         {
           "images": {
@@ -2275,31 +2361,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/1b/3559_rrwkw.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/1b/3559_rrwkw.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f1/1b/3559_rrwkw.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/1b/3559_rrwkw.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/1b/3559_rrwkw.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/6d/1014_nqAH8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/6d/1014_nqAH8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/76/6d/1014_nqAH8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/6d/1014_nqAH8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/6d/1014_nqAH8.jpg"
           },
           "name": "とある魔術の禁書目録",
           "name_cn": "魔法禁书目录",
-          "relation": "书籍",
-          "type": 1,
-          "id": 3559
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/8b/272525_43MO5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/8b/272525_43MO5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e4/8b/272525_43MO5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/8b/272525_43MO5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/8b/272525_43MO5.jpg"
-          },
-          "name": "とある魔術の禁書目録 頂点決戦Ⅱ",
-          "name_cn": "魔法禁书目录：顶点决战",
-          "relation": "游戏",
-          "type": 4,
-          "id": 272525
+          "relation": "前传",
+          "type": 2,
+          "id": 1014
         },
         {
           "images": {
@@ -2314,20 +2386,6 @@
           "relation": "番外篇",
           "type": 2,
           "id": 26804
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/e7/2585_pn2eP.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/e7/2585_pn2eP.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/36/e7/2585_pn2eP.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/36/e7/2585_pn2eP.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/36/e7/2585_pn2eP.jpg"
-          },
-          "name": "とある科学の超電磁砲",
-          "name_cn": "某科学的超电磁炮",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 2585
         }
       ]
     }
@@ -2556,7 +2614,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/6f/12379_jp.jpg"
           },
           "name": "そらのおとしものｆ（フォルテ）　キャラソン＆ドラマ・アルバム～天使たちの声が響く～",
-          "name_cn": "天降之物f 角色歌&amp;dorama专辑",
+          "name_cn": "天降之物f 角色歌&dorama专辑",
           "relation": "角色歌",
           "type": 3,
           "id": 12379
@@ -3077,7 +3135,6 @@
         "2010年10月",
         "ATX",
         "TV",
-        "To",
         "ToLoveる",
         "XEBEC",
         "love",
@@ -3091,6 +3148,7 @@
         "小暗",
         "恋爱",
         "戶松遙",
+        "户松遥",
         "搞笑",
         "日常",
         "更多肉",
@@ -3246,11 +3304,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/3e/37694_irI8V.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/3e/37694_irI8V.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/46/3e/37694_irI8V.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/3e/37694_irI8V.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/3e/37694_irI8V.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/3e/37694_M7zzE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/3e/37694_M7zzE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/3e/37694_M7zzE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/3e/37694_M7zzE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/3e/37694_M7zzE.jpg"
           },
           "name": "To LOVEる-とらぶる-ダークネス",
           "name_cn": "出包王女Darkness",
@@ -3280,7 +3338,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/77/57289_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/77/57289_jp.jpg"
           },
-          "name": "もっと To LOVEる-とらぶる- キャラクターCD1 ララ&amp;春奈",
+          "name": "もっと To LOVEる-とらぶる- キャラクターCD1 ララ&春奈",
           "name_cn": "",
           "relation": "角色歌",
           "type": 3,
@@ -3294,7 +3352,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/76/190132_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/76/190132_jp.jpg"
           },
-          "name": "もっと To LOVEる-とらぶる- キャラクターCD2 美柑&amp;ヤミ",
+          "name": "もっと To LOVEる-とらぶる- キャラクターCD2 美柑&ヤミ",
           "name_cn": "",
           "relation": "角色歌",
           "type": 3,
@@ -3687,7 +3745,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/c6/10594_92TEq.jpg"
           },
           "name": "俺の妹がこんなに可愛いわけがない 1 【完全生産限定版】 特典CD",
-          "name_cn": "我的妹妹不可能那么可爱 ED1&amp;2",
+          "name_cn": "我的妹妹不可能那么可爱 ED1&2",
           "relation": "片尾曲",
           "type": 3,
           "id": 10594
@@ -3701,7 +3759,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/04/11234_HQIrr.jpg"
           },
           "name": "俺の妹がこんなに可愛いわけがない 2 【完全生産限定版】 特典CD",
-          "name_cn": "我的妹妹不可能那么可爱 ED3&amp;4",
+          "name_cn": "我的妹妹不可能那么可爱 ED3&4",
           "relation": "片尾曲",
           "type": 3,
           "id": 11234
@@ -3715,7 +3773,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/d8/12486_z6bo7.jpg"
           },
           "name": "俺の妹がこんなに可愛いわけがない 3 【完全生産限定版】 特典CD",
-          "name_cn": "我的妹妹不可能那么可爱 ED5&amp;6",
+          "name_cn": "我的妹妹不可能那么可爱 ED5&6",
           "relation": "片尾曲",
           "type": 3,
           "id": 12486
@@ -3729,7 +3787,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/12/16343_8q8bb.jpg"
           },
           "name": "俺の妹がこんなに可愛いわけがない 4 【完全生産限定版】 特典CD",
-          "name_cn": "我的妹妹不可能这么可爱ED7&amp;8",
+          "name_cn": "我的妹妹不可能这么可爱ED7&8",
           "relation": "片尾曲",
           "type": 3,
           "id": 16343
@@ -3743,7 +3801,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/29/16808_Biv2n.jpg"
           },
           "name": "俺の妹がこんなに可愛いわけがない 5 【完全生産限定版】 特典CD",
-          "name_cn": "我的妹妹不可能那么可爱 ED9&amp;10",
+          "name_cn": "我的妹妹不可能那么可爱 ED9&10",
           "relation": "片尾曲",
           "type": 3,
           "id": 16808
@@ -3757,7 +3815,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/09/18156_Sle0z.jpg"
           },
           "name": "俺の妹がこんなに可愛いわけがない 6 【完全生産限定版】 特典CD",
-          "name_cn": "我的妹妹不可能那么可爱 ED11&amp;12",
+          "name_cn": "我的妹妹不可能那么可爱 ED11&12",
           "relation": "片尾曲",
           "type": 3,
           "id": 18156
@@ -3771,7 +3829,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/9e/19104_u5yAD.jpg"
           },
           "name": "俺の妹がこんなに可愛いわけがない 7 【完全生産限定版】 特典CD",
-          "name_cn": "我的妹妹不可能那么可爱 ED13&amp;14",
+          "name_cn": "我的妹妹不可能那么可爱 ED13&14",
           "relation": "片尾曲",
           "type": 3,
           "id": 19104
@@ -3785,7 +3843,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/9f/19111_KpYAD.jpg"
           },
           "name": "俺の妹がこんなに可愛いわけがない 8 【完全生産限定版】 特典CD",
-          "name_cn": "我的妹妹不可能那么可爱 ED15&amp;16",
+          "name_cn": "我的妹妹不可能那么可爱 ED15&16",
           "relation": "片尾曲",
           "type": 3,
           "id": 19111
@@ -3852,6 +3910,7 @@
         "十月番",
         "原创世纪",
         "原創世紀",
+        "大张你是故意的吧",
         "大张我信你啊",
         "大張正己",
         "崩坏",
@@ -3865,7 +3924,6 @@
         "究极亡灵踢!",
         "草尾毅",
         "萝卜",
-        "萝卜大战第二回",
         "蘿蔔",
         "超级机器人大战"
       ],
@@ -4037,7 +4095,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/52/300188_y24kr.jpg"
           },
           "name": "スーパーロボット大戦OG ジ・インスペクター オリジナルサウンドトラック",
-          "name_cn": "TV动画《超级机器人大战OG THE INSPECTOR》原声集 &amp; PS2游戏《超级机器人大战OG外传》追加曲集",
+          "name_cn": "TV动画《超级机器人大战OG THE INSPECTOR》原声集 & PS2游戏《超级机器人大战OG外传》追加曲集",
           "relation": "原声集",
           "type": 3,
           "id": 300188
@@ -4099,11 +4157,11 @@
         "ぴえろプラス",
         "中井和哉",
         "信蜂",
-        "动画",
         "奇幻",
         "小清水亜美",
         "小西克幸",
         "岩永彰",
+        "日本",
         "正太",
         "水樹奈々",
         "沢城みゆき",
@@ -4607,7 +4665,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/ea/12387_36ln5.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/ea/12387_36ln5.jpg"
           },
-          "name": "TVアニメ「バクマン。」劇中劇「聖ビジュアル女学院高等部」OP&amp;ED曲",
+          "name": "TVアニメ「バクマン。」劇中劇「聖ビジュアル女学院高等部」OP&ED曲",
           "name_cn": "",
           "relation": "插入歌",
           "type": 3,
@@ -5332,7 +5390,7 @@
     }
   },
   {
-    "title": "Panty &amp; Stocking with Garterbelt",
+    "title": "Panty & Stocking with Garterbelt",
     "date": "2010-10-01",
     "bangumi": {
       "date": "2010-10-01",
@@ -5345,7 +5403,7 @@
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/49/8402_Q9mLv.jpg"
       },
       "summary": "在天堂和地狱的裂缝之间有一座城市—堕天城（Daten City），在那里人们一直饱受“恶灵（Ghost）”的袭击。\r\n腐蚀人心的黑暗，至今仍在悄悄地侵蚀这个城市，有人正试图以超自然力，消灭这些由欲望产生的恶灵，担负了这驱逐黑暗的使命。\r\n因行为不检而被踢出天堂的天使姐妹——Panty与Stocking，必须在Garterbelt的指示下歼灭恶灵，并得到代表功绩的天堂金币（Heaven Coins）作为回报，达成目标即可回到天堂。\r\n然而天使姐妹对在堕天使城的日常生活，显然有相当程度的病态兴趣……",
-      "name": "Panty &amp; Stocking with Garterbelt",
+      "name": "Panty & Stocking with Garterbelt",
       "name_cn": "吊带袜天使",
       "tags": [
         "2010",
@@ -5512,7 +5570,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/cb/10031_G0AcC.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/cb/10031_G0AcC.jpg"
           },
-          "name": "Panty&amp;Stocking with Garterbelt The Original Soundtrack",
+          "name": "Panty&Stocking with Garterbelt The Original Soundtrack",
           "name_cn": "吊带袜天使 OST",
           "relation": "原声集",
           "type": 3,
@@ -5526,7 +5584,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/f7/18037_ki8fp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/f7/18037_ki8fp.jpg"
           },
-          "name": "Panty &amp; Stocking with Garterbelt Bonus CD",
+          "name": "Panty & Stocking with Garterbelt Bonus CD",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -5540,7 +5598,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/42/20590_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/42/20590_jp.jpg"
           },
-          "name": "Panty &amp; Stocking with Garterbelt THE WORST ALBUM",
+          "name": "Panty & Stocking with Garterbelt THE WORST ALBUM",
           "name_cn": "吊带袜天使 最糟糕的专辑",
           "relation": "原声集",
           "type": 3,
@@ -5554,7 +5612,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/be/4d/75860_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/be/4d/75860_jp.jpg"
           },
-          "name": "パンティ&amp;ストッキングwithガーターベルト",
+          "name": "パンティ&ストッキングwithガーターベルト",
           "name_cn": "吊带袜天使",
           "relation": "书籍",
           "type": 1,
@@ -5568,7 +5626,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/39/95356_1Fq0H.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/39/95356_1Fq0H.jpg"
           },
-          "name": "Panty&amp;Stocking with Garterbelt—パンティ&amp;ストッキングwithガーターベルトアニメーション原画集",
+          "name": "Panty&Stocking with Garterbelt—パンティ&ストッキングwithガーターベルトアニメーション原画集",
           "name_cn": "吊带袜天使 动画原画集",
           "relation": "画集",
           "type": 1,
@@ -5596,7 +5654,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/8e/197300_0Rdy0.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/8e/197300_0Rdy0.jpg"
           },
-          "name": "Panty &amp; Stocking with Garterbelt Blu-ray BOX Forever Bitch Edition 特典CD",
+          "name": "Panty & Stocking with Garterbelt Blu-ray BOX Forever Bitch Edition 特典CD",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
@@ -5604,14 +5662,14 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/88/390555_57EU9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/88/390555_57EU9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/52/88/390555_57EU9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/88/390555_57EU9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/88/390555_57EU9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/88/390555_qMQh1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/88/390555_qMQh1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/52/88/390555_qMQh1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/88/390555_qMQh1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/88/390555_qMQh1.jpg"
           },
-          "name": "NEW PANTY AND STOCKING",
-          "name_cn": "",
+          "name": "New PANTY&STOCKING with GARTERBELT",
+          "name_cn": "新 吊带袜天使",
           "relation": "续集",
           "type": 2,
           "id": 390555
@@ -5646,7 +5704,7 @@
         "中村悠一",
         "乌贼娘",
         "乌贼拟人",
-        "侵略！乌贼娘",
+        "侵略",
         "十月番",
         "墨汁面",
         "大姐是腹黑",
@@ -6308,7 +6366,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/f5/49255_tqEKL.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/f5/49255_tqEKL.jpg"
           },
-          "name": "STAR DRIVER 輝きのタクト Songs &amp; Soundtracks",
+          "name": "STAR DRIVER 輝きのタクト Songs & Soundtracks",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
@@ -6393,7 +6451,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/d3/9469_UAEzQ.jpg"
           },
           "name": "モノクローム",
-          "name_cn": "STAR DRIVER 插入曲 &quot;monochrome&quot;",
+          "name_cn": "STAR DRIVER 插入曲 \"monochrome\"",
           "relation": "插入歌",
           "type": 3,
           "id": 9469
@@ -6750,6 +6808,7 @@
         "卡辛",
         "吉田晃弘",
         "日本动画",
+        "时事热点",
         "本田雅也",
         "河内澄代",
         "泡面番",
@@ -7338,7 +7397,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/78/113067_2zOrV.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/78/113067_2zOrV.jpg"
           },
-          "name": "Marvel Avengers Confidential: Black Widow &amp; Punishe",
+          "name": "Marvel Avengers Confidential: Black Widow & Punishe",
           "name_cn": "机密复仇者：黑寡妇与惩罚者",
           "relation": "相同世界观",
           "type": 2,
@@ -7503,6 +7562,7 @@
         "动画电影",
         "原创",
         "奇幻",
+        "子供向",
         "山田隆司",
         "幼女向",
         "抓心",
@@ -7515,7 +7575,6 @@
         "燃",
         "电影",
         "百合",
-        "霹雳Q娃",
         "馬越嘉彦",
         "马琳纯爷们",
         "马越嘉彦",
@@ -7597,7 +7656,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/24/441049_UOoPU.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/24/441049_UOoPU.jpg"
           },
-          "name": "映画ハートキャッチプリキュア！花の都でファッションショー・・・ですか!? オープニング&amp;エンディング主題歌シングル",
+          "name": "映画ハートキャッチプリキュア！花の都でファッションショー・・・ですか!? オープニング&エンディング主題歌シングル",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -7627,7 +7686,6 @@
         "2010-10",
         "2010年",
         "2010年10月",
-        "I.G",
         "OVA",
         "Production.I.G",
         "ProductionI.G",
@@ -7652,7 +7710,8 @@
         "轻小说",
         "轻小说改",
         "轻改",
-        "野村美月"
+        "野村美月",
+        "青春"
       ],
       "infobox": [
         {
@@ -7822,14 +7881,14 @@
       "tags": [
         "2010",
         "2010年10月",
-        "7分",
         "OVA",
         "SHAFT",
         "きらら",
-        "其他",
+        "原田瞳",
         "后藤邑子",
         "向阳素描",
         "向阳素描×☆☆☆",
+        "喜欢",
         "四格",
         "搞笑",
         "新房昭之",
@@ -7837,7 +7896,7 @@
         "日常",
         "校园",
         "梅老师是最萌的CV",
-        "沙发套",
+        "水桥香织",
         "治愈",
         "漫改",
         "漫画改",
@@ -7869,27 +7928,19 @@
           "value": "http://www.tbs.co.jp/anime/hidamari/index-j.html"
         },
         {
-          "key": "原作",
-          "value": "蒼樹うめ"
+          "key": "企画",
+          "value": "中山佳久、勝股英夫、孝壽尚志、久保田光俊、太布尚弘"
         },
         {
-          "key": "导演",
-          "value": "新房昭之"
+          "key": "原作",
+          "value": "蒼樹うめ"
         },
         {
           "key": "系列构成",
           "value": "長谷川菜穂子"
         },
         {
-          "key": "脚本",
-          "value": "与口奈津江、長谷川菜穂子、大嶋実句"
-        },
-        {
           "key": "人物设定",
-          "value": "伊藤良明"
-        },
-        {
-          "key": "作画监督",
           "value": "伊藤良明"
         },
         {
@@ -7901,6 +7952,26 @@
           "value": "滝沢いづみ"
         },
         {
+          "key": "特效",
+          "value": "酒井基"
+        },
+        {
+          "key": "摄影监督",
+          "value": "江藤慎一郎"
+        },
+        {
+          "key": "剪辑",
+          "value": "関一彦"
+        },
+        {
+          "key": "总作画监督",
+          "value": "伊藤良明"
+        },
+        {
+          "key": "系列监督",
+          "value": "石倉賢一"
+        },
+        {
           "key": "音响监督",
           "value": "亀山俊樹"
         },
@@ -7909,12 +7980,48 @@
           "value": "菊谷知樹"
         },
         {
-          "key": "动画制作",
-          "value": "シャフト"
+          "key": "音乐制作",
+          "value": "ランティス"
         },
         {
-          "key": "制作",
-          "value": "ひだまり荘管理組合、TBS"
+          "key": "音乐制作人",
+          "value": "斎藤滋"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "宮本幸裕(OP)、山村洋貴(OP)、鈴木利正(ED)"
+        },
+        {
+          "key": "导演",
+          "value": "新房昭之"
+        },
+        {
+          "key": "制片人",
+          "value": "田中潤一朗、岩上敦宏、加藤昱夫、金庭こず恵"
+        },
+        {
+          "key": "动画制作",
+          "value": "SHAFT"
+        },
+        {
+          "key": "製作",
+          "value": "ひだまり荘管理組合×TBS || 製作协力：Aniplex、芳文社、ムービック"
+        },
+        {
+          "key": "脚本",
+          "value": "大嶋実句"
+        },
+        {
+          "key": "分镜",
+          "value": "近藤一英、石倉賢一"
+        },
+        {
+          "key": "演出",
+          "value": "遠藤晋、石倉賢一"
+        },
+        {
+          "key": "作画监督",
+          "value": "  潮月一也、西田美弥子、伊藤良明"
         }
       ],
       "total_episodes": 2,
@@ -8284,6 +8391,7 @@
         "原创",
         "少女漫画风",
         "日常",
+        "时事热点",
         "泡面",
         "泡面番",
         "短片"
@@ -8487,6 +8595,7 @@
         "卖萌",
         "子供向",
         "幼齿向",
+        "时事热点",
         "泡面番",
         "萌"
       ],
@@ -8752,11 +8861,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/77/79977_Z07ZD.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/77/79977_Z07ZD.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f8/77/79977_Z07ZD.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/77/79977_Z07ZD.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/77/79977_Z07ZD.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/77/79977_lzR6w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/77/79977_lzR6w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f8/77/79977_lzR6w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/77/79977_lzR6w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/77/79977_lzR6w.jpg"
           },
           "name": "Trava: Fist Planet",
           "name_cn": "拉瓦拳星球",
@@ -9151,7 +9260,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/07/8798_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/07/8798_jp.jpg"
           },
-          "name": "Special “ONE&quot;",
+          "name": "Special “ONE\"",
           "name_cn": "",
           "relation": "片尾曲",
           "type": 3,
@@ -9456,7 +9565,7 @@
         "肉",
         "肉番",
         "金子ひらく",
-        "金子拓"
+        "露点"
       ],
       "infobox": [
         {

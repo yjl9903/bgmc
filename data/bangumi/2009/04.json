@@ -445,8 +445,8 @@
         "TV",
         "n+",
         "入野自由",
+        "动画",
         "战斗",
-        "新瓶舊酒",
         "杀手",
         "枪战",
         "沢城みゆき",
@@ -458,7 +458,7 @@
         "致郁",
         "虚淵玄",
         "虚渊玄",
-        "高垣彩阳",
+        "高垣彩陽",
         "黑帮",
         "黑暗",
         "黑田洋介",
@@ -1698,7 +1698,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/da/50667_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/da/50667_jp.jpg"
           },
-          "name": "TVアニメ『ティアーズトゥティアラ』Prologue Sound Track &quot;origo cunctarum rerum&quot;",
+          "name": "TVアニメ『ティアーズトゥティアラ』Prologue Sound Track \"origo cunctarum rerum\"",
           "name_cn": "",
           "relation": "印象曲",
           "type": 3,
@@ -1731,6 +1731,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 102790
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/5c/502592_IKJII.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/5c/502592_IKJII.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0f/5c/502592_IKJII.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/5c/502592_IKJII.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/5c/502592_IKJII.jpg"
+          },
+          "name": "REWIND PLUS",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 502592
         },
         {
           "images": {
@@ -1795,11 +1809,11 @@
       "name_cn": "初恋限定。",
       "tags": [
         "2009",
+        "2009年",
         "2009年4月",
         "2009年4月番",
         "J.C.STAFF",
         "TV",
-        "TVA",
         "伊濑茉莉也",
         "伊藤静",
         "入野自由",
@@ -1990,7 +2004,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/56/6420_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/56/6420_jp.jpg"
           },
-          "name": "TVアニメ『初恋限定。-ハツコイリミテッド-』キャラクターファイル Vol.3 別所小宵 &amp; 千倉名央",
+          "name": "TVアニメ『初恋限定。-ハツコイリミテッド-』キャラクターファイル Vol.3 別所小宵 & 千倉名央",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -2152,10 +2166,6 @@
           "value": "新房昭之"
         },
         {
-          "key": "企画",
-          "value": "田口浩司、森山敦"
-        },
-        {
           "key": "系列构成",
           "value": "高山カツヒコ"
         },
@@ -2164,20 +2174,20 @@
           "value": "大沼心"
         },
         {
-          "key": "脚本",
-          "value": "高山カツヒコ、三重野瞳"
-        },
-        {
           "key": "人物设定",
           "value": "大田和寛"
         },
         {
           "key": "总作画监督",
-          "value": "伊藤良明、大田和寛"
+          "value": "大田和寛、伊藤良明"
         },
         {
           "key": "美术监督",
           "value": "東厚治"
+        },
+        {
+          "key": "设定",
+          "value": "武内宣之"
         },
         {
           "key": "色彩设计",
@@ -2186,6 +2196,14 @@
         {
           "key": "摄影监督",
           "value": "内村祥平"
+        },
+        {
+          "key": "特效",
+          "value": "酒井基"
+        },
+        {
+          "key": "剪辑",
+          "value": "関一彦"
         },
         {
           "key": "音响监督",
@@ -2197,15 +2215,51 @@
         },
         {
           "key": "音乐制作",
-          "value": "スターチャイルドレコード"
+          "value": "STAR CHILD"
+        },
+        {
+          "key": "企画",
+          "value": "田口浩司、森山敦"
+        },
+        {
+          "key": "制片人",
+          "value": "宮本純乃介"
+        },
+        {
+          "key": "动画制片人",
+          "value": "久保田光俊"
         },
         {
           "key": "动画制作",
           "value": "SHAFT"
         },
         {
-          "key": "制作",
+          "key": "制作协力",
+          "value": "ガンジス"
+        },
+        {
+          "key": "製作",
           "value": "夏のあらし!製作委員会"
+        },
+        {
+          "key": "脚本",
+          "value": "高山カツヒコ(1-5,8,9,12,13)、三重野瞳(6,7,10,11)"
+        },
+        {
+          "key": "分镜",
+          "value": "島津裕行(1,7)、宮崎修治(2,5,9)、森義博(3,10,11)、石倉賢一(4,8)、飯村正之(6)、中澤勇一(12)、大沼心(13)"
+        },
+        {
+          "key": "演出",
+          "value": "大沼心(1,2,7,9,13)、森義博(3,11)、石倉賢一(4,8)、宮崎修治(5)、飯村正之(6,12)、岩本保雄(10)"
+        },
+        {
+          "key": "作画监督",
+          "value": "潮月一也、岩崎たいすけ、中山初絵、梶浦紳一郎、田中穣、高野晃久、牛島希、小島彰、伊藤良明、大森英敏、実原登、山縣亜紀、相坂ナオキ、大田和寛"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "大沼心"
         }
       ],
       "total_episodes": 13,
@@ -2345,7 +2399,6 @@
         "アームス",
         "乳皇之刃",
         "伊藤加奈惠",
-        "冒险",
         "动画",
         "卖肉",
         "吉本欣司",
@@ -2353,6 +2406,7 @@
         "奇幻",
         "女皇之刃",
         "川澄綾子",
+        "川澄绫子",
         "平野绫",
         "战斗",
         "日本",
@@ -3002,6 +3056,7 @@
         "2009年4月",
         "A-1",
         "A-1Pictures",
+        "A1",
         "TV",
         "sega",
         "三公主",
@@ -3019,10 +3074,9 @@
         "戦場のヴァルキュリア",
         "戰場女乳神",
         "挖个雷",
-        "桑岛法子",
+        "村姑",
         "横手美智子",
         "樱井孝宏",
-        "武神",
         "游戏",
         "游戏改",
         "瓦格雷",
@@ -3263,11 +3317,11 @@
       "date": "2009-04-04",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/11/3640_d2f47.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/11/3640_d2f47.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/4f/11/3640_d2f47.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/11/3640_d2f47.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/11/3640_d2f47.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/11/3640_gyFZy.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/11/3640_gyFZy.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/4f/11/3640_gyFZy.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/11/3640_gyFZy.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/11/3640_gyFZy.jpg"
       },
       "summary": "本作描写了北神未海的高中生活。未海是个完美主义的班长，单恋同班同学东条潮，不过周遭的阻碍让她无法顺利告白。另一方面，她在忙于自己的事情的同时，也能给别人提供堪称完美的建议，并解决他们的烦恼。",
       "name": "極上!!めちゃモテ委員長",
@@ -3643,7 +3697,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/ea/61961_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/ea/61961_jp.jpg"
           },
-          "name": "ハヤテのごとく!! LIVE 2009 ヒナ祭り祭り!![SONG &amp; TALK]",
+          "name": "ハヤテのごとく!! LIVE 2009 ヒナ祭り祭り!![SONG & TALK]",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
@@ -3673,11 +3727,11 @@
         "2009年",
         "2009年4月",
         "GONZO",
-        "Loli",
+        "LOLI",
         "TV",
         "saki",
         "伊藤静",
-        "堀江由衣",
+        "半年番",
         "外挂",
         "天才麻将少女",
         "小清水亚美",
@@ -4607,7 +4661,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/5a/103096_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/5a/103096_jp.jpg"
           },
-          "name": "Break&amp;Peace",
+          "name": "Break&Peace",
           "name_cn": "",
           "relation": "片尾曲",
           "type": 3,
@@ -5002,7 +5056,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ab/06/484056_9m4q4.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ab/06/484056_9m4q4.jpg"
           },
-          "name": "バンドスコアピースBP979 Don't say “lazy&quot; / 桜高軽音部",
+          "name": "バンドスコアピースBP979 Don't say “lazy\" / 桜高軽音部",
           "name_cn": "",
           "relation": "书籍",
           "type": 1,
@@ -6801,9 +6855,9 @@
         "砍掉重練",
         "神作",
         "童年",
-        "童年系列",
         "经典",
         "草尾毅",
+        "重制",
         "长篇",
         "鸟山明",
         "龙珠"
@@ -7011,7 +7065,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/3c/220562_ug8g8.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/3c/220562_ug8g8.jpg"
           },
-          "name": "ドラゴンボール改 サウンドトラック3&amp;ソングス",
+          "name": "ドラゴンボール改 サウンドトラック3&ソングス",
           "name_cn": "龙珠改原声音乐集3",
           "relation": "原声集",
           "type": 3,
@@ -7033,11 +7087,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b7/459435_2b1Vp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b7/459435_2b1Vp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/b7/459435_2b1Vp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b7/459435_2b1Vp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b7/459435_2b1Vp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b7/459435_ymzfL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b7/459435_ymzfL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b7/459435_ymzfL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b7/459435_ymzfL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b7/459435_ymzfL.jpg"
           },
           "name": "ドラゴンボールDAIMA",
           "name_cn": "龙珠大魔",
@@ -7419,6 +7473,7 @@
       "name": "真マジンガー 衝撃! Z編",
       "name_cn": "真魔神 冲击！Z篇",
       "tags": [
+        "10前",
         "2000-2009",
         "2009",
         "2009年4月",
@@ -7426,15 +7481,14 @@
         "BEE･MEDIA",
         "TV",
         "code",
-        "マジンガーシリーズ",
         "今川泰宏",
         "光子力",
         "兜甲儿",
         "动画",
-        "待補0",
         "很燃的样子有时间再看",
         "日本动画",
         "本多陽子",
+        "机器人",
         "机战",
         "机战@",
         "永井豪",
@@ -7789,6 +7843,7 @@
       "tags": [
         "2009",
         "2009年4月",
+        "CG",
         "CROSS_GAME",
         "SynergySP",
         "TV",
@@ -7797,7 +7852,6 @@
         "体育",
         "入野自由",
         "关田修",
-        "动画",
         "四叶游戏",
         "安达充",
         "恋爱",
@@ -7811,8 +7865,8 @@
         "漫画改",
         "神田朱未",
         "竞技",
-        "补番",
         "运动",
+        "运动番",
         "運動",
         "野球",
         "関田修",
@@ -8712,7 +8766,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/bd/1372_I3xm1.jpg"
           },
           "name": "涼宮ハルヒちゃんの憂鬱",
-          "name_cn": "凉宫春日酱的忧郁",
+          "name_cn": "小凉宫春日的忧郁",
           "relation": "衍生",
           "type": 2,
           "id": 1372
@@ -9668,14 +9722,15 @@
         "indigo_line",
         "モモーイ",
         "二〇〇九年",
-        "光碟动画",
         "动画",
+        "喵帕斯记录~",
         "宿舍",
         "希望宅邸",
         "搞笑",
         "日常",
         "日常系",
         "日本",
+        "日泡面番",
         "日野聡",
         "月见里智弘",
         "桃井",
@@ -9683,8 +9738,7 @@
         "泡面番",
         "漫改",
         "漫画改",
-        "独立OVA、OAD、特番",
-        "超短篇"
+        "独立OVA、OAD、特番"
       ],
       "infobox": [
         {
@@ -9816,35 +9870,35 @@
       "name_cn": "",
       "tags": [
         "19人后宫",
+        "2000s",
         "2009",
         "2009年",
         "ChaosProject",
         "GAL改",
         "OVA",
+        "OVA-01",
         "ToHeart2",
         "ToHeart2_adplus",
         "leaf",
-        "ova",
         "ささらの可愛さは異常",
         "カオスプロジェクト",
         "伊藤静",
+        "光碟动画",
+        "其他",
         "动画",
         "叶键最萌推荐",
         "后宫",
+        "坂田純一",
+        "已保存",
         "恋爱",
         "搞笑",
         "日本",
         "最萌",
         "校园",
+        "桂宪一郎",
         "死裤水",
         "游戏改",
-        "爱情",
-        "福山润",
-        "福山潤",
-        "群像剧",
-        "萌",
-        "补番",
-        "西露法"
+        "爱情"
       ],
       "infobox": [
         {
@@ -10035,6 +10089,10 @@
           "value": "83m"
         },
         {
+          "key": "官方网站",
+          "value": "https://www.kyotoanimation.co.jp/munto"
+        },
+        {
           "key": "导演",
           "value": "木上益治"
         },
@@ -10158,6 +10216,7 @@
         "子供向",
         "小林ゆう",
         "恶搞",
+        "战斗",
         "日本动画",
         "橋本みつお",
         "水冰月",
@@ -10623,7 +10682,6 @@
         "SHAFT",
         "neta",
         "不可思议的教室",
-        "冰川碧流",
         "堀江由衣",
         "大沼心",
         "大田和寛",
@@ -10635,6 +10693,7 @@
         "新房昭之",
         "日常",
         "日常系",
+        "日本",
         "杉田智和",
         "校园",
         "樱井孝宏",
@@ -10664,8 +10723,20 @@
           "value": "http://paniponi-dash.com/"
         },
         {
+          "key": "企画",
+          "value": "田口浩司、大月俊倫"
+        },
+        {
+          "key": "原作",
+          "value": "氷川へきる"
+        },
+        {
           "key": "导演",
           "value": "新房昭之"
+        },
+        {
+          "key": "副导演",
+          "value": "大沼心（アシスタントデイレクター）"
         },
         {
           "key": "脚本",
@@ -10684,16 +10755,68 @@
           "value": "大田和寛"
         },
         {
-          "key": "动画制作",
-          "value": "ガンジス、SHAFT"
-        },
-        {
           "key": "人物设定",
           "value": "大田和寛"
         },
         {
-          "key": "原作",
-          "value": "氷川へきる"
+          "key": "总作画监督",
+          "value": "大田和寛"
+        },
+        {
+          "key": "美术监督",
+          "value": "佐藤勝"
+        },
+        {
+          "key": "美术设计",
+          "value": "藤瀬智康、平沢晃弘"
+        },
+        {
+          "key": "色彩设计",
+          "value": "日比野仁（カラーディレクター）、滝沢いづみ（カラーデザイン）"
+        },
+        {
+          "key": "特效",
+          "value": "酒井基"
+        },
+        {
+          "key": "摄影监督",
+          "value": "江藤慎一郎"
+        },
+        {
+          "key": "剪辑",
+          "value": "関一彦"
+        },
+        {
+          "key": "音响监督",
+          "value": "亀山俊樹"
+        },
+        {
+          "key": "音乐",
+          "value": "羽岡佳"
+        },
+        {
+          "key": "音乐制作",
+          "value": "STAR CHILD"
+        },
+        {
+          "key": "制片人",
+          "value": "森山敦"
+        },
+        {
+          "key": "动画制片人",
+          "value": "久保田光俊"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "尾石達也（OP）、大沼心（ED）"
+        },
+        {
+          "key": "协力",
+          "value": "尾石達也（コンセプトデザイン協力）"
+        },
+        {
+          "key": "动画制作",
+          "value": "ガンジス、SHAFT"
         }
       ],
       "total_episodes": 1,
@@ -10938,7 +11061,6 @@
       "name_cn": "哥普拉 时光旅行",
       "tags": [
         "2009",
-        "MagicBus",
         "OVA",
         "OVA-01",
         "SF",
@@ -11200,6 +11322,82 @@
         {
           "key": "发售日",
           "value": "2009-04-12"
+        },
+        {
+          "key": "执行制片人",
+          "value": "石原恒和、中村光一"
+        },
+        {
+          "key": "企画",
+          "value": "紀伊高明、伊藤憲二郎"
+        },
+        {
+          "key": "制片人",
+          "value": "盛武源、川村久仁美"
+        },
+        {
+          "key": "联合制片人",
+          "value": "久保雅一、吉川兆二"
+        },
+        {
+          "key": "导演",
+          "value": "湯山邦彦"
+        },
+        {
+          "key": "分镜",
+          "value": "浅田裕二"
+        },
+        {
+          "key": "演出",
+          "value": "浅田裕二"
+        },
+        {
+          "key": "脚本",
+          "value": "松井亜弥"
+        },
+        {
+          "key": "总作画监督",
+          "value": "松原徳弘"
+        },
+        {
+          "key": "作画监督",
+          "value": "高橋英吉"
+        },
+        {
+          "key": "美术监督",
+          "value": "春日礼児"
+        },
+        {
+          "key": "摄影监督",
+          "value": "吉田光伸"
+        },
+        {
+          "key": "剪辑",
+          "value": "坂本久美子"
+        },
+        {
+          "key": "音乐",
+          "value": "多田彰文"
+        },
+        {
+          "key": "音响监督",
+          "value": "三間雅文"
+        },
+        {
+          "key": "制作管理",
+          "value": "加藤浩幸、亀井康輝"
+        },
+        {
+          "key": "动画制作",
+          "value": "OLM TEAM KAMEI"
+        },
+        {
+          "key": "制作",
+          "value": "小学館集英社プロダクション"
+        },
+        {
+          "key": "製作",
+          "value": "小学館集英社プロダクション、CHUNSOFT、株式会社ポケモン"
         }
       ],
       "total_episodes": 1,
@@ -11219,8 +11417,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/b9/3021_CUKiW.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/b9/3021_CUKiW.jpg"
           },
-          "name": "ポケットモンスター ダイヤモンド&amp;パール",
-          "name_cn": "精灵宝可梦 钻石&amp;珍珠",
+          "name": "ポケットモンスター ダイヤモンド&パール",
+          "name_cn": "精灵宝可梦 钻石&珍珠",
           "relation": "其他",
           "type": 2,
           "id": 3021
@@ -11277,10 +11475,10 @@
         "2009年",
         "2009年4月",
         "OVA",
-        "ToLove",
         "ToLoveる",
         "XEBEC",
         "darkness什么时候ova化",
+        "ova",
         "出包女王",
         "出包王女",
         "加戸誉夫",
@@ -11462,10 +11660,10 @@
         "2009年",
         "2009年4月",
         "OVA",
-        "ToLove",
         "ToLoveる",
         "XEBEC",
         "darkness什么时候ova化",
+        "ova",
         "出包女王",
         "出包王女",
         "加戸誉夫",

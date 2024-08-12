@@ -32,7 +32,6 @@
         "小说改",
         "怪异",
         "恋爱",
-        "搞笑",
         "新房昭之",
         "早见沙织",
         "早见纱织",
@@ -42,6 +41,7 @@
         "物语系列",
         "神谷浩史",
         "续作",
+        "萝莉",
         "西尾維新",
         "西尾维新",
         "轻小说改",
@@ -93,20 +93,112 @@
           "value": "西尾維新「憑物語」（講談社BOX）"
         },
         {
+          "key": "总导演",
+          "value": "新房昭之"
+        },
+        {
           "key": "导演",
           "value": "板村智幸"
+        },
+        {
+          "key": "系列构成",
+          "value": "東冨耶子、新房昭之"
+        },
+        {
+          "key": "人物原案",
+          "value": "VOFAN"
         },
         {
           "key": "人物设定",
           "value": "渡辺明夫"
         },
         {
+          "key": "总作画监督",
+          "value": "渡辺明夫、岩崎たいすけ"
+        },
+        {
+          "key": "美术设计",
+          "value": "大原盛仁"
+        },
+        {
+          "key": "设定",
+          "value": "武内宣之"
+        },
+        {
+          "key": "主动画师",
+          "value": "松浦力、小堺能夫、新垣一成"
+        },
+        {
+          "key": "美术监督",
+          "value": "内藤健"
+        },
+        {
+          "key": "色彩设计",
+          "value": "滝沢いづみ"
+        },
+        {
+          "key": "特效",
+          "value": "酒井基"
+        },
+        {
+          "key": "摄影监督",
+          "value": "江上怜"
+        },
+        {
+          "key": "剪辑",
+          "value": "松原理恵"
+        },
+        {
+          "key": "音响监督",
+          "value": "鶴岡陽太"
+        },
+        {
+          "key": "音乐",
+          "value": "羽岡佳"
+        },
+        {
+          "key": "音乐制作",
+          "value": "Aniplex"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "山内真治"
+        },
+        {
+          "key": "企画",
+          "value": "夏目公一朗、鈴木伸育"
+        },
+        {
+          "key": "制片人",
+          "value": "岩上敦宏、松下卓也、久保田光俊"
+        },
+        {
+          "key": "动画制片人",
+          "value": "宗宮一輝"
+        },
+        {
+          "key": "动画制作",
+          "value": "SHAFT"
+        },
+        {
           "key": "製作",
           "value": "Aniplex、講談社、SHAFT；製作協力：ムービック"
         },
         {
-          "key": "制作プロデューサー",
-          "value": "宗宮一樹"
+          "key": "脚本",
+          "value": "木澤行人(1-2)、中本宗応(3-4)"
+        },
+        {
+          "key": "分镜",
+          "value": "黒沢守(1)、関野昌弘(2)、久保山英一(3)、数井浩子(4)、板村智幸(4)"
+        },
+        {
+          "key": "演出",
+          "value": "宮本幸裕(1)、岡田堅二朗(2)、大橋一輝(3)、板村智幸(4)"
+        },
+        {
+          "key": "作画监督",
+          "value": "岩崎たいすけ、新垣一成、高野晃久、西澤真也、小堺能夫、宮嶋仁志、吉田南、澤田美香、小岩井マサキ、高野晃久、渡辺絵美、牛島希、築山翔太、宮井加奈、吉田南、安食圭"
         },
         {
           "key": "OP・ED 分镜",
@@ -194,8 +286,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/c1/165036_2JqXN.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/c1/165036_2JqXN.jpg"
           },
-          "name": "アニメ&lt;物語&gt;シリーズヒロイン本",
-          "name_cn": "动画&lt;物语&gt;系列女性角色本",
+          "name": "アニメ<物語>シリーズヒロイン本",
+          "name_cn": "动画<物语>系列女性角色本",
           "relation": "书籍",
           "type": 1,
           "id": 165036
@@ -222,7 +314,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/f1/119679_Az9zY.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/f1/119679_Az9zY.jpg"
           },
-          "name": "オレンジミント &amp; 「憑物語」劇伴音楽集 其ノ壹",
+          "name": "オレンジミント & 「憑物語」劇伴音楽集 其ノ壹",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -236,7 +328,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/8a/122839_V7dAP.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/8a/122839_V7dAP.jpg"
           },
-          "name": "「憑物語」劇伴音楽集 其ノ貳 &amp; あとがたり",
+          "name": "「憑物語」劇伴音楽集 其ノ貳 & あとがたり",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -970,7 +1062,6 @@
       "name": "劇場版 アイカツ!",
       "name_cn": "偶像活动 剧场版",
       "tags": [
-        "10代",
         "10年代",
         "2014",
         "2014年",
@@ -991,12 +1082,13 @@
         "原创",
         "唱跳rap",
         "寿美菜子",
+        "小山田桂子",
         "幼女向",
         "我难道说，是史上最弱的大友吗？",
         "日昇动画",
         "电影",
+        "百合",
         "看",
-        "矢口弘子",
         "矢野雄一郎",
         "諸星すみれ",
         "音乐"
@@ -1224,6 +1316,7 @@
         "OVA",
         "OVA&OAD",
         "内田真礼",
+        "吉河美希",
         "后宫",
         "喜多村英梨",
         "塚本のりこ",
@@ -1242,7 +1335,6 @@
         "漫改",
         "漫画改",
         "番外",
-        "福山润",
         "福山潤",
         "逢坂良太",
         "魔女"
@@ -1385,11 +1477,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/7a/118906_z91S1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/7a/118906_z91S1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2c/7a/118906_z91S1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/7a/118906_z91S1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/7a/118906_z91S1.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/7a/118906_sPkAr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/7a/118906_sPkAr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2c/7a/118906_sPkAr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/7a/118906_sPkAr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/7a/118906_sPkAr.jpg"
           },
           "name": "山田くんと7人の魔女",
           "name_cn": "山田君与7个魔女",
@@ -1438,6 +1530,7 @@
         "OVA",
         "OVA&OAD",
         "Production.I.G",
+        "TV",
         "WITSTUDIO",
         "WIT_STUDIO",
         "兵長",
@@ -1455,7 +1548,6 @@
         "热血",
         "猎奇",
         "番外",
-        "神作",
         "神谷浩史",
         "荒木哲郎",
         "諫山創",

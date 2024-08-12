@@ -18,11 +18,9 @@
       "tags": [
         "1984",
         "80",
-        "80s",
         "SUNRISE",
         "TV",
         "TVA",
-        "robo",
         "サンライズ",
         "ロボットアニメ",
         "三癞子",
@@ -31,8 +29,8 @@
         "原创1984",
         "原画",
         "可看可不看",
+        "吉永尚之",
         "安彦良和",
-        "实拍画面",
         "山田俊司",
         "待補1",
         "日本SUNRISE",
@@ -42,8 +40,10 @@
         "永夜壶",
         "永野護",
         "池田秀一",
+        "滨津守",
         "田中真弓",
         "萝卜",
+        "萩田光雄",
         "辻真先",
         "高岛雅罗"
       ],
@@ -81,20 +81,32 @@
           "value": "矢立肇"
         },
         {
-          "key": "原作・監督・キャラクターデザイン",
+          "key": "原作",
           "value": "安彦良和"
         },
         {
-          "key": "メカニカルデザイン",
+          "key": "机械设定",
           "value": "佐藤元、永野護"
         },
         {
-          "key": "音楽",
+          "key": "音乐",
           "value": "萩田光雄"
         },
         {
           "key": "制作",
           "value": "日本サンライズ"
+        },
+        {
+          "key": "摄影监督",
+          "value": "都島雅義、原正一"
+        },
+        {
+          "key": "色彩设计",
+          "value": "隈部昌二"
+        },
+        {
+          "key": "剪辑",
+          "value": "井上編集室（井上和夫、渡瀬祐子）"
         }
       ],
       "total_episodes": 26,
@@ -136,6 +148,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/d5/445950_Ps8Do.jpg"
+          },
+          "name": "ブレイブサーガ 新章 アスタリア",
+          "name_cn": "勇者传说 新章",
+          "relation": "游戏",
+          "type": 4,
+          "id": 445950
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
@@ -156,7 +182,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/49/470268_ZBD5p.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/49/470268_ZBD5p.jpg"
           },
-          "name": "輝く瞳 &lt;BRIGHT EYES&gt; / BELIEVE IN ME,BELIEVE IN YOU &lt;君を信じてる&gt;",
+          "name": "輝く瞳 <BRIGHT EYES> / BELIEVE IN ME,BELIEVE IN YOU <君を信じてる>",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -337,6 +363,7 @@
         "ED",
         "GodMazinger",
         "OP",
+        "TMSEntertainment",
         "TV",
         "TVA",
         "robo",
@@ -451,7 +478,7 @@
       },
       "summary": "王位をかけて、キン肉マン最大の闘いが始まる!\r\n『キン肉マン』初めての長編として放映され、後に続く劇場作品の手本にもなったテレビスペシャル。原作漫画のエピソードを、メンバーの一部をアイドル超人に入れ替えて、エンターテイメントとして心ゆくまで楽しめる作品に仕上げてみせた。全編が黒澤明監督の映画『七人の侍』のパロディにもなっているので、往年の映画ファンなら、より一層楽しめるに違いない。",
       "name": "キン肉マン 決戦! 7人の正義超人vs宇宙野武士",
-      "name_cn": "筋肉人 决战！7人之正义超人vs宇宙野武士",
+      "name_cn": "金肉人 决战！7人之正义超人vs宇宙野武士",
       "tags": [
         "1984",
         "TV",
@@ -462,11 +489,14 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "筋肉人 决战！7人之正义超人vs宇宙野武士"
+          "value": "金肉人 决战！7人之正义超人vs宇宙野武士"
         },
         {
           "key": "别名",
           "value": [
+            {
+              "v": "筋肉人 决战！7人之正义超人vs宇宙野武士"
+            },
             {
               "v": "Kinnikuman: Kessen!! Shichinin no Choujin Tai Uchuu Nobushi"
             }
@@ -523,7 +553,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/f7/41982_hr5bW.jpg"
           },
           "name": "キン肉マン",
-          "name_cn": "筋肉人",
+          "name_cn": "金肉人",
           "relation": "主线故事",
           "type": 2,
           "id": 41982

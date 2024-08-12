@@ -22,7 +22,6 @@
         "TV",
         "动画工房",
         "動画工房",
-        "地理",
         "地质",
         "天文",
         "山田由香",
@@ -31,6 +30,7 @@
         "恋爱",
         "恋爱小行星",
         "日常",
+        "日本",
         "東山奈央",
         "校园",
         "治愈",
@@ -317,19 +317,19 @@
         "后宫",
         "大逃杀",
         "奇幻",
+        "季番",
         "小林裕介",
         "徳本善信",
         "德本善信",
         "恋爱",
-        "悬疑",
         "战斗",
+        "日本",
         "日本动画",
         "智斗",
         "死亡游戏",
         "深山秀",
         "漫改",
         "漫画改",
-        "热血",
         "生存",
         "生存游戏",
         "超能力",
@@ -622,10 +622,16 @@
           "key": "别名",
           "value": [
             {
-              "v": "Magia Record 魔法少女小圆外传"
+              "v": "마기아 레코드 마법소녀 마도카☆마기카 외전"
             },
             {
-              "v": "Puella Magi Madoka Magica Side Story: Magia Record"
+              "v": "Magia Record: Mahou Shoujo Madoka Magica Gaiden"
+            },
+            {
+              "v": "Magia Record: Puella Magi Madoka Magica Side Story"
+            },
+            {
+              "v": "Magia Record 魔法少女小圆外传"
             },
             {
               "v": "マギレコ"
@@ -681,7 +687,7 @@
         },
         {
           "key": "製作",
-          "value": "Magia Record Anime Partners"
+          "value": "Magia Record Anime Partners（Aniplex、SHAFT、芳文社、f4samurai）"
         },
         {
           "key": "总导演",
@@ -696,10 +702,6 @@
           "value": "蒼樹うめ（主人物原案）"
         },
         {
-          "key": "副导演",
-          "value": "宮本幸裕"
-        },
-        {
           "key": "人物设定",
           "value": "谷口淳一郎"
         },
@@ -712,40 +714,16 @@
           "value": "伊藤良明・高野晃久・宮井加奈"
         },
         {
-          "key": "原画",
-          "value": "橋本敬史（动作监督）"
-        },
-        {
-          "key": "美术监督",
-          "value": "内藤健"
-        },
-        {
-          "key": "美术设计",
-          "value": "大原盛仁"
-        },
-        {
-          "key": "色彩设计",
-          "value": "日比野仁"
-        },
-        {
-          "key": "剪辑",
-          "value": "松原理恵"
-        },
-        {
-          "key": "CG 导演",
-          "value": "島久登"
-        },
-        {
-          "key": "摄影监督",
-          "value": "土屋康次"
-        },
-        {
           "key": "音乐",
-          "value": "尾澤拓実、梶浦由記（协力）"
+          "value": "尾澤拓実"
         },
         {
           "key": "音乐制作",
-          "value": "Aniplex、森康哲（ハイウェイスター）"
+          "value": "Aniplex"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "森康哲（ハイウェイスター）"
         },
         {
           "key": "音响监督",
@@ -757,19 +735,19 @@
         },
         {
           "key": "导演",
-          "value": "宮本幸裕(1, 11-13)、岡田堅二朗(2-3, 6-7)、吉澤翠(4-5, 8-10)"
+          "value": "宮本幸裕(1,11-13)、岡田堅二朗(2-3,6-7)、吉澤翠(4-5,8-10)"
         },
         {
           "key": "脚本",
-          "value": "小川楓、劇団イヌカレー (泥犬[穴井洋輔])、池梟リョーマ"
+          "value": "小川楓(1-13)、劇団イヌカレー (泥犬[穴井洋輔])(1-13)、池梟リョーマ(6,7,11)"
         },
         {
           "key": "分镜",
-          "value": "鈴木利正、大谷肇、岡田堅二朗、安食圭、宮本幸裕、吉澤翠、二宮壮史、大石美絵、佐久間貴史、宮崎修治、平向智子、横屋健太（第3话变身）"
+          "value": "鈴木利正(1,13)、大谷肇(2)、岡田堅二朗(3)、安食圭(4,13)、宮本幸裕(5,13)、吉澤翠(5,9)、二宮壮史(6)、大石美絵(7,10)、佐久間貴史(8,12)、宮崎修治(11)、平向智子(12)、横屋健太（第3话变身）"
         },
         {
           "key": "演出",
-          "value": "大谷肇、岡田堅二朗、浅見隆司、吉澤翠、宮本幸裕、宮崎修治、高橋謙仁"
+          "value": "宮本幸裕(1,6,13)、大谷肇(2)、岡田堅二朗(3,7,12)、浅見隆司(4,10)、吉澤翠(5,9)、宮崎修治(8)、高橋謙仁(11)"
         },
         {
           "key": "作画监督",
@@ -781,11 +759,7 @@
         },
         {
           "key": "道具设计",
-          "value": "橋本敬史（武器设定）"
-        },
-        {
-          "key": "衣装设定",
-          "value": "宮井加奈"
+          "value": "橋本敬史（武器设定）、宮井加奈（衣装设定）"
         },
         {
           "key": "音效",
@@ -796,16 +770,12 @@
           "value": "矢野さとし"
         },
         {
-          "key": "アソシエイトプロデューサー",
+          "key": "联合制片人",
           "value": "小仲渉平、西部真帆"
         },
         {
-          "key": "设定协力",
-          "value": "f4samurai"
-        },
-        {
-          "key": "脚本协力",
-          "value": "柴山義昌、エルスウェア"
+          "key": "协力",
+          "value": "脚本协力：柴山義昌、エルスウェア；音乐协力：梶浦由記；设定协力：f4samurai"
         },
         {
           "key": "制作管理",
@@ -1494,7 +1464,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/07/301366_fkF66.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/07/301366_fkF66.jpg"
           },
-          "name": "ID:INVADED イド:インヴェイデッド オリジナルドラマCD &amp; オリジナルサウンドトラックCD Vol.2",
+          "name": "ID:INVADED イド:インヴェイデッド オリジナルドラマCD & オリジナルサウンドトラックCD Vol.2",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -1523,19 +1493,19 @@
         "2020",
         "2020冬",
         "2020年1月",
+        "BL",
         "Genostudio",
         "PET",
         "TV",
         "TWIN_ENGINE",
         "geno_studio",
-        "ジェノスタジオ",
         "剧情",
-        "动画",
         "基",
         "大森貴弘",
         "大森贵弘",
         "奇幻",
         "季番",
+        "小野友樹",
         "心理",
         "悬疑",
         "推理",
@@ -2201,6 +2171,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 381640
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/69/505987_nYzFj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/69/505987_nYzFj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b9/69/505987_nYzFj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/69/505987_nYzFj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/69/505987_nYzFj.jpg"
+          },
+          "name": "スマスロ「痛いのは嫌なので防御力に極振りしたいと思います。 」 Best Vocal Collection",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 505987
         }
       ]
     }
@@ -2241,10 +2225,10 @@
         "日常",
         "日本",
         "日本动画",
-        "森嶋優花",
         "治愈",
         "游戏改",
         "游戏改编",
+        "猫",
         "猫娘",
         "百合",
         "艹猫",
@@ -2433,6 +2417,7 @@
         "内田彩",
         "冒险",
         "动画",
+        "厕纸",
         "后宫",
         "奇幻",
         "小林智树",
@@ -2450,8 +2435,7 @@
         "网游",
         "轻小说改",
         "轻改",
-        "齐藤壮马",
-        "龙傲天"
+        "齐藤壮马"
       ],
       "infobox": [
         {
@@ -2581,8 +2565,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/a2/215909_ECIen.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/a2/215909_ECIen.jpg"
           },
-          "name": "&lt;Infinite Dendrogram&gt;-インフィニット・デンドログラム",
-          "name_cn": "&lt;Infinite Dendrogram&gt;-无尽连锁-",
+          "name": "<Infinite Dendrogram>-インフィニット・デンドログラム",
+          "name_cn": "<Infinite Dendrogram>-无尽连锁-",
           "relation": "书籍",
           "type": 1,
           "id": 215909
@@ -2658,13 +2642,12 @@
         "TV",
         "乙女",
         "内田雄馬",
+        "动画",
         "单元剧",
-        "國澤真理子",
         "女性向",
         "宝石商人理查德的谜鉴定",
         "小说改",
         "岩崎太郎",
-        "恋爱",
         "悬疑",
         "户田信子",
         "推理",
@@ -2676,7 +2659,8 @@
         "治愈",
         "科普",
         "耽美",
-        "花泽香菜",
+        "职场",
+        "腐",
         "轻小说改",
         "轻改"
       ],
@@ -3132,20 +3116,20 @@
         "SHOWBYROCK",
         "TV",
         "TVA",
-        "三丽鸥",
         "乐队",
         "偶像",
         "兽娘",
         "兽耳娘",
         "动物",
-        "和多田美咲",
+        "唱跳rap",
         "孙承希",
+        "屹青",
         "手游改",
-        "搞笑",
         "日常",
         "日本",
         "日本动画",
         "游戏改",
+        "狐丸可爱",
         "田泽大典",
         "百合",
         "萌",
@@ -3778,7 +3762,6 @@
         "2020年1月",
         "TV",
         "saetta",
-        "ひらさわひさよし",
         "サエッタ",
         "令和",
         "八十龟观察日记",
@@ -3795,6 +3778,7 @@
         "搞笑",
         "日常",
         "日本动画",
+        "日泡面番",
         "早坂皐月",
         "校园",
         "泡面",
@@ -4296,8 +4280,8 @@
         "2020冬",
         "2020年",
         "2020年1月",
-        "6分",
         "TV",
+        "TVA",
         "ZERO-G",
         "ゼロジー",
         "内田雄馬",
@@ -4587,7 +4571,6 @@
         "女性向",
         "搞笑",
         "日常",
-        "日本",
         "日本动画",
         "暗黑破坏神在身边",
         "木村良平",
@@ -4595,6 +4578,7 @@
         "樱井孝宏",
         "櫻井孝宏",
         "正太",
+        "治愈",
         "浊川敦",
         "漫改",
         "漫画改",
@@ -4990,11 +4974,11 @@
         "卖肉",
         "天原",
         "奇幻",
-        "季番",
         "小川优树",
         "小川優樹",
         "巨乳",
         "异世界",
+        "异种族风俗娘评鉴指南",
         "搞笑",
         "日常",
         "日本",
@@ -5742,6 +5726,7 @@
         "2020",
         "2020年",
         "2020年1月",
+        "5分",
         "STUDIOPUYUKAI",
         "STUDIO_PUYUKAI",
         "TV",
@@ -5758,17 +5743,16 @@
         "日常",
         "日本",
         "日本动画",
-        "日野聡",
         "校园",
         "沙雕",
         "泡面",
         "泡面番",
+        "福島潤",
         "穿越",
         "续作",
         "联动",
         "芦名みのる",
-        "芦名稔",
-        "轻改"
+        "芦名稔"
       ],
       "infobox": [
         {
@@ -6001,12 +5985,12 @@
         "Bushiroad",
         "SANZIGEN",
         "TV",
-        "TVA",
         "サンジゲン",
         "三次元",
         "乐队",
         "偶像",
         "原创",
+        "季番",
         "日常",
         "日本动画",
         "柿本广大",
@@ -6058,6 +6042,98 @@
         {
           "key": "Copyright",
           "value": "©BanG Dream! Project"
+        },
+        {
+          "key": "原作",
+          "value": "ブシロード"
+        },
+        {
+          "key": "执行制片人",
+          "value": "木谷高明"
+        },
+        {
+          "key": "导演",
+          "value": "柿本広大"
+        },
+        {
+          "key": "系列构成",
+          "value": "綾奈ゆにこ"
+        },
+        {
+          "key": "人物原案",
+          "value": "Craft Egg×ひと和"
+        },
+        {
+          "key": "人物设定",
+          "value": "植田和幸、茶之原拓也、八森優香"
+        },
+        {
+          "key": "监修",
+          "value": "【CG总监】三村厚史"
+        },
+        {
+          "key": "美术监督",
+          "value": "美輪奈樹"
+        },
+        {
+          "key": "摄影监督",
+          "value": "井上麻梨"
+        },
+        {
+          "key": "剪辑",
+          "value": "梅津朋美"
+        },
+        {
+          "key": "音响监督",
+          "value": "飯田里樹"
+        },
+        {
+          "key": "音乐",
+          "value": "Elements Garden(藤田淳平×藤間仁×藤永龍太郎)"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "上松範康、藤田淳平"
+        },
+        {
+          "key": "企画",
+          "value": "岩倉亜貴、北澤晋一郎、安藝貴範、矢田部行庸、松浦裕暁"
+        },
+        {
+          "key": "制片人",
+          "value": "根本雄貴、北澤史隆、田中聡、金成雄文、瓶子修一"
+        },
+        {
+          "key": "动画制片人",
+          "value": "西藤和広、村上りゅうすけ"
+        },
+        {
+          "key": "动画制作",
+          "value": "サンジゲン"
+        },
+        {
+          "key": "制作协力",
+          "value": "パッショーネ"
+        },
+        {
+          "key": "製作",
+          "value": "BanG Dream! Project（ブシロード、TOKYO MX、Good Smile Company、ホリプロ、ウルトラスーパーピクチャーズ）"
+        },
+        {
+          "key": "脚本",
+          "value": "綾奈ゆにこ(1/6/11)、後藤みどり(2/5/8/10)、小川ひとみ(3/7/13)、柿原優子(4)、中西やすひろ(9/12)"
+        },
+        {
+          "key": "分镜",
+          "value": "高橋成世(1/9/12)、増田敏彦(2/3/11)、なかの陽(4/8)、杉島邦久(5)、松園公(6)、藤澤俊幸(7)、坂田純一(10)、柿本広大(13)"
+        },
+        {
+          "key": "演出",
+          "value": "高橋成世(1/7/12)、間島崇寛(2)、森田紘吏(3/9/13)、なかの陽(4/6/8/11)、小川晴代(5)、後藤康徳(10)"
+        },
+        {
+          "key": "CG 导演",
+          "value": "森田紘吏(1/3/6/9/12)、Chang Soo hyun(2/4/8)、小川晴代(5/7)、久保翔太(10)、矢﨑茜(11)"
         }
       ],
       "total_episodes": 13,
@@ -6082,6 +6158,34 @@
           "relation": "游戏",
           "type": 4,
           "id": 208415
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/a7/428735_1v11n.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/a7/428735_1v11n.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e7/a7/428735_1v11n.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e7/a7/428735_1v11n.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e7/a7/428735_1v11n.jpg"
+          },
+          "name": "BanG Dream! It's MyGO!!!!!",
+          "name_cn": "",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 428735
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/45/305059_mMUdd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/45/305059_mMUdd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/45/305059_mMUdd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/45/305059_mMUdd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/45/305059_mMUdd.jpg"
+          },
+          "name": "BanG Dream! ぽっぴん'どりーむ！",
+          "name_cn": "剧场版 BanG Dream! Poppin'Dream！",
+          "relation": "续集",
+          "type": 2,
+          "id": 305059
         },
         {
           "images": {
@@ -6113,6 +6217,48 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/fa/291935_afi9t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/fa/291935_afi9t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2d/fa/291935_afi9t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/fa/291935_afi9t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/fa/291935_afi9t.jpg"
+          },
+          "name": "「BanG Dream! 7th☆LIVE」 DAY3：Poppin'Party「Jumpin' Music♪」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 291935
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/f4/291934_6OeKR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/f4/291934_6OeKR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/31/f4/291934_6OeKR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/f4/291934_6OeKR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/f4/291934_6OeKR.jpg"
+          },
+          "name": "「BanG Dream! 7th☆LIVE」 DAY2：RAISE A SUILEN「Genesis」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 291934
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b3/c1/291933_sGe6u.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b3/c1/291933_sGe6u.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b3/c1/291933_sGe6u.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b3/c1/291933_sGe6u.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/c1/291933_sGe6u.jpg"
+          },
+          "name": "「BanG Dream! 7th☆LIVE」 DAY1：Roselia「Hitze」",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 291933
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/d9/f3/246429_L8TbT.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d9/f3/246429_L8TbT.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/d9/f3/246429_L8TbT.jpg",
@@ -6141,20 +6287,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/70/305058_xeEEN.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/70/305058_xeEEN.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ca/70/305058_xeEEN.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/70/305058_xeEEN.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/70/305058_xeEEN.jpg"
-          },
-          "name": "BanG Dream! Episode of Roselia Ⅰ : 約束",
-          "name_cn": "BanG Dream! Episode of Roselia Ⅰ : 约定",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 305058
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/09/261542_jVS2C.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/09/261542_jVS2C.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/2a/09/261542_jVS2C.jpg",
@@ -6169,17 +6301,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/45/305059_mMUdd.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/45/305059_mMUdd.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/77/45/305059_mMUdd.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/45/305059_mMUdd.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/45/305059_mMUdd.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/70/305058_xeEEN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/70/305058_xeEEN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/70/305058_xeEEN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/70/305058_xeEEN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/70/305058_xeEEN.jpg"
           },
-          "name": "BanG Dream! ぽっぴん'どりーむ！",
-          "name_cn": "剧场版 BanG Dream! Poppin'Dream！",
+          "name": "BanG Dream! Episode of Roselia Ⅰ : 約束",
+          "name_cn": "BanG Dream! Episode of Roselia Ⅰ : 约定",
           "relation": "番外篇",
           "type": 2,
-          "id": 305059
+          "id": 305058
         },
         {
           "images": {
@@ -6394,6 +6526,7 @@
         "原创",
         "友永コリエ",
         "日本动画",
+        "时事热点",
         "水島大宙"
       ],
       "infobox": [
@@ -6479,7 +6612,6 @@
         "2020年",
         "2020年1月",
         "22",
-        "227",
         "7",
         "A-1Pictures",
         "Aniplex",
@@ -6487,6 +6619,7 @@
         "中山真斗",
         "京阿尼",
         "偶像",
+        "动画",
         "原创",
         "原创动画",
         "堀口悠紀子",
@@ -6495,13 +6628,13 @@
         "奇幻",
         "宮島礼吏",
         "日常",
+        "日本",
         "日本动画",
         "未确定",
         "永井千晶",
         "百合",
         "秋元康",
         "西條和",
-        "轻百",
         "轻百合",
         "阿保孝雄",
         "音乐"
@@ -6826,6 +6959,7 @@
         "业界",
         "伊藤沙莉",
         "作画",
+        "别对映像研出手！",
         "动画",
         "动画制作",
         "励志",
@@ -6841,7 +6975,6 @@
         "漫改",
         "漫画改",
         "热血",
-        "田村睦心",
         "神作",
         "科普",
         "青春"
@@ -6856,6 +6989,9 @@
           "value": [
             {
               "v": "えいぞうけんにはてをだすな!"
+            },
+            {
+              "v": "Eizouken ni wa Te wo Dasu na!"
             },
             {
               "v": "Eizouken ni wa Te o Dasuna!"
@@ -6967,7 +7103,7 @@
         },
         {
           "key": "摄影监督",
-          "value": "関谷能弘；補佐楊晓牧"
+          "value": "関谷能弘；補佐:楊晓牧"
         }
       ],
       "total_episodes": 13,
@@ -7582,13 +7718,17 @@
         "2020年1月",
         "CPE",
         "ChildrensPlaygroundEntertainme",
+        "ChildrensPlaygroundEntertainme",
+        "ChildrensPlaygroundEntertainme",
+        "ChildrensPlaygroundEntertainme",
+        "ChildrensPlaygroundEntertainme",
+        "ChildrensPlaygroundEntertainme",
         "TV",
         "动画",
         "奇幻",
         "奇幻☆怪盗",
         "富田美憂",
         "小说改",
-        "小说改编",
         "恋爱",
         "战斗",
         "搞笑",
@@ -7602,11 +7742,7 @@
         "童园",
         "轻小说改",
         "轻改",
-        "鈴木愛奈",
-        "髙橋龍也",
-        "魔术",
-        "魔法",
-        "？"
+        "魔术"
       ],
       "infobox": [
         {
@@ -7935,13 +8071,13 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/88/464593_77rnh.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/88/464593_77rnh.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dd/88/464593_77rnh.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/88/464593_77rnh.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/88/464593_77rnh.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/88/464593_3uD88.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/88/464593_3uD88.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/88/464593_3uD88.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/88/464593_3uD88.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/88/464593_3uD88.jpg"
           },
-          "name": "地縛少年花子くん 第2期",
+          "name": "地縛少年花子くん２",
           "name_cn": "地缚少年花子君 第二季",
           "relation": "续集",
           "type": 2,
@@ -7965,7 +8101,7 @@
       },
       "summary": "东京郊外的街道——天鹅绒町，这里有着被剧团成员们称之为天鹅绒之路的圣地。身为原舞台演员、因一纸来信而站在此地的你，将会遇到的是……负债累累！没有客人！团员只有一位！失去过去辉煌即将倒闭的落魄剧团！因机缘巧合，你成为了剧团的团长兼【总监督】，身负把剧团重整起来的重任？",
       "name": "A3! SEASON SPRING ＆ SUMMER",
-      "name_cn": "A3！满开剧团 春&amp;夏",
+      "name_cn": "A3！满开剧团 春&夏",
       "tags": [
         "10S",
         "2020",
@@ -8167,7 +8303,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/f4/289131_wg9Cd.jpg"
           },
           "name": "A3! SEASON AUTUMN ＆ WINTER",
-          "name_cn": "A3！满开剧团 秋&amp;冬",
+          "name_cn": "A3！满开剧团 秋&冬",
           "relation": "续集",
           "type": 2,
           "id": 289131
@@ -8242,7 +8378,6 @@
         "MAPPA",
         "Netflix",
         "TV",
-        "TVA",
         "奇幻",
         "岸友洋",
         "异世界",
@@ -8260,6 +8395,7 @@
         "瀬古浩司",
         "热血",
         "猎奇",
+        "细谷佳正",
         "血腥",
         "近藤玲奈",
         "魔法",
@@ -8671,11 +8807,11 @@
         "偶像宅",
         "动画",
         "励志",
-        "季番",
         "宅",
         "山本裕介",
         "恋爱",
         "搞笑",
+        "日向萌",
         "日常",
         "日本",
         "日本动画",
@@ -9113,7 +9249,6 @@
       "name": "空挺ドラゴンズ",
       "name_cn": "空挺Dragons",
       "tags": [
-        "1月",
         "2020",
         "2020年",
         "2020年1月",
@@ -9123,10 +9258,10 @@
         "TV",
         "TVA",
         "WEB",
-        "ポリゴン・ピクチュアズ",
         "上江洲誠",
         "公路",
         "冒险",
+        "前野智昭",
         "动画",
         "吉平直弘",
         "奇幻",
@@ -9134,6 +9269,7 @@
         "日本",
         "日本动画",
         "横山克",
+        "樱井孝宏",
         "漫改",
         "漫画改",
         "猎龙飞船",
@@ -9377,22 +9513,22 @@
         "Production_I.G",
         "TV",
         "佐藤雅子",
+        "体育",
         "动画",
         "励志",
+        "季番",
         "岸本卓",
         "排球",
         "排球少年",
         "排球！！",
         "搞笑",
         "日本动画",
-        "村瀬歩",
         "校园",
         "橘麻美",
         "漫改",
         "漫画改",
         "热血",
         "石川界人",
-        "神谷浩史",
         "竞技",
         "续作",
         "运动",
@@ -10107,8 +10243,10 @@
         "KINEMACITRUS",
         "KINEMA_CITRUS",
         "TV",
+        "仓田英之",
         "倉田英之",
         "催泪",
+        "公路片",
         "冒险",
         "剧场版",
         "动画电影",
@@ -10118,7 +10256,6 @@
         "小島正幸",
         "战斗",
         "日本",
-        "日本动画",
         "来自深渊",
         "正太",
         "治愈",
@@ -10128,8 +10265,7 @@
         "硬核",
         "神作",
         "续作",
-        "致郁",
-        "黄瀬和哉"
+        "致郁"
       ],
       "infobox": [
         {
@@ -10389,19 +10525,19 @@
         "JUMP",
         "OVA",
         "OVA&OAD&SP",
+        "PIG",
         "Production.I.G",
         "ProductionI.G",
         "Production_I.G",
-        "TV",
         "中村悠一",
         "佐藤雅子",
+        "体育番",
+        "其他",
         "古馆春一",
         "岸本卓",
-        "岸田隆宏",
         "排球",
         "排球少年",
         "排球！！",
-        "日本",
         "林友树",
         "校园",
         "橘麻美",
@@ -10520,13 +10656,13 @@
         "2020",
         "2020年",
         "2020年1月",
-        "20年代",
         "Colorido",
         "OVA",
         "StudioColorido",
         "TV",
         "WEB",
         "pokemon",
+        "其他",
         "剑盾",
         "原创",
         "奇幻",
@@ -10840,7 +10976,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/d1/238004_F9Hgn.jpg"
           },
           "name": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ",
-          "name_cn": "期待在地下城邂逅有错吗Ⅱ",
+          "name_cn": "期待在地下城邂逅有错吗 第二季",
           "relation": "主线故事",
           "type": 2,
           "id": 238004
@@ -11035,7 +11171,6 @@
         "A-1_Pictures",
         "Aniplex",
         "Lynn",
-        "movie",
         "中川淳",
         "中村直人",
         "信田ユウ",
@@ -11047,6 +11182,7 @@
         "动画",
         "原创",
         "夏川椎菜",
+        "岡田邦彦",
         "战斗",
         "日本",
         "海战",
@@ -11130,17 +11266,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/dd/144843_1nqUr.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/dd/144843_1nqUr.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/83/dd/144843_1nqUr.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/dd/144843_1nqUr.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/dd/144843_1nqUr.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/69/180526_mKw76.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/69/180526_mKw76.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/62/69/180526_mKw76.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/69/180526_mKw76.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/69/180526_mKw76.jpg"
           },
-          "name": "ハイスクール・フリート",
-          "name_cn": "高校舰队",
-          "relation": "前传",
-          "type": 2,
-          "id": 144843
+          "name": "はいふり",
+          "name_cn": "青春波纹",
+          "relation": "书籍",
+          "type": 1,
+          "id": 180526
         },
         {
           "images": {
@@ -11208,7 +11344,7 @@
           },
           "name": "ハイスクール・フリート あらいばるっ",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "番外篇",
           "type": 1,
           "id": 326361
         }
@@ -11566,20 +11702,21 @@
       "name_cn": "巨虫列岛",
       "tags": [
         "2020",
+        "2020年",
         "2020年1月",
+        "M1",
         "Passione",
         "Theater",
         "アニメ映画",
-        "パッショーネ",
         "マンガ原作",
         "一般番(科幻)",
         "剧场版",
         "卖肉",
-        "可独立观赏",
+        "奇幻",
         "屎片",
-        "巨虫",
+        "屹青",
         "巨虫列岛",
-        "市道真央",
+        "已收录(BDRip)",
         "日本",
         "日本动画",
         "森田繁",
@@ -11587,10 +11724,9 @@
         "漫画改",
         "灾难求生",
         "猎奇",
-        "虫子",
-        "血腥猎奇",
+        "立花理香",
+        "肉",
         "表番",
-        "遇难求生",
         "高桥丈夫",
         "高橋丈夫",
         "龍輪直征",
@@ -11912,7 +12048,6 @@
       "name_cn": "",
       "tags": [
         "2020",
-        "2020s",
         "2020年",
         "2020年1月",
         "2022",
@@ -11934,6 +12069,7 @@
         "小说改",
         "我的三体",
         "战斗",
+        "方块人",
         "热血",
         "神作",
         "神游八方",
@@ -12210,11 +12346,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/da/343182_h07J8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/da/343182_h07J8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c0/da/343182_h07J8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/da/343182_h07J8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/da/343182_h07J8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/da/343182_ypN8w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/da/343182_ypN8w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c0/da/343182_ypN8w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/da/343182_ypN8w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/da/343182_ypN8w.jpg"
           },
           "name": "我的三体 第四季",
           "name_cn": "",
