@@ -5602,5 +5602,126 @@
         }
       ]
     }
+  },
+  {
+    "title": ".hack//AI buster",
+    "date": "2002-10-01",
+    "bangumi": {
+      "date": "2002-10-01",
+      "platform": "小说",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/b0/28781_00l6t.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/b0/28781_00l6t.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/11/b0/28781_00l6t.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/b0/28781_00l6t.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/b0/28781_00l6t.jpg"
+      },
+      "summary": "　　時間軸としては『.hack//SIGN』より前からとなっている。また、作中に登場するエリア名をゲーム版のカオスゲートで入力するとレアアイテムが手に入るエリアに転送されるが、作中のイベントは発生しない。\r\n\r\n　　2巻に収録されている『.hack//黄昏の腕輪伝説』の短編小説の登場人物については、.hack//黄昏の腕輪伝説#登場人物を参照の事。本作オリジナルキャラクターの映像作品への登場はなく、『.hack//Link』登場時に初めて声優が充てられた。",
+      "name": ".hack//AI buster",
+      "name_cn": "",
+      "tags": [
+        ".hack",
+        ".hack系列",
+        "小说",
+        "浜崎達也",
+        "轻小说"
+      ],
+      "infobox": [
+        {
+          "key": "出版社",
+          "value": "角川書店"
+        },
+        {
+          "key": "册数",
+          "value": "2"
+        },
+        {
+          "key": "开始",
+          "value": "2002-10-01"
+        },
+        {
+          "key": "结束",
+          "value": "2005-06-01"
+        },
+        {
+          "key": "作者",
+          "value": "浜崎達也"
+        },
+        {
+          "key": "插图",
+          "value": "依澄れい"
+        },
+        {
+          "key": "文库",
+          "value": "角川スニーカー文庫"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 28781,
+      "eps": 0,
+      "volumes": 2,
+      "series": true,
+      "locked": false,
+      "nsfw": false,
+      "type": 1,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/96/1997_8FD3j.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/96/1997_8FD3j.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/96/1997_8FD3j.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/96/1997_8FD3j.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/96/1997_8FD3j.jpg"
+          },
+          "name": ".hack//SIGN",
+          "name_cn": ".hack//时空",
+          "relation": "动画",
+          "type": 2,
+          "id": 1997
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/2e/17833_iBh6M.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/2e/17833_iBh6M.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/2e/17833_iBh6M.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/2e/17833_iBh6M.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/2e/17833_iBh6M.jpg"
+          },
+          "name": ".hack//黄昏の碑文",
+          "name_cn": ".hack//黄昏的碑文",
+          "relation": "前传",
+          "type": 1,
+          "id": 17833
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/8f/13368_s0P3E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/8f/13368_s0P3E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/8f/13368_s0P3E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/8f/13368_s0P3E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/8f/13368_s0P3E.jpg"
+          },
+          "name": ".hack//AI buster (1)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 13368
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/a2/13729_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/a2/13729_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ae/a2/13729_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/a2/13729_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/a2/13729_jp.jpg"
+          },
+          "name": ".hack//AI buster (2)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 13729
+        }
+      ]
+    }
   }
 ]
