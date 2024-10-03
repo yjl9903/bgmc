@@ -506,7 +506,7 @@
         },
         {
           "key": "主题歌作词",
-          "value": "cAnON. / 茜雫凛(SennaRin) &amp; cAnON., 澤野弘之"
+          "value": "cAnON. / 茜雫凛(SennaRin) & cAnON., 澤野弘之"
         }
       ],
       "total_episodes": 4,
@@ -640,7 +640,6 @@
         "2022年",
         "2022年4月",
         "3D",
-        "PPI",
         "PolygonPictures",
         "Polygon_Pictures",
         "SF",
@@ -655,6 +654,7 @@
         "嶺内ともみ",
         "战斗",
         "搞笑",
+        "日本",
         "桥本裕之",
         "橋本裕之",
         "润",
@@ -712,6 +712,14 @@
           "value": "2022年6月22日"
         },
         {
+          "key": "导演",
+          "value": "橋本裕之"
+        },
+        {
+          "key": "音乐",
+          "value": "藤澤慶昌"
+        },
+        {
           "key": "其他",
           "value": "2022年3月1日（FOD）先行配信"
         },
@@ -732,10 +740,6 @@
           "value": "SSF"
         },
         {
-          "key": "导演",
-          "value": "橋本裕之"
-        },
-        {
           "key": "系列构成",
           "value": "賀東招二"
         },
@@ -750,10 +754,6 @@
         {
           "key": "概念艺术",
           "value": "富安健一郎(INEI)"
-        },
-        {
-          "key": "音乐",
-          "value": "藤澤慶昌"
         },
         {
           "key": "企画",
@@ -1004,17 +1004,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/f8/377781_9kiVV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/f8/377781_9kiVV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/07/f8/377781_9kiVV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/f8/377781_9kiVV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/f8/377781_9kiVV.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/2e/226234_cCu6L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/2e/226234_cCu6L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a8/2e/226234_cCu6L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/2e/226234_cCu6L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/2e/226234_cCu6L.jpg"
           },
-          "name": "Bound for TOKIMEKI",
+          "name": "ラブライブ！スクールアイドルフェスティバルALL STARS",
+          "name_cn": "Love Live! 学园偶像季：群星闪耀",
+          "relation": "游戏",
+          "type": 4,
+          "id": 226234
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/de/508444_P8qnA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/de/508444_P8qnA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e5/de/508444_P8qnA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/de/508444_P8qnA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/de/508444_P8qnA.jpg"
+          },
+          "name": "にじいろお出かけ計画&ときめきバースデー計画",
           "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 377781
+          "relation": "书籍",
+          "type": 1,
+          "id": 508444
         },
         {
           "images": {
@@ -1032,11 +1046,25 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/4d/475202_RaUt8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/4d/475202_RaUt8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cd/4d/475202_RaUt8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/4d/475202_RaUt8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/4d/475202_RaUt8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/37/496108_oWcZF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/37/496108_oWcZF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/37/496108_oWcZF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/37/496108_oWcZF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/37/496108_oWcZF.jpg"
+          },
+          "name": "BUSHIROAD ROCK FESTIVAL 2023",
+          "name_cn": "武士道摇滚节2023",
+          "relation": "三次元",
+          "type": 6,
+          "id": 496108
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/4d/475202_KtXa8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/4d/475202_KtXa8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/4d/475202_KtXa8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/4d/475202_KtXa8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/4d/475202_KtXa8.jpg"
           },
           "name": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 トキメキの未来地図",
           "name_cn": "Love Live! 虹咲学园校园偶像同好会 心动闪耀的未来蓝图",
@@ -1158,6 +1186,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/f8/377781_9kiVV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/f8/377781_9kiVV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/07/f8/377781_9kiVV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/f8/377781_9kiVV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/f8/377781_9kiVV.jpg"
+          },
+          "name": "Bound for TOKIMEKI",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 377781
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/13/71575_4746r.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/13/71575_4746r.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/2e/13/71575_4746r.jpg",
@@ -1169,20 +1211,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 71575
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/2e/226234_cCu6L.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/2e/226234_cCu6L.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a8/2e/226234_cCu6L.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/2e/226234_cCu6L.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/2e/226234_cCu6L.jpg"
-          },
-          "name": "ラブライブ！スクールアイドルフェスティバルALL STARS",
-          "name_cn": "Love Live! 学园偶像季：群星闪耀",
-          "relation": "游戏",
-          "type": 4,
-          "id": 226234
         },
         {
           "images": {
@@ -1270,20 +1298,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/b3/376572_3V2h4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/b3/376572_3V2h4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/b3/376572_3V2h4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/b3/376572_3V2h4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/b3/376572_3V2h4.jpg"
-          },
-          "name": "Fashionista",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 376572
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/f2/368938_6rjiu.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/f2/368938_6rjiu.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/88/f2/368938_6rjiu.jpg",
@@ -1312,17 +1326,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/8f/368939_mCIAK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/8f/368939_mCIAK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/01/8f/368939_mCIAK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/8f/368939_mCIAK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/368939_mCIAK.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/b3/376572_3V2h4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/b3/376572_3V2h4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/b3/376572_3V2h4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/b3/376572_3V2h4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/b3/376572_3V2h4.jpg"
           },
-          "name": "Eternal Light",
+          "name": "Fashionista",
           "name_cn": "",
-          "relation": "插入歌",
+          "relation": "角色歌",
           "type": 3,
-          "id": 368939
+          "id": 376572
         },
         {
           "images": {
@@ -1354,31 +1368,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/8d/368941_Q477A.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/8d/368941_Q477A.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e8/8d/368941_Q477A.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/8d/368941_Q477A.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/8d/368941_Q477A.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/8f/368939_mCIAK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/8f/368939_mCIAK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/01/8f/368939_mCIAK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/8f/368939_mCIAK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/8f/368939_mCIAK.jpg"
           },
-          "name": "Infinity！Our wings!!",
+          "name": "Eternal Light",
           "name_cn": "",
           "relation": "插入歌",
           "type": 3,
-          "id": 368941
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/fb/441794_Ogudd.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/fb/441794_Ogudd.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/59/fb/441794_Ogudd.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/fb/441794_Ogudd.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/fb/441794_Ogudd.jpg"
-          },
-          "name": "ラブライブ!虹ヶ咲学園スクールアイドル同好会ときめきファンブック 広がれ虹のWA!テーマ別活動報告書",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 441794
+          "id": 368939
         },
         {
           "images": {
@@ -1396,17 +1396,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/b7/376576_rmvrM.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/b7/376576_rmvrM.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ce/b7/376576_rmvrM.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/b7/376576_rmvrM.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/b7/376576_rmvrM.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/fb/441794_Ogudd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/fb/441794_Ogudd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/59/fb/441794_Ogudd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/fb/441794_Ogudd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/fb/441794_Ogudd.jpg"
           },
-          "name": "Look at me now",
+          "name": "ラブライブ!虹ヶ咲学園スクールアイドル同好会ときめきファンブック 広がれ虹のWA!テーマ別活動報告書",
           "name_cn": "",
-          "relation": "角色歌",
+          "relation": "画集",
+          "type": 1,
+          "id": 441794
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/8d/368941_Q477A.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/8d/368941_Q477A.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e8/8d/368941_Q477A.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/8d/368941_Q477A.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/8d/368941_Q477A.jpg"
+          },
+          "name": "Infinity！Our wings!!",
+          "name_cn": "",
+          "relation": "插入歌",
           "type": 3,
-          "id": 376576
+          "id": 368941
         },
         {
           "images": {
@@ -1424,17 +1438,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/1d/390876_IM8sh.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/1d/390876_IM8sh.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c8/1d/390876_IM8sh.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/1d/390876_IM8sh.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/1d/390876_IM8sh.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/b7/376576_rmvrM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/b7/376576_rmvrM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ce/b7/376576_rmvrM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/b7/376576_rmvrM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/b7/376576_rmvrM.jpg"
           },
-          "name": "永遠の一瞬",
+          "name": "Look at me now",
           "name_cn": "",
           "relation": "角色歌",
           "type": 3,
-          "id": 390876
+          "id": 376576
         },
         {
           "images": {
@@ -1449,6 +1463,20 @@
           "relation": "插入歌",
           "type": 3,
           "id": 377780
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/1d/390876_IM8sh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/1d/390876_IM8sh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c8/1d/390876_IM8sh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/1d/390876_IM8sh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/1d/390876_IM8sh.jpg"
+          },
+          "name": "永遠の一瞬",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 390876
         },
         {
           "images": {
@@ -1508,20 +1536,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/24/391463_7WdWL.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/24/391463_7WdWL.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/42/24/391463_7WdWL.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/24/391463_7WdWL.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/24/391463_7WdWL.jpg"
-          },
-          "name": "Blue!",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 391463
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/45/289667_vHKzu.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/45/289667_vHKzu.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/74/45/289667_vHKzu.jpg",
@@ -1533,6 +1547,20 @@
           "relation": "插入歌",
           "type": 3,
           "id": 289667
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/24/391463_7WdWL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/24/391463_7WdWL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/42/24/391463_7WdWL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/24/391463_7WdWL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/24/391463_7WdWL.jpg"
+          },
+          "name": "Blue!",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 391463
         },
         {
           "images": {
@@ -1602,7 +1630,6 @@
         "J.C.STAFF",
         "TV",
         "TVA",
-        "动画",
         "奇幻",
         "小原好美",
         "废萌",
@@ -1610,6 +1637,7 @@
         "搞笑",
         "日常",
         "日本",
+        "日本动画",
         "校园",
         "桜井弘明",
         "樱井弘明",
@@ -1797,6 +1825,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 379592
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/1e/509017_U10t1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/1e/509017_U10t1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d4/1e/509017_U10t1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/1e/509017_U10t1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/1e/509017_U10t1.jpg"
+          },
+          "name": "TVアニメ「まちカドまぞく」公式設定資料集ver.1.2",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 509017
         }
       ]
     }
@@ -1832,7 +1874,6 @@
         "厕纸",
         "奇幻",
         "小说改",
-        "岡咲美保",
         "异世界",
         "战斗",
         "手冢Production",
@@ -1845,6 +1886,7 @@
         "轻小说改",
         "轻改",
         "追番",
+        "魔幻",
         "魔法",
         "魔法使黎明期",
         "龙傲天"
@@ -2066,10 +2108,10 @@
         "動画工房",
         "大西沙織",
         "大西沙织",
-        "季番",
         "工业糖精",
         "式守同学不只可爱而已",
         "恋爱",
+        "恋爱喜剧",
         "成田良美",
         "搞笑",
         "日常",
@@ -2372,7 +2414,7 @@
         },
         {
           "key": "音乐",
-          "value": "神前暁 &amp; MONACA"
+          "value": "神前暁 & MONACA"
         },
         {
           "key": "人物设定",
@@ -2549,6 +2591,7 @@
         "2022",
         "2022年4月",
         "2022年4月9日",
+        "2022春",
         "4月",
         "HayabusaFilm",
         "TV",
@@ -2564,7 +2607,6 @@
         "屹青",
         "市来光弘",
         "待编辑",
-        "戸松遥",
         "搞笑",
         "日常",
         "日本",
@@ -2785,13 +2827,13 @@
         "2022年4月",
         "J.C.STAFF",
         "TV",
+        "TVA",
         "ヤスカワショウゴ",
         "佐伯伊織",
         "动画",
         "反套路",
         "处刑少女的生存之道",
         "奇幻",
-        "季番",
         "安川正吾",
         "小说改",
         "岸本萌佳",
@@ -3223,8 +3265,10 @@
         "2022",
         "2022年",
         "2022年4月",
+        "2022春",
         "TV",
         "中西伸彰",
+        "佐藤拓也",
         "冒险",
         "吐槽",
         "喜剧",
@@ -3242,8 +3286,6 @@
         "日式冷吐槽",
         "日本",
         "日本动画",
-        "日漫",
-        "沙雕",
         "漫才",
         "漫改",
         "漫画改",
@@ -3453,9 +3495,9 @@
         "三浦和也",
         "乙女游戏世界对路人角色很不友好",
         "冒险",
+        "厕纸",
         "后宫",
         "奇幻",
-        "季番",
         "小说改",
         "异世界",
         "恋爱",
@@ -3463,12 +3505,12 @@
         "惨遭动画化",
         "战斗",
         "搞笑",
+        "日本",
         "日本动画",
+        "机战",
         "校园",
         "爽片",
-        "猪原健太",
         "福元しんいち",
-        "福元信一",
         "穿越",
         "装逼",
         "转生",
@@ -3953,6 +3995,7 @@
         "小说改",
         "异世界",
         "日常",
+        "日本动画",
         "未知瑠",
         "本乡满",
         "本郷みつる",
@@ -3964,7 +4007,6 @@
         "转生",
         "轻小说改",
         "轻改",
-        "追番",
         "魔法"
       ],
       "infobox": [
@@ -4417,8 +4459,8 @@
         "日本",
         "日本动画",
         "校园",
-        "橋本由香利",
         "治愈",
+        "渡边步",
         "渡辺歩",
         "漫改",
         "漫画改",
@@ -4616,14 +4658,15 @@
         "2022春",
         "TV",
         "TVA",
+        "p9",
         "projectNo.9",
         "project_No.9",
         "三重野瞳",
         "养女儿",
         "南原玖宇",
-        "四等",
         "小原好美",
         "幼女",
+        "幽灵",
         "废萌",
         "日常",
         "日本",
@@ -4634,12 +4677,11 @@
         "漫改",
         "漫画改",
         "百合",
-        "职业",
+        "社畜",
         "职场",
         "萌",
         "萝莉",
-        "轻百合",
-        "选必看"
+        "轻百合"
       ],
       "infobox": [
         {
@@ -4796,11 +4838,11 @@
       "date": "2022-04-02",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/c4/351943_ueGjK.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/c4/351943_ueGjK.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/d0/c4/351943_ueGjK.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/c4/351943_ueGjK.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/c4/351943_ueGjK.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/c4/351943_kZAsb.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/c4/351943_kZAsb.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/d0/c4/351943_kZAsb.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/c4/351943_kZAsb.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/c4/351943_kZAsb.jpg"
       },
       "summary": "培养\"影之诗\"职业选手的设施——影之诗学院。\r\n转校生天龙光，决定加入影之诗七部之一的\"七之烈焰\"。\r\n但是，\"七之烈焰\"由于部员不足濒临废部！\r\n为了避免废部，天龙光决定寻找新成员。等待着这样一道光芒的，是操着各种各样卡牌的强大对手。",
       "name": "シャドウバースF",
@@ -4810,7 +4852,6 @@
         "2022夏",
         "2022年",
         "2022年4月",
-        "2023",
         "Cygame",
         "TV",
         "ZEXCS",
@@ -4830,6 +4871,7 @@
         "手游改",
         "打牌",
         "日本",
+        "正常",
         "浦和希",
         "游戏",
         "游戏改",
@@ -5433,6 +5475,7 @@
         "偶像",
         "动画",
         "原创",
+        "土妹子",
         "女性向",
         "島﨑信長",
         "恋爱",
@@ -5445,7 +5488,6 @@
         "橋本能理子",
         "水濑祈",
         "水瀬いのり",
-        "泽城美雪",
         "青春",
         "音乐改"
       ],
@@ -5899,12 +5941,10 @@
         "2022",
         "2022年",
         "2022年4月",
-        "2022年春",
         "2022春",
         "4月",
         "TV",
         "projectNo.9",
-        "いわたかずや",
         "动画",
         "喜剧",
         "奇幻",
@@ -5918,6 +5958,7 @@
         "日常",
         "日本",
         "日本动画",
+        "日高里菜",
         "杉澤悟",
         "漫改",
         "漫画改",
@@ -5925,7 +5966,8 @@
         "狗粮",
         "纯爱",
         "追番",
-        "長谷川育美"
+        "長谷川育美",
+        "长谷川育美"
       ],
       "infobox": [
         {
@@ -6122,6 +6164,7 @@
       "tags": [
         "2020s",
         "2022",
+        "2022夏",
         "2022年",
         "2022年4月",
         "2022春",
@@ -6137,14 +6180,13 @@
         "日本",
         "日本アニメーション",
         "日本动画",
-        "日本动画公司、OLM",
         "校园",
-        "樱花动漫",
         "竞技",
         "竹内浩志",
         "羽毛球",
         "花江夏樹",
         "读卖电视台",
+        "轻改",
         "轻腐",
         "运动",
         "金春智子",
@@ -6471,7 +6513,7 @@
         },
         {
           "key": "音乐",
-          "value": "五十嵐&quot;IGAO&quot;淳一"
+          "value": "五十嵐\"IGAO\"淳一"
         },
         {
           "key": "音响监督",
@@ -6479,7 +6521,7 @@
         },
         {
           "key": "动画制作",
-          "value": "Brain's Base、小学館ミュージック&amp;デジタルエンタテイメント"
+          "value": "Brain's Base、小学館ミュージック&デジタルエンタテイメント"
         }
       ],
       "total_episodes": 22,
@@ -7054,7 +7096,6 @@
       "name_cn": "群青的号角",
       "tags": [
         "2022",
-        "2022年",
         "2022年4月",
         "2022春",
         "Lay-duce",
@@ -7074,6 +7115,7 @@
         "福岛直浩",
         "福島直浩",
         "竞技",
+        "群像",
         "群青的号角",
         "腐",
         "花江夏樹",
@@ -7207,11 +7249,11 @@
         },
         {
           "key": "製作",
-          "value": "「群青のファンファーレ」製作委員会（Aniplex、TOKYO MX、日本BS放送、コーエーテクモホールディングス、博報堂DYミュージック&amp;ピクチャーズ、報知新聞社）"
+          "value": "「群青のファンファーレ」製作委員会（Aniplex、TOKYO MX、日本BS放送、コーエーテクモホールディングス、博報堂DYミュージック&ピクチャーズ、報知新聞社）"
         },
         {
           "key": "主题歌演出",
-          "value": "JO1 / SawanoHiroyuki[nZk](澤野弘之): 河野純喜&amp;與那城奨 (JO1)"
+          "value": "JO1 / SawanoHiroyuki[nZk](澤野弘之): 河野純喜&與那城奨 (JO1)"
         },
         {
           "key": "主题歌作词",
@@ -7403,16 +7445,15 @@
         "2022年",
         "2022年4月",
         "TV",
-        "TVA",
         "きらら",
         "まんがタイムきらら",
         "中村能子",
         "动画工房",
         "動画工房",
         "奇幻",
-        "宫崎诚",
         "废萌",
         "异世界",
+        "房地产",
         "搞笑",
         "日常",
         "日本",
@@ -7422,6 +7463,7 @@
         "漫改",
         "漫画改",
         "百合",
+        "职业",
         "职场",
         "芳文社",
         "萌",
@@ -7918,6 +7960,7 @@
         "WITSTUDIO",
         "WIT_STUDIO",
         "亲情",
+        "养女儿",
         "古桥一浩",
         "古橋一浩",
         "喜剧",
@@ -7932,7 +7975,6 @@
         "早见沙织",
         "校园",
         "治愈",
-        "温馨",
         "漫改",
         "漫画改",
         "种崎敦美",
@@ -7989,16 +8031,16 @@
           "value": "2022年6月25日"
         },
         {
+          "key": "导演",
+          "value": "古橋一浩"
+        },
+        {
           "key": "Copyright",
           "value": "©遠藤達哉／集英社・SPY×FAMILY製作委員会"
         },
         {
           "key": "原作",
           "value": "遠藤達哉（集英社「少年ジャンプ＋」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "古橋一浩"
         },
         {
           "key": "人物设定",
@@ -8279,6 +8321,7 @@
         "2022年4月",
         "BRIDGE",
         "G8",
+        "RD",
         "TV",
         "TVA",
         "ブリッジ",
@@ -8360,7 +8403,7 @@
           "value": "只野和子・松下浩美"
         }
       ],
-      "total_episodes": 130,
+      "total_episodes": 142,
       "id": 362997,
       "eps": 0,
       "volumes": 0,
@@ -8728,30 +8771,30 @@
         "2022",
         "2022年",
         "2022年4月",
+        "2022春",
         "TV",
         "TVA",
         "ZERO-G",
         "ゼロジー",
         "内田雄馬",
-        "动画",
         "喜剧",
         "喜多幡彻",
         "喜多幡徹",
         "恋爱",
         "搞笑",
         "日常",
-        "日本",
         "日本动画",
+        "日漫",
         "校园",
         "池田臨太郎",
         "漫改",
         "漫画改",
         "狗粮",
         "理科生",
-        "理科生坠入情网",
         "理科生坠入情网故尝试证明",
         "理科生坠入情网，故尝试证明",
-        "第二季",
+        "理科生坠入情网，故尝试证明。",
+        "科普",
         "续作",
         "雨宮天",
         "黑丝"
@@ -8963,11 +9006,11 @@
         "2022",
         "2022年",
         "2022年4月",
+        "2022春",
         "Production.I.G",
         "ProductionI.G",
         "Production_I.G",
         "TV",
-        "TVA",
         "さとう陽",
         "亲情",
         "佐藤阳",
@@ -9245,8 +9288,8 @@
         "2022",
         "2022年",
         "2022年4月",
+        "2022春",
         "OkurutoNoboru",
-        "Okuruto_Noboru",
         "TV",
         "オクルトノボル",
         "冒险",
@@ -9254,6 +9297,7 @@
         "友情",
         "大逃杀",
         "大野智敬",
+        "季番",
         "宮本侑芽",
         "小仓宏文",
         "小倉宏文",
@@ -9270,8 +9314,7 @@
         "漫画改",
         "濱野大輝",
         "猪原健太",
-        "表番",
-        "高山みなみ"
+        "表番"
       ],
       "infobox": [
         {
@@ -9837,7 +9880,7 @@
         },
         {
           "key": "制作协力",
-          "value": "STUDIO 4℃（OP1动画制作）、BUG FILMS（OP2&amp;ED2动画制作）"
+          "value": "STUDIO 4℃（OP1动画制作）、BUG FILMS（OP2&ED2动画制作）"
         }
       ],
       "total_episodes": 26,
@@ -9999,6 +10042,7 @@
         "日本",
         "日本动画",
         "校园",
+        "瀬戸麻沙美",
         "热血",
         "百合",
         "稲垣隆行",
@@ -10006,7 +10050,6 @@
         "竞技",
         "轻百合",
         "运动",
-        "运动番",
         "高尔夫",
         "鬼頭明里",
         "黑田洋介",
@@ -10473,6 +10516,7 @@
         "St.Signpost",
         "StudioPierrot",
         "TV",
+        "pierrot、StSignpost",
         "undefined",
         "ぴえろ",
         "サインポスト",
@@ -10481,7 +10525,7 @@
         "今泉賢一",
         "今泉贤一",
         "历史",
-        "国风",
+        "屹青",
         "战争",
         "战国",
         "战斗",
@@ -10494,7 +10538,6 @@
         "热血",
         "王者天下",
         "续作",
-        "重看",
         "高木登"
       ],
       "infobox": [
@@ -10776,11 +10819,11 @@
         "A-1Pictures",
         "A-1_Pictures",
         "TV",
+        "TVA",
         "动画",
         "喜剧",
         "季番",
         "小俣真一",
-        "小原好美",
         "恋爱",
         "恋爱喜剧",
         "搞笑",
@@ -10852,16 +10895,16 @@
           "value": "2022年6月24日"
         },
         {
+          "key": "导演",
+          "value": "畠山守（小俣真一）"
+        },
+        {
           "key": "Copyright",
           "value": "©赤坂アカ／集英社・かぐや様は告らせたい製作委員会"
         },
         {
           "key": "原作",
           "value": "赤坂アカ（集英社「週刊ヤングジャンプ」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "畠山守（小俣真一）"
         },
         {
           "key": "人物设定",
@@ -10892,8 +10935,28 @@
           "value": "制作统括：山田賢志郎"
         },
         {
+          "key": "脚本",
+          "value": "中西やすひろ(1,2,5,6,9,10,12,13)、菅原雪絵(3,4,7,8,11)"
+        },
+        {
+          "key": "分镜",
+          "value": "小俣真一(1,3,5,7,9,12,13)、小原正和(2)、亀井幹太(4)、渡部穏寛(5)、川畑喬(6)、木村延景(8)、牛嶋新一郎(10)、愛敬亮太(11)"
+        },
+        {
+          "key": "演出",
+          "value": "小俣真一(1)、菊池貴行(1,5,13)、小原正和(2)、池田愛彩(3)、飛田剛(4,12)、中西基樹(6,9)、渡辺有紀(7)、木村延景(8)、北村翔太郎(10)、愛敬亮太(11)"
+        },
+        {
+          "key": "总作画监督",
+          "value": "戸沢東(2,8)、矢向宏志(3,6,11)、川上哲也(4,9,12)、針場裕子(5)、田中紀衣(5,7)、晶貴孝二(10,13)、八尋裕子(13)"
+        },
+        {
+          "key": "作画监督",
+          "value": "太田慎之介、大久保洸太郎、石川洋一、矢向宏志、水谷雄一郎、横山穂乃花、野間聡司、橋口隼人、斉藤準一、世良コータ、山田俊太郎、木佐貫真矢、永野美春、加藤愛仁、井元一彰、山崎浩平、木藤貴之、川﨑玲奈"
+        },
+        {
           "key": "OP・ED 分镜",
-          "value": "畠山守[小俣真一](OP) / 大野仁愛(ED)、Vercreek(ep.5独立ED制作)"
+          "value": "平山瑛子(OP导演)、畠山守[小俣真一](OP分镜协力) / 大野仁愛(ED)、Vercreek(ep.5独立ED制作)"
         }
       ],
       "total_episodes": 15,
@@ -11011,8 +11074,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/b6/389474_tzbrl.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/b6/389474_tzbrl.jpg"
           },
-          "name": "かぐや様は告らせたい-ファーストキッスは終わらない-",
-          "name_cn": "辉夜大小姐想让我告白-初吻不会结束-",
+          "name": "かぐや様は告らせたい-ファーストキッスは終わらない- 映画",
+          "name_cn": "辉夜大小姐想让我告白-初吻不会结束- 剧场版",
           "relation": "续集",
           "type": 2,
           "id": 389474
@@ -11030,6 +11093,20 @@
           "relation": "续集",
           "type": 2,
           "id": 425211
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/10/508558_T44YZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/10/508558_T44YZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/10/508558_T44YZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/10/508558_T44YZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/10/508558_T44YZ.jpg"
+          },
+          "name": "告RADIO",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 508558
         },
         {
           "images": {
@@ -11096,7 +11173,6 @@
         "2021",
         "2021年10月",
         "2022",
-        "2022年",
         "2022年4月",
         "DRMOVIE",
         "KINEMACITRUS",
@@ -11104,6 +11180,7 @@
         "TV",
         "冒险",
         "动画",
+        "厕纸",
         "后宫",
         "奇幻",
         "小说改",
@@ -11209,7 +11286,7 @@
         },
         {
           "key": "3DCG",
-          "value": "ENGI &amp; GOES"
+          "value": "ENGI & GOES"
         },
         {
           "key": "摄影监督",
@@ -11615,10 +11692,11 @@
       "name": "ビルディバイド -#FFFFFF-",
       "name_cn": "创之界限 -#FFFFFF-",
       "tags": [
+        "2021年10月",
         "2022",
         "2022年",
         "2022年4月",
-        "Build_Divide",
+        "2022春",
         "LIDENFILMS",
         "LINDENFILMS",
         "TV",
@@ -11627,21 +11705,20 @@
         "ライデンフィルム",
         "冨田頼子",
         "创之界限",
+        "动画",
         "卡牌",
         "原创",
-        "及格",
         "古賀葵",
         "奇幻",
-        "屹青",
         "打牌",
         "日本",
         "東大路憲太",
+        "治愈",
         "渡部紗弓",
-        "白月光",
         "百合",
         "科幻",
         "续作",
-        "老公司",
+        "草莓",
         "萌",
         "駒田由貴",
         "驹田由贵"
@@ -11725,11 +11802,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/56/333623_OLySB.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/56/333623_OLySB.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bb/56/333623_OLySB.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/56/333623_OLySB.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/56/333623_OLySB.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/56/333623_XqRNv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/56/333623_XqRNv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/56/333623_XqRNv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/56/333623_XqRNv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/56/333623_XqRNv.jpg"
           },
           "name": "ビルディバイド -#000000-",
           "name_cn": "创之界限 -#000000-",
@@ -11827,17 +11904,17 @@
       "name": "史上最強の大魔王、村人Aに転生する",
       "name_cn": "史上最强的大魔王转生为村民A",
       "tags": [
+        "2020s",
         "2022",
         "2022年",
         "2022年4月",
+        "2022春",
         "BLADE",
         "SILVERLINK.",
         "SILVER_LINK.",
         "TV",
-        "丸岡和佳奈",
         "动画",
         "厕纸",
-        "史上最强的大魔王转生为村人A",
         "后宫",
         "奇幻",
         "小说改",
@@ -11850,13 +11927,13 @@
         "校园",
         "湊未來",
         "白毛",
+        "装逼",
         "转生",
         "轻小说改",
         "轻改",
-        "银链",
-        "魔幻",
         "魔法",
-        "龙傲天"
+        "龙傲天",
+        "？"
       ],
       "infobox": [
         {
@@ -12076,21 +12153,20 @@
         "2022年",
         "2022年4月",
         "4月",
+        "M04",
         "SCOOTERFILMS",
         "SCOOTER_FILMS",
         "TV",
         "WEB",
         "Yostar",
         "kuso",
-        "中国原作改编",
         "动画",
         "原创",
         "小剧场",
         "搞笑",
         "日常",
         "日本动画",
-        "日泡面番",
-        "架空世界",
+        "春季",
         "棋牌",
         "森井ケンシロウ",
         "森井健史郎",
@@ -12101,6 +12177,7 @@
         "游改",
         "短片",
         "雀魂",
+        "页游改",
         "麻将"
       ],
       "infobox": [
@@ -12237,11 +12314,11 @@
       "date": "2022-04-23",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/e5/327606_HaFHt.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/e5/327606_HaFHt.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/ff/e5/327606_HaFHt.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/e5/327606_HaFHt.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/e5/327606_HaFHt.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/e5/327606_Q11Sq.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/e5/327606_Q11Sq.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ff/e5/327606_Q11Sq.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/e5/327606_Q11Sq.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/e5/327606_Q11Sq.jpg"
       },
       "summary": "刚出生时被抱错的高中生海野凪终于要和亲生父母见面了。\r\n当天，凪偶然遇到名门女子学校的女高中生天野绘里香，为了帮助不想和未婚夫结婚的她，他答应了她的请求，半强行地扮演了她男朋友这一角色……\r\n然而，这两个人刚好是当时被抱错的孩子，两人之间已经定下了婚约。\r\n父母之间为了让彼此都能保有这两个孩子，为他们两人订下婚约，让他们开始同居生活。\r\n喜欢同班同学濑川弥的凪和反对父亲决定的绘里香，两人定下了“相互之间不干涉”这一规矩。\r\n未曾见过的，命运交错的恋爱喜剧，就此开幕！",
       "name": "カッコウの許嫁",
@@ -12538,18 +12615,19 @@
         "2022.4",
         "2022年",
         "2022年4月",
+        "2022春",
         "4月",
         "LIDENFILMS",
         "TV",
-        "TVA",
         "key",
         "あおしまたかし",
         "ライデンフィルム",
-        "动画",
         "原创",
         "地狱笑话",
         "坂本一也",
         "季番",
+        "恋爱",
+        "捏他",
         "搞笑",
         "日常",
         "日本",
@@ -12561,8 +12639,7 @@
         "短片",
         "第二期",
         "续作",
-        "键等",
-        "魁"
+        "键等"
       ],
       "infobox": [
         {
@@ -12958,11 +13035,11 @@
         "2022",
         "2022年",
         "2022年4月",
+        "2022春",
         "TMS",
         "TMSEntertainment",
         "TV",
         "WEB",
-        "【ANIME】TV丨日本",
         "トムス・エンタテインメント",
         "中村能子",
         "剧场版",
@@ -12972,6 +13049,7 @@
         "名探偵コナン",
         "安室透",
         "小坂知",
+        "悬疑",
         "推理",
         "搞笑",
         "日常",
@@ -12980,7 +13058,6 @@
         "林原惠",
         "柯南",
         "柯学",
-        "治愈",
         "泡面",
         "泡面番",
         "漫改",
@@ -13178,6 +13255,7 @@
         "2022",
         "2022年4月",
         "2022年7月",
+        "2023",
         "IG.Port",
         "OVA",
         "OVA-01",
@@ -13185,7 +13263,6 @@
         "ProductionI.G",
         "Production_I.G",
         "fmt.OVA",
-        "佐藤拓也",
         "动画",
         "可重温",
         "小林千晃",
@@ -13193,11 +13270,11 @@
         "弱6",
         "忧国的莫里亚蒂",
         "悬疑",
-        "憂国のモリアーティ",
         "推理",
         "无聊分7",
         "日本",
         "日本动画",
+        "洋风",
         "漫改",
         "漫画改",
         "犯罪",
@@ -13241,7 +13318,7 @@
         },
         {
           "key": "原作",
-          "value": "&lt;構成&gt;竹内良輔・&lt;漫画&gt;三好輝（集英社「ジャンプＳＱ.」連載）"
+          "value": "<構成>竹内良輔・<漫画>三好輝（集英社「ジャンプＳＱ.」連載）"
         },
         {
           "key": "导演",
@@ -13383,6 +13460,7 @@
         "2022.04",
         "2022年",
         "2022年4月",
+        "4月",
         "6",
         "OLM",
         "OLMTEAMOTA",
@@ -13391,9 +13469,10 @@
         "P.I.C.S.",
         "アニメ映画",
         "オー・エル・エム",
+        "中山裕美",
         "剧场版",
         "剧情",
-        "劇場版",
+        "动物",
         "动画电影",
         "原创",
         "奇巧计程车",
@@ -13402,13 +13481,11 @@
         "推理",
         "日本",
         "日本动画",
-        "映画",
         "木下麦",
         "此元和津也",
         "电影",
         "续作",
-        "群像",
-        "都市"
+        "群像"
       ],
       "infobox": [
         {
@@ -13543,6 +13620,7 @@
         "2020-2029",
         "2022",
         "2022年4月",
+        "2022春",
         "SUNRISE",
         "SUNRISEbeyond",
         "TV",
@@ -13563,7 +13641,6 @@
         "玻璃心",
         "电子垃圾",
         "科幻",
-        "篡改历史",
         "精日",
         "羽原信义",
         "羽原信義",
@@ -13889,6 +13966,7 @@
         "2022",
         "2022年",
         "2022年4月",
+        "2022春",
         "TV",
         "WITSTUDIO",
         "あおしまたかし",
@@ -13896,7 +13974,6 @@
         "偶像",
         "前田佳織里",
         "原创",
-        "喜剧",
         "太田雅彦",
         "奇幻",
         "富田美憂",
@@ -13913,9 +13990,9 @@
         "百合",
         "萌",
         "萌系",
+        "萌豚",
         "野崎結愛",
-        "青岛崇",
-        "鬼裤衩"
+        "青岛崇"
       ],
       "infobox": [
         {
@@ -14050,12 +14127,12 @@
       "name": "劇場版 Free!-the Final Stroke- 後編",
       "name_cn": "剧场版 Free!-the Final Stroke- 后篇",
       "tags": [
+        "2020",
         "2022",
         "2022年",
         "2022年4月",
         "Free!",
         "『剧场版』",
-        "おおじこうじ",
         "京都",
         "京都アニメーション",
         "京都动画",
@@ -14066,16 +14143,16 @@
         "剧场版",
         "动画电影",
         "原创",
+        "基",
         "基系",
-        "島﨑信長",
         "已保存",
         "日本",
         "校园",
         "横谷昌宏",
         "河浪栄作",
+        "河浪荣作",
         "游泳",
         "竞技",
-        "表外",
         "轻小说改",
         "轻改",
         "运动",
@@ -14366,7 +14443,6 @@
       "name": "ちいかわ",
       "name_cn": "吉伊卡哇",
       "tags": [
-        "1刷",
         "2022",
         "2022年4月",
         "22春",
@@ -14374,16 +14450,17 @@
         "TV",
         "ナガノ",
         "三原武憲",
-        "乳化",
-        "兄弟兄弟",
+        "剧集",
         "动画",
         "动画史上绝无仅有的神作",
         "动画工房",
         "動画工房",
-        "小不點",
+        "唐",
+        "子供向",
+        "小八我的小八！",
         "小澤亜李",
-        "我必须给我宝宝们打满分！！！！",
         "搞笑",
+        "新番",
         "日常",
         "日本",
         "日本动画",
@@ -14393,9 +14470,9 @@
         "漫改",
         "漫画改",
         "田中誠人",
-        "短视频",
         "萌",
-        "青木遥"
+        "青木遥",
+        "魔法"
       ],
       "infobox": [
         {
@@ -14433,6 +14510,10 @@
           "value": "フジテレビ系列"
         },
         {
+          "key": "音乐",
+          "value": "トクマルシューゴ"
+        },
+        {
           "key": "Copyright",
           "value": "©ナガノ/ちいかわ製作委員会"
         },
@@ -14443,10 +14524,6 @@
         {
           "key": "系列监督",
           "value": "三原武憲"
-        },
-        {
-          "key": "音乐",
-          "value": "トクマルシューゴ"
         },
         {
           "key": "设置设计",
@@ -14513,7 +14590,7 @@
           "value": "酒井夏海、菅生導、Root100、宗岡杏奈、福原佳奈、川上琢人"
         }
       ],
-      "total_episodes": 198,
+      "total_episodes": 218,
       "id": 354700,
       "eps": 0,
       "volumes": 0,
@@ -14592,12 +14669,12 @@
         "幾原邦彦",
         "总集篇",
         "意识流",
+        "日常",
         "日本",
-        "日本动画",
-        "木村昴",
         "桥本由香利",
         "橋本由香利",
         "武内宣之",
+        "生存战略",
         "电影",
         "续作"
       ],
@@ -15080,26 +15157,26 @@
         "基",
         "奇幻",
         "季番",
-        "屹青",
         "平田広明",
         "战斗",
         "日本动画",
         "机战",
         "森田成一",
         "津田健次郎",
+        "浪费时间",
         "热血",
         "特摄",
+        "狗尾续貂",
         "续作",
         "老虎和兔子",
         "耽美",
         "虎兔",
-        "西田征史",
-        "霸权"
+        "西田征史"
       ],
       "infobox": [
         {
           "key": "中文名",
-          "value": "TIGER &amp; BUNNY 第二季"
+          "value": "TIGER & BUNNY 第二季"
         },
         {
           "key": "别名",
@@ -15131,7 +15208,7 @@
         },
         {
           "key": "Copyright",
-          "value": "©BNP/T&amp;B PARTNERS"
+          "value": "©BNP/T&B PARTNERS"
         },
         {
           "key": "原作",
@@ -15711,7 +15788,7 @@
           "value": "石川達也、小林宏之、岡田康弘、佐藤允紀"
         },
         {
-          "key": "联合制片人",
+          "key": "副制片人",
           "value": "小仲渉平、山下花子"
         },
         {
@@ -15946,6 +16023,7 @@
       "name": "ULTRAMAN Season 2",
       "name_cn": "机动奥特曼 第二季",
       "tags": [
+        "2020s",
         "2022",
         "2022年",
         "2022年4月",
@@ -15965,7 +16043,6 @@
         "木村良平",
         "机动奥特曼",
         "机战",
-        "江口拓也",
         "漫改",
         "漫画改",
         "热血",
@@ -16022,7 +16099,7 @@
         },
         {
           "key": "主题歌演出",
-          "value": "NOILION / Void_Chords(高橋諒) feat. Ryohei &amp; Foggy-D"
+          "value": "NOILION / Void_Chords(高橋諒) feat. Ryohei & Foggy-D"
         },
         {
           "key": "主题歌作词",
@@ -16157,6 +16234,20 @@
           "relation": "续集",
           "type": 2,
           "id": 378504
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/f7/512363_7oHHG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/f7/512363_7oHHG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/02/f7/512363_7oHHG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/f7/512363_7oHHG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/f7/512363_7oHHG.jpg"
+          },
+          "name": "アニメ「ULTRAMAN」ULTRADIO",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 512363
         }
       ]
     }
@@ -16180,23 +16271,23 @@
       "tags": [
         "2022",
         "2022年4月",
+        "2024",
         "20年代",
-        "22春",
         "SHIN-EI",
-        "うえのきみこ",
         "えのきみこ",
         "ならはしみき",
         "アニメ映画",
+        "クレヨンしんちゃん",
         "シンエイ動画",
-        "久野遥子",
         "五分",
         "令人作噁",
         "剧场版",
         "动画",
+        "动画长片",
         "原创",
-        "宮崎慎二",
         "小林由美子",
         "强行催泪",
+        "情感",
         "拉跨",
         "搞笑",
         "日本",
@@ -16403,10 +16494,8 @@
         "2022",
         "2022年",
         "2022年4月",
-        "M25",
         "TMS",
         "TMSEntertainment",
-        "TMS_Entertainment",
         "V1studio",
         "トムス・エンタテインメント",
         "剧场版",
@@ -16417,6 +16506,7 @@
         "名侦探柯南",
         "名探偵コナン",
         "大倉崇裕",
+        "恋爱",
         "悬疑",
         "战斗",
         "推理",
@@ -16429,6 +16519,7 @@
         "漫改",
         "漫画改",
         "电影",
+        "科幻",
         "菅野祐悟"
       ],
       "infobox": [
@@ -16508,7 +16599,7 @@
         },
         {
           "key": "主题歌编曲",
-          "value": "BUMP OF CHICKEN &amp; MOR"
+          "value": "BUMP OF CHICKEN & MOR"
         }
       ],
       "total_episodes": 1,
@@ -17087,143 +17178,6 @@
           "relation": "续集",
           "type": 2,
           "id": 411977
-        }
-      ]
-    }
-  },
-  {
-    "title": "肥志百科 原来你是这样的美食",
-    "date": "2022-04-23",
-    "bangumi": {
-      "date": "2022-04-23",
-      "platform": "WEB",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/5b/376675_IFyvI.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/5b/376675_IFyvI.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/24/5b/376675_IFyvI.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/5b/376675_IFyvI.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/5b/376675_IFyvI.jpg"
-      },
-      "summary": "",
-      "name": "肥志百科 原来你是这样的美食",
-      "name_cn": "",
-      "tags": [
-        "2022年4月",
-        "6",
-        "WEB",
-        "中国",
-        "动画",
-        "国产",
-        "泡面番"
-      ],
-      "infobox": [
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "肥志百科 第五季"
-            }
-          ]
-        },
-        {
-          "key": "话数",
-          "value": "12"
-        },
-        {
-          "key": "放送开始",
-          "value": "2022年4月23日"
-        },
-        {
-          "key": "放送星期",
-          "value": "星期六"
-        },
-        {
-          "key": "导演",
-          "value": "肥志"
-        },
-        {
-          "key": "动画",
-          "value": "小铭、晶天、宵夜、辉辉、晨晨、小涵、卷卷、卓卓、周周、小玉、港港、阿冰、满满、小怡"
-        },
-        {
-          "key": "美术",
-          "value": "鹏鹏、球球、阿凡、阿乳、甜甜、蕊蕊、叶子、通通、小丁、柠柠、兜兜、大C、团子、航航、亮亮、瑶瑶、鸣鸣、小甜、洙洙、川川、火火、家家、好好、汤汤、詹詹、颖颖"
-        },
-        {
-          "key": "三维",
-          "value": "小雨、松松"
-        },
-        {
-          "key": "文案",
-          "value": "绵祺、小杰、蓝蓝、高高、阿貂、燕燕、蓓蓓"
-        },
-        {
-          "key": "音乐",
-          "value": "litterzy、包子、君君"
-        },
-        {
-          "key": "旁白",
-          "value": "C小调"
-        },
-        {
-          "key": "后勤",
-          "value": "澍澍"
-        },
-        {
-          "key": "出品",
-          "value": "萌想文化"
-        }
-      ],
-      "total_episodes": 12,
-      "id": 376675,
-      "eps": 12,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/75/30/349644_8riic.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/75/30/349644_8riic.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/75/30/349644_8riic.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/75/30/349644_8riic.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/75/30/349644_8riic.jpg"
-          },
-          "name": "肥志百科 原来你是这样的动物2",
-          "name_cn": "",
-          "relation": "前传",
-          "type": 2,
-          "id": 349644
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/d9/389538_PzzQQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/d9/389538_PzzQQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/d9/389538_PzzQQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/d9/389538_PzzQQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/d9/389538_PzzQQ.jpg"
-          },
-          "name": "肥志百科 原来你是这样的美食2",
-          "name_cn": "",
-          "relation": "续集",
-          "type": 2,
-          "id": 389538
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/ef/427891_P5JuJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/ef/427891_P5JuJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a0/ef/427891_P5JuJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/ef/427891_P5JuJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/ef/427891_P5JuJ.jpg"
-          },
-          "name": "肥志百科",
-          "name_cn": "",
-          "relation": "书籍",
-          "type": 1,
-          "id": 427891
         }
       ]
     }

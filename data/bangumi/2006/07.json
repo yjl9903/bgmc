@@ -25,9 +25,11 @@
         "▷未欣赏",
         "◇子供向",
         "东映",
+        "东映动画",
+        "动画",
         "单元剧",
-        "原创",
         "变身",
+        "喜剧",
         "子供向",
         "小学在ppt看了不止20遍",
         "幼女向",
@@ -36,7 +38,6 @@
         "日本",
         "日版",
         "有空再補1",
-        "東映",
         "東映アニメーション",
         "版权改",
         "番剧",
@@ -44,7 +45,6 @@
         "童年",
         "草尾毅",
         "飞天小女警",
-        "魔法",
         "魔法少女"
       ],
       "infobox": [
@@ -374,6 +374,7 @@
         "2006Q3",
         "2006年",
         "2006年7月",
+        "BB",
         "NOMAD",
         "TV",
         "ノーマッド",
@@ -391,7 +392,6 @@
         "斎藤桃子",
         "日常",
         "日本",
-        "枯燥",
         "治愈",
         "治愈系",
         "漫改",
@@ -758,6 +758,10 @@
         {
           "key": "制片人",
           "value": "堀内麻紀、市井美帆、松尾光広"
+        },
+        {
+          "key": "分镜",
+          "value": "鈴木洋平、二瓶勇一、上原秀明、柳沢テツヤ、福田道生、東海林真一、岩崎良明、佐々木皓一"
         }
       ],
       "total_episodes": 15,
@@ -2223,13 +2227,13 @@
         "2006年7月",
         "GAL",
         "GAL改",
-        "GET",
+        "TRINETENTERTAINMENT、云雀工作室",
         "TRINET_ENTERTAINMENT",
         "TV",
         "TrinetEntertainment",
+        "tv-s",
         "スタジオ雲雀",
         "中原麻衣",
-        "云雀studio",
         "五分",
         "井ノ上奈々",
         "南條愛乃",
@@ -2237,7 +2241,6 @@
         "大根",
         "娇蛮之吻",
         "子安武人",
-        "季番組",
         "山田靖智",
         "搞笑",
         "日本动画",
@@ -2246,7 +2249,8 @@
         "水樹奈々",
         "游戏改",
         "藤田咲",
-        "补番"
+        "补番",
+        "魔改"
       ],
       "infobox": [
         {
@@ -2396,13 +2400,12 @@
         "2006年7月",
         "ArtLand",
         "TV",
-        "TVA",
         "アニメ",
         "乙女向",
         "人渣诚",
         "僕等がいた",
-        "半年番",
         "大地丙太郎",
+        "女性向",
         "少女",
         "少女向",
         "少女漫",
@@ -2418,6 +2421,7 @@
         "爱情",
         "留白",
         "翻版",
+        "胃疼",
         "补番",
         "闷",
         "青春"
@@ -2993,7 +2997,6 @@
         "动画",
         "原创",
         "口袋妖怪",
-        "園田英樹",
         "奇幻",
         "宝可梦",
         "宠物小精灵",
@@ -3009,6 +3012,7 @@
         "热血",
         "神奇宝贝",
         "神奇寶貝",
+        "竞技",
         "童年",
         "精灵宝可梦",
         "经典"
@@ -3359,33 +3363,33 @@
         "2006",
         "2006夏",
         "2006年7月",
-        "BEE_MEDIA",
         "BL",
         "BeeMedia",
+        "Night",
         "TV",
-        "fmt.TV",
+        "psychological",
         "兄弟爱",
         "其实这片很纯洁(喂",
         "动画",
         "原创",
-        "基番",
+        "四星",
+        "奇幻",
         "女主暂缺",
+        "打鬥",
         "搅基拯救世界",
         "日本动画",
         "暗夜第六感",
+        "暗夜起源",
         "森川智之",
         "森石",
+        "比儿童文学纯洁多了",
         "石头",
         "石头总受不可逆",
         "石田彰",
         "耽美",
-        "耽美BL",
-        "能力",
-        "茉莉大爱",
         "补番",
         "超能力",
-        "超能力系",
-        "飯田譲治"
+        "超能力系"
       ],
       "infobox": [
         {
@@ -4270,6 +4274,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/67/4335_sV0Vz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/67/4335_sV0Vz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/67/4335_sV0Vz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/67/4335_sV0Vz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/67/4335_sV0Vz.jpg"
+          },
+          "name": "時をかける少女",
+          "name_cn": "穿越时空的少女",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 4335
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/30/9745_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/30/9745_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b4/30/9745_jp.jpg",
@@ -4281,6 +4299,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 5081
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/b1/182238_3z3l3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/b1/182238_3z3l3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2e/b1/182238_3z3l3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/b1/182238_3z3l3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/b1/182238_3z3l3.jpg"
+          },
+          "name": "時をかける少女",
+          "name_cn": "穿越时空的少女",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 182238
         },
         {
           "images": {
@@ -4312,34 +4344,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/b1/182238_3z3l3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/b1/182238_3z3l3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2e/b1/182238_3z3l3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/b1/182238_3z3l3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/b1/182238_3z3l3.jpg"
-          },
-          "name": "時をかける少女",
-          "name_cn": "穿越时空的少女",
-          "relation": "三次元",
-          "type": 6,
-          "id": 182238
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/67/4335_sV0Vz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/67/4335_sV0Vz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f1/67/4335_sV0Vz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/67/4335_sV0Vz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/67/4335_sV0Vz.jpg"
-          },
-          "name": "時をかける少女",
-          "name_cn": "穿越时空的少女",
-          "relation": "三次元",
-          "type": 6,
-          "id": 4335
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/a6/34934_y5E3y.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/a6/34934_y5E3y.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/fa/a6/34934_y5E3y.jpg",
@@ -4362,7 +4366,7 @@
           },
           "name": "時をかける少女",
           "name_cn": "穿越时空的少女",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 231568
         },
@@ -4376,7 +4380,7 @@
           },
           "name": "時をかける少女",
           "name_cn": "超越时空的少女",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 231567
         },
@@ -4390,7 +4394,7 @@
           },
           "name": "時をかける少女",
           "name_cn": "穿越时空的少女",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 231565
         }
@@ -4414,20 +4418,20 @@
       "name": "ブレイブ ストーリー",
       "name_cn": "勇者的故事",
       "tags": [
+        "2000s",
         "2006",
         "2006年",
         "6分",
         "GONZO",
-        "『剧场版』",
         "作画wiki推荐",
         "剧场版",
         "劇場版",
-        "劇場版1",
         "动画",
         "动画电影",
         "勇者的故事",
         "千明孝一",
         "千羽由利子",
+        "原画",
         "大河内一楼",
         "奇幻",
         "宫部美雪",
@@ -4435,6 +4439,7 @@
         "异世界",
         "日本",
         "日本动画电影",
+        "松隆子",
         "正太",
         "治愈",
         "浅语由利子",
@@ -4442,8 +4447,7 @@
         "漫画改",
         "独立剧场版",
         "珍藏",
-        "超自然系",
-        "非院线观看"
+        "超自然系"
       ],
       "infobox": [
         {

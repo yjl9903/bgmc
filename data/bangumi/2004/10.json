@@ -1008,6 +1008,10 @@
           "value": "星期二"
         },
         {
+          "key": "季数",
+          "value": "1"
+        },
+        {
           "key": "官方网站",
           "value": "www.marv.jp/special/school-rumble/anime01"
         },
@@ -1024,16 +1028,20 @@
           "value": "2005年3月29日"
         },
         {
+          "key": "导演",
+          "value": "高松信司"
+        },
+        {
+          "key": "音乐",
+          "value": "大森俊之"
+        },
+        {
           "key": "Copyright",
           "value": "©小林尽／講談社・マーベラスエンターテイメント・創通エージェンシー・テレビ東京"
         },
         {
           "key": "原作",
           "value": "小林尽"
-        },
-        {
-          "key": "导演",
-          "value": "高松信司"
         },
         {
           "key": "系列构成",
@@ -1054,10 +1062,6 @@
         {
           "key": "音响监督",
           "value": "たなかかずや"
-        },
-        {
-          "key": "音乐",
-          "value": "大森俊之"
         },
         {
           "key": "动画制作",
@@ -1332,6 +1336,7 @@
         "2004",
         "2004年",
         "2004年10月",
+        "2004秋",
         "TV",
         "TVA",
         "Telecom",
@@ -1356,7 +1361,6 @@
         "日本",
         "日本动画",
         "校园",
-        "水桥香织",
         "补番",
         "金春智子"
       ],
@@ -1826,9 +1830,9 @@
         "Miko",
         "TNK",
         "TV",
-        "TVA",
         "ティー・エヌ・ケー",
         "奇幻",
+        "季番",
         "川澄綾子",
         "川澄绫子",
         "巫女",
@@ -2298,7 +2302,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -2557,17 +2561,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/1d/10136_Y8m5Y.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/1d/10136_Y8m5Y.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/29/1d/10136_Y8m5Y.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/1d/10136_Y8m5Y.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/1d/10136_Y8m5Y.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/43/63/14535_F52sL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/43/63/14535_F52sL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/43/63/14535_F52sL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/43/63/14535_F52sL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/63/14535_F52sL.jpg"
           },
-          "name": "スーパーロボット大戦L",
-          "name_cn": "超级机器人大战L",
+          "name": "第2次スーパーロボット大戦Z 破界篇",
+          "name_cn": "第2次超级机器人大战Z 破界篇",
           "relation": "游戏",
           "type": 4,
-          "id": 10136
+          "id": 14535
         },
         {
           "images": {
@@ -2767,17 +2771,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/43/63/14535_F52sL.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/43/63/14535_F52sL.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/43/63/14535_F52sL.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/43/63/14535_F52sL.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/43/63/14535_F52sL.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/1d/10136_Y8m5Y.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/1d/10136_Y8m5Y.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/1d/10136_Y8m5Y.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/1d/10136_Y8m5Y.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/1d/10136_Y8m5Y.jpg"
           },
-          "name": "第2次スーパーロボット大戦Z 破界篇",
-          "name_cn": "第2次超级机器人大战Z 破界篇",
+          "name": "スーパーロボット大戦L",
+          "name_cn": "超级机器人大战L",
           "relation": "游戏",
           "type": 4,
-          "id": 14535
+          "id": 10136
         },
         {
           "images": {
@@ -2890,6 +2894,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 58409
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/d9/64284_BiRXr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/d9/64284_BiRXr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/32/d9/64284_BiRXr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/d9/64284_BiRXr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/d9/64284_BiRXr.jpg"
+          },
+          "name": "ヒーローズバーサス",
+          "name_cn": "英雄VS",
+          "relation": "游戏",
+          "type": 4,
+          "id": 64284
         },
         {
           "images": {
@@ -3414,7 +3432,6 @@
         "LOLI",
         "SHAFT",
         "TV",
-        "TVA",
         "ネコミミ",
         "叶月",
         "吸血鬼",
@@ -3437,7 +3454,8 @@
         "神谷浩史",
         "萌",
         "萝莉",
-        "补番"
+        "补番",
+        "鈴木利正"
       ],
       "infobox": [
         {
@@ -4140,6 +4158,7 @@
         "BECK",
         "MADHouse",
         "TV",
+        "TVA",
         "anime",
         "乐队",
         "剧情",
@@ -4152,7 +4171,6 @@
         "少年",
         "摇滚",
         "日本",
-        "梅津泰臣",
         "漫改",
         "漫画改",
         "眯眯眼阿櫻",
@@ -7134,11 +7152,11 @@
         "studiodeen",
         "tactics",
         "アニメ",
-        "动画",
         "基",
         "奇幻",
         "妖怪",
         "宮田幸季",
+        "川上とも子",
         "抓鬼天狗帮",
         "春华",
         "曖昧",
@@ -7301,11 +7319,11 @@
         "新房昭之",
         "水树",
         "水树奈奈",
-        "水樹奈々",
         "治愈系",
         "田村",
         "田村ゆかり",
         "百合",
+        "科幻",
         "菲特",
         "萌王",
         "萝莉",
@@ -7350,19 +7368,31 @@
           "value": "2004年12月24日"
         },
         {
-          "key": "原作",
-          "value": "都築真紀／ivory"
-        },
-        {
           "key": "导演",
           "value": "新房昭之"
         },
         {
-          "key": "脚本",
-          "value": "都築真紀"
+          "key": "音乐",
+          "value": "佐野広明"
+        },
+        {
+          "key": "原作",
+          "value": "都築真紀／ivory"
+        },
+        {
+          "key": "监修",
+          "value": "田中辰弥"
+        },
+        {
+          "key": "人物设定",
+          "value": "奥田泰弘"
         },
         {
           "key": "美术监督",
+          "value": "片平真司"
+        },
+        {
+          "key": "美术设计",
           "value": "片平真司"
         },
         {
@@ -7370,8 +7400,68 @@
           "value": "田崎智子"
         },
         {
-          "key": "人物设定",
+          "key": "摄影监督",
+          "value": "森下成一"
+        },
+        {
+          "key": "剪辑",
+          "value": "関一彦"
+        },
+        {
+          "key": "道具设计",
+          "value": "斉藤良成"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "斉藤良成"
+        },
+        {
+          "key": "音响监督",
+          "value": "亀山俊樹"
+        },
+        {
+          "key": "执行制片人",
+          "value": "田中勇"
+        },
+        {
+          "key": "制片人",
+          "value": "三嶋章夫"
+        },
+        {
+          "key": "动画制片人",
+          "value": "上村修"
+        },
+        {
+          "key": "动画制作",
+          "value": "Seven Arcs"
+        },
+        {
+          "key": "製作",
+          "value": "なのはPROJECT"
+        },
+        {
+          "key": "脚本",
+          "value": "都築真紀"
+        },
+        {
+          "key": "分镜",
+          "value": "一分寸僚安(1)、田所修(2,8,10,11)、小寺勝之(3,5,6,9,12,13)、阿部雅司(4,7)"
+        },
+        {
+          "key": "演出",
+          "value": "草川啓造(1,11)、秋田谷典昭(2)、守田芸成(3)、阿部雅司(4,7)、斉藤良成(5,12)、上坪亮樹(6,9,13)、西山明樹彦(8)、中山岳洋(10)"
+        },
+        {
+          "key": "作画监督",
+          "value": "奥田泰弘、田中ちゆき、高梨光、大田和寛、斉藤良成、高鉾誠、友岡新平、中山岳洋、金子誠、水上ろんど"
+        },
+        {
+          "key": "总作画监督",
           "value": "奥田泰弘"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "新房昭之（OP）、鈴木博文（ED）"
         }
       ],
       "total_episodes": 14,
@@ -7946,7 +8036,6 @@
         "动画",
         "医学",
         "医生",
-        "单元剧",
         "吉村元希",
         "奇幻",
         "怪医黑杰克",
@@ -7960,6 +8049,7 @@
         "治愈",
         "漫改",
         "漫画改",
+        "热血",
         "燃",
         "科幻",
         "童年",
@@ -8348,6 +8438,7 @@
         "少年",
         "日本",
         "日本动画",
+        "日画",
         "木村亜希子",
         "比嘉久美子",
         "水橋かおり",
@@ -8684,6 +8775,7 @@
         "2004年10月",
         "2004年秋季番",
         "2004秋",
+        "6.5-7",
         "B站",
         "GONZO",
         "SF",
@@ -8692,9 +8784,8 @@
         "fmt.TV",
         "动画",
         "半年番組",
-        "喜剧",
-        "废土",
         "待補1",
+        "御姐",
         "搞笑",
         "斋藤千和",
         "日本",
@@ -8916,11 +9007,11 @@
       "date": "2004-10-14",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/7b/7991_04MUe.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/7b/7991_04MUe.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/ef/7b/7991_04MUe.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/7b/7991_04MUe.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/7b/7991_04MUe.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/7b/7991_DT8qH.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/7b/7991_DT8qH.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ef/7b/7991_DT8qH.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/7b/7991_DT8qH.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/7b/7991_DT8qH.jpg"
       },
       "summary": "       战国世纪是一个崇尚暴力，一切都要靠战斗来解决的时代，擅长使用火枪的强者被称作“闪士”。为了天子大人所教导的终极战法，琉朱菜开始了旅行。少女天道琉朱菜是一个拥有天才射击能力以及武学智慧的战士，她的实力远远超过一般的闪士，因此被称作“歼灭闪士”。陪伴在天道身边的是一位名叫虎岛弥次郎的少年武士。虽然她的武器只有一把看似落后于时代的六发左轮手枪，但是却一次次的战胜持有更强武器的敌人。两人一步步朝着目的地‘天都’前进。。。\r\n\r\n　　天道琉朱菜 高桥美佳子\r\n　　虎岛弥次郎 中井和哉\r\n　　天子 本多知惠子\r\n　　红みかん 松冈由贵\r\n　　红桃华 小菅真美\r\n　　道化师 中田和宏\r\n　　琴 永井のあ\r\n",
       "name": "グレネーダー ~ほほえみの閃士~",
@@ -9111,7 +9202,7 @@
           "value": "2004年12月26日"
         }
       ],
-      "total_episodes": 13,
+      "total_episodes": 17,
       "id": 31034,
       "eps": 13,
       "volumes": 0,
@@ -9161,6 +9252,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 193857
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/bd/513115_fKWU0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/bd/513115_fKWU0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/bd/513115_fKWU0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/bd/513115_fKWU0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/bd/513115_fKWU0.jpg"
+          },
+          "name": "アニメ「W～ウィッシュ～」サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 513115
         }
       ]
     }
@@ -9289,7 +9394,6 @@
       "name_cn": "魔法娜娜咪",
       "tags": [
         "子供向",
-        "时事热点",
         "补"
       ],
       "infobox": [
@@ -9834,7 +9938,7 @@
         },
         {
           "key": "动画制作",
-          "value": "GONZO、アニメーション共同制作：GONZO、G&amp;G ENTERTAINMENT"
+          "value": "GONZO、アニメーション共同制作：GONZO、G&G ENTERTAINMENT"
         },
         {
           "key": "製作",

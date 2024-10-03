@@ -143,7 +143,9 @@
         "一騎当千",
         "一骑当千",
         "三国",
+        "动画",
         "卖肉",
+        "吉岡たかを",
         "失禁片",
         "奇幻",
         "战斗",
@@ -152,6 +154,7 @@
         "日本",
         "日本动画",
         "校园",
+        "格斗",
         "浅野真澄",
         "渡部高志",
         "漫改",
@@ -161,10 +164,7 @@
         "百合",
         "福利",
         "肉",
-        "肉番",
-        "节操社",
-        "补标",
-        "，战斗，三国"
+        "肉番"
       ],
       "infobox": [
         {
@@ -406,6 +406,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 237642
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/be/450504_iWdvx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/be/450504_iWdvx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1f/be/450504_iWdvx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1f/be/450504_iWdvx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/be/450504_iWdvx.jpg"
+          },
+          "name": "戦国†恋姫オンラインX ～奥宴新史～",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 450504
         }
       ]
     }
@@ -585,7 +599,6 @@
         "〜ダ・カーポ〜",
         "七尾奈留",
         "初音岛",
-        "动画",
         "半年番",
         "后宫",
         "堀江由衣",
@@ -596,6 +609,7 @@
         "日本动画",
         "校园",
         "游戏改",
+        "游改",
         "田村ゆかり",
         "白河",
         "纠结",
@@ -647,17 +661,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/00/78237_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/00/78237_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3a/00/78237_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/00/78237_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/00/78237_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/f4/78251_SDh3V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/f4/78251_SDh3V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/05/f4/78251_SDh3V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/f4/78251_SDh3V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/f4/78251_SDh3V.jpg"
           },
-          "name": "D.C.~ダ・カーポ~キャラクターイメージソング VOL.3",
+          "name": "ラジオ「D.C.~ダ・カーポ~初音島放送局」CD",
           "name_cn": "",
-          "relation": "角色歌",
+          "relation": "广播剧",
           "type": 3,
-          "id": 78237
+          "id": 78251
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/67/510355_VqMDD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/67/510355_VqMDD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/67/510355_VqMDD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/67/510355_VqMDD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/67/510355_VqMDD.jpg"
+          },
+          "name": "CIRCUS 10th Collect",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 510355
         },
         {
           "images": {
@@ -829,20 +857,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/f4/78251_SDh3V.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/f4/78251_SDh3V.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/05/f4/78251_SDh3V.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/f4/78251_SDh3V.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/f4/78251_SDh3V.jpg"
-          },
-          "name": "ラジオ「D.C.~ダ・カーポ~初音島放送局」CD",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 78251
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/0a/2680_kIngj.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/0a/2680_kIngj.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/22/0a/2680_kIngj.jpg",
@@ -854,6 +868,20 @@
           "relation": "续集",
           "type": 2,
           "id": 2680
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/00/78237_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/00/78237_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/00/78237_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/00/78237_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/00/78237_jp.jpg"
+          },
+          "name": "D.C.~ダ・カーポ~キャラクターイメージソング VOL.3",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 78237
         },
         {
           "images": {
@@ -1446,14 +1474,15 @@
         "スタジオ雲雀",
         "云雀工作室",
         "井上喜久子",
-        "动画",
         "原创",
         "后宫",
         "園崎未恵",
+        "奇幻",
         "季番組",
         "年上",
         "怀旧",
         "搞笑",
+        "教师",
         "日本",
         "木村亜希子",
         "校园",
@@ -1462,7 +1491,6 @@
         "水树奈奈",
         "水樹奈々",
         "特殊企划",
-        "神作",
         "老师",
         "补番",
         "鈴木行"
@@ -1568,7 +1596,6 @@
         "小说改",
         "待補1",
         "日本动画",
-        "未分類",
         "机器人",
         "浪川大輔",
         "科幻",
@@ -1760,6 +1787,7 @@
         "三角关系",
         "中原麻衣",
         "井出安軌",
+        "井出安轨",
         "原创",
         "双子",
         "双飞",
@@ -1771,7 +1799,6 @@
         "拜托了双子星",
         "日常",
         "校园",
-        "清水愛",
         "清水爱",
         "田村ゆかり",
         "童夢",
@@ -2029,15 +2056,16 @@
       "tags": [
         "2003",
         "2003年7月",
+        "5(0)",
+        "6分",
         "GAL改",
         "SHAFT",
         "TV",
-        "~2006",
+        "TVA",
         "不到7分",
         "中原麻衣",
         "动画",
         "卖肉",
-        "季番",
         "扭腰歌出处",
         "日本",
         "时间系",
@@ -2046,17 +2074,16 @@
         "治愈",
         "浅野真澄",
         "游戏改",
+        "游改",
         "福利",
         "肉",
         "肉番",
         "花田十輝",
         "花田十辉",
-        "萌",
         "萌风格",
         "蒲公英",
         "补番",
-        "門脇舞",
-        "黑暗料理"
+        "门协舞"
       ],
       "infobox": [
         {
@@ -2193,11 +2220,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/69/396018_1Omvo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/69/396018_1Omvo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/69/396018_1Omvo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/69/396018_1Omvo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/69/396018_1Omvo.jpg"
           },
           "name": "ぽぽたん",
           "name_cn": "蒲公英",
@@ -2237,10 +2264,11 @@
         "体育",
         "剧场",
         "剧场版",
+        "动画",
         "动画电影",
         "励志",
         "大泉洋",
-        "小池栄子",
+        "日本",
         "日本动画",
         "映画",
         "本多俊之",
@@ -2248,7 +2276,6 @@
         "漫改",
         "漫画改",
         "热血",
-        "独立剧场版",
         "竞技",
         "自行车",
         "茄子",
@@ -2441,7 +2468,7 @@
           "value": "大島ミチル"
         },
         {
-          "key": "企画&amp;制作&amp;发行",
+          "key": "企画&制作&发行",
           "value": "桂壮三郎"
         },
         {
@@ -2822,6 +2849,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/5c/27781_7kdFF.jpg"
+          },
+          "name": "おどるポケモンひみつ基地",
+          "name_cn": "精灵宝可梦的跳舞秘密基地",
+          "relation": "其他",
+          "type": 2,
+          "id": 27781
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/43/98735_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/43/98735_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/34/43/98735_jp.jpg",
@@ -2856,15 +2897,15 @@
     "date": "2003-07-19",
     "bangumi": {
       "date": "2003-07-19",
-      "platform": "OVA",
+      "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/5c/27781_bAL18.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/5c/27781_bAL18.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/2f/5c/27781_bAL18.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/5c/27781_bAL18.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/5c/27781_bAL18.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/5c/27781_7kdFF.jpg"
       },
-      "summary": "火箭队的秘密基地终于完成了。被武藏和小次郎任命看家的喵喵为了让坂木老大开心，就用魔力妞妞棒强迫咕妞妞练习跳舞，还把它们关在一个铁笼里。皮卡丘和大家看见了，决定去拯救咕妞妞，却不巧被喵喵发现了！就在一阵混乱中，魔力妞妞棒不小心被喵喵开启了。咦？所有的宝可梦都不由自主的随著波尔卡旋律而跳起舞来！本来为了迎接坂木老大而装扮得漂漂亮亮的秘密基地，就这样被皮卡丘与喵喵它们，一边跳舞，一边被破坏到没天没地。这场疯狂笑剧的结果会如何呢…？",
+      "summary": "お馴染み、ピカチュウとその仲間たちが繰り広げる騒動を描いた短篇ジュブナイル・アニメーション。監督は「ピカ★ピカ星空キャンプ」の湯山邦彦。田尻智、増田順一、杉森建による原案を基に、「ピカ★ピカ星空キャンプ」の大橋志吉が脚本を執筆。撮影監督に浅田裕二があたっている。声の出演に「名探偵コナン　迷宮の十字架」の大谷育江、「ピカ★ピカ星空キャンプ」の犬山犬子、ナレーターとして「明日があるさ」の山田花子が参加している。尚、本作は「劇場版　ポケットモンスター　アドバンスジェネレーション　七夜の願い星　ジラーチ」の併映短篇として公開された。",
       "name": "おどるポケモンひみつ基地",
       "name_cn": "精灵宝可梦的跳舞秘密基地",
       "tags": [
@@ -2885,6 +2926,7 @@
         "子供向",
         "宝可梦",
         "岩根雅明",
+        "日本",
         "日本动画",
         "林原惠美",
         "汤山邦彦",
@@ -2914,20 +2956,16 @@
           ]
         },
         {
+          "key": "上映年度",
+          "value": "2003年7月19日"
+        },
+        {
+          "key": "片长",
+          "value": "23分"
+        },
+        {
           "key": "话数",
           "value": "1"
-        },
-        {
-          "key": "发售日",
-          "value": "2003-07-19"
-        },
-        {
-          "key": "开始",
-          "value": "2003-07-19"
-        },
-        {
-          "key": "结束",
-          "value": "2003-07-19"
         },
         {
           "key": "导演",
@@ -3043,11 +3081,25 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/d6/27780_GN5CD.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/d6/27780_GN5CD.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a9/d6/27780_GN5CD.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/d6/27780_GN5CD.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/d6/27780_GN5CD.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/22/3027_aZq21.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/22/3027_aZq21.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b9/22/3027_aZq21.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/22/3027_aZq21.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/22/3027_aZq21.jpg"
+          },
+          "name": "劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ",
+          "name_cn": "剧场版 精灵宝可梦 超世代 七夜的许愿星 基拉祈",
+          "relation": "其他",
+          "type": 2,
+          "id": 3027
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/d6/27780_JPGN8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/d6/27780_JPGN8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/d6/27780_JPGN8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/d6/27780_JPGN8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/d6/27780_JPGN8.jpg"
           },
           "name": "ピカピカ星空キャンプ",
           "name_cn": "皮卡皮卡的星空露营",
@@ -3395,6 +3447,20 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/4c/3019_FfZq3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/4c/3019_FfZq3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a7/4c/3019_FfZq3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/4c/3019_FfZq3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/4c/3019_FfZq3.jpg"
+          },
+          "name": "ポケットモンスター",
+          "name_cn": "精灵宝可梦",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 3019
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/86/90012_v2ico.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/86/90012_v2ico.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/86/86/90012_v2ico.jpg",
@@ -3586,7 +3652,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050

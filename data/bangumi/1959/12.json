@@ -86,7 +86,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/e2/515829_7IbbA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/e2/515829_7IbbA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3d/e2/515829_7IbbA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/e2/515829_7IbbA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/e2/515829_7IbbA.jpg"
+          },
+          "name": "猿飛佐助 / おゆうの唄",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 515829
+        }
+      ]
     }
   }
 ]

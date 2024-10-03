@@ -26,6 +26,7 @@
         "TVB",
         "pokemon",
         "冒险",
+        "原创",
         "口袋妖怪",
         "大谷育江",
         "奇幻",
@@ -33,7 +34,6 @@
         "宠物小精灵",
         "战斗",
         "日高政光",
-        "松本梨香",
         "汤山邦彦",
         "游戏改",
         "热血",
@@ -101,6 +101,14 @@
           "value": "2006年9月14日"
         },
         {
+          "key": "导演",
+          "value": "日高政光(1-158)→須藤典彦(171,172,174-192)"
+        },
+        {
+          "key": "音乐",
+          "value": "宮崎慎二"
+        },
+        {
           "key": "原案",
           "value": "田尻智、増田順一、杉森建"
         },
@@ -109,7 +117,7 @@
           "value": "总监：石原恒和 || 动画监修：小田部羊一"
         },
         {
-          "key": "联合制片人",
+          "key": "制作助理",
           "value": "吉川兆二"
         },
         {
@@ -119,10 +127,6 @@
         {
           "key": "总导演",
           "value": "湯山邦彦"
-        },
-        {
-          "key": "导演",
-          "value": "日高政光(1-158)→須藤典彦(171,172,174-192)"
         },
         {
           "key": "人物设定",
@@ -147,10 +151,6 @@
         {
           "key": "剪辑",
           "value": "辺見俊夫"
-        },
-        {
-          "key": "音乐",
-          "value": "宮崎慎二"
         },
         {
           "key": "音响监督",
@@ -204,17 +204,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/0c/49063_OqOgv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/0c/49063_OqOgv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ad/0c/49063_OqOgv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/0c/49063_OqOgv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/0c/49063_OqOgv.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/f6/90610_3cpd0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/f6/90610_3cpd0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/f6/90610_3cpd0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/f6/90610_3cpd0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/f6/90610_3cpd0.jpg"
           },
-          "name": "週刊ポケモン放送局",
-          "name_cn": "周刊精灵宝可梦放送局",
+          "name": "ピカチュウのなつまつり",
+          "name_cn": "皮卡丘的夏日祭典",
           "relation": "衍生",
           "type": 2,
-          "id": 49063
+          "id": 90610
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/39/510006_r98B0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/39/510006_r98B0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c2/39/510006_r98B0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/39/510006_r98B0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/39/510006_r98B0.jpg"
+          },
+          "name": "ポケットモンスターアドバンスジェネレーション プラネタリウム 天空からの挑戦",
+          "name_cn": "宝可梦超世代：天文馆来自天空的挑战",
+          "relation": "衍生",
+          "type": 2,
+          "id": 510006
         },
         {
           "images": {
@@ -280,7 +294,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/7e/118320_4ImlM.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/7e/118320_4ImlM.jpg"
           },
-          "name": "バトルフロンティア",
+          "name": "バトルフロンティア / ポケモンかぞえうた",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -308,7 +322,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/b9/113356_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/b9/113356_jp.jpg"
           },
-          "name": "スパート!",
+          "name": "スパート! / 私、負けない! ~ハルカのテーマ~",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -358,20 +372,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/f6/90610_3cpd0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/f6/90610_3cpd0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a1/f6/90610_3cpd0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/f6/90610_3cpd0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/f6/90610_3cpd0.jpg"
-          },
-          "name": "ピカチュウのなつまつり",
-          "name_cn": "皮卡丘的夏日祭典",
-          "relation": "衍生",
-          "type": 2,
-          "id": 90610
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/84/700_mrMcr.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/84/700_mrMcr.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/e5/84/700_mrMcr.jpg",
@@ -383,6 +383,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 700
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/0c/49063_OqOgv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/0c/49063_OqOgv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ad/0c/49063_OqOgv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/0c/49063_OqOgv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/0c/49063_OqOgv.jpg"
+          },
+          "name": "週刊ポケモン放送局",
+          "name_cn": "周刊精灵宝可梦放送局",
+          "relation": "衍生",
+          "type": 2,
+          "id": 49063
         },
         {
           "images": {
@@ -400,11 +414,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/5c/27781_bAL18.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/5c/27781_bAL18.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2f/5c/27781_bAL18.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/5c/27781_bAL18.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/5c/27781_bAL18.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/5c/27781_7kdFF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/5c/27781_7kdFF.jpg"
           },
           "name": "おどるポケモンひみつ基地",
           "name_cn": "精灵宝可梦的跳舞秘密基地",
@@ -544,10 +558,12 @@
       "name": "PIANO",
       "name_cn": "钢琴恋曲",
       "tags": [
+        "2000s",
         "2002",
         "2002年",
         "2002年11月",
         "2002秋",
+        "6(+1)",
         "OLM",
         "TV",
         "TVA",
@@ -887,7 +903,9 @@
         "平野俊貴",
         "日本动画",
         "會川昇",
-        "机战"
+        "机战",
+        "老番",
+        "萝卜"
       ],
       "infobox": [
         {
@@ -982,7 +1000,6 @@
         "子安武人",
         "日本动画",
         "旧物",
-        "时事热点",
         "热血",
         "经典",
         "関智一"
@@ -1082,7 +1099,7 @@
       "tags": [
         "2002",
         "AIC",
-        "robo",
+        "ROBO",
         "アニメ映画",
         "剧场版",
         "劇場版アニメ",

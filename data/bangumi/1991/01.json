@@ -16,11 +16,13 @@
       "name": "きんぎょ注意報!",
       "name_cn": "娱乐金鱼眼",
       "tags": [
+        "1990s",
         "1991",
         "1991年",
         "1991年1月",
-        "1991年一月番",
         "3话",
+        "4クール",
+        "90s",
         "TV",
         "TVA",
         "TVB",
@@ -32,7 +34,6 @@
         "入好さとる",
         "几原邦彦",
         "动",
-        "娱乐金鱼眼",
         "宫千岁",
         "搞笑",
         "日本",
@@ -42,7 +43,6 @@
         "漫画改",
         "童年",
         "赛璐珞",
-        "飛田展男",
         "高田由美",
         "魔力小金鱼"
       ],
@@ -223,7 +223,36 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/f8/511197_8t8U4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/f8/511197_8t8U4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/f8/511197_8t8U4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/f8/511197_8t8U4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/f8/511197_8t8U4.jpg"
+          },
+          "name": "勉強の歌 / この街 (HOME MIX)",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 511197
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/bf/511203_In287.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/bf/511203_In287.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/62/bf/511203_In287.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/bf/511203_In287.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/bf/511203_In287.jpg"
+          },
+          "name": "八月の恋",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 511203
+        }
+      ]
     }
   },
   {

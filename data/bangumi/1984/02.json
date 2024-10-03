@@ -24,6 +24,7 @@
         "ぴえろ",
         "やまざきかずお",
         "剧场版",
+        "动画电影",
         "奇幻",
         "小丑社",
         "小林七郎",
@@ -42,7 +43,6 @@
         "电影",
         "福星小子",
         "经典",
-        "西村純二",
         "西村纯二",
         "轮回",
         "高桥留美子"
@@ -191,6 +191,7 @@
       "name_cn": "超攻速加尔比安",
       "tags": [
         "1984",
+        "1984年2月",
         "80",
         "80s",
         "TV",
@@ -281,6 +282,7 @@
       "name_cn": "重战机艾尔盖姆",
       "tags": [
         "1980-1989",
+        "1980s",
         "1984",
         "1984年",
         "1984年2月",
@@ -291,8 +293,8 @@
         "80年代",
         "SUNRISE",
         "TV",
+        "robo",
         "サンライズ",
-        "ロボットアニメ",
         "动画",
         "北爪宏幸",
         "原创",
@@ -305,11 +307,10 @@
         "永野护",
         "永野護",
         "渡辺由自",
-        "湖川友谦",
         "科幻",
         "萝卜",
-        "電視",
-        "青梅竹马"
+        "赛璐珞",
+        "電視"
       ],
       "infobox": [
         {
@@ -380,17 +381,59 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/76/303894_xG6l8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/76/303894_xG6l8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7d/76/303894_xG6l8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/76/303894_xG6l8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/76/303894_xG6l8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/2c/333343_q3a3i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/2c/333343_q3a3i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/2c/333343_q3a3i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/2c/333343_q3a3i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/2c/333343_q3a3i.jpg"
           },
-          "name": "サンライズ 英雄譚3",
-          "name_cn": "日升英雄谭3",
-          "relation": "游戏",
-          "type": 4,
-          "id": 303894
+          "name": "PONY METAL U-GAIM PROMOTION FILM",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 2,
+          "id": 333343
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/3c/508860_XqqiX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/3c/508860_XqqiX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f7/3c/508860_XqqiX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/3c/508860_XqqiX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/3c/508860_XqqiX.jpg"
+          },
+          "name": "重戦機エルガイム大図鑑",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 508860
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/76/508859_TJd50.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/76/508859_TJd50.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a5/76/508859_TJd50.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/76/508859_TJd50.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/76/508859_TJd50.jpg"
+          },
+          "name": "重戦機エルガイム ヘビーメタル完全設定資料集",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 508859
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/89/508855_oVwfw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/89/508855_oVwfw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/89/508855_oVwfw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/89/508855_oVwfw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/89/508855_oVwfw.jpg"
+          },
+          "name": "重戦機エルガイム大全",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 508855
         },
         {
           "images": {
@@ -534,20 +577,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/2c/333343_q3a3i.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/2c/333343_q3a3i.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f9/2c/333343_q3a3i.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/2c/333343_q3a3i.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/2c/333343_q3a3i.jpg"
-          },
-          "name": "PONY METAL U-GAIM PROMOTION FILM",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 2,
-          "id": 333343
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/56/7828_sMXFL.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/56/7828_sMXFL.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/9f/56/7828_sMXFL.jpg",
@@ -559,6 +588,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 7828
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/76/303894_xG6l8.jpg"
+          },
+          "name": "サンライズ 英雄譚3",
+          "name_cn": "日升英雄谭3",
+          "relation": "游戏",
+          "type": 4,
+          "id": 303894
         },
         {
           "images": {
@@ -667,7 +710,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050

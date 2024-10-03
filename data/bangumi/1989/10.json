@@ -183,6 +183,8 @@
         "TV",
         "studiodeen",
         "乱马",
+        "井上喜久子",
+        "动画",
         "后宫",
         "奇幻",
         "女装",
@@ -190,7 +192,6 @@
         "川井宪次",
         "性转",
         "恋爱",
-        "恋爱喜剧",
         "战斗",
         "搞笑",
         "日常",
@@ -204,7 +205,6 @@
         "经典",
         "芝山努",
         "西村純二",
-        "西村纯二",
         "长篇",
         "高桥留美子"
       ],
@@ -526,6 +526,7 @@
         "以柔克刚",
         "年番&大长篇",
         "恋爱",
+        "想看系列",
         "日番",
         "旧物",
         "时田广子",
@@ -534,7 +535,6 @@
         "浦沢直樹",
         "漫画改",
         "皆口裕子",
-        "神谷明",
         "老动画",
         "老物",
         "草尾毅",
@@ -730,7 +730,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/07/78718_E783V.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/07/78718_E783V.jpg"
           },
-          "name": "YAWARA！ エンディングテーマ いつもそこに君がいた",
+          "name": "いつもそこに君がいた",
           "name_cn": "",
           "relation": "片尾曲",
           "type": 3,
@@ -777,6 +777,48 @@
           "relation": "片头曲",
           "type": 3,
           "id": 473437
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/d6/514955_0iPjB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/d6/514955_0iPjB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a6/d6/514955_0iPjB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/d6/514955_0iPjB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/d6/514955_0iPjB.jpg"
+          },
+          "name": "スタンド・バイ・ミー",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 514955
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/ba/514958_9PpLu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/ba/514958_9PpLu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c0/ba/514958_9PpLu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/ba/514958_9PpLu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/ba/514958_9PpLu.jpg"
+          },
+          "name": "YOU AND I",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 514958
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/90/514959_CKCfp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/90/514959_CKCfp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d4/90/514959_CKCfp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/90/514959_CKCfp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/90/514959_CKCfp.jpg"
+          },
+          "name": "笑顔を探して",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 514959
         }
       ]
     }
@@ -800,6 +842,7 @@
       "tags": [
         "1980-1989",
         "1989",
+        "2000年前",
         "80年代",
         "TV",
         "TVA",
@@ -807,6 +850,7 @@
         "不太记得剧情系列",
         "儿时回忆",
         "冲刺流星",
+        "动",
         "动画",
         "四驱小子",
         "四驱车",
@@ -819,11 +863,9 @@
         "漫改",
         "漫画改",
         "热血",
-        "玄田哲章",
         "竞技",
         "童年",
         "童年T",
-        "童年的经典",
         "笹川ひろし",
         "舞蹈天使",
         "野沢雅子",
@@ -939,12 +981,12 @@
         "TV",
         "TVA",
         "伊藤和典",
-        "出渕裕",
         "原创",
         "吉永尚之",
         "川井宪次",
         "川井憲次",
         "年番",
+        "战斗",
         "押井守",
         "搞笑",
         "日本",
@@ -996,19 +1038,83 @@
         },
         {
           "key": "原作",
-          "value": "ヘッドギア"
+          "value": "ヘッドギア（「週刊少年サンデー」連載中）"
         },
         {
           "key": "导演",
           "value": "吉永尚之"
         },
         {
-          "key": "客席机械设定",
-          "value": "佐山善則"
+          "key": "系列构成",
+          "value": "伊藤和典"
         },
         {
           "key": "人物设定",
           "value": "高田明美"
+        },
+        {
+          "key": "机械设定",
+          "value": "出渕裕 协力：佐山善則"
+        },
+        {
+          "key": "音乐",
+          "value": "川井憲次"
+        },
+        {
+          "key": "美术监督",
+          "value": "渋谷幸弘"
+        },
+        {
+          "key": "摄影监督",
+          "value": "奥井敦"
+        },
+        {
+          "key": "录音",
+          "value": "浅梨なおこ"
+        },
+        {
+          "key": "剪辑",
+          "value": "鶴渕友彰（鶴渕映画）"
+        },
+        {
+          "key": "制片人",
+          "value": "堀越徹（日本テレビ）、石川清司（読売広告社）、鵜之沢伸（バンダイ）、鳥沢真二（東北新社）、明石渉（東北新社）、指田英司（サンライズ）"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "仁藤優子（OP1）、笠原弘子（OP2）、KISSME QUICK（ED1）、JA-JA（ED2）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "森由里子（OP1）、田口俊（OP2）、TAKE（ED1）、麻生圭子（ED2）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "羽田一郎（OP1）、TSUKASA（OP2）、TAKE（ED1）、割田康彦（ED2）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "船山基紀（OP1、ED2）、根岸貴幸（OP2）、KISSME QUICK（ED1）"
+        },
+        {
+          "key": "製作",
+          "value": "バンダイ、東北新社 製作協力：サンライズ"
+        },
+        {
+          "key": "脚本",
+          "value": "伊藤和典、押井守、星山博之、木村直人、横手美智子、高橋哲子、有栖ひばり、いづぶちゆたか、並木敏"
+        },
+        {
+          "key": "演出",
+          "value": "浦田保則、元永慶太郎、青木康直、西山明樹彦、高松信司、吉永尚之、原田奈々、西山明樹彦"
+        },
+        {
+          "key": "分镜",
+          "value": "吉永尚之、滝沢敏文、高野太（真下耕一）、澤井幸次、高松信司、青木康直、栗山美秀、菊池一仁、加瀬充子、知吹愛弓、浦田保則、池田成、西山明樹彦"
+        },
+        {
+          "key": "作画监督",
+          "value": "西村誠芳、高見明男、井口忠一、戸部敦夫、佐野浩敏、高木弘樹、高木弘樹、高岡希一、山田きさらか、磯野智、土器手司"
         }
       ],
       "total_episodes": 47,
@@ -1042,9 +1148,9 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/b8/495397_E89w4.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/b8/495397_E89w4.jpg"
           },
-          "name": "機動警察パトレイバー35th 美術設定集",
+          "name": "機動警察パトレイバー 35th 美術設定集",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "画集",
           "type": 1,
           "id": 495397
         },
@@ -1058,7 +1164,7 @@
           },
           "name": "機動警察パトレイバー 35th 公式設定集",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "画集",
           "type": 1,
           "id": 474396
         },
@@ -1142,7 +1248,7 @@
           },
           "name": "机动战队",
           "name_cn": "",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 214577
         },
@@ -1176,17 +1282,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/f1/321_j3YWy.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/f1/321_j3YWy.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ca/f1/321_j3YWy.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/f1/321_j3YWy.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/f1/321_j3YWy.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/a2/3499_br6r8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/a2/3499_br6r8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/a2/3499_br6r8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/a2/3499_br6r8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/a2/3499_br6r8.jpg"
           },
-          "name": "機動警察パトレイバー 2 the Movie",
-          "name_cn": "机动警察剧场版2 和平保卫战",
-          "relation": "衍生",
+          "name": "WXIII 機動警察パトレイバー",
+          "name_cn": "机动警察 十三号废弃物",
+          "relation": "相同世界观",
           "type": 2,
-          "id": 321
+          "id": 3499
         },
         {
           "images": {
@@ -1232,6 +1338,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/f2/110530_PhS4p.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/f2/110530_PhS4p.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f7/f2/110530_PhS4p.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/f2/110530_PhS4p.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/f2/110530_PhS4p.jpg"
+          },
+          "name": "機動警察パトレイバー PATLABOR TV+NEW OVA 20th ANNIVERSARY PATLABOR THE MUSIC SET-3",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 110530
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/23/110529_RC7CH.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/23/110529_RC7CH.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/95/23/110529_RC7CH.jpg",
@@ -1243,146 +1363,6 @@
           "relation": "原声集",
           "type": 3,
           "id": 110529
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/a2/3499_br6r8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/a2/3499_br6r8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3e/a2/3499_br6r8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/a2/3499_br6r8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/a2/3499_br6r8.jpg"
-          },
-          "name": "WXIII 機動警察パトレイバー",
-          "name_cn": "机动警察 十三号废弃物",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 3499
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/0c/8696_Rna4b.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/0c/8696_Rna4b.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4e/0c/8696_Rna4b.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/0c/8696_Rna4b.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/0c/8696_Rna4b.jpg"
-          },
-          "name": "機動警察パトレイバー アーリーデイズ",
-          "name_cn": "机动警察 OVA",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 8696
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/99/9979_BK8B4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/99/9979_BK8B4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/12/99/9979_BK8B4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/99/9979_BK8B4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/99/9979_BK8B4.jpg"
-          },
-          "name": "機動警察パトレイバー the Movie",
-          "name_cn": "机动警察剧场版1 东京毁灭战",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 9979
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/ad/13552_80asQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/ad/13552_80asQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cd/ad/13552_80asQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/ad/13552_80asQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/ad/13552_80asQ.jpg"
-          },
-          "name": "機動警察パトレイバー NEW OVA",
-          "name_cn": "机动警察 NEW OVA",
-          "relation": "续集",
-          "type": 2,
-          "id": 13552
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/f0/13612_D04ZT.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/f0/13612_D04ZT.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9f/f0/13612_D04ZT.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/f0/13612_D04ZT.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/f0/13612_D04ZT.jpg"
-          },
-          "name": "ミニパト",
-          "name_cn": "机动警察迷你版",
-          "relation": "衍生",
-          "type": 2,
-          "id": 13612
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/91/31/69455_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/91/31/69455_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/91/31/69455_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/91/31/69455_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/91/31/69455_jp.jpg"
-          },
-          "name": "「機動警察パトレイバー」シングル・コレクション",
-          "name_cn": "机动警察 single collection",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 69455
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/5a/78546_06b4B.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/5a/78546_06b4B.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f9/5a/78546_06b4B.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/5a/78546_06b4B.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5a/78546_06b4B.jpg"
-          },
-          "name": "スーパーロボット大戦 Operation Extend",
-          "name_cn": "超级机器人大战Operation Extend",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 78546
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/49/78847_44P6p.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/49/78847_44P6p.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d0/49/78847_44P6p.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/49/78847_44P6p.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/49/78847_44P6p.jpg"
-          },
-          "name": "機動警察パトレイバー",
-          "name_cn": "机动警察PATLABOR",
-          "relation": "书籍",
-          "type": 1,
-          "id": 78847
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/9a/81170_34HKh.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/9a/81170_34HKh.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4f/9a/81170_34HKh.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/9a/81170_34HKh.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/9a/81170_34HKh.jpg"
-          },
-          "name": "THE NEXT GENERATION パトレイバー",
-          "name_cn": "次世代 -机动警察-",
-          "relation": "三次元",
-          "type": 6,
-          "id": 81170
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/32/103359_CRci4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/32/103359_CRci4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5f/32/103359_CRci4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/32/103359_CRci4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/32/103359_CRci4.jpg"
-          },
-          "name": "THE NEXT GENERATION パトレイバー 首都決戦",
-          "name_cn": "次世代 -机动警察- 首都决战",
-          "relation": "三次元",
-          "type": 6,
-          "id": 103359
         },
         {
           "images": {
@@ -1400,17 +1380,87 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/f2/110530_PhS4p.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/f2/110530_PhS4p.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/f2/110530_PhS4p.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/f2/110530_PhS4p.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/f2/110530_PhS4p.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/49/78847_44P6p.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/49/78847_44P6p.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/49/78847_44P6p.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/49/78847_44P6p.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/49/78847_44P6p.jpg"
           },
-          "name": "機動警察パトレイバー PATLABOR TV+NEW OVA 20th ANNIVERSARY PATLABOR THE MUSIC SET-3",
-          "name_cn": "",
-          "relation": "原声集",
+          "name": "機動警察パトレイバー",
+          "name_cn": "机动警察PATLABOR",
+          "relation": "书籍",
+          "type": 1,
+          "id": 78847
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/5a/78546_06b4B.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/5a/78546_06b4B.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/5a/78546_06b4B.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/5a/78546_06b4B.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/5a/78546_06b4B.jpg"
+          },
+          "name": "スーパーロボット大戦 Operation Extend",
+          "name_cn": "超级机器人大战Operation Extend",
+          "relation": "角色出演",
+          "type": 4,
+          "id": 78546
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/91/31/69455_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/91/31/69455_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/91/31/69455_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/91/31/69455_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/91/31/69455_jp.jpg"
+          },
+          "name": "「機動警察パトレイバー」シングル・コレクション",
+          "name_cn": "机动警察 single collection",
+          "relation": "插入歌",
           "type": 3,
-          "id": 110530
+          "id": 69455
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/f0/13612_D04ZT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/f0/13612_D04ZT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/f0/13612_D04ZT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/f0/13612_D04ZT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/f0/13612_D04ZT.jpg"
+          },
+          "name": "ミニパト",
+          "name_cn": "机动警察迷你版",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 13612
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/ad/13552_80asQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/ad/13552_80asQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/ad/13552_80asQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/ad/13552_80asQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/ad/13552_80asQ.jpg"
+          },
+          "name": "機動警察パトレイバー NEW OVA",
+          "name_cn": "机动警察 NEW OVA",
+          "relation": "续集",
+          "type": 2,
+          "id": 13552
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/0c/8696_Rna4b.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/0c/8696_Rna4b.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/0c/8696_Rna4b.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/0c/8696_Rna4b.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/0c/8696_Rna4b.jpg"
+          },
+          "name": "機動警察パトレイバー アーリーデイズ",
+          "name_cn": "机动警察 OVA",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 8696
         },
         {
           "images": {
@@ -1462,67 +1512,11 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/f9/441927_6LheY.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/f9/441927_6LheY.jpg"
           },
-          "name": "機動警察パトレイバー 完全設定資料集 Vol.1 TV編",
+          "name": "機動警察パトレイバー 完全設定資料集 vol.1 -TV編-",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "画集",
           "type": 1,
           "id": 441927
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/db/441934_rPEQe.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/db/441934_rPEQe.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e2/db/441934_rPEQe.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/db/441934_rPEQe.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/db/441934_rPEQe.jpg"
-          },
-          "name": "機動警察パトレイバー 完全設定資料集 Vol.2 -OVA編-",
-          "name_cn": "",
-          "relation": "书籍",
-          "type": 1,
-          "id": 441934
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/51/441935_mYys4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/51/441935_mYys4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c2/51/441935_mYys4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/51/441935_mYys4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/51/441935_mYys4.jpg"
-          },
-          "name": "機動警察パトレイバー 完全設定資料集 vol.3 -劇場映画編(1)-",
-          "name_cn": "",
-          "relation": "书籍",
-          "type": 1,
-          "id": 441935
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8a/51/441937_89J3k.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8a/51/441937_89J3k.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8a/51/441937_89J3k.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8a/51/441937_89J3k.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/51/441937_89J3k.jpg"
-          },
-          "name": "機動警察パトレイバー 完全設定資料集 Vol.4 -劇場編(2)-",
-          "name_cn": "",
-          "relation": "书籍",
-          "type": 1,
-          "id": 441937
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/09/441938_r0084.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/09/441938_r0084.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e6/09/441938_r0084.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/09/441938_r0084.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/09/441938_r0084.jpg"
-          },
-          "name": "機動警察パトレイバー 完全設定資料集 Vol.5 -劇場編 (3)-",
-          "name_cn": "",
-          "relation": "书籍",
-          "type": 1,
-          "id": 441938
         }
       ]
     }
@@ -1552,7 +1546,6 @@
         "富田靖子",
         "日本动画",
         "旧物",
-        "时事热点",
         "泡面番",
         "西森明良"
       ],

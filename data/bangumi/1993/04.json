@@ -81,6 +81,10 @@
           "value": "©創通・サンライズ"
         },
         {
+          "key": "企画",
+          "value": "サンライズ"
+        },
+        {
           "key": "原作",
           "value": "矢立肇、富野由悠季"
         },
@@ -89,36 +93,24 @@
           "value": "富野由悠季"
         },
         {
-          "key": "机械设定协力",
-          "value": "佐野浩敏"
+          "key": "脚本",
+          "value": "桶谷顕、園田英樹、神戸一彦、富田祐弘、斧谷稔（富野由悠季）"
         },
         {
-          "key": "特效",
-          "value": "干場豊"
+          "key": "分镜",
+          "value": "佐藤育郎、斧谷稔（富野由悠季）、西森章、江上潔、高瀬節夫、加瀬充子、芦沢剛史、杉島邦久、福田己津央、山口頼房、山本裕介、滝沢敏文"
         },
         {
-          "key": "编集",
-          "value": "鶴渕友彰"
+          "key": "演出",
+          "value": "佐藤育郎、江上潔、高瀬節夫、西森章、玉田博、芦沢剛史、関田修、山本裕介、藤本義孝、武井良幸、渡邊哲哉"
         },
         {
-          "key": "音响效果",
-          "value": "松田昭彦"
-        },
-        {
-          "key": "整音",
-          "value": "大城久典、田中章喜"
-        },
-        {
-          "key": "文艺设定",
-          "value": "井上幸一"
+          "key": "作画监督",
+          "value": "瀬尾康博、西村誠芳、前田明寿、谷口守泰、吉田徹、村瀬修功、逢坂浩司、新保卓郎（しんぼたくろう）、板倉和弘、森下博光、さとうけいいち"
         },
         {
           "key": "设定制作",
           "value": "河口佳高"
-        },
-        {
-          "key": "演奏",
-          "value": "キングレコード・フィルハーモニック・オーケストラ、篠崎正嗣ストリングス"
         },
         {
           "key": "制片人",
@@ -130,15 +122,83 @@
         },
         {
           "key": "制作协力",
-          "value": "スタジオディーン"
-        },
-        {
-          "key": "制片协力",
           "value": "電通、創通エージェンシー"
         },
         {
-          "key": "制片",
+          "key": "人物设定",
+          "value": "逢坂浩司"
+        },
+        {
+          "key": "机械设定",
+          "value": "大河原邦男、カトキハジメ、石垣純哉、佐野浩敏（协力）"
+        },
+        {
+          "key": "美术监督",
+          "value": "池田繁美"
+        },
+        {
+          "key": "摄影监督",
+          "value": "奥井敦（第1話～第31話）、大神洋一"
+        },
+        {
+          "key": "音响监督",
+          "value": "浦上靖夫"
+        },
+        {
+          "key": "音乐",
+          "value": "千住明"
+        },
+        {
+          "key": "色彩设计",
+          "value": "小松住江（第1話～第28話）、中山昇（第29話～第51話）"
+        },
+        {
+          "key": "剪辑",
+          "value": "鶴渕友彰"
+        },
+        {
+          "key": "整音",
+          "value": "大城久典、田中章喜"
+        },
+        {
+          "key": "音效",
+          "value": "松田昭彦"
+        },
+        {
+          "key": "特效",
+          "value": "干場豊"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "川添智久（OP1）、RD（OP2）、infix（ED1）、KIX-S（ED2）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "井荻麟[富野由悠季]（OP1）、みかみ麗緒（OP1）、西脇唯（OP2）、長友仍世（ED1）、浜口司（ED2）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "川添智久（OP1）、小泉誠司（OP2）、長友仍世（ED1）、安宅美春（ED2）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "神長弘一（OP1）、川添智久（OP1）、井上龍仁[月光恵亮]（OP1）、福田裕彦（OP2）、板倉雅一（ED1）、infix（ED1）、葉山たけし（ED2）"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "小峰公子、黒田由美（市原由美）、karak、ACEILUX、岩崎元是"
+        },
+        {
+          "key": "制作",
           "value": "テレビ朝日、サンライズ"
+        },
+        {
+          "key": "演出助理",
+          "value": "武井良幸、渡邊哲哉"
+        },
+        {
+          "key": "演奏",
+          "value": "キングレコード・フィルハーモニック・オーケストラ、篠崎正嗣ストリングス"
         }
       ],
       "total_episodes": 51,
@@ -159,7 +219,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -667,10 +727,6 @@
           "value": "青山充"
         },
         {
-          "key": "动画制作",
-          "value": "東映動画"
-        },
-        {
           "key": "製作",
           "value": "ABC、ASATSU"
         }
@@ -777,6 +833,7 @@
         "100",
         "1993",
         "1993年",
+        "1993年4月",
         "90年代",
         "TV",
         "TVB",
@@ -787,7 +844,6 @@
         "勇气100",
         "十兵卫",
         "学研ホールディングス",
-        "小学",
         "忍乱",
         "忍者乱太郎",
         "搞笑",
@@ -945,9 +1001,79 @@
           },
           "name": "映画 忍たま乱太郎",
           "name_cn": "忍者乱太郎剧场版",
-          "relation": "衍生",
+          "relation": "番外篇",
           "type": 2,
           "id": 318293
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/60/458146_UXxIg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/60/458146_UXxIg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/60/458146_UXxIg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/60/458146_UXxIg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/60/458146_UXxIg.jpg"
+          },
+          "name": "忍たま乱太郎",
+          "name_cn": "忍者乱太郎",
+          "relation": "三次元",
+          "type": 6,
+          "id": 458146
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fd/9f/481866_tpJGf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fd/9f/481866_tpJGf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fd/9f/481866_tpJGf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fd/9f/481866_tpJGf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fd/9f/481866_tpJGf.jpg"
+          },
+          "name": "劇場版 忍たま乱太郎 ドクタケ忍者隊最強の軍師",
+          "name_cn": "剧场版 忍者乱太郎 毒竹忍者队最强的军师",
+          "relation": "衍生",
+          "type": 2,
+          "id": 481866
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/99/508746_6f3Ak.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/99/508746_6f3Ak.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a3/99/508746_6f3Ak.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/99/508746_6f3Ak.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/99/508746_6f3Ak.jpg"
+          },
+          "name": "忍たま乱太郎 カラクリ古寺を突破せよ!!の段",
+          "name_cn": "忍者乱太郎：突破古寺！！之段",
+          "relation": "衍生",
+          "type": 2,
+          "id": 508746
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/2f/508997_8NjgN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/2f/508997_8NjgN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/2f/508997_8NjgN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/2f/508997_8NjgN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/2f/508997_8NjgN.jpg"
+          },
+          "name": "忍たま乱太郎 〜星に誓った友情物語の段〜",
+          "name_cn": "忍者乱太郎：向星星发誓的友情故事之段",
+          "relation": "衍生",
+          "type": 2,
+          "id": 508997
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/15/509225_BhxJ7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/15/509225_BhxJ7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/51/15/509225_BhxJ7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/15/509225_BhxJ7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/15/509225_BhxJ7.jpg"
+          },
+          "name": "忍たま乱太郎 〜天狗の秘密と消えた太陽の段〜",
+          "name_cn": "忍者乱太郎：天狗的秘密与消失的太阳之段",
+          "relation": "衍生",
+          "type": 2,
+          "id": 509225
         }
       ]
     }
@@ -971,11 +1097,11 @@
       "tags": [
         "1990-1999",
         "1993",
+        "1993年",
         "90",
         "90年代",
         "SUNRISE",
         "TV",
-        "TVA",
         "TVB",
         "robo",
         "アミノテツロー",
@@ -983,21 +1109,21 @@
         "ロボットアニメ",
         "五武冬史",
         "会川升",
+        "动画",
         "南雅彦",
         "原创",
         "和田薫",
         "在电视上断断续续看过",
-        "堀川りょう",
+        "大河原邦男",
         "山口亮太",
-        "日本动画",
         "机战",
-        "机甲",
         "横山智佐",
+        "科幻",
         "童年",
         "老害最爱",
         "萝卜",
         "补旧番",
-        "补番",
+        "运动",
         "鈴木良武"
       ],
       "infobox": [
@@ -1037,6 +1163,10 @@
           "value": "©1993 日升动画、东京电视台"
         },
         {
+          "key": "企画",
+          "value": "サンライズ"
+        },
+        {
           "key": "原作",
           "value": "矢立肇"
         },
@@ -1045,12 +1175,8 @@
           "value": "アミノテツロー"
         },
         {
-          "key": "企画",
-          "value": "サンライズ"
-        },
-        {
           "key": "系列构成",
-          "value": "五武冬史"
+          "value": "五武冬史(鈴木良武)"
         },
         {
           "key": "人物设定",
@@ -1061,16 +1187,64 @@
           "value": "大河原邦男"
         },
         {
-          "key": "音响监督",
-          "value": "小林克良"
+          "key": "美术监督",
+          "value": "東潤一、朝倉千登勢"
         },
         {
           "key": "音乐",
           "value": "和田薫"
         },
         {
-          "key": "动画制作",
-          "value": "サンライズ"
+          "key": "音响监督",
+          "value": "小林克良"
+        },
+        {
+          "key": "摄影监督",
+          "value": "桶田一展、藤倉直人"
+        },
+        {
+          "key": "脚本",
+          "value": "五武冬史(鈴木良武)、會川昇、外池省二、山口亮太、稲荷昭彦、アミノテツロー"
+        },
+        {
+          "key": "分镜",
+          "value": "アミノテツロー、西村純二、谷田部勝義、まつもとよしひさ、今西隆志、赤根和樹、渡辺信一郎、高瀬節夫、織田美浩、大畑清隆、篠原俊哉、四阿蔵志、日巻裕二、山口祐司"
+        },
+        {
+          "key": "演出",
+          "value": "織田美浩、守岡博、谷田部勝義、まつもとよしひさ、今西隆志、渡辺信一郎、高瀬節夫、大畑清隆、赤根和樹、久米一成、浦田保則、川島宏"
+        },
+        {
+          "key": "作画监督",
+          "value": "本橋秀之、杉浦幸次、柳沢テツヤ、山本泰一郎、飯飼一幸、吉松孝博、神志那弘志、小森高博、宮田忠明、室井聖人（さとうけいいち）"
+        },
+        {
+          "key": "设定",
+          "value": "协力：スタジオぬえ、島本和彦、石垣純哉"
+        },
+        {
+          "key": "剪辑",
+          "value": "鶴渕友彰"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "谷本憲彦[現・速水けんたろう]（OP、ED3）、横山智佐（ED1）、松本保典（ED2）、置鮎龍太郎（ED2）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "白井覚（OP、ED1）、真々花子（ED2、3）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "由比正雪"
+        },
+        {
+          "key": "制片人",
+          "value": "池田朋之(テレビ東京)→岩田圭介、小水流正勝(創通エージェンシー)、南雅彦(サンライズ)"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、創通エージェンシー、サンライズ"
         }
       ],
       "total_episodes": 52,
@@ -1134,7 +1308,7 @@
           },
           "name": "我等!アイアンリーガー",
           "name_cn": "",
-          "relation": "原声集",
+          "relation": "片尾曲",
           "type": 3,
           "id": 131931
         },
@@ -1147,7 +1321,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -1165,6 +1339,62 @@
           "relation": "游戏",
           "type": 4,
           "id": 467503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5a/34/510903_0I7I0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5a/34/510903_0I7I0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5a/34/510903_0I7I0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5a/34/510903_0I7I0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5a/34/510903_0I7I0.jpg"
+          },
+          "name": "疾風!アイアンリーガー オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 510903
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/b0/510906_zmgSq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/b0/510906_zmgSq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/af/b0/510906_zmgSq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/b0/510906_zmgSq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/b0/510906_zmgSq.jpg"
+          },
+          "name": "疾風!アイアンリーガー オリジナル・サウンドトラック VOL.2",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 510906
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/15/510920_8yFQx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/15/510920_8yFQx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c3/15/510920_8yFQx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/15/510920_8yFQx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/15/510920_8yFQx.jpg"
+          },
+          "name": "疾風!アイアンリーガー ボーカル・コレクション～再び新たなる戦いへ～",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 510920
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/03/510923_9Tvd2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/03/510923_9Tvd2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/03/510923_9Tvd2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/03/510923_9Tvd2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/03/510923_9Tvd2.jpg"
+          },
+          "name": "疾風!アイアンリーガー オリジナル・ドラマシアター 大スターセーガルのアイアンハスラー",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 510923
         }
       ]
     }
@@ -1364,14 +1594,14 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/1d/492881_eoBEA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/1d/492881_eoBEA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a4/1d/492881_eoBEA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/1d/492881_eoBEA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/1d/492881_eoBEA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/1d/492881_l83K1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/1d/492881_l83K1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a4/1d/492881_l83K1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/1d/492881_l83K1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/1d/492881_l83K1.jpg"
           },
-          "name": "YAIBA",
-          "name_cn": "剑勇传说",
+          "name": "真･侍伝 YAIBA",
+          "name_cn": "真･侍传 剑勇传说",
           "relation": "不同演绎",
           "type": 2,
           "id": 492881
@@ -1503,6 +1733,8 @@
       "name_cn": "我是大哥大",
       "tags": [
         "1993",
+        "8分",
+        "90s",
         "90~94年",
         "OVA",
         "StudioPierrot",
@@ -1516,18 +1748,16 @@
         "打斗",
         "打架",
         "搞笑",
-        "日本",
+        "日产",
         "日本动画",
         "旧番",
         "校园",
         "案納正美",
-        "案纳正美",
         "森健",
         "漫改",
         "漫画改",
         "独立ova",
         "真人化",
-        "神",
         "神作",
         "补旧番",
         "补番",
@@ -1537,6 +1767,14 @@
         {
           "key": "中文名",
           "value": "我是大哥大"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "今日我至叻"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -1711,6 +1949,7 @@
       "name_cn": "电光超人古立特",
       "tags": [
         "1993",
+        "1993年",
         "Ss",
         "TV",
         "tbs",
@@ -1929,6 +2168,7 @@
       "name_cn": "电光超人古立特",
       "tags": [
         "1993",
+        "1993年",
         "Ss",
         "TV",
         "tbs",

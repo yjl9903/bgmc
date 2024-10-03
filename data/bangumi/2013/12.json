@@ -270,11 +270,11 @@
         "TVSP",
         "orange",
         "オレンジ",
-        "ハラダサヤカ",
         "剧场版",
+        "动画",
         "原创",
+        "吉田直",
         "奇幻",
-        "小太刀右京",
         "战斗",
         "户田麻衣",
         "机战",
@@ -443,6 +443,7 @@
         "前川淳",
         "剧场版",
         "动画",
+        "动画电影",
         "原创",
         "名侦探柯南",
         "名探偵コナン",
@@ -454,7 +455,6 @@
         "日本",
         "日番",
         "映画",
-        "林原惠",
         "柯南",
         "漫改",
         "漫画改",
@@ -782,7 +782,6 @@
         "BrainsBase",
         "Brains･Base",
         "OVA",
-        "neko33",
         "井上和彦",
         "出合小都美",
         "动画",
@@ -805,6 +804,7 @@
         "猫咪三三",
         "神谷浩史",
         "緑川ゆき",
+        "续作",
         "绿川幸"
       ],
       "infobox": [
@@ -817,6 +817,12 @@
           "value": [
             {
               "v": "夏目友人帐 猫咪老师首次变身使者"
+            },
+            {
+              "v": "Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai"
+            },
+            {
+              "v": "Natsume’s Book of Friends: Nyanko-Sensei and the First Errand"
             }
           ]
         },
@@ -830,7 +836,55 @@
         },
         {
           "key": "官方网站",
-          "value": "www.aniplex.co.jp/natsume"
+          "value": "https://www.aniplex.co.jp/natsume"
+        },
+        {
+          "key": "原作",
+          "value": "緑川ゆき「夏目友人帳」（白泉社「月刊LaLa」連載）"
+        },
+        {
+          "key": "总导演",
+          "value": "大森貴弘"
+        },
+        {
+          "key": "导演",
+          "value": "出合小都美"
+        },
+        {
+          "key": "人物设定",
+          "value": "髙田晃"
+        },
+        {
+          "key": "设定",
+          "value": "妖怪设定：山田起生"
+        },
+        {
+          "key": "制作",
+          "value": "NAS"
+        },
+        {
+          "key": "製作",
+          "value": "「夏目友人帳」製作委員会"
+        },
+        {
+          "key": "企画",
+          "value": "三宅将典、夏目公一朗、白石誠、酒井俊朗；企画协力：白泉社LaLa編集部"
+        },
+        {
+          "key": "制片人",
+          "value": "京谷知美、佐々木礼子、横山朱子、種岡智子"
+        },
+        {
+          "key": "助理制片人",
+          "value": "佐藤一哉"
+        },
+        {
+          "key": "音乐制作",
+          "value": "Aniplex"
+        },
+        {
+          "key": "动画制片人",
+          "value": "佐藤由美"
         }
       ],
       "total_episodes": 1,
@@ -1060,6 +1114,15 @@
           "key": "别名",
           "value": [
             {
+              "v": "Gekijouban Hunter x Hunter: The Last Mission"
+            },
+            {
+              "v": "Hunter x Hunter: The Last Mission"
+            },
+            {
+              "v": "HxH Last Mission, hxh movie 2"
+            },
+            {
               "v": "全职猎人剧场版：最终任务"
             },
             {
@@ -1089,6 +1152,14 @@
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "导演",
+          "value": "川口敬一郎"
+        },
+        {
+          "key": "人物设定",
+          "value": "筱雅律"
         }
       ],
       "total_episodes": 1,
@@ -1102,11 +1173,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/94/23640_T3pB2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/94/23640_T3pB2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fb/94/23640_T3pB2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/94/23640_T3pB2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/94/23640_T3pB2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/a6/21032_d6ETE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/a6/21032_d6ETE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fb/a6/21032_d6ETE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/a6/21032_d6ETE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/a6/21032_d6ETE.jpg"
           },
           "name": "HUNTER×HUNTER",
           "name_cn": "猎人",
@@ -1654,6 +1725,10 @@
         {
           "key": "原作",
           "value": "諫山創"
+        },
+        {
+          "key": "人物设定",
+          "value": "浅野恭司；副人设：尾崎智美、肥塚正史"
         }
       ],
       "total_episodes": 3,
@@ -1825,11 +1900,15 @@
       "name": "超ゼンマイロボ パトラッシュ",
       "name_cn": "超发条机器人 帕特拉修",
       "tags": [
+        "1クール",
+        "2010s",
         "2013",
         "TV",
         "¬",
+        "原创",
         "日本动画",
         "没见着下载",
+        "泡面番",
         "空"
       ],
       "infobox": [
@@ -1961,6 +2040,7 @@
         "Otaku",
         "Production.I.G",
         "ProductionI.G",
+        "ProductionIG",
         "Production_I.G",
         "动画",
         "宅",
@@ -1981,7 +2061,6 @@
         "番外",
         "福山润",
         "胖次",
-        "讲谈社",
         "青春"
       ],
       "infobox": [
@@ -2171,6 +2250,7 @@
         "Otaku",
         "Production.I.G",
         "ProductionI.G",
+        "ProductionIG",
         "Production_I.G",
         "动画",
         "宅",
@@ -2191,7 +2271,6 @@
         "番外",
         "福山润",
         "胖次",
-        "讲谈社",
         "青春"
       ],
       "infobox": [

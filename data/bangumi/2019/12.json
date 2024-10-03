@@ -294,7 +294,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -580,7 +580,6 @@
         "白石凉子",
         "矢作纱友里",
         "短片",
-        "短片／广告",
         "短篇",
         "神田朱未",
         "科幻",
@@ -791,13 +790,14 @@
       "name": "ルパン三世 THE FIRST",
       "name_cn": "鲁邦三世 THE FIRST",
       "tags": [
+        "2010-2019",
         "2019",
         "2019年",
         "3D",
-        "3DCG☆",
         "3dcg",
         "CG",
         "MARZA",
+        "MARZA.ANIMATION.PLANET",
         "MARZA_ANIMATION_PLANET",
         "TMS",
         "TMSEntertainment",
@@ -805,11 +805,11 @@
         "TMS娱乐",
         "TMS娱乐、MarzaAnimationPlanet",
         "undefined",
-        "アニメ映画",
         "剧场版",
         "动画",
         "动画电影",
         "原创",
+        "奇幻",
         "山崎貴",
         "山崎贵",
         "広瀬すず",
@@ -819,7 +819,6 @@
         "漫改",
         "漫画改",
         "番剧",
-        "过于套路",
         "鲁邦三世"
       ],
       "infobox": [
@@ -1190,6 +1189,12 @@
           "key": "别名",
           "value": [
             {
+              "v": "Boku no Hero Academia the Movie: Futari no Hero"
+            },
+            {
+              "v": "My Hero Academia: Two Heroes"
+            },
+            {
               "v": "我的英雄学院 THE MOVIE HEROS:RISING"
             },
             {
@@ -1218,8 +1223,8 @@
           "value": "馬越嘉彦 副：林祐己"
         },
         {
-          "key": "原画",
-          "value": "工藤雅人、小坂結季奈"
+          "key": "导演",
+          "value": "長崎健司"
         }
       ],
       "total_episodes": 2,
@@ -1856,7 +1861,7 @@
         },
         {
           "key": "Copyright",
-          "value": "©BEIJING IQIYI SCIENCE &amp; TECHNOLOGY CO., LTD."
+          "value": "©BEIJING IQIYI SCIENCE & TECHNOLOGY CO., LTD."
         },
         {
           "key": "微博",
@@ -1919,7 +1924,7 @@
           "value": "王林琳"
         },
         {
-          "key": "3D&amp;CG监督",
+          "key": "3D&CG监督",
           "value": "王长江"
         },
         {
@@ -1939,7 +1944,7 @@
           "value": "幻想音乐"
         },
         {
-          "key": "摄影&amp;特效",
+          "key": "摄影&特效",
           "value": "爱星翼工作室"
         },
         {
@@ -1979,7 +1984,7 @@
           "value": "王小田、连玉洁、金州、刘珂、趙雪寧"
         },
         {
-          "key": "3D&amp;CG",
+          "key": "3D&CG",
           "value": "王长江、陈夏雨、陈壮奇、营永杰、王福艳、杨佳伟"
         },
         {
@@ -2383,29 +2388,29 @@
         "OVA",
         "OVA-01",
         "OVA.OAD",
-        "OVAOAD特典",
         "senya",
-        "⊘日本",
-        "☐",
         "东方",
         "东方project",
-        "中意的",
         "令和",
         "其他",
         "同人",
         "奇幻",
+        "已保存",
         "幻想万华镜",
         "异态",
         "战斗",
+        "文艺",
         "日本",
         "東方",
         "東方Project",
+        "极致人设",
         "游戏改",
         "満福神社",
         "满福神社",
         "独立动画",
         "百合",
         "短片",
+        "童年",
         "车万"
       ],
       "infobox": [
@@ -2540,7 +2545,6 @@
         "动作",
         "卢卡斯",
         "太空歌剧",
-        "嫌弃",
         "影院",
         "明珠台",
         "星球大战",
@@ -2651,6 +2655,136 @@
           "relation": "游戏",
           "type": 4,
           "id": 284432
+        }
+      ]
+    }
+  },
+  {
+    "title": "伍六七：黑白双龙",
+    "date": "2019-12-25",
+    "bangumi": {
+      "date": "2019-12-25",
+      "platform": "漫画",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/29/335684_rw5f5.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/29/335684_rw5f5.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/8f/29/335684_rw5f5.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/29/335684_rw5f5.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/29/335684_rw5f5.jpg"
+      },
+      "summary": "不羁少年莫浪和高冷天才白其，从小在牛展国过着放牧生活。某天，一位来自玄武国的神秘刺客，彻底颠覆了他们的生活，两人决定踏上冒险之路。",
+      "name": "伍六七：黑白双龙",
+      "name_cn": "伍六七：黑白双龙",
+      "tags": [
+        "2010s",
+        "5分",
+        "中国",
+        "中篇",
+        "国产",
+        "国漫",
+        "战斗",
+        "漫画",
+        "漫画系列",
+        "魔幻"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "伍六七：黑白双龙"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "伍六七：黑白双龙 第一部"
+            }
+          ]
+        },
+        {
+          "key": "出版社",
+          "value": "啊哈娱乐"
+        },
+        {
+          "key": "连载杂志",
+          "value": "腾讯动漫、哔哩哔哩漫画、快看漫画、爱奇艺叭嗒、知音漫客 (漫客栈)"
+        },
+        {
+          "key": "话数",
+          "value": "90(序章1+87+番外2)"
+        },
+        {
+          "key": "原作",
+          "value": "何小疯"
+        },
+        {
+          "key": "脚本",
+          "value": "李圆脸"
+        },
+        {
+          "key": "作画",
+          "value": "核燃黑猫"
+        },
+        {
+          "key": "助理",
+          "value": "渣猫、烂苹果蓝"
+        },
+        {
+          "key": "预告",
+          "value": "2019-12-18"
+        },
+        {
+          "key": "开始",
+          "value": "2019-12-25"
+        },
+        {
+          "key": "结束",
+          "value": "2021-10-07"
+        },
+        {
+          "key": "备注",
+          "value": "2019年12月18日发布上线预告，每周三中午12点更新，12月25日更新序章，12月26日更新第一章01，2020年4月1日更新同人展示 第一期，12月25日发布一周年小剧场，2021年5月12日发布停更公告，5月19日恢复更新，7月14日发起黑白双龙人气投票，投票结束后将会为得票最高的角色制作专属的番外剧情，2021年10月7日更新第八章12 第一部完结，10月21日发布完结纪念，10月29日更新同人展示 第七期，11月3日黑白双龙人气投票结果公布，11月24日发布完结贺图，12月09日更新番外篇 红玫瑰（上），12月22日更新番外篇 红玫瑰（下），12月25日发布二周年庆祝。2022年9月21日发布第二部预告，9月30日发布第二部更新通告。"
+        },
+        {
+          "key": "章数",
+          "value": "8"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 335684,
+      "eps": 90,
+      "volumes": 0,
+      "series": true,
+      "locked": false,
+      "nsfw": false,
+      "type": 1,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/fa/244008_Y34Qh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/fa/244008_Y34Qh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/fa/244008_Y34Qh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/fa/244008_Y34Qh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/fa/244008_Y34Qh.jpg"
+          },
+          "name": "刺客伍六七",
+          "name_cn": "刺客伍六七",
+          "relation": "动画",
+          "type": 2,
+          "id": 244008
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/06/403378_nQ1tn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1d/06/403378_nQ1tn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1d/06/403378_nQ1tn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1d/06/403378_nQ1tn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1d/06/403378_nQ1tn.jpg"
+          },
+          "name": "伍六七：黑白双龙2",
+          "name_cn": "伍六七：黑白双龙2",
+          "relation": "续集",
+          "type": 1,
+          "id": 403378
         }
       ]
     }

@@ -81,12 +81,16 @@
           "value": "2006年1月6日"
         },
         {
-          "key": "官方网站",
-          "value": "http://www.staynight.com/index.html"
-        },
-        {
           "key": "播放结束",
           "value": "2006年6月17日"
+        },
+        {
+          "key": "导演",
+          "value": "山口祐司"
+        },
+        {
+          "key": "音乐",
+          "value": "川井憲次"
         },
         {
           "key": "Copyright",
@@ -95,10 +99,6 @@
         {
           "key": "原作",
           "value": "TYPE-MOON"
-        },
-        {
-          "key": "导演",
-          "value": "山口祐司"
         },
         {
           "key": "系列构成",
@@ -123,10 +123,6 @@
         {
           "key": "音响监督",
           "value": "辻谷耕史"
-        },
-        {
-          "key": "音乐",
-          "value": "川井憲次"
         },
         {
           "key": "制作",
@@ -421,6 +417,20 @@
           "relation": "不同世界观",
           "type": 2,
           "id": 443831
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/20/935_dOCPc.jpg"
+          },
+          "name": "Fate/stay night",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 935
         },
         {
           "images": {
@@ -786,6 +796,7 @@
         "中西伸彰",
         "党争",
         "动画",
+        "变百",
         "另类系",
         "坑",
         "堀江由衣",
@@ -795,7 +806,6 @@
         "性别交换",
         "性転換",
         "性转",
-        "性转换",
         "恋爱",
         "搞笑",
         "日常",
@@ -1199,9 +1209,11 @@
         "ゼロGルーム",
         "偶像",
         "偶像番",
+        "动画",
         "原创",
         "唱歌",
-        "季番"
+        "季番",
+        "日本"
       ],
       "infobox": [
         {
@@ -1327,11 +1339,11 @@
         "仰望只有半月的夜空",
         "催泪",
         "催泪弹",
-        "动画",
         "半分月",
         "小说改",
         "恋爱",
         "日本",
+        "橋本紡",
         "治愈",
         "爱情",
         "神小说",
@@ -2034,6 +2046,7 @@
         "Studio云雀",
         "TV",
         "TVA",
+        "スタジオ雲雀",
         "ワタナベシンイチ",
         "云雀",
         "云雀工作室",
@@ -2047,7 +2060,6 @@
         "搞笑",
         "新名彩乃",
         "日本动画",
-        "时事热点",
         "松崎しげる",
         "森久保祥太郎",
         "歌舞",
@@ -2601,6 +2613,7 @@
         "2006",
         "TV",
         "TVA",
+        "东映",
         "东映动画",
         "中井義則",
         "吉田小南美",
@@ -2610,6 +2623,7 @@
         "旧物",
         "東映アニメーション",
         "森川智之",
+        "漫改",
         "漫画改",
         "筋肉人"
       ],
@@ -3189,6 +3203,7 @@
       "tags": [
         "2006",
         "2017年9月--2021年6月",
+        "TV",
         "TVA",
         "奥村吉昭",
         "子供向",
@@ -3441,7 +3456,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/77/512101_82hyy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/77/512101_82hyy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e6/77/512101_82hyy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/77/512101_82hyy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/77/512101_82hyy.jpg"
+          },
+          "name": "さよならのうた",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 512101
+        }
+      ]
     }
   },
   {
@@ -3461,10 +3491,10 @@
       "name": "ペイル・コクーン",
       "name_cn": "苍之茧",
       "tags": [
+        "2000s",
         "2006",
         "2006年",
         "2006年1月",
-        "COCOON",
         "OVA",
         "SF",
         "Studio六花",
@@ -3587,11 +3617,11 @@
         "Production.I.G",
         "ProductionI.G",
         "Production_I.G",
-        "SF",
         "剧场版",
         "动画",
         "原创",
         "士郎正宗",
+        "大塚明夫",
         "总集篇",
         "悬疑",
         "战斗",
@@ -3601,7 +3631,6 @@
         "政治",
         "日本",
         "日本动画",
-        "樱井圭记",
         "漫改",
         "漫画改",
         "田中敦子",
@@ -3609,6 +3638,7 @@
         "科幻",
         "经典",
         "菅野洋子",
+        "补番",
         "赛博朋克"
       ],
       "infobox": [
@@ -3734,7 +3764,6 @@
       "tags": [
         "06年",
         "2005",
-        "2005年十月番",
         "2006",
         "2006年",
         "2006年1月",
@@ -3754,13 +3783,14 @@
         "大原さやか",
         "広橋涼",
         "日本",
+        "治愈",
         "泣",
         "渡辺はじめ",
         "百变之星",
         "百合",
+        "职场",
         "蕾拉",
         "补番",
-        "録像帶",
         "青春"
       ],
       "infobox": [
@@ -3897,11 +3927,11 @@
         },
         {
           "key": "第二原画",
-          "value": "高橋典子、金田弘子、白井英治、夏目真悟、G&amp;G Entertainment、Jo,Min-su、Hwang,Su-jin、DR MOVIE、UNI動画"
+          "value": "高橋典子、金田弘子、白井英治、夏目真悟、G&G Entertainment、Jo,Min-su、Hwang,Su-jin、DR MOVIE、UNI動画"
         },
         {
           "key": "补间动画",
-          "value": "G&amp;G Entertainment、Choi,Yu-sun、Hong,Seung-young、Kim,Hong-gyu、Yu,Sang-hee、Lee,Sung-mee、Kim,Jung-soon、Kim,Du-sook、Kim,Hee-lim、Hwang,Yu-ri、馬渡久史、川崎浩充、DR MOVIE、UNI動画"
+          "value": "G&G Entertainment、Choi,Yu-sun、Hong,Seung-young、Kim,Hong-gyu、Yu,Sang-hee、Lee,Sung-mee、Kim,Jung-soon、Kim,Du-sook、Kim,Hee-lim、Hwang,Yu-ri、馬渡久史、川崎浩充、DR MOVIE、UNI動画"
         },
         {
           "key": "美术设计",
@@ -3917,7 +3947,7 @@
         },
         {
           "key": "上色",
-          "value": "G&amp;G Entertainment、Park,Kyoung-jin、Lee,Eun-jung、Jumg,Chang-taek、Shin,Kyung-hee、Park,Sea-yun、Choi,Moon-sook、Oh,Jin-hee、DR MOVIE、UNI動画、スタジオ エル"
+          "value": "G&G Entertainment、Park,Kyoung-jin、Lee,Eun-jung、Jumg,Chang-taek、Shin,Kyung-hee、Park,Sea-yun、Choi,Moon-sook、Oh,Jin-hee、DR MOVIE、UNI動画、スタジオ エル"
         },
         {
           "key": "摄影",
@@ -4243,11 +4273,11 @@
       "date": "2006-01-07",
       "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/04/3847_GNBgF.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/04/3847_GNBgF.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/a3/04/3847_GNBgF.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/04/3847_GNBgF.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/04/3847_GNBgF.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/04/3847_IUehH.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/04/3847_IUehH.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a3/04/3847_IUehH.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/04/3847_IUehH.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/04/3847_IUehH.jpg"
       },
       "summary": "　　故事发生在未来，由于来自月面的树木化成的怪物的袭击，那时的地球已经变得一片荒凉，人们不得不与森林共同生活，并且建立起了敌对的关系。不过本片主角阿基多所居住的中立都市则一直寻求着与森林共存的方法。在某一天，前往封禁之泉取水的阿基多遇到了沉睡了300多年的神秘少女，而自从两人相遇的那一瞬间，整个世界的命运就开始了剧烈的震动……",
       "name": "銀色の髪のアギト",

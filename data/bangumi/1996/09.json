@@ -372,11 +372,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/27/b8/50739_41w0F.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/27/b8/50739_41w0F.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/27/b8/50739_41w0F.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/27/b8/50739_41w0F.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/27/b8/50739_41w0F.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/27/b8/50739_EZjIi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/27/b8/50739_EZjIi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/27/b8/50739_EZjIi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/27/b8/50739_EZjIi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/27/b8/50739_EZjIi.jpg"
           },
           "name": "しあわせの予感",
           "name_cn": "",
@@ -386,11 +386,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/d4/65646_hazPA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/d4/65646_hazPA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4c/d4/65646_hazPA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/d4/65646_hazPA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/d4/65646_hazPA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/d4/65646_7nLun.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/d4/65646_7nLun.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/d4/65646_7nLun.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/d4/65646_7nLun.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/d4/65646_7nLun.jpg"
           },
           "name": "愛について",
           "name_cn": "",
@@ -419,11 +419,11 @@
       "name_cn": "花样男子",
       "tags": [
         "1996",
-        "7分",
         "8JA",
         "90s",
+        "90代",
         "TV",
-        "anime",
+        "TVA",
         "东映",
         "东映动画",
         "动",
@@ -439,6 +439,7 @@
         "搞笑",
         "日本动画",
         "旧物",
+        "東映アニメーション",
         "校园",
         "流星花园",
         "漫改",
@@ -446,7 +447,6 @@
         "漫画改编",
         "童年",
         "补番",
-        "逆后宫",
         "马越嘉彦"
       ],
       "infobox": [
@@ -642,6 +642,7 @@
         "OVA",
         "OVA-01",
         "SF",
+        "ova2",
         "タツノコプロ",
         "其他",
         "剧集",
@@ -657,7 +658,6 @@
         "破里拳Polimar",
         "科幻",
         "腰斩",
-        "英雄",
         "表番",
         "赛璐珞",
         "龙之子",
@@ -698,12 +698,12 @@
           "value": "http://www.tatsunoko.co.jp/works/archive/ova_polymar.html"
         },
         {
-          "key": "导演",
-          "value": "新房昭之"
+          "key": "原作",
+          "value": "タツノコプロ"
         },
         {
-          "key": "脚本",
-          "value": "柿沼秀樹"
+          "key": "导演",
+          "value": "新房昭之"
         },
         {
           "key": "人物设定",
@@ -718,20 +718,56 @@
           "value": "吉田昇"
         },
         {
-          "key": "音响监督",
-          "value": "田中英行"
-        },
-        {
           "key": "摄影监督",
           "value": "中條豊光"
         },
         {
-          "key": "作画监督",
-          "value": "桜井哲夫、梅津泰臣、石浜真史"
+          "key": "音响监督",
+          "value": "田中英行"
         },
         {
           "key": "音乐",
           "value": "矢野立美"
+        },
+        {
+          "key": "制片人",
+          "value": "小暮一雄、大倉宏俊"
+        },
+        {
+          "key": "动画制片人",
+          "value": "阿部倫久"
+        },
+        {
+          "key": "执行制片人",
+          "value": "吉田健二"
+        },
+        {
+          "key": "企画",
+          "value": "九里一平、成嶋弘毅"
+        },
+        {
+          "key": "动画制作",
+          "value": "タツノコプロ"
+        },
+        {
+          "key": "制作协力",
+          "value": "J.C.STAFF"
+        },
+        {
+          "key": "脚本",
+          "value": "柿沼秀樹"
+        },
+        {
+          "key": "分镜",
+          "value": "新房昭之"
+        },
+        {
+          "key": "演出",
+          "value": "新房昭之"
+        },
+        {
+          "key": "作画监督",
+          "value": "桜井哲夫、梅津泰臣、石浜真史"
         }
       ],
       "total_episodes": 2,

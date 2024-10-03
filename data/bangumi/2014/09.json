@@ -89,6 +89,14 @@
           "value": "2014年12月19日"
         },
         {
+          "key": "导演",
+          "value": "浜崎博嗣"
+        },
+        {
+          "key": "人物设定",
+          "value": "筱雅律；副人设：木村智"
+        },
+        {
           "key": "Copyright",
           "value": "©貴家悠・橘賢一／集英社・Project TERRAFORMARS"
         },
@@ -106,7 +114,7 @@
         },
         {
           "key": "製作",
-          "value": "Project TERRAFORMARS（ワーナー・ブラザース・ホームエンターテイメント/ワーナー ブラザース ジャパン、集英社、MAGES.、グッドスマイルカンパニー/Good Smile Company、アニマティック、ウルトラスーパーピクチャーズ）"
+          "value": "Project TERRAFORMARS(ワーナー ブラザース ジャパン、集英社、MAGES.、グッドスマイルカンパニー/Good Smile Company、アニマティック、ウルトラスーパーピクチャーズ）"
         }
       ],
       "total_episodes": 13,
@@ -264,9 +272,11 @@
       "name": "トライブクルクル",
       "name_cn": "舞力四射",
       "tags": [
+        "2010s",
         "2014",
         "2014年10月",
         "2014年1月",
+        "8(+3)",
         "BNPictures",
         "SUNRISE",
         "TV",
@@ -374,7 +384,6 @@
         "BuddyComplex",
         "Complex",
         "ENDCARD",
-        "OVA",
         "SUNRISE",
         "TV",
         "TVSP",
@@ -382,6 +391,7 @@
         "内山昂輝",
         "内山昂辉",
         "加藤达也",
+        "加藤達也",
         "原创",
         "完结篇",
         "心灵盟友",
@@ -389,7 +399,7 @@
         "早见沙织",
         "木村暢",
         "机战",
-        "樱井孝宏",
+        "机甲",
         "田边泰裕",
         "田辺泰裕",
         "矢立肇",
@@ -561,7 +571,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -824,14 +834,13 @@
       "name_cn": "夏恋战机",
       "tags": [
         "2014",
-        "2014-10",
         "2014年10月",
         "2014年9月",
-        "2014年十月番",
         "3D",
         "Next_Media_Animation",
         "TV",
         "WEB",
+        "web",
         "Ⅰ类tv",
         "『ONA』",
         "不是国产",
@@ -851,6 +860,7 @@
         "泡面",
         "泡面番",
         "特殊",
+        "萝卜",
         "藤岛康介",
         "藤島康介"
       ],
@@ -1206,6 +1216,7 @@
         "日本动画",
         "水原薫",
         "炸裂",
+        "石馆光太郎",
         "菅原そうた",
         "菅原壮太",
         "長部一幸"
@@ -1467,7 +1478,6 @@
         "2014",
         "2014年",
         "2014年9月",
-        "2014年七月番",
         "TMS",
         "TMSEntertainment",
         "¬",
@@ -1482,6 +1492,7 @@
         "基",
         "山下大輝",
         "总集篇",
+        "日本",
         "松岡禎丞",
         "森久保祥太郎",
         "漫改",
@@ -1783,11 +1794,11 @@
         },
         {
           "key": "主题歌编曲",
-          "value": "高橋幸宏&amp;METAFIVE(小山田圭吾×砂原良徳×TOWA TEI/テイ・トウワ×ゴンドウトモヒコ×LEO今井)"
+          "value": "高橋幸宏&METAFIVE(小山田圭吾×砂原良徳×TOWA TEI/テイ・トウワ×ゴンドウトモヒコ×LEO今井)"
         },
         {
           "key": "主题歌演出",
-          "value": "高橋幸宏&amp;METAFIVE"
+          "value": "高橋幸宏&METAFIVE"
         },
         {
           "key": "主题歌作词",
@@ -1831,20 +1842,6 @@
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/9f/237_78UdL.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/9f/237_78UdL.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/53/9f/237_78UdL.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/9f/237_78UdL.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/9f/237_78UdL.jpg"
-          },
-          "name": "GHOST IN THE SHELL / 攻殻機動隊",
-          "name_cn": "攻壳机动队",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 237
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/60/89486_6XV8A.jpg",
@@ -1937,7 +1934,6 @@
         "剧场版",
         "劇場版",
         "卡片战斗先导者",
-        "屹青",
         "日本动画",
         "板垣伸",
         "森まもる",
@@ -2231,376 +2227,6 @@
     }
   },
   {
-    "title": "ストライクウィッチーズ Operation Victory Arrow",
-    "date": "2014-09-20",
-    "bangumi": {
-      "date": "2014-09-20",
-      "platform": "OVA",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/c9/85339_TCCP7.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/c9/85339_TCCP7.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/df/c9/85339_TCCP7.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/c9/85339_TCCP7.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/c9/85339_TCCP7.jpg"
-      },
-      "summary": "新作为三部30分钟的短篇故事，时间轴设定在TVA 2期和剧场版之间，描写回归故里的角色们各自的活跃。",
-      "name": "ストライクウィッチーズ Operation Victory Arrow",
-      "name_cn": "强袭魔女 胜利之箭行动",
-      "tags": [
-        "2014",
-        "2014年",
-        "2014年12月",
-        "2014年9月",
-        "OVA",
-        "SILVERLINK.",
-        "伊藤静",
-        "其他",
-        "兽耳",
-        "军事",
-        "原创",
-        "奇幻",
-        "島田フミカネ",
-        "强袭魔女",
-        "战争",
-        "战斗",
-        "斎藤千和",
-        "日本",
-        "獣耳娘",
-        "番外",
-        "百合",
-        "科幻",
-        "空战",
-        "肉",
-        "萌",
-        "轻百合",
-        "露点",
-        "飞天小裤裤",
-        "高村和宏",
-        "魔法少女"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "强袭魔女 胜利之箭行动"
-        },
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "强袭魔女 OPERATION VICTORY ARROW"
-            }
-          ]
-        },
-        {
-          "key": "话数",
-          "value": "3"
-        },
-        {
-          "key": "发售日",
-          "value": "2014年12月12日"
-        },
-        {
-          "key": "官方网站",
-          "value": "http://w-witch.jp/sw_ova/"
-        },
-        {
-          "key": "上映年度",
-          "value": "2014年9月20日（劇場先行公開）"
-        },
-        {
-          "key": "原作",
-          "value": "島田フミカネ&amp;Projekt Kagonish"
-        },
-        {
-          "key": "製作",
-          "value": "第501統合戦闘航空団 2014（KADOKAWA、SILVER LINK.、クロックワークス、日本コロムビア、グロービジョン、ソニーPCL）"
-        },
-        {
-          "key": "总官方网站",
-          "value": "http://w-witch.jp"
-        },
-        {
-          "key": "导演",
-          "value": "高村和宏"
-        },
-        {
-          "key": "人物设定",
-          "value": "高村和宏"
-        },
-        {
-          "key": "分镜",
-          "value": "【次回预告：金﨑貴臣】"
-        },
-        {
-          "key": "演出",
-          "value": "【兼次回预告＆ED1演出：神保昌登；OP演出；河村智之；ED2演出：高村和宏】"
-        }
-      ],
-      "total_episodes": 3,
-      "id": 85339,
-      "eps": 3,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/b5/18016_9iNIY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/b5/18016_9iNIY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3a/b5/18016_9iNIY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/b5/18016_9iNIY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/b5/18016_9iNIY.jpg"
-          },
-          "name": "ストライクウィッチーズ 劇場版",
-          "name_cn": "强袭魔女 剧场版",
-          "relation": "续集",
-          "type": 2,
-          "id": 18016
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/b5/315895_lt45Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/b5/315895_lt45Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a2/b5/315895_lt45Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/b5/315895_lt45Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/b5/315895_lt45Z.jpg"
-          },
-          "name": "ストライクウィッチーズ&ブレイブウィッチーズ 主題歌BEST",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 315895
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/56/314352_4rA4K.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/56/314352_4rA4K.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1a/56/314352_4rA4K.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/56/314352_4rA4K.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/56/314352_4rA4K.jpg"
-          },
-          "name": "ワールドウィッチーズ UNITED FRONT",
-          "name_cn": "世界魔女 UNITED FRONT",
-          "relation": "游戏",
-          "type": 4,
-          "id": 314352
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/e1/290313_ATvAV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/e1/290313_ATvAV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/51/e1/290313_ATvAV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/e1/290313_ATvAV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/e1/290313_ATvAV.jpg"
-          },
-          "name": "岛田フミカネ THE WORLD WITCHES 2018",
-          "name_cn": "岛田文金 世界魔女 2018",
-          "relation": "书籍",
-          "type": 1,
-          "id": 290313
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/d9/253047_uZQ6K.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/d9/253047_uZQ6K.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/08/d9/253047_uZQ6K.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/d9/253047_uZQ6K.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/d9/253047_uZQ6K.jpg"
-          },
-          "name": "連盟空軍航空魔法音楽隊 ルミナスウィッチーズ",
-          "name_cn": "联盟空军航空魔法音乐队 光辉魔女",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 253047
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/b2/181422_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/b2/181422_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/b2/181422_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/b2/181422_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/b2/181422_jp.jpg"
-          },
-          "name": "ストライクウィッチーズ 主題歌&劇中歌コレクション",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 181422
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/10/113756_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/10/113756_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/10/113756_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/10/113756_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/10/113756_jp.jpg"
-          },
-          "name": "Connect Link",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 113756
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/85/85338_7ROAZ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/85/85338_7ROAZ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5c/85/85338_7ROAZ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5c/85/85338_7ROAZ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/85/85338_7ROAZ.jpg"
-          },
-          "name": "ブレイブウィッチーズ",
-          "name_cn": "无畏魔女",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 85338
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/2e/5651_0969e.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/2e/5651_0969e.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9b/2e/5651_0969e.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/2e/5651_0969e.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/2e/5651_0969e.jpg"
-          },
-          "name": "ストライクウィッチーズ2",
-          "name_cn": "强袭魔女2",
-          "relation": "前传",
-          "type": 2,
-          "id": 5651
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/06/140168_VVwn9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/06/140168_VVwn9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bc/06/140168_VVwn9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/06/140168_VVwn9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/06/140168_VVwn9.jpg"
-          },
-          "name": "ストライクウィッチーズ Operation Victory Arrow vol.1 『秘め声CD』",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 140168
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/63/37/123026_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/63/37/123026_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/63/37/123026_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/63/37/123026_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/63/37/123026_jp.jpg"
-          },
-          "name": "「ストライクウィッチーズ Operation Victory Arrow vol.1 サン・トロンの雷鳴」秘め歌コレクション",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 123026
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/51/140169_LaCud.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/51/140169_LaCud.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ef/51/140169_LaCud.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/51/140169_LaCud.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/51/140169_LaCud.jpg"
-          },
-          "name": "ストライクウィッチーズ Operation Victory Arrow vol.1 後日談ドラマCD",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 140169
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/ed/125799_4I1PS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/ed/125799_4I1PS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/99/ed/125799_4I1PS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/ed/125799_4I1PS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/ed/125799_4I1PS.jpg"
-          },
-          "name": "「ストライクウィッチーズ Operation Victory Arrow vol.2 エーゲ海の女神」秘め歌コレクション",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 125799
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/6e/130022_A6aab.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/6e/130022_A6aab.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/74/6e/130022_A6aab.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/6e/130022_A6aab.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/6e/130022_A6aab.jpg"
-          },
-          "name": "ストライクウィッチーズ Operation Victory Arrow vol.2 『秘め声CD』",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 130022
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/be/135909_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/be/135909_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/80/be/135909_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/be/135909_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/be/135909_jp.jpg"
-          },
-          "name": "「ストライクウィッチーズ Operation Victory Arrow Vol.3 アルンヘムの橋」秘め歌コレクション",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 135909
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/2c/130023_2Y2tM.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/2c/130023_2Y2tM.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ae/2c/130023_2Y2tM.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/2c/130023_2Y2tM.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/2c/130023_2Y2tM.jpg"
-          },
-          "name": "ストライクウィッチーズ Operation Victory Arrow vol.2 後日談ドラマCD",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 130023
-        },
-        {
-          "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
-          },
-          "name": "ストライクウィッチーズ Operation Victory Arrow vol.3 『秘め声CD』",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 154387
-        },
-        {
-          "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
-          },
-          "name": "ストライクウィッチーズ Operation Victory Arrow vol.3 後日談ドラマCD",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 154388
-        }
-      ]
-    }
-  },
-  {
     "title": "英雄伝説 閃の軌跡II",
     "date": "2014-09-25",
     "bangumi": {
@@ -2627,7 +2253,6 @@
         "PS3",
         "PS4",
         "PSV",
-        "PlayStation3",
         "RPG",
         "falcom",
         "一般向",
@@ -2635,6 +2260,7 @@
         "买了",
         "內山昂輝",
         "内山昂辉",
+        "单机",
         "日本",
         "日本ファルコム",
         "汉化",
@@ -2772,17 +2398,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/b7/119864_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/b7/119864_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a2/b7/119864_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/b7/119864_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/b7/119864_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/1a/122862_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/1a/122862_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/1a/122862_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/1a/122862_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/1a/122862_jp.jpg"
           },
-          "name": "軌跡シリーズ10周年記念本 セプト=アーカイブ",
-          "name_cn": "英雄传说 轨迹系列10周年纪念特集 Sept=Archive",
+          "name": "英雄伝説 閃の軌跡II ザ・コンプリートガイド",
+          "name_cn": "",
           "relation": "单行本",
           "type": 1,
-          "id": 119864
+          "id": 122862
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/cc/511408_4exAA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/cc/511408_4exAA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/cc/511408_4exAA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/cc/511408_4exAA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/cc/511408_4exAA.jpg"
+          },
+          "name": "英雄伝説 閃の軌跡II 公式パーフェクトガイド",
+          "name_cn": "英雄传说 闪之轨迹2 官方完美攻略书",
+          "relation": "书籍",
+          "type": 1,
+          "id": 511408
         },
         {
           "images": {
@@ -2800,11 +2440,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/3b/330334_w099l.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/3b/330334_w099l.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/af/3b/330334_w099l.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/3b/330334_w099l.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/3b/330334_w099l.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/3b/330334_4YY37.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/3b/330334_4YY37.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/af/3b/330334_4YY37.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/3b/330334_4YY37.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/3b/330334_4YY37.jpg"
           },
           "name": "The Legend of Heroes 閃の軌跡 Northern War",
           "name_cn": "英雄传说 闪之轨迹：北方战役",
@@ -2898,20 +2538,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/1a/122862_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/1a/122862_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ff/1a/122862_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/1a/122862_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/1a/122862_jp.jpg"
-          },
-          "name": "英雄伝説 閃の軌跡II ザ・コンプリートガイド",
-          "name_cn": "英雄传说 闪之轨迹2 官方完美攻略书",
-          "relation": "单行本",
-          "type": 1,
-          "id": 122862
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/aa/56949_uYzeZ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/aa/56949_uYzeZ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b7/aa/56949_uYzeZ.jpg",
@@ -2923,6 +2549,20 @@
           "relation": "前传",
           "type": 4,
           "id": 56949
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/b7/119864_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/b7/119864_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a2/b7/119864_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/b7/119864_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/b7/119864_jp.jpg"
+          },
+          "name": "軌跡シリーズ10周年記念本 セプト=アーカイブ",
+          "name_cn": "英雄传说 轨迹系列10周年纪念特集 Sept=Archive",
+          "relation": "单行本",
+          "type": 1,
+          "id": 119864
         },
         {
           "images": {
@@ -3035,155 +2675,6 @@
           "relation": "角色出演",
           "type": 4,
           "id": 82041
-        }
-      ]
-    }
-  },
-  {
-    "title": "茶啊二中",
-    "date": "2014-09-03",
-    "bangumi": {
-      "date": "2014-09-03",
-      "platform": "WEB",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/05/148295_ENhGx.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/05/148295_ENhGx.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/cc/05/148295_ENhGx.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/05/148295_ENhGx.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/05/148295_ENhGx.jpg"
-      },
-      "summary": "长春味儿；大连味儿；丹东味儿交织在一起，融汇于性格迥异的9个学生，3个老师中。浓烈的东北风再配上充满滋味的校园生活，将会产生什么化学反应？这里有你最烦的老师；只有回家才偷偷学习的学霸；自以为是的年级主任；还有上厕所都陪你的兄弟。\r\n这个动画没有大道理，没有上百集的时间。两分钟，用一个个曾经发生在你身边的小故事，逗你开心，给你感动。\r\n据说一辈子的丢人事儿都在初中干完了，今年9月，咱们一起回去看看吧!",
-      "name": "茶啊二中",
-      "name_cn": "茶啊二中",
-      "tags": [
-        "2014",
-        "2014年9月",
-        "3D",
-        "TV",
-        "WEB",
-        "a.Anime",
-        "d.短片",
-        "g.中国",
-        "j.值得且只值得看一遍(3星)",
-        "东北话",
-        "凝羽动画",
-        "动画",
-        "原创",
-        "国产",
-        "国创",
-        "国漫",
-        "弱6",
-        "搞笑",
-        "校园",
-        "泡面番",
-        "现代国产网络动画已看合集",
-        "童年",
-        "茶啊二中"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "茶啊二中"
-        },
-        {
-          "key": "话数",
-          "value": "10"
-        },
-        {
-          "key": "放送开始",
-          "value": "2014年9月3日"
-        },
-        {
-          "key": "导演",
-          "value": "阎凯"
-        },
-        {
-          "key": "制片",
-          "value": "邢原源"
-        },
-        {
-          "key": "动画制作",
-          "value": "凝羽动画"
-        }
-      ],
-      "total_episodes": 10,
-      "id": 148295,
-      "eps": 10,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/9a/148296_mKRq3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/9a/148296_mKRq3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/29/9a/148296_mKRq3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/9a/148296_mKRq3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/9a/148296_mKRq3.jpg"
-          },
-          "name": "茶啊二中第二季",
-          "name_cn": "茶啊二中第二季",
-          "relation": "续集",
-          "type": 2,
-          "id": 148296
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/97/170239_gSsR7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/97/170239_gSsR7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fa/97/170239_gSsR7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/97/170239_gSsR7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/97/170239_gSsR7.jpg"
-          },
-          "name": "茶啊二中男寝501",
-          "name_cn": "茶啊二中男寝501",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 170239
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/02/182997_3S80S.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/02/182997_3S80S.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c0/02/182997_3S80S.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/02/182997_3S80S.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/02/182997_3S80S.jpg"
-          },
-          "name": "茶啊二中泡面番",
-          "name_cn": "茶啊二中泡面番",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 182997
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/26/225976_lQ5DL.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/26/225976_lQ5DL.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9c/26/225976_lQ5DL.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/26/225976_lQ5DL.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/26/225976_lQ5DL.jpg"
-          },
-          "name": "茶啊二中 嘎嘎以嘎斯",
-          "name_cn": "茶啊二中 嘎嘎以嘎斯",
-          "relation": "衍生",
-          "type": 2,
-          "id": 225976
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/26/432463_QeV74.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/26/432463_QeV74.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fc/26/432463_QeV74.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/26/432463_QeV74.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/26/432463_QeV74.jpg"
-          },
-          "name": "茶啊二中",
-          "name_cn": "",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 432463
         }
       ]
     }

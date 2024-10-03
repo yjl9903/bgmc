@@ -73,7 +73,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/7f/515990_uv1k4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/7f/515990_uv1k4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/7f/515990_uv1k4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/7f/515990_uv1k4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/7f/515990_uv1k4.jpg"
+          },
+          "name": "マルス2015年 / 少年マルス",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 515990
+        }
+      ]
     }
   }
 ]
