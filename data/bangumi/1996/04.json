@@ -412,20 +412,20 @@
         "1996",
         "1996年",
         "1996年4月",
-        "90s",
         "90年代",
         "BONES",
         "SUNRISE",
         "TV",
+        "robo",
         "サンライズ",
-        "关智一",
+        "中村丰",
+        "动画",
         "原创",
         "坂本真绫",
         "奇幻",
         "异世界",
         "机战",
         "河森正治",
-        "渡边信一郎",
         "溝口肇",
         "矢立肇",
         "科幻",
@@ -525,16 +525,68 @@
           "value": "サンライズ"
         },
         {
-          "key": "製作",
+          "key": "制作",
           "value": "テレビ東京、サンライズ"
         },
         {
-          "key": "制作协力",
-          "value": "バンダイビジュアル、高梨実、梅澤勝路"
+          "key": "製作",
+          "value": "协力：バンダイビジュアル、高梨実、梅澤勝路"
         },
         {
           "key": "制片人",
           "value": "村瀬由美（テレビ東京）、南雅彦（サンライズ）"
+        },
+        {
+          "key": "设定",
+          "value": "设定协力：前田真宏、幡池裕行（伊東岳彦）、武半慎吾、石垣純哉"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "佐々木史朗、太田敏明"
+        },
+        {
+          "key": "特效",
+          "value": "長谷川敏生（マリックス）"
+        },
+        {
+          "key": "剪辑",
+          "value": "鶴淵友彰"
+        },
+        {
+          "key": "音效",
+          "value": "倉橋静男（サウンドボックス）"
+        },
+        {
+          "key": "脚本",
+          "value": "河森正治、山口亮太、稲荷昭彦、北嶋博明"
+        },
+        {
+          "key": "分镜",
+          "value": "赤根和樹、河本昇悟、武井良幸、渡辺信一郎、甚目喜一（佐藤順一）、山口祐司、高本宣弘、近藤信宏"
+        },
+        {
+          "key": "演出",
+          "value": "武井良幸、吉本毅、河本昇悟、渡辺信一郎、佐藤育郎、赤根和樹"
+        },
+        {
+          "key": "作画监督",
+          "value": "逢坂浩司、工原しげき、菅野宏紀、小森高博、入江泰浩、しんぼたくろう、久行宏和、柳沢テツヤ、都留稔幸（協力）、竹内浩志"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "坂本真綾（OP）、和田弘樹[h-wonder]（ED）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "岩里祐穂（OP）、和田弘樹[h-wonder]（ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "菅野よう子（OP）、和田弘樹[h-wonder]（ED）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "菅野よう子（OP）、和田弘樹[h-wonder]（ED）、本間昭光（ED）"
         }
       ],
       "total_episodes": 26,
@@ -695,7 +747,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -741,6 +793,34 @@
           "relation": "游戏",
           "type": 4,
           "id": 467503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/93/477070_jQ3Wq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/93/477070_jQ3Wq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d2/93/477070_jQ3Wq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/93/477070_jQ3Wq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/93/477070_jQ3Wq.jpg"
+          },
+          "name": "SUNRISE ART WORKS／天空のエスカフローネ TVシリーズ",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 477070
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/40/508854_9UE9Y.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/40/508854_9UE9Y.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ce/40/508854_9UE9Y.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/40/508854_9UE9Y.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/40/508854_9UE9Y.jpg"
+          },
+          "name": "天空のエスカフローネ 完全収録 ~MEMORY OF GAEA~",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 508854
         }
       ]
     }
@@ -769,7 +849,6 @@
         "ATV深夜档",
         "JUMP",
         "TV",
-        "不感兴趣",
         "东映",
         "地狱老师",
         "地獄老師",
@@ -777,6 +856,7 @@
         "富田祐弘",
         "感动类",
         "搞笑",
+        "日常类",
         "日本动画",
         "旧番",
         "東映アニメーション",
@@ -785,9 +865,9 @@
         "漫改",
         "漫画改",
         "漫画改编",
+        "爷青回",
         "童年",
         "童年系列",
-        "笠原留美",
         "置鮎龍太郎",
         "补旧番",
         "貝澤幸男",
@@ -1004,7 +1084,6 @@
       "name": "機動新世紀ガンダムX",
       "name_cn": "机动新世纪高达X",
       "tags": [
-        "1990s",
         "1996",
         "1996年",
         "1996年4月",
@@ -1022,6 +1101,7 @@
         "動畫",
         "原创",
         "川崎ヒロユキ",
+        "恋爱",
         "战争",
         "新人类黑历史",
         "日本",
@@ -1077,6 +1157,10 @@
           "value": "©1996 創通・サンライズ"
         },
         {
+          "key": "企画",
+          "value": "サンライズ"
+        },
+        {
           "key": "原作",
           "value": "矢立肇、富野由悠季"
         },
@@ -1119,6 +1203,50 @@
         {
           "key": "动画制作",
           "value": "サンライズ"
+        },
+        {
+          "key": "设定",
+          "value": "设定协力：長谷川裕一、カトキハジメ"
+        },
+        {
+          "key": "制片人",
+          "value": "梶淳（テレビ朝日）→岩本太郎（テレビ朝日）、木村純一（テレビ朝日）、富岡秀行（サンライズ）"
+        },
+        {
+          "key": "制作",
+          "value": "テレビ朝日、サンライズ"
+        },
+        {
+          "key": "制作协力",
+          "value": "電通、創通エージェンシー"
+        },
+        {
+          "key": "分镜",
+          "value": "高松信司、湊屋夢吉（紅優）、吉本毅、西森章、日高政光、千明孝一、西澤晋、森邦宏、谷口悟朗、渡邊哲哉、南康宏、東海林真一、越智浩仁（於地紘仁）"
+        },
+        {
+          "key": "演出",
+          "value": "森邦宏、渡邊哲哉、原田奈々、吉本毅、南康宏、谷口悟朗、日高政光、岡本英樹、越智浩仁（於地紘仁）"
+        },
+        {
+          "key": "作画监督",
+          "value": "西村誠芳、佐久間信一、藁谷均、筱雅律"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "ROMANTIC MODE（OP）、Warren Wiebe（ED1）、re-kiss[奥土居美可]（ED1日语版）、中瀬聡美（ED2）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "ROMANTIC MODE（OP1）、西脇唯（OP2）、Susanne Marie Edgren（ED1）、許瑛子（ED1日语版）、小室みつ子（ED2）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "ROMANTIC MODE（OP1）、Joe Rinoie（OP2）、Tom Keane（ED1）、濱田金吾（ED2）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "ROMANTIC MODE（OP1）、Joe Rinoie（OP2）、鈴川真樹（OP2）、Tom Keane（ED1）、須藤賢一（ED1日语版）、TOM KEAN（ED2）"
         }
       ],
       "total_episodes": 39,
@@ -1223,7 +1351,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -1543,6 +1671,7 @@
       "name_cn": "VS骑士柠檬汽水&40炎",
       "tags": [
         "1996",
+        "1996年4月",
         "90s",
         "90年代",
         "ProductionReed",
@@ -1568,7 +1697,7 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "VS骑士柠檬汽水&amp;40炎"
+          "value": "VS骑士柠檬汽水&40炎"
         },
         {
           "key": "话数",
@@ -1665,7 +1794,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -2099,7 +2228,7 @@
       "name_cn": "钢铁神兵B'T-X",
       "tags": [
         "1996",
-        "1996年",
+        "1996年4月",
         "90年代",
         "B",
         "BTX",
@@ -2231,11 +2360,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/7f/8837_1Kc62.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/7f/8837_1Kc62.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b9/7f/8837_1Kc62.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/7f/8837_1Kc62.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/7f/8837_1Kc62.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/7f/8837_DeDA1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/7f/8837_DeDA1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b9/7f/8837_DeDA1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/7f/8837_DeDA1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/7f/8837_DeDA1.jpg"
           },
           "name": "遥か ~SAILING FOR MY DREAM~",
           "name_cn": "",
@@ -2245,11 +2374,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/91/35970_Nz4S4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/91/35970_Nz4S4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ae/91/35970_Nz4S4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/91/35970_Nz4S4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/91/35970_Nz4S4.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/91/35970_Rq8YQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/91/35970_Rq8YQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ae/91/35970_Rq8YQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/91/35970_Rq8YQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/91/35970_Rq8YQ.jpg"
           },
           "name": "B'T-X NEO",
           "name_cn": "钢铁神兵B'T-X NEO",
@@ -2757,7 +2886,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/7a/511533_6fF4a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/7a/511533_6fF4a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d8/7a/511533_6fF4a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/7a/511533_6fF4a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/7a/511533_6fF4a.jpg"
+          },
+          "name": "いつも心に太陽を",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 511533
+        }
+      ]
     }
   },
   {
@@ -2822,15 +2966,71 @@
           "value": "1996年4月1日"
         },
         {
-          "key": "动画制作",
-          "value": "マーカス"
-        },
-        {
           "key": "导演",
           "value": "新房昭之"
         },
         {
+          "key": "原案",
+          "value": "若松会津士（マーカス）"
+        },
+        {
+          "key": "人物原案",
+          "value": "稀崎雅"
+        },
+        {
           "key": "人物设定",
+          "value": "越智信次"
+        },
+        {
+          "key": "色彩设计",
+          "value": "渋谷圭子"
+        },
+        {
+          "key": "美术监督",
+          "value": "脇威志"
+        },
+        {
+          "key": "摄影监督",
+          "value": "鈴木秀男"
+        },
+        {
+          "key": "音响监督",
+          "value": "本田保則"
+        },
+        {
+          "key": "音乐",
+          "value": "羽毛田丈史"
+        },
+        {
+          "key": "制片人",
+          "value": "釜秀樹、高江勇次、安西武"
+        },
+        {
+          "key": "企画",
+          "value": "斎春雄、小野木圭一"
+        },
+        {
+          "key": "动画制作",
+          "value": "マーカス"
+        },
+        {
+          "key": "制作协力",
+          "value": "童夢"
+        },
+        {
+          "key": "脚本",
+          "value": "六月十三"
+        },
+        {
+          "key": "分镜",
+          "value": "河原ゆうじ"
+        },
+        {
+          "key": "演出",
+          "value": "下田正美"
+        },
+        {
+          "key": "作画监督",
           "value": "越智信次"
         }
       ],
@@ -2931,7 +3131,7 @@
           "key": "别名",
           "value": [
             {
-              "v": "NEW MOBILE REPORT GUNDAM-W ODD&amp;EVEN NUMBERS OPERATION METEOR"
+              "v": "NEW MOBILE REPORT GUNDAM-W ODD&EVEN NUMBERS OPERATION METEOR"
             }
           ]
         },
@@ -2954,6 +3154,38 @@
         {
           "key": "结束",
           "value": "1996年10月25日"
+        },
+        {
+          "key": "企画",
+          "value": "サンライズ"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇、富野由悠季"
+        },
+        {
+          "key": "导演",
+          "value": "池田成"
+        },
+        {
+          "key": "系列构成",
+          "value": "隅沢克之"
+        },
+        {
+          "key": "人物设定",
+          "value": "村瀬修功"
+        },
+        {
+          "key": "机械设定",
+          "value": "大河原邦男、カトキハジメ、石垣純哉"
+        },
+        {
+          "key": "设定",
+          "value": "出渕裕（衣装设计）"
+        },
+        {
+          "key": "発売元・販売元",
+          "value": "バンダイビジュアル"
         }
       ],
       "total_episodes": 2,

@@ -25,6 +25,7 @@
         "Patlabor",
         "Production.I.G",
         "SUNRISE",
+        "robo",
         "サンライズ",
         "伊藤和典",
         "出渊裕",
@@ -39,7 +40,6 @@
         "日本",
         "机动条子",
         "机动警察",
-        "机器人",
         "机战",
         "横手美智子",
         "漫改",
@@ -116,7 +116,7 @@
         },
         {
           "key": "製作",
-          "value": "バンダイ、東北新社"
+          "value": "バンダイ、東北新社 協力：サンライズ"
         },
         {
           "key": "脚本",
@@ -144,11 +144,23 @@
         },
         {
           "key": "美术监督",
-          "value": "小板橋かよ子、渋谷幸弘"
+          "value": "小板橋かよ子（小板橋加代子）、渋谷幸弘"
         },
         {
           "key": "演出助理",
           "value": "菱川直樹、原田奈々"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "笠原弘子（OP[1、2、5、6]）、冨永みーな（OP、ED[3、4、7-9]）、DAIZO（OP[10 - 13]）、速水けんたろう（OP[14-16]）、JA-JA（ED[1、2、5]）、兵藤まこ（ED[10-13]）、茂村泰彦（ED[14-15]）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "根岸貴幸（OP[1、2、5、6]）、船山基紀（ED[1、2、5]）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "川井憲次（ED[16]）"
         }
       ],
       "total_episodes": 16,
@@ -162,34 +174,6 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/f1/321_j3YWy.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/f1/321_j3YWy.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ca/f1/321_j3YWy.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/f1/321_j3YWy.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/f1/321_j3YWy.jpg"
-          },
-          "name": "機動警察パトレイバー 2 the Movie",
-          "name_cn": "机动警察剧场版2 和平保卫战",
-          "relation": "续集",
-          "type": 2,
-          "id": 321
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/a2/3499_br6r8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/a2/3499_br6r8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3e/a2/3499_br6r8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/a2/3499_br6r8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/a2/3499_br6r8.jpg"
-          },
-          "name": "WXIII 機動警察パトレイバー",
-          "name_cn": "机动警察 十三号废弃物",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 3499
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/c1/8484_K4VAE.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/c1/8484_K4VAE.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/d7/c1/8484_K4VAE.jpg",
@@ -201,20 +185,6 @@
           "relation": "前传",
           "type": 2,
           "id": 8484
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/0c/8696_Rna4b.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/0c/8696_Rna4b.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4e/0c/8696_Rna4b.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/0c/8696_Rna4b.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/0c/8696_Rna4b.jpg"
-          },
-          "name": "機動警察パトレイバー アーリーデイズ",
-          "name_cn": "机动警察 OVA",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 8696
         },
         {
           "images": {
@@ -341,6 +311,34 @@
           "relation": "插入歌",
           "type": 3,
           "id": 110545
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/79/217071_OnBIO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/79/217071_OnBIO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/51/79/217071_OnBIO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/79/217071_OnBIO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/79/217071_OnBIO.jpg"
+          },
+          "name": "機動警察パトレイバー EZY",
+          "name_cn": "机动警察 EZY",
+          "relation": "续集",
+          "type": 2,
+          "id": 217071
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e2/db/441934_rPEQe.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e2/db/441934_rPEQe.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e2/db/441934_rPEQe.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e2/db/441934_rPEQe.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e2/db/441934_rPEQe.jpg"
+          },
+          "name": "機動警察パトレイバー 完全設定資料集 vol.2 -OVA編-",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 441934
         },
         {
           "images": {

@@ -203,6 +203,7 @@
         "GUNDAM",
         "SUNRISE",
         "TV",
+        "TVA",
         "TVB",
         "ガンダムG",
         "东方不败",
@@ -211,7 +212,6 @@
         "单手拆机",
         "原创",
         "师匠",
-        "年番",
         "战斗",
         "机战",
         "热血",
@@ -256,19 +256,23 @@
           "value": "©1994 創通・サンライズ"
         },
         {
+          "key": "企画",
+          "value": "サンライズ"
+        },
+        {
           "key": "原作",
           "value": "矢立肇、富野由悠季"
         },
         {
-          "key": "导演",
+          "key": "总导演",
           "value": "今川泰宏"
         },
         {
           "key": "系列构成",
-          "value": "五武冬史"
+          "value": "五武冬史（鈴木良武）"
         },
         {
-          "key": "人物原案",
+          "key": "人物设定",
           "value": "逢坂浩司"
         },
         {
@@ -284,20 +288,60 @@
           "value": "大神洋一"
         },
         {
-          "key": "音响监督",
-          "value": "浦上靖夫"
+          "key": "机械设定",
+          "value": "大河原邦男、カトキハジメ、山根公利"
+        },
+        {
+          "key": "剪辑",
+          "value": "鶴渕友彰"
         },
         {
           "key": "音乐",
           "value": "田中公平"
         },
         {
-          "key": "动画制作",
-          "value": "サンライズ"
+          "key": "音响监督",
+          "value": "浦上靖夫"
+        },
+        {
+          "key": "脚本",
+          "value": "五武冬史（鈴木良武）、桶谷顕、山口亮太、志茂文彦、北嶋博明"
+        },
+        {
+          "key": "分镜",
+          "value": "山口祐司、河本昇悟、西森章、忍海知加良、谷口悟朗、杉島邦久、菜利戸奈亜子、吉永尚之、\t近藤信宏、須永司、井上草二、武井良幸、滝沢敏文、今川泰宏"
+        },
+        {
+          "key": "演出",
+          "value": "谷口悟朗、河本昇悟、佐藤育郎、芦沢剛史、武井良幸、森邦宏、吉本毅"
+        },
+        {
+          "key": "作画监督",
+          "value": "西村誠芳、新保卓郎（しんぼたくろう）、大塚健（中村プロ）、吉田徹、佐久間信一、菅野宏紀、木村貴宏、森下博光、逢坂浩司、佐野浩敏"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "鵜島仁文（OP）、彩恵津子（ED1）、井上武英（ED2）"
+        },
+        {
+          "key": "助理制片人",
+          "value": "赤崎義人"
+        },
+        {
+          "key": "制片人",
+          "value": "小泉美明（テレビ朝日）、植田益朗（サンライズ）、南雅彦（サンライズ）"
         },
         {
           "key": "制作",
           "value": "テレビ朝日、サンライズ"
+        },
+        {
+          "key": "制作协力",
+          "value": "電通、創通エージェンシー"
+        },
+        {
+          "key": "动画制作",
+          "value": "サンライズ"
         },
         {
           "key": "TVB粤语片头曲",
@@ -306,6 +350,22 @@
         {
           "key": "TVB粤语插曲",
           "value": "《高空遨翔 》歌手： 葉富生 作詞： 韋然 作曲： 鵜島仁文 編曲： 鵜島仁文・樫原伸彦"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "鵜島仁文（OP）、井上望（ED1）、池永康記（ED2）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "鵜島仁文（OP）、白川晃（ED1）、樫原伸彦（ED2）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "鵜島仁文（OP）、樫原伸彦（OP1）、岸利至（OP2）、小西真理（ED1）、斉藤誠（ED2）"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "大山修司、天野由梨、鍾蔚霊、陳奕、葉富生、黄文廣、黎允文"
         }
       ],
       "total_episodes": 49,
@@ -319,31 +379,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/70/298304_vOAlt.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/7d/303892_GFZ86.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/7d/303892_GFZ86.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f7/7d/303892_GFZ86.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/7d/303892_GFZ86.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/7d/303892_GFZ86.jpg"
           },
-          "name": "機動戦士ガンダム EXTREME VS. MAXI BOOST ON",
-          "name_cn": "机动战士高达 EXTREME VS.极限爆发",
+          "name": "サンライズ英雄譚2",
+          "name_cn": "日升英雄谭2",
           "relation": "游戏",
           "type": 4,
-          "id": 298304
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/2c/407412_3ckJS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/2c/407412_3ckJS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a1/2c/407412_3ckJS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/2c/407412_3ckJS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/2c/407412_3ckJS.jpg"
-          },
-          "name": "機動戦士ガンダム 40th Anniversary BEST ANIME MIX vol.2",
-          "name_cn": "机动战士高达40周年纪念歌曲精选 vol.2",
-          "relation": "其他",
-          "type": 3,
-          "id": 407412
+          "id": 303892
         },
         {
           "images": {
@@ -372,6 +418,20 @@
           "relation": "其他",
           "type": 3,
           "id": 106248
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b3/b6/117069_Xwi19.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b3/b6/117069_Xwi19.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b3/b6/117069_Xwi19.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b3/b6/117069_Xwi19.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b6/117069_Xwi19.jpg"
+          },
+          "name": "ロストヒーローズ2",
+          "name_cn": "忘却的英雄2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 117069
         },
         {
           "images": {
@@ -424,7 +484,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -473,31 +533,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/c6/47_yJDdk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/c6/47_yJDdk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/67/c6/47_yJDdk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/c6/47_yJDdk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/c6/47_yJDdk.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/70/298304_vOAlt.jpg"
           },
-          "name": "スーパーロボット大戦A ポータブル",
-          "name_cn": "超级机器人大战A 便携版",
+          "name": "機動戦士ガンダム EXTREME VS. MAXI BOOST ON",
+          "name_cn": "机动战士高达 EXTREME VS.极限爆发",
           "relation": "游戏",
           "type": 4,
-          "id": 47
+          "id": 298304
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/7d/303892_GFZ86.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/7d/303892_GFZ86.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/7d/303892_GFZ86.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/7d/303892_GFZ86.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/7d/303892_GFZ86.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/c7/50_8rPUO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/c7/50_8rPUO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c0/c7/50_8rPUO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/c7/50_8rPUO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/c7/50_8rPUO.jpg"
           },
-          "name": "サンライズ英雄譚2",
-          "name_cn": "日升英雄谭2",
-          "relation": "游戏",
-          "type": 4,
-          "id": 303892
+          "name": "機動戦士ガンダム",
+          "name_cn": "机动战士高达",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 50
         },
         {
           "images": {
@@ -613,6 +673,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/2c/407412_3ckJS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/2c/407412_3ckJS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/2c/407412_3ckJS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/2c/407412_3ckJS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/2c/407412_3ckJS.jpg"
+          },
+          "name": "機動戦士ガンダム 40th Anniversary BEST ANIME MIX vol.2",
+          "name_cn": "机动战士高达40周年纪念歌曲精选 vol.2",
+          "relation": "其他",
+          "type": 3,
+          "id": 407412
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/00/509349_YC4XX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/00/509349_YC4XX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/00/509349_YC4XX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/00/509349_YC4XX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/00/509349_YC4XX.jpg"
+          },
+          "name": "機動武闘伝Gガンダム外伝 天地天愕",
+          "name_cn": "机动武斗传G高达外传 天地天愕",
+          "relation": "书籍",
+          "type": 1,
+          "id": 509349
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/da/53045_3b8Tv.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/da/53045_3b8Tv.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/38/da/53045_3b8Tv.jpg",
@@ -627,17 +715,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/c7/50_8rPUO.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/c7/50_8rPUO.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c0/c7/50_8rPUO.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/c7/50_8rPUO.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/c7/50_8rPUO.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/c6/47_yJDdk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/c6/47_yJDdk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/67/c6/47_yJDdk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/c6/47_yJDdk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/c6/47_yJDdk.jpg"
           },
-          "name": "機動戦士ガンダム",
-          "name_cn": "机动战士高达",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 50
+          "name": "スーパーロボット大戦A ポータブル",
+          "name_cn": "超级机器人大战A 便携版",
+          "relation": "游戏",
+          "type": 4,
+          "id": 47
         },
         {
           "images": {
@@ -739,6 +827,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/c8/24993_Mb55t.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/c8/24993_Mb55t.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ec/c8/24993_Mb55t.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/c8/24993_Mb55t.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/c8/24993_Mb55t.jpg"
+          },
+          "name": "ロストヒーローズ",
+          "name_cn": "忘却的英雄",
+          "relation": "游戏",
+          "type": 4,
+          "id": 24993
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/68/50893_wa451.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/68/50893_wa451.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/49/68/50893_wa451.jpg",
@@ -806,6 +908,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 58750
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/d9/64284_BiRXr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/d9/64284_BiRXr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/32/d9/64284_BiRXr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/d9/64284_BiRXr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/d9/64284_BiRXr.jpg"
+          },
+          "name": "ヒーローズバーサス",
+          "name_cn": "英雄VS",
+          "relation": "游戏",
+          "type": 4,
+          "id": 64284
         },
         {
           "images": {
@@ -1343,7 +1459,7 @@
         },
         {
           "key": "脚本",
-          "value": "星山博之、福田己津央、芦沢剛史"
+          "value": "福田己津央、星山博之、芦沢剛史"
         },
         {
           "key": "人物原案",
@@ -1351,23 +1467,99 @@
         },
         {
           "key": "人物设定",
-          "value": "吉松孝博"
+          "value": "吉松孝博(スタジオライブ)"
         },
         {
           "key": "机械设定",
-          "value": "河森正治"
-        },
-        {
-          "key": "音响监督",
-          "value": "藤野貞義"
+          "value": "河森正治(スタジオぬえ)"
         },
         {
           "key": "音乐",
           "value": "大谷幸、小西真理"
         },
         {
-          "key": "制作",
-          "value": "日テレ、ADK、SUNRISE、バップ"
+          "key": "总作画监督",
+          "value": "吉松孝博(スタジオライブ)"
+        },
+        {
+          "key": "美术监督",
+          "value": "池田繁美(アトリエ･ムサ)"
+        },
+        {
+          "key": "音响监督",
+          "value": "藤野貞義(クルーズ)"
+        },
+        {
+          "key": "摄影监督",
+          "value": "桶田一展(旭プロダクション)"
+        },
+        {
+          "key": "制片人",
+          "value": "伊藤梅男(バップ)、田村学(バップ)、吉井孝幸(サンライズ)、池田陽一(サンライズ)"
+        },
+        {
+          "key": "剪辑",
+          "value": "YAスタッフ、布施由美子、野尻由紀子"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "ダイナマイト･シゲ(茂村泰彦)[OP]、作山功二[ED]"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "里乃塚玲央(OP)、坂田和子(ED)"
+        },
+        {
+          "key": "分镜",
+          "value": "福田己津央、大畑清隆、木村真一郎、前島健一、西村聡"
+        },
+        {
+          "key": "演出",
+          "value": "福田己津央、大畑清隆、木村真一郎、芦沢剛史"
+        },
+        {
+          "key": "作画监督",
+          "value": "吉松孝博(スタジオライブ)、高橋英樹(マジックバス)、内田順久(スタジオMAX)、山根宰、いのまたむつみ(猪股むつみ) 协力:吉川博明、西村聡、池田裕治、岩倉和憲、坂本修司、中原清隆"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "重田智(スタジオMAX)"
+        },
+        {
+          "key": "设定",
+          "value": "设定协力：秋山英一(スタジオMAX)"
+        },
+        {
+          "key": "原画",
+          "value": "マジックバス(坂本修司、福井明博、岩倉和憲、清島裕子、鈴木伸一、村上暢康、石井久志、熊坂径子、阿保孝雄、清水博幸、池原百合子、福島豊明、池田裕治、中原清隆、駒井一也、高田詩乃)、スタジオMAX(重田智、秋山英一、南黒沢由美)、スタジオマーク(永田正美、佐藤修、水野悦明、川添政和)、ダスト(渡辺律子、福世孝明、横山義家、嶋田俊彦)、アニメロマン(渋谷英樹、吉成鋼、寺家博幸、佐藤正博、山本浩憲)、グループZEN(藤田正幸、飯飼一幸)、佐藤滋記、グループどんぐり(後藤雅巳)、アニメ浪漫(渋谷英樹、寺家博幸、山本浩憲、小野学)、スタジオ・ファンタジア(斎藤久)、アニメアール(松坂定俊、志村泉、河野利幸、能地清、中本尚子)、D.A.S.T(嶋田俊彦、福世孝明、横山義家、渡辺律子)、飯野利明、阿部仁、高乗陽子、大原和男、山崎健志、スタジオこあ(三橋美枝子)、山根宰、SHAFT(下坂英男、武内宣之、平岡正幸、別所誠人、中田正彦、今野博司、内田広之、大坪幸麿)、山田俊也、石野聡、牧野行洋、吉川博明、吉松孝博、重田智、いのまたむつみ(猪股むつみ)"
+        },
+        {
+          "key": "补间动画",
+          "value": "マジックバス(西村聡、小野沢雅子、藤原香、石本英治、池辺玲子、清島孝一郎、関根正樹、浜田敬介、高藤康弘、高田詩乃、佐藤房枝、久保山英一、宇津木純、都築裕佳子、田村和孝)、アニメスポット、Hanil、山本みどり、スタジオマーク、宇利動画、スタジオライブ、アニメアール、トゥエンティファースト、スタジオマーク(下平忠孝、はっとりますみ、門倉悟、津田優樹)、ミゾ企画、マーサ、FAI、SHAFT(隈崎幸治、米田光宏、横山幸広、塩田順詞、下平夕子)"
+        },
+        {
+          "key": "动画检查",
+          "value": "高田詩乃、佐藤房枝、渡辺美佐、福井明博、小野沢雅子、長牛美由紀"
+        },
+        {
+          "key": "色彩指定",
+          "value": "黒柳朋子、児玉尚子、関美恵子(スタジオエンジェル)、三橋曜子"
+        },
+        {
+          "key": "背景美术",
+          "value": "スタジオ・イースター(南沢貞子、高橋智子、藤井かおり、飯島寿治、今井由美、村上律子、河原信喜、南澤貞子)、アトリエ･ムサ(丸山由紀子、矢島洋一、下野哲人、大久保修一、甲斐政俊、鳴海博光、村里葉子、若松栄司、岩瀬栄治、山口主税、小川ひとみ)"
+        },
+        {
+          "key": "摄影",
+          "value": "旭プロダクション(榊原広、杉澤義雄、大石英勝、加賀美直明)"
+        },
+        {
+          "key": "制作进行",
+          "value": "熨斗谷充孝、井上泰浩、三上鉄男、工藤博、岸克芳、山口奈津紀"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "岩倉和憲(マジックバス)"
         }
       ],
       "total_episodes": 8,
@@ -1381,11 +1573,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/8a/1955_kKM12.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/8a/1955_kKM12.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/37/8a/1955_kKM12.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/8a/1955_kKM12.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/8a/1955_kKM12.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/8a/1955_xKV96.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/8a/1955_xKV96.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/37/8a/1955_xKV96.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/8a/1955_xKV96.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/8a/1955_xKV96.jpg"
           },
           "name": "新世紀GPXサイバーフォーミュラ11",
           "name_cn": "高智能方程式：Cyber Formula 11",
@@ -1555,11 +1747,39 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f4/3a/95438_cWB2a.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/f4/3a/95438_cWB2a.jpg"
           },
-          "name": "WIND IS HIGH",
+          "name": "WIND IS HIGH / BRAND NEW DREAM",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
           "id": 95438
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/34/509749_JKSHs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/34/509749_JKSHs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d2/34/509749_JKSHs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/34/509749_JKSHs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/34/509749_JKSHs.jpg"
+          },
+          "name": "「新世紀GPXサイバーフォーミュラZERO」音楽集I",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 509749
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/0a/509751_RryMF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/0a/509751_RryMF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/0a/509751_RryMF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/0a/509751_RryMF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/0a/509751_RryMF.jpg"
+          },
+          "name": "「新世紀GPXサイバーフォーミュラZERO」音楽集II",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 509751
         }
       ]
     }
@@ -1599,6 +1819,7 @@
         "漫改",
         "田中真弓",
         "童年",
+        "粤语",
         "赛璐珞",
         "鍋島修"
       ],
@@ -1742,7 +1963,9 @@
       "name_cn": "霸王大系龙骑士",
       "tags": [
         "1990-1999",
+        "1990s",
         "1994",
+        "4クール",
         "90",
         "90s",
         "90年代",
@@ -1902,7 +2125,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -2835,14 +3058,15 @@
       "name": "ヤマトタケル",
       "name_cn": "魔天战神",
       "tags": [
+        "1",
         "1994",
         "1994年",
         "1994年4月",
         "1994年四月番",
         "90s",
-        "ROBO",
         "TV",
         "TVA",
+        "robo",
         "井内秀治",
         "日本アニメーション",
         "日本动画",
@@ -2851,6 +3075,7 @@
         "有空补完",
         "机战",
         "童年",
+        "萝卜",
         "补旧番",
         "谷田部勝義",
         "赛璐珞"
@@ -2859,6 +3084,14 @@
         {
           "key": "中文名",
           "value": "魔天战神"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Yamato Takeru（1994 animation）"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -2931,6 +3164,34 @@
           "relation": "片头曲",
           "type": 3,
           "id": 489013
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/ad/515262_htL75.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/ad/515262_htL75.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/18/ad/515262_htL75.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/ad/515262_htL75.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/ad/515262_htL75.jpg"
+          },
+          "name": "RAIN",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 515262
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/3a/515263_P8cxl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/3a/515263_P8cxl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a6/3a/515263_P8cxl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/3a/515263_P8cxl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/3a/515263_P8cxl.jpg"
+          },
+          "name": "真夏の扉",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 515263
         }
       ]
     }

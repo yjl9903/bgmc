@@ -25,16 +25,16 @@
         "アニメ映画",
         "グループ・タック",
         "三ツ矢雄二",
+        "上杉达也",
         "中庸",
         "体育",
         "剧场版",
-        "动画",
         "在那之后的你",
         "安达充",
         "恋爱",
         "日本",
+        "日本动画",
         "日髙のり子",
-        "有趣",
         "杉井ギサブロー",
         "棒球",
         "棒球英豪",
@@ -43,7 +43,7 @@
         "爱情",
         "甲子园",
         "经典",
-        "补旧番",
+        "补番",
         "运动",
         "金春智子"
       ],
@@ -149,11 +149,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/cb/2741_GPGN2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/cb/2741_GPGN2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cd/cb/2741_GPGN2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/cb/2741_GPGN2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/cb/2741_GPGN2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/cb/2741_q4C0T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/cb/2741_q4C0T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/cb/2741_q4C0T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/cb/2741_q4C0T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/cb/2741_q4C0T.jpg"
           },
           "name": "タッチ",
           "name_cn": "棒球英豪",
@@ -226,6 +226,7 @@
         "1990s",
         "1998",
         "1998年",
+        "1998年12月",
         "90年代",
         "GPX",
         "OVA",
@@ -235,7 +236,6 @@
         "両澤千晶",
         "两泽千晶",
         "佐桥俊彦",
-        "体育",
         "关俊彦",
         "加贺",
         "原创",
@@ -294,7 +294,7 @@
           "value": "矢立肇"
         },
         {
-          "key": "导演",
+          "key": "总导演",
           "value": "福田己津央"
         },
         {
@@ -307,27 +307,123 @@
         },
         {
           "key": "人物原案",
-          "value": "いのまたむつみ(猪股むつみ)"
+          "value": "いのまたむつみ（猪股むつみ）"
         },
         {
           "key": "人物设定",
-          "value": "久行宏和"
+          "value": "久行宏和（中村プロ）"
         },
         {
           "key": "机械设定",
-          "value": "河森正治"
+          "value": "河森正治（スタジオぬえ） 辅：秋山英一"
         },
         {
           "key": "音响监督",
-          "value": "藤野貞義"
+          "value": "藤野貞義（クルーズ）"
         },
         {
           "key": "音乐",
           "value": "佐橋俊彦"
         },
         {
-          "key": "制作",
-          "value": "日テレ、ADK、SUNRISE、バップ"
+          "key": "总作画监督",
+          "value": "久行宏和（中村プロ）"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "重田智（スタジオMAX）"
+        },
+        {
+          "key": "美术监督",
+          "value": "池田繁美（アトリエ・ムサ）"
+        },
+        {
+          "key": "摄影监督",
+          "value": "桶田一展（旭プロダクション）"
+        },
+        {
+          "key": "制片人",
+          "value": "伊藤梅男（バップ）、田村学（バップ）、指田英司（サンライズ）、古里尚丈（サンライズ）"
+        },
+        {
+          "key": "製作",
+          "value": "バップ、サンライズ"
+        },
+        {
+          "key": "设定",
+          "value": "衣装设定协力：いのまたむつみ（猪股むつみ）"
+        },
+        {
+          "key": "剪辑",
+          "value": "布施由美子、野尻由紀子（ウインズ）"
+        },
+        {
+          "key": "音响",
+          "value": "千田啓子（クルーズ）"
+        },
+        {
+          "key": "设定制作",
+          "value": "小原正和[ROUND 1]、高田昌宏"
+        },
+        {
+          "key": "助理制片人",
+          "value": "関本貴之（バップ） 　"
+        },
+        {
+          "key": "协力",
+          "value": "芦沢剛史[ROUND 1]"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "LAZY（OP1）、影山ヒロノブ（OP2、ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "LAZY（OP1）、千沢仁（OP2）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "LAZY（OP1）、須藤賢一（OP2、ED）"
+        },
+        {
+          "key": "分镜",
+          "value": "福田己津央、重田智"
+        },
+        {
+          "key": "演出",
+          "value": "福田己津央"
+        },
+        {
+          "key": "作画监督",
+          "value": "久行宏和 協力：永田正美、金田正彦、加藤宰、池田有、秋山英一、井村学"
+        },
+        {
+          "key": "原画",
+          "value": "中村プロダクション、久行宏和、板倉和弘、金田正彦、井村学、池田有、高橋真一、和田弓枝、友岡新平、加藤宰、永田正美、川添政和、小森良、数江正義、菅井浩、秋山英一、重田智、小松崎純子、吉田肇、大塚健、靏山サユリ、 安食圭、稲吉智重、稲吉朝子、スタジオダブ、佐藤昌文、坂元大二郎、山崎輝彦"
+        },
+        {
+          "key": "补间动画",
+          "value": "中村プロダクション、宮原秀典、三上幸恵、仲田充、土橋幸也、藤田秀明、アニメ浪漫、スタジオ・ムー、スタジオマーク、プラム、エムアイ、カオスプロジェクト、靏山サユリ、増子裕美、鈴木可奈子、樋口総一、渡辺妙子、AIC、HEE WON CORPORATION、LEE PRODUCTION、ECHO ANIMATION STUDIO、山口隆朗、稲吉智重、松本もも、西田真由美、近有希、平島照美、岩長幸一、島田悌三、楠知津子、石丸直、アニメワールド大阪、スタジオダブ、スタジオコクピット、吉田拓也、金子ひらく、森久美子、木村富美子、納美幸、今久保洋介、東海林奈津子、霜山朋久、林智之、国岡伸光、下八尻剛、小林英明、名手久賀、一之瀬美鈴、細川智代、川上哲也、片山直子、柳生智寿、寺田美子、高橋暁央、鈴木良尚、竹谷徹平、坪田慎太郎、武遊、OH!プロダクション"
+        },
+        {
+          "key": "背景美术",
+          "value": "アトリエ・ムサ、丸山由紀子、加藤正樹、大川真由美、篠崎英子、小倉隆博、貴志泰臣、矢島洋一、下野哲人、甲斐政俊、岡こずえ、スタジオキャッツ、みにあーと、コスモツ・アーツ、ACE JOINT PRODUCTION、海保任三郎、朴明植、スタジオ・パレット、中山益男、川辺博昭、山内雅也、佐藤正行、伊藤芳雄、石橋修一、ウォンプロダクション、WON PRO、Jiwoo Pro、星山企画"
+        },
+        {
+          "key": "摄影",
+          "value": "旭プロダクション、大石英勝、新矢秀和、柳川美紀子、手塚智鶴子、佐藤敬子、秋田谷典昭、杉澤義雄、スタジオ・ヴィオラ（小室正一）"
+        },
+        {
+          "key": "动画检查",
+          "value": "久保山英一、靏山サユリ、増子裕美、斉藤裕之"
+        },
+        {
+          "key": "色彩指定",
+          "value": "舟田圭一（スタジオボギー）、黒柳朋子"
+        },
+        {
+          "key": "制作进行",
+          "value": "村林健司、向猛、五十嵐達也"
         }
       ],
       "total_episodes": 5,
@@ -355,6 +451,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9e/e0/48106_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9e/e0/48106_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9e/e0/48106_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9e/e0/48106_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9e/e0/48106_jp.jpg"
+          },
+          "name": "新世紀GPXサイバーフォーミュラSIN ― オリジナル・サウンドトラック Vol.1 POWER",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 48106
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/e6/49606_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/e6/49606_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/2c/e6/49606_jp.jpg",
@@ -366,6 +476,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 49606
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/65/95439_bbK0H.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/65/95439_bbK0H.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/65/95439_bbK0H.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/65/95439_bbK0H.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/65/95439_bbK0H.jpg"
+          },
+          "name": "終りのない夢に向かって",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 95439
         },
         {
           "images": {
@@ -394,6 +518,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 288916
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/23/509849_Y6XR8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/23/509849_Y6XR8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/23/509849_Y6XR8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/23/509849_Y6XR8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/23/509849_Y6XR8.jpg"
+          },
+          "name": "新世紀GPXサイバーフォーミュラSIN ― オリジナル・サウンドトラック Vol.2 LOVE",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 509849
         }
       ]
     }
@@ -580,11 +718,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/4d/27759_G7u9U.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/4d/27759_G7u9U.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b5/4d/27759_G7u9U.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/4d/27759_G7u9U.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/4d/27759_G7u9U.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/4d/27759_W1L06.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/4d/27759_W1L06.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b5/4d/27759_W1L06.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/4d/27759_W1L06.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/4d/27759_W1L06.jpg"
           },
           "name": "ピカチュウのなつやすみ",
           "name_cn": "皮卡丘的欢乐假期",
@@ -594,11 +732,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/c6/27773_0cnn0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/c6/27773_0cnn0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/48/c6/27773_0cnn0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/48/c6/27773_0cnn0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/c6/27773_0cnn0.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/c6/27773_cgah2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/c6/27773_cgah2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/48/c6/27773_cgah2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/48/c6/27773_cgah2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/c6/27773_cgah2.jpg"
           },
           "name": "ピカチュウたんけんたい",
           "name_cn": "皮卡丘的探险队",

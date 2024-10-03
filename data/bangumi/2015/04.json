@@ -21,9 +21,9 @@
         "2015年4月",
         "GUNDAM",
         "OVA",
-        "Origin",
         "SUNRISE",
         "TV",
+        "UC",
         "今西隆志",
         "剧场版",
         "动画",
@@ -34,11 +34,11 @@
         "战争",
         "战斗",
         "日本",
+        "日本动画",
         "服部隆之",
         "机战",
         "板野一郎",
         "機動戦士ガンダム",
-        "池田秀一",
         "泽城美雪",
         "漫改",
         "漫画改",
@@ -370,11 +370,12 @@
       "name": "バトルスピリッツ 烈火魂",
       "name_cn": "战斗之魂 烈火灵魂",
       "tags": [
+        "2010s",
         "2015",
         "201504",
-        "2015年",
         "2015年4月",
         "2015年四月番",
+        "4(-1)",
         "BNPictures",
         "BattleSpirits",
         "SUNRISE",
@@ -392,7 +393,6 @@
         "山下誠一郎",
         "日本",
         "日本动画",
-        "杉岛邦久",
         "杉島邦久",
         "汤本佳典",
         "热血少年漫",
@@ -937,13 +937,13 @@
         "2015",
         "2015年",
         "2015年4月",
-        "M・A・O",
         "PERROT+",
         "PIERROT",
         "PIERROT+",
         "St.Signpost",
         "TV",
         "ぴえろプラス",
+        "动画",
         "奇幻",
         "工藤昌史",
         "幽灵",
@@ -956,14 +956,14 @@
         "治愈",
         "漫改",
         "漫画改",
+        "漫画改编",
         "灵感",
         "灵感少女",
         "灵感！",
         "百合",
         "芳文社",
         "萌",
-        "轻百合",
-        "青岛崇"
+        "轻百合"
       ],
       "infobox": [
         {
@@ -1280,9 +1280,9 @@
         "伊藤佑毅",
         "伊藤祐毅",
         "喜多村英梨",
+        "奇幻",
         "季番",
         "战斗",
-        "水树奈奈",
         "漫改",
         "漫画改",
         "田村ゆかり",
@@ -1684,16 +1684,16 @@
         "和田純一",
         "和田纯一",
         "奇幻",
+        "季番",
         "平野绫",
         "待田堂子",
         "恋爱",
         "搞笑",
         "日常",
-        "日本",
         "杉田智和",
         "校园",
-        "治愈",
         "漫改",
+        "漫画",
         "漫画改",
         "茅原实里",
         "萌",
@@ -2135,7 +2135,7 @@
         },
         {
           "key": "製作",
-          "value": "ハイスクールD×D BorN製作委員会（KADOKAWA、博報堂DYミュージック&amp;ピクチャーズ、富士見書房、AT-X、ランティス、ムービック、メモリーテック、ジェンコ）製作統括：中山卓也"
+          "value": "ハイスクールD×D BorN製作委員会（KADOKAWA、博報堂DYミュージック&ピクチャーズ、富士見書房、AT-X、ランティス、ムービック、メモリーテック、ジェンコ）製作統括：中山卓也"
         },
         {
           "key": "制片人",
@@ -2744,6 +2744,20 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 3484
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/20/935_dOCPc.jpg"
+          },
+          "name": "Fate/stay night",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 935
         }
       ]
     }
@@ -2773,13 +2787,12 @@
         "WIT_STUDIO",
         "中村悠一",
         "入野自由",
-        "动画",
         "吸血鬼",
         "基",
         "奇幻",
-        "季番",
         "小野贤章",
         "徳土大介",
+        "德土大介",
         "悠木碧",
         "战斗",
         "搞笑",
@@ -2791,6 +2804,7 @@
         "漫画改",
         "澤野弘之",
         "濑古浩司",
+        "瀬古浩司",
         "热血",
         "终结的炽天使",
         "鏡貴也",
@@ -3126,12 +3140,12 @@
         "治愈",
         "科幻",
         "纯爱",
+        "职场",
         "致郁",
         "藤原佳幸",
         "虐",
         "赤崎千夏",
-        "雨宫天",
-        "青春"
+        "雨宫天"
       ],
       "infobox": [
         {
@@ -3590,7 +3604,7 @@
         },
         {
           "key": "製作",
-          "value": "ダンまち製作委員会（ワーナー・ブラザース・ホームエンターテイメント[ワーナー ブラザース ジャパン]、クロックワークス、SBクリエイティブ、ショウゲート[博報堂DYミュージック&amp;ピクチャーズ]、MAGES.、フリュー、ムービック、ジェンコ）"
+          "value": "ダンまち製作委員会（ワーナー・ブラザース・ホームエンターテイメント[ワーナー ブラザース ジャパン]、クロックワークス、SBクリエイティブ、ショウゲート[博報堂DYミュージック&ピクチャーズ]、MAGES.、フリュー、ムービック、ジェンコ）"
         },
         {
           "key": "企画",
@@ -3624,31 +3638,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/6f/86421_1dmyU.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/6f/86421_1dmyU.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4b/6f/86421_1dmyU.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/6f/86421_1dmyU.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/6f/86421_1dmyU.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/31/169942_UMguq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/31/169942_UMguq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/31/169942_UMguq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/31/169942_UMguq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/31/169942_UMguq.jpg"
           },
-          "name": "ダンジョンに出会いを求めるのは間違っているだろうか",
-          "name_cn": "在地下城寻求邂逅是否搞错了什么",
-          "relation": "书籍",
-          "type": 1,
-          "id": 86421
-        },
-        {
-          "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
-          },
-          "name": "アニメ『ダンジョンに出会いを求めるのは間違っているだろうか』Memorial Book（仮）",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 1,
-          "id": 463765
+          "name": "ダンジョンに出会いを求めるのは間違っているだろうか OVA",
+          "name_cn": "期待在地下城邂逅有错吗 OVA",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 169942
         },
         {
           "images": {
@@ -3722,20 +3722,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/31/169942_UMguq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/31/169942_UMguq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b1/31/169942_UMguq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/31/169942_UMguq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/31/169942_UMguq.jpg"
-          },
-          "name": "ダンジョンに出会いを求めるのは間違っているだろうか OVA",
-          "name_cn": "期待在地下城邂逅有错吗 OVA",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 169942
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/b0/218493_KVwm6.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/b0/218493_KVwm6.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/04/b0/218493_KVwm6.jpg",
@@ -3743,24 +3729,10 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/b0/218493_KVwm6.jpg"
           },
           "name": "ダンジョンに出会いを求めるのは間違っているだろうか インフィニト・コンバーテ",
-          "name_cn": "在地下城尋求邂逅是否搞錯了什麼　無限・戰鬥",
+          "name_cn": "在地下城寻求邂逅是否搞错了什么 无限战斗",
           "relation": "游戏",
           "type": 4,
           "id": 218493
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/a1/206152_A3Ii2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/a1/206152_A3Ii2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/a1/206152_A3Ii2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/a1/206152_A3Ii2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/a1/206152_A3Ii2.jpg"
-          },
-          "name": "ダンジョンに出会いを求めるのは間違っているだろうか サウンドトラックCD&キャラクターソング",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 206152
         },
         {
           "images": {
@@ -3778,17 +3750,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/59/129402_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/59/129402_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/85/59/129402_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/59/129402_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/59/129402_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/a1/206152_A3Ii2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/a1/206152_A3Ii2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/a1/206152_A3Ii2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/a1/206152_A3Ii2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/a1/206152_A3Ii2.jpg"
           },
-          "name": "Hey World",
+          "name": "ダンジョンに出会いを求めるのは間違っているだろうか サウンドトラックCD&キャラクターソング",
           "name_cn": "",
-          "relation": "片头曲",
+          "relation": "其他",
           "type": 3,
-          "id": 129402
+          "id": 206152
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/6f/86421_1dmyU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/6f/86421_1dmyU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/6f/86421_1dmyU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/6f/86421_1dmyU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/6f/86421_1dmyU.jpg"
+          },
+          "name": "ダンジョンに出会いを求めるのは間違っているだろうか",
+          "name_cn": "在地下城寻求邂逅是否搞错了什么",
+          "relation": "书籍",
+          "type": 1,
+          "id": 86421
         },
         {
           "images": {
@@ -3803,6 +3789,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 238005
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/59/129402_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/59/129402_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/59/129402_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/59/129402_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/59/129402_jp.jpg"
+          },
+          "name": "Hey World",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 129402
         },
         {
           "images": {
@@ -4829,17 +4829,14 @@
       "name": "プリパラ 2nd season",
       "name_cn": "美妙天堂 第二期",
       "tags": [
-        "10代",
         "2015",
-        "201504",
         "2015年",
         "2015年4月",
-        "2015年四月番",
         "TV",
         "TVA",
+        "¬",
         "タツノコプロ",
         "プリズムの煌めき",
-        "一周目结束",
         "偶像",
         "偶像番",
         "原创",
@@ -4848,7 +4845,9 @@
         "屹青",
         "年番",
         "幼女向",
+        "我难道说，是史上最弱的大友吗？",
         "搞笑",
+        "未确定",
         "森脇真琴",
         "百合",
         "第二期",
@@ -4857,8 +4856,9 @@
         "美妙旋律",
         "美妙系列",
         "芹澤優",
-        "茜屋日海夏",
-        "龙之子"
+        "表",
+        "龙之子",
+        "龙之子、东宇动画"
       ],
       "infobox": [
         {
@@ -5221,6 +5221,7 @@
       "name": "VAMPIRE HOLMES",
       "name_cn": "吸血鬼福尔摩斯",
       "tags": [
+        "2010s",
         "2015",
         "2015-04",
         "201504",
@@ -5241,15 +5242,14 @@
         "女性向",
         "島﨑信長",
         "日本动画",
+        "星期六",
         "泡面",
         "泡面番",
+        "深井冰",
         "游戏改",
-        "游戏改编",
+        "游改",
         "瀬名快伸",
-        "独立动画",
-        "短片",
         "福尔摩斯",
-        "腐",
         "遊戲改"
       ],
       "infobox": [
@@ -5346,11 +5346,11 @@
         "佐藤真人",
         "前川淳",
         "后宫",
+        "宅",
         "搞笑",
         "教师",
         "日常",
         "日本动画",
-        "日高里菜",
         "星期日",
         "東毅",
         "松井玲奈",
@@ -5358,11 +5358,11 @@
         "漫改",
         "漫画改",
         "热血",
-        "电波",
         "电波教师",
         "神谷浩史",
-        "花泽香菜",
-        "雨宫天"
+        "豊崎愛生",
+        "雨宫天",
+        "雨宮天"
       ],
       "infobox": [
         {
@@ -5615,12 +5615,12 @@
         "2015年4月",
         "2015年四月番",
         "TV",
-        "TVA",
         "interested",
         "studiodeen",
         "¬",
-        "スタジオコメット",
+        "单元剧",
         "原创",
+        "奇幻",
         "子供向",
         "官方拟人",
         "宝石宠物",
@@ -6221,7 +6221,7 @@
         },
         {
           "key": "製作",
-          "value": "ハロー!!きんいろモザイク製作委員会（KADOKAWA、芳文社、フライングドッグ、ショウゲート[博報堂DYミュージック&amp;ピクチャーズ]、ムービック、アニメシアターX、ジェンコ）"
+          "value": "ハロー!!きんいろモザイク製作委員会（KADOKAWA、芳文社、フライングドッグ、ショウゲート[博報堂DYミュージック&ピクチャーズ]、ムービック、アニメシアターX、ジェンコ）"
         },
         {
           "key": "制片人",
@@ -6529,7 +6529,6 @@
         "战斗",
         "搞笑",
         "日常",
-        "日本",
         "日本动画",
         "松本理恵",
         "松本理惠",
@@ -6539,6 +6538,7 @@
         "燃",
         "石田彰",
         "科幻",
+        "群像",
         "血界战线",
         "钉宫理惠",
         "阪口大助",
@@ -7786,7 +7786,7 @@
         },
         {
           "key": "OP・ED 分镜",
-          "value": "阿部記之(OP1)、立川譲(OP2)、中山奈緒美(ED1&amp;ED2)"
+          "value": "阿部記之(OP1)、立川譲(OP2)、中山奈緒美(ED1&ED2)"
         },
         {
           "key": "人物设定",
@@ -7819,6 +7819,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 147642
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/4b/516151_3G3Gh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/4b/516151_3G3Gh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/4b/516151_3G3Gh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/4b/516151_3G3Gh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/4b/516151_3G3Gh.jpg"
+          },
+          "name": "アルスラーン戦記～ラジオ・ヤシャスィーン！",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 516151
         },
         {
           "images": {
@@ -8172,11 +8186,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/d7/138834_qvqFZ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/d7/138834_qvqFZ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/74/d7/138834_qvqFZ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/d7/138834_qvqFZ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/d7/138834_qvqFZ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/d7/138834_9VwEo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/d7/138834_9VwEo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/d7/138834_9VwEo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/d7/138834_9VwEo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/d7/138834_9VwEo.jpg"
           },
           "name": "雨色ココア Rainy colorへようこそ！",
           "name_cn": "雨色可可 欢迎来到Rainy color！",
@@ -8208,7 +8222,7 @@
         "2015年",
         "2015年4月",
         "2015年四月番",
-        "I.G",
+        "4分",
         "Production.I.G",
         "ProductionI.G",
         "Production_I.G",
@@ -8216,18 +8230,18 @@
         "TV",
         "TVA",
         "アニメ",
-        "テレビアニメ",
         "冲方丁",
         "动画",
+        "原创",
         "坂本真绫",
         "士郎正宗",
         "小山田圭吾",
         "战斗",
         "攻壳机动队",
         "攻壳机动队ARISE",
-        "攻壳系列",
         "攻殻機動隊",
         "日本",
+        "日本动画",
         "漫改",
         "漫画改",
         "科幻",
@@ -8298,31 +8312,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/9f/237_78UdL.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/9f/237_78UdL.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/53/9f/237_78UdL.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/9f/237_78UdL.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/9f/237_78UdL.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/21/77014_LD0Lu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/21/77014_LD0Lu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1e/21/77014_LD0Lu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/21/77014_LD0Lu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/21/77014_LD0Lu.jpg"
           },
-          "name": "GHOST IN THE SHELL / 攻殻機動隊",
-          "name_cn": "攻壳机动队",
-          "relation": "不同演绎",
+          "name": "攻殻機動隊ARISE border:2 Ghost Whispers",
+          "name_cn": "攻壳机动队ARISE border:2 Ghost Whispers",
+          "relation": "全集",
           "type": 2,
-          "id": 237
+          "id": 77014
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/1d/238_jJONA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/1d/238_jJONA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ac/1d/238_jJONA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/1d/238_jJONA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/1d/238_jJONA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/60/89486_6XV8A.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/60/89486_6XV8A.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/60/89486_6XV8A.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/60/89486_6XV8A.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/60/89486_6XV8A.jpg"
           },
-          "name": "イノセンス",
-          "name_cn": "攻壳机动队2 无罪",
-          "relation": "不同演绎",
+          "name": "攻殻機動隊ARISE border:3 Ghost Tears",
+          "name_cn": "攻壳机动队ARISE border:3 Ghost Tears",
+          "relation": "全集",
           "type": 2,
-          "id": 238
+          "id": 89486
         },
         {
           "images": {
@@ -8410,20 +8424,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/10/496276_I5XnA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/10/496276_I5XnA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7e/10/496276_I5XnA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/10/496276_I5XnA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_I5XnA.jpg"
-          },
-          "name": "攻殻機動隊 新作TVアニメ",
-          "name_cn": "攻壳机动队 新作TV动画",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 496276
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/6e/55/61498_5oWUa.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6e/55/61498_5oWUa.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/6e/55/61498_5oWUa.jpg",
@@ -8435,62 +8435,6 @@
           "relation": "全集",
           "type": 2,
           "id": 61498
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/21/77014_LD0Lu.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/21/77014_LD0Lu.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1e/21/77014_LD0Lu.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/21/77014_LD0Lu.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/21/77014_LD0Lu.jpg"
-          },
-          "name": "攻殻機動隊ARISE border:2 Ghost Whispers",
-          "name_cn": "攻壳机动队ARISE border:2 Ghost Whispers",
-          "relation": "全集",
-          "type": 2,
-          "id": 77014
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/60/89486_6XV8A.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/60/89486_6XV8A.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3a/60/89486_6XV8A.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/60/89486_6XV8A.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/60/89486_6XV8A.jpg"
-          },
-          "name": "攻殻機動隊ARISE border:3 Ghost Tears",
-          "name_cn": "攻壳机动队ARISE border:3 Ghost Tears",
-          "relation": "全集",
-          "type": 2,
-          "id": 89486
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/fc/324_psuXk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/fc/324_psuXk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f2/fc/324_psuXk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/fc/324_psuXk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/fc/324_psuXk.jpg"
-          },
-          "name": "攻殻機動隊 STAND ALONE COMPLEX",
-          "name_cn": "攻壳机动队 STAND ALONE COMPLEX",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 324
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/66/326_D8wjw.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/66/326_D8wjw.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a6/66/326_D8wjw.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/66/326_D8wjw.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/66/326_D8wjw.jpg"
-          },
-          "name": "攻殻機動隊 S.A.C. 2nd GIG",
-          "name_cn": "攻壳机动队 S.A.C. 2nd GIG",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 326
         }
       ]
     }
@@ -8530,11 +8474,9 @@
         "子供向",
         "小学館ミュージック&デジタルエンタテイメント",
         "小林由美子",
-        "屹青",
         "战斗",
         "日本",
         "日本动画",
-        "时事热点",
         "游戏改",
         "石田彰",
         "草尾毅"
@@ -8634,11 +8576,11 @@
         },
         {
           "key": "音乐",
-          "value": "五十嵐&quot;IGAO&quot;淳一"
+          "value": "五十嵐\"IGAO\"淳一"
         },
         {
           "key": "动画制作",
-          "value": "アセンション、小学館ミュージック&amp;デジタルエンタテイメント"
+          "value": "アセンション、小学館ミュージック&デジタルエンタテイメント"
         },
         {
           "key": "製作",
@@ -8983,7 +8925,6 @@
         "四月番",
         "恶心萌",
         "搞笑",
-        "时事热点",
         "正太",
         "泡面",
         "泡面番",
@@ -9402,6 +9343,7 @@
         "搞笑",
         "无关网球",
         "日常",
+        "日本",
         "板垣伸",
         "校园",
         "泡面",
@@ -9413,7 +9355,6 @@
         "神语速",
         "续作",
         "网球少女",
-        "网球并不可笑嘛",
         "节操",
         "花泽香菜",
         "萌",
@@ -11171,7 +11112,7 @@
         },
         {
           "key": "製作",
-          "value": "放課後のプレアデス製作委員会（ワーナー ブラザース ジャパン、クロックワークス、博報堂DYミュージック&amp;ピクチャーズ、ローソンHMVエンタテイメント、電通、BSフジ）"
+          "value": "放課後のプレアデス製作委員会（ワーナー ブラザース ジャパン、クロックワークス、博報堂DYミュージック&ピクチャーズ、ローソンHMVエンタテイメント、電通、BSフジ）"
         },
         {
           "key": "人物原案",
@@ -11628,6 +11569,7 @@
         "2015",
         "2015年",
         "2015年4月",
+        "2015春",
         "MADHouse",
         "TV",
         "乙女向",
@@ -11653,13 +11595,23 @@
         "狗粮",
         "福山润",
         "纯爱",
-        "茅野愛衣",
         "青春"
       ],
       "infobox": [
         {
           "key": "中文名",
           "value": "俺物语!!"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Ore Monogatari!!"
+            },
+            {
+              "v": "My Love Story!!"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -11686,12 +11638,12 @@
           "value": "2015年9月23日"
         },
         {
-          "key": "共同演出",
-          "value": "ながはまのりひこ（20话）"
+          "key": "导演",
+          "value": "浅香守生"
         },
         {
-          "key": "演出",
-          "value": "ながはまのりひこ（13话、20话）"
+          "key": "人物设定",
+          "value": "濱田邦彦"
         }
       ],
       "total_episodes": 24,
@@ -11804,7 +11756,6 @@
         "三重野瞳",
         "下野紘",
         "兽耳",
-        "动画",
         "原创",
         "后宫",
         "吐槽",
@@ -11822,6 +11773,7 @@
         "白组",
         "百合",
         "萌",
+        "萝莉",
         "追崎史敏"
       ],
       "infobox": [
@@ -12211,6 +12163,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/b0/516149_kYy8k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/b0/516149_kYy8k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/b0/516149_kYy8k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/b0/516149_kYy8k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/b0/516149_kYy8k.jpg"
+          },
+          "name": "TVアニメ「パンチライン」 『パンチラジオ』",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 516149
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/a8/126149_S05T5.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/a8/126149_S05T5.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/89/a8/126149_S05T5.jpg",
@@ -12371,11 +12337,11 @@
         "后宫",
         "宫本幸裕",
         "宮本幸裕",
+        "小松未可子",
         "恋爱",
         "搞笑",
         "新房昭之",
         "日常",
-        "日本",
         "東山奈央",
         "校园",
         "漫改",
@@ -12421,6 +12387,10 @@
           "value": "星期五"
         },
         {
+          "key": "季数",
+          "value": "2"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.nisekoi.jp"
         },
@@ -12435,6 +12405,10 @@
         {
           "key": "播放结束",
           "value": "2015年6月26日"
+        },
+        {
+          "key": "音乐",
+          "value": "菊谷知樹"
         },
         {
           "key": "原作",
@@ -12491,10 +12465,6 @@
         {
           "key": "音响监督",
           "value": "亀山俊樹"
-        },
-        {
-          "key": "音乐",
-          "value": "菊谷知樹"
         },
         {
           "key": "音乐制作",
@@ -12640,11 +12610,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/75/119315_3WbGW.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/75/119315_3WbGW.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e5/75/119315_3WbGW.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/75/119315_3WbGW.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/75/119315_3WbGW.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/75/119315_T1rm9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/75/119315_T1rm9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e5/75/119315_T1rm9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/75/119315_T1rm9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/75/119315_T1rm9.jpg"
           },
           "name": "マジカルパティシエ小咲ちゃん!!",
           "name_cn": "魔法甜点师小咲",
@@ -13844,6 +13814,7 @@
         "WEB",
         "Yeart",
         "今石洋之",
+        "卖肉",
         "南无三",
         "小说改",
         "忍者",
@@ -13854,7 +13825,6 @@
         "日本",
         "森川智之",
         "泡面番",
-        "漫改",
         "漫画改",
         "热血",
         "玄田哲章",
@@ -14144,6 +14114,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 487956
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/00/516158_d95aP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/00/516158_d95aP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e4/00/516158_d95aP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/00/516158_d95aP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/00/516158_d95aP.jpg"
+          },
+          "name": "ニンジャスレイヤー フロムラジオステイシヨン",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 516158
         }
       ]
     }
@@ -14177,7 +14161,6 @@
         "エイトビット",
         "仓田英之",
         "倉田英之",
-        "剧情",
         "卖肉",
         "后宫",
         "天冲",
@@ -14194,6 +14177,7 @@
         "灰色的果实",
         "灰色的迷宫",
         "灰色系列",
+        "田口宏子",
         "续作"
       ],
       "infobox": [
@@ -14411,7 +14395,6 @@
       "tags": [
         "2015",
         "DLE",
-        "原神",
         "泡面番"
       ],
       "infobox": [
@@ -15057,8 +15040,8 @@
         "2015春",
         "TV",
         "WEB",
-        "vridge",
         "东映",
+        "动作",
         "原创",
         "古田丈司",
         "圣斗",
@@ -15066,6 +15049,7 @@
         "圣斗士星矢",
         "奇幻",
         "崩坏",
+        "怀旧",
         "战斗",
         "日本",
         "日本动画",
@@ -15075,7 +15059,6 @@
         "热血",
         "竹内利光",
         "纪念作",
-        "聖闘士星矢",
         "腐",
         "草尾毅",
         "黄金魂"
@@ -15666,7 +15649,6 @@
         "2015",
         "2015年",
         "2015年4月",
-        "2015年四月番",
         "M19",
         "TMS",
         "TMSEntertainment",
@@ -15674,6 +15656,7 @@
         "V1studio",
         "トムス・エンタテインメント",
         "剧场版",
+        "劇場版",
         "动画",
         "动画电影",
         "原创",
@@ -15691,7 +15674,7 @@
         "漫改",
         "漫画改",
         "电影",
-        "青山剛昌",
+        "青山刚昌",
         "静野孔文"
       ],
       "infobox": [
@@ -15990,14 +15973,13 @@
         "2015年",
         "2015年4月",
         "2015年四月番",
-        "28-100",
         "3D",
         "KanabanGraphics",
         "TV",
         "TVA",
         "オリジナル",
         "カナバングラフィックス",
-        "六分",
+        "テレビアニメ",
         "动画",
         "原创",
         "喜剧",
@@ -16010,6 +15992,7 @@
         "日常系",
         "日本",
         "欧美",
+        "治愈",
         "泡面",
         "泡面番",
         "监狱兔",
@@ -16225,6 +16208,7 @@
         "A-1Pictures",
         "A-1_Pictures",
         "Atlus",
+        "P3",
         "PERSONA",
         "元永庆太郎",
         "元永慶太郎",
@@ -16234,7 +16218,6 @@
         "奇幻",
         "女神异闻录",
         "女神异闻录3",
-        "女神转生系列",
         "岸诚二",
         "战斗",
         "日本",
@@ -16846,11 +16829,12 @@
       "name": "クレヨンしんちゃん オラの引越し物語 サボテン大襲撃",
       "name_cn": "蜡笔小新 我的搬家物语 仙人掌大袭击",
       "tags": [
-        "15春",
         "2015",
         "2015年",
         "2015年4月",
         "2015年四月番",
+        "2016",
+        "2022补",
         "SHIN-EI",
         "うえのきみこ",
         "ならはしみき",
@@ -16868,14 +16852,13 @@
         "日本",
         "日本动画",
         "桥本昌和",
-        "橋本昌和",
         "汤浅政明",
+        "漫画原案",
         "漫画改",
         "童年",
         "莉乃独占",
         "蜡笔小新",
-        "蠟筆小新",
-        "补标"
+        "蠟筆小新"
       ],
       "infobox": [
         {

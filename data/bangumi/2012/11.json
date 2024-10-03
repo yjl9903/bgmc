@@ -362,8 +362,8 @@
         "子安武人",
         "季番",
         "山路赛",
-        "岸間信明",
         "日本动画",
+        "早见沙织",
         "有生之年",
         "桥本光夫",
         "橋本みつお",
@@ -958,19 +958,23 @@
           "value": "http://www.evangelion.co.jp/"
         },
         {
-          "key": "总导演",
-          "value": "庵野秀明"
-        },
-        {
-          "key": "脚本协力",
-          "value": "榎戸洋司、鶴巻和哉、前田真宏"
-        },
-        {
           "key": "话数",
           "value": "1"
         },
         {
+          "key": "企画",
+          "value": "庵野秀明"
+        },
+        {
           "key": "原作",
+          "value": "庵野秀明"
+        },
+        {
+          "key": "脚本",
+          "value": "庵野秀明"
+        },
+        {
+          "key": "总导演",
           "value": "庵野秀明"
         },
         {
@@ -979,19 +983,83 @@
         },
         {
           "key": "副导演",
-          "value": "中山勝一 、小松田大全"
+          "value": "中山勝一、小松田大全"
         },
         {
           "key": "人物设定",
-          "value": "貞本義行"
+          "value": "貞本義行（主）"
+        },
+        {
+          "key": "机械设定",
+          "value": "山下いくと（主）"
+        },
+        {
+          "key": "分镜",
+          "value": "鶴巻和哉、樋口真嗣、摩砂雪、前田真宏、小松田大全、轟木一騎、庵野秀明"
         },
         {
           "key": "演出",
-          "value": "总演出：鈴木清崇（タツノコプロ）"
+          "value": "总演出: 鈴木清崇（タツノコプロ）"
+        },
+        {
+          "key": "主演出",
+          "value": "鈴木清崇（総演出）"
+        },
+        {
+          "key": "イメージボード",
+          "value": "樋口真嗣、山下いくと、橋本敬史、中山勝一、小松田大全、林明美、摩砂雪、鶴巻和哉、貞本義行、庵野秀明、前田真宏"
+        },
+        {
+          "key": "总作画监督",
+          "value": "本田雄"
+        },
+        {
+          "key": "作画监督",
+          "value": "林明美、井上俊之"
+        },
+        {
+          "key": "特效",
+          "value": "増尾昭一（特技監督）"
+        },
+        {
+          "key": "设定",
+          "value": "本田雄、高倉武史、渡部隆、コヤマシゲト、小松田大全、渭原敏明、小林浩康、吉崎響、浅井真紀、前田真宏、鶴巻和哉、樋口真嗣、出渕裕、庵野秀明"
+        },
+        {
+          "key": "美术监督",
+          "value": "加藤浩"
+        },
+        {
+          "key": "色彩设计",
+          "value": "菊地和子"
+        },
+        {
+          "key": "摄影监督",
+          "value": "福士享（T2 Studio）"
+        },
+        {
+          "key": "剪辑",
+          "value": "李英美"
+        },
+        {
+          "key": "音乐",
+          "value": "鷺巣詩郎"
         },
         {
           "key": "协力",
-          "value": "ローソン、UCC上島珈琲、パナソニック"
+          "value": "ローソン、UCC上島珈琲、パナソニック、杉山潔、山田陽、堤尚子、舛本和也；脚本协力: 榎戸洋司、鶴巻和哉、前田真宏；総監督助手: 轟木一騎"
+        },
+        {
+          "key": "执行制片人",
+          "value": "大月俊倫、庵野秀明"
+        },
+        {
+          "key": "动画制作",
+          "value": "khara"
+        },
+        {
+          "key": "製作",
+          "value": "khara"
         },
         {
           "key": "宣传",
@@ -1009,17 +1077,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/30/126984_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/30/126984_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b0/30/126984_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/30/126984_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/30/126984_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/d6/135925_dpgag.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/d6/135925_dpgag.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/d6/135925_dpgag.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/d6/135925_dpgag.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/d6/135925_dpgag.jpg"
           },
-          "name": "KAWORU 2015 -渚カヲル写真集-",
+          "name": "ヱヴァンゲリヲンバトルミッション",
           "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 126984
+          "relation": "游戏",
+          "type": 4,
+          "id": 135925
         },
         {
           "images": {
@@ -1031,7 +1099,7 @@
           },
           "name": "EVANGELION:3.0(-46h)",
           "name_cn": "",
-          "relation": "衍生",
+          "relation": "番外篇",
           "type": 2,
           "id": 415148
         },
@@ -1101,7 +1169,7 @@
           },
           "name": "EVA-EXTRA-EX",
           "name_cn": "新世紀福音戰士 特典漫畫 E-E-E",
-          "relation": "前传",
+          "relation": "书籍",
           "type": 1,
           "id": 342084
         },
@@ -1185,7 +1253,7 @@
           },
           "name": "スーパーロボット大戦V",
           "name_cn": "超级机器人大战V",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 184409
         },
@@ -1198,24 +1266,10 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
-          "relation": "游戏",
+          "name_cn": "超级机器人大战X-Ω",
+          "relation": "角色出演",
           "type": 4,
           "id": 141050
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/d6/135925_dpgag.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/d6/135925_dpgag.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d0/d6/135925_dpgag.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/d6/135925_dpgag.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/d6/135925_dpgag.jpg"
-          },
-          "name": "ヱヴァンゲリヲンバトルミッション",
-          "name_cn": "",
-          "relation": "游戏",
-          "type": 4,
-          "id": 135925
         },
         {
           "images": {
@@ -1233,17 +1287,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/58/1a/119898_wqL8d.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/58/1a/119898_wqL8d.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/58/1a/119898_wqL8d.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/58/1a/119898_wqL8d.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/58/1a/119898_wqL8d.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/30/126984_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/30/126984_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/30/126984_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/30/126984_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/30/126984_jp.jpg"
           },
-          "name": "新世纪エヴァンゲリオン——2nd Impression",
-          "name_cn": "新世纪福音战士外传 第二印象",
-          "relation": "游戏",
-          "type": 4,
-          "id": 119898
+          "name": "KAWORU 2015 -渚カヲル写真集-",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 126984
         },
         {
           "images": {
@@ -1283,7 +1337,7 @@
           },
           "name": "第3次スーパーロボット大戦Z 天獄篇",
           "name_cn": "第3次超级机器人大战Z 天狱篇",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 102098
         },
@@ -1379,7 +1433,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/dc/29883_jQ4Hz.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/dc/29883_jQ4Hz.jpg"
           },
-          "name": "シン・エヴァンゲリオン劇場版",
+          "name": "シン・エヴァンゲリオン劇場版:│▌",
           "name_cn": "新・福音战士剧场版：终",
           "relation": "续集",
           "type": 2,
@@ -1395,7 +1449,7 @@
           },
           "name": "スーパーロボット大戦L",
           "name_cn": "超级机器人大战L",
-          "relation": "游戏",
+          "relation": "角色出演",
           "type": 4,
           "id": 10136
         },
@@ -1423,11 +1477,11 @@
       "date": "2012-11-30",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/73/102427_Jjj4s.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/73/102427_Jjj4s.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/df/73/102427_Jjj4s.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/73/102427_Jjj4s.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/73/102427_Jjj4s.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/73/102427_24TEe.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/73/102427_24TEe.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/df/73/102427_24TEe.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/73/102427_24TEe.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/73/102427_24TEe.jpg"
       },
       "summary": "原作第11卷改编，第一季全卷DVD/BD收录，长度为15分钟。",
       "name": "這いよれ! ニャル子さん やさしい敵の仕留め方",
@@ -1435,9 +1489,10 @@
       "tags": [
         "2012",
         "2012年",
+        "2012年10月",
         "2012年11月",
+        "OAD",
         "OVA",
-        "OVA&OAD",
         "XEBEC",
         "neta",
         "克苏鲁神话",
@@ -1453,7 +1508,6 @@
         "搞笑",
         "日常",
         "日本",
-        "木村畅",
         "校园",
         "潜行吧！奈亚子",
         "番外",
@@ -1601,7 +1655,6 @@
         "兼森义则",
         "原创",
         "宍户义孝",
-        "时事热点",
         "波多正美",
         "百合",
         "短片",
@@ -2031,7 +2084,6 @@
       "name_cn": "",
       "tags": [
         "ONA",
-        "原神",
         "短片"
       ],
       "infobox": [

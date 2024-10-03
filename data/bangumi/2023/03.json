@@ -242,6 +242,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 497138
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/1e/508708_G939W.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/1e/508708_G939W.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/07/1e/508708_G939W.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/1e/508708_G939W.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/1e/508708_G939W.jpg"
+          },
+          "name": "劇場版 進撃の巨人 完結編 THE LAST ATTACK",
+          "name_cn": "剧场版 进击的巨人 完结篇 THE LAST ATTACK",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 508708
         }
       ]
     }
@@ -269,6 +283,7 @@
         "2023年4月",
         "2023年春",
         "STUDIOPUYUKAI",
+        "STUDIO_PUYUKAI",
         "TV",
         "WEB",
         "屹青",
@@ -1000,7 +1015,6 @@
         "剧场版",
         "动画电影",
         "原创",
-        "古立特",
         "奇幻",
         "恋爱",
         "战斗",
@@ -1012,6 +1026,7 @@
         "特摄改",
         "电影",
         "科幻",
+        "纯爱",
         "萝卜",
         "長谷川圭一",
         "雨宫哲",
@@ -1301,10 +1316,8 @@
       "tags": [
         "2020s",
         "2023",
-        "2023年",
-        "2023年3月",
+        "2023年春",
         "IG.Port",
-        "Production",
         "Production.I.G",
         "ProductionI.G",
         "SweetSub",
@@ -1316,8 +1329,11 @@
         "奇幻",
         "子供向",
         "小说改",
+        "山崎泰之",
         "待上映",
+        "恋爱",
         "成田旬",
+        "战斗",
         "日本",
         "正太",
         "波丽佳音",
@@ -1325,7 +1341,6 @@
         "滨名孝行",
         "漫改",
         "漫画改",
-        "电影或剧场版",
         "石見舞菜香",
         "萝莉",
         "魔法"
@@ -1658,13 +1673,13 @@
         "哆啦A梦",
         "堂山卓見",
         "堂山卓见",
+        "弱6",
+        "影院观影",
         "搞笑",
         "日本",
         "日本动画",
         "日漫",
-        "日系",
         "未发售",
-        "村濑步",
         "治愈",
         "漫画改",
         "电影",
@@ -1681,13 +1696,13 @@
           "key": "别名",
           "value": [
             {
-              "v": "Doraemon Movie 42: Nobita to Sora no Utopia"
+              "v": "Eiga Doraemon: Nobita to Sora no Utopia"
+            },
+            {
+              "v": "Doraemon the Movie 2023: Nobita`s Sky Utopia"
             },
             {
               "v": "哆啦A梦 大雄与天空乌托邦"
-            },
-            {
-              "v": "Eiga Doraemon: Nobita to Sora no Utopia"
             }
           ]
         },
@@ -1851,7 +1866,7 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/79/425211_bPbra.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/79/425211_bPbra.jpg"
       },
-      "summary": "两人冻结的内心，在没有下雪的东京夜空渐渐融化。\r\n\r\n爱情喜剧，在特别却又平凡的圣诞节，重新归来 —\r\n\r\n副会长・四宫辉夜与学生会长・白银御行在秀知院学园的学生会相遇，两名天才在历经了漫长的恋爱头脑战后，终于向对方表达了自己的心意，​在“奉心祭”首度接吻。\r\n\r\n然而两人还是没有做出明确的告白，原以为就要成为恋人了，但却依然维持著暧昧关係，反而变得更加在意彼此。\r\n\r\n两人就这么迎向了圣诞节，“渴望变得完美”的白银，与追求他的“不完美”的辉夜，这是天才们极其“普通”的恋爱故事。\r\n\r\n初吻，永不结束 —",
+      "summary": "两人冻结的内心，在没有下雪的东京夜空渐渐融化。\r\n\r\n爱情喜剧，在特别却又平凡的圣诞节，重新归来 —\r\n\r\n副会长・四宫辉夜与学生会长・白银御行在秀知院学园的学生会相遇，两名天才在历经了漫长的恋爱头脑战后，终于向对方表达了自己的心意，在“奉心祭”首度接吻。\r\n\r\n然而两人还是没有做出明确的告白，原以为就要成为恋人了，但却依然维持著暧昧关係，反而变得更加在意彼此。\r\n\r\n两人就这么迎向了圣诞节，“渴望变得完美”的白银，与追求他的“不完美”的辉夜，这是天才们极其“普通”的恋爱故事。\r\n\r\n初吻，永不结束 —",
       "name": "かぐや様は告らせたい-ファーストキッスは終わらない-",
       "name_cn": "辉夜大小姐想让我告白-初吻不会结束-",
       "tags": [
@@ -1875,7 +1890,6 @@
         "治愈",
         "漫改",
         "漫画改",
-        "狗粮",
         "畠山守",
         "神作",
         "续作",
@@ -1883,6 +1897,7 @@
         "赤坂明",
         "輝夜姬想讓人告白",
         "辉夜",
+        "辉夜大小姐",
         "辉夜大小姐想让我告白",
         "青春"
       ],
@@ -1934,16 +1949,16 @@
           "value": "2023年4月2日"
         },
         {
+          "key": "导演",
+          "value": "畠山守(小俣真一)"
+        },
+        {
           "key": "Copyright",
           "value": "©赤坂アカ／集英社・かぐや様は告らせたい製作委員会"
         },
         {
           "key": "原作",
           "value": "赤坂アカ （集英社「週刊ヤングジャンプ」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "畠山守(小俣真一)"
         },
         {
           "key": "人物设定",
@@ -1956,10 +1971,6 @@
         {
           "key": "特效作画监督",
           "value": "芳山優"
-        },
-        {
-          "key": "作画监督",
-          "value": "木藤貴之[道具作画监督]、木藤貴之"
         },
         {
           "key": "製作",
@@ -1988,6 +1999,30 @@
         {
           "key": "音乐制作人",
           "value": "山内真治"
+        },
+        {
+          "key": "脚本",
+          "value": "中西やすひろ"
+        },
+        {
+          "key": "分镜",
+          "value": "小原正和、川畑喬、北村翔太郎、小俣真一"
+        },
+        {
+          "key": "演出",
+          "value": "小原正和、菊池貴行、北村翔太郎、飛田剛"
+        },
+        {
+          "key": "总作画监督",
+          "value": "矢向宏志、岩崎令奈、横山穂乃花、針場裕子、太田慎之介、摺木沙織"
+        },
+        {
+          "key": "作画监督",
+          "value": "木藤貴之[道具作画监督]、永野美春、川﨑玲奈、山崎浩平、矢向宏志、大久保洸太郎、木藤貴之、吉田和香子、斉藤準一、石川洋一、小林茉利奈、石塚みゆき、湯川純、八尋裕子"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "菊池貴行(OP) / 小俣真一(ED)"
         }
       ],
       "total_episodes": 4,
@@ -2035,9 +2070,9 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/b6/389474_tzbrl.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/b6/389474_tzbrl.jpg"
           },
-          "name": "かぐや様は告らせたい-ファーストキッスは終わらない-",
-          "name_cn": "辉夜大小姐想让我告白-初吻不会结束-",
-          "relation": "全集",
+          "name": "かぐや様は告らせたい-ファーストキッスは終わらない- 映画",
+          "name_cn": "辉夜大小姐想让我告白-初吻不会结束- 剧场版",
+          "relation": "总集篇",
           "type": 2,
           "id": 389474
         },
@@ -2124,6 +2159,7 @@
         "サンジゲン",
         "三次元",
         "乐队",
+        "企划改",
         "伊藤昌弘",
         "偶像",
         "剧场版",
@@ -2132,6 +2168,7 @@
         "待上映",
         "日向大輔",
         "日本动画",
+        "森川滋",
         "毛利亘宏",
         "番外衍生",
         "紅優",
@@ -2410,7 +2447,8 @@
         "23冬",
         "SSSS.GRIDMAN",
         "TRIGGER",
-        "グリッドマン",
+        "robo",
+        "ssss",
         "剧场版",
         "动画",
         "原创",
@@ -2421,7 +2459,6 @@
         "待上映",
         "总集篇",
         "恋爱",
-        "战斗",
         "日本动画",
         "机战",
         "校园",
@@ -2722,162 +2759,6 @@
           "relation": "前传",
           "type": 2,
           "id": 297555
-        }
-      ]
-    }
-  },
-  {
-    "title": "EVANGELION:3.0(-46h)",
-    "date": "2023-03-08",
-    "bangumi": {
-      "date": "2023-03-08",
-      "platform": "OVA",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6e/87/415148_09hK9.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6e/87/415148_09hK9.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/6e/87/415148_09hK9.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6e/87/415148_09hK9.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6e/87/415148_09hK9.jpg"
-      },
-      "summary": "2023年3月8日に、Blu-ray Disc・4K Ultra HD Blu-ray・DVD版『シン・エヴァンゲリオン劇場版 EVANGELION:3.0+1.11 THRICE UPON A TIME』を発売。2021年3月8日の映画封切り時に上映された『3.0+1.0』バージョンに対し、一部調整作業を行った『3.0+1.01』バージョンが同年6月12日より全国の劇場で上映、後に映像配信されたが、本商品には更に一部調整を重ねた『3.0+1.11』バージョンが収録されている。また、新作特典映像『EVANGELION:3.0（−46h）』なども収録されている。\r\n\r\n『EVANGELION:3.0(-46h)』は、『シン・エヴァンゲリオン劇場版:||』DVD&Blu-ray付属の特典映像である。\r\n反NERV組織「ヴィレ」の一員である北上ミドリに焦点が当てられており、彼女の過去とヴィレ入隊の経緯が語られている。\r\n時系列は、回想が「ヱヴァンゲリヲン新劇場版:破」と「ヱヴァンゲリヲン新劇場版:Q」の間である「空白の14年」のどこか、訓練のシーンが「Q」冒頭のUS作戦開始46時間前(約2日前)であると思われる。\r\n\r\n登場人物\r\n北上ミドリ(CV:伊瀬茉莉也)\r\n多摩ヒデキ(CV:勝杏里)\r\n長良スミレ(CV:大原さやか)\r\n式波・アスカ・ラングレー(CV:宮村優子)\r\n真希波・マリ・イラストリアス(CV:坂本真綾)",
-      "name": "EVANGELION:3.0(-46h)",
-      "name_cn": "",
-      "tags": [
-        "2020-2029",
-        "2020s",
-        "2023",
-        "2023年",
-        "2023年3月",
-        "EVA",
-        "Khara",
-        "OVA",
-        "SP",
-        "オリジナル",
-        "原创",
-        "庵野秀明",
-        "战斗",
-        "新世纪福音战士",
-        "日本动画",
-        "机战",
-        "特典",
-        "田中隼人",
-        "短片",
-        "科幻",
-        "萝卜",
-        "表内",
-        "谜语人",
-        "谷口部透湖",
-        "谷田部透湖",
-        "贞本义行",
-        "锦织敦史",
-        "青春",
-        "鶴巻和哉",
-        "鹤卷和哉"
-      ],
-      "infobox": [
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "Evangelion:3.0(-46h)"
-            }
-          ]
-        },
-        {
-          "key": "话数",
-          "value": "1"
-        },
-        {
-          "key": "发售日",
-          "value": "2023年3月8日"
-        },
-        {
-          "key": "官方网站",
-          "value": "https://www.evangelion.co.jp/final_bd_dvd.html"
-        },
-        {
-          "key": "企画",
-          "value": "庵野秀明"
-        },
-        {
-          "key": "原作",
-          "value": "庵野秀明"
-        },
-        {
-          "key": "总监修",
-          "value": "庵野秀明"
-        },
-        {
-          "key": "总导演",
-          "value": "鶴巻和哉"
-        },
-        {
-          "key": "导演",
-          "value": "谷田部透湖"
-        },
-        {
-          "key": "人物原案",
-          "value": "貞本義行、本田雄"
-        },
-        {
-          "key": "人物设定",
-          "value": "錦織敦史"
-        },
-        {
-          "key": "制作协力",
-          "value": "CloverWorks（福島祐一、高野広大）"
-        }
-      ],
-      "total_episodes": 1,
-      "id": 415148,
-      "eps": 1,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/bb/22505_O197k.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/bb/22505_O197k.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a6/bb/22505_O197k.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/bb/22505_O197k.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/bb/22505_O197k.jpg"
-          },
-          "name": "ヱヴァンゲリヲン新劇場版:Q",
-          "name_cn": "福音战士新剧场版：Q",
-          "relation": "主线故事",
-          "type": 2,
-          "id": 22505
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f4/7a/342084_ZanAA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f4/7a/342084_ZanAA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f4/7a/342084_ZanAA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f4/7a/342084_ZanAA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f4/7a/342084_ZanAA.jpg"
-          },
-          "name": "EVA-EXTRA-EX",
-          "name_cn": "新世紀福音戰士 特典漫畫 E-E-E",
-          "relation": "书籍",
-          "type": 1,
-          "id": 342084
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/dc/29883_jQ4Hz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/dc/29883_jQ4Hz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/04/dc/29883_jQ4Hz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/dc/29883_jQ4Hz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/dc/29883_jQ4Hz.jpg"
-          },
-          "name": "シン・エヴァンゲリオン劇場版",
-          "name_cn": "新・福音战士剧场版：终",
-          "relation": "主线故事",
-          "type": 2,
-          "id": 29883
         }
       ]
     }

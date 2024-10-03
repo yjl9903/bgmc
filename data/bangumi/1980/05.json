@@ -19,14 +19,13 @@
         "1980",
         "1980年",
         "1980年5月",
-        "7分",
-        "80",
         "80s",
         "80年代",
         "IDEON",
         "SUNRISE",
         "TV",
         "TVA",
+        "robo",
         "サンライズ",
         "传说巨神伊迪安",
         "全人类谋杀",
@@ -39,6 +38,7 @@
         "日本动画",
         "机器人",
         "机战",
+        "板野一郎",
         "湖川友謙",
         "湖川友谦",
         "白石冬美",
@@ -248,7 +248,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -374,7 +374,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/d7/498973_twssJ.jpg"
           },
           "name": "伝説巨神IDEON",
-          "name_cn": "传说巨神IDEON0",
+          "name_cn": "传说巨神IDEON",
           "relation": "书籍",
           "type": 1,
           "id": 498973
@@ -561,6 +561,20 @@
           "relation": "前传",
           "type": 2,
           "id": 414719
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/7f/514817_KYqg2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/7f/514817_KYqg2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/7f/514817_KYqg2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/7f/514817_KYqg2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/7f/514817_KYqg2.jpg"
+          },
+          "name": "がんばれ!! タブチくん!! / WAHO!",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 514817
         }
       ]
     }
@@ -601,7 +615,6 @@
         "星球大战",
         "星球大战5：帝国反击战",
         "映画",
-        "最爱",
         "欧美",
         "热血",
         "电影",
@@ -694,11 +707,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/60/60402_Cw011.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/60/60402_Cw011.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5b/60/60402_Cw011.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/60/60402_Cw011.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/60/60402_Cw011.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/60/60402_wE55F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/60/60402_wE55F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/60/60402_wE55F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/60/60402_wE55F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/60/60402_wE55F.jpg"
           },
           "name": "Star Wars: Episode IV - A New Hope",
           "name_cn": "星球大战4：新希望",
@@ -831,6 +844,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 422910
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/46/511809_3E1wE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/46/511809_3E1wE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e6/46/511809_3E1wE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/46/511809_3E1wE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/46/511809_3E1wE.jpg"
+          },
+          "name": "Super Star Wars: The Empire Strikes Back",
+          "name_cn": "超级星球大战：帝国反击战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 511809
         }
       ]
     }

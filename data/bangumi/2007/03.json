@@ -17,6 +17,7 @@
       "name_cn": "新勇者莱汀",
       "tags": [
         "2007",
+        "2007年3月",
         "2007年4月",
         "MADHouse",
         "Production.I.G",
@@ -28,7 +29,6 @@
         "人机恋",
         "千葉紗子",
         "原创",
-        "奇幻",
         "小形满",
         "巨大萝卜",
         "待補2",
@@ -115,11 +115,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/65/30170_fDhZA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/65/30170_fDhZA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/37/65/30170_fDhZA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/65/30170_fDhZA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/65/30170_fDhZA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/65/30170_9n97F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/65/30170_9n97F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/37/65/30170_9n97F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/65/30170_9n97F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/65/30170_9n97F.jpg"
           },
           "name": "勇者ライディーン",
           "name_cn": "勇者莱汀",
@@ -369,7 +369,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/34/22434_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/34/22434_jp.jpg"
           },
-          "name": "夢、ひとひら",
+          "name": "夢、ひとひら / スマイル",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
@@ -945,7 +945,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/49/238160_CMXhY.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/49/238160_CMXhY.jpg"
           },
-          "name": "小説 秒速5センチメートル (角川文庫)",
+          "name": "小説 秒速5センチメートル",
           "name_cn": "秒速五厘米",
           "relation": "书籍",
           "type": 1,
@@ -978,6 +978,20 @@
           "relation": "三次元",
           "type": 6,
           "id": 443123
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/ad/508146_Gz8qq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/ad/508146_Gz8qq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5f/ad/508146_Gz8qq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/ad/508146_Gz8qq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/ad/508146_Gz8qq.jpg"
+          },
+          "name": "秒速5センチメートル",
+          "name_cn": "秒速五厘米",
+          "relation": "三次元",
+          "type": 6,
+          "id": 508146
         }
       ]
     }
@@ -1001,10 +1015,10 @@
       "tags": [
         "2007",
         "2007年3月",
-        "6",
         "SHIN-EI",
-        "Shin-EiAnimation",
+        "movie",
         "undefined",
+        "アニメ映画",
         "シンエイ動画",
         "ドラえもん",
         "剧场版",
@@ -1016,13 +1030,13 @@
         "大雄",
         "奇幻",
         "寺本幸代",
+        "战斗",
         "搞笑",
         "日本",
         "日本动画",
         "漫改",
         "漫画改",
         "电影",
-        "真保裕一",
         "科幻",
         "童年",
         "童年系",
@@ -1068,6 +1082,10 @@
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "mihimaru GT「かけがえのない詩」"
         }
       ],
       "total_episodes": 1,
@@ -1134,6 +1152,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 61261
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/40/516364_5CEqq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/40/516364_5CEqq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d2/40/516364_5CEqq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/40/516364_5CEqq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/40/516364_5CEqq.jpg"
+          },
+          "name": "ハグしちゃお",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 516364
         }
       ]
     }
@@ -1504,7 +1536,6 @@
         "2007",
         "2007年",
         "2007年3月",
-        "2007年4月",
         "BEETRAIN",
         "MURDER_PRINCESS",
         "OVA",
@@ -1514,14 +1545,15 @@
         "奇幻",
         "小清水亚美",
         "小清水亞美",
+        "性转",
         "战斗",
         "打斗",
         "日本",
         "朴璐美",
         "杀戮公主",
+        "浦畑達彦",
         "漫改",
         "漫画改",
-        "灵魂交换",
         "犬威赤彦",
         "独立ova",
         "百合",
@@ -1801,6 +1833,7 @@
       "tags": [
         "2007",
         "2007年1月",
+        "2007年3月",
         "PALM",
         "robo",
         "くまいもとこ",
@@ -1975,6 +2008,7 @@
       "tags": [
         "2007",
         "2007年3月",
+        "2007年4月",
         "3D",
         "EVA",
         "EVA学园",
@@ -1987,7 +2021,6 @@
         "XEBEC",
         "カナバングラフィックス",
         "三木俊一郎",
-        "动画",
         "动画剧集",
         "原创",
         "坑爹",
@@ -2164,7 +2197,7 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "时尚魔女LOVE &amp; BERRY~幸福的魔法"
+          "value": "时尚魔女LOVE & BERRY~幸福的魔法"
         },
         {
           "key": "别名",

@@ -62,8 +62,16 @@
           "value": "矢立肇"
         },
         {
+          "key": "导演",
+          "value": "アミノテツロー"
+        },
+        {
           "key": "系列构成",
           "value": "會川昇"
+        },
+        {
+          "key": "脚本",
+          "value": "會川昇、稲荷昭彦"
         },
         {
           "key": "人物设定",
@@ -83,15 +91,15 @@
         },
         {
           "key": "分镜",
-          "value": "アミノテツロー、大畑清隆、織田美浩"
+          "value": "アミノテツロー、大畑清隆"
         },
         {
           "key": "演出",
-          "value": "織田美浩、大畑清隆、織田美浩"
+          "value": "織田美浩、大畑清隆"
         },
         {
           "key": "作画监督",
-          "value": "本橋秀之、山本泰一郎、柳沢哲也（柳沢テツヤ）"
+          "value": "本橋秀之、山本泰一郎、柳沢テツヤ"
         },
         {
           "key": "原画",
@@ -120,6 +128,34 @@
           "relation": "前传",
           "type": 2,
           "id": 37273
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/27/510921_q88V3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/be/27/510921_q88V3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/be/27/510921_q88V3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/be/27/510921_q88V3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/be/27/510921_q88V3.jpg"
+          },
+          "name": "疾風!アイアンリーガー OVA音楽＆ボーカル集",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 510921
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3b/2a/510925_yHHhD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3b/2a/510925_yHHhD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3b/2a/510925_yHHhD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3b/2a/510925_yHHhD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3b/2a/510925_yHHhD.jpg"
+          },
+          "name": "BURNING STREAM / BANANA MOON の下で",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 510925
         }
       ]
     }

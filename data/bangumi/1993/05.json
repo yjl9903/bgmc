@@ -4,7 +4,7 @@
     "date": "1993-05-05",
     "bangumi": {
       "date": "1993-05-05",
-      "platform": "TV",
+      "platform": "剧场版",
       "images": {
         "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/c4/513_Any5s.jpg",
         "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/c4/513_Any5s.jpg",
@@ -16,6 +16,7 @@
       "name": "海がきこえる",
       "name_cn": "听到涛声",
       "tags": [
+        "1990s",
         "1993",
         "1993年",
         "1993年5月",
@@ -35,7 +36,6 @@
         "少男少女",
         "恋爱",
         "日本",
-        "日本动画",
         "望月智充",
         "校园",
         "氷室冴子",
@@ -73,16 +73,16 @@
           ]
         },
         {
-          "key": "话数",
-          "value": "1"
-        },
-        {
-          "key": "放送开始",
-          "value": "1993-05-05"
+          "key": "上映年度",
+          "value": "1993年5月5日"
         },
         {
           "key": "片长",
           "value": "72分钟"
+        },
+        {
+          "key": "话数",
+          "value": "1"
         },
         {
           "key": "导演",
@@ -245,6 +245,20 @@
           "relation": "其他",
           "type": 3,
           "id": 463237
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/b7/511590_x2TX5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/b7/511590_x2TX5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b5/b7/511590_x2TX5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/b7/511590_x2TX5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/b7/511590_x2TX5.jpg"
+          },
+          "name": "海がきこえる THE VISUAL COLLECTION",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 511590
         }
       ]
     }
@@ -277,6 +291,7 @@
         "XX",
         "ova2",
         "其他",
+        "剧场版",
         "原创",
         "幻想",
         "待補0",

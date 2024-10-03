@@ -146,6 +146,7 @@
         "B站补番",
         "SUNRISE",
         "TV",
+        "robo",
         "东映",
         "东映エージエンシー",
         "五武冬史",
@@ -159,7 +160,6 @@
         "神田武幸",
         "神谷明",
         "科幻",
-        "耻Q",
         "萝卜",
         "铃木良武",
         "長浜忠夫",
@@ -300,7 +300,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -670,6 +670,20 @@
           "relation": "三次元",
           "type": 6,
           "id": 476028
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/fc/514683_Q48q1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/fc/514683_Q48q1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/fc/514683_Q48q1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/fc/514683_Q48q1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/fc/514683_Q48q1.jpg"
+          },
+          "name": "いま、地球がめざめる / 幸せの予感",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 514683
         }
       ]
     }

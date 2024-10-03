@@ -20,6 +20,7 @@
         "2001年",
         "2001年7月",
         "DEEN",
+        "STUDIO_DEEN",
         "TV",
         "studiodeen",
         "乙女向",
@@ -31,7 +32,6 @@
         "奇幻",
         "少女",
         "少女向",
-        "少女漫",
         "少女系",
         "幻影天使",
         "恋爱",
@@ -228,13 +228,11 @@
         "TV",
         "XEBEC",
         "一切都过去了",
-        "动画",
         "原创剧情",
         "叶",
         "坑了",
         "奇幻",
         "安娜姐",
-        "小西克幸",
         "少年",
         "少年系",
         "战斗",
@@ -246,8 +244,10 @@
         "水島精二",
         "漫改",
         "漫画改",
+        "烂尾",
         "热血",
         "童年",
+        "经典",
         "腐",
         "通灵王",
         "长篇"
@@ -457,10 +457,10 @@
       "name": "スクライド",
       "name_cn": "分身战士",
       "tags": [
+        "2000s",
         "2001",
         "2001夏",
         "2001年7月",
-        "SF",
         "SUNRISE",
         "TV",
         "TVA",
@@ -636,11 +636,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/5f/121162_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/5f/121162_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/86/5f/121162_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/5f/121162_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/5f/121162_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/5f/121162_iXY4n.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/5f/121162_iXY4n.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/86/5f/121162_iXY4n.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/5f/121162_iXY4n.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/5f/121162_iXY4n.jpg"
           },
           "name": "スクライド ― オリジナル・サウンドトラック I",
           "name_cn": "",
@@ -650,11 +650,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/01/121163_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/01/121163_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5e/01/121163_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/01/121163_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/01/121163_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/01/121163_piK33.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/01/121163_piK33.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/01/121163_piK33.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/01/121163_piK33.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/01/121163_piK33.jpg"
           },
           "name": "スクライド オリジナルサウンドトラック II",
           "name_cn": "",
@@ -671,7 +671,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
           "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
           "id": 141050
@@ -871,10 +871,11 @@
       "name": "星界の戦旗II",
       "name_cn": "星界的战旗II",
       "tags": [
+        "01夏",
+        "2000s",
         "2001",
+        "2001-07",
         "2001年7月",
-        "7分",
-        "A+",
         "SF",
         "SUNRISE",
         "TV",
@@ -889,12 +890,11 @@
         "战争",
         "战斗",
         "日本",
-        "星战",
         "星界",
         "星界的战旗",
         "森岡浩之",
         "科幻",
-        "竹田裕一郎",
+        "第二季",
         "续作",
         "补番",
         "轻小说改",
@@ -936,16 +936,72 @@
           "value": "2001年9月26日"
         },
         {
-          "key": "原作",
-          "value": "森岡浩之（ハヤカワ文庫刊）"
-        },
-        {
           "key": "导演",
           "value": "長岡康史"
         },
         {
+          "key": "音乐",
+          "value": "服部克久"
+        },
+        {
+          "key": "企画",
+          "value": "渡辺繁（バンダイビジュアル）、海部正樹（WOWOW）、内田健二（サンライズ）"
+        },
+        {
+          "key": "原作",
+          "value": "森岡浩之（ハヤカワ文庫刊）"
+        },
+        {
+          "key": "系列构成",
+          "value": "竹田裕一郎"
+        },
+        {
+          "key": "人物原案",
+          "value": "赤井孝美、江田恵一"
+        },
+        {
           "key": "视觉概念",
           "value": "赤井孝美、江田恵一"
+        },
+        {
+          "key": "人物设定",
+          "value": "渡部圭祐"
+        },
+        {
+          "key": "机械设定",
+          "value": "森木靖泰、大輪充、今石進（シンクポート）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "BeSTACK（ビースタック）"
+        },
+        {
+          "key": "剪辑",
+          "value": "瀬山武司 助手：水田経子、内田恵、武宮むつみ"
+        },
+        {
+          "key": "音效",
+          "value": "倉橋静男（サウンドボックス）"
+        },
+        {
+          "key": "监修",
+          "value": "森岡浩之（アーヴ語監修）、森木靖泰（机械作画监修）"
+        },
+        {
+          "key": "分镜",
+          "value": "長岡康史、篠原俊哉、西本由紀夫、まついひとゆき、西澤晋、高木茂樹、山中英治"
+        },
+        {
+          "key": "演出",
+          "value": "長岡康史、佐藤千春、菱田正和、西本由紀夫、鶴田寛、吉村章、高木茂樹"
+        },
+        {
+          "key": "作画监督",
+          "value": "しんぼたくろう、橋本誠一、佐藤千春、高橋晃、あきゆたか、向山祐治"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "筱雅律"
         },
         {
           "key": "特技指导",
@@ -954,10 +1010,6 @@
         {
           "key": "特效",
           "value": "干場豊"
-        },
-        {
-          "key": "剪辑助手",
-          "value": "水田経子、内田恵、武宮むつみ"
         },
         {
           "key": "混频",
@@ -976,32 +1028,32 @@
           "value": "鎌倉和人"
         },
         {
-          "key": "企画",
-          "value": "渡辺繁(バンダイビジュアル)、海部正樹(WOWOW)、内田健二(サンライズ)"
-        },
-        {
-          "key": "机械作画监修",
-          "value": "森木靖泰"
-        },
-        {
-          "key": "机械作画监督",
-          "value": "筱雅律"
-        },
-        {
-          "key": "音乐制作",
-          "value": "BeSTACK（ビースタック）"
-        },
-        {
           "key": "制片人",
-          "value": "海部正樹(WOWOW)、岩田幹宏(サンライズ)、杉田敦　(バンダイビジュアル)、積惟文(ビースタック)"
+          "value": "海部正樹（WOWOW）、岩田幹宏（サンライズ）、杉田敦（バンダイビジュアル）、積惟文（ビースタック）"
+        },
+        {
+          "key": "助理制片人",
+          "value": "小林潤香（バンダイビジュアル）"
         },
         {
           "key": "製作",
           "value": "サンライズ、WOWOW、バンダイビジュアル"
         },
         {
-          "key": "机械设定",
-          "value": "森木靖泰、大輪充、今石進(シンクポート)"
+          "key": "主题歌演出",
+          "value": "川澄綾子（ED）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "冬杜花代子（ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "服部克久（OP）、田中公平（ED）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "服部克久（OP）、浜口史郎（ED）"
         }
       ],
       "total_episodes": 10,
@@ -1057,17 +1109,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/fb/60278_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/fb/60278_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/90/fb/60278_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/fb/60278_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/fb/60278_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/fb/60278_9JD42.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/fb/60278_9JD42.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/90/fb/60278_9JD42.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/fb/60278_9JD42.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/fb/60278_9JD42.jpg"
           },
           "name": "星界の戦旗II ― オリジナル・サウンドトラック",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
           "id": 60278
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/f7/513796_0esFu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/f7/513796_0esFu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a2/f7/513796_0esFu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/f7/513796_0esFu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/f7/513796_0esFu.jpg"
+          },
+          "name": "星界の戦旗II CD-BOX ＜初回生産限定盤＞",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 513796
         }
       ]
     }
@@ -1442,6 +1508,7 @@
       "tags": [
         "2001",
         "2001年",
+        "2001年7月",
         "DM",
         "digimon",
         "movie",
@@ -1454,7 +1521,6 @@
         "冲绳",
         "剧场版",
         "劇場版",
-        "动画",
         "原创",
         "奇幻",
         "小林靖子",
@@ -1602,11 +1668,11 @@
       "date": "2001-07-07",
       "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/d2/3025_Ya2yt.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d2/3025_Ya2yt.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/d2/3025_lkuI0.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/d2/3025_lkuI0.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2b/d2/3025_lkuI0.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/d2/3025_lkuI0.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d2/3025_lkuI0.jpg"
       },
       "summary": "在森林的入口，“雪成”与少女“永久”邂逅了。接受了永久说的“如果你听到了森林的声音，就不能乱走动”的忠告后，雪成走进了森林。 雪成在森林里为了守护被猎人追捕的“雪拉比”，被“穿梭时空的力量”卷入，带到了40年后的未来。在40年后的世界，雪成认识小智他们。但是在这世界里，火箭队史上最强的男人“比夏斯”正打算捕猎雪拉比。 比夏斯拥有能将一切神奇宝贝变得凶恶的黑暗球，将雪拉比从小智他们的身边夺走。为了拯救被比夏斯捕捉的雪拉比，小智与雪成拚命奋战。可是，温柔的雪拉比已经发生了很大的变化…… 激烈的对战中，传说的宝可梦“水君”出现了！小智他们能否拯救雪拉比和森林呢！？",
       "name": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
@@ -1621,7 +1687,6 @@
         "冒险",
         "剧场版",
         "剧情版",
-        "动画",
         "动画电影",
         "原创",
         "口袋妖怪",
@@ -1638,6 +1703,7 @@
         "热血",
         "神奇宝贝",
         "神奇宝贝剧场版4",
+        "神奇寶貝",
         "穿越",
         "童年",
         "精灵宝可梦",
@@ -1847,6 +1913,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/76/27779_nn6e8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/76/27779_nn6e8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b7/76/27779_nn6e8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/76/27779_nn6e8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/76/27779_nn6e8.jpg"
+          },
+          "name": "ピカチュウのドキドキかくれんぼ",
+          "name_cn": "皮卡丘的心跳捉迷藏",
+          "relation": "其他",
+          "type": 2,
+          "id": 27779
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/be/99672_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/be/99672_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/ca/be/99672_jp.jpg",
@@ -1867,19 +1947,20 @@
     "date": "2001-07-07",
     "bangumi": {
       "date": "2001-07-07",
-      "platform": "OVA",
+      "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/76/27779_eZE0f.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/76/27779_eZE0f.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/b7/76/27779_eZE0f.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/76/27779_eZE0f.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/76/27779_eZE0f.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/76/27779_nn6e8.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/76/27779_nn6e8.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/b7/76/27779_nn6e8.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/76/27779_nn6e8.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/76/27779_nn6e8.jpg"
       },
-      "summary": "在海边有一栋大宅邸，宝可梦们就在那里玩起了“捉迷藏”。决定好由皮卡丘当鬼后，大家都躲好了吗？这时候，幼基拉斯因为自己一个人很无聊，踢飞了一颗大石头。可是石头却击中了割草机，让割草机动了起来。割草机就追著皮卡丘们大暴走！真是不妙了！",
+      "summary": "お馴染み、ピカチュウとその仲間たちが、大きな庭を舞台に大騒動を繰り広げる短篇ジュヴナイル・アニメーション。監督は「劇場版 ポケットモンスター　結晶塔の帝王」の湯山邦彦。田尻智による原案を基に、「るろうに剣心―明治剣客浪漫譚―　維新志士への鎮魂歌」の大橋志吉が脚本を執筆。撮影監督に「～結晶塔の帝王」の白井久男があたっている。声の出演に「名探偵コナン　天国へのカウントダウン」の大谷育江の他、ナレーターとして「富江　re-birth」の遠藤久美子が参加している。尚、本作は「劇場版 ポケットモンスター　セレビィ 時を超えた遭遇」の併映短篇として公開された。",
       "name": "ピカチュウのドキドキかくれんぼ",
       "name_cn": "皮卡丘的心跳捉迷藏",
       "tags": [
         "2001",
+        "2001-07",
         "2001年",
         "2001年7月",
         "OLM",
@@ -1923,20 +2004,16 @@
           ]
         },
         {
+          "key": "上映年度",
+          "value": "2001年7月7日"
+        },
+        {
+          "key": "片长",
+          "value": "23分"
+        },
+        {
           "key": "话数",
           "value": "1"
-        },
-        {
-          "key": "发售日",
-          "value": "2001-07-07"
-        },
-        {
-          "key": "开始",
-          "value": "2001-07-07"
-        },
-        {
-          "key": "结束",
-          "value": "2001-07-07"
         },
         {
           "key": "导演",
@@ -2052,11 +2129,25 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/d6/27780_GN5CD.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/d6/27780_GN5CD.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a9/d6/27780_GN5CD.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/d6/27780_GN5CD.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/d6/27780_GN5CD.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/d2/3025_lkuI0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/d2/3025_lkuI0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2b/d2/3025_lkuI0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/d2/3025_lkuI0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/d2/3025_lkuI0.jpg"
+          },
+          "name": "劇場版ポケットモンスター セレビィ 時を超えた遭遇",
+          "name_cn": "剧场版 精灵宝可梦 时拉比 穿梭时空的相遇",
+          "relation": "其他",
+          "type": 2,
+          "id": 3025
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/d6/27780_JPGN8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/d6/27780_JPGN8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/d6/27780_JPGN8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/d6/27780_JPGN8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/d6/27780_JPGN8.jpg"
           },
           "name": "ピカピカ星空キャンプ",
           "name_cn": "皮卡皮卡的星空露营",
@@ -2077,6 +2168,20 @@
           "relation": "前传",
           "type": 2,
           "id": 90015
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/39/511863_RyvW2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/39/511863_RyvW2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/52/39/511863_RyvW2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/39/511863_RyvW2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/39/511863_RyvW2.jpg"
+          },
+          "name": "かくれんぼ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 511863
         }
       ]
     }
@@ -2386,7 +2491,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/88/196511_jp.jpg"
           },
           "name": "いつも何度でも/いのちの名前",
-          "name_cn": "",
+          "name_cn": "千与千寻的神隐 永远同在",
           "relation": "片尾曲",
           "type": 3,
           "id": 196511
@@ -2468,6 +2573,7 @@
       "name_cn": "高校女忍者",
       "tags": [
         "2001",
+        "2001-07",
         "GONZO",
         "TV",
         "关智一",
@@ -2572,27 +2678,27 @@
       "name_cn": "欢乐课程",
       "tags": [
         "2001",
+        "2001-07",
         "2001年",
         "2001年7月",
         "OVA",
         "OVA-01",
-        "TV",
         "~2006",
         "ささきむつみ",
         "ヴェネット",
         "ヴェネット等",
         "井上喜久子",
         "优先级b",
-        "动画",
         "原创",
         "后宫",
+        "夸张",
         "女教师",
         "岸尾大辅",
         "搞笑",
         "日常",
-        "日本",
         "校园",
         "欢乐课程",
+        "殿勝秀樹",
         "母系",
         "水树奈奈",
         "水樹奈々",
@@ -2706,9 +2812,9 @@
       "name": "映画 も〜っと! おジャ魔女どれみ カエル石のひみつ",
       "name_cn": "大～集合！小魔女DoReMi 青蛙石的秘密",
       "tags": [
-        "00代",
         "2000s",
         "2001",
+        "2001-07",
         "2001年",
         "OVA",
         "doremi",
@@ -2717,20 +2823,20 @@
         "东映",
         "东映动画",
         "剧场版",
-        "动画（剧场版）",
         "原创",
-        "大长篇",
         "奇幻",
         "子供向",
+        "宍戸留美",
         "小魔女DoReMi",
         "山内重保",
         "山田隆司",
         "幼女向",
-        "我难道说，是史上最弱的大友吗？",
         "日本动画",
         "映画",
         "東映",
         "東映アニメーション",
+        "梦回老东映",
+        "演出アニメ",
         "百合",
         "表",
         "马越嘉彦",
@@ -2844,10 +2950,6 @@
         "3D",
         "CG",
         "FF",
-        "SONY",
-        "SPE",
-        "SQUARE",
-        "SquareEnix",
         "冒险",
         "剧场版",
         "动画电影",
@@ -2864,10 +2966,14 @@
         "游戏改",
         "游戏改编",
         "电影",
+        "硬盘无存货",
         "科幻",
+        "空想科学",
+        "美国",
         "补番",
         "超越时代的技术",
-        "这货根本就不是最终幻想"
+        "这货根本就不是最终幻想",
+        "金田伊功"
       ],
       "infobox": [
         {
@@ -3144,7 +3250,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/07/324616_NuNHN.jpg"
           },
           "name": "火の鳥 羽衣編",
-          "name_cn": "火鸟 羽衣篇",
+          "name_cn": "火之鸟 羽衣篇",
           "relation": "其他",
           "type": 2,
           "id": 324616
@@ -3254,11 +3360,14 @@
       "name_cn": "零战士",
       "tags": [
         "00年代",
+        "2000s",
         "2001",
+        "2001-07",
         "2001.07",
         "2001年",
         "2001年7月",
         "2001年七月番",
+        "4(-1)",
         "SF",
         "TV",
         "TVA",
@@ -3452,8 +3561,48 @@
           "value": "WOWOW"
         },
         {
+          "key": "导演",
+          "value": "長岡康史"
+        },
+        {
+          "key": "音乐",
+          "value": "服部克久"
+        },
+        {
           "key": "片长",
-          "value": "120分"
+          "value": "121分钟"
+        },
+        {
+          "key": "企画",
+          "value": "渡辺繁、植田益朗"
+        },
+        {
+          "key": "原作",
+          "value": "森岡浩之（ハヤカワ文庫刊）"
+        },
+        {
+          "key": "人物原案",
+          "value": "赤井孝美、江田恵一（ナインライブス）"
+        },
+        {
+          "key": "人物设定",
+          "value": "渡部圭祐"
+        },
+        {
+          "key": "机械设定",
+          "value": "森木靖泰、井上邦彦、大輪充"
+        },
+        {
+          "key": "音乐制作",
+          "value": "BeSTACK（ビースタック）"
+        },
+        {
+          "key": "制片人",
+          "value": "海部正樹、岩田幹宏、杉田敦、積惟文"
+        },
+        {
+          "key": "製作",
+          "value": "サンライズ、WOWOW、バンダイビジュアル"
         }
       ],
       "total_episodes": 1,
@@ -3478,6 +3627,20 @@
           "relation": "全集",
           "type": 2,
           "id": 9617
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/c4/513786_XuBu5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/c4/513786_XuBu5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f2/c4/513786_XuBu5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/c4/513786_XuBu5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/c4/513786_XuBu5.jpg"
+          },
+          "name": "「星界の戦旗」CD-BOX＜限定盤＞",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 513786
         }
       ]
     }

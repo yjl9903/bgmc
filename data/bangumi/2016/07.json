@@ -127,7 +127,7 @@
         },
         {
           "key": "製作",
-          "value": "リライフ研究所（NHN comico、トムス・エンタテインメント、アニプレックス、博報堂DYメディアパートナーズ、ローソン、C&amp;Iエンタテインメント）"
+          "value": "リライフ研究所（NHN comico、トムス・エンタテインメント、アニプレックス、博報堂DYメディアパートナーズ、ローソン、C&Iエンタテインメント）"
         },
         {
           "key": "音乐监督",
@@ -378,7 +378,6 @@
         "3D",
         "GEMBA",
         "LIDENFILMS",
-        "Millepensee",
         "TV",
         "TVA",
         "millepensee",
@@ -396,8 +395,9 @@
         "漫改",
         "漫画改",
         "热血",
+        "猎奇",
         "续作",
-        "魔幻",
+        "阿部恒",
         "鷺巣詩郎",
         "鹭巢诗郎",
         "黑暗"
@@ -673,7 +673,7 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "GranP&amp;Rodeo夫 第二季"
+          "value": "GranP&Rodeo夫 第二季"
         },
         {
           "key": "话数",
@@ -759,13 +759,10 @@
         "2016年",
         "2016年7月",
         "2016年七月番",
-        "Love物语",
         "Satelight",
         "TV",
-        "くろせ",
         "サテライト",
         "冈本信彦",
-        "加隈亚衣",
         "加隈亜衣",
         "动画",
         "大空直美",
@@ -774,6 +771,8 @@
         "平池芳正",
         "恋爱",
         "恋爱番",
+        "搞笑",
+        "改编",
         "日常",
         "日本",
         "日本动画",
@@ -781,6 +780,7 @@
         "治愈",
         "漫改",
         "漫画改",
+        "漫画改编",
         "狗粮",
         "纯爱",
         "虐狗",
@@ -1558,7 +1558,6 @@
         "后宫",
         "搞笑",
         "料理",
-        "日本动画",
         "杉田智和",
         "松冈祯丞",
         "松岡禎丞",
@@ -1569,6 +1568,7 @@
         "热血",
         "燃",
         "爆衣",
+        "种田梨沙",
         "種田梨沙",
         "竞技",
         "米たにヨシトモ",
@@ -1908,9 +1908,9 @@
         "加藤达也",
         "加藤達也",
         "动画",
+        "励志",
         "原创",
         "室田雄平",
-        "日升",
         "日常",
         "日本动画",
         "校园",
@@ -2076,6 +2076,20 @@
           "relation": "相同世界观",
           "type": 2,
           "id": 49294
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/dd/508757_WdCW3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/dd/508757_WdCW3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/dd/508757_WdCW3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/dd/508757_WdCW3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/dd/508757_WdCW3.jpg"
+          },
+          "name": "ラブライブ！シリーズ　オフィシャルカードゲーム",
+          "name_cn": "Love Live! Series Official Card Game",
+          "relation": "游戏",
+          "type": 4,
+          "id": 508757
         },
         {
           "images": {
@@ -2261,20 +2275,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/13/71575_4746r.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/13/71575_4746r.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2e/13/71575_4746r.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/13/71575_4746r.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/13/71575_4746r.jpg"
-          },
-          "name": "ラブライブ！スクールアイドルフェスティバル",
-          "name_cn": "LoveLive! 学园偶像祭",
-          "relation": "游戏",
-          "type": 4,
-          "id": 71575
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/df/103372_Wpnwf.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/df/103372_Wpnwf.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/ed/df/103372_Wpnwf.jpg",
@@ -2289,6 +2289,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/13/71575_4746r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/13/71575_4746r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2e/13/71575_4746r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2e/13/71575_4746r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2e/13/71575_4746r.jpg"
+          },
+          "name": "ラブライブ！スクールアイドルフェスティバル",
+          "name_cn": "LoveLive! 学园偶像祭",
+          "relation": "游戏",
+          "type": 4,
+          "id": 71575
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/96/186300_4b4e0.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/96/186300_4b4e0.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a1/96/186300_4b4e0.jpg",
@@ -2300,6 +2314,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 186300
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/98/182141_Rv7bv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/98/182141_Rv7bv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/98/182141_Rv7bv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/98/182141_Rv7bv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/98/182141_Rv7bv.jpg"
+          },
+          "name": "ラブライブ! サンシャイン!!",
+          "name_cn": "Love Live! Sunshine!!",
+          "relation": "书籍",
+          "type": 1,
+          "id": 182141
         },
         {
           "images": {
@@ -2331,20 +2359,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/98/182141_Rv7bv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/98/182141_Rv7bv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9f/98/182141_Rv7bv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/98/182141_Rv7bv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/98/182141_Rv7bv.jpg"
-          },
-          "name": "ラブライブ! サンシャイン!!",
-          "name_cn": "Love Live! Sunshine!!",
-          "relation": "书籍",
-          "type": 1,
-          "id": 182141
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/81/186299_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/81/186299_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/18/81/186299_jp.jpg",
@@ -2356,6 +2370,20 @@
           "relation": "画集",
           "type": 1,
           "id": 186299
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/61/4e/193559_r75E7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/61/4e/193559_r75E7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/61/4e/193559_r75E7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/61/4e/193559_r75E7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/61/4e/193559_r75E7.jpg"
+          },
+          "name": "Aqours オリジナルソングCD 2",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 193559
         },
         {
           "images": {
@@ -2401,20 +2429,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/61/4e/193559_r75E7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/61/4e/193559_r75E7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/61/4e/193559_r75E7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/61/4e/193559_r75E7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/61/4e/193559_r75E7.jpg"
-          },
-          "name": "Aqours オリジナルソングCD 2",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 193559
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/ad/197649_MmM55.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/ad/197649_MmM55.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/f6/ad/197649_MmM55.jpg",
@@ -2426,20 +2440,6 @@
           "relation": "角色歌",
           "type": 3,
           "id": 197649
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b3/46/212802_mc52m.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b3/46/212802_mc52m.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b3/46/212802_mc52m.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b3/46/212802_mc52m.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/46/212802_mc52m.jpg"
-          },
-          "name": "Guilty Eyes Fever",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 212802
         },
         {
           "images": {
@@ -2457,6 +2457,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b3/46/212802_mc52m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b3/46/212802_mc52m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b3/46/212802_mc52m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b3/46/212802_mc52m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/46/212802_mc52m.jpg"
+          },
+          "name": "Guilty Eyes Fever",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 212802
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/9b/249734_OO1g4.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/9b/249734_OO1g4.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/49/9b/249734_OO1g4.jpg",
@@ -2468,34 +2482,6 @@
           "relation": "书籍",
           "type": 1,
           "id": 249734
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/ea/197167_e7erO.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/ea/197167_e7erO.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0b/ea/197167_e7erO.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/ea/197167_e7erO.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/ea/197167_e7erO.jpg"
-          },
-          "name": "ジングルベルがとまらない",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 197167
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/ae/66360_L2dLv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/ae/66360_L2dLv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/98/ae/66360_L2dLv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/ae/66360_L2dLv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/ae/66360_L2dLv.jpg"
-          },
-          "name": "No brand girls / START:DASH!!",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 66360
         },
         {
           "images": {
@@ -2513,17 +2499,45 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/af/204414_cfN06.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/af/204414_cfN06.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3d/af/204414_cfN06.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/af/204414_cfN06.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/af/204414_cfN06.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/ae/66360_L2dLv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/ae/66360_L2dLv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/98/ae/66360_L2dLv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/ae/66360_L2dLv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/ae/66360_L2dLv.jpg"
           },
-          "name": "Aqours オリジナルソングCD 5",
+          "name": "No brand girls / START:DASH!!",
           "name_cn": "",
-          "relation": "角色歌",
+          "relation": "插入歌",
           "type": 3,
-          "id": 204414
+          "id": 66360
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/ea/197167_e7erO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/ea/197167_e7erO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/ea/197167_e7erO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/ea/197167_e7erO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/ea/197167_e7erO.jpg"
+          },
+          "name": "ジングルベルがとまらない",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 197167
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/33/215485_DaDbw.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/33/215485_DaDbw.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5f/33/215485_DaDbw.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/33/215485_DaDbw.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/33/215485_DaDbw.jpg"
+          },
+          "name": "GALAXY HidE and SeeK",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 215485
         },
         {
           "images": {
@@ -2541,17 +2555,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/33/215485_DaDbw.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/33/215485_DaDbw.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5f/33/215485_DaDbw.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/33/215485_DaDbw.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/33/215485_DaDbw.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/af/204414_cfN06.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/af/204414_cfN06.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3d/af/204414_cfN06.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/af/204414_cfN06.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/af/204414_cfN06.jpg"
           },
-          "name": "GALAXY HidE and SeeK",
+          "name": "Aqours オリジナルソングCD 5",
           "name_cn": "",
-          "relation": "其他",
+          "relation": "角色歌",
           "type": 3,
-          "id": 215485
+          "id": 204414
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/c0/188729_p9Cxc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/c0/188729_p9Cxc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/c0/188729_p9Cxc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/c0/188729_p9Cxc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/c0/188729_p9Cxc.jpg"
+          },
+          "name": "夢で夜空を照らしたい / 未熟DREAMER",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 188729
         },
         {
           "images": {
@@ -2583,31 +2611,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/c0/188729_p9Cxc.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/c0/188729_p9Cxc.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/65/c0/188729_p9Cxc.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/c0/188729_p9Cxc.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/c0/188729_p9Cxc.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/3a/348212_h4B0C.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/3a/348212_h4B0C.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/3a/348212_h4B0C.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/3a/348212_h4B0C.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/3a/348212_h4B0C.jpg"
           },
-          "name": "夢で夜空を照らしたい / 未熟DREAMER",
+          "name": "KU-RU-KU-RU Cruller!",
           "name_cn": "",
-          "relation": "插入歌",
+          "relation": "其他",
           "type": 3,
-          "id": 188729
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/97/211460_laaea.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/97/211460_laaea.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ea/97/211460_laaea.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/97/211460_laaea.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/97/211460_laaea.jpg"
-          },
-          "name": "Aqours オリジナルソングCD 7",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 211460
+          "id": 348212
         },
         {
           "images": {
@@ -2625,17 +2639,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/3a/348212_h4B0C.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/3a/348212_h4B0C.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/41/3a/348212_h4B0C.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/3a/348212_h4B0C.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/3a/348212_h4B0C.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/97/211460_laaea.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/97/211460_laaea.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/97/211460_laaea.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/97/211460_laaea.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/97/211460_laaea.jpg"
           },
-          "name": "KU-RU-KU-RU Cruller!",
+          "name": "Aqours オリジナルソングCD 7",
           "name_cn": "",
-          "relation": "其他",
+          "relation": "角色歌",
           "type": 3,
-          "id": 348212
+          "id": 211460
         },
         {
           "images": {
@@ -2681,20 +2695,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/e7/310479_iJUfM.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/e7/310479_iJUfM.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/41/e7/310479_iJUfM.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/e7/310479_iJUfM.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/e7/310479_iJUfM.jpg"
-          },
-          "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 310479
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/9c/347683_sHGIr.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/9c/347683_sHGIr.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/6f/9c/347683_sHGIr.jpg",
@@ -2709,17 +2709,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/6a/314495_biyUI.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/6a/314495_biyUI.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5e/6a/314495_biyUI.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/6a/314495_biyUI.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/6a/314495_biyUI.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/e7/310479_iJUfM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/e7/310479_iJUfM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/e7/310479_iJUfM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/e7/310479_iJUfM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/e7/310479_iJUfM.jpg"
           },
-          "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album",
+          "name": "LoveLive! Sunshine!! Takami Chika First Solo Concert Album",
           "name_cn": "",
           "relation": "角色歌",
           "type": 3,
-          "id": 314495
+          "id": 310479
         },
         {
           "images": {
@@ -2737,17 +2737,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/3e/338965_nFaO2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/3e/338965_nFaO2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fe/3e/338965_nFaO2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/3e/338965_nFaO2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/3e/338965_nFaO2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/6a/314495_biyUI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/6a/314495_biyUI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/6a/314495_biyUI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/6a/314495_biyUI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/6a/314495_biyUI.jpg"
           },
-          "name": "We'll get the next dream!!!",
+          "name": "LoveLive! Sunshine!! Sakurauchi Riko First Solo Concert Album",
           "name_cn": "",
-          "relation": "其他",
+          "relation": "角色歌",
           "type": 3,
-          "id": 338965
+          "id": 314495
         },
         {
           "images": {
@@ -2762,6 +2762,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 314496
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/3e/338965_nFaO2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/3e/338965_nFaO2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/3e/338965_nFaO2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/3e/338965_nFaO2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/3e/338965_nFaO2.jpg"
+          },
+          "name": "We'll get the next dream!!!",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 338965
         },
         {
           "images": {
@@ -3143,11 +3157,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/55/491027_Mhzvn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/55/491027_Mhzvn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/55/491027_Mhzvn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/55/491027_Mhzvn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/55/491027_Mhzvn.jpg"
           },
           "name": "LoveLive! Sunshine!! Sakurauchi Riko Fourth Solo Concert Album",
           "name_cn": "",
@@ -3157,11 +3171,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/79/491028_Sqtuy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/79/491028_Sqtuy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b9/79/491028_Sqtuy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/79/491028_Sqtuy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/79/491028_Sqtuy.jpg"
           },
           "name": "LoveLive! Sunshine!! Kurosawa Ruby Fourth Solo Concert Album",
           "name_cn": "",
@@ -3383,7 +3397,7 @@
         },
         {
           "key": "製作",
-          "value": "Team B-PRO（Aniplex、ABCアニメーション、MAGES.、博報堂DYミュージック&amp;ピクチャーズ、TOKYO MX、日本BS放送、ローソン、ムービック、シーワン、クリスマスホーリー、鐘通インベストメント）"
+          "value": "Team B-PRO（Aniplex、ABCアニメーション、MAGES.、博報堂DYミュージック&ピクチャーズ、TOKYO MX、日本BS放送、ローソン、ムービック、シーワン、クリスマスホーリー、鐘通インベストメント）"
         }
       ],
       "total_episodes": 13,
@@ -4161,7 +4175,6 @@
       "name_cn": "亚尔斯兰战记 风尘乱舞",
       "tags": [
         "2016",
-        "2016夏",
         "2016年",
         "2016年7月",
         "LIDENFILMS",
@@ -4178,13 +4191,14 @@
         "小说改",
         "战争",
         "战斗",
+        "战记",
         "日本动画",
         "漫改",
         "漫画改",
         "田中芳树",
         "田中芳樹",
+        "细谷佳正",
         "续作",
-        "花江夏树",
         "荒川弘",
         "轻小说改",
         "轻改",
@@ -4342,6 +4356,20 @@
           "relation": "衍生",
           "type": 2,
           "id": 221057
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/f7/516152_xx0sX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/f7/516152_xx0sX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/26/f7/516152_xx0sX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/f7/516152_xx0sX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/f7/516152_xx0sX.jpg"
+          },
+          "name": "アルスラーン戦記 風塵乱舞～ラジオ・ヤシャスィーン！",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 516152
         }
       ]
     }
@@ -4679,6 +4707,7 @@
         "orange",
         "乙女向",
         "奇幻",
+        "女性向",
         "少女",
         "山下誠一郎",
         "恋爱",
@@ -4690,7 +4719,6 @@
         "滨崎博嗣",
         "漫改",
         "漫画改",
-        "漫画改编",
         "穿越",
         "结城信辉",
         "花泽香菜",
@@ -4737,23 +4765,87 @@
         },
         {
           "key": "原作",
-          "value": "高野苺 (双葉社「月刊アクション」連載)"
+          "value": "高野苺（双葉社「月刊アクション」連載）"
+        },
+        {
+          "key": "企画",
+          "value": "加藤良太、古澤佳寛"
         },
         {
           "key": "导演",
           "value": "浜崎博嗣"
         },
         {
-          "key": "脚本",
-          "value": "柿原優子"
-        },
-        {
           "key": "人物设定",
           "value": "結城信輝"
         },
         {
+          "key": "系列构成",
+          "value": "柿原優子"
+        },
+        {
           "key": "主题歌演出",
-          "value": "高橋優 / コブクロ"
+          "value": "高橋優（OP）、コブクロ（ED）"
+        },
+        {
+          "key": "系列监督",
+          "value": "中山奈緒美"
+        },
+        {
+          "key": "总作画监督",
+          "value": "結城信輝（1話）、北尾勝、高須美野子"
+        },
+        {
+          "key": "道具设计",
+          "value": "鈴木政彦、合田真さ美"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "三上政高、礒部慧利（副）、小林健樹"
+        },
+        {
+          "key": "音乐制作",
+          "value": "東宝、東宝ミュージック（制作協力）"
+        },
+        {
+          "key": "制片人",
+          "value": "林郁美、吉澤隆"
+        },
+        {
+          "key": "动画制作",
+          "value": "TELECOM ANIMATION FILM CO.,LTD."
+        },
+        {
+          "key": "制作",
+          "value": "株式会社トムス・エンタテインメント"
+        },
+        {
+          "key": "製作",
+          "value": "orange製作委員会【トムス・エンタテインメント、DMM.com（坂本奈緒）、東宝（藤田雅規）、AT-X（清水美佳、飯塚彩）、双葉社（箕浦克史、山内梨郁、山内邦也、杉山敦夫）、ABCアニメーション（植月幹夫）、ローソン（渡辺章仁、春田英彦、吉村安博、伊藤武士）、大日本印刷（大沢勝、山崎幹夫、亀井健）、テレビ愛知（伊藤淳、清水香名）、スターダストプロモーション、ダックスプロダクション、ラジオ大阪】竹崎忠、大田圭二、山田昇、庄盛克也、西出将之、坂本健、桜井康彦、村川淳、龍野文範、新宿五郎、兼田健一郎 製作协力：羚邦"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "高橋優（OP）、小渕健太郎（ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "高橋優（OP）、小渕健太郎（ED）、黒田俊介（ED）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "池窪浩一（OP）、高橋優（OP）、コブクロ（ED）"
+        },
+        {
+          "key": "分镜",
+          "value": "浜崎博嗣、中山奈緒美、大原実、佐野隆史、木村延景、おざわかずひろ、菊池聡延、京極尚彦、川口敬一郎、松尾衡"
+        },
+        {
+          "key": "演出",
+          "value": "おざわかずひろ、栗山貴行、山田卓、矢野孝典、木村延景、菊池聡延、河原龍太、京極尚彦、殿勝秀樹、テレコム演出部、富沢信雄、球野貴裕、小山田桂子、矢野雄一郎"
+        },
+        {
+          "key": "作画监督",
+          "value": "北尾勝、奥田佳子、赤池ゆうき、徳田夢之介、阿部弘樹、滝川和男、石井ゆみこ、柳瀬譲二、櫻井拓郎、中村真悟、羽野広範、高須美野子、白井裕美子、藤田まり子、朴旲烈、高田三郎、谷野美穂、田口麻美、菊池聡延、古賀誠、赤尾良太郎、石川慎亮、ふくだのりゆき、유승희、濱中朋子、Kim Jongbeom、Kim Myeongsim、代見裕美、岡野力也、粟井重紀、小川玖理周、服部一郎、山田勝、佐竹秀幸、結城信輝、合田真さ美"
         }
       ],
       "total_episodes": 13,
@@ -4888,6 +4980,7 @@
         "2016年7月",
         "NEWGAME",
         "TV",
+        "new",
         "动画工房",
         "動画工房",
         "喜多村英梨",
@@ -4899,7 +4992,6 @@
         "日笠阳子",
         "日笠陽子",
         "治愈",
-        "游戏制作",
         "漫改",
         "漫画改",
         "百合",
@@ -5959,16 +6051,18 @@
         "2016",
         "2016年",
         "2016年7月",
-        "2016年七月番",
         "2016年夏",
         "J.C.STAFF",
+        "SHAFT",
         "TV",
         "マンガ原作",
+        "关岛真赖",
         "古川慎",
-        "喜多村英梨",
         "大武正光",
         "奇幻",
+        "安済知佳",
         "小松未可子",
+        "崩坏",
         "异能",
         "战斗",
         "搞笑",
@@ -5977,13 +6071,11 @@
         "渡部高志",
         "漫改",
         "漫画改",
-        "漫画改编",
         "烂尾",
         "热血",
         "禁忌咒纹",
         "科幻",
         "超能力",
-        "関島眞頼",
         "鬼頭明里"
       ],
       "infobox": [
@@ -6296,7 +6388,7 @@
         },
         {
           "key": "製作",
-          "value": "SERVAMP PROJECT (フロンティアワークス / KADOKAWA / 博報堂DYミュージック&amp;ピクチャーズ / ランティス / YTE（読売テレビエンタープライズ） / アニメシアターX（AT-X） / ソニー・ミュージックソリューションズ / アドアーズ / HEROZ)"
+          "value": "SERVAMP PROJECT (フロンティアワークス / KADOKAWA / 博報堂DYミュージック&ピクチャーズ / ランティス / YTE（読売テレビエンタープライズ） / アニメシアターX（AT-X） / ソニー・ミュージックソリューションズ / アドアーズ / HEROZ)"
         },
         {
           "key": "OP・ED 分镜",
@@ -6507,6 +6599,7 @@
       "name_cn": "魔装学园H×H",
       "tags": [
         "2016",
+        "2016夏",
         "2016年",
         "2016年7月",
         "IMS",
@@ -6520,7 +6613,6 @@
         "奇幻",
         "小说改",
         "巨乳",
-        "恋爱",
         "战斗",
         "日本动画",
         "机战",
@@ -6663,7 +6755,7 @@
         },
         {
           "key": "音乐",
-          "value": "ハニホヘニ男、Jerkyboy&amp;Timteng"
+          "value": "ハニホヘニ男、Jerkyboy&Timteng"
         },
         {
           "key": "音乐制作人",
@@ -7276,8 +7368,8 @@
         "中村悠一",
         "亲情",
         "养女儿",
+        "原田大基",
         "天真与闪电",
-        "季番",
         "岩崎太郎",
         "戸松遥",
         "日常",
@@ -7312,10 +7404,10 @@
               "v": "Amaama to Inazuma"
             },
             {
-              "v": "Sweetness &amp; Lightning"
+              "v": "Sweetness & Lightning"
             },
             {
-              "v": "달콤달콤 &amp; 짜릿짜릿"
+              "v": "달콤달콤 & 짜릿짜릿"
             },
             {
               "v": "Sweetness and Lightning"
@@ -7485,9 +7577,7 @@
       "name_cn": "男子啦啦队!!",
       "tags": [
         "16-19",
-        "1クール",
         "2016",
-        "201607",
         "2016夏",
         "2016年",
         "2016年7月",
@@ -7495,9 +7585,11 @@
         "2B社",
         "BrainsBase",
         "Brain’sBase",
-        "TAKAROT",
         "TV",
+        "三话弃",
         "中推",
+        "动画",
+        "吉村爱",
         "吉田玲子",
         "啦啦队",
         "啦啦队男子",
@@ -7816,9 +7908,9 @@
         "2016年7月",
         "BL",
         "EMT2",
+        "EMTSquared",
         "EMTスクエアード",
         "TV",
-        "基",
         "増田俊樹",
         "所俊克",
         "搞笑",
@@ -7995,7 +8087,6 @@
         "卖歌番",
         "原创",
         "増田俊樹",
-        "女性向",
         "小丑社",
         "小野咸障",
         "小野賢章",
@@ -8003,15 +8094,16 @@
         "月歌",
         "木村良平",
         "柿原徹也",
-        "梶裕貴",
         "梶裕贵",
         "細谷佳正",
         "细谷佳正",
+        "羽多野渉",
         "蒼井翔太",
         "近藤隆",
         "音乐",
         "音乐改",
-        "音聲改"
+        "音聲改",
+        "鳥海浩輔"
       ],
       "infobox": [
         {
@@ -8690,35 +8782,35 @@
       "name_cn": "",
       "tags": [
         "2016",
+        "201607",
+        "2016夏",
         "2016年",
         "2016年7月",
+        "2016年七月番",
         "CreatersInPack",
         "CreatorsinPack",
         "OZMAFIA!!",
         "TV",
+        "apr7",
+        "【ANIME】TV丨日本",
         "ひらさわひさよし",
+        "みつたかずき",
         "ゆーます",
+        "一周目结束",
         "乙女向",
         "兴津和幸",
         "动画",
         "基",
+        "小推",
+        "平泽久义",
         "新垣樽助",
         "日本动画",
-        "暧昧",
-        "桐本拓哉",
-        "梯篤司",
-        "梶裕贵",
-        "榎木淳弥",
-        "正太",
         "泡面",
         "泡面番",
         "游戏改",
         "游戏改编",
-        "耽美",
         "興津和幸",
-        "遊戲改",
-        "高橋信",
-        "高橋英則"
+        "遊戲改"
       ],
       "infobox": [
         {
@@ -8842,7 +8934,6 @@
         "2016",
         "2016年",
         "2016年7月",
-        "7月",
         "GAL改",
         "OVA",
         "TV",
@@ -8868,7 +8959,8 @@
         "津田尚克",
         "游戏改",
         "科幻",
-        "致郁"
+        "致郁",
+        "麻枝准"
       ],
       "infobox": [
         {
@@ -9112,12 +9204,10 @@
         "Satelight",
         "ScaredRiderXechS",
         "TV",
-        "pako",
         "【ANIME】TV丨日本",
         "下野紘",
         "乙女",
         "乙女向",
-        "乙女游戏改",
         "企业",
         "奇幻",
         "宫野真守",
@@ -9128,11 +9218,13 @@
         "游佐浩二",
         "游戏改",
         "游戏改编",
+        "游改",
         "熊谷纯",
+        "神棍社",
         "红伤骑士X",
+        "羽田浩二",
         "近藤隆",
-        "铃木达央",
-        "阿保刚"
+        "铃木达央"
       ],
       "infobox": [
         {
@@ -9369,33 +9461,33 @@
       "name_cn": "魔法少女？Naria☆Girls",
       "tags": [
         "2016",
+        "201607",
         "2016年",
         "2016年7月",
+        "2016年七月番",
         "3D",
         "Bouncy",
         "TV",
+        "apr7",
         "バウンスィ",
+        "二〇一六年",
+        "井上純一",
+        "优先级E",
         "原创",
-        "小松未可子",
+        "古賀葵",
+        "古贺葵",
+        "大喜利",
         "山口正武",
         "山本太蔵",
-        "山本希望",
         "平间邦修",
         "搞笑",
-        "日本",
         "日本动画",
-        "未",
-        "桑原由気",
         "泡面",
         "泡面番",
         "深川芹亜",
-        "玩梗",
-        "百合",
         "百合？",
-        "短片",
         "石ダテコー太郎",
         "石馆光太郎",
-        "高桥聪之",
         "魔法少女",
         "魔法少女？Naria☆Girls"
       ],
@@ -9533,21 +9625,21 @@
         "2016年",
         "2016年7月",
         "2016年七月番",
-        "2017",
+        "7月",
         "Actas",
         "Qp:flapper",
         "Regalia_三圣星",
-        "Regalia三圣星",
         "TV",
         "アクタス",
         "佐仓绫音",
         "佐倉綾音",
         "原创",
-        "季番",
+        "奇幻",
         "小仓唯",
         "小柳启伍",
         "小柳啓伍",
         "战斗",
+        "日本",
         "本渡枫",
         "本渡楓",
         "机战",
@@ -9621,7 +9713,7 @@
         },
         {
           "key": "音乐",
-          "value": "高橋諒（Maurits&quot;禅&quot;Cornelis）"
+          "value": "高橋諒（Maurits\"禅\"Cornelis）"
         }
       ],
       "total_episodes": 17,
@@ -9702,8 +9794,6 @@
         "TV",
         "TVA",
         "TV續作",
-        "yamazo",
-        "动画",
         "原创",
         "原由美子",
         "基",
@@ -9716,10 +9806,12 @@
         "横手美智子",
         "沙雕",
         "石田彰",
+        "磕cp",
         "神谷浩史",
         "福山润",
         "续作",
         "续期",
+        "美男高校地球防卫部LOVE！",
         "美男高校地球防衛部LOVE！",
         "耽美",
         "腐",
@@ -10108,7 +10200,7 @@
         },
         {
           "key": "主题歌演出",
-          "value": "坂本真綾 / てこぴかり（茅野愛衣&amp;鈴木絵理）"
+          "value": "坂本真綾 / てこぴかり（茅野愛衣&鈴木絵理）"
         },
         {
           "key": "插入歌演出",
@@ -10558,7 +10650,6 @@
       "name": "はんだくん",
       "name_cn": "半田君",
       "tags": [
-        "16夏",
         "2016",
         "2016年",
         "2016年7月",
@@ -10566,6 +10657,7 @@
         "Diomedéa",
         "TV",
         "TVA",
+        "TV动画",
         "元气囝仔",
         "半田君",
         "半田君传说",
@@ -11025,6 +11117,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 254793
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/68/508399_9zZzx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/68/508399_9zZzx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9a/68/508399_9zZzx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/68/508399_9zZzx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/68/508399_9zZzx.jpg"
+          },
+          "name": "東離劍遊紀 上之巻 掠風竊塵",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 508399
         }
       ]
     }
@@ -11159,7 +11265,7 @@
         },
         {
           "key": "录音室",
-          "value": "スタジオT&amp;T"
+          "value": "スタジオT&T"
         },
         {
           "key": "音响制作担当",
@@ -11291,7 +11397,7 @@
       },
       "summary": "故事发生在在人类与敌人“Unknown”持续战争的世界。数十年前“Unknown”侵略时被送往冷冻睡眠设施避难的孩子们，从沉睡中醒来之时，得知自己的身体中被发现了超自然的力量——世界。为了从出现在东京湾的“Unknown”手中保护国家，少年少女们在东京、神奈川、千叶的各防卫都市展开战斗。东京由相乐总、神奈川由橘公司、千叶由渡航担当，创造出“QUALIDEA”的世界。",
       "name": "クオリディア・コード",
-      "name_cn": "代号Qualidea",
+      "name_cn": "心灵代码",
       "tags": [
         "2016",
         "2016年",
@@ -11327,19 +11433,19 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "代号Qualidea"
+          "value": "心灵代码"
         },
         {
           "key": "别名",
           "value": [
             {
+              "v": "QUALIDEA CODE"
+            },
+            {
               "v": "库尔利迪亚代码"
             },
             {
-              "v": "心灵代码"
-            },
-            {
-              "v": "QUALIDEA CODE"
+              "v": "代号Qualidea"
             }
           ]
         },
@@ -11595,24 +11701,24 @@
         "91Days",
         "TV",
         "TVA",
-        "TV动画",
         "中村悠一",
         "剧情",
         "原创",
         "原創動畫",
         "复仇",
+        "小野大輔",
         "小野大辅",
         "岸友洋",
         "岸本卓",
         "悬疑",
         "战斗",
-        "日本",
         "日本动画",
         "智斗",
         "朱夏",
         "樱井孝宏",
         "江口拓也",
         "津田健次郎",
+        "热血",
         "犯罪",
         "近藤隆",
         "鏑木ひろ",
@@ -12103,6 +12209,20 @@
           "relation": "不同演绎",
           "type": 6,
           "id": 499022
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/0f/515502_riMy5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/0f/515502_riMy5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/0f/515502_riMy5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/0f/515502_riMy5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/0f/515502_riMy5.jpg"
+          },
+          "name": "一人之下：罗天大醮篇",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 515502
         }
       ]
     }
@@ -12403,6 +12523,20 @@
           "relation": "不同演绎",
           "type": 6,
           "id": 499022
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/0f/515502_riMy5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/0f/515502_riMy5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/0f/515502_riMy5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/0f/515502_riMy5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/0f/515502_riMy5.jpg"
+          },
+          "name": "一人之下：罗天大醮篇",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 515502
         }
       ]
     }
@@ -12849,7 +12983,6 @@
         "ProductionIMS",
         "TV",
         "TVA",
-        "orange",
         "プロダクションアイムズ",
         "中川幸太郎",
         "原创",
@@ -12862,6 +12995,7 @@
         "机甲",
         "樱井孝宏",
         "櫻井孝宏",
+        "特摄",
         "秋田谷典昭",
         "科幻",
         "续期",
@@ -13184,7 +13318,6 @@
         "搞笑",
         "日常",
         "日本",
-        "日本动画",
         "校园",
         "樱井孝宏",
         "治愈",
@@ -13193,6 +13326,7 @@
         "瀬古浩司",
         "灵能百分百",
         "热血",
+        "燃",
         "立川譲",
         "立川让",
         "细谷佳正",
@@ -13274,7 +13408,7 @@
         },
         {
           "key": "製作",
-          "value": "「モブサイコ100」製作委員会(ワーナー ブラザース ジャパン、BONES、クロックワークス、博報堂DYミュージック&amp;ピクチャーズ、BSフジ)"
+          "value": "「モブサイコ100」製作委員会(ワーナー ブラザース ジャパン、BONES、クロックワークス、博報堂DYミュージック&ピクチャーズ、BSフジ)"
         },
         {
           "key": "人物设定",
@@ -13443,6 +13577,7 @@
         "悬疑",
         "推理",
         "斋藤千和",
+        "日本",
         "日本动画",
         "日笠阳子",
         "日笠陽子",
@@ -13451,7 +13586,6 @@
         "游戏改",
         "游戏改编",
         "猎奇",
-        "福冈大生",
         "福岡大生",
         "绝望",
         "绪方惠美",
@@ -14156,7 +14290,6 @@
         "中原麻衣",
         "动画",
         "原创",
-        "季番",
         "小高和刚",
         "小高和剛",
         "岸誠二",
@@ -14170,6 +14303,7 @@
         "海法紀光",
         "游戏改",
         "游戏改编",
+        "福冈大生",
         "福山润",
         "福岡大生",
         "细谷佳正",
@@ -14547,7 +14681,6 @@
         "2016",
         "2016年",
         "2016年7月",
-        "2016年七月番",
         "ONEPIECE",
         "OVA",
         "SP",
@@ -14557,8 +14690,8 @@
         "东映动画",
         "冒险",
         "剧场版",
-        "动画（TV）",
         "原创",
+        "喜剧",
         "單集長篇",
         "外传",
         "奇幻",
@@ -14572,6 +14705,7 @@
         "热血",
         "特别篇",
         "番外",
+        "番外性质",
         "長峯達也",
         "黒岩勉"
       ],
@@ -15012,16 +15146,16 @@
         "2016年",
         "2016年4月",
         "2016年7月",
-        "DRRR!!",
+        "BrainsBase",
         "OVA",
         "OVA&OAD",
         "TV",
         "デュラララ!!",
+        "动画",
         "大森貴弘",
         "大森贵弘",
         "奇幻",
         "小说改",
-        "小野大輔",
         "悬疑",
         "成田良悟",
         "战斗",
@@ -15033,11 +15167,11 @@
         "朱夏",
         "池袋",
         "神谷浩史",
+        "福山润",
         "群像",
         "轻小说改",
         "轻改",
-        "高木登",
-        "黑帮"
+        "高木登"
       ],
       "infobox": [
         {
@@ -15217,10 +15351,10 @@
         "总集篇",
         "战斗",
         "日本",
-        "日本动画",
         "机战",
         "校园",
         "梶裕貴",
+        "死肥宅",
         "游戏",
         "热血",
         "石田彰",
@@ -15624,6 +15758,7 @@
         "OLM",
         "XY",
         "pokemon",
+        "佐藤和巳",
         "冒险",
         "冨岡淳広",
         "剧场版",
@@ -15633,7 +15768,6 @@
         "奇幻",
         "宝可梦",
         "宠物小精灵",
-        "宫崎慎二",
         "富冈淳广",
         "战斗",
         "日本",
@@ -15651,7 +15785,7 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "剧场版 精灵宝可梦XY&amp;Z 波尔凯尼恩与机巧的玛机雅娜"
+          "value": "剧场版 精灵宝可梦XY&Z 波尔凯尼恩与机巧的玛机雅娜"
         },
         {
           "key": "别名",
@@ -15662,7 +15796,7 @@
             },
             {
               "k": "香港",
-              "v": "寵物小精靈XY&amp;Z 波爾凱尼恩與機關人偶瑪機雅娜"
+              "v": "寵物小精靈XY&Z 波爾凱尼恩與機關人偶瑪機雅娜"
             },
             {
               "k": "英文",
@@ -16281,7 +16415,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/7b/ee/161704_lX140.jpg"
           },
           "name": "クオリディア・コード",
-          "name_cn": "代号Qualidea",
+          "name_cn": "心灵代码",
           "relation": "动画",
           "type": 2,
           "id": 161704
@@ -16355,190 +16489,6 @@
           "relation": "单行本",
           "type": 1,
           "id": 208758
-        }
-      ]
-    }
-  },
-  {
-    "title": "精灵梦叶罗丽 第4季",
-    "date": "2016-07-28",
-    "bangumi": {
-      "date": "2016-07-28",
-      "platform": "WEB",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/e9/240633_921AG.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/e9/240633_921AG.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/e4/e9/240633_921AG.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/e9/240633_921AG.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/e9/240633_921AG.jpg"
-      },
-      "summary": "舒言的秘密被齐娜得知，齐娜伤心不已。这时舒言离家出走，被文茜找到，并把他带入仙境。她恳求女王救舒言，女王却把舒言变成了石像。辛灵得知了舒言的处境，将三位叶罗丽战士送入仙境。同时，学校里封银沙与齐娜、高泰明与文茜也兵分两路进入了仙境。在冰公主的帮助下，舒言最终得救。文茜为救舒言背叛女王，铁希的真实身份也被揭开，但他却再次被女王变成铁皮人。齐娜和封银沙遇到荒石，齐娜的一系列举动感动了荒石，他复活了菲灵，并来到人类世界，但封银沙和黑香菱仍无法摆脱女王。白光莹得知高泰明患心脏病，女王却抓住这个弱点企图破坏高泰明与叶罗丽战士的关系。由于女王从中作梗，荒石与爱撒谎的童星莫纱缔结契约，莫纱拜托荒石帮助自己摆脱谎言。另一边，舒言发现自己的身体停止了生长，他不想再连累大家，于是依然保守了这个秘密。另一方面，文茜因对铁希过于思念，再度被女王利用。女王得知仙境的入口以及舒言的处境，并给叶罗丽战士们设下圈套......",
-      "name": "精灵梦叶罗丽 第4季",
-      "name_cn": "精灵梦叶罗丽 第四季",
-      "tags": [
-        "2016",
-        "2016年7月",
-        "TV",
-        "中国",
-        "原创",
-        "国产",
-        "小学生",
-        "童年"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "精灵梦叶罗丽 第四季"
-        },
-        {
-          "key": "话数",
-          "value": "26"
-        },
-        {
-          "key": "放送开始",
-          "value": "2016年7月28日"
-        },
-        {
-          "key": "出品人",
-          "value": "翟志海"
-        },
-        {
-          "key": "导演",
-          "value": "金今"
-        },
-        {
-          "key": "编剧",
-          "value": "金今"
-        },
-        {
-          "key": "副导演",
-          "value": "姜鑫"
-        },
-        {
-          "key": "制片人",
-          "value": "罗嘉"
-        },
-        {
-          "key": "监制",
-          "value": "梁伯龙、付林、高福安、熊晓鸽、李建光、张明、李锦云、李金池、张志彤、申莉莉、陈刚、申萍、史磊、张小媚、徐进财、翟雅楠、汪洋、马洁、李露、石磊、邸占杰、李杉、毛兆宏、吴建宏、"
-        },
-        {
-          "key": "发行总监",
-          "value": "吴兵兵"
-        },
-        {
-          "key": "艺术总监",
-          "value": "王红玫"
-        },
-        {
-          "key": "统筹",
-          "value": "温德强、徐颖、吴文东"
-        },
-        {
-          "key": "动画指导",
-          "value": "于跃、姜鑫、郑思琦、翟雅楠"
-        },
-        {
-          "key": "原画",
-          "value": "金今、侯甲天、刘辉、刘洋、苏彬、张越"
-        },
-        {
-          "key": "分镜",
-          "value": "姜鑫、王莹、张晓明、刘文立"
-        },
-        {
-          "key": "模型",
-          "value": "韩百超、李超、韩盖、焦丹丹、王阳"
-        },
-        {
-          "key": "绑定",
-          "value": "郭立人、李江珊"
-        },
-        {
-          "key": "动画组",
-          "value": "于跃、孙国富、乔妍、温德强、芦柏刚、王春亮、初长凤、于淼、昌东旭、张霞、宋亚孟、刘燕、张伟祥、曹希坤、岳子昌"
-        },
-        {
-          "key": "动捕",
-          "value": "于跃、王春亮、杜文娟"
-        },
-        {
-          "key": "灯光",
-          "value": "于跃、杜文娟、丁伟、李鑫、文静宜、吴志浩"
-        },
-        {
-          "key": "后期",
-          "value": "张强、宋世乾、梁赛、黄达"
-        },
-        {
-          "key": "特效",
-          "value": "孔令安、张丹阳"
-        },
-        {
-          "key": "剪辑",
-          "value": "金今、马静、乔妍"
-        },
-        {
-          "key": "平面设计",
-          "value": "刘玥、孙锐"
-        },
-        {
-          "key": "背景音乐",
-          "value": "刘志国"
-        },
-        {
-          "key": "主题歌演出",
-          "value": "翟雅楠、张靓颖"
-        },
-        {
-          "key": "主题歌作曲",
-          "value": "陈瑞、崔迪"
-        },
-        {
-          "key": "主题歌作词",
-          "value": "陈瑞、沈松"
-        },
-        {
-          "key": "动画制作",
-          "value": "精英集团"
-        }
-      ],
-      "total_episodes": 26,
-      "id": 240633,
-      "eps": 26,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/fa/240629_379SC.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/fa/240629_379SC.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6f/fa/240629_379SC.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/fa/240629_379SC.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/fa/240629_379SC.jpg"
-          },
-          "name": "精灵梦叶罗丽 第3季",
-          "name_cn": "精灵梦叶罗丽 第三季",
-          "relation": "前传",
-          "type": 2,
-          "id": 240629
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/15/240640_V4vvY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/15/240640_V4vvY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5c/15/240640_V4vvY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5c/15/240640_V4vvY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/15/240640_V4vvY.jpg"
-          },
-          "name": "精灵梦叶罗丽 第5季",
-          "name_cn": "精灵梦叶罗丽 第五季",
-          "relation": "续集",
-          "type": 2,
-          "id": 240640
         }
       ]
     }
