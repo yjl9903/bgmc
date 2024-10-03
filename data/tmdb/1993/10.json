@@ -18,7 +18,12 @@
         "media_type": "tv",
         "adult": false,
         "original_language": "ja",
-        "genre_ids": [],
+        "genre_ids": [
+          16,
+          10759,
+          10765,
+          10762
+        ],
         "first_air_date": "1993-10-01",
         "origin_country": [
           "JP"
@@ -68,7 +73,7 @@
       "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/kW7uCV3TuY18EhNAaP6jhvpNBMf.jpg",
         "genre_ids": [
           16
         ],

@@ -409,8 +409,7 @@
         "genre_ids": [
           10759,
           16,
-          35,
-          37
+          35
         ],
         "id": 76757,
         "origin_country": [
@@ -618,7 +617,8 @@
         "genre_ids": [
           16,
           10759,
-          35
+          35,
+          10765
         ],
         "id": 67075,
         "origin_country": [
@@ -813,6 +813,38 @@
     }
   },
   {
+    "title": "おばけずかん！",
+    "date": "2022-10-05",
+    "bangumi": {
+      "id": "395810"
+    },
+    "tmdb": {
+      "id": 101353,
+      "type": "tv",
+      "season": 2,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/ftohSkqGKpz57amwdeexBMs79YW.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10762,
+          10751
+        ],
+        "id": 101353,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "おばけずかん",
+        "overview": "本作动画改编自由日本人气儿童文学作家齐藤洋撰写的《小妖怪（おばけずかん）》系列童书。原作可称作「日本妖怪图鉴指南」，将流传在日本各地的小妖怪可爱化并将以分类，提出面对各种小妖怪的秘诀，结局总能聪明又勇敢的化解危机。\n\n　　「这是一套你不会害怕的妖怪鬼故事！它不会把你吓得哇哇大哭，反而会告诉你该做什么或不该作什么，可说是一系列「打击魔鬼」的故事喔！」\n\n　　读了会有一点害怕，但是却觉得很刺激！每多认识一个妖怪，就多一点转化恐惧的能力！直到有一天，想象变得更不受局限、勇气变得更加无敌！而且更懂得保护自己，不在晚上一个人出门、不去危险的地方！",
+        "poster_path": "/9qYdEdxBWKsy3ZIxyQAtOt0Vdry.jpg",
+        "first_air_date": "2020-07-01",
+        "name": "小妖怪"
+      }
+    }
+  },
+  {
     "title": "アキバ冥途戦争",
     "date": "2022-10-06",
     "bangumi": {
@@ -975,7 +1007,9 @@
         "adult": false,
         "backdrop_path": "/orYwB5GZ6eq86DT5x3hTNacjJHG.jpg",
         "genre_ids": [
-          16
+          16,
+          35,
+          10762
         ],
         "id": 210701,
         "origin_country": [
@@ -983,7 +1017,7 @@
         ],
         "original_language": "ja",
         "original_name": "令和のデ・ジ・キャラット",
-        "overview": "",
+        "overview": "Reiwa no Di Gi Charat is the 2022 reboot of the 1999 tv series.",
         "poster_path": "/44K4zZKLJX5x93rGi4xcTsNuCjp.jpg",
         "first_air_date": "2022-10-07",
         "name": "令和的超级偶像铃铛猫娘"
@@ -1109,6 +1143,37 @@
     }
   },
   {
+    "title": "完美世界 第三季",
+    "date": "2022-10-07",
+    "bangumi": {
+      "id": "403251"
+    },
+    "tmdb": {
+      "id": 124003,
+      "type": "tv",
+      "season": 1,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/qgTHKXeje3iInDXFaIBsIHpJQzu.jpg",
+        "genre_ids": [
+          10759,
+          10765,
+          16
+        ],
+        "id": 124003,
+        "origin_country": [
+          "CN"
+        ],
+        "original_language": "zh",
+        "original_name": "完美世界",
+        "overview": "本作动画改编自起点白金作者辰东遮天三部曲的第二部——完美世界。他为修道而生，为应劫而至，他身化亿万血雨，洒落万古岁月，经历无数时空的熬炼，岁月长河的洗礼，他化万古，他化自在。看男主石昊如何一生极致辉煌，造就无尽传说。",
+        "poster_path": "/xXa1CrLtlGha1Do6iIA7P5RaWLd.jpg",
+        "first_air_date": "2021-04-23",
+        "name": "完美世界"
+      }
+    }
+  },
+  {
     "title": "弱虫ペダル LIMIT BREAK",
     "date": "2022-10-08",
     "bangumi": {
@@ -1213,7 +1278,8 @@
         "genre_ids": [
           16,
           35,
-          10765
+          10765,
+          10759
         ],
         "id": 91801,
         "origin_country": [
@@ -1547,7 +1613,7 @@
         "overview": "一群感情融洽的小学生好友──白咲花、星野日向、姬坂乃爱、种村小依、小之森夏音，某天聚集在星野家开夏日点心派对，开心地享用着女大学生宫子姐做的手工甜点。此时大家发现花朵形状的饼干很像花配戴的发饰，据说那是乡下奶奶在她小时候送给她的礼物，花也分享了手机中许多珍贵的照片给大家看。众人对往事听得津津有味，于是决定要去拜访花的奶奶，顺便当作是「提前练习修学旅行」。女孩们一起出游的「初体验」，又将会有什么事在乡下奶奶家等着她们呢？",
         "poster_path": "/GyuOLu1bYbokuSsp75GgVsUurY.jpg",
         "release_date": "2022-10-14",
-        "title": "天使降临到我身边：珍贵的朋友",
+        "title": "天使降临到我身边！珍贵的朋友",
         "video": false
       }
     }

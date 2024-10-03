@@ -128,28 +128,25 @@
       "id": "303551"
     },
     "tmdb": {
-      "id": 87247,
+      "id": 273045,
       "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": "/zNW4Bt5JxnIfOSORQNDN0oTXeqR.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-          16,
-          10762,
-          10765,
-          10759
+          10762
         ],
-        "id": 87247,
+        "id": 273045,
         "origin_country": [
           "CA",
-          "US"
+          "JP"
         ],
-        "original_language": "en",
-        "original_name": "Bakugan",
-        "overview": "内容讲述地球上第一批能召唤神秘外星生物——爆丸的孩子——古泽丹和他的好朋友的冒险故事，故事情节将围绕“友谊”， “战斗”和“决战”。",
-        "poster_path": "/go2IfyqSK7YJ403tvugctEQgjxQ.jpg",
-        "first_air_date": "2018-12-23",
-        "name": "爆丸战斗之星"
+        "original_language": "ja",
+        "original_name": "ばくがんアーマードアライアンス",
+        "overview": "弹所属的Awesome One与金色爆丸激战后，世界回复和平，达斯克工业社长班顿将举行名为“爆队”的爆丸对战世界大赛。当所有人热衷爆丸对战的时候，于宇宙恶名远播的哈维克外星人打算操控地球上的爆丸及人类，将地球破坏！",
+        "poster_path": "/cGIgt5uYij9hS0PUCcnZ9lHGkAe.jpg",
+        "first_air_date": "2020-04-03",
+        "name": "爆丸6:装甲联盟"
       }
     }
   },
@@ -234,6 +231,35 @@
         "poster_path": "/mx87ktbSflH7p5jehzTy3weFNrP.jpg",
         "release_date": "2020-02-21",
         "title": "数码宝贝：最后的进化",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "ガールズ&パンツァー 最終章 第2話",
+    "date": "2020-02-27",
+    "bangumi": {
+      "id": "208825"
+    },
+    "tmdb": {
+      "id": 496891,
+      "type": "movie",
+      "search": {
+        "backdrop_path": "/8QBb2I0rDy4kqjlslCDSU0qbMoS.jpg",
+        "id": 496891,
+        "title": "少女与战车 最终章 ～第2话～",
+        "original_title": "ガールズ＆パンツァー 最終章 第2話",
+        "overview": "从赌上校园存亡的对战中撃败大学生选拔队后，大洗女子学园战车道部的成员们终于迎来了平稳的冬日。但随着三年生的毕业、学生会改选、新执行部开始运转等事情，平和的大洗女子学园亦逐渐沸腾起来。而为了可顺利通过AO入试升读大学，小桃作为队长带领大洗战车道部参与冬季大会「无限轨道杯」，却没料到面对首战对手‧BC自由学园便已迎来苦战！难道美穗等人和小桃的未来到此为止了吗？胜利将降临哪一方？",
+        "poster_path": "/rRh1lGRkILX3VuLQH9472PROqYn.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          28,
+          35
+        ],
+        "release_date": "2019-06-15",
         "video": false
       }
     }

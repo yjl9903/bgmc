@@ -95,21 +95,27 @@
       "id": "415779"
     },
     "tmdb": {
-      "id": 1322193,
-      "type": "movie",
+      "id": 1429,
+      "type": "tv",
+      "season": 0,
       "search": {
-        "backdrop_path": null,
-        "id": 1322193,
-        "title": "进击的巨人 最终季 完结篇 后篇",
-        "original_title": "進撃の巨人 The Final Season 完結編 後編",
-        "overview": "",
-        "poster_path": "/sqFX1fG7ANXuj2ZoCwltAD0QWa8.jpg",
-        "media_type": "movie",
         "adult": false,
+        "backdrop_path": "/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg",
+        "genre_ids": [
+          16,
+          10765,
+          10759
+        ],
+        "id": 1429,
+        "origin_country": [
+          "JP"
+        ],
         "original_language": "ja",
-        "genre_ids": [],
-        "release_date": "2023-11-04",
-        "video": false
+        "original_name": "進撃の巨人",
+        "overview": "曾几何时，世界上突然出现无数身形庞大的巨人，普通人类的生命受到前所未有的威胁。为了保护自身安全，最后的人类筑起三座高墙：玛莉亚、露丝和希娜。人类迎来了长达一个世纪的和平岁月，却也让自己成为圈养在笼中的鸟儿，屈辱地失去自由。845 年，高达 60 米的超大型巨人和铠之巨人登场， 摧毁了最外层的玛莉亚之壁，也惊醒了人类似乎永远不会苏醒的长梦。在此事件中，不愿蜷缩在墙内的少年艾伦·耶格尔亲眼目睹母亲遇害，由此更坚定了他加入调查兵团的决心。在此之后，艾伦和青梅竹马三笠·阿克曼、好友阿尔敏·亚鲁雷特加入第 104 期训练兵团，发誓成为足以消灭所有巨人的英勇战士。百年的和平结束，人类和巨人的战争再度拉开序幕。",
+        "poster_path": "/by4f66EHK82OZNyEuYbOW5RxFBa.jpg",
+        "first_air_date": "2013-04-07",
+        "name": "进击的巨人"
       }
     }
   },
@@ -158,7 +164,11 @@
       "search": {
         "adult": false,
         "backdrop_path": "/bPiPqXokP7YfL7yY3akhomHx5JY.jpg",
-        "genre_ids": [],
+        "genre_ids": [
+          16,
+          10762,
+          18
+        ],
         "id": 225744,
         "origin_country": [
           "JP",
@@ -330,9 +340,9 @@
       "search": {
         "backdrop_path": null,
         "id": 1108583,
-        "title": "Pole Princess!! Movie",
+        "title": "剧场版 钢管舞公主!!",
         "original_title": "劇場版 ポールプリンセス!!",
-        "overview": "",
+        "overview": "该作讲述的是与钢管舞相遇后改变人生的少女们努力和成长的青春故事。",
         "poster_path": "/fKFKYB4oZF8q1BVlchqDYB7b90u.jpg",
         "media_type": "movie",
         "adult": false,
@@ -390,7 +400,7 @@
         "backdrop_path": "/rI9BmOpPIfyNhkSANLCLslIuzg2.jpg",
         "id": 1211621,
         "title": "中国惊奇先生",
-        "original_title": "中国惊奇先生",
+        "original_title": "中国惊奇先生·极道仙师",
         "overview": "《中国惊奇先生》讲述了“神鬼七杀令”当代传人王小二、新人警花李雪、狐妖族小狐狸组成的“驱魔铁三角”组合，为了伸张正义，维护人民群众的安全，侦破各种灵异案件的故事。《中国惊奇先生极道仙师》为本系列第一部网络大电影，故事讲述了王小二和李雪在探长浩林的邀请下，为了解决东都人民的心头大患，排除万难，历经险阻，最终抓住罪魁祸首极道仙师，并将其打败的故事。而王小二李雪等人做好事也不留名，继续为维护民众的安全而默默努力。",
         "poster_path": "/hjMvH8ucXRqhy358EoYtCXiyPyL.jpg",
         "media_type": "movie",

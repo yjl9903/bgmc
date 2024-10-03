@@ -8,11 +8,15 @@
     "tmdb": {
       "id": 19612,
       "type": "tv",
+      "season": 2,
       "search": {
         "adult": false,
-        "backdrop_path": "/xvDLewlc0oZMh4LKK1fHOgZDlSb.jpg",
+        "backdrop_path": "/hb96dbC0aRwVpboLTilg6cAqrIE.jpg",
         "genre_ids": [
-          16
+          16,
+          10759,
+          10762,
+          10765
         ],
         "id": 19612,
         "origin_country": [
@@ -149,7 +153,7 @@
       "id": 398613,
       "type": "movie",
       "search": {
-        "backdrop_path": null,
+        "backdrop_path": "/9cuGOPxKKxEs6NKW4k0gP2j3QwE.jpg",
         "id": 398613,
         "title": "太阳之船",
         "original_title": "Sol Bianca",
