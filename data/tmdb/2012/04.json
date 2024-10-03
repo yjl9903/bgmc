@@ -221,7 +221,8 @@
         "backdrop_path": "/oAFgCZg86TWLhheQx223H8G1ZyI.jpg",
         "genre_ids": [
           16,
-          10762
+          10762,
+          35
         ],
         "id": 109581,
         "origin_country": [
@@ -758,8 +759,7 @@
         "backdrop_path": "/zKnoPdFQZXuFvb6qzeAk5q6G6Ge.jpg",
         "genre_ids": [
           16,
-          35,
-          18
+          35
         ],
         "id": 62742,
         "origin_country": [
@@ -1290,27 +1290,27 @@
       "id": "29259"
     },
     "tmdb": {
-      "id": 249342,
+      "id": 889,
       "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": null,
+        "backdrop_path": "/nSsfjnb6DePlWuNiygxfkGUMWIL.jpg",
         "genre_ids": [
-          16,
-          10765,
           10759,
+          10765,
+          16,
           18
         ],
-        "id": 249342,
+        "id": 889,
         "origin_country": [
           "JP"
         ],
         "original_language": "ja",
-        "original_name": "エウレカセブンAO",
-        "overview": "In a technologically advanced future, a young boy accidentally activates the strange giant robot his mother piloted before she went missing. He becomes a pilot with only one mission - to find his mother.",
-        "poster_path": "/mPCq68Sm26gmSmuriLHg6lCsR5W.jpg",
-        "first_air_date": "2012-04-13",
-        "name": "Eureka Seven AO"
+        "original_name": "交響詩篇エウレカセブン",
+        "overview": "兰顿·萨斯顿（Renton Thurston）是一名看似普通的十四岁少年，他的父亲（阿德洛克·萨斯顿）是一名军队的研究人员，在第一次“爱之夏”之中牺牲自己拯救了地球而被世人称为英雄。然而兰顿对自己和作为机械工程师的祖父相依为命的生活现状却十分不满，流行的运动“滑空”（Lifting）成了他打发时间的唯一爱好。他最大的梦想是有一天能够加入传奇滑空天才霍兰德（Holland）的组织“月光洲”（Gekkostate），成为和他一样出色的滑空选手。可是他的祖父（阿克赛尔．萨斯顿）却希望他成为一名出色的机械工程师，继承家业。",
+        "poster_path": "/8UEQjulTcPpVJhHvNosbBi4Ufq4.jpg",
+        "first_air_date": "2005-04-17",
+        "name": "交响诗篇"
       }
     }
   },
@@ -1443,9 +1443,9 @@
         "adult": false,
         "backdrop_path": "/22PVqWMqX1ROKNryDvpxBHSwmvi.jpg",
         "genre_ids": [
+          16,
           9648,
-          28,
-          16
+          28
         ],
         "id": 122583,
         "original_language": "ja",
@@ -1453,7 +1453,7 @@
         "overview": "阳光明媚的一天，东都体育场正进行一场东京 Spirit 和大阪钢巴的精彩足球比赛，江户川柯南、灰原哀、阿笠博士以及少年侦探团的伙伴们齐齐到场呐喊助威。城市的另一边，事务所内的毛利小五郎却接到一通恐怖袭击的电话。经过一番努力，小兰终于摆脱新一解开了犯人留下的暗语，成功拯救了无数人的生命。在此之后，警方和毛利一方锁定了数名嫌疑人，并随之展开调查。与此同时，躲在暗处的犯人继续策划新一轮的袭击，前所未有的大挑战，争分夺秒的对决，裹挟着无数怨恨的袭击强势袭来。",
         "poster_path": "/fhuhP19G3LfYMKJaH20xjJ6WoBv.jpg",
         "release_date": "2012-04-14",
-        "title": "名侦探柯南：第十一名前锋",
+        "title": "名侦探柯南剧场版16：第十一名前锋",
         "video": false
       }
     }
@@ -1561,7 +1561,6 @@
         "backdrop_path": "/kmUuJ4BHkX1cQKnFBJ2vv22bmmS.jpg",
         "genre_ids": [
           16,
-          18,
           9648,
           35
         ],

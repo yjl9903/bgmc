@@ -520,10 +520,8 @@
         "adult": false,
         "backdrop_path": "/73uQJImy9J9w93zFEh8JtdQVOQR.jpg",
         "genre_ids": [
-          10759,
           16,
           10765,
-          18,
           35,
           9648
         ],
@@ -870,28 +868,24 @@
       "id": "246898"
     },
     "tmdb": {
-      "id": 45844,
+      "id": 262492,
       "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": "/A8tHJQef2u4rMKgG1GAZJmpcqfJ.jpg",
+        "backdrop_path": null,
         "genre_ids": [
-          10759,
-          16,
-          18,
-          10765,
-          10768
+          16
         ],
-        "id": 45844,
+        "id": 262492,
         "origin_country": [
           "JP"
         ],
         "original_language": "ja",
-        "original_name": "宇宙戦艦ヤマト２１９９",
-        "overview": "西元2199年，来自太阳系外的敌人加米拉斯帝国，为了挽救母星的危亡，开始侵略其他星球。地球军在与加米拉斯帝国军的交战中惨败，同时加米拉斯帝国军向地球发射大量含有放射能的游星炸弹。地球的抵抗力量越来越弱。本与加米拉斯为双子星球的伊斯坎达尔星球仗义相助，向地球发送了波动引擎和波动炮的设计图纸，并告知地球军本星球拥有清除放射能的设备“宇宙清洗器D”。在与欧洲、美洲失去联系的情况下，地球防卫军利用伊斯坎达尔星球提供的技术将沉睡于海底的大和号改造为宇宙战舰。大和号全体乘员踏上了取回“宇宙清洗器D”的漫漫征程。",
-        "poster_path": "/kP0qdJDIV2kHF2CTw8l5RrGyZYE.jpg",
-        "first_air_date": "2013-04-07",
-        "name": "宇宙战舰大和号2199"
+        "original_name": "宇宙戦艦ヤマト2202 愛の戦士たち",
+        "overview": "",
+        "poster_path": "/mPBErAAWQI8i1LyIXYOK73GbyXZ.jpg",
+        "first_air_date": "2018-10-06",
+        "name": "宇宙戦艦ヤマト2202 愛の戦士たち"
       }
     }
   },
@@ -1022,7 +1016,7 @@
       "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": "/8zZVIdwA7c3pEQoO765lCuRsACl.jpg",
+        "backdrop_path": "/1PpbZSw8RYJlppbXRbFr1xVJ4w.jpg",
         "genre_ids": [
           16,
           10765,
@@ -1188,35 +1182,6 @@
         "poster_path": "/gJ45n0fTWskpeU2DJpoYrtErZmW.jpg",
         "first_air_date": "2018-10-07",
         "name": "彼时彼女"
-      }
-    }
-  },
-  {
-    "title": "Re:ゼロから始める異世界生活 Memory Snow",
-    "date": "2018-10-06",
-    "bangumi": {
-      "id": "225462"
-    },
-    "tmdb": {
-      "id": 532321,
-      "type": "movie",
-      "search": {
-        "backdrop_path": "/t9ifVuOtSZBvtieF9L83pnHnOcC.jpg",
-        "id": 532321,
-        "title": "Re：从零开始的异世界生活 雪之回忆",
-        "original_title": "Re:ゼロから始める異世界生活 Memory Snow",
-        "overview": "　　昴等人打倒了诅咒的元凶——魔兽沃尔加姆，拯救了阿拉姆村的孩子们。终于到来的安稳并未持续很久，昴就瞒着所有人前去挑战某个极秘任务。但尽管昴做了变装，也很快就被以佩特拉为首的村里的孩子们识破了真实身份。开始后5秒就曝光的这一任务，是事前调查和爱蜜莉雅约会的路线……",
-        "poster_path": "/7EdFeDO1slVvXkYJzC7nw1HjErz.jpg",
-        "media_type": "movie",
-        "adult": false,
-        "original_language": "ja",
-        "genre_ids": [
-          16,
-          12,
-          14
-        ],
-        "release_date": "2018-10-06",
-        "video": false
       }
     }
   },
@@ -1472,8 +1437,7 @@
         "genre_ids": [
           10759,
           16,
-          35,
-          37
+          35
         ],
         "id": 76757,
         "origin_country": [
@@ -2047,6 +2011,34 @@
         "release_date": "2018-10-27",
         "title": "拥抱！光之美少女♡两人是光之美少女 All Stars Memories",
         "video": false
+      }
+    }
+  },
+  {
+    "title": "せいぜいがんばれ！魔法少女くるみ 2期",
+    "date": "2018-10-27",
+    "bangumi": {
+      "id": "256948"
+    },
+    "tmdb": {
+      "id": 110960,
+      "type": "tv",
+      "season": 2,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/1vTB6iUyUAbhT5cTBtHV62m7Pt4.jpg",
+        "genre_ids": [
+          10762,
+          35
+        ],
+        "id": 110960,
+        "origin_country": [],
+        "original_language": "ja",
+        "original_name": "せいぜいがんばれ！魔法少女くるみ",
+        "overview": "三个吐槽吃瓜役初中男生围观美少女魔法少女恐龙天使战士Prima Angel与邪恶势力们使用各种各样离奇且暴力的魔法战斗的日常故事。",
+        "poster_path": "/su8mA9vkbIjLYMIZAmM01HgWphX.jpg",
+        "first_air_date": "2017-07-30",
+        "name": "尽量加油吧！魔法少女胡桃"
       }
     }
   }

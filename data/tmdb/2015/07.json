@@ -936,7 +936,8 @@
         "adult": false,
         "backdrop_path": "/umD5nOvHDBxyrERQmBInUSQ9Cl3.jpg",
         "genre_ids": [
-          16
+          16,
+          10765
         ],
         "id": 255029,
         "origin_country": [
@@ -944,10 +945,10 @@
         ],
         "original_language": "ja",
         "original_name": "キュートランスフォーマー 帰ってきたコンボイの謎",
-        "overview": "A flash anime based on the 1986 Famicom (Nintendo Entertainment System) game.",
+        "overview": "Q-Transformers: Mystery of Convoy Returns (キュートランスフォーマー 帰ってきたコンボイの謎 Kyūtoransufōmā Kaettekita Konboi no Nazo) is a cartoon released in support of the Q-Transformers toyline and mobile game. Episodes were broadcast on Tokyo MX, and released by animation company DLE on their YouTube and Nicovideo accounts. When each new episode was released, the previous episodes were set to \"private\", so that the whole series was never available all at once until its DVD/Blu-ray release.\n\nThe first season spanned 13 episodes and ran from January 6 to March 23, 2015. A second season titled Q-Transformers: The Road to Additional Popularity (キュートランスフォーマーさらなる人気者への道 Kyūtoransufōmā Saranaru Ninkimono e no Michi) followed shortly afterwards, running from July 6 to September 28.",
         "poster_path": "/6BkKq5rIRVV8B11TXYVVjRh0gAY.jpg",
         "first_air_date": "2015-01-06",
-        "name": "Q Transformers: Kaettekita Convoy no Nazo"
+        "name": "Q-Transformers: Mystery of Convoy Returns"
       }
     }
   },
@@ -1403,7 +1404,7 @@
       "type": "tv",
       "search": {
         "adult": false,
-        "backdrop_path": "/74KA1ICjpReU3BE2G1JNdFimpOI.jpg",
+        "backdrop_path": "/82gIQnqdVgQmvLBcjeil4CNvCrJ.jpg",
         "genre_ids": [
           16,
           35
@@ -1493,8 +1494,7 @@
         "backdrop_path": "/ptiSlEK0UhqUGQxeOlS3rn5FBSn.jpg",
         "genre_ids": [
           16,
-          10765,
-          18
+          10765
         ],
         "id": 62773,
         "origin_country": [
@@ -1674,10 +1674,42 @@
         "original_language": "ja",
         "original_title": "ピカチュウとポケモンおんがくたい",
         "overview": "The first in the world! A performance created by the cries of Pokémon! The Pokémon will play a beautiful harmony. Will Pikachu and the others be able to pull off the performance?",
-        "poster_path": "/8rAxImubq5PRuN6h98Z7dfystkV.jpg",
+        "poster_path": "/wGSFugwci7wwyyJzUJU6eCENlTK.jpg",
         "release_date": "2015-07-18",
         "title": "精灵宝可梦：皮卡丘与精灵宝可梦乐队",
         "video": false
+      }
+    }
+  },
+  {
+    "title": "デュラララ!!×2 承 私の心は鍋模様",
+    "date": "2015-07-22",
+    "bangumi": {
+      "id": "126581"
+    },
+    "tmdb": {
+      "id": 42410,
+      "type": "tv",
+      "season": 2,
+      "search": {
+        "adult": false,
+        "backdrop_path": "/kH9iK6krt0VBwAv5xbsYyhn8AW5.jpg",
+        "genre_ids": [
+          10759,
+          16,
+          18,
+          9648
+        ],
+        "id": 42410,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "デュラララ!!",
+        "overview": "东京，池袋。\n\n向往都市生活的少年龙之峰帝人接受从小一起玩到大的好友纪田正臣邀约离开家乡来到东京进入池袋来良学园上学。\n\n而在池袋有几个绝对不能招惹的人物，尤其是被誉为“最强”的平和岛静雄和经营情报屋的折原临也这两个人。另外，池袋有一个正体不明的暴力组织，名叫“Dollars”。\n\n然而，就在上京的第一天，因为对池袋复杂的关系而感到不安的帝人就亲眼目睹了骑着黑色摩托在街头穿行的都市传说“无头骑士”——塞尔提·史特路尔森。\n\n于是，随着池袋接连发生了砍人魔事件，平和岛静雄、折原临也、Dollars、无头骑士、砍人魔、黄巾贼等陆续浮出水面，围绕着“谁是池袋最强”的话题，池袋正面临着崩坏中，一连串不正常但爽直的故事开始了。",
+        "poster_path": "/uhF64KTlRDu7pelWdXNvunrGUrr.jpg",
+        "first_air_date": "2010-01-08",
+        "name": "无头骑士异闻录"
       }
     }
   },
