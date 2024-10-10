@@ -5865,5 +5865,72 @@
       "type": 2,
       "relations": []
     }
+  },
+  {
+    "title": "Devil May Cry",
+    "date": "2002-04-01",
+    "bangumi": {
+      "date": "2002-04-01",
+      "platform": "小说",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/ee/70979_4RjH2.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/ee/70979_4RjH2.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/9d/ee/70979_4RjH2.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/ee/70979_4RjH2.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/ee/70979_4RjH2.jpg"
+      },
+      "summary": "PS2で大人気のゲームがついにノベライズ！\r\n\r\nクソ度胸と人並みはずれた腕力でトップクラスの便利屋として君臨する「トニー」。その彼がいかにして悪魔としての運命「ダンテ」を引きうけたのか？ゲームの冒頭部分へと引き継ぐプレストーリー、登場！",
+      "name": "Devil May Cry",
+      "name_cn": "",
+      "tags": [
+        "小说"
+      ],
+      "infobox": [
+        {
+          "key": "出版社",
+          "value": "角川書店"
+        },
+        {
+          "key": "发售日",
+          "value": "2002-04"
+        },
+        {
+          "key": "页数",
+          "value": "311ページ"
+        },
+        {
+          "key": "ISBN",
+          "value": "9784044431099"
+        },
+        {
+          "key": "ISBN-10",
+          "value": "4044431094"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 70979,
+      "eps": 0,
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 1,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/08/4307_3FOMR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/08/4307_3FOMR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/08/4307_3FOMR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/08/4307_3FOMR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/08/4307_3FOMR.jpg"
+          },
+          "name": "デビル メイ クライ",
+          "name_cn": "鬼泣",
+          "relation": "游戏",
+          "type": 4,
+          "id": 4307
+        }
+      ]
+    }
   }
 ]
