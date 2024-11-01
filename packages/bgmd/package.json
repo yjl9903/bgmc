@@ -72,7 +72,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "bangumi-data": ">=0.3.154",
+    "bangumi-data": ">=0.3.155",
     "bgmc": "workspace:*",
     "tmdbc": "workspace:*",
     "type-fest": "^4.26.1"
