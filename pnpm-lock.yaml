@@ -72,8 +72,8 @@ importers:
         specifier: workspace:*
         version: link:../tmdbc
       type-fest:
-        specifier: ^4.29.0
-        version: 4.29.0
+        specifier: ^4.29.1
+        version: 4.29.1
     devDependencies:
       '@types/fs-extra':
         specifier: ^11.0.4
@@ -3273,8 +3273,8 @@ packages:
     resolution: {integrity: sha512-RAH822pAdBgcNMAfWnCBU3CFZcfZ/i1eZjwFU/dsLKumyuuP3niueg2UAukXYF0E2AAoc82ZSSf9J0WQBinzHA==}
     engines: {node: '>=12.20'}
 
-  type-fest@4.29.0:
-    resolution: {integrity: sha512-RPYt6dKyemXJe7I6oNstcH24myUGSReicxcHTvCLgzm4e0n8y05dGvcGB15/SoPRBmhlMthWQ9pvKyL81ko8nQ==}
+  type-fest@4.29.1:
+    resolution: {integrity: sha512-Y1zUveI92UYM/vo1EFlQSsNf74+hfKH+7saZJslF0Fw92FRaiTAnHPIvo9d7SLxXt/gAYqA4RXyDTioMQCCp0A==}
     engines: {node: '>=16'}
 
   typed-array-buffer@1.0.0:
@@ -6601,7 +6601,7 @@ snapshots:
 
   type-fest@2.19.0: {}
 
-  type-fest@4.29.0: {}
+  type-fest@4.29.1: {}
 
   typed-array-buffer@1.0.0:
     dependencies:
