@@ -117,8 +117,8 @@ importers:
         specifier: workspace:*
         version: link:../tmdbc
       undici:
-        specifier: ^7.0.0
-        version: 7.0.0
+        specifier: ^7.1.0
+        version: 7.1.0
 
   packages/tmdbc:
     dependencies:
@@ -3457,8 +3457,8 @@ packages:
   undici-types@6.20.0:
     resolution: {integrity: sha512-Ny6QZ2Nju20vw1SRHe3d9jVu6gJ+4e3+MMpqu7pqE5HT6WsTSlce++GQmK5UXS8mzV8DSYHrQH+Xrf2jVcuKNg==}
 
-  undici@7.0.0:
-    resolution: {integrity: sha512-c4xi3kWnQJrb7h2q8aJYKvUzmz7boCgz1cUCC6OwdeM5Tr2P0hDuthr2iut4ggqsz+Cnh20U/LoTzbKIdDS/Nw==}
+  undici@7.1.0:
+    resolution: {integrity: sha512-3+mdX2R31khuLCm2mKExSlMdJsfol7bJkIMH80tdXA74W34rT1jKemUTlYR7WY3TqsV4wfOgpatWmmB2Jl1+5g==}
     engines: {node: '>=20.18.1'}
 
   unique-string@3.0.0:
@@ -6934,7 +6934,7 @@ snapshots:
 
   undici-types@6.20.0: {}
 
-  undici@7.0.0: {}
+  undici@7.1.0: {}
 
   unique-string@3.0.0:
     dependencies:
