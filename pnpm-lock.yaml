@@ -41,8 +41,8 @@ importers:
         specifier: ^5.7.2
         version: 5.7.2
       unbuild:
-        specifier: ^3.0.0
-        version: 3.0.0(typescript@5.7.2)
+        specifier: ^3.0.1
+        version: 3.0.1(typescript@5.7.2)
       vite:
         specifier: ^6.0.3
         version: 6.0.3(@types/node@22.10.2)(jiti@2.4.1)(tsx@4.19.2)
@@ -168,10 +168,6 @@ packages:
 
   '@babel/helper-string-parser@7.25.9':
     resolution: {integrity: sha512-4A/SCr/2KLd5jrtOMFzaKjVtAei3+2r/NChoBNoZ3EyP/+GlhoaEGoWOZUmFmoITP7zOJyHIMm+DYRd8o3PvHA==}
-    engines: {node: '>=6.9.0'}
-
-  '@babel/helper-validator-identifier@7.22.20':
-    resolution: {integrity: sha512-Y4OZ+ytlatR8AI+8KZfKuL5urKp7qey08ha31L8b3BwewJAoJamTzyvxPR/5D+KkdJCGPq/+8TukHBlY10FX9A==}
     engines: {node: '>=6.9.0'}
 
   '@babel/helper-validator-identifier@7.25.9':
@@ -1256,9 +1252,6 @@ packages:
 
   caniuse-api@3.0.0:
     resolution: {integrity: sha512-bsTwuIg/BZZK/vreVTYYbSWoe2F+71P7K5QGEX+pT250DZbfU1MQ5prOKpPR+LL6uWKK3KMwMCAS74QB3Um1uw==}
-
-  caniuse-lite@1.0.30001564:
-    resolution: {integrity: sha512-DqAOf+rhof+6GVx1y+xzbFPeOumfQnhYzVnZD6LAXijR77yPtm9mfOcqOnT3mpnJiZVT+kwLAFnRlZcIz+c6bg==}
 
   caniuse-lite@1.0.30001688:
     resolution: {integrity: sha512-Nmqpru91cuABu/DTCXbM2NSRHzM2uVHfPnhJ/1zEAJx/ILBRVmz3pzH4N7DZqbdG0gWClsCC05Oj0mJ/1AWMbA==}
@@ -3182,8 +3175,8 @@ packages:
   unbox-primitive@1.0.2:
     resolution: {integrity: sha512-61pPlCD9h51VoreyJ0BReideM3MDKMKnh6+V9L08331ipq6Q8OFXZYiqP6n/tbHx4s5I9uRhcye6BrbkizkBDw==}
 
-  unbuild@3.0.0:
-    resolution: {integrity: sha512-yl9heYNwhy7GjUZEIiHFQrLJIIfMgoAWEKq+JfVEKHnLOtQjvsUj7T59OANOxkWD81epV3JH4lg4RO+BQ/NGDA==}
+  unbuild@3.0.1:
+    resolution: {integrity: sha512-03Fv1B8hmJzYCdL4TDgmgBg1WMU0CB5P2tBqPCW7XAvZG/l275m6JU/xf2tJ4yuUeHtmSzg1G387Te9nlsufFA==}
     hasBin: true
     peerDependencies:
       typescript: ^5.7.2
@@ -3489,8 +3482,6 @@ snapshots:
 
   '@babel/helper-string-parser@7.25.9': {}
 
-  '@babel/helper-validator-identifier@7.22.20': {}
-
   '@babel/helper-validator-identifier@7.25.9': {}
 
   '@babel/helper-validator-option@7.25.9': {}
@@ -3502,7 +3493,7 @@ snapshots:
 
   '@babel/highlight@7.23.4':
     dependencies:
-      '@babel/helper-validator-identifier': 7.22.20
+      '@babel/helper-validator-identifier': 7.25.9
       chalk: 2.4.2
       js-tokens: 4.0.0
 
@@ -4349,11 +4340,9 @@ snapshots:
   caniuse-api@3.0.0:
     dependencies:
       browserslist: 4.24.2
-      caniuse-lite: 1.0.30001564
+      caniuse-lite: 1.0.30001688
       lodash.memoize: 4.1.2
       lodash.uniq: 4.5.0
-
-  caniuse-lite@1.0.30001564: {}
 
   caniuse-lite@1.0.30001688: {}
 
@@ -5679,7 +5668,7 @@ snapshots:
       got: 12.6.1
       registry-auth-token: 5.0.2
       registry-url: 6.0.1
-      semver: 7.6.0
+      semver: 7.6.3
 
   parent-module@1.0.1:
     dependencies:
@@ -6444,7 +6433,7 @@ snapshots:
       has-symbols: 1.0.3
       which-boxed-primitive: 1.0.2
 
-  unbuild@3.0.0(typescript@5.7.2):
+  unbuild@3.0.1(typescript@5.7.2):
     dependencies:
       '@rollup/plugin-alias': 5.1.1(rollup@4.28.1)
       '@rollup/plugin-commonjs': 28.0.1(rollup@4.28.1)
