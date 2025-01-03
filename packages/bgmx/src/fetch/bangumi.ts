@@ -114,7 +114,7 @@ export async function fetchBangumiData(ctx: Context) {
       client.subjectRelated(bgmId)
     ]);
 
-    if (subject) {
+    if (subject && subject.date) {
       if (!options.overwrite) {
         console.log(`Info: fetch ${subject.name ?? item?.title} (id: ${subject.id})`);
       }

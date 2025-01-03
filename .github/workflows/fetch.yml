@@ -11,6 +11,16 @@ on:
         type: boolean
         default: false
         required: true
+      bangumi:
+        description: 'Fetch bangumi data'
+        type: boolean
+        default: true
+        required: true
+      tmdb:
+        description: 'Fetch tmdb data'
+        type: boolean
+        default: true
+        required: true
 
 jobs:
   prepare:
@@ -46,6 +56,8 @@ jobs:
 
     runs-on: ubuntu-latest
 
+    if: ${{ inputs.bangumi }}
+
     permissions:
       contents: write
 
@@ -76,8 +88,22 @@ jobs:
 
       - name: Fetch Bangumi
         run: |
-          npx tsx packages/bgmd/scripts/bangumi.ts --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
-          grep "^Error:" run.log > data/bangumi-error.log || true
+          pnpm run bgmx fetch bangumi --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
+          # Generate markdown summary
+          output=data/bangumi.md
+          echo '# Bangumi' > $output
+          # Output Info
+          echo '## Fetch new bangumit' >> $output
+          while IFS= read -r line; do
+            clean_line="${line/Info: /}" >> $output
+            echo "- ${clean_line}"
+          done < grep "^Info:" run.log
+          # Output Error
+          echo '## Error' >> $output
+          while IFS= read -r line; do
+            clean_line="${line/Error: /}" >> $output
+            echo "- ${clean_line}"
+          done < grep "^Error:" run.log
 
       # - name: Upload artifact
       #   uses: actions/upload-artifact@v3
@@ -105,6 +131,8 @@ jobs:
     name: Fetch TMDB
 
     runs-on: ubuntu-latest
+
+    if: ${{ inputs.tmdb }}
 
     permissions:
       contents: write
