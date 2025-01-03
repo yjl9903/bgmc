@@ -118,6 +118,7 @@ export class TMDBClient {
           throw new Error(resp.statusText);
         }
 
+        // @ts-ignore
         return resp.json();
       } catch (err) {
         if (i + 1 === maxRetry) {

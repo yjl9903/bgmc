@@ -5,7 +5,7 @@ export async function getRecentBangumis(): Promise<Omit<FullBangumi, 'summary'>[
   if (!resp.ok) {
     throw new Error(`Fetch bgmd index.json failed`, { cause: resp });
   }
-  const data = await resp.json();
+  const data = await resp.json() as any;
   return data.bangumis;
 }
 
@@ -14,7 +14,7 @@ export async function getFullBangumis(): Promise<FullBangumi[]> {
   if (!resp.ok) {
     throw new Error(`Fetch bgmd full.json failed`, { cause: resp });
   }
-  const data = await resp.json();
+  const data = await resp.json() as any;
   return data.bangumis;
 }
 
@@ -33,6 +33,6 @@ export async function getCalendar(): Promise<
   if (!resp.ok) {
     throw new Error(`Fetch bgmd calendar.json failed`, { cause: resp });
   }
-  const data = await resp.json();
+  const data = await resp.json() as any;
   return data.calendar;
 }

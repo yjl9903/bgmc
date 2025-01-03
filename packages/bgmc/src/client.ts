@@ -103,6 +103,7 @@ export class BgmClient {
         if (!resp.ok || resp.status !== 200) {
           throw new BgmFetchError(resp);
         }
+        // @ts-ignore
         return await resp.json();
       } catch (err) {
         if (err instanceof BgmFetchError) {
