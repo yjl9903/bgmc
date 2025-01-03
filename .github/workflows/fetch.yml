@@ -99,15 +99,15 @@ jobs:
           echo '## Fetch new bangumi' >> $output
           while IFS= read -r line; do
             line="${line/Info: /}"
-            clean_line="${clean_line/fetch /}"
-            echo "- ${clean_line}" >> $output
+            line="${line/fetch /}"
+            echo "- ${line}" >> $output
           done < bangumi-info.log
 
           # Output Error
           echo '## Error' >> $output
           while IFS= read -r line; do
-            clean_line="${line/Error: /}"
-            echo "- ${clean_line}" >> $output
+            line="${line/Error: /}"
+            echo "- ${line}" >> $output
           done < bangumi-error.log
 
       # - name: Upload artifact
@@ -190,8 +190,8 @@ jobs:
           echo '## Fetch new bangumi' >> $output
           while IFS= read -r line; do
             line="${line/Info: /}"
-            clean_line="${clean_line/fetch /}"
-            echo "- ${clean_line}" >> $output
+            line="${line/fetch /}"
+            echo "- ${line}" >> $output
           done < tmdb-info.log
 
           # Output Error
