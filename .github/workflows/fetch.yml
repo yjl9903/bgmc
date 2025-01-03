@@ -89,6 +89,8 @@ jobs:
       - name: Fetch Bangumi
         run: |
           pnpm run bgmx fetch bangumi --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
+          grep "^Info:"  run.log > bangumi-info.log  || true
+          grep "^Error:" run.log > bangumi-error.log || true
           # Generate markdown summary
           output=data/bangumi.md
           echo '# Bangumi' > $output
@@ -97,13 +99,13 @@ jobs:
           while IFS= read -r line; do
             clean_line="${line/Info: /}" >> $output
             echo "- ${clean_line}"
-          done < $(grep "^Info:" run.log)
+          done < bangumi-info.log
           # Output Error
           echo '## Error' >> $output
           while IFS= read -r line; do
             clean_line="${line/Error: /}" >> $output
             echo "- ${clean_line}"
-          done < $(grep "^Error:" run.log)
+          done < bangumi-error.log
 
       # - name: Upload artifact
       #   uses: actions/upload-artifact@v3
