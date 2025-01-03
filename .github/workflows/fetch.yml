@@ -97,7 +97,7 @@ jobs:
 
           # Output Info
           echo '## Fetch new bangumi' >> $output
-          info_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-info.log" "bangumi-info.log")
+          info_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-info.log" "bangumi-info.log" || true)
           echo "$info_diff" | while IFS= read -r line; do
             line="${line/Info: /}"
             line="${line/fetch /}"
@@ -106,7 +106,7 @@ jobs:
 
           # Output Error
           echo '## Error' >> $output
-          error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-error.log" "bangumi-error.log")
+          error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-error.log" "bangumi-error.log" || true)
           echo "$error_diff" | while IFS= read -r line; do
             line="${line/Error: /}"
             echo "- ${line}" >> $output
@@ -186,7 +186,7 @@ jobs:
 
           # Output Info
           echo '## Fetch new bangumi' >> $output
-          info_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/tmdb-info.log" "tmdb-info.log")
+          info_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/tmdb-info.log" "tmdb-info.log" || true)
           echo "$info_diff" | while IFS= read -r line; do
             line="${line/Info: /}"
             line="${line/fetch /}"
@@ -195,7 +195,7 @@ jobs:
 
           # Output Error
           echo '## Error' >> $output
-          error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/tmdb-error.log" "tmdb-error.log")
+          error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/tmdb-error.log" "tmdb-error.log" || true)
           echo "$error_diff" | while IFS= read -r line; do
             line="${line/Error: /}"
             echo "- ${line}" >> $output
