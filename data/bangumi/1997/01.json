@@ -25,6 +25,7 @@
         "TV",
         "TVA",
         "タツノコプロ",
+        "日本",
         "日本动画",
         "旧物",
         "福島宏之",
@@ -76,6 +77,10 @@
       "total_episodes": 34,
       "id": 95949,
       "eps": 34,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -320,6 +325,10 @@
       "total_episodes": 3,
       "id": 39530,
       "eps": 3,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -328,17 +337,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/9c/339375_kNuai.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/9c/339375_kNuai.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/30/9c/339375_kNuai.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/9c/339375_kNuai.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/9c/339375_kNuai.jpg"
           },
-          "name": "スーパーロボット大戦64",
-          "name_cn": "超级机器人大战64",
+          "name": "スーパーロボット大戦Scramble Commander",
+          "name_cn": "超级机器人大战：特勤司令官",
           "relation": "角色出演",
           "type": 4,
-          "id": 308448
+          "id": 339375
         },
         {
           "images": {
@@ -454,6 +463,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
+          },
+          "name": "スーパーロボット大戦64",
+          "name_cn": "超级机器人大战64",
+          "relation": "角色出演",
+          "type": 4,
+          "id": 308448
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
@@ -465,20 +488,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 141050
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/9c/339375_kNuai.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/9c/339375_kNuai.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/30/9c/339375_kNuai.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/9c/339375_kNuai.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/9c/339375_kNuai.jpg"
-          },
-          "name": "スーパーロボット大戦Scramble Commander",
-          "name_cn": "超级机器人大战：特勤司令官",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 339375
         },
         {
           "images": {
@@ -577,6 +586,20 @@
           "relation": "广播剧",
           "type": 3,
           "id": 511315
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b2/531127_t4R74.jpg"
+          },
+          "name": "スーパーロボット大戦α for Dreamcast",
+          "name_cn": "超级机器人大战α for Dreamcast",
+          "relation": "游戏",
+          "type": 4,
+          "id": 531127
         },
         {
           "images": {
@@ -784,7 +807,7 @@
           },
           "name": "第3次スーパーロボット大戦Z 天獄篇",
           "name_cn": "第3次超级机器人大战Z 天狱篇",
-          "relation": "角色出演",
+          "relation": "游戏",
           "type": 4,
           "id": 102098
         },
@@ -861,6 +884,7 @@
         "吃货",
         "吉富昭仁",
         "待補2",
+        "日本",
         "日本动画",
         "旧物",
         "旧番",
@@ -914,6 +938,11 @@
       "total_episodes": 12,
       "id": 18035,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1043,7 +1072,6 @@
         "日本",
         "日本动画",
         "星山博之",
-        "星马兄弟",
         "漫改",
         "漫画改",
         "热血",
@@ -1053,7 +1081,8 @@
         "童年系列",
         "赛车",
         "运动",
-        "长番"
+        "长番",
+        "长篇"
       ],
       "infobox": [
         {
@@ -1091,6 +1120,11 @@
       "total_episodes": 51,
       "id": 47759,
       "eps": 51,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1274,7 +1308,6 @@
         "1997",
         "95-99",
         "OVA",
-        "OVA-01",
         "其他",
         "奇幻",
         "奥野浩行",
@@ -1326,6 +1359,9 @@
       "total_episodes": 2,
       "id": 50334,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1400,7 +1436,6 @@
         "90里番",
         "GAL改",
         "OVA",
-        "OVA-03",
         "R17",
         "VG",
         "[NBG]",
@@ -1414,16 +1449,17 @@
         "声控片",
         "巨乳",
         "必看",
+        "木村貴宏",
         "游戏改",
         "無修正",
         "独立ova",
         "百合",
         "突然想看美少女格斗了而已",
-        "羞耻play",
         "肉",
         "肉番",
         "里番",
-        "黑田洋介"
+        "黑田洋介",
+        "黒田洋介"
       ],
       "infobox": [
         {
@@ -1467,6 +1503,9 @@
       "total_episodes": 3,
       "id": 68021,
       "eps": 3,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

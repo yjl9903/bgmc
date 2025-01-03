@@ -45,7 +45,7 @@
         "童话",
         "芭蕾舞",
         "萩萩公主",
-        "音乐"
+        "魔法少女"
       ],
       "infobox": [
         {
@@ -76,6 +76,14 @@
           "value": "2003年5月23日"
         },
         {
+          "key": "导演",
+          "value": "河本昇悟"
+        },
+        {
+          "key": "音乐",
+          "value": "和田薫"
+        },
+        {
           "key": "Copyright",
           "value": "HAL FILM Maker"
         },
@@ -86,10 +94,6 @@
         {
           "key": "总导演",
           "value": "佐藤順一"
-        },
-        {
-          "key": "导演",
-          "value": "河本昇悟"
         },
         {
           "key": "系列构成",
@@ -116,10 +120,6 @@
           "value": "荻原猛夫"
         },
         {
-          "key": "音乐",
-          "value": "和田薫"
-        },
-        {
           "key": "音响监督",
           "value": "本山哲"
         },
@@ -143,6 +143,11 @@
       "total_episodes": 29,
       "id": 5694,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -303,7 +308,6 @@
         "RTB",
         "SF",
         "TV",
-        "三柴理",
         "中田叔",
         "中田让治",
         "人机恋",
@@ -315,6 +319,7 @@
         "小说改",
         "山口宏",
         "战争",
+        "战斗",
         "战斗妖精雪风",
         "机战",
         "深井零",
@@ -408,6 +413,11 @@
       "total_episodes": 5,
       "id": 2842,
       "eps": 5,
+      "meta_tags": [
+        "科幻",
+        "OVA",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -539,6 +549,20 @@
           "relation": "画集",
           "type": 1,
           "id": 500962
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/1e/516061_JEG9h.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/1e/516061_JEG9h.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d4/1e/516061_JEG9h.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/1e/516061_JEG9h.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/1e/516061_JEG9h.jpg"
+          },
+          "name": "戦闘妖精・雪風",
+          "name_cn": "战斗妖精雪风",
+          "relation": "书籍",
+          "type": 1,
+          "id": 516061
         }
       ]
     }
@@ -569,7 +593,7 @@
         "京都アニメーション",
         "京都动画",
         "京阿尼",
-        "偶像",
+        "动画",
         "原创",
         "川濑浩平",
         "恶搞",
@@ -680,6 +704,10 @@
       "total_episodes": 22,
       "id": 18150,
       "eps": 6,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -793,6 +821,7 @@
         "皇大地",
         "童年",
         "竹内啓雄",
+        "续作",
         "补番",
         "高乃麗"
       ],
@@ -861,6 +890,9 @@
       "total_episodes": 1,
       "id": 9351,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -932,11 +964,11 @@
         "日本",
         "日本动画",
         "横手美智子",
+        "武本康弘",
         "水岛努",
         "水島努",
         "漫改",
         "漫画改",
-        "热带雨林",
         "热带雨林的爆笑生活",
         "爆笑",
         "碎碎念",
@@ -1019,6 +1051,10 @@
       "total_episodes": 12,
       "id": 3292,
       "eps": 12,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1102,6 +1138,7 @@
       "name_cn": "海龟与少年",
       "tags": [
         "OVA",
+        "TV",
         "治愈",
         "空"
       ],
@@ -1150,6 +1187,10 @@
       "total_episodes": 1,
       "id": 450512,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1186,6 +1227,7 @@
         "前島健一",
         "千葉進歩",
         "小林沙苗",
+        "日本",
         "日本动画",
         "旧物",
         "漫画改"
@@ -1226,6 +1268,11 @@
       "total_episodes": 13,
       "id": 120935,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1250,10 +1297,76 @@
     }
   },
   {
-    "title": "軒轅劍肆：黑龍舞兮雲飛揚",
-    "date": "2002-08-04",
+    "title": "OH!スーパーミルクチャン ミルクのIT革命",
+    "date": "2002-08-01",
     "bangumi": {
-      "date": "2002-08-04",
+      "date": "2002-08-01",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/4c/238312_ho04R.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/4c/238312_ho04R.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/38/4c/238312_ho04R.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/4c/238312_ho04R.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/4c/238312_ho04R.jpg"
+      },
+      "summary": "\t今度はメディアをインターネットに変えてShockwaveにて新シリーズ「OH!スーパーミルクチャン～ミルクのIT革命～」製作開始。初のNET配信シリーズである「ミルクのIT革命」では、インターネットならではの製作手法Flashアニメーションを取り入れる。また、A,Bとストーリーの分岐を作る、ストーリーの途中でホームページを開くなど、インターネットならではのインタラクティブ性を持ったストーリー展開を取り入れるなど、かなり実験的要素を含んだ内容となる。東京国際フォーラムにて「TOKYO ART JUNGLE」にて期間限定カフェ「スーパーミルクラウンジ」がオープン。飲みものを注文すればミルクチャンコップにて飲める他、絨毯から壁までミルクチャンデザイン。ミルクづくしの会場に置かれたPCにて新作「ミルクのIT革命」先行上映を行い、好評を博す。また、JR山手線「トーキョー・アート・ジャングル号」のモニターにミルクチャンが流れる。",
+      "name": "OH!スーパーミルクチャン ミルクのIT革命",
+      "name_cn": "哦! 超级小奶糖 奶粉的IT革命",
+      "tags": [
+        "空"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "哦! 超级小奶糖 奶粉的IT革命"
+        },
+        {
+          "key": "话数",
+          "value": "16"
+        },
+        {
+          "key": "放送开始",
+          "value": "2002年8月"
+        },
+        {
+          "key": "发售日",
+          "value": "2003年2月5日"
+        }
+      ],
+      "total_episodes": 16,
+      "id": 238312,
+      "eps": 16,
+      "meta_tags": [
+        "WEB"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/ab/85771_9dubF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/ab/85771_9dubF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/ab/85771_9dubF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/ab/85771_9dubF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/ab/85771_9dubF.jpg"
+          },
+          "name": "OH!スーパーミルクチャン",
+          "name_cn": "哦! 超级小奶糖",
+          "relation": "前传",
+          "type": 2,
+          "id": 85771
+        }
+      ]
+    }
+  },
+  {
+    "title": "軒轅劍肆 黑龍舞兮雲飛揚",
+    "date": "2002-08-01",
+    "bangumi": {
+      "date": "2002-08-01",
       "platform": "游戏",
       "images": {
         "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/6a/2483_e88pE.jpg",
@@ -1263,12 +1376,11 @@
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/6a/2483_e88pE.jpg"
       },
       "summary": "《轩辕剑肆》的时代背景设定于距今两千两百年前，刚消灭战国六雄、完成“大一统”霸业的中国秦朝。故事背景，也延续了系列第三作《轩辕剑外传～枫之舞》的若干相关设定。主角是一位墨家年轻的女弟子，她目睹墨家在秦人不断围剿下，逐渐步入没落、败亡的惨状，不禁焦心如焚。她为了打破墨家奄奄一息的灭亡命运，决心勇敢无视墨家的禁令，去私下探索过去墨家严令禁止去研究的两百年前失传古科技──“机关术”。由于机关术的研究，她慢慢又无意间接触到了另外两股更加神秘的古文明力量，亦即华夏上古时期的“云中界”力量，以及古代神秘蜀文明的超科技终极兵器“黑火”。这三股彼此互相纠结的力量，将故事慢慢引导进入力量冲突的最高潮，让人不禁要去省思：何谓力量的真谛？以及力量最后所可能带来的文明反噬。\r\n　　\r\n由于《轩辕剑肆》是《轩辕剑》RPG系列首度以全新“3D即时运算”的形态来呈现，配合这一次“古代超科技文明”的主题，可以预见，它势将呈现出国内RPG前所未见之中国风古代科幻兵器的视觉新震撼！究竟DOMO大胆意图同时融合古代中国色彩、以及科幻风格于一炉的设定，将会展现如何的惊人风貌、磅礴的气势呢？实在让我们不禁要充满期待了！系统方面，以前几代的“炼妖壶”为蓝本，推出新的“天书系统”，由玩家自行建设厂房、研发武器防具。另外，此次的游戏配乐也大胆借鉴了中国商周时期的“金石”雅乐。\r\n",
-      "name": "軒轅劍肆：黑龍舞兮雲飛揚",
-      "name_cn": "轩辕剑四：黑龙舞兮云飞扬",
+      "name": "軒轅劍肆 黑龍舞兮雲飛揚",
+      "name_cn": "轩辕剑肆 黑龙舞兮云飞扬",
       "tags": [
         "2002",
         "2018前",
-        "3D",
         "51-55",
         "DOMO",
         "JRPG",
@@ -1289,6 +1401,7 @@
         "枫之舞后续",
         "柒",
         "水镜",
+        "游戏",
         "砍头三人组",
         "苍之涛后无轩辕",
         "视频通关",
@@ -1300,11 +1413,14 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "轩辕剑四：黑龙舞兮云飞扬"
+          "value": "轩辕剑肆 黑龙舞兮云飞扬"
         },
         {
           "key": "别名",
           "value": [
+            {
+              "v": "轩辕剑Ⅳ"
+            },
             {
               "v": "軒轅劒肆：黑龍舞兮雲飛揚"
             }
@@ -1324,7 +1440,15 @@
         },
         {
           "key": "发行日期",
-          "value": "2002年8月4日"
+          "value": "2002年8月1日"
+        },
+        {
+          "key": "售价",
+          "value": "NT$ 790"
+        },
+        {
+          "key": "剧本",
+          "value": "吴欣叡、鲍弘修"
         },
         {
           "key": "发行商",
@@ -1333,15 +1457,16 @@
         {
           "key": "游戏设计师",
           "value": "DOMO小组"
-        },
-        {
-          "key": "剧本",
-          "value": "吴欣叡、鲍弘修"
         }
       ],
       "total_episodes": 0,
       "id": 2483,
       "eps": 0,
+      "meta_tags": [
+        "RPG",
+        "PC",
+        "游戏"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1356,8 +1481,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/26/1654_3TV6i.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/26/1654_3TV6i.jpg"
           },
-          "name": "軒轅劒叁 雲和山的彼端",
-          "name_cn": "轩辕剑叁 云和山的彼端",
+          "name": "軒轅劍參 雲和山的彼端",
+          "name_cn": "轩辕剑3 云和山的彼端",
           "relation": "相同世界观",
           "type": 4,
           "id": 1654
@@ -1384,8 +1509,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/32/1915_L4DhL.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/32/1915_L4DhL.jpg"
           },
-          "name": "軒轅劒外傳：蒼之濤",
-          "name_cn": "轩辕剑外传：苍之涛",
+          "name": "軒轅劍外傳 蒼之濤",
+          "name_cn": "轩辕剑外传—苍之涛",
           "relation": "续集",
           "type": 4,
           "id": 1915
@@ -1398,8 +1523,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/fc/1916_11dSV.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/fc/1916_11dSV.jpg"
           },
-          "name": "軒轅劒叁外傳：天之痕",
-          "name_cn": "轩辕剑三外传：天之痕",
+          "name": "軒轅劍參外傳 天之痕",
+          "name_cn": "轩辕剑叁外传 天之痕",
           "relation": "相同世界观",
           "type": 4,
           "id": 1916
@@ -1413,7 +1538,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/3f/82/16417_5ta4t.jpg"
           },
           "name": "軒轅劍外傳 楓之舞",
-          "name_cn": "轩辕剑外传 枫之舞",
+          "name_cn": "轩辕剑外传—枫之舞",
           "relation": "前传",
           "type": 4,
           "id": 16417
@@ -1440,7 +1565,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/07/27712_vo1xP.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/07/27712_vo1xP.jpg"
           },
-          "name": "軒轅劒贰",
+          "name": "軒轅劍貳",
           "name_cn": "轩辕剑二",
           "relation": "相同世界观",
           "type": 4,

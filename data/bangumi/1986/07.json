@@ -41,6 +41,9 @@
       "total_episodes": 1,
       "id": 211095,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -106,8 +109,8 @@
         "水島裕",
         "波多正美",
         "游戏",
+        "游戏改",
         "游戏电影",
-        "萝卜",
         "路易基",
         "马里奥",
         "高屋敷英夫"
@@ -141,6 +144,10 @@
       "total_episodes": 1,
       "id": 184439,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -212,16 +219,15 @@
         "1980-1989",
         "1986",
         "1986年7月",
-        "2023",
         "80",
         "80年代",
         "85-89",
         "OVA",
-        "OVA-01",
         "SUNRISE",
         "robo",
         "サンライズ",
         "ボトムズ",
+        "剧场版",
         "原创",
         "吉川惣司",
         "單集長篇",
@@ -237,6 +243,7 @@
         "萝卜",
         "装甲騎兵ボトムズ",
         "装甲骑兵",
+        "非独立OVA、OAD、特番等",
         "高桥良辅",
         "高橋良輔"
       ],
@@ -321,6 +328,10 @@
       "total_episodes": 1,
       "id": 41732,
       "eps": 1,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -418,21 +429,21 @@
       "name_cn": "加州危机",
       "tags": [
         "1980-1989",
+        "1980s",
         "1986",
         "7+",
         "85-89",
         "HiroMedia",
         "OVA",
-        "OVA-01",
+        "OVA或OAD",
         "ci",
+        "ova2",
         "スタジオ・ユニコーン",
-        "其他",
+        "冒险",
         "剧情",
         "动作",
         "动画",
         "原创",
-        "塩沢兼人",
-        "奇幻",
         "奥田万つ里",
         "安原义人",
         "安原義人",
@@ -513,6 +524,10 @@
       "total_episodes": 1,
       "id": 38903,
       "eps": 1,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -557,7 +572,6 @@
         "1986年7月",
         "80",
         "TV",
-        "TVA",
         "robo",
         "ロボットアニメ",
         "井上和彦",
@@ -567,16 +581,17 @@
         "剑狼传说",
         "原创",
         "吉田浩",
-        "大平晋也",
+        "園田英樹",
         "大滝进矢",
         "待補1",
+        "日本",
         "日本动画",
         "旧物",
-        "机战",
+        "机器人",
         "机战登场作",
+        "机甲",
         "桥本晃一",
         "樱井敏治",
-        "水谷優子",
         "田村英树",
         "田野雅祥",
         "苇PRODUCTION",
@@ -643,6 +658,10 @@
       "total_episodes": 47,
       "id": 37240,
       "eps": 47,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -774,6 +793,20 @@
           "relation": "不同世界观",
           "type": 2,
           "id": 387955
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2b/33/524044_e396V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2b/33/524044_e396V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2b/33/524044_e396V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/33/524044_e396V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/33/524044_e396V.jpg"
+          },
+          "name": "勝利のマシンロボ / 戦え!バイカンフー",
+          "name_cn": "天威勇士主题歌2",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 524044
         }
       ]
     }

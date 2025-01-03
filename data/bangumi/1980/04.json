@@ -75,6 +75,11 @@
       "total_episodes": 52,
       "id": 208612,
       "eps": 109,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -116,12 +121,12 @@
       "name_cn": "大白鲸",
       "tags": [
         "1980",
+        "1980年",
         "80s",
         "80年代",
         "SF",
         "TMSEntertainment",
         "TV",
-        "TVA",
         "undefined",
         "东京Movie新社",
         "东京movie",
@@ -130,12 +135,12 @@
         "今沢哲男",
         "儿时的记忆",
         "千々松幸子",
-        "原创",
         "古川登志夫",
         "吉田理保子",
         "安原义人",
         "小山茉美",
         "屋良有作",
+        "日本",
         "旧物",
         "星山博之",
         "東京ムービー",
@@ -201,6 +206,10 @@
       "total_episodes": 26,
       "id": 52394,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -263,12 +272,17 @@
         },
         {
           "key": "放送开始",
-          "value": "1980-04-03"
+          "value": "1980年4月3日"
         }
       ],
       "total_episodes": 1,
       "id": 416987,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -396,6 +410,10 @@
       "total_episodes": 1,
       "id": 38646,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -404,11 +422,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/85/1969_Ze063.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/85/1969_Ze063.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4d/85/1969_Ze063.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/85/1969_Ze063.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/85/1969_Ze063.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/85/1969_ky3Gg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/85/1969_ky3Gg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4d/85/1969_ky3Gg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/85/1969_ky3Gg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/85/1969_ky3Gg.jpg"
           },
           "name": "地球へ…",
           "name_cn": "奔向地球",
@@ -448,7 +466,7 @@
       },
       "summary": "激しかった怪獣との戦いが過去のものとなり、地球には平和が続いていた。\r\nそんなある日、桜ヶ岡中学校に新人教師・矢的 猛（やまと たけし）が新しく赴任してきた。「一所懸命」をモットーとする彼は早速、1年E組を受け持つことになったが、5年ぶりとなる怪獣復活を確信して個人的に調査を続けていた。\r\n猛の正体こそ、M78星雲から秘密裏に地球へ派遣されていたウルトラマン80だった。人間の負の感情・マイナスエネルギーが怪獣を生み出すということに気付き、それを根本から断つために教師として働いていたのである。\r\nやがて、5年ぶりに出現した怪獣クレッセントを倒した80こと猛は、地球防衛軍の極東エリア・UGMのオオヤマ一樹キャップにその熱意を認められ、UGMへ入隊。UGM隊員と教師という2つの職業とウルトラマンをかけもちしつつ、怪獣と戦っていくことになる。",
       "name": "ウルトラマン80",
-      "name_cn": "爱迪·奥特曼",
+      "name_cn": "爱迪奥特曼",
       "tags": [
         "1970s",
         "1980",
@@ -476,13 +494,13 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "爱迪·奥特曼"
+          "value": "爱迪奥特曼"
         },
         {
           "key": "别名",
           "value": [
             {
-              "v": "爱迪奥特曼"
+              "v": "爱迪·奥特曼"
             },
             {
               "v": "ウルトラマンエイティ"
@@ -504,6 +522,22 @@
         {
           "key": "结束",
           "value": "1981-03-25"
+        },
+        {
+          "key": "主演",
+          "value": "長谷川初範、中山仁、大門正明、和田幾子、無双大介、新田修平、石田えり、古田正志、岡本達哉、萩原佐代子"
+        },
+        {
+          "key": "导演",
+          "value": "湯浅憲明、深沢清澄、広瀬襄、野長瀬三摩地、外山徹、合月勇、東條昭平、宮坂清彦、満田かずほ、川北紘一、高野宏一、佐川和夫、神澤信一"
+        },
+        {
+          "key": "音乐",
+          "value": "冬木透"
+        },
+        {
+          "key": "制作",
+          "value": "円谷プロダクション、TBS"
         },
         {
           "key": "类型",
@@ -530,33 +564,22 @@
           "value": "円谷皐、満田かずほ、野村清（TBS）"
         },
         {
-          "key": "导演",
-          "value": "湯浅憲明、深沢清澄、広瀬襄、野長瀬三摩地、外山徹、合月勇、東條昭平、宮坂清彦、満田かずほ、川北紘一、高野宏一、佐川和夫、神澤信一"
-        },
-        {
           "key": "编剧",
           "value": "阿井文瓶、山浦弘靖、広瀬襄、若槻文三、平野靖司、石堂淑朗、南川竜、土筆勉、水沢又三郎、田口成光、吉田耕助"
         },
         {
-          "key": "音乐",
-          "value": "冬木透"
-        },
-        {
           "key": "剪辑",
           "value": "小林熙昌"
-        },
-        {
-          "key": "制作",
-          "value": "円谷プロダクション、TBS"
-        },
-        {
-          "key": "主演",
-          "value": "長谷川初範、中山仁、大門正明、和田幾子、無双大介、新田修平、石田えり、古田正志、岡本達哉、萩原佐代子"
         }
       ],
       "total_episodes": 50,
       "id": 38666,
       "eps": 50,
+      "meta_tags": [
+        "日本",
+        "电视剧",
+        "特摄"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -565,11 +588,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/87/61260_773s7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/87/61260_773s7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/46/87/61260_773s7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/87/61260_773s7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/87/61260_773s7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/87/61260_OFZwi.jpg"
           },
           "name": "ザ☆ウルトラマン",
           "name_cn": "乔尼亚斯奥特曼",

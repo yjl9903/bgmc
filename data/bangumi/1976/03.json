@@ -14,7 +14,7 @@
       },
       "summary": "ある街でレストランの給仕をしていたペロは、横柄な客グルーモン卿と口論になり、「八十日間で世界を一周してみせる。できなかったらグルーモンの奴隷になる」という賭けをする。 ペロはネズミの父子やレストランのコックのカーターとともに、時間に追われながら苦難の旅を続けるが、グルーモン卿の手先のガリガリ博士、そして謎の美女スザンナが妨害してくる。",
       "name": "長靴をはいた猫 80日間世界一周",
-      "name_cn": "穿长靴的猫 80日环游世界",
+      "name_cn": "长靴猫环游世界八十天",
       "tags": [
         "-1980",
         "1976",
@@ -37,11 +37,14 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "穿长靴的猫 80日环游世界"
+          "value": "长靴猫环游世界八十天"
         },
         {
           "key": "别名",
           "value": [
+            {
+              "v": "穿长靴的猫 80日环游世界"
+            },
             {
               "v": "Puss in Boots: Travels Around the World in 80 Days"
             }
@@ -53,7 +56,7 @@
         },
         {
           "key": "片长",
-          "value": "69min"
+          "value": "69分"
         },
         {
           "key": "话数",
@@ -63,6 +66,9 @@
       "total_episodes": 1,
       "id": 83545,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -71,14 +77,14 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/e6/83546_nF1h4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/e6/83546_nF1h4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/72/e6/83546_nF1h4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/e6/83546_nF1h4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/e6/83546_nF1h4.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/e6/83546_ZPdFJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/e6/83546_ZPdFJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/e6/83546_ZPdFJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/e6/83546_ZPdFJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/e6/83546_ZPdFJ.jpg"
           },
           "name": "ながぐつ三銃士",
-          "name_cn": "长靴三枪手",
+          "name_cn": "长靴猫西部剑客",
           "relation": "前传",
           "type": 2,
           "id": 83546
@@ -110,6 +116,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 362670
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/7c/527918_n5SH4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/7c/527918_n5SH4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cc/7c/527918_n5SH4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/7c/527918_n5SH4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/7c/527918_n5SH4.jpg"
+          },
+          "name": "Around the World in Eighty Days",
+          "name_cn": "八十天环游地球",
+          "relation": "书籍",
+          "type": 1,
+          "id": 527918
         }
       ]
     }
@@ -202,6 +222,9 @@
       "total_episodes": 1,
       "id": 112964,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

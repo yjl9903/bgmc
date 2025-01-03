@@ -24,7 +24,6 @@
         "GAL",
         "GAL改",
         "TV",
-        "TVA",
         "伪娘",
         "伪百合",
         "动画",
@@ -38,9 +37,10 @@
         "搞笑",
         "日常",
         "日本",
-        "日本动画",
         "校园",
         "欢乐",
+        "治愈",
+        "浅野真澄",
         "游戏宣传片",
         "游戏改",
         "瑞穂",
@@ -97,16 +97,20 @@
           "value": "2006年12月23日"
         },
         {
+          "key": "导演",
+          "value": "名和宗則"
+        },
+        {
+          "key": "音乐",
+          "value": "磯江俊道"
+        },
+        {
           "key": "Copyright",
           "value": "©HOBIBOX / CARAMELBOX / おとボク制作委员会"
         },
         {
           "key": "原作",
           "value": "キャラメルBOX"
-        },
-        {
-          "key": "导演",
-          "value": "名和宗則"
         },
         {
           "key": "助监督",
@@ -141,10 +145,6 @@
           "value": "田熊純"
         },
         {
-          "key": "音乐",
-          "value": "磯江俊道"
-        },
-        {
           "key": "音响监督",
           "value": "榎本崇弘"
         },
@@ -172,6 +172,13 @@
       "total_episodes": 13,
       "id": 3828,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "后宫",
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -372,6 +379,10 @@
       "total_episodes": 13,
       "id": 116036,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -505,16 +516,20 @@
           "value": "2006年12月24日"
         },
         {
+          "key": "导演",
+          "value": "岸誠二"
+        },
+        {
+          "key": "音乐",
+          "value": "原田勝通（Angel Note）"
+        },
+        {
           "key": "Copyright",
           "value": "©ブロッコリー/ギャラクシーエンジェる～ん製作委員会"
         },
         {
           "key": "原作",
           "value": "ブロッコリー"
-        },
-        {
-          "key": "导演",
-          "value": "岸誠二"
         },
         {
           "key": "剧本协调",
@@ -553,10 +568,6 @@
           "value": "ギャラクシーエンジェる〜ん製作委員会"
         },
         {
-          "key": "音乐",
-          "value": "原田勝通（Angel Note）"
-        },
-        {
           "key": "企画",
           "value": "木谷高明、川城和実、中村直樹 企画協力：蛭田達朗"
         },
@@ -572,6 +583,11 @@
       "total_episodes": 13,
       "id": 35321,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -728,7 +744,7 @@
         },
         {
           "key": "话数",
-          "value": "26"
+          "value": "25"
         },
         {
           "key": "放送开始",
@@ -745,7 +761,14 @@
       ],
       "total_episodes": 27,
       "id": 1804,
-      "eps": 26,
+      "eps": 25,
+      "meta_tags": [
+        "校园",
+        "后宫",
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -918,12 +941,16 @@
           "value": "2007年3月15日"
         },
         {
-          "key": "原作",
-          "value": "Key/VISUAL ARTS"
-        },
-        {
           "key": "导演",
           "value": "石原立也"
+        },
+        {
+          "key": "音乐",
+          "value": "折戸伸治、OdiakeS、麻枝准"
+        },
+        {
+          "key": "原作",
+          "value": "Key/VISUAL ARTS"
         },
         {
           "key": "脚本",
@@ -936,10 +963,6 @@
         {
           "key": "演出",
           "value": "山本寛、石立太一、高雄統子、武本康弘、北之原孝將、坂本一也、吉岡忍"
-        },
-        {
-          "key": "音乐",
-          "value": "折戸伸治、OdiakeS、麻枝准"
         },
         {
           "key": "人物原案",
@@ -1005,6 +1028,13 @@
       "total_episodes": 24,
       "id": 274,
       "eps": 24,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "恋爱",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1024,6 +1054,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 142
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/2d/1077_I4eJa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/2d/1077_I4eJa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/2d/1077_I4eJa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/2d/1077_I4eJa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/2d/1077_I4eJa.jpg"
+          },
+          "name": "Kanon",
+          "name_cn": "",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 1077
         },
         {
           "images": {
@@ -1136,20 +1180,6 @@
           "relation": "其他",
           "type": 6,
           "id": 472175
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/2d/1077_I4eJa.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/2d/1077_I4eJa.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/06/2d/1077_I4eJa.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/2d/1077_I4eJa.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/2d/1077_I4eJa.jpg"
-          },
-          "name": "Kanon",
-          "name_cn": "",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 1077
         }
       ]
     }
@@ -1161,11 +1191,11 @@
       "date": "2006-10-04",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/1f/2319_n1IoW.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/1f/2319_n1IoW.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/a1/1f/2319_n1IoW.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/1f/2319_n1IoW.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/1f/2319_n1IoW.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/1f/2319_9DfDk.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/1f/2319_9DfDk.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a1/1f/2319_9DfDk.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/1f/2319_9DfDk.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/1f/2319_9DfDk.jpg"
       },
       "summary": "《夜明前的琉璃色》的故事以来自月球苏菲亚王国的公主菲娜·法姆·阿修莱特为中心。其中菲娜为了能够学习更多关于地球的知识，给继任苏菲亚王国的王位作准备。来到地球留学，并寄宿在地球联邦大总统的首席秘书家中。\r\n（TV版第3话第14分钟引起话题。）",
       "name": "夜明け前より瑠璃色な ～Crescent Love～",
@@ -1190,7 +1220,6 @@
         "手冢まき",
         "搞笑",
         "日本",
-        "日本动画",
         "治愈",
         "海原エレナ",
         "游戏改",
@@ -1200,6 +1229,7 @@
         "童梦",
         "远野そよぎ",
         "雷",
+        "青岛崇",
         "高丽菜"
       ],
       "infobox": [
@@ -1236,6 +1266,10 @@
           "value": "2006年12月20日"
         },
         {
+          "key": "导演",
+          "value": "太田雅彦"
+        },
+        {
           "key": "原作",
           "value": "オーガスト"
         },
@@ -1246,10 +1280,6 @@
         {
           "key": "脚本",
           "value": "あおしまたかし、子安秀明"
-        },
-        {
-          "key": "导演",
-          "value": "太田雅彦"
         },
         {
           "key": "人物设定",
@@ -1263,6 +1293,12 @@
       "total_episodes": 12,
       "id": 2319,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1310,20 +1346,6 @@
           "relation": "原声集",
           "type": 3,
           "id": 122064
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/29/354599_NNjdB.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/29/354599_NNjdB.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f0/29/354599_NNjdB.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/29/354599_NNjdB.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/29/354599_NNjdB.jpg"
-          },
-          "name": "夜明け前より瑠璃色な",
-          "name_cn": "夜明前的琉璃色",
-          "relation": "书籍",
-          "type": 1,
-          "id": 354599
         }
       ]
     }
@@ -1352,8 +1374,6 @@
         "乙女",
         "乙女向",
         "古典乐",
-        "吉田玲子",
-        "后宫",
         "女尊后宫",
         "女性向",
         "少女",
@@ -1361,11 +1381,13 @@
         "岸尾",
         "岸尾大辅",
         "恋爱",
+        "日本",
         "日本动画",
         "暗荣",
         "校园",
         "森田成一",
         "游戏改",
+        "游改",
         "福山润",
         "福山潤",
         "美型",
@@ -1413,6 +1435,10 @@
           "value": "2007年3月25日"
         },
         {
+          "key": "导演",
+          "value": "於地紘仁"
+        },
+        {
           "key": "监修",
           "value": "ルビー・パーティー"
         },
@@ -1429,10 +1455,6 @@
           "value": "ゆめ太カンパニー"
         },
         {
-          "key": "导演",
-          "value": "於地紘仁"
-        },
-        {
           "key": "人物设定",
           "value": "藤岡真紀"
         }
@@ -1440,6 +1462,12 @@
       "total_episodes": 26,
       "id": 1985,
       "eps": 25,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "女性向",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1903,6 +1931,7 @@
         "2006",
         "2006年10月",
         "2006年秋",
+        "2006秋",
         "6分",
         "AIC",
         "GONZO",
@@ -1914,13 +1943,12 @@
         "剧情",
         "动画",
         "半年番",
-        "半年番組",
         "南瓜剪刀",
         "坑",
         "女性主人公",
         "战争",
         "战斗",
-        "新番记录",
+        "日本",
         "日本动画",
         "漫改",
         "漫画改",
@@ -2006,6 +2034,11 @@
       "total_episodes": 24,
       "id": 5490,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2090,7 +2123,6 @@
       "tags": [
         "2006",
         "2006年10月",
-        "JUMP",
         "L",
         "MADHouse",
         "TV",
@@ -2107,6 +2139,7 @@
         "悬疑",
         "推理",
         "新世界的神",
+        "日本",
         "智斗",
         "月L生死恋",
         "死了都要写",
@@ -2157,12 +2190,12 @@
           "value": "2007年6月27日"
         },
         {
-          "key": "原作",
-          "value": "大場つぐみ、小畑健"
-        },
-        {
           "key": "导演",
           "value": "荒木哲郎"
+        },
+        {
+          "key": "原作",
+          "value": "大場つぐみ、小畑健"
         },
         {
           "key": "CG 导演",
@@ -2208,6 +2241,13 @@
       "total_episodes": 37,
       "id": 1773,
       "eps": 37,
+      "meta_tags": [
+        "悬疑",
+        "TV",
+        "日本",
+        "推理",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2227,6 +2267,20 @@
           "relation": "其他",
           "type": 3,
           "id": 125641
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/b6/522250_G6Mmo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/b6/522250_G6Mmo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/b6/522250_G6Mmo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/b6/522250_G6Mmo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/b6/522250_G6Mmo.jpg"
+          },
+          "name": "DEATH NOTE Killer Within",
+          "name_cn": "DEATH NOTE 暗影任务",
+          "relation": "游戏",
+          "type": 4,
+          "id": 522250
         },
         {
           "images": {
@@ -2545,7 +2599,6 @@
         "2006",
         "2006年",
         "2006年10月",
-        "2006秋",
         "TV",
         "TVA",
         "くじびき♥アンバランス",
@@ -2556,8 +2609,9 @@
         "亚细亚堂",
         "亜細亜堂",
         "剧中剧",
+        "动画",
         "原创",
-        "季番",
+        "后宫",
         "小清水亜美",
         "搞笑",
         "日本",
@@ -2618,12 +2672,16 @@
           "value": "2006年12月22日"
         },
         {
-          "key": "原作",
-          "value": "木尾士目"
-        },
-        {
           "key": "导演",
           "value": "水島努"
+        },
+        {
+          "key": "音乐",
+          "value": "長谷川智樹"
+        },
+        {
+          "key": "原作",
+          "value": "木尾士目"
         },
         {
           "key": "系列构成",
@@ -2654,10 +2712,6 @@
           "value": "明田川仁"
         },
         {
-          "key": "音乐",
-          "value": "長谷川智樹"
-        },
-        {
           "key": "音乐制作",
           "value": "ランティス"
         },
@@ -2685,6 +2739,11 @@
       "total_episodes": 12,
       "id": 3102,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2878,17 +2937,22 @@
           "value": "2007年3月28日"
         },
         {
-          "key": "原作",
-          "value": "和月伸宏"
-        },
-        {
           "key": "导演",
           "value": "加戸誉夫"
+        },
+        {
+          "key": "原作",
+          "value": "和月伸宏"
         }
       ],
       "total_episodes": 26,
       "id": 1274,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2971,7 +3035,6 @@
       "name": "RED GARDEN",
       "name_cn": "血色花园",
       "tags": [
-        "2000s",
         "2006",
         "2006年",
         "2006年10月",
@@ -2979,7 +3042,6 @@
         "2014",
         "GONZO",
         "TV",
-        "☆",
         "千住明",
         "原创",
         "奇幻",
@@ -2991,7 +3053,9 @@
         "悬疑推理",
         "战斗",
         "新谷良子",
+        "日本",
         "日番",
+        "未下载",
         "松尾衡",
         "欧风",
         "沢城みゆき",
@@ -3028,12 +3092,16 @@
           "value": "2007年3月13日"
         },
         {
-          "key": "原作",
-          "value": "GONZO"
-        },
-        {
           "key": "导演",
           "value": "松尾衡"
+        },
+        {
+          "key": "音乐",
+          "value": "千住明"
+        },
+        {
+          "key": "原作",
+          "value": "GONZO"
         },
         {
           "key": "系列构成",
@@ -3068,10 +3136,6 @@
           "value": "亀山俊樹"
         },
         {
-          "key": "音乐",
-          "value": "千住明"
-        },
-        {
           "key": "音乐制作",
           "value": "フューチャービジョンミュージック"
         },
@@ -3087,6 +3151,11 @@
       "total_episodes": 22,
       "id": 3743,
       "eps": 22,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3242,6 +3311,7 @@
         "强烈要求第二季",
         "战斗",
         "搞笑",
+        "日本",
         "校园",
         "桃子",
         "欢乐",
@@ -3253,7 +3323,6 @@
         "耻",
         "草尾毅",
         "补番",
-        "高桥广树",
         "鹿野优以"
       ],
       "infobox": [
@@ -3293,16 +3362,20 @@
           "value": "2007年3月15日"
         },
         {
+          "key": "导演",
+          "value": "中西伸彰"
+        },
+        {
+          "key": "音乐",
+          "value": "4－EVER"
+        },
+        {
           "key": "Copyright",
           "value": "大高忍/スクウェアエニックス・すもも製作委員会"
         },
         {
           "key": "原作",
           "value": "大高忍"
-        },
-        {
-          "key": "导演",
-          "value": "中西伸彰"
         },
         {
           "key": "系列构成",
@@ -3329,10 +3402,6 @@
           "value": "高橋剛"
         },
         {
-          "key": "音乐",
-          "value": "4－EVER"
-        },
-        {
           "key": "音乐制作",
           "value": "Lantis"
         },
@@ -3348,6 +3417,11 @@
       "total_episodes": 24,
       "id": 6848,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3527,16 +3601,20 @@
           "value": "2007年7月28日"
         },
         {
+          "key": "导演",
+          "value": "谷口悟朗"
+        },
+        {
+          "key": "音乐",
+          "value": "中川幸太郎、黒石ひとみ"
+        },
+        {
           "key": "Copyright",
           "value": "（C）2006 SUNRISE inc./MBS"
         },
         {
           "key": "总话数",
           "value": "27(25话本篇+2话总集篇)"
-        },
-        {
-          "key": "导演",
-          "value": "谷口悟朗"
         },
         {
           "key": "系列构成",
@@ -3567,10 +3645,6 @@
           "value": "浦上靖夫、井澤基"
         },
         {
-          "key": "音乐",
-          "value": "中川幸太郎、黒石ひとみ"
-        },
-        {
           "key": "音乐制作",
           "value": "オーディオ・プランニング・ユー"
         },
@@ -3590,6 +3664,13 @@
       "total_episodes": 27,
       "id": 793,
       "eps": 25,
+      "meta_tags": [
+        "机战",
+        "TV",
+        "日本",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3732,7 +3813,7 @@
           },
           "name": "コードギアス 双貌のオズ SIDE：オルドリン",
           "name_cn": "Code Geass 双面的奥兹 SIDE:奥尔德林",
-          "relation": "相同世界观",
+          "relation": "书籍",
           "type": 1,
           "id": 156933
         },
@@ -3912,8 +3993,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/e4/250372_lr1qD.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/e4/250372_lr1qD.jpg"
           },
-          "name": "雀魂麻将",
-          "name_cn": "",
+          "name": "雀魂麻將",
+          "name_cn": "雀魂麻将",
           "relation": "角色出演",
           "type": 4,
           "id": 250372
@@ -4410,11 +4491,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/11/8814_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/11/8814_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/15/11/8814_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/11/8814_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/11/8814_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/11/8814_85tb5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/11/8814_85tb5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/11/8814_85tb5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/11/8814_85tb5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/11/8814_85tb5.jpg"
           },
           "name": "コードギアス 反逆のルルーシュ O.S.T.2",
           "name_cn": "Code Geass 叛逆的鲁鲁修 OST2",
@@ -4558,32 +4639,32 @@
         "2006-10",
         "2006年",
         "2006年10月",
+        "2006秋",
         "TV",
         "ZEXCS",
+        "tv-s",
+        "优先级c",
+        "六分",
+        "半年番",
+        "套路",
         "子安武人",
+        "小说改",
+        "小里大辅",
         "恋爱",
         "战斗",
-        "日本动画",
+        "新番记录",
+        "日本",
         "普通",
-        "有空再補1",
         "木村亚希子",
         "校园",
-        "楠大典",
         "正太",
         "清水愛",
-        "清水爱",
-        "猪口有佳",
         "真田アサミ",
-        "立花慎之介",
         "给阿护女神的祝福",
         "能登麻美子",
-        "补",
-        "补番",
         "赐予护女神的祝福",
         "轻小说改",
-        "轻改",
-        "高桥美佳子",
-        "高橋美佳子"
+        "轻改"
       ],
       "infobox": [
         {
@@ -4617,6 +4698,11 @@
       "total_episodes": 24,
       "id": 19594,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4786,11 +4872,11 @@
         "帅呀",
         "平安时代",
         "式神",
+        "日本",
         "日本动画",
         "热血",
         "甲斐田ゆき",
         "石田彰",
-        "福山潤",
         "红莲",
         "耽美",
         "腐",
@@ -4834,12 +4920,12 @@
           "value": "2007年3月27日"
         },
         {
-          "key": "原作",
-          "value": "結城光流"
-        },
-        {
           "key": "导演",
           "value": "森邦宏"
+        },
+        {
+          "key": "原作",
+          "value": "結城光流"
         },
         {
           "key": "系列构成",
@@ -4865,6 +4951,11 @@
       "total_episodes": 26,
       "id": 4374,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5049,21 +5140,21 @@
         "2006年",
         "2006年10月",
         "AIC",
-        "AIC_ASTA",
         "GAL改",
         "TNK",
+        "TNK、AIC",
         "TV",
+        "tv-s",
         "ティー・エヌ・ケー",
         "中原麻衣",
         "偶像",
         "傲娇",
         "元永慶太郎",
-        "动画",
         "原创",
-        "可看可不看",
         "后宫",
         "季番",
         "川澄绫子",
+        "日本",
         "游戏改",
         "游改",
         "滝晃一",
@@ -5110,6 +5201,10 @@
           "value": "元永慶太郎"
         },
         {
+          "key": "音乐",
+          "value": "福井弘武"
+        },
+        {
           "key": "系列构成",
           "value": "滝晃一"
         },
@@ -5146,10 +5241,6 @@
           "value": "蝦名恭範"
         },
         {
-          "key": "音乐",
-          "value": "福井弘武"
-        },
-        {
           "key": "音乐制作",
           "value": "ランティス"
         },
@@ -5158,9 +5249,13 @@
           "value": "らぶドル製作委員会(エイベックス・エンタテインメント、エンターブレイン、ポニーキャニオンエンタープライズ、フィフスアベニュー)"
         }
       ],
-      "total_episodes": 13,
+      "total_episodes": 14,
       "id": 10456,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5467,6 +5562,7 @@
       "name": "ゴーストハント",
       "name_cn": "奇幻贵公子",
       "tags": [
+        "00年代",
         "2006",
         "2006年",
         "2006年10月",
@@ -5476,8 +5572,8 @@
         "Hunt",
         "J.C.STAFF",
         "TV",
+        "冈本信彦",
         "动画",
-        "名塚佳織",
         "増田俊郎",
         "奇幻",
         "奇幻灵异",
@@ -5493,7 +5589,6 @@
         "灵异",
         "猎奇",
         "真野玲",
-        "补番",
         "轻小说改",
         "轻改",
         "钉宫理惠"
@@ -5539,12 +5634,12 @@
           "value": "2007年3月27日"
         },
         {
-          "key": "原作",
-          "value": "小野不由美、いなだ詩穂（KCなかよし・講談社漫画文庫刊）"
-        },
-        {
           "key": "导演",
           "value": "真野玲"
+        },
+        {
+          "key": "原作",
+          "value": "小野不由美、いなだ詩穂（KCなかよし・講談社漫画文庫刊）"
         },
         {
           "key": "音响监督",
@@ -5586,6 +5681,13 @@
       "total_episodes": 25,
       "id": 1531,
       "eps": 25,
+      "meta_tags": [
+        "惊悚",
+        "TV",
+        "日本",
+        "恐怖",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5662,7 +5764,7 @@
         "TV",
         "トムス・エンタテインメント",
         "亀垣一",
-        "动画",
+        "关智一",
         "友情",
         "史上最強弟子",
         "小强",
@@ -5727,16 +5829,16 @@
           "value": "2007年9月29日"
         },
         {
+          "key": "导演",
+          "value": "亀垣一"
+        },
+        {
           "key": "原作",
           "value": "松江名俊"
         },
         {
           "key": "动画制作",
           "value": "トムス・エンタテインメント"
-        },
-        {
-          "key": "导演",
-          "value": "亀垣一"
         },
         {
           "key": "人物设定",
@@ -5746,6 +5848,11 @@
       "total_episodes": 50,
       "id": 10704,
       "eps": 50,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5933,23 +6040,23 @@
         "SHAFT",
         "TV",
         "neta",
-        "动画",
         "半年番",
         "原作粉碎机",
         "后宫",
-        "堀江由衣",
         "大沼心",
         "奇幻",
         "搞笑",
         "斎藤千和",
         "新房昭之",
+        "日本",
         "日本动画",
         "校园",
         "涅吉",
         "漫改",
         "漫画改",
         "班级规模后宫",
-        "白石涼子",
+        "神田朱未",
+        "续作",
         "能登麻美子",
         "补番",
         "赤松健",
@@ -6000,12 +6107,16 @@
           "value": "2007年3月28日"
         },
         {
-          "key": "原作",
-          "value": "赤松健"
-        },
-        {
           "key": "导演",
           "value": "新房昭之"
+        },
+        {
+          "key": "音乐",
+          "value": "羽岡佳"
+        },
+        {
+          "key": "原作",
+          "value": "赤松健"
         },
         {
           "key": "系列构成",
@@ -6052,10 +6163,6 @@
           "value": "鶴岡陽太"
         },
         {
-          "key": "音乐",
-          "value": "羽岡佳"
-        },
-        {
           "key": "制片人",
           "value": "東不可止、中西豪、池田慎一"
         },
@@ -6095,6 +6202,12 @@
       "total_episodes": 26,
       "id": 8219,
       "eps": 26,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6348,7 +6461,6 @@
         "少年向",
         "战斗",
         "打斗类",
-        "日本动画",
         "星野桂",
         "有中國人",
         "樱井孝宏",
@@ -6358,6 +6470,7 @@
         "美型",
         "能力类",
         "诺亚",
+        "铃村健一",
         "长篇",
         "驱魔少年",
         "驱魔师"
@@ -6400,6 +6513,14 @@
           "value": "2008年9月30日"
         },
         {
+          "key": "导演",
+          "value": "鍋島修"
+        },
+        {
+          "key": "音乐",
+          "value": "和田薫"
+        },
+        {
           "key": "Copyright",
           "value": "©星野桂／集英社・テレビ東京・電通・TMS"
         },
@@ -6408,20 +6529,12 @@
           "value": "星野桂"
         },
         {
-          "key": "导演",
-          "value": "鍋島修"
-        },
-        {
           "key": "系列构成",
           "value": "吉田玲子"
         },
         {
           "key": "人物设定",
           "value": "守岡英行"
-        },
-        {
-          "key": "音乐",
-          "value": "和田薫"
         },
         {
           "key": "音响监督",
@@ -6443,6 +6556,12 @@
       "total_episodes": 103,
       "id": 488,
       "eps": 103,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "少年向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6725,11 +6844,11 @@
       "date": "2006-10-12",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/f0/529_Hh7yF.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/f0/529_Hh7yF.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/37/f0/529_Hh7yF.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/f0/529_Hh7yF.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/f0/529_Hh7yF.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/f0/529_emtDU.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/f0/529_emtDU.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/37/f0/529_emtDU.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/f0/529_emtDU.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/f0/529_emtDU.jpg"
       },
       "summary": "周刊JIDAI的编辑松方弘子（28岁），废寝忘食，以惊人气势埋头工作的她被人称为“工作狂”。\r\n进入工作模式后，男性开关打开，进入不修边幅的状态。连和恋人新二见面的时间都没有，一边为工作的窘境而烦恼，和周围的人碰撞，一边通过工作成长。\r\n这部作品通过描写弘子和她相关的各种各样的劳动者，传达着工作的乐趣。",
       "name": "働きマン",
@@ -6744,7 +6863,9 @@
         "noitaminA",
         "ぎゃろっぷ",
         "为工作被甩了也在所不惜",
+        "二星",
         "动",
+        "大岛里美",
         "季番",
         "安野梦洋子",
         "小野勝巳",
@@ -6754,7 +6875,6 @@
         "日剧题材动画",
         "日本",
         "日本动画",
-        "旧物",
         "漫改",
         "漫画改",
         "田中理恵",
@@ -6763,8 +6883,7 @@
         "编辑",
         "菅野祐悟",
         "补番",
-        "补番计划",
-        "长剧集"
+        "补番计划"
       ],
       "infobox": [
         {
@@ -6796,12 +6915,12 @@
           "value": "2006年12月21日"
         },
         {
-          "key": "原作",
-          "value": "安野モヨコ"
-        },
-        {
           "key": "导演",
           "value": "小野勝巳"
+        },
+        {
+          "key": "原作",
+          "value": "安野モヨコ"
         },
         {
           "key": "人物设定",
@@ -6815,6 +6934,11 @@
       "total_episodes": 11,
       "id": 529,
       "eps": 11,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6907,15 +7031,15 @@
         "伊藤郁子",
         "伊藤静",
         "光宗信吉",
-        "动画",
         "后天的方向",
         "奇幻",
+        "季番",
+        "小林七郎",
         "很治愈",
         "换魂",
         "日常",
         "日本",
         "日本动画",
-        "日野聪",
         "桜美かつし",
         "樱美胜志",
         "水上清資",
@@ -6970,12 +7094,16 @@
           "value": "2006年12月21日"
         },
         {
-          "key": "原作",
-          "value": "山田J太「あさっての方向。」 (マッグガーデン「コミックブレイドMASAMUNE」连载)"
-        },
-        {
           "key": "导演",
           "value": "桜美かつし"
+        },
+        {
+          "key": "音乐",
+          "value": "光宗信吉"
+        },
+        {
+          "key": "原作",
+          "value": "山田J太「あさっての方向。」 (マッグガーデン「コミックブレイドMASAMUNE」连载)"
         },
         {
           "key": "系列构成",
@@ -7010,10 +7138,6 @@
           "value": "楽音舎"
         },
         {
-          "key": "音乐",
-          "value": "光宗信吉"
-        },
-        {
           "key": "音乐制作",
           "value": "ランティス"
         },
@@ -7037,6 +7161,11 @@
       "total_episodes": 12,
       "id": 2881,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7134,7 +7263,6 @@
       "name_cn": "月桂树的王子们",
       "tags": [
         "2006",
-        "2006-10",
         "2006年",
         "2006年10月",
         "2006秋",
@@ -7143,13 +7271,14 @@
         "GONZINO",
         "GONZINO、TOKYOKIDS",
         "TV",
-        "TVA",
         "ゴンジーノ",
         "东京Kids",
         "半年番",
         "原创",
         "基",
+        "声优",
         "声优阵容强大",
+        "日常",
         "日本",
         "日本动画",
         "早坂律子",
@@ -7197,12 +7326,12 @@
           "value": "2006年10月25日"
         },
         {
-          "key": "Copyright",
-          "value": "GDH, Tokyo Kids"
-        },
-        {
           "key": "导演",
           "value": "稲垣隆行"
+        },
+        {
+          "key": "Copyright",
+          "value": "GDH, Tokyo Kids"
         },
         {
           "key": "系列构成",
@@ -7212,6 +7341,12 @@
       "total_episodes": 14,
       "id": 20865,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "乙女",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7259,7 +7394,7 @@
         "SUNRISE",
         "TV",
         "WEB",
-        "『ONA』",
+        "pity",
         "サンライズ",
         "佐藤利奈",
         "南里侑香",
@@ -7270,10 +7405,10 @@
         "宮下隼一时代剧",
         "幕末",
         "幕末机关说～伊吕波歌",
-        "意外地很喜欢",
         "时代剧",
         "未下载",
         "机关说",
+        "架空历史剧",
         "浪川大辅",
         "深泽秀行",
         "深澤秀行",
@@ -7352,6 +7487,9 @@
       "total_episodes": 26,
       "id": 4195,
       "eps": 26,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7449,9 +7587,9 @@
       "name_cn": "天保异闻妖奇士",
       "tags": [
         "2006",
-        "2006年",
         "2006年10月7日",
         "2006年秋季番",
+        "2006秋",
         "BONES",
         "B站",
         "TV",
@@ -7459,13 +7597,13 @@
         "会川升",
         "会川昇",
         "动画",
-        "单元剧",
         "原创",
         "原創",
         "大谷幸",
         "奇幻",
         "川島得愛",
         "年番腰斩",
+        "日本",
         "會川昇",
         "有空再補1",
         "神魔",
@@ -7487,6 +7625,9 @@
         {
           "key": "别名",
           "value": [
+            {
+              "v": "Tenpouibun Ayakashiayashi"
+            },
             {
               "v": "Ghost Slayers Ayashi"
             }
@@ -7517,16 +7658,16 @@
           "value": "2007年3月31日"
         },
         {
+          "key": "导演",
+          "value": "錦織博"
+        },
+        {
           "key": "Copyright",
           "value": "©會川昇・BONES／毎日放送・アニプレックス・電通"
         },
         {
           "key": "原作",
           "value": "會川昇・BONES"
-        },
-        {
-          "key": "导演",
-          "value": "錦織博"
         },
         {
           "key": "企画",
@@ -7548,6 +7689,11 @@
       "total_episodes": 25,
       "id": 10099,
       "eps": 25,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7675,7 +7821,6 @@
         "2006",
         "2006年",
         "2006年10月",
-        "6分",
         "GAL",
         "GAL改",
         "Gift",
@@ -7693,6 +7838,7 @@
         "恋爱",
         "改编",
         "日常",
+        "日本",
         "校园",
         "永不消失的彩虹",
         "清水爱",
@@ -7740,12 +7886,16 @@
           "value": "2006年12月21日"
         },
         {
-          "key": "原作",
-          "value": "MOONSTONE"
-        },
-        {
           "key": "导演",
           "value": "きみやしげる（Big・Unit）"
+        },
+        {
+          "key": "音乐",
+          "value": "七瀬光"
+        },
+        {
+          "key": "原作",
+          "value": "MOONSTONE"
         },
         {
           "key": "企画",
@@ -7780,10 +7930,6 @@
           "value": "高桑一"
         },
         {
-          "key": "音乐",
-          "value": "七瀬光"
-        },
-        {
           "key": "音乐制作",
           "value": "Lantis"
         },
@@ -7803,6 +7949,12 @@
       "total_episodes": 13,
       "id": 4240,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7937,7 +8089,7 @@
         "片渊须直",
         "片渕須直",
         "犯罪",
-        "第二季",
+        "续作",
         "黑帮",
         "黑礁",
         "黑礁双子",
@@ -7982,12 +8134,12 @@
           "value": "2006年12月18日"
         },
         {
-          "key": "原作",
-          "value": "広江礼威（小学館刊『月刊サンデージェネックス』連載）"
-        },
-        {
           "key": "导演",
           "value": "片渕須直"
+        },
+        {
+          "key": "原作",
+          "value": "広江礼威（小学館刊『月刊サンデージェネックス』連載）"
         },
         {
           "key": "CGI制作人",
@@ -8033,6 +8185,12 @@
       "total_episodes": 12,
       "id": 980,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8094,6 +8252,20 @@
           "relation": "衍生",
           "type": 2,
           "id": 64276
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/1b/469393_M3i7C.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/1b/469393_M3i7C.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/1b/469393_M3i7C.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/1b/469393_M3i7C.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/1b/469393_M3i7C.jpg"
+          },
+          "name": "BLACK LAGOON Heaven's Shot",
+          "name_cn": "黑礁 天堂之枪",
+          "relation": "游戏",
+          "type": 4,
+          "id": 469393
         }
       ]
     }
@@ -8118,23 +8290,24 @@
         "2006",
         "2006年",
         "2006年10月",
+        "2016年10月",
         "ArtLand",
         "GAL",
         "GAL改",
         "Happiness!",
         "TV",
-        "tv-s",
         "五分",
         "伊藤静",
+        "优先级G",
         "伪娘",
         "准",
         "凖",
-        "北都南",
         "后宫",
         "崩坏",
         "恋爱",
         "搞笑",
         "日常",
+        "日本",
         "校园",
         "游戏改",
         "游改",
@@ -8179,12 +8352,12 @@
           "value": "2006年12月21日"
         },
         {
-          "key": "原作",
-          "value": "ういんどみる"
-        },
-        {
           "key": "导演",
           "value": "原博"
+        },
+        {
+          "key": "原作",
+          "value": "ういんどみる"
         },
         {
           "key": "系列构成",
@@ -8198,6 +8371,11 @@
       "total_episodes": 12,
       "id": 8233,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8287,6 +8465,20 @@
           "relation": "其他",
           "type": 3,
           "id": 513821
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/55/91/522371_JO5wh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/55/91/522371_JO5wh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/55/91/522371_JO5wh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/55/91/522371_JO5wh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/55/91/522371_JO5wh.jpg"
+          },
+          "name": "はぴねす! Vocal Collection",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 522371
         }
       ]
     }
@@ -8372,6 +8564,11 @@
       "total_episodes": 13,
       "id": 12970,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8450,7 +8647,6 @@
         "原创",
         "反思用",
         "地少，能登，阎魔爱",
-        "地狱",
         "地狱少女",
         "地獄少女",
         "地獄少女二籠",
@@ -8460,6 +8656,7 @@
         "彼岸花",
         "悬疑",
         "想死一次吗",
+        "日本",
         "治愈",
         "社会",
         "社會問題",
@@ -8516,6 +8713,11 @@
       "total_episodes": 26,
       "id": 1261,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8729,16 +8931,20 @@
           "value": "2010年9月25日"
         },
         {
+          "key": "导演",
+          "value": "今泉賢一"
+        },
+        {
+          "key": "音乐",
+          "value": "佐橋俊彦"
+        },
+        {
           "key": "Copyright",
           "value": "©天野明／集英社・テレビ東京・リボーン製作委員会"
         },
         {
           "key": "原作",
           "value": "天野明"
-        },
-        {
-          "key": "导演",
-          "value": "今泉賢一"
         },
         {
           "key": "监修",
@@ -8781,10 +8987,6 @@
           "value": "西山茂→坪根健太郎"
         },
         {
-          "key": "音乐",
-          "value": "佐橋俊彦"
-        },
-        {
           "key": "动画制作",
           "value": "ARTLAND"
         },
@@ -8800,6 +9002,12 @@
       "total_episodes": 203,
       "id": 4562,
       "eps": 203,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -9899,11 +10107,11 @@
         "人生",
         "今川泰宏",
         "单元剧",
+        "大嶽香子",
         "季番",
         "日常",
         "日本",
         "日本动画",
-        "木下裕孝",
         "水岛大宙",
         "治愈",
         "治愈系",
@@ -10004,6 +10212,12 @@
       "total_episodes": 11,
       "id": 2281,
       "eps": 11,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10104,6 +10318,7 @@
         "2006年",
         "2006年10月",
         "2006秋",
+        "2014",
         "TV",
         "TVA",
         "今川泰宏",
@@ -10111,6 +10326,8 @@
         "原哲夫",
         "山口美浩",
         "山寺宏一",
+        "战斗",
+        "日本",
         "日本动画",
         "漫改",
         "漫画改",
@@ -10141,6 +10358,11 @@
       "total_episodes": 26,
       "id": 58984,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10286,6 +10508,10 @@
       "total_episodes": 26,
       "id": 12785,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10294,11 +10520,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_4Yff9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_4Yff9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_4Yff9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/81/12784_4Yff9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/81/12784_4Yff9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/81/12784_7lwS8.jpg"
           },
           "name": "銀河鉄道物語",
           "name_cn": "银河铁道物语",
@@ -10459,6 +10685,10 @@
       "total_episodes": 51,
       "id": 165395,
       "eps": 51,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10561,16 +10791,16 @@
           "value": "2006年12月21日"
         },
         {
+          "key": "导演",
+          "value": "所勝美"
+        },
+        {
           "key": "原作",
           "value": "東堂いづみ"
         },
         {
           "key": "企画",
           "value": "山本良生、大森敏胜、川岛晴男、森下孝三"
-        },
-        {
-          "key": "导演",
-          "value": "所勝美"
         },
         {
           "key": "人物设定",
@@ -10588,6 +10818,10 @@
       "total_episodes": 12,
       "id": 20002,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10620,7 +10854,6 @@
         "TV",
         "TV完结",
         "sunako！！！",
-        "ワタナベシンイチ",
         "乙女",
         "乙女向",
         "作画崩坏",
@@ -10636,6 +10869,7 @@
         "恋爱",
         "搞笑",
         "日本アニメーション",
+        "日本动画公司",
         "校园",
         "治愈",
         "漫改",
@@ -10674,12 +10908,16 @@
           "value": "2007年3月27日"
         },
         {
-          "key": "原作",
-          "value": "はやかわともこ（讲谈社“别册フレンド”连载）"
-        },
-        {
           "key": "导演",
           "value": "ワタナベシンイチ"
+        },
+        {
+          "key": "音乐",
+          "value": "高梨康治、水谷広実"
+        },
+        {
+          "key": "原作",
+          "value": "はやかわともこ（讲谈社“别册フレンド”连载）"
         },
         {
           "key": "企画",
@@ -10710,10 +10948,6 @@
           "value": "早瀬博雪"
         },
         {
-          "key": "音乐",
-          "value": "高梨康治、水谷広実"
-        },
-        {
           "key": "音乐制作",
           "value": "バウンシーレコーズ"
         },
@@ -10733,6 +10967,11 @@
       "total_episodes": 25,
       "id": 1987,
       "eps": 25,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10796,6 +11035,7 @@
         "kuso",
         "neta",
         "不评分",
+        "中途棄",
         "养老",
         "单元剧",
         "原创",
@@ -10803,6 +11043,7 @@
         "奇葩向",
         "子供向",
         "搞笑",
+        "日本",
         "补番",
         "超越人类的高级生物特供作品",
         "长剧集"
@@ -10840,12 +11081,16 @@
           "value": "2007年10月11日"
         },
         {
-          "key": "原作",
-          "value": "タカラトミー（原案）"
-        },
-        {
           "key": "导演",
           "value": "石踊宏"
+        },
+        {
+          "key": "音乐",
+          "value": "原田末秋、後藤郁夫"
+        },
+        {
+          "key": "原作",
+          "value": "タカラトミー（原案）"
         },
         {
           "key": "系列构成",
@@ -10864,10 +11109,6 @@
           "value": "Cho Jang Hwan"
         },
         {
-          "key": "音乐",
-          "value": "原田末秋、後藤郁夫"
-        },
-        {
           "key": "动画制作",
           "value": "G&G Entertainment、G&G Direction"
         },
@@ -10879,6 +11120,10 @@
       "total_episodes": 52,
       "id": 11121,
       "eps": 52,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10920,10 +11165,10 @@
         "待補1",
         "战斗",
         "搞笑",
+        "日本",
         "有里番",
         "机战",
         "机战OG",
-        "机甲",
         "水谷优子",
         "游戏改",
         "游戏改编",
@@ -10973,16 +11218,20 @@
           "value": "2007年3月28日"
         },
         {
+          "key": "导演",
+          "value": "角銅博之"
+        },
+        {
+          "key": "音乐",
+          "value": "平野義久、鶴山尚史、花岡拓也"
+        },
+        {
           "key": "Copyright",
           "value": "©SRWOG PROJECT"
         },
         {
           "key": "原作",
           "value": "SRプロデュースチーム"
-        },
-        {
-          "key": "导演",
-          "value": "角銅博之"
         },
         {
           "key": "企画",
@@ -11021,10 +11270,6 @@
           "value": "高寺たけし"
         },
         {
-          "key": "音乐",
-          "value": "平野義久、鶴山尚史、花岡拓也"
-        },
-        {
           "key": "动画制作",
           "value": "OLM TEAM IWASA"
         },
@@ -11036,6 +11281,11 @@
       "total_episodes": 26,
       "id": 3283,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11237,6 +11487,7 @@
         "TV",
         "こだま兼嗣",
         "动画",
+        "华娱卫视",
         "吉野裕行",
         "大野木寛",
         "奇幻",
@@ -11247,7 +11498,6 @@
         "岩崎琢",
         "慢热",
         "战斗",
-        "日本动画",
         "时音",
         "漫改",
         "漫画改",
@@ -11303,16 +11553,20 @@
           "value": "2008年2月21日"
         },
         {
+          "key": "导演",
+          "value": "こだま兼嗣"
+        },
+        {
+          "key": "音乐",
+          "value": "岩崎琢"
+        },
+        {
           "key": "Copyright",
           "value": "©田边伊卫郎/小学馆、读卖电视台、Sunrise 2006"
         },
         {
           "key": "原作",
           "value": "田辺イエロウ"
-        },
-        {
-          "key": "导演",
-          "value": "こだま兼嗣"
         },
         {
           "key": "企画",
@@ -11341,10 +11595,6 @@
         {
           "key": "音响监督",
           "value": "木村絵理子"
-        },
-        {
-          "key": "音乐",
-          "value": "岩崎琢"
         },
         {
           "key": "音乐制作",
@@ -11386,6 +11636,11 @@
       "total_episodes": 52,
       "id": 3156,
       "eps": 52,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11524,13 +11779,14 @@
       "name": "トップをねらえ! 劇場版",
       "name_cn": "飞跃巅峰！剧场版",
       "tags": [
-        "2000-2009",
+        "1989",
         "2000s",
         "2006",
         "2006年",
         "2006年10月",
         "GAINAX",
         "OVA",
+        "robo",
         "剧场版",
         "劇場版",
         "动画",
@@ -11539,7 +11795,6 @@
         "岡田斗司夫",
         "庵野秀明",
         "总集篇",
-        "战争",
         "战斗",
         "日本",
         "日本动画",
@@ -11612,6 +11867,11 @@
       "total_episodes": 1,
       "id": 5997,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11689,7 +11949,6 @@
         "HOOKSOFT",
         "OP不错",
         "OVA",
-        "OVA-01",
         "ovaoad",
         "ゲーム原作",
         "一色光",
@@ -11705,6 +11964,7 @@
         "日本",
         "校园",
         "游戏改",
+        "游戏改编",
         "独立ova",
         "补番",
         "近藤隆",
@@ -11824,6 +12084,10 @@
       "total_episodes": 4,
       "id": 9733,
       "eps": 2,
+      "meta_tags": [
+        "OVA",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11893,18 +12157,20 @@
       "name_cn": "魔法老师涅吉!?春",
       "tags": [
         "2006",
+        "2006年10月",
         "2006年OVA·OAD",
         "GANSIS",
         "OVA",
-        "OVA-01",
         "SHAFT",
         "ガンジス",
         "世纪初",
         "动画",
         "后宫",
+        "堀江由衣",
         "大沼心",
         "大田和宽",
         "奇幻",
+        "已下载",
         "新房昭之",
         "新番记录",
         "日本",
@@ -11914,11 +12180,9 @@
         "漫改",
         "漫画改",
         "百合",
-        "神田朱未",
         "肉",
         "补番",
         "赤松健",
-        "超自然系",
         "金卷兼一",
         "魔法",
         "魔法老师"
@@ -12025,7 +12289,7 @@
         },
         {
           "key": "分镜",
-          "value": "大沼心（NC）"
+          "value": "新房昭之"
         },
         {
           "key": "演出",
@@ -12043,6 +12307,10 @@
       "total_episodes": 1,
       "id": 17120,
       "eps": 1,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -12153,6 +12421,9 @@
       "total_episodes": 1,
       "id": 112660,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -12195,6 +12466,7 @@
       "tags": [
         "2007",
         "OPED",
+        "TV",
         "东映动画",
         "子供向",
         "東映アニメーション"
@@ -12224,6 +12496,10 @@
       "total_episodes": 46,
       "id": 293624,
       "eps": 46,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -12528,12 +12804,12 @@
       "name": "トップをねらえ2! 劇場版",
       "name_cn": "飞跃巅峰2！剧场版",
       "tags": [
+        "2000s",
         "2006",
         "2006年",
         "2006年10月",
         "GAINAX",
         "OVA",
-        "robo",
         "剧场版",
         "劇場版",
         "动画",
@@ -12620,6 +12896,10 @@
       "total_episodes": 1,
       "id": 5998,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -12696,7 +12976,6 @@
         "PC",
         "RPG",
         "■5",
-        "☆",
         "一般向",
         "中国",
         "主线一点点，支线巨多",
@@ -12710,6 +12989,7 @@
         "改设定",
         "方块游戏",
         "武侠RPG",
+        "游戏",
         "軒轅劍",
         "轩五三部曲",
         "轩辕剑",
@@ -12752,6 +13032,11 @@
       "total_episodes": 0,
       "id": 1914,
       "eps": 0,
+      "meta_tags": [
+        "RPG",
+        "PC",
+        "游戏"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -12766,8 +13051,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/26/1654_3TV6i.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/26/1654_3TV6i.jpg"
           },
-          "name": "軒轅劒叁 雲和山的彼端",
-          "name_cn": "轩辕剑叁 云和山的彼端",
+          "name": "軒轅劍參 雲和山的彼端",
+          "name_cn": "轩辕剑3 云和山的彼端",
           "relation": "相同世界观",
           "type": 4,
           "id": 1654
@@ -12794,8 +13079,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/32/1915_L4DhL.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/32/1915_L4DhL.jpg"
           },
-          "name": "軒轅劒外傳：蒼之濤",
-          "name_cn": "轩辕剑外传：苍之涛",
+          "name": "軒轅劍外傳 蒼之濤",
+          "name_cn": "轩辕剑外传—苍之涛",
           "relation": "相同世界观",
           "type": 4,
           "id": 1915
@@ -12808,8 +13093,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/6a/2483_e88pE.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/6a/2483_e88pE.jpg"
           },
-          "name": "軒轅劍肆：黑龍舞兮雲飛揚",
-          "name_cn": "轩辕剑四：黑龙舞兮云飞扬",
+          "name": "軒轅劍肆 黑龍舞兮雲飛揚",
+          "name_cn": "轩辕剑肆 黑龙舞兮云飞扬",
           "relation": "相同世界观",
           "type": 4,
           "id": 2483
@@ -12823,7 +13108,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/3f/82/16417_5ta4t.jpg"
           },
           "name": "軒轅劍外傳 楓之舞",
-          "name_cn": "轩辕剑外传 枫之舞",
+          "name_cn": "轩辕剑外传—枫之舞",
           "relation": "相同世界观",
           "type": 4,
           "id": 16417
@@ -12850,7 +13135,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/07/27712_vo1xP.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/07/27712_vo1xP.jpg"
           },
-          "name": "軒轅劒贰",
+          "name": "軒轅劍貳",
           "name_cn": "轩辕剑二",
           "relation": "相同世界观",
           "type": 4,

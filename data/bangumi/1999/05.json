@@ -25,6 +25,7 @@
         "TVA",
         "robo",
         "増田ゆき",
+        "日本",
         "日本动画",
         "旧物",
         "有馬克明",
@@ -33,6 +34,7 @@
         "机甲",
         "杉田智和",
         "植田秀仁",
+        "游戏改",
         "苇PRODUCTION",
         "萝卜",
         "葦プロダクション",
@@ -64,20 +66,20 @@
           "value": "1999年10月25日"
         },
         {
-          "key": "原作",
-          "value": "松伝馬"
-        },
-        {
           "key": "导演",
           "value": "植田秀仁"
         },
         {
-          "key": "系列构成",
-          "value": "酒井あきよし"
-        },
-        {
           "key": "音乐",
           "value": "信田かずお、須藤賢一"
+        },
+        {
+          "key": "原作",
+          "value": "松伝馬"
+        },
+        {
+          "key": "系列构成",
+          "value": "酒井あきよし"
         },
         {
           "key": "动画制作",
@@ -87,6 +89,11 @@
       "total_episodes": 26,
       "id": 32165,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -170,6 +177,7 @@
       "name_cn": "日本第一男人之魂2",
       "tags": [
         "1999",
+        "1999年5月",
         "Cha研",
         "OVA",
         "TV",
@@ -184,6 +192,7 @@
         "十川誠志",
         "吉田啓良",
         "搞笑",
+        "日本",
         "日本动画",
         "旧物",
         "旧番",
@@ -226,12 +235,12 @@
           "value": "1999年5月28日"
         },
         {
-          "key": "原作",
-          "value": "喜国雅彦"
-        },
-        {
           "key": "导演",
           "value": "吉田啓良"
+        },
+        {
+          "key": "原作",
+          "value": "喜国雅彦"
         },
         {
           "key": "企画",
@@ -265,6 +274,11 @@
       "total_episodes": 16,
       "id": 2256,
       "eps": 16,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -328,11 +342,13 @@
         "StarWars",
         "个人喜好",
         "二刷",
+        "冒险",
         "剧场版",
         "动作",
         "卢卡斯",
         "天行者",
         "太空歌剧",
+        "奇幻",
         "娜塔莉波特曼",
         "明珠台",
         "星战",
@@ -418,6 +434,15 @@
       "total_episodes": 1,
       "id": 60389,
       "eps": 1,
+      "meta_tags": [
+        "美国",
+        "科幻",
+        "奇幻",
+        "动作",
+        "电影",
+        "欧美",
+        "冒险"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -535,6 +560,20 @@
           "relation": "相同世界观",
           "type": 6,
           "id": 449509
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/e0/518063_I8cvm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/e0/518063_I8cvm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4f/e0/518063_I8cvm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/e0/518063_I8cvm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/e0/518063_I8cvm.jpg"
+          },
+          "name": "Star Wars Episode I: Jedi Power Battles",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 518063
         }
       ]
     }

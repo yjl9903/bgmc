@@ -20,22 +20,22 @@
         "1999",
         "1999年",
         "1999年11月",
+        "2话",
         "90s",
         "95-99",
         "MADHouse",
         "TV",
         "TVB",
         "[NBG]",
-        "シリーズ／Di_Gi_Charat",
-        "偶像／音乐",
+        "动画",
         "原创",
-        "待補1",
+        "吐槽",
         "搞笑",
+        "数码子",
         "日本",
         "日本动画",
         "桜井弘明",
         "樱井弘明",
-        "氷上恭子",
         "沢城みゆき",
         "治愈",
         "治愈系",
@@ -105,6 +105,10 @@
           "value": "1999年12月24日"
         },
         {
+          "key": "导演",
+          "value": "桜井弘明"
+        },
+        {
           "key": "Copyright",
           "value": "©ブロッコリー·TBS"
         },
@@ -115,10 +119,6 @@
         {
           "key": "原作",
           "value": "コゲどんぼ(こげどんぼ)"
-        },
-        {
-          "key": "导演",
-          "value": "桜井弘明"
         },
         {
           "key": "人物设定",
@@ -144,12 +144,59 @@
       "total_episodes": 16,
       "id": 38072,
       "eps": 16,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/d1/525762_8Clnn.jpg"
+          },
+          "name": "デ･ジ･キャラット CD-BOX でじこのサウンドパーティー",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 525762
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/8a/525646_ff5zM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/8a/525646_ff5zM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ed/8a/525646_ff5zM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/8a/525646_ff5zM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/8a/525646_ff5zM.jpg"
+          },
+          "name": "でじこの音楽会",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 525646
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/75/525645_w2SJZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/75/525645_w2SJZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9a/75/525645_w2SJZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/75/525645_w2SJZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/75/525645_w2SJZ.jpg"
+          },
+          "name": "でじこのサウンドメッセージ",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 525645
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b6/ed/498762_0tx9z.jpg",
@@ -163,6 +210,34 @@
           "relation": "角色歌",
           "type": 3,
           "id": 498762
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/30/82369_sgSQ0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/30/82369_sgSQ0.jpg"
+          },
+          "name": "AKIBA'S TRIP 2",
+          "name_cn": "秋叶脱物语2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 82369
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/b0/91175_BOhah.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/b0/91175_BOhah.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/09/b0/91175_BOhah.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/b0/91175_BOhah.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/b0/91175_BOhah.jpg"
+          },
+          "name": "超ヒロイン戦記",
+          "name_cn": "超级女主角战记",
+          "relation": "游戏",
+          "type": 4,
+          "id": 91175
         },
         {
           "images": {
@@ -194,31 +269,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/b0/91175_BOhah.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/b0/91175_BOhah.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/09/b0/91175_BOhah.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/b0/91175_BOhah.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/b0/91175_BOhah.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/b5/41577_gWaFj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/b5/41577_gWaFj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ee/b5/41577_gWaFj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/b5/41577_gWaFj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/b5/41577_gWaFj.jpg"
           },
-          "name": "超ヒロイン戦記",
-          "name_cn": "超级女主角战记",
+          "name": "デ・ジ・キャラット ファンタジー",
+          "name_cn": "Di Gi Charat Fantasy ~仲夏夜之梦~",
           "relation": "游戏",
           "type": 4,
-          "id": 91175
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/30/82369_sgSQ0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/30/82369_sgSQ0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d8/30/82369_sgSQ0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/30/82369_sgSQ0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/30/82369_sgSQ0.jpg"
-          },
-          "name": "AKIBA'S TRIP 2",
-          "name_cn": "秋叶脱物语2",
-          "relation": "游戏",
-          "type": 4,
-          "id": 82369
+          "id": 41577
         },
         {
           "images": {
@@ -233,20 +294,6 @@
           "relation": "番外篇",
           "type": 2,
           "id": 205280
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/b5/41577_gWaFj.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/b5/41577_gWaFj.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ee/b5/41577_gWaFj.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/b5/41577_gWaFj.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/b5/41577_gWaFj.jpg"
-          },
-          "name": "デ・ジ・キャラット ファンタジー",
-          "name_cn": "Di Gi Charat Fantasy ~仲夏夜之梦~",
-          "relation": "游戏",
-          "type": 4,
-          "id": 41577
         },
         {
           "images": {
@@ -320,11 +367,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/4c/205300_U588r.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/4c/205300_U588r.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/74/4c/205300_U588r.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/4c/205300_U588r.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/4c/205300_U588r.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/4c/205300_n2ab5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/4c/205300_n2ab5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/4c/205300_n2ab5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/4c/205300_n2ab5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/4c/205300_n2ab5.jpg"
           },
           "name": "Di Gi Charat 星の旅",
           "name_cn": "Di Gi Charat 星之旅",
@@ -457,7 +504,6 @@
         "2001里番",
         "90年代",
         "OVA",
-        "OVA-03",
         "R17",
         "不到7分",
         "其他",
@@ -511,6 +557,9 @@
       "total_episodes": 3,
       "id": 48768,
       "eps": 3,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -553,7 +602,6 @@
       "tags": [
         "1990s",
         "1999",
-        "1999年",
         "1999年11月",
         "90年代",
         "Production.I.G",
@@ -571,6 +619,7 @@
         "押井守",
         "政治",
         "日本动画",
+        "日本政治",
         "映画",
         "沖浦啓之",
         "深刻",
@@ -636,6 +685,11 @@
       "total_episodes": 1,
       "id": 844,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -748,6 +802,7 @@
       "tags": [
         "2001",
         "StudioComet",
+        "TV",
         "スタジオコメット",
         "旧物"
       ],
@@ -788,6 +843,10 @@
       "total_episodes": 52,
       "id": 339977,
       "eps": 68,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -860,11 +919,11 @@
       "date": "1999-11-25",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/78/39002_eeSqU.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/78/39002_eeSqU.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/0f/78/39002_eeSqU.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/78/39002_eeSqU.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/78/39002_eeSqU.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/78/39002_ph4TV.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/78/39002_ph4TV.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0f/78/39002_ph4TV.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/78/39002_ph4TV.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/78/39002_ph4TV.jpg"
       },
       "summary": "1999年発売。テレビアニメ『ヴァイスクロイツ』の最終話の後に続くストーリー。この続きとしてドラマCD『ヴァイスクロイツ Dramatic Precious』（全4巻）がある。\r\n「Verbrechen（フェアブレッヒェン）」、「Strafe（シュトラーフェ）」の2話で完結（DVD版には2話同時収録）。タイトルはそれぞれドイツ語で「罪」と「罰」の意。",
       "name": "ヴァイスクロイツ Verbrechen / Strafe",
@@ -872,7 +931,6 @@
       "tags": [
         "1999",
         "OVA",
-        "OVA-01",
         "TV",
         "スタジオディーン",
         "三木眞一郎",
@@ -918,6 +976,9 @@
       "total_episodes": 2,
       "id": 39002,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -960,6 +1021,7 @@
       "tags": [
         "2001",
         "StudioComet",
+        "TV",
         "スタジオコメット",
         "旧物"
       ],
@@ -1000,6 +1062,10 @@
       "total_episodes": 52,
       "id": 339977,
       "eps": 68,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

@@ -81,6 +81,10 @@
       "total_episodes": 26,
       "id": 107437,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -193,6 +197,8 @@
       "tags": [
         "1970.80",
         "1974",
+        "1975",
+        "1976",
         "TV",
         "TVA",
         "アニメ",
@@ -217,7 +223,8 @@
         "肝付兼太",
         "花形恵子",
         "补旧番",
-        "长番組"
+        "长番組",
+        "长篇"
       ],
       "infobox": [
         {
@@ -257,6 +264,11 @@
       "total_episodes": 77,
       "id": 17873,
       "eps": 77,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -265,11 +277,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/59/17874_Ztb89.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/59/17874_Ztb89.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/af/59/17874_Ztb89.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/59/17874_Ztb89.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/59/17874_Ztb89.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/59/17874_9rRg6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/59/17874_9rRg6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/af/59/17874_9rRg6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/59/17874_9rRg6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/59/17874_9rRg6.jpg"
           },
           "name": "はじめ人間ゴン",
           "name_cn": "山林小猎人",
@@ -354,6 +366,10 @@
           "value": "松本零士"
         },
         {
+          "key": "音乐",
+          "value": "宮川泰"
+        },
+        {
           "key": "监修",
           "value": "山本暎一、舛田利雄、豊田有恒"
         },
@@ -378,10 +394,6 @@
           "value": "田代敦巳"
         },
         {
-          "key": "音乐",
-          "value": "宮川泰"
-        },
-        {
           "key": "设定",
           "value": "松本零士 SF设定：豊田有恒"
         },
@@ -393,6 +405,12 @@
       "total_episodes": 26,
       "id": 10393,
       "eps": 26,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -401,17 +419,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/73/109271_EcUM6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/73/109271_EcUM6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/73/109271_EcUM6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/73/109271_EcUM6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/73/109271_EcUM6.jpg"
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
           },
-          "name": "オーディーン 光子帆船スターライト",
-          "name_cn": "光子帆船星光号：奥丁",
-          "relation": "前传",
+          "name": "宇宙戦艦ヤマト",
+          "name_cn": "宇宙战舰大和号",
+          "relation": "三次元",
+          "type": 6,
+          "id": 112867
+        },
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
+          },
+          "name": "宇宙戦艦ヤマト 新作",
+          "name_cn": "宇宙战舰大和号 新作",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 109271
+          "id": 517099
         },
         {
           "images": {
@@ -527,20 +559,6 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
-          },
-          "name": "宇宙戦艦ヤマト",
-          "name_cn": "宇宙战舰大和号",
-          "relation": "三次元",
-          "type": 6,
-          "id": 112867
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/92/19622_Okm72.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/92/19622_Okm72.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/9b/92/19622_Okm72.jpg",
@@ -552,6 +570,20 @@
           "relation": "三次元",
           "type": 6,
           "id": 19622
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/73/109271_EcUM6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/73/109271_EcUM6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/73/109271_EcUM6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/73/109271_EcUM6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/73/109271_EcUM6.jpg"
+          },
+          "name": "オーディーン 光子帆船スターライト",
+          "name_cn": "光子帆船星光号：奥丁",
+          "relation": "前传",
+          "type": 2,
+          "id": 109271
         },
         {
           "images": {

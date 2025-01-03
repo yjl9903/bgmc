@@ -74,6 +74,10 @@
       "total_episodes": 53,
       "id": 107928,
       "eps": 0,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -136,7 +140,7 @@
         "子供向",
         "子供大法好好好",
         "年番",
-        "广告片",
+        "日本",
         "日本动画",
         "櫂俊树",
         "櫂爱",
@@ -186,6 +190,11 @@
       "total_episodes": 33,
       "id": 90632,
       "eps": 33,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "子供向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -299,6 +308,7 @@
         "2014年4月",
         "CYCLONEGRAPHICS",
         "TV",
+        "日本",
         "村瀬歩",
         "没地下",
         "科幻"
@@ -344,6 +354,10 @@
       "total_episodes": 10,
       "id": 97545,
       "eps": 10,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -378,6 +392,7 @@
         "studiodeen",
         "¬",
         "子供向",
+        "日本",
         "没地下",
         "补"
       ],
@@ -414,6 +429,10 @@
       "total_episodes": 10,
       "id": 97543,
       "eps": 10,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -540,6 +559,14 @@
           "value": "2014年9月6日"
         },
         {
+          "key": "导演",
+          "value": "春日森春木"
+        },
+        {
+          "key": "音乐",
+          "value": "スーパースィープ"
+        },
+        {
           "key": "Copyright",
           "value": "©2014 Mine Yoshizaki / KADOKAWA,SUNRISE"
         },
@@ -568,20 +595,12 @@
           "value": "館信一郎"
         },
         {
-          "key": "音乐",
-          "value": "スーパースィープ"
-        },
-        {
           "key": "动画制作",
           "value": "サンライズ"
         },
         {
           "key": "制片人",
           "value": "菊池剛、渡辺啓之、樋口弘光"
-        },
-        {
-          "key": "导演",
-          "value": "春日森春木"
         },
         {
           "key": "製作",
@@ -591,6 +610,11 @@
       "total_episodes": 23,
       "id": 90005,
       "eps": 23,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -709,6 +733,11 @@
       "total_episodes": 1,
       "id": 89942,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -780,9 +809,9 @@
         "剧场版",
         "古谷彻",
         "基",
-        "堀内賢雄",
         "堀内贤雄",
         "安瀬聖",
+        "安田京弘",
         "小西克幸",
         "日本",
         "漫改",
@@ -819,6 +848,12 @@
       "total_episodes": 1,
       "id": 79419,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "BL",
+        "耽美",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -922,14 +957,13 @@
         "2014年一月番",
         "Q娃",
         "precure",
+        "アニメ映画",
         "プリキュア",
-        "プリキュア剧场版",
         "东映",
         "东映动画",
         "光之美少女",
         "剧场版",
         "动画",
-        "动画电影",
         "原创",
         "大长篇",
         "奇幻",
@@ -937,6 +971,7 @@
         "小川考治",
         "幼女向",
         "成田良美",
+        "战斗",
         "日本动画",
         "東映アニメーション",
         "燃",
@@ -982,6 +1017,10 @@
       "total_episodes": 1,
       "id": 88715,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1084,7 +1123,6 @@
         "Love!",
         "SHIN-EI",
         "Shin-EiAnimation",
-        "undefined",
         "アニメ映画",
         "シンエイ動画",
         "ドラえもん",
@@ -1095,8 +1133,9 @@
         "动画",
         "动画电影",
         "哆啦A梦",
+        "喜剧",
         "奇幻",
-        "战斗",
+        "子供向",
         "搞笑",
         "日本",
         "日本动画",
@@ -1142,6 +1181,10 @@
           "value": "http://doraeiga.com/2014/"
         },
         {
+          "key": "原作",
+          "value": "藤子・F・不二雄"
+        },
+        {
           "key": "导演",
           "value": "八鍬新之介"
         },
@@ -1152,11 +1195,132 @@
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "人物设定",
+          "value": "丸山宏一"
+        },
+        {
+          "key": "总作画监督",
+          "value": "大城勝"
+        },
+        {
+          "key": "摄影监督",
+          "value": "末弘孝史"
+        },
+        {
+          "key": "剪辑",
+          "value": "小島俊彦、藤本理子（助手）"
+        },
+        {
+          "key": "音乐",
+          "value": "沢田完"
+        },
+        {
+          "key": "总制片人",
+          "value": "増子相二郎、川北桃子、大倉俊輔、斎藤満"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "mao[Duca]・ひまわりキッズ（OP）、Kis-My-Ft2（ED）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "黒須克彦（OP）、せんせい（ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "黒須克彦（OP）、中谷あつこ（ED）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "大久保薫（OP）、鈴木雅也（ED）"
+        },
+        {
+          "key": "作画监督",
+          "value": "西村貴世、松井祐子、秦洋美、小澤早依子"
+        },
+        {
+          "key": "原画",
+          "value": "末吉裕一郎、大塚正実、高倉佳彦、山口晋、桝田浩史、三輪修、仁井学、関修一、諏訪真弘、加来由加里、吉田正幸、箕輪博子、新井伸浩、玉置敬子、松井啓一郎、鈴木彩史、千葉ゆみ、加来哲郎、山下将仁、永作友克、土屋祐太、シンー・ペイジ、佐古宗一郎、又賀大介、八木郁乃、上田幸一郎、中本和樹、篠原真紀子、角張仁美、吉田優子、堤舞、松田真路、松永絵美、手塚江美、遠藤正明、茂木琢次、田中孝弘、後村武、梶原賢二、岡昭彦、藤原巧和、伊藤康裕、工藤友靖、林志保、戸部敦夫、安藤義信、松尾慎、伊藤秀次、酒井和男、山口明子、前田義宏、浅野直之、内田信也、秦綾子、西村貴世、松井祐子、秦洋美、小澤早依子、大城勝、鈴木勤、丸山宏一（OP原画）、林静香（ED原画）"
+        },
+        {
+          "key": "第二原画",
+          "value": "大武正枝、五十嵐直子、岸野美智、原佳寿美、長谷川文香、高田小知代、山崎浩平、山本祐希江、穂坂史織、曽々木安恵、鈴木大司、こすぎなほこ、仲川明希、武藤信宏、栗原美樹、西村理恵、中村進也、植竹康彦、木下千恵、鄧佳湄、海老原尚樹、AI、ライデンフィルム、ドラゴンプロ、Wish"
+        },
+        {
+          "key": "补间动画",
+          "value": "ベガエンタテイメント（松村美佳、染川仁菜、宮本美智子、濱田友美、髙士亜衣、屋宜優、神谷由季、川重希、関根奈穂、長谷川夏美）、オープロダクション（岩切君枝、小川麻衣、佐伯行信、田中陽子、辻仁子、本田康明、山本芽以、平岩聡、村橋亮佑）、スノーライトスタッフ（林千馬、小池和里、長谷沼沙織、江部賢、森下智美）、スタジオエル（磯部智子、國井実可子、西村理恵、牧野清香、小山優貴子、佐藤弘幸、樋口純一、奥田富美子、向井理江、高野悠、菅原まどか）、Wish（嶋村孝太、山本真夕子、鈴木三音子、王みつき、石橋佳奈、稲葉彩夏、西田政司）、太観アニメ（Zhang Gang、Wang Xiaozheng、Nan Hai、Wu Xiaosong、Ma Cong、Du Benmao）、旭プロダクション（黄薇霓/황미예、長谷部なつみ、笛木優奈、穂阪ゆきな）、ORANGE（RYU JA YOUNG、HAN SONG HEE、SON SEON AH、JEONG HYUN JEONG、KIM JEONG SOON、PARK NAN HEE、KIM JUNG LAN、HONG KYOUNG MI、KIM HYE JUNG、CHOI YOON KYEONG、SUH YOON JOO、LEE YOUN JU、YOU SU OK、CHO EUN SUN、LEE KYUNG MI、SON YOUNG JU、KIMU MIN JEONG）、藤野京子、八木綾乃、桜沢裕美、家野尚代、清水由紀子、神戸佑太、岡崎あずさ、宮健太、今村洋輝、ドラゴンプロ"
+        },
+        {
+          "key": "色彩指定",
+          "value": "倉内美幸"
+        },
+        {
+          "key": "背景美术",
+          "value": "アトリエローク07（皆谷透、楜澤裕香、沼井信朗、鈴木聡、石田晶子、高大浩、伊澤美恵、渡邉美穂）、スタジオ･ユニ（米田隆裕、鈴木朗、川口美射、中島美枝子、天水勝、池田玲子、永井由香、本多美紀、宮良子）、ベガエンタテイメント（土橋誠、知本祐太、JEE SEOGU、KANG MIHYANG）、ATELIER KARO、NARA Animation、GACHI Production、アトリエブーカ、Telecom Animation Film、スタジオWHO、美峰（高峯義人、扇山秋仁、DO QUYEN、NGUYEN KHAM、LY HUONG、CAO LIEM、NGO KHANG、NGUYEN HA、LE AN、CHUC HA、HUYNH LINH、NGUYEN DUNG、PHAN LIBM、HOANG NGUYEN、NGUYEN NGHI、NGUYEN HIEN）、アートチーム･コンボイ（岡部眞由美、金美京、朴宰佑、辛守賢、金惠珍）"
+        },
+        {
+          "key": "摄影",
+          "value": "アニメフィルム、コンポジット（ 桶田一展、西山朋広、山田廣明、倉田佳美、木次美則、鈴木浩司、下村博文、松澤秀子、大森美奈子、手塚智鶴子、梅田俊之）"
+        },
+        {
+          "key": "监修",
+          "value": "熊谷正弘（摄影监修）"
+        },
+        {
+          "key": "3DCG",
+          "value": "オクティグラフィカ（神林憲和、沖田貢靖、橋本美紀、本間潤樹、伊藤聡志）、TSUBAKI（田辺正章）、unknownCASE inc.（中村幸憲、崎山敦嗣、加島裕幸）"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "木村昴、ひばり児童合唱団"
+        },
+        {
+          "key": "动画制片人",
+          "value": "山田卓司"
+        },
+        {
+          "key": "制作进行",
+          "value": "岡野孝規、中村和喜、佐藤大真、田原麻美、河西麻利子、宇佐美翔平、谷澤吉紀"
+        },
+        {
+          "key": "制作管理",
+          "value": "中島進、武井健、岡田麻衣子"
+        },
+        {
+          "key": "助理制片人",
+          "value": "横山幸恵"
+        },
+        {
+          "key": "制片人",
+          "value": "鶴崎りか、岸本隆宏、齋藤敦、中世古裕美、大金修一、沢辺伸政"
+        },
+        {
+          "key": "製作",
+          "value": "「 映画ドラえもん 」制作委員会（石関暁、小西麻里、徳山雅記、牧野ひろみ、吉田冠、山﨑由里佳、小沢清人/小野仁、水谷誠也、神田エミイ亜希子/和田修治、高木智悌、堤直之、浅田幸男、佐藤絵里子、白戸博久、嶋根惇、浅井美佳/中沢利洋、大槻育宏、塙智行、間瀬謙介、佐藤龍伸、山守貴子、佐藤理絵、大塚薫、佐藤隆一、福原望、尾﨑瑞季、伊藤悠公、佐藤航洋/篠田芳彦、森文彦、尾﨑美香、清水智美、池田光子、小西佑平）"
+        },
+        {
+          "key": "制作",
+          "value": "藤子・F・不二雄プロ、小学館、テレビ朝日、アサツー ディ・ケイ、小学館集英社プロダクション、シンエイ動画"
+        },
+        {
+          "key": "发行",
+          "value": "东宝"
         }
       ],
       "total_episodes": 1,
       "id": 78282,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "喜剧",
+        "剧场版",
+        "日本",
+        "漫画改",
+        "冒险",
+        "子供向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1260,7 +1424,6 @@
         "Studio4℃",
         "fantasy",
         "六星",
-        "剧场",
         "剧场版",
         "劇場版",
         "动画",
@@ -1278,6 +1441,7 @@
         "清水保行",
         "独立ova",
         "短片",
+        "神配乐",
         "花江夏树",
         "花江夏樹",
         "若手アニメーター育成プロジェクト",
@@ -1373,6 +1537,10 @@
       "total_episodes": 1,
       "id": 85421,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1560,6 +1728,10 @@
       "total_episodes": 1,
       "id": 85424,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1720,6 +1892,11 @@
       "total_episodes": 1,
       "id": 85423,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "校园",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1795,7 +1972,6 @@
         "A-1_Pictures",
         "A-1·Pictures",
         "OVA",
-        "【6星】",
         "一年级大个子二年级小个子",
         "保木いずみ",
         "剧场版",
@@ -1812,6 +1988,7 @@
         "渡边步",
         "渡辺歩",
         "片山修志",
+        "独立剧场版",
         "田村睦心",
         "短片",
         "若手アニメーター育成プロジェクト",
@@ -1920,6 +2097,10 @@
       "total_episodes": 1,
       "id": 85422,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1988,6 +2169,7 @@
       "name": "みツわの",
       "name_cn": "三和",
       "tags": [
+        "2010s",
         "2014",
         "2014年",
         "2014年3月",
@@ -1995,7 +2177,6 @@
         "3月",
         "OVA",
         "OVA&OAD",
-        "OVA-01",
         "ZEXCS",
         "『OVA』",
         "いがりたかし",
@@ -2060,6 +2241,9 @@
       "total_episodes": 1,
       "id": 81674,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2107,124 +2291,6 @@
           "relation": "书籍",
           "type": 1,
           "id": 336889
-        }
-      ]
-    }
-  },
-  {
-    "title": "つばさとホタル",
-    "date": "2014-03-16",
-    "bangumi": {
-      "date": "2014-03-16",
-      "platform": "OVA",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/fd/94929_GxAQV.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/fd/94929_GxAQV.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/ec/fd/94929_GxAQV.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/fd/94929_GxAQV.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/fd/94929_GxAQV.jpg"
-      },
-      "summary": "",
-      "name": "つばさとホタル",
-      "name_cn": "翼与萤火虫",
-      "tags": [
-        "2014",
-        "2014年",
-        "2014年3月",
-        "2014年一月番",
-        "2023",
-        "6+",
-        "J.C.STAFF",
-        "MEG.ME",
-        "OVA",
-        "OVA-01",
-        "Senior",
-        "つばさとホタル",
-        "不打分",
-        "乙女向",
-        "今千秋",
-        "伊藤かな恵",
-        "六星",
-        "剧场版",
-        "女性向",
-        "小島由佳",
-        "少女",
-        "少女向",
-        "少女漫",
-        "恋爱",
-        "恒屋美菜子",
-        "日本动画",
-        "漫改",
-        "漫画原作",
-        "漫画改",
-        "独立ova"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "翼与萤火虫"
-        },
-        {
-          "key": "话数",
-          "value": "1"
-        },
-        {
-          "key": "上映年度",
-          "value": "2014-03-16"
-        },
-        {
-          "key": "色彩设计",
-          "value": "小島由佳"
-        },
-        {
-          "key": "摄影监督",
-          "value": "恒屋美菜子"
-        },
-        {
-          "key": "音乐",
-          "value": "MEG.ME"
-        },
-        {
-          "key": "音乐制作人",
-          "value": "田中統英"
-        }
-      ],
-      "total_episodes": 1,
-      "id": 94929,
-      "eps": 1,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/04/94928_eWqVQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/04/94928_eWqVQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ca/04/94928_eWqVQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/04/94928_eWqVQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/04/94928_eWqVQ.jpg"
-          },
-          "name": "つばさとホタル",
-          "name_cn": "翼与萤火虫",
-          "relation": "书籍",
-          "type": 1,
-          "id": 94928
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fd/8c/181439_qb4w3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fd/8c/181439_qb4w3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fd/8c/181439_qb4w3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fd/8c/181439_qb4w3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fd/8c/181439_qb4w3.jpg"
-          },
-          "name": "つばさとホタル",
-          "name_cn": "翼与萤火虫",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 181439
         }
       ]
     }
@@ -2418,6 +2484,7 @@
       "total_episodes": 0,
       "id": 87389,
       "eps": 1,
+      "meta_tags": [],
       "volumes": 0,
       "series": false,
       "locked": true,
@@ -2464,16 +2531,18 @@
         "3月",
         "OAD",
         "OVA",
-        "OVA·OAD",
+        "undefined",
         "一迅社",
+        "兄妹",
         "动画工房",
         "動画工房",
-        "川口正明",
+        "奇幻",
         "市川淳",
         "志茂文彦",
         "恋爱",
         "搞笑",
         "日常",
+        "日本",
         "日本动画",
         "未确认进行式",
         "未確認で進行形",
@@ -2481,11 +2550,9 @@
         "治愈",
         "漫改",
         "漫画改",
-        "照井春佳",
         "番外",
         "百合",
-        "菊池愛",
-        "菊池爱",
+        "萌",
         "萝莉",
         "藤原佳幸"
       ],
@@ -2594,6 +2661,11 @@
       "total_episodes": 1,
       "id": 100857,
       "eps": 1,
+      "meta_tags": [
+        "恋爱",
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2642,7 +2714,6 @@
         "BL",
         "CreatorsinPack、Anpro",
         "OVA",
-        "OVA-01",
         "『OVA』",
         "关俊彦",
         "原田峰文",
@@ -2706,6 +2777,9 @@
       "total_episodes": 2,
       "id": 83933,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2812,6 +2886,10 @@
       "total_episodes": 1,
       "id": 81846,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2919,6 +2997,7 @@
         "SILVER_LINK.",
         "Type-Moon",
         "井上坚二",
+        "加藤达也",
         "型月",
         "大沼心",
         "奇幻",
@@ -2927,17 +3006,16 @@
         "日常",
         "日本",
         "日本动画",
-        "植田佳奈",
         "漫改",
         "漫画改",
         "番外",
         "百合",
         "萌",
-        "萌系",
         "萝莉",
         "轻百合",
         "魔法少女",
-        "魔法少女☆伊莉雅"
+        "魔法少女☆伊莉雅",
+        "魔法少女伊莉雅"
       ],
       "infobox": [
         {
@@ -2976,6 +3054,11 @@
       "total_episodes": 1,
       "id": 83731,
       "eps": 1,
+      "meta_tags": [
+        "百合",
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3107,6 +3190,9 @@
       "total_episodes": 1,
       "id": 95790,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3159,7 +3245,7 @@
     }
   },
   {
-    "title": "ピカイア！",
+    "title": "ピカイア！パイロット版",
     "date": "2014-03-29",
     "bangumi": {
       "date": "2014-03-29",
@@ -3172,20 +3258,22 @@
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/c7/100434_Mkgrd.jpg"
       },
       "summary": "未来の地球を救うため、ヴィンスとハナは生命のビッグバンが起きたという時代に次元転送された。そこは今から５億年前のカンブリアの海。見たこともない生き物たちがあふれていた。眼が5つもあるオパビニアやトゲだらけのハルキゲニア、そしてイカのような形をしたネクトカリス…。\r\n\r\nバイオミミクリースーツに身を包んだ２人は、博士が転送したテスター・ピカイアとともに、生命の進化の秘密を探っていく。そこに襲いかかる巨大な怪物アノマロカリス！果たしてヴィンスたちの運命は？そして彼らのピンチを救うバイオミミクリー（生物模倣）という技術とは何か？\r\n\r\n最新の研究成果に基づいて再現されたユニークな古生物たちが続々登場。アニメに登場する最先端のバイオミミクリーについては、イギリス自然史博物館、生物学の第一人者アンドリュー・パーカー博士がわかりやすく解説する。",
-      "name": "ピカイア！",
-      "name_cn": "皮卡虫",
+      "name": "ピカイア！パイロット版",
+      "name_cn": "皮卡虫！先行版",
       "tags": [
         "2014",
         "ProductionI.G、OLM",
+        "TV",
         "子供",
         "子供向",
+        "日本",
         "没地下",
         "科普"
       ],
       "infobox": [
         {
           "key": "中文名",
-          "value": "皮卡虫"
+          "value": "皮卡虫！先行版"
         },
         {
           "key": "别名",
@@ -3214,11 +3302,19 @@
         {
           "key": "播放电视台",
           "value": "Eテレ"
+        },
+        {
+          "key": "导演",
+          "value": "冨安大貴"
         }
       ],
       "total_episodes": 1,
       "id": 100434,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3233,8 +3329,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/98/135809_kkK9y.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/98/135809_kkK9y.jpg"
           },
-          "name": "ピカイア！続編",
-          "name_cn": "皮卡虫 续篇",
+          "name": "ピカイア！",
+          "name_cn": "皮卡虫！",
           "relation": "续集",
           "type": 2,
           "id": 135809
@@ -3259,6 +3355,7 @@
       "name": "はなかっぱ 第5期",
       "name_cn": "花样河童 第5季",
       "tags": [
+        "TV",
         "空"
       ],
       "infobox": [
@@ -3291,12 +3388,12 @@
           "value": "2015年1月7日"
         },
         {
-          "key": "Copyright",
-          "value": "© 2010 あきやまただし / はなかっぱプロジェクト"
-        },
-        {
           "key": "导演",
           "value": "のなかかずみ"
+        },
+        {
+          "key": "Copyright",
+          "value": "© 2010 あきやまただし / はなかっぱプロジェクト"
         },
         {
           "key": "人物设定",
@@ -3330,6 +3427,10 @@
       "total_episodes": 30,
       "id": 302442,
       "eps": 30,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

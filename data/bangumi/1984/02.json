@@ -24,7 +24,6 @@
         "ぴえろ",
         "やまざきかずお",
         "剧场版",
-        "动画电影",
         "奇幻",
         "小丑社",
         "小林七郎",
@@ -37,7 +36,7 @@
         "映画",
         "板野一郎",
         "校园",
-        "梦境",
+        "梦",
         "漫改",
         "漫画改",
         "电影",
@@ -45,7 +44,8 @@
         "经典",
         "西村纯二",
         "轮回",
-        "高桥留美子"
+        "高桥留美子",
+        "高橋留美子"
       ],
       "infobox": [
         {
@@ -73,13 +73,33 @@
           "value": "1"
         },
         {
+          "key": "原作",
+          "value": "高橋留美子"
+        },
+        {
+          "key": "导演",
+          "value": "押井守"
+        },
+        {
+          "key": "人物设定",
+          "value": "やまざきかずお"
+        },
+        {
           "key": "作画监督",
-          "value": "やまざきかずお、森山雄治、青木康直（補）"
+          "value": "やまざきかずお、森山雄治"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "青木康直"
         }
       ],
       "total_episodes": 1,
       "id": 40003,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -200,6 +220,7 @@
         "ロボットアニメ",
         "伊東恒久",
         "国际映画社",
+        "日本",
         "日本动画",
         "旧物",
         "橋本晃一",
@@ -241,6 +262,10 @@
       "total_episodes": 22,
       "id": 37294,
       "eps": 22,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -281,8 +306,6 @@
       "name": "重戦機エルガイム",
       "name_cn": "重战机艾尔盖姆",
       "tags": [
-        "1980-1989",
-        "1980s",
         "1984",
         "1984年",
         "1984年2月",
@@ -299,17 +322,19 @@
         "北爪宏幸",
         "原创",
         "富野由悠季",
-        "年番&大长篇",
         "战争",
-        "日本SUNRISE",
+        "日本",
+        "日本动画",
         "旧物",
+        "机器人",
         "机战",
+        "机甲",
         "永野护",
         "永野護",
         "渡辺由自",
+        "湖川友谦",
         "科幻",
         "萝卜",
-        "赛璐珞",
         "電視"
       ],
       "infobox": [
@@ -373,6 +398,11 @@
       "total_episodes": 54,
       "id": 37170,
       "eps": 54,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -381,17 +411,45 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/2c/333343_q3a3i.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/2c/333343_q3a3i.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f9/2c/333343_q3a3i.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/2c/333343_q3a3i.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/2c/333343_q3a3i.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/84/339178_11Juz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/84/339178_11Juz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a4/84/339178_11Juz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/84/339178_11Juz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/84/339178_11Juz.jpg"
           },
-          "name": "PONY METAL U-GAIM PROMOTION FILM",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 2,
-          "id": 333343
+          "name": "スーパーロボット大戦30",
+          "name_cn": "超级机器人大战30",
+          "relation": "游戏",
+          "type": 4,
+          "id": 339178
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/d1/525887_FEtqa.jpg"
+          },
+          "name": "シャッフルファイト",
+          "name_cn": "Shuffle Fight",
+          "relation": "游戏",
+          "type": 4,
+          "id": 525887
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/07/524992_PiYl8.jpg"
+          },
+          "name": "スーパーロボットピンボール",
+          "name_cn": "超级机器人弹珠台",
+          "relation": "游戏",
+          "type": 4,
+          "id": 524992
         },
         {
           "images": {
@@ -563,20 +621,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/84/339178_11Juz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/84/339178_11Juz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a4/84/339178_11Juz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/84/339178_11Juz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/84/339178_11Juz.jpg"
-          },
-          "name": "スーパーロボット大戦30",
-          "name_cn": "超级机器人大战30",
-          "relation": "游戏",
-          "type": 4,
-          "id": 339178
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/56/7828_sMXFL.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/56/7828_sMXFL.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/9f/56/7828_sMXFL.jpg",
@@ -588,6 +632,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 7828
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/2c/333343_q3a3i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/2c/333343_q3a3i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/2c/333343_q3a3i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/2c/333343_q3a3i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/2c/333343_q3a3i.jpg"
+          },
+          "name": "PONY METAL U-GAIM PROMOTION FILM",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 2,
+          "id": 333343
         },
         {
           "images": {
@@ -778,6 +836,7 @@
       "name_cn": "古堡勇士莱特雅斯",
       "tags": [
         "1984",
+        "TV",
         "日本动画公司",
         "旧物"
       ],
@@ -785,6 +844,17 @@
         {
           "key": "中文名",
           "value": "古堡勇士莱特雅斯"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Ruy, el pequeño Cid"
+            },
+            {
+              "v": "Ruy, the Little Cid"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -806,6 +876,11 @@
       "total_episodes": 26,
       "id": 220528,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "欧美"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

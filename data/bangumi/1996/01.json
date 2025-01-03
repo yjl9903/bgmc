@@ -27,7 +27,6 @@
         "万年小学生",
         "仓木麻衣",
         "侦探",
-        "动画",
         "名侦探柯南",
         "名探偵コナン",
         "坑",
@@ -35,6 +34,7 @@
         "恋爱",
         "悬疑",
         "推理",
+        "日常",
         "日本",
         "柯南",
         "死神小学生",
@@ -77,12 +77,12 @@
           "value": "日本テレビ系列局"
         },
         {
-          "key": "原作",
-          "value": "青山剛昌"
-        },
-        {
           "key": "导演",
           "value": "こだま兼嗣（#1-#118）→山本泰一郎（#119-#332）→佐藤真人（#162、#219、#333-#504）→於地紘仁（#505-#666）→山本泰一郎（#667-#677）→於地紘仁（#678-#679）→山本泰一郎（#680-#974）→山本泰一郎、鎌仲史陽（#975-）"
+        },
+        {
+          "key": "原作",
+          "value": "青山剛昌"
         },
         {
           "key": "脚本",
@@ -161,9 +161,16 @@
           "value": "東京ムービー→トムス・エンタテインメント( V1Studio )"
         }
       ],
-      "total_episodes": 1257,
+      "total_episodes": 1277,
       "id": 899,
       "eps": 0,
+      "meta_tags": [
+        "悬疑",
+        "TV",
+        "日本",
+        "推理",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -242,6 +249,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/00/194792_0bB66.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/00/194792_0bB66.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/00/194792_0bB66.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/00/194792_0bB66.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/00/194792_0bB66.jpg"
+          },
+          "name": "王者荣耀",
+          "name_cn": "王者荣耀",
+          "relation": "游戏",
+          "type": 4,
+          "id": 194792
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/46/228217_eU0GM.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/46/228217_eU0GM.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/d7/46/228217_eU0GM.jpg",
@@ -267,6 +288,20 @@
           "relation": "单行本",
           "type": 1,
           "id": 419651
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/6c/456305_J945P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/6c/456305_J945P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/60/6c/456305_J945P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/6c/456305_J945P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/6c/456305_J945P.jpg"
+          },
+          "name": "元梦之星",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 456305
         },
         {
           "images": {
@@ -724,7 +759,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/45/467955_JI001.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/45/467955_JI001.jpg"
           },
-          "name": "名探侦コナンvs.怪盗キッド",
+          "name": "名探偵コナン vs. 怪盗キッド",
           "name_cn": "名侦探柯南VS怪盗基德",
           "relation": "总集篇",
           "type": 2,
@@ -830,11 +865,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/e4/21250_kAcFK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/e4/21250_kAcFK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f3/e4/21250_kAcFK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/e4/21250_kAcFK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/e4/21250_kAcFK.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/e4/21250_4KkPf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/e4/21250_4KkPf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f3/e4/21250_4KkPf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/e4/21250_4KkPf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/e4/21250_4KkPf.jpg"
           },
           "name": "氷の上に立つように",
           "name_cn": "如履薄冰",
@@ -1922,14 +1957,14 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7a/46/489499_B7mb4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7a/46/489499_B7mb4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7a/46/489499_B7mb4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/46/489499_B7mb4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/46/489499_B7mb4.jpg"
           },
-          "name": "名探偵コナン M28",
-          "name_cn": "",
+          "name": "名探偵コナン 隻眼の残像",
+          "name_cn": "名侦探柯南 独眼的残像",
           "relation": "番外篇",
           "type": 2,
           "id": 489499
@@ -2622,11 +2657,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/fc/38125_i0ZEg.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/fc/38125_i0ZEg.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/03/fc/38125_i0ZEg.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/fc/38125_i0ZEg.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/fc/38125_i0ZEg.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/fc/38125_w2iI9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/fc/38125_w2iI9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/fc/38125_w2iI9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/fc/38125_w2iI9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/fc/38125_w2iI9.jpg"
           },
           "name": "名探偵コナン コナンと平次と消えた少年",
           "name_cn": "名侦探柯南 柯南、平次与消失的少年",
@@ -2888,6 +2923,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/22/528823_eMgsr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/22/528823_eMgsr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/22/528823_eMgsr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/22/528823_eMgsr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/22/528823_eMgsr.jpg"
+          },
+          "name": "But ノーラヴ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 528823
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/04/38118_fnzgq.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/04/38118_fnzgq.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/76/04/38118_fnzgq.jpg",
@@ -3140,6 +3189,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/cf/526920_kgE4V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/cf/526920_kgE4V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1c/cf/526920_kgE4V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/cf/526920_kgE4V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/cf/526920_kgE4V.jpg"
+          },
+          "name": "Shooting star",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 526920
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/e9/90223_5DYkX.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/e9/90223_5DYkX.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/8e/e9/90223_5DYkX.jpg",
@@ -3275,7 +3338,6 @@
         "1996年1月",
         "90年代",
         "TV",
-        "TVA",
         "XEBEC",
         "アミノテツロー",
         "儿时回忆",
@@ -3298,6 +3360,7 @@
         "童年系",
         "经典",
         "运动",
+        "长篇",
         "音速战神",
         "高科技玩具"
       ],
@@ -3352,6 +3415,11 @@
       "total_episodes": 51,
       "id": 9567,
       "eps": 51,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3633,8 +3701,8 @@
         "1996",
         "1996年",
         "1996年1月",
-        "90年代",
         "JUMP",
+        "StudioGallop",
         "TV",
         "kenshin",
         "studiodeen",
@@ -3646,12 +3714,12 @@
         "古桥一浩",
         "古橋一浩",
         "和月伸宏",
-        "天诛",
         "幕末",
         "战斗",
         "拔刀斋",
         "新选组",
         "日本",
+        "日本动画",
         "浪客剑心",
         "漫改",
         "漫画改",
@@ -3694,16 +3762,16 @@
           "value": "1998年9月8日"
         },
         {
+          "key": "导演",
+          "value": "古橋一浩"
+        },
+        {
           "key": "动画制作",
           "value": "ぎゃろっぷ→スタジオディーン"
         },
         {
           "key": "原作",
           "value": "和月伸宏"
-        },
-        {
-          "key": "导演",
-          "value": "古橋一浩"
         },
         {
           "key": "人物设定",
@@ -3729,6 +3797,13 @@
       "total_episodes": 95,
       "id": 2712,
       "eps": 95,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗",
+        "历史"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3748,20 +3823,6 @@
           "relation": "续集",
           "type": 2,
           "id": 13553
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/fb/470599_DfGz3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/fb/470599_DfGz3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7f/fb/470599_DfGz3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/fb/470599_DfGz3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/fb/470599_DfGz3.jpg"
-          },
-          "name": "るろうに剣心 －明治剣客浪漫譚－ 京都動乱",
-          "name_cn": "浪客剑心 －明治剑客浪漫谭－ 京都动乱",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 470599
         },
         {
           "images": {
@@ -4108,13 +4169,13 @@
         "1990-1999",
         "1996",
         "OVA",
-        "SP",
         "SUNRISE",
         "TV",
         "TVSP",
         "ch",
         "こだま兼嗣",
         "サンライズ",
+        "伊倉一恵",
         "儿玉兼嗣",
         "剧场版",
         "动画",
@@ -4254,6 +4315,11 @@
       "total_episodes": 1,
       "id": 53940,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4553,6 +4619,11 @@
       "total_episodes": 12,
       "id": 2664,
       "eps": 11,
+      "meta_tags": [
+        "科幻",
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5080,25 +5151,25 @@
         "TVA",
         "ゲゲゲの鬼太郎",
         "东映",
+        "东映动画",
         "台视",
         "和田薫",
-        "和田薰",
         "子供向",
-        "小中千昭",
-        "岛田满",
         "恐怖",
+        "日本",
         "日本动画",
         "東映",
         "東映アニメーション",
         "松岡洋子",
+        "武上純希",
         "漫改",
+        "神魔",
         "科幻",
         "童年",
-        "细田守",
-        "织田浩树",
         "草尾毅",
         "西尾大介",
-        "赛璐珞"
+        "赛璐珞",
+        "鬼太郎"
       ],
       "infobox": [
         {
@@ -5138,12 +5209,16 @@
           "value": "1998年3月29日"
         },
         {
-          "key": "原作",
-          "value": "水木しげる"
-        },
-        {
           "key": "导演",
           "value": "西尾大介"
+        },
+        {
+          "key": "音乐",
+          "value": "和田薫"
+        },
+        {
+          "key": "原作",
+          "value": "水木しげる"
         },
         {
           "key": "脚本",
@@ -5154,25 +5229,22 @@
           "value": "荒木伸吾、姫野美智"
         },
         {
-          "key": "音乐",
-          "value": "和田薫"
-        },
-        {
           "key": "动画制作",
           "value": "東映アニメーション"
         },
         {
           "key": "製作",
           "value": "フジテレビ、読売広告社   東映アニメーション"
-        },
-        {
-          "key": "演出助手",
-          "value": "ながはまのりひこ"
         }
       ],
       "total_episodes": 114,
       "id": 53741,
       "eps": 114,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5313,6 +5385,7 @@
       "tags": [
         "1996",
         "MagicBus",
+        "TV",
         "TVA",
         "マジックバス",
         "中瀬理香",
@@ -5344,6 +5417,10 @@
       "total_episodes": 20,
       "id": 154123,
       "eps": 20,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5412,7 +5489,7 @@
       "name": "けろけろけろっぴのびっくり! おばけやしき",
       "name_cn": "",
       "tags": [
-        "OVA-01",
+        "OVA",
         "旧物"
       ],
       "infobox": [
@@ -5436,6 +5513,9 @@
       "total_episodes": 1,
       "id": 315776,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5472,7 +5552,6 @@
         "万年小学生",
         "仓木麻衣",
         "侦探",
-        "动画",
         "名侦探柯南",
         "名探偵コナン",
         "坑",
@@ -5480,6 +5559,7 @@
         "恋爱",
         "悬疑",
         "推理",
+        "日常",
         "日本",
         "柯南",
         "死神小学生",
@@ -5522,12 +5602,12 @@
           "value": "日本テレビ系列局"
         },
         {
-          "key": "原作",
-          "value": "青山剛昌"
-        },
-        {
           "key": "导演",
           "value": "こだま兼嗣（#1-#118）→山本泰一郎（#119-#332）→佐藤真人（#162、#219、#333-#504）→於地紘仁（#505-#666）→山本泰一郎（#667-#677）→於地紘仁（#678-#679）→山本泰一郎（#680-#974）→山本泰一郎、鎌仲史陽（#975-）"
+        },
+        {
+          "key": "原作",
+          "value": "青山剛昌"
         },
         {
           "key": "脚本",
@@ -5606,9 +5686,16 @@
           "value": "東京ムービー→トムス・エンタテインメント( V1Studio )"
         }
       ],
-      "total_episodes": 1257,
+      "total_episodes": 1277,
       "id": 899,
       "eps": 0,
+      "meta_tags": [
+        "悬疑",
+        "TV",
+        "日本",
+        "推理",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5687,6 +5774,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/00/194792_0bB66.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/00/194792_0bB66.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/00/194792_0bB66.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/00/194792_0bB66.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/00/194792_0bB66.jpg"
+          },
+          "name": "王者荣耀",
+          "name_cn": "王者荣耀",
+          "relation": "游戏",
+          "type": 4,
+          "id": 194792
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/46/228217_eU0GM.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/46/228217_eU0GM.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/d7/46/228217_eU0GM.jpg",
@@ -5712,6 +5813,20 @@
           "relation": "单行本",
           "type": 1,
           "id": 419651
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/6c/456305_J945P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/6c/456305_J945P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/60/6c/456305_J945P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/6c/456305_J945P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/6c/456305_J945P.jpg"
+          },
+          "name": "元梦之星",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 456305
         },
         {
           "images": {
@@ -6169,7 +6284,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/45/467955_JI001.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/45/467955_JI001.jpg"
           },
-          "name": "名探侦コナンvs.怪盗キッド",
+          "name": "名探偵コナン vs. 怪盗キッド",
           "name_cn": "名侦探柯南VS怪盗基德",
           "relation": "总集篇",
           "type": 2,
@@ -6275,11 +6390,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/e4/21250_kAcFK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/e4/21250_kAcFK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f3/e4/21250_kAcFK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/e4/21250_kAcFK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/e4/21250_kAcFK.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/e4/21250_4KkPf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/e4/21250_4KkPf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f3/e4/21250_4KkPf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/e4/21250_4KkPf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/e4/21250_4KkPf.jpg"
           },
           "name": "氷の上に立つように",
           "name_cn": "如履薄冰",
@@ -7367,14 +7482,14 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7a/46/489499_B7mb4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7a/46/489499_B7mb4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7a/46/489499_B7mb4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/46/489499_B7mb4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/46/489499_B7mb4.jpg"
           },
-          "name": "名探偵コナン M28",
-          "name_cn": "",
+          "name": "名探偵コナン 隻眼の残像",
+          "name_cn": "名侦探柯南 独眼的残像",
           "relation": "番外篇",
           "type": 2,
           "id": 489499
@@ -8067,11 +8182,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/fc/38125_i0ZEg.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/fc/38125_i0ZEg.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/03/fc/38125_i0ZEg.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/fc/38125_i0ZEg.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/fc/38125_i0ZEg.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/fc/38125_w2iI9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/fc/38125_w2iI9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/fc/38125_w2iI9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/fc/38125_w2iI9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/fc/38125_w2iI9.jpg"
           },
           "name": "名探偵コナン コナンと平次と消えた少年",
           "name_cn": "名侦探柯南 柯南、平次与消失的少年",
@@ -8333,6 +8448,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/22/528823_eMgsr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/22/528823_eMgsr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/22/528823_eMgsr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/22/528823_eMgsr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/22/528823_eMgsr.jpg"
+          },
+          "name": "But ノーラヴ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 528823
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/04/38118_fnzgq.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/04/38118_fnzgq.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/76/04/38118_fnzgq.jpg",
@@ -8582,6 +8711,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 507244
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/cf/526920_kgE4V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/cf/526920_kgE4V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1c/cf/526920_kgE4V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/cf/526920_kgE4V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/cf/526920_kgE4V.jpg"
+          },
+          "name": "Shooting star",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 526920
         },
         {
           "images": {

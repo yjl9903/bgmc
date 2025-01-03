@@ -18,10 +18,10 @@
       "tags": [
         "2000",
         "2000-07",
+        "2000-2009",
         "2000年",
         "MADHouse",
         "OVA",
-        "OVA&OAD",
         "SP",
         "TV",
         "TVSP",
@@ -40,7 +40,6 @@
         "沢城みゆき",
         "治愈",
         "泡面番",
-        "电波",
         "真田アサミ",
         "非独立OVA、OAD、特番等"
       ],
@@ -74,6 +73,10 @@
           "value": "2000年8月23日"
         },
         {
+          "key": "导演",
+          "value": "桜井弘明、小島正幸、高橋亨、佐藤竜雄、大地丙太郎"
+        },
+        {
           "key": "Copyright",
           "value": "©ブロッコリー·TBS"
         },
@@ -84,10 +87,6 @@
         {
           "key": "总导演",
           "value": "桜井弘明"
-        },
-        {
-          "key": "导演",
-          "value": "桜井弘明、小島正幸、高橋亨、佐藤竜雄、大地丙太郎"
         },
         {
           "key": "人物设定",
@@ -105,6 +104,10 @@
       "total_episodes": 4,
       "id": 205280,
       "eps": 4,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -138,6 +141,48 @@
           "relation": "续集",
           "type": 2,
           "id": 205296
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/57/525650_5caua.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/57/525650_5caua.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/57/525650_5caua.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/57/525650_5caua.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/57/525650_5caua.jpg"
+          },
+          "name": "CUTIE",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 525650
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/de/525720_XWv67.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/de/525720_XWv67.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/de/525720_XWv67.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/de/525720_XWv67.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/de/525720_XWv67.jpg"
+          },
+          "name": "でじこのサウンドフェスティバル",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 525720
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/d1/525762_8Clnn.jpg"
+          },
+          "name": "デ･ジ･キャラット CD-BOX でじこのサウンドパーティー",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 525762
         }
       ]
     }

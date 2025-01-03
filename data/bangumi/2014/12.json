@@ -33,10 +33,10 @@
         "恋爱",
         "搞笑",
         "新房昭之",
+        "日本",
         "早见沙织",
         "早见纱织",
         "板村智幸",
-        "校园",
         "物语",
         "物语系列",
         "神谷浩史",
@@ -95,16 +95,20 @@
           "value": "2014年12月31日"
         },
         {
+          "key": "导演",
+          "value": "板村智幸"
+        },
+        {
+          "key": "音乐",
+          "value": "羽岡佳"
+        },
+        {
           "key": "原作",
           "value": "西尾維新「憑物語」（講談社BOX）"
         },
         {
           "key": "总导演",
           "value": "新房昭之"
-        },
-        {
-          "key": "导演",
-          "value": "板村智幸"
         },
         {
           "key": "系列构成",
@@ -157,10 +161,6 @@
         {
           "key": "音响监督",
           "value": "鶴岡陽太"
-        },
-        {
-          "key": "音乐",
-          "value": "羽岡佳"
         },
         {
           "key": "音乐制作",
@@ -222,6 +222,13 @@
       "total_episodes": 4,
       "id": 115932,
       "eps": 4,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "奇幻",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -314,6 +321,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/9b/459339_35Kzy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/9b/459339_35Kzy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/53/9b/459339_35Kzy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/9b/459339_35Kzy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/9b/459339_35Kzy.jpg"
+          },
+          "name": "アニメ〈物語〉シリーズ 10th Anniversary Illustration Works",
+          "name_cn": "动画〈物语〉系列10周年纪念插画集",
+          "relation": "书籍",
+          "type": 1,
+          "id": 459339
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/f1/119679_Az9zY.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/f1/119679_Az9zY.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/bc/f1/119679_Az9zY.jpg",
@@ -388,17 +409,17 @@
         "国产",
         "国漫",
         "奇幻",
+        "妖怪",
         "妖怪名单",
-        "媚宅",
         "恋爱",
         "战斗",
         "搞笑",
         "支持国漫",
         "李豪凌",
         "标记",
+        "校园",
         "漫改",
         "漫画改",
-        "爱情",
         "玄幻",
         "绘梦",
         "绘梦动画",
@@ -510,6 +531,12 @@
       "total_episodes": 20,
       "id": 116045,
       "eps": 18,
+      "meta_tags": [
+        "后宫",
+        "恋爱",
+        "漫画改",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -583,7 +610,6 @@
         "2014年12月",
         "2015年",
         "2015年1月",
-        "2016",
         "OVA",
         "SP",
         "TV",
@@ -597,6 +623,7 @@
         "奇幻",
         "情热传说",
         "战斗",
+        "日本",
         "日本动画",
         "木村良平",
         "桜庭統",
@@ -669,6 +696,11 @@
       "total_episodes": 2,
       "id": 105155,
       "eps": 2,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -724,8 +756,8 @@
       "name_cn": "江户川柯南失踪事件～史上最糟糕的两天～",
       "tags": [
         "2014",
+        "2014年",
         "2014年12月",
-        "OAD",
         "OVA",
         "SP",
         "TMS",
@@ -798,6 +830,12 @@
       "total_episodes": 1,
       "id": 114745,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创",
+        "推理"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -888,7 +926,6 @@
         "3分",
         "SF",
         "XEBEC",
-        "アニメ映画",
         "出渊裕",
         "出渕裕",
         "别所诚人",
@@ -909,7 +946,8 @@
         "未下载",
         "机战",
         "科幻",
-        "结城信辉"
+        "结城信辉",
+        "西崎义展"
       ],
       "infobox": [
         {
@@ -1000,6 +1038,10 @@
       "total_episodes": 1,
       "id": 84701,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1047,6 +1089,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 124297
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8c/10/520707_9q98o.jpg"
+          },
+          "name": "宇宙戦艦ヤマト 未来への航路",
+          "name_cn": "宇宙战舰大和号 未来航路",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520707
         }
       ]
     }
@@ -1074,26 +1130,26 @@
         "2014年9月",
         "OVA",
         "SILVERLINK.",
-        "伊藤静",
-        "其他",
         "兽耳",
         "军事",
+        "剧场版",
         "原创",
         "奇幻",
-        "岛田文金",
         "島田フミカネ",
         "强袭魔女",
         "战争",
         "战斗",
         "斎藤千和",
         "日本",
+        "治愈",
         "獣耳娘",
+        "田中理恵",
+        "番外",
         "百合",
         "科幻",
         "空战",
         "肉",
         "萌",
-        "轻百合",
         "露点",
         "飞天小裤裤",
         "高村和宏",
@@ -1107,6 +1163,12 @@
         {
           "key": "别名",
           "value": [
+            {
+              "v": "Strike Witches: Operation Victory Arrow"
+            },
+            {
+              "v": "Sutoraikuu~itchīzu: Operēshon bikutorīarō"
+            },
             {
               "v": "强袭魔女 OPERATION VICTORY ARROW"
             }
@@ -1160,6 +1222,11 @@
       "total_episodes": 3,
       "id": 85339,
       "eps": 3,
+      "meta_tags": [
+        "百合",
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1179,6 +1246,20 @@
           "relation": "续集",
           "type": 2,
           "id": 18016
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/7e/531067_ogEw7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/7e/531067_ogEw7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/08/7e/531067_ogEw7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/7e/531067_ogEw7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/7e/531067_ogEw7.jpg"
+          },
+          "name": "ストライクウィッチーズ OFFICIAL VISUAL COMPLETE FILE ストライクウィッチーズ 劇場版&ストライクウィッチーズ Operation Victory Arrow",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 531067
         },
         {
           "images": {
@@ -1216,7 +1297,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/e1/290313_ATvAV.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/e1/290313_ATvAV.jpg"
           },
-          "name": "岛田フミカネ THE WORLD WITCHES 2018",
+          "name": "島田フミカネ THE WORLD WITCHES 2018",
           "name_cn": "岛田文金 世界魔女 2018",
           "relation": "书籍",
           "type": 1,
@@ -1350,20 +1431,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/6e/130022_A6aab.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/6e/130022_A6aab.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/74/6e/130022_A6aab.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/6e/130022_A6aab.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/6e/130022_A6aab.jpg"
-          },
-          "name": "ストライクウィッチーズ Operation Victory Arrow vol.2 『秘め声CD』",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 130022
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/be/135909_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/be/135909_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/80/be/135909_jp.jpg",
@@ -1375,6 +1442,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 135909
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/6e/130022_A6aab.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/6e/130022_A6aab.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/6e/130022_A6aab.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/6e/130022_A6aab.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/6e/130022_A6aab.jpg"
+          },
+          "name": "ストライクウィッチーズ Operation Victory Arrow vol.2 『秘め声CD』",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 130022
         },
         {
           "images": {
@@ -1454,11 +1535,11 @@
         "剧场版",
         "加藤阳一",
         "加藤陽一",
-        "动画",
         "十",
         "原创",
         "大长篇",
         "寿美菜子",
+        "已下载",
         "幼女向",
         "木村隆一",
         "电影",
@@ -1518,6 +1599,10 @@
       "total_episodes": 2,
       "id": 98294,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1692,7 +1777,6 @@
         "OVA",
         "OVA&OAD",
         "内田真礼",
-        "吉河美希",
         "后宫",
         "喜多村英梨",
         "塚本のりこ",
@@ -1711,6 +1795,7 @@
         "漫改",
         "漫画改",
         "番外",
+        "福山润",
         "福山潤",
         "逢坂良太",
         "魔女"
@@ -1817,6 +1902,10 @@
       "total_episodes": 2,
       "id": 105951,
       "eps": 2,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1999,6 +2088,11 @@
       "total_episodes": 2,
       "id": 110049,
       "eps": 2,
+      "meta_tags": [
+        "OVA",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2142,6 +2236,7 @@
         "2014年12月",
         "JUMP",
         "NARUTO",
+        "PIERROT",
         "StudioPierrot",
         "ぴえろ",
         "アニメ映画",
@@ -2152,7 +2247,6 @@
         "原创",
         "奇幻",
         "完结篇",
-        "小丑社",
         "小林常夫",
         "岸本斉史",
         "恋爱",
@@ -2210,6 +2304,12 @@
       "total_episodes": 1,
       "id": 109053,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "恋爱",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2352,6 +2452,7 @@
         "2014年",
         "2014年10月",
         "2014年12月",
+        "2015",
         "2015年1月",
         "Arms",
         "OVA",
@@ -2359,10 +2460,10 @@
         "TVSP",
         "TVspecial",
         "アームス",
+        "一騎当千",
         "一骑当千",
         "三国",
         "卖肉",
-        "历史人物",
         "喜多村英梨",
         "工藤昌史",
         "战斗",
@@ -2375,7 +2476,6 @@
         "肉",
         "肉番",
         "茅原実里",
-        "补标",
         "门胁舞以",
         "高桥智秋"
       ],
@@ -2420,6 +2520,10 @@
       "total_episodes": 2,
       "id": 100568,
       "eps": 2,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2599,6 +2703,9 @@
       "total_episodes": 1,
       "id": 107446,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2637,6 +2744,69 @@
     }
   },
   {
+    "title": "獣兵衛忍風帖BURST",
+    "date": "2014-12-06",
+    "bangumi": {
+      "date": "2014-12-06",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/74/523666_mUquC.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/74/523666_mUquC.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/69/74/523666_mUquC.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/74/523666_mUquC.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/74/523666_mUquC.jpg"
+      },
+      "summary": "『獣兵衛忍風帖BURST』とは、映画『獣兵衛忍風帖』に連なる新プロジェクト『獣兵衛忍風帖 胡蝶』（仮題）の一部であり、そのパイロット映像でもある3本のショートフィルムのこと。\r\n\r\n2012年4月、米国・シアトルで開催されたアニメイベントSakura-Conで新プロジェクトが明かされ、その一環として監督の川尻善昭によって制作された『獣兵衛忍風帖BURST』のPRダイジェストも公開された。そして、このプロジェクトはその後、『獣兵衛忍風帖BURST』を取り込んだ劇場映画『獣兵衛忍風帖 胡蝶』（仮題）に発展すると発表された。\r\n\r\n2013年5月に川尻による脚本が完成、同年12月には絵コンテも出来上がった。しかし、日本でよりも海外で人気と評価が高いという作品の特殊な事情を反映し、米国でのパートナー候補はいたにも関わらず、日本国内での製作委員会出資者（パートナー）は決まらなかった。\r\n\r\n2014年3月、マッドハウスは完成した脚本や絵コンテなど制作中の映画の資料の一部を日本で公開し、作品のプロモーションにしようとした。同年12月6日には、テアトル新宿にて開催された川尻の監督デビュー30周年記念企画「川尻善昭ミッドナイトフェス」にて全3話が上映された。\r\n\r\nしかし、2022年時点では、映画『獣兵衛忍風帖 胡蝶』の続報はなく、『獣兵衛忍風帖BURST』も商品化されていない。",
+      "name": "獣兵衛忍風帖BURST",
+      "name_cn": "兽兵卫忍风帖BURST",
+      "tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "百合"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "兽兵卫忍风帖BURST"
+        },
+        {
+          "key": "上映年度",
+          "value": "2014年12月6日"
+        },
+        {
+          "key": "话数",
+          "value": "3"
+        }
+      ],
+      "total_episodes": 3,
+      "id": 523666,
+      "eps": 3,
+      "meta_tags": [],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/a2/36484_773r0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/a2/36484_773r0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/a2/36484_773r0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/a2/36484_773r0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/a2/36484_773r0.jpg"
+          },
+          "name": "獣兵衛忍風帖 龍宝玉篇",
+          "name_cn": "兽兵卫忍风帖 龙宝玉篇",
+          "relation": "前传",
+          "type": 2,
+          "id": 36484
+        }
+      ]
+    }
+  },
+  {
     "title": "鷲尾須美は勇者である",
     "date": "2014-12-19",
     "bangumi": {
@@ -2665,6 +2835,7 @@
         "天闻角川引进",
         "奇幻",
         "小说",
+        "已购",
         "战斗",
         "百合",
         "结城友奈是勇者",
@@ -2736,6 +2907,7 @@
       "total_episodes": 0,
       "id": 115989,
       "eps": 8,
+      "meta_tags": [],
       "volumes": 1,
       "series": false,
       "locked": false,

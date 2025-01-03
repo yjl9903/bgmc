@@ -29,7 +29,6 @@
         "元氣小子",
         "南央美",
         "原创",
-        "奇幻",
         "川瀬敏文",
         "忍者",
         "忍術",
@@ -37,6 +36,7 @@
         "日本",
         "旧物",
         "机战",
+        "机甲",
         "機器人",
         "狗",
         "童年",
@@ -84,16 +84,20 @@
           "value": "1993年2月24日"
         },
         {
+          "key": "导演",
+          "value": "川瀬敏文"
+        },
+        {
+          "key": "音乐",
+          "value": "長谷川智樹"
+        },
+        {
           "key": "Copyright",
           "value": "©SUNRISE INC. テレビ東京"
         },
         {
           "key": "企画",
           "value": "サンライズ"
-        },
-        {
-          "key": "导演",
-          "value": "川瀬敏文"
         },
         {
           "key": "原作",
@@ -132,10 +136,6 @@
           "value": "山崎あきら"
         },
         {
-          "key": "音乐",
-          "value": "長谷川智樹"
-        },
-        {
           "key": "制作进行",
           "value": "岡本英樹、北村真咲"
         },
@@ -167,6 +167,10 @@
       "total_episodes": 47,
       "id": 26297,
       "eps": 47,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -412,16 +416,20 @@
           "value": "テレビ朝日系列"
         },
         {
+          "key": "导演",
+          "value": "本郷みつる（#1-#SP13）、原恵一（#203-#506）、ムトウユージ（#507-）"
+        },
+        {
+          "key": "音乐",
+          "value": "荒川敏行"
+        },
+        {
           "key": "Copyright",
           "value": "© 臼井儀人／双葉社・シンエイ・テレビ朝日・ADK"
         },
         {
           "key": "原作",
           "value": "臼井儀人（らくだ社）"
-        },
-        {
-          "key": "导演",
-          "value": "本郷みつる（#1-#SP13）、原恵一（#203-#506）、ムトウユージ（#507-）"
         },
         {
           "key": "人物设定",
@@ -446,10 +454,6 @@
         {
           "key": "剪辑",
           "value": "岡安肇、村井秀明、三宅圭貴"
-        },
-        {
-          "key": "音乐",
-          "value": "荒川敏行"
         },
         {
           "key": "录音",
@@ -484,43 +488,21 @@
           "value": "テレビ朝日、アサツー ディ・ケイ / ADKエモーションズ、シンエイ動画"
         }
       ],
-      "total_episodes": 1284,
+      "total_episodes": 1309,
       "id": 24823,
       "eps": 0,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/1c/328586_72x3F.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/1c/328586_72x3F.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c8/1c/328586_72x3F.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/1c/328586_72x3F.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/1c/328586_72x3F.jpg"
-          },
-          "name": "クレヨンしんちゃん『オラと博士の夏休み』〜おわらない七日間の旅〜",
-          "name_cn": "蜡笔小新 我与博士的暑假 ~没有终点的七日之旅~",
-          "relation": "游戏",
-          "type": 4,
-          "id": 328586
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
-          },
-          "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "超级机器人大战X-Ω",
-          "relation": "游戏",
-          "type": 4,
-          "id": 141050
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/ed/2669_rav75.jpg",
@@ -534,6 +516,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 2669
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/6f/528635_ttdt4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/6f/528635_ttdt4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cc/6f/528635_ttdt4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/6f/528635_ttdt4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/6f/528635_ttdt4.jpg"
+          },
+          "name": "映画クレヨンしんちゃん 超華麗！灼熱のカスカベダンサーズ",
+          "name_cn": "电影蜡笔小新 超华丽！灼热的春日部舞者们",
+          "relation": "衍生",
+          "type": 2,
+          "id": 528635
         },
         {
           "images": {
@@ -565,6 +561,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/6c/456305_J945P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/6c/456305_J945P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/60/6c/456305_J945P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/6c/456305_J945P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/6c/456305_J945P.jpg"
+          },
+          "name": "元梦之星",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 456305
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/20/409013_Yb9X9.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/20/409013_Yb9X9.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/e7/20/409013_Yb9X9.jpg",
@@ -576,6 +586,34 @@
           "relation": "其他",
           "type": 3,
           "id": 409013
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/1c/328586_72x3F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/1c/328586_72x3F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c8/1c/328586_72x3F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/1c/328586_72x3F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/1c/328586_72x3F.jpg"
+          },
+          "name": "クレヨンしんちゃん『オラと博士の夏休み』〜おわらない七日間の旅〜",
+          "name_cn": "蜡笔小新 我与博士的暑假 ~没有终点的七日之旅~",
+          "relation": "游戏",
+          "type": 4,
+          "id": 328586
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
+          },
+          "name": "スーパーロボット大戦X-Ω",
+          "name_cn": "超级机器人大战X-Ω",
+          "relation": "游戏",
+          "type": 4,
+          "id": 141050
         },
         {
           "images": {
@@ -677,20 +715,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/8a/8970_KW33K.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/8a/8970_KW33K.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/51/8a/8970_KW33K.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/8a/8970_KW33K.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/8a/8970_KW33K.jpg"
-          },
-          "name": "クレヨンしんちゃん ヘンダーランドの大冒険",
-          "name_cn": "蜡笔小新 奇异乐园大冒险",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 8970
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/5d/489523_01Xvd.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/5d/489523_01Xvd.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/90/5d/489523_01Xvd.jpg",
@@ -702,6 +726,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 489523
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/8a/8970_KW33K.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/8a/8970_KW33K.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/51/8a/8970_KW33K.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/8a/8970_KW33K.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/8a/8970_KW33K.jpg"
+          },
+          "name": "クレヨンしんちゃん ヘンダーランドの大冒険",
+          "name_cn": "蜡笔小新 奇异乐园大冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 8970
         },
         {
           "images": {
@@ -761,20 +799,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/8a/489525_ooJ69.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/8a/489525_ooJ69.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/89/8a/489525_ooJ69.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/8a/489525_ooJ69.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/8a/489525_ooJ69.jpg"
-          },
-          "name": "ダメダメのうた",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 489525
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/99/8973_QeeDV.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/99/8973_QeeDV.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/f9/99/8973_QeeDV.jpg",
@@ -789,17 +813,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/92/489526_l6Wwo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/92/489526_l6Wwo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/97/92/489526_l6Wwo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/92/489526_l6Wwo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/92/489526_l6Wwo.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/8a/489525_ooJ69.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/8a/489525_ooJ69.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/89/8a/489525_ooJ69.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/8a/489525_ooJ69.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/8a/489525_ooJ69.jpg"
           },
-          "name": "PLEASURE",
+          "name": "ダメダメのうた",
           "name_cn": "",
           "relation": "片头曲",
           "type": 3,
-          "id": 489526
+          "id": 489525
         },
         {
           "images": {
@@ -814,6 +838,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 8982
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/92/489526_l6Wwo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/92/489526_l6Wwo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/92/489526_l6Wwo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/92/489526_l6Wwo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/92/489526_l6Wwo.jpg"
+          },
+          "name": "PLEASURE",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 489526
         },
         {
           "images": {
@@ -845,20 +883,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/88/8987_943Id.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/88/8987_943Id.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/74/88/8987_943Id.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/88/8987_943Id.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/88/8987_943Id.jpg"
-          },
-          "name": "クレヨンしんちゃん 嵐を呼ぶ アッパレ!戦国大合戦",
-          "name_cn": "蜡笔小新 呼风唤雨！战国大合战",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 8987
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/4e/489528_Cuj6i.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/4e/489528_Cuj6i.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/eb/4e/489528_Cuj6i.jpg",
@@ -870,6 +894,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 489528
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/88/8987_943Id.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/88/8987_943Id.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/88/8987_943Id.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/88/8987_943Id.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/88/8987_943Id.jpg"
+          },
+          "name": "クレヨンしんちゃん 嵐を呼ぶ アッパレ!戦国大合戦",
+          "name_cn": "蜡笔小新 呼风唤雨！战国大合战",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 8987
         },
         {
           "images": {
@@ -901,20 +939,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/88/18586_JqmEm.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/88/18586_JqmEm.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ae/88/18586_JqmEm.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/88/18586_JqmEm.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/88/18586_JqmEm.jpg"
-          },
-          "name": "T.W.L /イエローパンジーストリート",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 18586
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/84/8993_V6ZSv.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/84/8993_V6ZSv.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/47/84/8993_V6ZSv.jpg",
@@ -926,6 +950,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 8993
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/88/18586_JqmEm.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/88/18586_JqmEm.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ae/88/18586_JqmEm.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/88/18586_JqmEm.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/88/18586_JqmEm.jpg"
+          },
+          "name": "T.W.L /イエローパンジーストリート",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 18586
         },
         {
           "images": {
@@ -1069,20 +1107,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/bc/27555_KwkS2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/bc/27555_KwkS2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/19/bc/27555_KwkS2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/bc/27555_KwkS2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/bc/27555_KwkS2.jpg"
-          },
-          "name": "クレヨンしんちゃん 嵐を呼ぶ！オラと宇宙のプリンセス",
-          "name_cn": "蜡笔小新 风起云涌！我的宇宙公主",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 27555
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/45/489541_r61tZ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/45/489541_r61tZ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/da/45/489541_r61tZ.jpg",
@@ -1094,6 +1118,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 489541
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/bc/27555_KwkS2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/bc/27555_KwkS2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/19/bc/27555_KwkS2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/bc/27555_KwkS2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/bc/27555_KwkS2.jpg"
+          },
+          "name": "クレヨンしんちゃん 嵐を呼ぶ！オラと宇宙のプリンセス",
+          "name_cn": "蜡笔小新 风起云涌！我的宇宙公主",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 27555
         },
         {
           "images": {
@@ -1125,20 +1163,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/61/92412_byHBI.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/61/92412_byHBI.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/61/92412_byHBI.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/61/92412_byHBI.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/61/92412_byHBI.jpg"
-          },
-          "name": "クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん",
-          "name_cn": "蜡笔小新 决一胜负！逆袭的机器人爸爸",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 92412
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/79/489545_N9n1T.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/79/489545_N9n1T.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/95/79/489545_N9n1T.jpg",
@@ -1153,17 +1177,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/aa/225281_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/aa/225281_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9b/aa/225281_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/aa/225281_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/aa/225281_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/61/92412_byHBI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/61/92412_byHBI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f7/61/92412_byHBI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/61/92412_byHBI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/61/92412_byHBI.jpg"
           },
-          "name": "しんちゃん音頭",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 225281
+          "name": "クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん",
+          "name_cn": "蜡笔小新 决一胜负！逆袭的机器人爸爸",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 92412
         },
         {
           "images": {
@@ -1178,6 +1202,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 122890
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/aa/225281_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/aa/225281_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/aa/225281_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/aa/225281_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/aa/225281_jp.jpg"
+          },
+          "name": "しんちゃん音頭",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 225281
         },
         {
           "images": {
@@ -1209,20 +1247,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/f1/489517_6SH8I.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/f1/489517_6SH8I.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/62/f1/489517_6SH8I.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/f1/489517_6SH8I.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/f1/489517_6SH8I.jpg"
-          },
-          "name": "REGGAE",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 489517
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/10/195185_UuTdu.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/10/195185_UuTdu.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/74/10/195185_UuTdu.jpg",
@@ -1237,17 +1261,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/17/489549_L0PjT.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/17/489549_L0PjT.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/67/17/489549_L0PjT.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/17/489549_L0PjT.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/17/489549_L0PjT.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/f1/489517_6SH8I.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/f1/489517_6SH8I.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/62/f1/489517_6SH8I.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/f1/489517_6SH8I.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/f1/489517_6SH8I.jpg"
           },
-          "name": "BOYS BE BRAVE ~少年よ勇気を持て~",
+          "name": "REGGAE",
           "name_cn": "",
           "relation": "片尾曲",
           "type": 3,
-          "id": 489549
+          "id": 489517
         },
         {
           "images": {
@@ -1262,6 +1286,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 227775
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/17/489549_L0PjT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/17/489549_L0PjT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/67/17/489549_L0PjT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/17/489549_L0PjT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/17/489549_L0PjT.jpg"
+          },
+          "name": "BOYS BE BRAVE ~少年よ勇気を持て~",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 489549
         },
         {
           "images": {
@@ -1335,20 +1373,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/8c/489552_Ow0pe.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/8c/489552_Ow0pe.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/17/8c/489552_Ow0pe.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/8c/489552_Ow0pe.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/8c/489552_Ow0pe.jpg"
-          },
-          "name": "全体的に大好きです。",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 489552
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/c5/361697_hGmKQ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/c5/361697_hGmKQ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/06/c5/361697_hGmKQ.jpg",
@@ -1360,6 +1384,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 361697
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/8c/489552_Ow0pe.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/8c/489552_Ow0pe.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/17/8c/489552_Ow0pe.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/8c/489552_Ow0pe.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/8c/489552_Ow0pe.jpg"
+          },
+          "name": "全体的に大好きです。",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 489552
         },
         {
           "images": {
@@ -1377,20 +1415,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/46/137087_9Bb1I.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/46/137087_9Bb1I.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ba/46/137087_9Bb1I.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/46/137087_9Bb1I.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/46/137087_9Bb1I.jpg"
-          },
-          "name": "ありの歌",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 137087
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/ef/469483_E8C79.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/ef/469483_E8C79.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c3/ef/469483_E8C79.jpg",
@@ -1402,6 +1426,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 469483
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/46/137087_9Bb1I.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/46/137087_9Bb1I.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ba/46/137087_9Bb1I.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/46/137087_9Bb1I.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/46/137087_9Bb1I.jpg"
+          },
+          "name": "ありの歌",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 137087
         },
         {
           "images": {
@@ -1519,6 +1557,7 @@
         "今沢哲男",
         "原创",
         "園田英樹",
+        "日本",
         "日本动画",
         "旧物",
         "机战",
@@ -1567,6 +1606,10 @@
       "total_episodes": 47,
       "id": 37260,
       "eps": 47,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1657,6 +1700,7 @@
         "佐々木望",
         "山口勝平",
         "山本優",
+        "日本",
         "日本动画",
         "旧物",
         "旧番",
@@ -1693,6 +1737,10 @@
       "total_episodes": 50,
       "id": 56993,
       "eps": 52,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1762,6 +1810,14 @@
           "value": "1995年5月25日"
         },
         {
+          "key": "导演",
+          "value": "角田利隆"
+        },
+        {
+          "key": "音乐",
+          "value": "佐橋俊彦"
+        },
+        {
           "key": "原作",
           "value": "うえやまとち (講談社「モーニング」掲載)"
         },
@@ -1782,10 +1838,6 @@
           "value": "須田正己、タイガープロ"
         },
         {
-          "key": "音乐",
-          "value": "佐橋俊彦"
-        },
-        {
           "key": "美术监督",
           "value": "金村勝義"
         },
@@ -1796,15 +1848,16 @@
         {
           "key": "动画制作",
           "value": "サンシャインコーポレーション・オブ・ジャパン、トランス・アーツ、タイガープロ"
-        },
-        {
-          "key": "导演",
-          "value": "角田利隆"
         }
       ],
       "total_episodes": 52,
       "id": 195860,
       "eps": 151,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1860,6 +1913,7 @@
       "name_cn": "流浪君",
       "tags": [
         "SHIN-EI动画",
+        "TV",
         "旧物"
       ],
       "infobox": [
@@ -1892,6 +1946,10 @@
           "value": "1992年6月30日"
         },
         {
+          "key": "音乐",
+          "value": "田中公平"
+        },
+        {
           "key": "原作",
           "value": "藤子不二雄Ⓐ"
         },
@@ -1902,15 +1960,15 @@
         {
           "key": "电影",
           "value": "米谷良知"
-        },
-        {
-          "key": "音乐",
-          "value": "田中公平"
         }
       ],
       "total_episodes": 13,
       "id": 315207,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1926,11 +1984,11 @@
       "date": "1992-04-22",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/26/38163_y8b9P.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/26/38163_y8b9P.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/dc/26/38163_y8b9P.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/26/38163_y8b9P.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/26/38163_y8b9P.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/26/38163_TTl9X.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/26/38163_TTl9X.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/dc/26/38163_TTl9X.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/26/38163_TTl9X.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/26/38163_TTl9X.jpg"
       },
       "summary": "22世纪的近未来发生了一场世界战争，大战过后世界被地壳兵器破坏的面目全非。主人公伊达尔偶然遭遇了神秘机械军团的袭击，身为机士的养父兰迪斯为了让他逃走而壮烈牺牲。伊达尔开始了寻找杀父仇人的旅行。在路上他结识了失去记忆的机士杰克逊和美丽的女猎人沙哈丽，三人一起在冒险中与神秘机械军团对抗。",
       "name": "創世機士ガイアース",
@@ -1941,7 +1999,6 @@
         "AIC",
         "Artmic",
         "OVA",
-        "OVA-01",
         "robo",
         "アートミック",
         "中村大樹",
@@ -1978,6 +2035,9 @@
       "total_episodes": 3,
       "id": 38163,
       "eps": 3,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

@@ -20,9 +20,7 @@
         "1984",
         "1984-1988",
         "1984年",
-        "1984年7月",
         "80-84",
-        "80代",
         "80年代",
         "KittyFilm",
         "OVA",
@@ -31,6 +29,7 @@
         "六分",
         "其他",
         "剧场版",
+        "动画",
         "原创",
         "天野喜孝",
         "小林七郎",
@@ -39,6 +38,7 @@
         "日本动画",
         "独立ova",
         "田中平八郎",
+        "街角的童话",
         "西久保瑞穂",
         "西久保瑞穗",
         "西出栄子",
@@ -92,6 +92,10 @@
       "total_episodes": 1,
       "id": 46043,
       "eps": 1,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -132,8 +136,8 @@
       "name": "超時空要塞マクロス 愛・おぼえていますか",
       "name_cn": "超时空要塞 可曾记得爱",
       "tags": [
+        "1980s",
         "1984",
-        "1984年",
         "80年代",
         "Macross",
         "アニメ剧场",
@@ -268,6 +272,11 @@
       "total_episodes": 1,
       "id": 3172,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -276,17 +285,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/9d/43248_8XL22.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/9d/43248_8XL22.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/16/9d/43248_8XL22.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/9d/43248_8XL22.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/9d/43248_8XL22.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/3a/43249_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/3a/43249_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/54/3a/43249_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/3a/43249_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/3a/43249_jp.jpg"
           },
-          "name": "マクロス飯島真理SONGメモリー～ミンメイSINGS FOR YOU～",
-          "name_cn": "",
-          "relation": "插入歌",
+          "name": "マクロス ソング・コレクション",
+          "name_cn": "超时空要塞",
+          "relation": "其他",
           "type": 3,
-          "id": 43248
+          "id": 43249
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b2/531127_t4R74.jpg"
+          },
+          "name": "スーパーロボット大戦α for Dreamcast",
+          "name_cn": "超级机器人大战α for Dreamcast",
+          "relation": "游戏",
+          "type": 4,
+          "id": 531127
         },
         {
           "images": {
@@ -430,20 +453,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/3a/43249_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/3a/43249_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/54/3a/43249_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/3a/43249_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/3a/43249_jp.jpg"
-          },
-          "name": "マクロス ソング・コレクション",
-          "name_cn": "超时空要塞",
-          "relation": "其他",
-          "type": 3,
-          "id": 43249
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/6d/3166_Z9Q8z.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/6d/3166_Z9Q8z.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/5e/6d/3166_Z9Q8z.jpg",
@@ -455,6 +464,20 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 3166
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/9d/43248_8XL22.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/9d/43248_8XL22.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/16/9d/43248_8XL22.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/9d/43248_8XL22.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/9d/43248_8XL22.jpg"
+          },
+          "name": "マクロス飯島真理SONGメモリー～ミンメイSINGS FOR YOU～",
+          "name_cn": "",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 43248
         },
         {
           "images": {
@@ -692,6 +715,9 @@
       "total_episodes": 1,
       "id": 215100,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -735,6 +761,7 @@
         "1984",
         "80s",
         "TV",
+        "日本",
         "日本动画公司",
         "旧物",
         "童年",
@@ -757,6 +784,10 @@
       "total_episodes": 26,
       "id": 77938,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -806,13 +837,16 @@
         "TVA",
         "¬",
         "ぴえろ",
+        "一",
         "冨永みーな",
+        "冷门",
         "原创",
         "安浓高志",
         "安濃高志",
         "富田祐弘",
         "小丑社魔法少女",
         "待補1",
+        "日本",
         "日本动画",
         "旧物",
         "水島裕",
@@ -849,6 +883,10 @@
       "total_episodes": 48,
       "id": 67779,
       "eps": 48,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

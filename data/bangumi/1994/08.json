@@ -26,8 +26,8 @@
         "东映",
         "体育",
         "剧场版",
-        "动画",
         "官方原创",
+        "已下载",
         "搞笑",
         "日本",
         "有迫俊彦",
@@ -87,6 +87,9 @@
       "total_episodes": 1,
       "id": 3732,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -129,7 +132,6 @@
       "tags": [
         "1994",
         "1994年",
-        "90s",
         "90年代",
         "Macross",
         "Macrossplus",
@@ -149,6 +151,7 @@
         "河森正治",
         "渡边信一郎",
         "渡辺信一郎",
+        "爱情",
         "科幻",
         "菅野よう子",
         "菅野洋子",
@@ -247,6 +250,11 @@
       "total_episodes": 4,
       "id": 3168,
       "eps": 4,
+      "meta_tags": [
+        "科幻",
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -266,6 +274,20 @@
           "relation": "相同世界观",
           "type": 2,
           "id": 3166
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b2/531127_t4R74.jpg"
+          },
+          "name": "スーパーロボット大戦α for Dreamcast",
+          "name_cn": "超级机器人大战α for Dreamcast",
+          "relation": "游戏",
+          "type": 4,
+          "id": 531127
         },
         {
           "images": {
@@ -525,12 +547,10 @@
       "name": "ストリートファイターII MOVIE",
       "name_cn": "街头霸王2",
       "tags": [
-        "1990s",
         "1994",
         "90年代",
         "GroupTac",
         "アニメ映画",
-        "グループ・タック",
         "今井賢一",
         "今井贤一",
         "作畫向",
@@ -543,15 +563,17 @@
         "日本动画",
         "旧物",
         "春丽冲凉",
-        "杉井ギサブロー",
         "杉井仪三郎",
+        "村瀬修功",
         "桥本直人",
+        "津嘉山正种",
         "清水宏次朗",
         "游戏改",
         "游戏改编",
         "热血",
         "独立剧场版",
         "藤谷美紀",
+        "藤谷美纪",
         "街头霸王",
         "补番",
         "远藤卓司"
@@ -736,6 +758,10 @@
       "total_episodes": 1,
       "id": 69321,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -822,11 +848,11 @@
       "date": "1994-08-20",
       "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/0d/76805_Fpu1Z.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/0d/76805_Fpu1Z.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/24/0d/76805_Fpu1Z.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/0d/76805_Fpu1Z.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/0d/76805_Fpu1Z.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/0d/76805_wJFL8.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/0d/76805_wJFL8.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/24/0d/76805_wJFL8.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/0d/76805_wJFL8.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/0d/76805_wJFL8.jpg"
       },
       "summary": "一段时间以来，恶灵的力量似乎在渐渐变强，它们的活动也越来越频繁。当然对于眼里只看见钱的美神令子来说，这可是大发其财的好机会。某天，当美神和横岛忠夫、小绢等伙伴在事务所闲聊时，半空中突然出现一个武士幻影。对方自称战国时代名将明智光秀，他拜托美神阻止织田信长——史上最强大的吸血鬼乃苏腐衣罗门——的复活。无奈混乱之中，织田信长重返人间，意图吞并整个世界。罗马教皇悬赏五千万美金消灭乃苏腐衣罗门。看在钱的份上，包括美神在内世界各地驱魔师倾巢出动，等待他们的将是一场恶战……",
       "name": "GS美神 極楽大作戦!!",
@@ -878,6 +904,9 @@
       "total_episodes": 1,
       "id": 76805,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -950,10 +979,12 @@
         "1994年",
         "90年代",
         "GroupTac",
+        "TV",
         "在电视上断断续续看过",
         "子供向",
         "怪谈",
         "恐怖",
+        "日本",
         "旧物",
         "灵异",
         "补旧番"
@@ -992,12 +1023,12 @@
           "value": "1995年12月29日"
         },
         {
-          "key": "原作",
-          "value": "森京詞姫"
-        },
-        {
           "key": "导演",
           "value": "やすみ哲夫"
+        },
+        {
+          "key": "原作",
+          "value": "森京詞姫"
         },
         {
           "key": "脚本",
@@ -1007,6 +1038,11 @@
       "total_episodes": 35,
       "id": 34457,
       "eps": 35,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
