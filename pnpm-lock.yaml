@@ -104,6 +104,9 @@ importers:
       breadc:
         specifier: ^0.9.7
         version: 0.9.7
+      date-fns:
+        specifier: ^4.1.0
+        version: 4.1.0
       fastest-levenshtein:
         specifier: ^1.0.16
         version: 1.0.16
@@ -1446,6 +1449,9 @@ packages:
   data-uri-to-buffer@6.0.1:
     resolution: {integrity: sha512-MZd3VlchQkp8rdend6vrx7MmVDJzSNTBvghvKjirLkD+WTChA3KUf0jkE68Q4UyctNqI11zZO9/x2Yx+ub5Cvg==}
     engines: {node: '>= 14'}
+
+  date-fns@4.1.0:
+    resolution: {integrity: sha512-Ukq0owbQXxa/U3EGtsdVBkR1w7KOQ5gIBqdH2hkvknzZPYvBxb/aa6E8L7tmjFtkwZBu3UXBbjIgPo/Ez4xaNg==}
 
   debug@4.3.4:
     resolution: {integrity: sha512-PRWFHuSU3eDtQJPvnNY7Jcket1j0t5OuOsFzPPzsekD52Zl8qUfFIPEiswXqIvHWGVHOgX+7G/vCNNhehwxfkQ==}
@@ -4554,6 +4560,8 @@ snapshots:
   data-uri-to-buffer@4.0.1: {}
 
   data-uri-to-buffer@6.0.1: {}
+
+  date-fns@4.1.0: {}
 
   debug@4.3.4:
     dependencies:

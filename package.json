@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "bgmc": "tsx packages/bgmc/src/cli.ts",
+    "bgmx": "tsx packages/bgmx/src/cli.ts",
     "bgmd": "tsx packages/scraper/src/cli.ts",
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",

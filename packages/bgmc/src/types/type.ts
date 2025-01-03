@@ -60,8 +60,7 @@ export namespace BGMUser {
   export type Information =
     paths['/v0/users/{username}']['get']['responses']['200']['content']['application/json'];
 
-  export type Me =
-    paths['/v0/me']['get']['responses']['200']['content']['application/json'];
+  export type Me = paths['/v0/me']['get']['responses']['200']['content']['application/json'];
 }
 
 /** 收藏 */
@@ -111,8 +110,7 @@ export namespace BGMCategory {
   export type Information =
     paths['/v0/indices/{index_id}']['get']['responses']['200']['content']['application/json'];
 
-  export type Subjects =
-    paths['/v0/indices/{index_id}/subjects']['get']['responses']['200'];
+  export type Subjects = paths['/v0/indices/{index_id}/subjects']['get']['responses']['200'];
 
   export type Create =
     paths['/v0/indices']['post']['responses']['200']['content']['application/json'];
@@ -123,11 +121,9 @@ export namespace BGMCategory {
   export type DeleteSubject =
     paths['/v0/indices/{index_id}/subjects/{subject_id}']['delete']['responses']['200'];
 
-  export type Collect =
-    paths['/v0/indices/{index_id}/collect']['post']['responses']['200'];
+  export type Collect = paths['/v0/indices/{index_id}/collect']['post']['responses']['200'];
 
-  export type DeleteCollect =
-    paths['/v0/indices/{index_id}/collect']['delete']['responses']['200'];
+  export type DeleteCollect = paths['/v0/indices/{index_id}/collect']['delete']['responses']['200'];
 }
 
 export type { BGMCategory as BGMIndices };

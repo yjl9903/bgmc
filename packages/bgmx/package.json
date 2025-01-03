@@ -34,7 +34,7 @@
   ],
   "scripts": {
     "build": "unbuild",
-    "format": "prettier --write src/**/*.ts test/**/*.ts",
+    "format": "prettier --write src/**/*.ts",
     "release": "release-it"
   },
   "dependencies": {
@@ -44,6 +44,7 @@
     "bgmd": "workspace:*",
     "bgmt": "workspace:*",
     "breadc": "^0.9.7",
+    "date-fns": "^4.1.0",
     "fastest-levenshtein": "^1.0.16",
     "fs-extra": "^11.2.0",
     "rimraf": "^6.0.1",

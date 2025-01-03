@@ -21,8 +21,7 @@ export namespace BGMSubjectParams {
 
   export type Persons = paths['/v0/subjects/{subject_id}/persons']['get']['parameters'];
 
-  export type Characters =
-    paths['/v0/subjects/{subject_id}/characters']['get']['parameters'];
+  export type Characters = paths['/v0/subjects/{subject_id}/characters']['get']['parameters'];
 
   export type Subjects = paths['/v0/subjects/{subject_id}/subjects']['get']['parameters'];
 }
@@ -40,11 +39,9 @@ export namespace BGMCharacterParams {
 
   export type Image = paths['/v0/characters/{character_id}/image']['get']['parameters'];
 
-  export type Subjects =
-    paths['/v0/characters/{character_id}/subjects']['get']['parameters'];
+  export type Subjects = paths['/v0/characters/{character_id}/subjects']['get']['parameters'];
 
-  export type Persons =
-    paths['/v0/characters/{character_id}/persons']['get']['parameters'];
+  export type Persons = paths['/v0/characters/{character_id}/persons']['get']['parameters'];
 }
 
 /** 人物 */
@@ -55,8 +52,7 @@ export namespace BGMPersonParams {
 
   export type Subject = paths['/v0/persons/{person_id}/subjects']['get']['parameters'];
 
-  export type Characters =
-    paths['/v0/persons/{person_id}/characters']['get']['parameters'];
+  export type Characters = paths['/v0/persons/{person_id}/characters']['get']['parameters'];
 }
 
 /** 用户 */
@@ -68,11 +64,9 @@ export namespace BGMUserParams {
 
 /** 收藏 */
 export namespace BGMCollectionParams {
-  export type Information =
-    paths['/v0/users/{username}/collections']['get']['parameters'];
+  export type Information = paths['/v0/users/{username}/collections']['get']['parameters'];
 
-  export type Subject =
-    paths['/v0/users/{username}/collections/{subject_id}']['get']['parameters'];
+  export type Subject = paths['/v0/users/{username}/collections/{subject_id}']['get']['parameters'];
 
   /* ============ S - PatchSubject ============ */
 
@@ -126,8 +120,7 @@ export namespace BGMCollectionParams {
 export namespace BGMEditHistoryParams {
   export type Persons = paths['/v0/revisions/persons']['get']['parameters'];
 
-  export type PersonRevision =
-    paths['/v0/revisions/persons/{revision_id}']['get']['parameters'];
+  export type PersonRevision = paths['/v0/revisions/persons/{revision_id}']['get']['parameters'];
 
   export type Characters = paths['/v0/revisions/characters']['get']['parameters'];
 
@@ -136,13 +129,11 @@ export namespace BGMEditHistoryParams {
 
   export type Subjects = paths['/v0/revisions/subjects']['get']['parameters'];
 
-  export type SubjectRevision =
-    paths['/v0/revisions/subjects/{revision_id}']['get']['parameters'];
+  export type SubjectRevision = paths['/v0/revisions/subjects/{revision_id}']['get']['parameters'];
 
   export type Episodes = paths['/v0/revisions/episodes']['get']['parameters'];
 
-  export type EpisodeRevision =
-    paths['/v0/revisions/episodes/{revision_id}']['get']['parameters'];
+  export type EpisodeRevision = paths['/v0/revisions/episodes/{revision_id}']['get']['parameters'];
 }
 
 /** 目录 */
@@ -164,8 +155,7 @@ export namespace BGMCategoryParams {
   export type Subjects = paths['/v0/indices/{index_id}/subjects']['get']['parameters'];
 
   /* ============== S - AddSubjects ================= */
-  type AddSubjectsPath =
-    paths['/v0/indices/{index_id}/subjects']['post']['parameters']['path'];
+  type AddSubjectsPath = paths['/v0/indices/{index_id}/subjects']['post']['parameters']['path'];
 
   type AddSubjectsRequestBody =
     paths['/v0/indices/{index_id}/subjects']['post']['requestBody']['content']['application/json'];
@@ -194,8 +184,7 @@ export namespace BGMCategoryParams {
 
   export type Collect = paths['/v0/indices/{index_id}/collect']['post']['parameters'];
 
-  export type DeleteCollect =
-    paths['/v0/indices/{index_id}/collect']['delete']['parameters'];
+  export type DeleteCollect = paths['/v0/indices/{index_id}/collect']['delete']['parameters'];
 }
 export type { BGMCategoryParams as BGMIndicesParams };
 

@@ -1,13 +1,12 @@
-import { fetch } from 'undici';
-
 export const ufetch = async (url: RequestInfo, init?: RequestInit): Promise<Response> => {
   const proxy = getProxy();
   if (!!proxy) {
-    const { ProxyAgent } = await import('undici');
     // @ts-ignore
+    const { EnvHttpProxyAgent } = await import('undici');
     return fetch(url, {
       ...init,
-      dispatcher: new ProxyAgent(proxy)
+      // @ts-ignore
+      dispatcher: new EnvHttpProxyAgent()
     });
   } else {
     // @ts-ignore
