@@ -170,7 +170,7 @@ jobs:
       - name: Fetch TMDB
         if: ${{ inputs.tmdb }}
         run: |
-          npx tsx packages/bgmd/scripts/tmdb.ts --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
+          pnpm run bgmx fetch tmdb --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
 
           if [ "${{ needs.prepare.outputs.overwrite }}" = true ] ; then
             grep "^Info:"  run.log > data/tmdb-info.log  || true
