@@ -97,18 +97,24 @@ jobs:
 
           # Output Info
           echo '## Fetch new bangumi' >> $output
-          while IFS= read -r line; do
+          info_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-info.log" "bangumi-info.log")
+          echo "$info_diff" | while IFS= read -r line; do
             line="${line/Info: /}"
             line="${line/fetch /}"
             echo "- ${line}" >> $output
-          done < bangumi-info.log
+          done
 
           # Output Error
           echo '## Error' >> $output
-          while IFS= read -r line; do
+          error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-error.log" "bangumi-error.log")
+          echo "$error_diff" | while IFS= read -r line; do
             line="${line/Error: /}"
             echo "- ${line}" >> $output
-          done < bangumi-error.log
+          done
+
+          # Update
+          grep "^Info:"  run.log > data/bangumi-info.log  || true
+          grep "^Error:" run.log > data/bangumi-error.log || true
 
       # - name: Upload artifact
       #   uses: actions/upload-artifact@v3
@@ -171,16 +177,8 @@ jobs:
         if: ${{ inputs.tmdb }}
         run: |
           pnpm run bgmx fetch tmdb --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
-
-          if [ "${{ needs.prepare.outputs.overwrite }}" = true ] ; then
-            grep "^Info:"  run.log > data/tmdb-info.log  || true
-            grep "^Error:" run.log > data/tmdb-error.log || true
-          else
-            grep "^Info:"  run.log > data/tmdb-info.log  || true
-            grep "^Error:" run.log > data/tmdb-error.log || true
-            grep "^Info:"  run.log > tmdb-info.log  || true
-            grep "^Error:" run.log > tmdb-error.log || true
-          fi
+          grep "^Info:"  run.log >  tmdb-info.log  || true
+          grep "^Error:" run.log >  tmdb-error.log || true
 
           # Generate markdown summary
           output=data/tmdb.md
@@ -188,18 +186,29 @@ jobs:
 
           # Output Info
           echo '## Fetch new bangumi' >> $output
-          while IFS= read -r line; do
+          info_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/tmdb-info.log" "tmdb-info.log")
+          echo "$info_diff" | while IFS= read -r line; do
             line="${line/Info: /}"
             line="${line/fetch /}"
             echo "- ${line}" >> $output
-          done < tmdb-info.log
+          done
 
           # Output Error
           echo '## Error' >> $output
-          while IFS= read -r line; do
-            clean_line="${line/Error: /}"
-            echo "- ${clean_line}" >> $output
-          done < tmdb-error.log
+          error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/tmdb-error.log" "tmdb-error.log")
+          echo "$error_diff" | while IFS= read -r line; do
+            line="${line/Error: /}"
+            echo "- ${line}" >> $output
+          done
+
+          # Update
+          if [ "${{ needs.prepare.outputs.overwrite }}" = true ] ; then
+            grep "^Info:"  run.log >  data/tmdb-info.log  || true
+            grep "^Error:" run.log >  data/tmdb-error.log || true
+          else
+            grep "^Info:"  run.log >> data/tmdb-info.log  || true
+            grep "^Error:" run.log >  data/tmdb-error.log || true
+          fi
 
       # - name: Upload artifact
       #   uses: actions/upload-artifact@v3
