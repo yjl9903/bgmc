@@ -1,6 +1,5 @@
 import fs from 'fs-extra';
 import path from 'node:path';
-import { fileURLToPath } from 'node:url';
 
 import type { RelatedSubject, SubjectInformation } from 'bgmc';
 import type { SearchTVResultItem, SearchMovieResultItem, SearchMultiResultItem } from 'tmdbc';
@@ -8,14 +7,6 @@ import type { SearchTVResultItem, SearchMovieResultItem, SearchMultiResultItem }
 import { items, type Item } from 'bangumi-data';
 
 import { BangumiRelations, SeasonSuffix } from './constants';
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-
-const DataRoot = path.join(__dirname, '../../../data');
-
-export const BangumiDataRoot = path.join(DataRoot, 'bangumi');
-
-export const TMDBDataRoot = path.join(DataRoot, 'tmdb');
 
 export interface TMDBItem {
   title: string;
@@ -60,8 +51,8 @@ export class OfflineBangumi {
 
   private readonly data: Map<number, Item> = new Map();
 
-  public constructor() {
-    this.root = BangumiDataRoot;
+  public constructor(root: string) {
+    this.root = root;
     for (const item of items) {
       const bgm = item.sites.find((site) => site.site === 'bangumi');
       if (bgm) {
@@ -165,8 +156,8 @@ export class OfflineTMDB {
 
   private readonly data: Map<number, Item> = new Map();
 
-  public constructor() {
-    this.root = TMDBDataRoot;
+  public constructor(root: string) {
+    this.root = root;
     for (const item of items) {
       const bgm = item.sites.find((site) => site.site === 'bangumi');
       if (bgm) {

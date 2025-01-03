@@ -8,13 +8,15 @@ import type { FullBangumi } from 'bgmd/types';
 
 import { transform } from 'bgmd/transform';
 
+import type { Context } from '../types';
+
 import { BangumiItem, OfflineBangumi, OfflineTMDB } from '../offline';
 
-export async function buildData() {
-  const outDir = './data';
+export async function buildData(ctx: Context) {
+  const outDir = ctx.outDir;
 
-  const tmdbDB = new OfflineTMDB();
-  const bangumiDB = new OfflineBangumi();
+  const tmdbDB = new OfflineTMDB(ctx.bangumiRoot);
+  const bangumiDB = new OfflineBangumi(ctx.tmdbRoot);
 
   await clearOutDir(outDir);
   await tmdbDB.load();
