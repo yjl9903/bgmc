@@ -15,6 +15,8 @@
 
 [![version](https://img.shields.io/npm/v/bgmd?label=bgmd)](https://www.npmjs.com/package/bgmd)
 
+Bundled bangumi data.
+
 ```bash
 npm i bgmd
 ```
@@ -38,6 +40,8 @@ console.log(calendar);
 
 [![version](https://img.shields.io/npm/v/bgmc?label=bgmc)](https://www.npmjs.com/package/bgmc)
 
+JavaScript [Bangumi](https://bgm.tv) client bindings.
+
 ```bash
 npm i bgmc
 ```
@@ -54,6 +58,8 @@ console.log(calendar);
 ### tmdbc
 
 [![version](https://img.shields.io/npm/v/tmdbc?label=tmdbc)](https://www.npmjs.com/package/tmdbc)
+
+JavaScript [TMDB](https://www.themoviedb.org/) client bindings.
 
 ```bash
 npm i tmdbc

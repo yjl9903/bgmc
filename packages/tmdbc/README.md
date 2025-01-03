@@ -1,7 +1,9 @@
-# TMDB Client
+# tmdbc
 
 [![version](https://img.shields.io/npm/v/tmdbc?label=tmdbc)](https://www.npmjs.com/package/tmdbc)
 [![CI](https://github.com/yjl9903/bgmc/actions/workflows/ci.yml/badge.svg)](https://github.com/yjl9903/bgmc/actions/workflows/ci.yml)
+
+JavaScript [TMDB](https://www.themoviedb.org/) client bindings.
 
 ## Installation
 
