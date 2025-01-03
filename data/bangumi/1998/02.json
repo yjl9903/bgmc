@@ -26,6 +26,7 @@
         "偶像",
         "内涵",
         "剧场版",
+        "剧情",
         "动画",
         "动画电影",
         "原创",
@@ -38,7 +39,6 @@
         "映画",
         "未麻的部屋",
         "村井さだゆき",
-        "村井贞之",
         "松尾衡",
         "梦",
         "电影",
@@ -114,6 +114,13 @@
       "total_episodes": 1,
       "id": 839,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "惊悚",
+        "悬疑",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -231,7 +238,6 @@
         "90年代",
         "Nadesico",
         "OVA",
-        "OVA-01",
         "XEBEC",
         "robo",
         "佐藤竜雄",
@@ -242,6 +248,7 @@
         "原创",
         "單集長篇",
         "小黒祐一郎",
+        "恶搞",
         "战斗",
         "日本",
         "日本动画",
@@ -292,6 +299,10 @@
       "total_episodes": 1,
       "id": 32330,
       "eps": 1,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -314,11 +325,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/f2/516_9p077.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/f2/516_9p077.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f3/f2/516_9p077.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/f2/516_9p077.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/f2/516_9p077.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/f2/516_bjohn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/f2/516_bjohn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f3/f2/516_bjohn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/f2/516_bjohn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/f2/516_bjohn.jpg"
           },
           "name": "機動戦艦ナデシコ -The prince of darkness-",
           "name_cn": "机动战舰抚子号 暗黑王子",
@@ -339,6 +350,20 @@
           "relation": "画集",
           "type": 1,
           "id": 436018
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/cf/514019_Vyi2H.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/cf/514019_Vyi2H.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fa/cf/514019_Vyi2H.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/cf/514019_Vyi2H.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/cf/514019_Vyi2H.jpg"
+          },
+          "name": "勝利のVだ! ゲキ・ガンガーV/正義のロボット ゲキ・ガンガー3",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 514019
         }
       ]
     }
@@ -366,23 +391,23 @@
         "MADHouse",
         "TV",
         "TVB",
-        "TV（集数1-49）",
         "robo",
         "中西伸彰",
         "动",
         "动画",
         "原创",
         "台视",
+        "喜剧",
         "喵帕斯记录~",
         "子供向",
         "年番組",
         "彈珠人",
+        "搞笑",
         "日本",
         "未保存",
         "永远的回忆",
         "沒看全",
         "没看完系列",
-        "浦畑達彦",
         "童年",
         "童年系列",
         "经典",
@@ -464,6 +489,10 @@
       "total_episodes": 48,
       "id": 37468,
       "eps": 48,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -549,24 +578,21 @@
         "1996",
         "90s",
         "OVA",
-        "OVA-01",
-        "SUNRISE",
+        "ブロッコリー",
         "东京",
-        "中庸",
         "关智一",
         "冰上恭子",
-        "北京",
+        "大貫健一",
+        "山内富夫",
         "战斗",
         "旧物",
         "水谷优子",
         "津久井教生",
         "热血",
         "独立ova",
-        "男主发型飙",
         "白石文子",
         "真殿光昭",
         "秋元洋介",
-        "紫禁城",
         "荒木英樹",
         "赛璐珞",
         "超能力格斗"
@@ -599,12 +625,30 @@
       "total_episodes": 2,
       "id": 53195,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/59/519378_Wvkk7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/59/519378_Wvkk7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/59/519378_Wvkk7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/59/519378_Wvkk7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/59/519378_Wvkk7.jpg"
+          },
+          "name": "サイキックフォース",
+          "name_cn": "超能力格斗",
+          "relation": "游戏",
+          "type": 4,
+          "id": 519378
+        }
+      ]
     }
   },
   {
@@ -627,9 +671,9 @@
         "1998",
         "1998年",
         "2018年",
+        "20世纪平成",
         "KittyFilm",
         "OVA",
-        "OVA-01",
         "SF",
         "キティ・フィルム",
         "ケイファクトリー",
@@ -708,6 +752,10 @@
       "total_episodes": 4,
       "id": 79661,
       "eps": 4,
+      "meta_tags": [
+        "OVA",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -846,6 +894,10 @@
       "total_episodes": 4,
       "id": 79660,
       "eps": 4,
+      "meta_tags": [
+        "OVA",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -947,9 +999,9 @@
         "战斗",
         "日本",
         "日本动画",
-        "独立OVA、OAD、特番",
         "田中芳树",
         "田原正利",
+        "白銀の谷",
         "石黑升",
         "石黒昇",
         "科幻",
@@ -976,6 +1028,10 @@
       "total_episodes": 4,
       "id": 79658,
       "eps": 4,
+      "meta_tags": [
+        "OVA",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

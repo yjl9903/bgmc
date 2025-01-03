@@ -21,6 +21,7 @@
         "估计是冷番",
         "子供向",
         "想补的旧番",
+        "日本",
         "日本动画公司",
         "绘本"
       ],
@@ -72,6 +73,10 @@
       "total_episodes": 26,
       "id": 9851,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -177,6 +182,9 @@
       "total_episodes": 5,
       "id": 10494,
       "eps": 5,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -217,6 +225,8 @@
       "name": "ネリーとセザール",
       "name_cn": "奈丽和塞泽尔",
       "tags": [
+        "TV",
+        "欧美",
         "空"
       ],
       "infobox": [
@@ -260,6 +270,10 @@
       "total_episodes": 50,
       "id": 9852,
       "eps": 52,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -287,7 +301,9 @@
       "tags": [
         "10年代",
         "2010",
+        "2010s",
         "2010年秋",
+        "6(+1)",
         "SHIN-EI",
         "TV",
         "TVA",
@@ -297,6 +313,7 @@
         "ムトウユージ",
         "原创",
         "子供向",
+        "日本",
         "日本动画",
         "武藤裕治",
         "汤浅政明",
@@ -334,6 +351,10 @@
       "total_episodes": 14,
       "id": 210466,
       "eps": 14,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -397,6 +418,9 @@
       "total_episodes": 15,
       "id": 210761,
       "eps": 15,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -439,13 +463,13 @@
       "tags": [
         "2010",
         "2010年",
-        "2010年10月",
         "2010年11月",
         "ARIA再來",
         "HAL_FILM_MAKER",
         "HalFilmMaker",
         "OVA",
         "TV",
+        "井口裕香",
         "佐藤順一",
         "佐藤顺一",
         "原创",
@@ -560,17 +584,27 @@
           "value": "HAL FILM MAKER"
         },
         {
-          "key": "制作",
-          "value": "たまゆら製作委員会"
+          "key": "製作",
+          "value": "たまゆら製作委員会（松竹、AT-X、フライングドッグ、ゆめ太カンパニー、NECビッグローブ、マックレイ)"
         },
         {
           "key": "Copyright",
           "value": "©佐藤順一・TYA/たまゆら製作委員会"
+        },
+        {
+          "key": "制片人",
+          "value": "田坂秀将、山崎明日香、伊藤将生、栗田滋弘、甲斐健太郎"
         }
       ],
       "total_episodes": 4,
       "id": 8452,
       "eps": 4,
+      "meta_tags": [
+        "日本",
+        "OVA",
+        "原创",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -764,6 +798,9 @@
       "total_episodes": 12,
       "id": 10070,
       "eps": 12,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -795,10 +832,10 @@
         "OAD",
         "OVA",
         "☆OVA",
+        "七星",
         "下野紘",
         "今井麻美",
         "伊藤浩二",
-        "动画",
         "岡本信彦",
         "平川大輔",
         "恋爱",
@@ -877,6 +914,10 @@
       "total_episodes": 4,
       "id": 9368,
       "eps": 4,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -936,29 +977,29 @@
         "FANS向",
         "OVA",
         "Satelight",
-        "♥",
+        "fanservice",
         "サテライト",
         "乌鸦君",
         "伊瀬茉莉也",
-        "入野自由",
         "前作烂",
+        "前川淳",
         "动画",
-        "卖肉",
         "各种王",
-        "大原さやか",
         "大暮维人",
+        "小林优",
+        "川澄綾子",
         "戸松遥",
-        "日本",
-        "杉田智和",
-        "東映アニメーション",
+        "早見沙織",
         "校园",
         "滑板鞋",
         "漫改",
         "漫画改",
         "热血",
+        "皮哥叫我看的",
         "石平信司",
+        "神作",
         "竞技",
-        "补番",
+        "肉",
         "运动",
         "飞轮少年"
       ],
@@ -999,6 +1040,10 @@
       "total_episodes": 3,
       "id": 10299,
       "eps": 3,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1032,136 +1077,6 @@
           "relation": "书籍",
           "type": 1,
           "id": 23363
-        }
-      ]
-    }
-  },
-  {
-    "title": "装甲騎兵ボトムズ Case;IRVINE",
-    "date": "2010-11-06",
-    "bangumi": {
-      "date": "2010-11-06",
-      "platform": "OVA",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/24/13406_JTow1.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/24/13406_JTow1.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/ad/24/13406_JTow1.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/24/13406_JTow1.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/24/13406_JTow1.jpg"
-      },
-      "summary": "故事以一个名为亚斯特拉纽斯银河中的“百年战争”为舞台，主角齐力可‧裘比被迫参与甚至不知目的为何的作战，并在执行任务作战时，命运般遇见了一名置于培养槽中的神秘女性“幽灵淑女”。在同僚的攻击下，齐力可屡次面临死亡危机，但却总是奇迹地捡回一条命，并逃亡到乌德街；但在那儿仍然被持续追杀。他历经地下赌博比赛“战斗竞技场”及库绵的内乱等战场，不断地追寻着自己一直被追杀的谜，还有幽灵淑女的身影，而在银河中流浪…",
-      "name": "装甲騎兵ボトムズ Case;IRVINE",
-      "name_cn": "装甲骑兵 Case;IRVINE",
-      "tags": [
-        "2010",
-        "2010年",
-        "23-100",
-        "OVA",
-        "OVA-01",
-        "OVA8",
-        "SUNRISE",
-        "SUNRISR",
-        "robo",
-        "サンライズ",
-        "中庸",
-        "五十岚达也",
-        "五十嵐達也",
-        "佐藤卓哉",
-        "其他",
-        "动画",
-        "原创",
-        "單集長篇",
-        "平川大輔",
-        "户外",
-        "日本",
-        "日本动画",
-        "机战",
-        "机甲",
-        "独立ova",
-        "科幻",
-        "萝卜",
-        "装甲騎兵ボトムズ",
-        "装甲骑兵",
-        "高橋良輔"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "装甲骑兵 Case;IRVINE"
-        },
-        {
-          "key": "话数",
-          "value": "1"
-        },
-        {
-          "key": "发售日",
-          "value": "2011年2月25日"
-        },
-        {
-          "key": "上映年度",
-          "value": "2010年11月6日"
-        },
-        {
-          "key": "原作",
-          "value": "矢立肇、高橋良輔"
-        },
-        {
-          "key": "导演",
-          "value": "五十嵐達也"
-        },
-        {
-          "key": "脚本",
-          "value": "佐藤卓哉"
-        },
-        {
-          "key": "人物设定",
-          "value": "久行宏和"
-        },
-        {
-          "key": "原画",
-          "value": "大塚健、高瀬健一"
-        },
-        {
-          "key": "动画制作",
-          "value": "サンライズ"
-        }
-      ],
-      "total_episodes": 1,
-      "id": 13406,
-      "eps": 1,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/ba/10379_y3cGG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/ba/10379_y3cGG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c1/ba/10379_y3cGG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/ba/10379_y3cGG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/ba/10379_y3cGG.jpg"
-          },
-          "name": "装甲騎兵ボトムズ",
-          "name_cn": "装甲骑兵VOTOMS",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 10379
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/30/11763_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/30/11763_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d6/30/11763_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/30/11763_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/30/11763_jp.jpg"
-          },
-          "name": "星を求めて",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 11763
         }
       ]
     }
@@ -1282,6 +1197,9 @@
       "total_episodes": 1,
       "id": 111231,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1290,11 +1208,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/17/40388_92io2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/17/40388_92io2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4d/17/40388_92io2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/17/40388_92io2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/17/40388_92io2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/17/40388_s2q21.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/17/40388_s2q21.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4d/17/40388_s2q21.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/17/40388_s2q21.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/17/40388_s2q21.jpg"
           },
           "name": "あたしンち",
           "name_cn": "我们这一家",
@@ -1356,7 +1274,6 @@
         "2010年11月",
         "OAD",
         "OVA",
-        "OVA-01",
         "OVA-OAD",
         "TV",
         "上田芳裕",
@@ -1376,6 +1293,7 @@
         "热血",
         "热血战斗",
         "王道向",
+        "童年",
         "童年系列",
         "高木洋",
         "鸟山明",
@@ -1398,6 +1316,9 @@
       "total_episodes": 1,
       "id": 204116,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1518,6 +1439,11 @@
       "total_episodes": 1,
       "id": 4274,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

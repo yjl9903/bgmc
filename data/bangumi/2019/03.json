@@ -91,6 +91,9 @@
       "total_episodes": 4,
       "id": 192156,
       "eps": 4,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -166,6 +169,20 @@
           "relation": "其他",
           "type": 3,
           "id": 319398
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8c/10/520707_9q98o.jpg"
+          },
+          "name": "宇宙戦艦ヤマト 未来への航路",
+          "name_cn": "宇宙战舰大和号 未来航路",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520707
         }
       ]
     }
@@ -195,7 +212,6 @@
         "movie",
         "アニメ映画",
         "七人魔法使",
-        "佐倉綾音",
         "内田彩",
         "剧场版",
         "动画电影",
@@ -203,6 +219,7 @@
         "原由実",
         "后宫",
         "奇幻",
+        "已下载",
         "战斗",
         "日本动画",
         "東山奈央",
@@ -210,10 +227,10 @@
         "校园",
         "漫改",
         "漫画改",
+        "续作",
         "肉",
         "肉番",
         "谐教",
-        "轻小说改",
         "追的番怎么都得看完再扔",
         "錦織博",
         "魔法"
@@ -247,6 +264,12 @@
       "total_episodes": 1,
       "id": 252432,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "后宫",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -383,11 +406,11 @@
     }
   },
   {
-    "title": "グリザイア：ファントムトリガー THE ANIMATIION",
+    "title": "グリザイア：ファントムトリガー THE ANIMATION",
     "date": "2019-03-15",
     "bangumi": {
       "date": "2019-03-15",
-      "platform": "OVA",
+      "platform": "剧场版",
       "images": {
         "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/02/219263_fjglg.jpg",
         "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/02/219263_fjglg.jpg",
@@ -396,13 +419,14 @@
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/02/219263_fjglg.jpg"
       },
       "summary": "由“国家组织CIRS”新设的特殊技能训练校“美滨学园”……\r\n因各种原因失去归所的少女们被交付的是，枪与实弹。\r\n使用手枪的玲奈、擅长狙击的桐花、炸弹与信息处理的克莉丝、负责谍报活动的忍者邑沙季。\r\n她们每天都以SORD成员的身份，处理警察及自卫队无法解决的事件，不断进行着危险的活动。\r\nK县U港——。准备入国的重要人士突然消失了。\r\nSORD成员开始调查失踪事件，但每当即将捕获消失的“行李”时，就会在还差一点的时候被其逃脱。\r\n与姊妹校“京船樱丘”的SORD成员双子姐妹并肩作战，以及争执。\r\n以及——在夜晚的城镇中疾奔的神秘女骑手“Soul Speed”·真纪的传闻——。\r\n追踪最终转变成壮烈的死战，将身心一并撕裂。\r\n……但这同时还是，通往玲奈她们相遇之前的过去的旅程。",
-      "name": "グリザイア：ファントムトリガー THE ANIMATIION",
+      "name": "グリザイア：ファントムトリガー THE ANIMATION",
       "name_cn": "灰色：幻影扳机",
       "tags": [
         "2018",
         "2019",
         "2019年",
         "2019年3月",
+        "2019年4月",
         "Bibury",
         "BiburyAnimationStudios",
         "Frontwing",
@@ -413,19 +437,18 @@
         "バイブリーアニメーションスタジオ",
         "佐倉綾音",
         "剧场版",
-        "动画",
         "南条爱乃",
         "后宫",
         "天冲",
         "天衝",
-        "恋爱",
         "战斗",
         "日本动画",
+        "村山公辅",
         "校园",
         "渡边明夫",
         "渡辺明夫",
         "游戏改",
-        "灰色:幻影扳机",
+        "灰色",
         "灰色系列",
         "灰色：幻影扳机",
         "续作"
@@ -450,23 +473,23 @@
           ]
         },
         {
-          "key": "话数",
-          "value": "2"
+          "key": "上映年度",
+          "value": "2019年3月15日"
         },
         {
           "key": "官方网站",
           "value": "http://grisaia-pt.com/gptanime/"
         },
         {
-          "key": "上映年度",
-          "value": "2019年3月15日"
-        },
-        {
           "key": "Copyright",
           "value": "© Frontwing"
         },
         {
-          "key": "BD发售",
+          "key": "话数",
+          "value": "2"
+        },
+        {
+          "key": "发售日",
           "value": "2019年6月28日"
         },
         {
@@ -485,6 +508,10 @@
       "total_episodes": 2,
       "id": 219263,
       "eps": 2,
+      "meta_tags": [
+        "剧场版",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -584,7 +611,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/87/281325_ZlUKk.jpg"
           },
           "name": "グリザイア：ファントムトリガー THE ANIMATION スターゲイザー",
-          "name_cn": "灰色：幻影扳机 STARGAZER",
+          "name_cn": "灰色：幻影扳机 观星者",
           "relation": "续集",
           "type": 2,
           "id": 281325
@@ -598,7 +625,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/f1/196258_U7fUl.jpg"
           },
           "name": "グリザイア：ファントムトリガー 第1巻",
-          "name_cn": "灰色幻影扳机 第1巻",
+          "name_cn": "灰色幻影扳机 第1卷",
           "relation": "游戏",
           "type": 4,
           "id": 196258
@@ -640,6 +667,7 @@
         "2019",
         "2019年",
         "2019年3月",
+        "2019年4月",
         "PIERROT",
         "StudioPierrot",
         "anime",
@@ -651,7 +679,6 @@
         "原创",
         "声优",
         "小野大輔",
-        "屹青",
         "搞笑",
         "日本",
         "日本动画",
@@ -727,6 +754,11 @@
       "total_episodes": 7,
       "id": 257740,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -895,6 +927,9 @@
       "total_episodes": 1,
       "id": 249246,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -956,6 +991,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 286286
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/79/520596_qnneq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/79/520596_qnneq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/79/520596_qnneq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/79/520596_qnneq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/79/520596_qnneq.jpg"
+          },
+          "name": "KING OF PRISM 煌",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520596
         }
       ]
     }
@@ -1020,6 +1069,9 @@
       "total_episodes": 1,
       "id": 249247,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1095,6 +1147,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 286286
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/79/520596_qnneq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/79/520596_qnneq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/79/520596_qnneq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/79/520596_qnneq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/79/520596_qnneq.jpg"
+          },
+          "name": "KING OF PRISM 煌",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520596
         }
       ]
     }
@@ -1130,13 +1196,12 @@
         "动画",
         "原创",
         "反乌托邦",
-        "塩谷直义",
         "塩谷直義",
         "心理测量者",
         "悬疑",
         "战斗",
         "日本",
-        "映画",
+        "浅野恭司",
         "深見真",
         "深见真",
         "犯罪",
@@ -1145,7 +1210,8 @@
         "续作",
         "菅野祐悟",
         "虚渊玄",
-        "赛博朋克"
+        "赛博朋克",
+        "関智一"
       ],
       "infobox": [
         {
@@ -1188,6 +1254,12 @@
       "total_episodes": 1,
       "id": 239926,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1280,11 +1352,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/4f/471338_S3gd3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/4f/471338_S3gd3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/30/4f/471338_S3gd3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/4f/471338_S3gd3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/4f/471338_S3gd3.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/4f/471338_JPvZv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/4f/471338_JPvZv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/30/4f/471338_JPvZv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/4f/471338_JPvZv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/4f/471338_JPvZv.jpg"
           },
           "name": "PSYCHO-PASS 10th ANNIVERSARY BEST",
           "name_cn": "",
@@ -1315,9 +1387,9 @@
         "19冬",
         "2019",
         "2019冬",
+        "2019年03月",
         "2019年1月",
         "2019年3月",
-        "2019年4月",
         "IMAGICA",
         "IMAGICALab.",
         "IMAGICA_Lab.",
@@ -1328,14 +1400,14 @@
         "オリジナル・ビデオ・アニメ",
         "东山奈央",
         "令和4年",
-        "其它",
+        "大人的防具店",
         "大人的防具店(里面)",
         "奇幻",
         "小松未可子",
         "山元隼一",
         "岩永浩輔",
+        "已下载",
         "搞笑",
-        "日本动画",
         "泡面",
         "泡面番",
         "漫改",
@@ -1392,6 +1464,10 @@
       "total_episodes": 3,
       "id": 275359,
       "eps": 3,
+      "meta_tags": [
+        "漫画改",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1450,7 +1526,6 @@
         "2019年",
         "2019年3月",
         "SHIN-EI",
-        "TV",
         "undefined",
         "アニメ映画",
         "シンエイ動画",
@@ -1458,15 +1533,16 @@
         "一周目",
         "八鍬新之介",
         "八锹新之介",
+        "冒险",
         "剧场版",
         "劇場版",
-        "动画",
         "动画电影",
         "原创",
         "哆啦A梦",
         "奇幻",
+        "子供向",
         "日本",
-        "日本动画",
+        "映画",
         "正太",
         "漫改",
         "漫画改",
@@ -1502,7 +1578,7 @@
         },
         {
           "key": "片长",
-          "value": "01:51:00"
+          "value": "111分钟"
         },
         {
           "key": "官方网站",
@@ -1542,23 +1618,11 @@
         },
         {
           "key": "摄影监督",
-          "value": "末弘孝史"
-        },
-        {
-          "key": "撮影特殊効果",
-          "value": "大矢創太"
+          "value": "末弘孝史、大矢創太（摄影特效）"
         },
         {
           "key": "剪辑",
-          "value": "小島俊彦"
-        },
-        {
-          "key": "録音監督",
-          "value": "田中章喜"
-        },
-        {
-          "key": "効果",
-          "value": "糸川幸良"
+          "value": "小島俊彦 助手：藤本理子、山田健太郎 　"
         },
         {
           "key": "音乐",
@@ -1574,19 +1638,11 @@
         },
         {
           "key": "企画",
-          "value": "藤子プロ"
-        },
-        {
-          "key": "监修",
-          "value": "藤子プロ"
+          "value": "藤子・F・不二雄プロ、むぎわらしんたろう（协力）"
         },
         {
           "key": "分镜",
           "value": "八鍬新之介"
-        },
-        {
-          "key": "演出助理",
-          "value": "演出補佐：今村洋輝"
         },
         {
           "key": "总作画监督",
@@ -1598,7 +1654,7 @@
         },
         {
           "key": "作画监督助理",
-          "value": "作画監督補佐：曽々木安恵、堤舞、小澤早依子、八木郁乃"
+          "value": "曽々木安恵、堤舞、小澤早依子、八木郁乃"
         },
         {
           "key": "特效作画监督",
@@ -1606,20 +1662,101 @@
         },
         {
           "key": "原画",
-          "value": "エンディング原画：金子志津枝‖原画：大塚正実、宮本佐和子、山森英司、三原三千夫、神戸佑太、末吉裕一郎、矢口弘子、桝田浩史、加来哲郎、加来由加里、北山修一、曽々木安恵、秦綾子、西村貴世、河野悦子、山下晃、秦洋美、堤舞、大武正枝、松永絵美、小澤早依子、岩佐とも子、鄧佳湄、岸野美智、小林麻衣子、後藤圭二、尾鷲英俊、小川貴弘、千葉ゆみ、内田信也、河毛雅妃、滝口弘喜、西田美弥子、小林ゆかり、阿曽仁美、植田千湖、岡昭彦、渡部貴喜、別所佑紀、田中綾子、川崎美穂、田川裕子、小西富洋、藤原巧和、上田幸一郎、松田真路、佐藤誠之、川野達朗、黄捷、篠田貴臣、森川有紀、九鬼朱、湯舟正博、落合麻衣子、清水朱音、植竹茉奈、鈴木優太朗、八木郁乃、亀田祥倫、今井一暁、清水洋、山口晋、茂木琢次、山川浩臣、岡野慎吾、今村洋輝、鈴木勤"
+          "value": "大塚正実、宮本佐和子、山森英司、三原三千夫、神戸佑太、末吉裕一郎、矢口弘子（やぐちひろこ）、桝田浩史、加来哲郎、加来由加里、北山修一、曽々木安恵、秦綾子、西村貴世、河野悦子、山下晃、秦洋美、堤舞、大武正枝、松永絵美、小澤早依子、岩佐とも子、鄧佳湄、岸野美智、小林麻衣子、後藤圭二、尾鷲英俊、小川貴弘、千葉ゆみ、内田信也、河毛雅妃、滝口弘喜、西田美弥子、小林ゆかり、阿曽仁美、植田千湖、岡昭彦、渡部貴喜、別所佑紀（別所ゆうき）、田中綾子、川崎美穂、田川裕子、小西富洋、藤原巧和、上田幸一郎、松田真路、佐藤誠之、川野達朗、黄捷、篠田貴臣、森川侑紀、九鬼朱、湯舟正博、落合麻衣子、清水朱音、植竹茉奈、鈴木優太朗、八木郁乃、亀田祥倫、今井一暁、清水洋、山口晋、茂木琢次、山川浩臣、岡野慎吾、今村洋輝、鈴木勤、金子志津枝（ED原画）"
         },
         {
           "key": "第二原画",
-          "value": "高橋沙江子、川村夏生、堂佳織、尾沢あとり、こすぎなほこ、山川浩美、本多孝敏、?田清美、木下千恵、南東寿幸、藤田優奈、長谷川文香、甲斐純子、佐藤利幸、降旗秀吉、多田一華、八女美空、横野光代、西明子、松崎明日美、原貴子、しまつまさあき、堀之内梨絵、遠藤良恵、佐藤友子、遠藤法子、野口敦史、中曽根詩織、菊地加純、山口葵、新田美津姫、姜昭英、山村直己、甲斐肇、盛重学、小野玲奈、兵頭勝、尾形健一郎、WHITE FOX、アニタス神戸、サンライズ、エイケン、A-Real、スノードロップ、ゼロジー、すたじおかぐら、グラフィニカ、スタジオ・ルナ、ジェノスタジオ、スノーライトスタッフ、スタジオブーメラン、トロイカ、ノーマッド、Be Loop、A.P.P.P.、アニメアール、Acca effe、ミュウ、きのプロダクション"
+          "value": "高橋沙江子、川村夏生、堂佳織、尾沢あとり、こすぎなほこ、山川浩美、本多孝敏、吉田清美、木下千恵、南東寿幸、藤田優奈、長谷川文香、甲斐純子、佐藤利幸、降籏秀吉、多田一華、八女美空、横野光代、西明子、松崎明日美、原貴子、しまつまさあき、堀之内梨絵、遠藤良恵、佐藤友子、遠藤法子、野口敦史、中曽根詩織、菊地加純、山口葵、新田美津姫、姜昭英、山村直己、甲斐肇、盛重学、小野玲奈、兵頭勝、尾形健一郎、WHITE FOX、アニタス神戸、サンライズ、エイケン、A-Real、スノードロップ、ゼロジー、すたじおかぐら、グラフィニカ、スタジオ・ルナ、ジェノスタジオ、スノーライトスタッフ、スタジオブーメラン、トロイカ（TROYCA）、ノーマッド、Be Loop、A.P.P.P.、アニメアール、Acca effe、ミュウ、きのプロダクション"
         },
         {
           "key": "动画检查",
           "value": "神谷由季、堀之内梨絵"
+        },
+        {
+          "key": "补间动画",
+          "value": "ベガエンタテイメント（堀江佑、宮本美智子、川重希、高橋美由希、諸隈瑛美、杉本大季、濱田夢子）、スタジオエル（丸山楓、牧野清香、柄澤愛美、大野綾希、古賀沙織、渡邊智尋、桑添真由、岩本明美）、オープロダクション（小川麻衣、藤原よしえ、本田康明、山本芽以）、中国無錫太観動画制作有限公司（方紀卉、黎禕男、江明誠、徐文傑、黄俊傑、馬叢、孫中岑、鄭倩慧、林晨、李俊、王鵬、張剛）、ORANGE（RYU JA YOUNG、HAN SONG HEE、SON SEON AH、JEONG HYUN JEONG、KIM JEONG SOON、PARK NAM HEE、KIM JUNG LAN、SUH YOON JOO、KIM HYE JUNG、KIM MIN AE、LEE KYUNG MI）、MAP（樊如伟、张军、王小梅、樊如雷、樊如伟、刘璐、张启欣、钱嵩渭、朱永、罗丹、曹响、刘苏、杨春霞、董敏、徐迎春、候英云、孙超、赵云霞、仇非易、黄冰芝、邵嘉波、李春晖、徐兰、顾卫兵、沈国圆、陈长友）、シンエイ動画（遠藤法子、吉田侑加、野口敦史、鈴木ひなの、吉田芽以）、堀之内梨絵、家野尚代、原則子、原佳寿美、大東郁子、松田晃司、梅林由加里、高貫千津、田中陽子、秋吉育子、加来由加里、長谷川夏美、山田咲、藤野京子、山下宗幸、江野沢柚美、優利動画、旭阳动画、CJT、MSJ武蔵野制作所、ミュウ、A-Real、MarBean、スタジオエル"
+        },
+        {
+          "key": "色彩设计",
+          "value": "松谷早苗 辅：野間口麻美、堀越智子、戸部弥生、大金紀子、今泉ひろみ、蝦名佳代子"
+        },
+        {
+          "key": "色彩指定",
+          "value": "倉内美幸、横井未加"
+        },
+        {
+          "key": "背景美术",
+          "value": "スタジオ美峰（鈴木路恵、木下了香、谷岡善王、堀越由美、松田春香、藤井里咲、松下幸誠、朱家羚、中池まどか）、HA DUNG、NGUYEN NHAN、TRAN WHOA、NGUYEN ANH、VO HUONG、LE HUYEN、NGUYEN TUYET、CAO TAI、ÐINH THUONG、NGUYEN QUANG、NGUYEN BINH、VO NY、NGUYEN HOAI、TRAN LANH、LAM TRAM、PHAM AN、NGUYEN PHONG、NGUYEN HUYNH、NGUYEN HANH、NGUYEN TIEN、HUYNH LONG、DINH NGUYEN、TO TUYEN、NGUYEN DUYEN、NGUYEN GIAO、NGUYEN NHUNG、PHAM TRINH、QUOC PHONG、HUYNH ANH、CO TUYEN、PHUONG THUY、スタジオ・ユニ（河合伸治、佐川恵美子、氏家こはく、宮良子、坂場真琴） 背景3Dモデリング：櫻井美絵子、草島雄太、NGUYEN MINH、HUYNH PHUC、TRAN DIEN、NGUYEN AN、CAO THUONG、PHAM HUONG"
+        },
+        {
+          "key": "3DCG",
+          "value": "オクティグラフィカ（神林憲和、沖田貢靖、郷原市子）、林太朗、本間潤樹、アロフト株式会社（小野悌一）、TSUBAKI（田辺正章）"
+        },
+        {
+          "key": "摄影",
+          "value": "アニメフィルム（廣地研二、花井延昌、桶田一展、西山朋広、山田廣明、倉田佳美、鈴木浩司、木次美則、松澤秀子、大森美奈子、手塚智鶴子、土岐浩司、梅田俊之） 摄影协力：エース・クリエイション（三口達也、山本耕平、高橋芳美、斎藤秋男）、スタジオコスモス（森本由美子、権田光一、池上伸治、折笠裕子）、アスラフィルム（大滝賢一、粕谷健太、川村綾、宮下加奈）、T2studio（江間常高、富田喜允、塚越美乃莉）、グラフィニカ（増元由紀大、加藤伸也、東海林功、向云飛、姫之野めぐみ、高清水良子、田村仁、張宇[ランドック・スタジオ]）、J.C.STAFF撮影部（黒澤豊、小野由了、野口優輔）、アッセフィノーファブリック（奥井厚子、大内香苗、中村雄太）、BONES撮影部 線撮協力：MADBOX、サテライト、シャフト（SHAFT）、C-station、スタジオトゥインクル、旭プロダクション、マジックバス、戯画プロダクション、Studio CL、TripleA、A-Real、MSJ武蔵野制作所、ライトフット、ラインファーム、ENGI、天狗工房、スタジオジャイアンツ（Studio Giants）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "テレビ朝日ミュージック、テレビ東京ミュージック（协力）"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "mao[Duca]（OP）、平井大（ED）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "黒須克彦（OP）、平井大・EIGO（ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "黒須克彦（OP）、平井大（ED）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "大久保薫（OP）、平井大・nabeLTD・西陽仁・EIGO（ED）"
+        },
+        {
+          "key": "制作进行",
+          "value": "阿部悟、鈴木裕介、北原奈歩、野田祐司、小笠原卓也、田原麻美、新崇雄、関口勇聖、伊藤初音、山浦聡士"
+        },
+        {
+          "key": "制作管理",
+          "value": "谷澤吉紀、武井健、落合竜太郎"
+        },
+        {
+          "key": "总制片人",
+          "value": "松井聡、大金修一"
+        },
+        {
+          "key": "制片人",
+          "value": "尾﨑美香、佐藤大真、川北桃子、勝山健晴"
+        },
+        {
+          "key": "动画制片人",
+          "value": "白倉由紀子、河西麻利子"
+        },
+        {
+          "key": "製作",
+          "value": "｢映画ドラえもん｣製作委員会（天野賢、馬場亮一、林郁美、カリー知子/飯塚洋介、幾野克哉、石井麻衣子、今井統人、相賀信宏、奥田素子、熊内真弓、小西麻理、佐々木礼子、高橋尚子、徳山雅記、戸高伸一郎、藤河秀雄、藤田健一、松元章展、山田卓司/松久智治、磯田ゆう、石田菜穂子、御手洗綾子/野﨑裕子、鶴崎りか、浅田幸男、佐藤絵里子/宮下令文、田中聡敏、栢原栄光、藤澤佑介、清田宏美、小林孝、尾﨑瑞季、川角果林、伊藤悠公、髙橋充、鈴木ひとみ、王暁曦、松下友美、岩間友宏、舟腰優子、五反田亜紀、南一輝、大澤友実/小林順子、森文彦、清水智美、小西佑平、大谷絵里）藤子・F・不二雄プロ、小学館、テレビ朝日、アサツー ディ・ケイ、小学館集英社プロダクション、シンエイ動画"
+        },
+        {
+          "key": "发行",
+          "value": "東宝"
         }
       ],
       "total_episodes": 1,
       "id": 263808,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "喜剧",
+        "剧场版",
+        "日本",
+        "漫画改",
+        "冒险",
+        "子供向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1713,14 +1850,15 @@
         "PERSONA5",
         "SP",
         "TV",
+        "TVA",
         "TVSP",
         "奇幻",
         "女神异闻录",
-        "宮野真守",
+        "季番",
+        "已下载",
         "战斗",
         "日本",
         "日本动画",
-        "杉田智和",
         "游戏",
         "游戏改",
         "游改",
@@ -1730,7 +1868,6 @@
         "石川智美",
         "石浜真史",
         "石滨真史",
-        "福山润",
         "福山潤"
       ],
       "infobox": [
@@ -1770,6 +1907,11 @@
       "total_episodes": 1,
       "id": 270473,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1833,22 +1975,22 @@
         "OVA",
         "TV",
         "党争",
-        "天﨑滉平",
         "山川吉树",
         "山川吉樹",
         "恋爱",
         "情怀",
+        "押切莲介",
         "押切蓮介",
         "搞笑",
         "无口",
         "日常",
         "日本",
         "校园",
+        "治愈",
         "浦畑達彦",
         "游戏",
         "漫改",
         "漫画改",
-        "热血",
         "白学",
         "续作",
         "街机游戏",
@@ -1892,6 +2034,11 @@
       "total_episodes": 3,
       "id": 262277,
       "eps": 3,
+      "meta_tags": [
+        "恋爱",
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1900,11 +2047,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/8f/43165_KnnPV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/8f/43165_KnnPV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8f/8f/43165_KnnPV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/8f/43165_KnnPV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/8f/43165_KnnPV.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/8f/43165_4RAmx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/8f/43165_4RAmx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/8f/43165_4RAmx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/8f/43165_4RAmx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/8f/43165_4RAmx.jpg"
           },
           "name": "ハイスコアガール",
           "name_cn": "高分少女",
@@ -2015,10 +2162,10 @@
         "东映动画",
         "光之美少女",
         "剧场版",
+        "动画",
         "动画电影",
         "原创",
         "奇幻",
-        "子供向",
         "小松未可子",
         "幼女向",
         "引坂理絵",
@@ -2081,6 +2228,10 @@
       "total_episodes": 1,
       "id": 270279,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2205,6 +2356,7 @@
       "name": "映画しまじろう しまじろうとうるるのヒーローランド",
       "name_cn": "巧虎与乌鲁鲁的英雄乐园",
       "tags": [
+        "剧场版",
         "子供向"
       ],
       "infobox": [
@@ -2236,6 +2388,9 @@
       "total_episodes": 1,
       "id": 424944,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2306,9 +2461,9 @@
       "tags": [
         "1月",
         "2019",
+        "2019年",
         "2019年3月",
         "2021",
-        "2022",
         "A-1Pictures",
         "A-1_Pictures",
         "LapinTrack",
@@ -2411,6 +2566,12 @@
       "total_episodes": 3,
       "id": 260946,
       "eps": 3,
+      "meta_tags": [
+        "恋爱",
+        "OVA",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2479,19 +2640,18 @@
       "name": "鬼滅の刃 兄妹の絆",
       "name_cn": "鬼灭之刃 兄妹的羁绊",
       "tags": [
+        "19冬",
         "2019",
         "2019年",
-        "2019年1月",
         "2019年3月",
         "JUMP",
         "ufotable",
-        "undefined",
         "アニメ映画",
+        "マンガ原作",
         "剧场版",
+        "动画",
         "外崎春雄",
         "奇幻",
-        "字母G",
-        "屹青",
         "庸作",
         "异态",
         "总集篇",
@@ -2508,7 +2668,8 @@
         "花江夏樹",
         "鬼滅の刃",
         "鬼灭之刃",
-        "鬼頭明里"
+        "鬼頭明里",
+        "鬼马咒卍"
       ],
       "infobox": [
         {
@@ -2535,6 +2696,12 @@
       "total_episodes": 1,
       "id": 294137,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2604,32 +2771,32 @@
       "name_cn": "鬼泣5",
       "tags": [
         "2019",
+        "2019玩过",
         "2020",
         "3A",
         "AAVG",
         "ACT",
+        "ARPG",
         "Capcom",
         "DMC",
         "HnS",
-        "Newc",
         "PC",
         "PS4",
         "PS5",
         "PlayStation",
         "STEAM",
-        "XBOX",
+        "XSX",
         "XboxOne",
-        "云通关",
         "伊津野英昭",
         "动作",
         "单机",
         "卡普空",
         "天蝎座",
-        "奇幻",
-        "平成最后的音游",
         "日本",
+        "未入库",
         "游戏",
         "经典",
+        "适合单人",
         "鬼泣",
         "鬼泣5",
         "魔幻"
@@ -2733,6 +2900,15 @@
       "total_episodes": 0,
       "id": 249292,
       "eps": 0,
+      "meta_tags": [
+        "ACT",
+        "PC",
+        "游戏",
+        "PS4",
+        "XboxOne",
+        "PS5",
+        "XSX"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2867,6 +3043,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/9a/293554_te9E2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/9a/293554_te9E2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e7/9a/293554_te9E2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e7/9a/293554_te9E2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e7/9a/293554_te9E2.jpg"
+          },
+          "name": "战双帕弥什",
+          "name_cn": "战双帕弥什",
+          "relation": "游戏",
+          "type": 4,
+          "id": 293554
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/3b/cb/333684_766Bz.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3b/cb/333684_766Bz.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/3b/cb/333684_766Bz.jpg",
@@ -2956,6 +3146,7 @@
         "大菠萝",
         "女性向",
         "平川大辅",
+        "游戏",
         "白金"
       ],
       "infobox": [
@@ -3009,6 +3200,11 @@
       "total_episodes": 0,
       "id": 260353,
       "eps": 0,
+      "meta_tags": [
+        "AVG",
+        "游戏",
+        "NS"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3108,9 +3304,11 @@
         "2019",
         "ARPG",
         "JRPG",
+        "PC",
         "PS4",
         "Square.Enix",
         "SquareEnix",
+        "XboxOne",
         "岩崎琢",
         "扩展包"
       ],
@@ -3161,6 +3359,13 @@
       "total_episodes": 0,
       "id": 298124,
       "eps": 0,
+      "meta_tags": [
+        "ARPG",
+        "PC",
+        "PS4",
+        "XboxOne",
+        "扩展包"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3235,7 +3440,6 @@
         "BL",
         "homo",
         "中篇",
-        "刃牙",
         "周刊少年Champion",
         "喜剧",
         "奇幻",
@@ -3243,12 +3447,14 @@
         "搞笑",
         "日本漫画",
         "板垣恵介",
+        "板垣惠介",
         "格斗",
         "格斗漫画",
         "漫画",
         "漫画系列",
         "热狗人",
         "热血",
+        "猎奇",
         "相扑道",
         "秋田书店",
         "科幻",
@@ -3300,6 +3506,7 @@
       "total_episodes": 0,
       "id": 279893,
       "eps": 151,
+      "meta_tags": [],
       "volumes": 17,
       "series": true,
       "locked": false,
@@ -3613,11 +3820,11 @@
         "洛水花原",
         "漫改",
         "漫画改",
-        "爱情",
         "狐妖小红娘",
         "短片",
         "竹业篇",
         "绘梦",
+        "绘梦动画",
         "续作",
         "腾讯",
         "致郁",
@@ -3643,6 +3850,10 @@
         {
           "key": "播放结束",
           "value": "2019年5月17日"
+        },
+        {
+          "key": "音乐",
+          "value": "辅乐工作室"
         },
         {
           "key": "播放网站",
@@ -3825,10 +4036,6 @@
           "value": "王星晨"
         },
         {
-          "key": "音乐",
-          "value": "辅乐工作室"
-        },
-        {
           "key": "音响导演",
           "value": "伍婷"
         },
@@ -3864,6 +4071,13 @@
       "total_episodes": 15,
       "id": 281283,
       "eps": 12,
+      "meta_tags": [
+        "恋爱",
+        "奇幻",
+        "漫画改",
+        "中国",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3984,14 +4198,14 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/e1/471736_0idVn.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/e1/471736_0idVn.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ff/e1/471736_0idVn.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/e1/471736_0idVn.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/e1/471736_0idVn.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/e1/471736_sI1Ud.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/e1/471736_sI1Ud.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/e1/471736_sI1Ud.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/e1/471736_sI1Ud.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/e1/471736_sI1Ud.jpg"
           },
-          "name": "狐妖小红娘 竹业篇",
-          "name_cn": "狐妖小红娘·竹业篇",
+          "name": "淮水竹亭",
+          "name_cn": "",
           "relation": "不同演绎",
           "type": 6,
           "id": 471736

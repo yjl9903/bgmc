@@ -23,6 +23,8 @@
         "世界名作剧场",
         "世界名作劇場",
         "动",
+        "小说改",
+        "日本",
         "日本动画公司",
         "旧物",
         "经典",
@@ -60,12 +62,31 @@
       "total_episodes": 41,
       "id": 83552,
       "eps": 41,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/1e/64094_AgigN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/1e/64094_AgigN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fa/1e/64094_AgigN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/1e/64094_AgigN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/1e/64094_AgigN.jpg"
+          },
+          "name": "Peter Pan",
+          "name_cn": "小飞侠",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 64094
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/ed/123574_dPnKK.jpg",
@@ -169,16 +190,16 @@
           "value": "やすみ哲夫"
         },
         {
+          "key": "音乐",
+          "value": "宮原恵太"
+        },
+        {
           "key": "脚本",
           "value": "桶谷顕、桜井正明、真保裕一ほか"
         },
         {
           "key": "人物设定",
           "value": "藤田宗克"
-        },
-        {
-          "key": "音乐",
-          "value": "宮原恵太"
         },
         {
           "key": "动画制作",
@@ -192,6 +213,11 @@
       "total_episodes": 52,
       "id": 155836,
       "eps": 164,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

@@ -25,7 +25,6 @@
         "五星",
         "关智一",
         "动画",
-        "吐嘈",
         "喵",
         "小林ゆう",
         "小林优",
@@ -33,12 +32,13 @@
         "怪物猎人日记",
         "搞笑",
         "日本",
+        "日本动画",
         "标题好长",
         "欢乐",
         "治愈",
         "泡面番",
+        "游戏",
         "游戏改",
-        "游戏改编",
         "猫猫村",
         "粉丝向",
         "艾路貓",
@@ -143,6 +143,11 @@
       "total_episodes": 10,
       "id": 6473,
       "eps": 10,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -198,7 +203,8 @@
       "name_cn": "校园恐怖传说 - 新·花子来了",
       "tags": [
         "2010",
-        "TV"
+        "TV",
+        "日本"
       ],
       "infobox": [
         {
@@ -241,17 +247,22 @@
           "value": "2011年3月25日"
         },
         {
-          "key": "原作",
-          "value": "森京詞姫"
-        },
-        {
           "key": "导演",
           "value": "イマイヨーイチ"
+        },
+        {
+          "key": "原作",
+          "value": "森京詞姫"
         }
       ],
       "total_episodes": 33,
       "id": 34458,
       "eps": 33,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -328,11 +339,11 @@
         "奇幻",
         "好好活着",
         "小说改",
-        "山形厚史",
         "意外的幸运签",
         "日本",
         "日本动画",
         "映画",
+        "校园",
         "治愈",
         "电影",
         "自杀"
@@ -413,6 +424,10 @@
       "total_episodes": 1,
       "id": 9350,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -510,10 +525,10 @@
         "动画",
         "卖萌",
         "口袋妖怪",
-        "大谷育江",
         "子供向",
         "宝可梦",
         "宠物小精灵",
+        "日本",
         "日本动画",
         "汤山邦彦",
         "游戏改",
@@ -561,6 +576,9 @@
       "total_episodes": 1,
       "id": 27879,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -609,7 +627,6 @@
         "OVA",
         "SUNRISE",
         "a.Anime",
-        "f.日本",
         "サンライズ",
         "其实很有意思",
         "动画",
@@ -621,6 +638,7 @@
         "松尾衡",
         "比基尼高达",
         "熊霸",
+        "独立ova",
         "科幻",
         "萝卜",
         "起始高达",
@@ -727,6 +745,10 @@
       "total_episodes": 3,
       "id": 10797,
       "eps": 3,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -880,6 +902,9 @@
       "total_episodes": 1,
       "id": 55584,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -963,11 +988,14 @@
       "name_cn": "旋风四驱王",
       "tags": [
         "2013",
+        "TV",
         "子供向",
+        "日本",
         "热血",
         "玩具",
         "竞技",
-        "童年"
+        "童年",
+        "韩国"
       ],
       "infobox": [
         {
@@ -1010,12 +1038,12 @@
           "value": "2011年3月29日"
         },
         {
-          "key": "原作",
-          "value": "NewBoy、ディーライツ"
-        },
-        {
           "key": "导演",
           "value": "橋本みつお、Chan Young Park"
+        },
+        {
+          "key": "原作",
+          "value": "NewBoy、ディーライツ"
         },
         {
           "key": "系列构成",
@@ -1041,6 +1069,11 @@
       "total_episodes": 52,
       "id": 43208,
       "eps": 52,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "韩国"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1075,13 +1108,12 @@
         "よしもときんじ",
         "乳王之刃",
         "伊藤加奈惠",
+        "动画",
         "卖肉",
-        "吉本欣司",
         "奇幻",
         "女王之刃",
         "女皇之刃",
         "川澄綾子",
-        "川澄绫子",
         "战斗",
         "日本动画",
         "水桥香织",
@@ -1094,6 +1126,7 @@
         "肉",
         "肉番",
         "能登麻美子",
+        "过分卖肉",
         "釘宮理恵",
         "钉宫理惠"
       ],
@@ -1160,6 +1193,10 @@
       "total_episodes": 6,
       "id": 8389,
       "eps": 6,
+      "meta_tags": [
+        "OVA",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1193,6 +1230,20 @@
           "relation": "续集",
           "type": 2,
           "id": 25610
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/13/520590_99dYa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/13/520590_99dYa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/10/13/520590_99dYa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/13/520590_99dYa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/13/520590_99dYa.jpg"
+          },
+          "name": "クイーンズブレイドリミットブレイク",
+          "name_cn": "女王之刃Limit Break",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520590
         }
       ]
     }

@@ -23,17 +23,17 @@
         "2021年7月",
         "Graphinica",
         "Netflix",
-        "ONA",
-        "Summer_2021",
         "TV",
         "WEB",
         "グラフィニカ",
         "便宜动画",
         "动画",
+        "卖肉",
         "大久保政雄",
         "奇幻",
         "战斗",
         "搞笑",
+        "斉藤壮馬",
         "日本",
         "日本动画",
         "格斗",
@@ -156,6 +156,11 @@
       "total_episodes": 12,
       "id": 322900,
       "eps": 12,
+      "meta_tags": [
+        "漫画改",
+        "战斗",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -261,7 +266,6 @@
         "UC",
         "むとうやすゆき",
         "剧场版",
-        "动画",
         "动画电影",
         "富野由悠季",
         "小说改",
@@ -269,6 +273,7 @@
         "战争",
         "战斗",
         "日本",
+        "映画",
         "机战",
         "村濑修功",
         "村瀬修功",
@@ -320,6 +325,12 @@
       "total_episodes": 1,
       "id": 243429,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "机战",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -472,10 +483,11 @@
         "乐队",
         "偶像",
         "剧场版",
+        "劇場版アニメ",
         "原创",
+        "已下载",
         "後藤みどり",
         "日常",
-        "日本",
         "日本动画",
         "未确定",
         "柿本广大",
@@ -486,110 +498,9 @@
         "百合",
         "续作",
         "邦邦",
-        "青春",
         "音乐"
       ],
       "infobox": [
-        {
-          "key": "话数",
-          "value": "1"
-        },
-        {
-          "key": "原作",
-          "value": "ブシロード"
-        },
-        {
-          "key": "导演",
-          "value": "三村厚史"
-        },
-        {
-          "key": "脚本",
-          "value": "後藤みどり"
-        },
-        {
-          "key": "人物原案",
-          "value": "ひと和、Craft Egg"
-        },
-        {
-          "key": "人物设定",
-          "value": "植田和幸、八森優香（配角人设）"
-        },
-        {
-          "key": "系列构成",
-          "value": "綾奈ゆにこ"
-        },
-        {
-          "key": "剪辑",
-          "value": "梅津朋美(エディッツ)"
-        },
-        {
-          "key": "原案",
-          "value": "中村航、Craft Egg"
-        },
-        {
-          "key": "製作",
-          "value": "BanG Dream! Project、ブシロード、TOKYO MX、Good Smile Company、ホリプロインターナショナル、ウルトラスーパーピクチャーズ"
-        },
-        {
-          "key": "音响监督",
-          "value": "飯田里樹"
-        },
-        {
-          "key": "执行制片人",
-          "value": "木谷高明"
-        },
-        {
-          "key": "音乐制作",
-          "value": "上松範康(Elements Garden)、藤田淳平(Elements Garden)"
-        },
-        {
-          "key": "动画制作",
-          "value": "サンジゲン"
-        },
-        {
-          "key": "美术设计",
-          "value": "成田偉保(KUSANAGI)"
-        },
-        {
-          "key": "总导演",
-          "value": "柿本広大"
-        },
-        {
-          "key": "CG监督",
-          "value": "遠藤求"
-        },
-        {
-          "key": "副CG监督",
-          "value": "佐々木敦也"
-        },
-        {
-          "key": "live部分CG监督",
-          "value": "林宏信"
-        },
-        {
-          "key": "模型监督",
-          "value": "武内泰久、山田多樹、長谷井麻衣、榊原大成"
-        },
-        {
-          "key": "リギングディレクター",
-          "value": "山下瑠里"
-        },
-        {
-          "key": "色彩设计",
-          "value": "北川順子"
-        },
-        {
-          "key": "撮影監督",
-          "value": "井上麻梨"
-        },
-        {
-          "key": "美术监督",
-          "value": "牧野裕樹(KUSANAGI)"
-        },
-        {
-          "key": "配给",
-          "value": "ブシロード"
-        },
         {
           "key": "上映年度",
           "value": "2021年6月25日"
@@ -601,11 +512,164 @@
         {
           "key": "Copyright",
           "value": "©BanG Dream! Project ©Craft Egg Inc.©bushiroad All Rights Reserved."
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "ブシロード"
+        },
+        {
+          "key": "执行制片人",
+          "value": "木谷高明（製作総指挥）"
+        },
+        {
+          "key": "企画",
+          "value": "根本雄貴、金子広孝、安藝貴範、矢田部行庸、松浦裕暁"
+        },
+        {
+          "key": "总导演",
+          "value": "柿本広大"
+        },
+        {
+          "key": "导演",
+          "value": "三村厚史"
+        },
+        {
+          "key": "系列构成",
+          "value": "綾奈ゆにこ"
+        },
+        {
+          "key": "人物原案",
+          "value": "ひと和×Craft Egg"
+        },
+        {
+          "key": "原案",
+          "value": "中村航×Craft Egg（故事原案）"
+        },
+        {
+          "key": "人物设定",
+          "value": "植田和幸；副：八森優香"
+        },
+        {
+          "key": "美术监督",
+          "value": "牧野裕樹(KUSANAGI)"
+        },
+        {
+          "key": "美术设计",
+          "value": "成田偉保(KUSANAGI)、真村躍"
+        },
+        {
+          "key": "背景美术",
+          "value": "草薙"
+        },
+        {
+          "key": "色彩设计",
+          "value": "北川順子"
+        },
+        {
+          "key": "摄影监督",
+          "value": "井上麻梨、高橋直希"
+        },
+        {
+          "key": "剪辑",
+          "value": "梅津朋美(エディッツ)"
+        },
+        {
+          "key": "音响监督",
+          "value": "飯田里樹"
+        },
+        {
+          "key": "音效",
+          "value": "猪俣泰史"
+        },
+        {
+          "key": "音响",
+          "value": "Cloud22"
+        },
+        {
+          "key": "音乐",
+          "value": "藤田淳平(Elements Garden)"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "上松範康、藤田淳平"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ブシロードミュージック"
+        },
+        {
+          "key": "制片人",
+          "value": "木下唯、北澤史隆、田中聡、金成雄文、瓶子修一"
+        },
+        {
+          "key": "动画制片人",
+          "value": "田﨑秀之（デスクプロデューサー）"
+        },
+        {
+          "key": "动画制作",
+          "value": "サンジゲン"
+        },
+        {
+          "key": "製作",
+          "value": "BanG Dream! Project（ブシロード、TOKYO MX、Good Smile Company、ホリプロ、ウルトラスーパーピクチャーズ）"
+        },
+        {
+          "key": "脚本",
+          "value": "後藤みどり"
+        },
+        {
+          "key": "分镜",
+          "value": "三村厚史、高橋成世；Live：植高正典、林翔子、島原樹也、榎田美咲、梅津朋美"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "森川滋(紅優) / 池田新助"
+        },
+        {
+          "key": "CG 导演",
+          "value": "遠藤求；副：佐々木敦也；Live部分：林宏信"
+        },
+        {
+          "key": "演出",
+          "value": "大峰誠也"
+        },
+        {
+          "key": "作画监督",
+          "value": "大峰誠也"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "浅尾遥、前田亜紀、依田祐輔"
+        },
+        {
+          "key": "总作画监督",
+          "value": "八森優香"
+        },
+        {
+          "key": "模型监督",
+          "value": "武内泰久、山田多樹、長谷井麻衣、榊原大成"
+        },
+        {
+          "key": "リギングディレクター",
+          "value": "山下瑠里"
+        },
+        {
+          "key": "配给",
+          "value": "ブシロード"
         }
       ],
       "total_episodes": 1,
       "id": 315490,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创",
+        "音乐"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -716,8 +780,8 @@
         "足球",
         "运动",
         "逢坂良太",
-        "青春",
-        "高橋ナツコ"
+        "霸权",
+        "青春"
       ],
       "infobox": [
         {
@@ -817,6 +881,10 @@
       "total_episodes": 1,
       "id": 314169,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -902,11 +970,9 @@
         "2020",
         "2021",
         "2021年",
-        "2021年4月",
         "2021年6月",
         "CLAP",
         "アニメ映画",
-        "三宅宽治",
         "业界",
         "剧场",
         "剧场版",
@@ -916,7 +982,7 @@
         "原创",
         "小原好美",
         "平尾隆之",
-        "日本",
+        "日常",
         "日本动画",
         "杉谷庄吾",
         "松隈ケンタ",
@@ -926,9 +992,11 @@
         "热血",
         "电影",
         "电影制作",
+        "科普",
         "职场",
         "花譜",
-        "足立慎吾"
+        "足立慎吾",
+        "酷爱电影的庞波小姐"
       ],
       "infobox": [
         {
@@ -1031,6 +1099,10 @@
           "value": "岩瀬智彦"
         },
         {
+          "key": "监修",
+          "value": "平尾隆之×三宅寛治（美術監修）"
+        },
+        {
           "key": "制作协力",
           "value": "山本拓、山田翔士、濱崎周平、古堅みのり、大川二千翔"
         }
@@ -1038,6 +1110,11 @@
       "total_episodes": 1,
       "id": 223563,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改",
+        "职场"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1133,9 +1210,9 @@
         "日本",
         "日本动画",
         "沙雕",
+        "泡面番",
         "游戏改",
-        "関根明良",
-        "高橋李依"
+        "関根明良"
       ],
       "infobox": [
         {
@@ -1230,6 +1307,10 @@
       "total_episodes": 4,
       "id": 324249,
       "eps": 4,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1301,7 +1382,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/45/255525_gQUdD.jpg"
           },
           "name": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 前編 Wandering; Agateram",
-          "name_cn": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 前篇 Wandering; Agateram",
+          "name_cn": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 前篇 漂泊的银之臂",
           "relation": "主线故事",
           "type": 2,
           "id": 255525
@@ -1329,7 +1410,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/37/255530_UOV8k.jpg"
           },
           "name": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- 後編 Paladin; Agateram",
-          "name_cn": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 后篇 Paladin; Agateram",
+          "name_cn": "剧场版 Fate/Grand Order 神圣圆桌领域卡美洛 后篇 圣骑士银之臂",
           "relation": "主线故事",
           "type": 2,
           "id": 255530
@@ -1394,7 +1475,7 @@
       },
       "summary": "———— 身長差15メートルの恋\r\n未知の生命体・ガウナに地球を破壊され、かろうじて生き残った人類は\r\n巨大な宇宙船「シドニア」で旅を続けていたが、100年ぶりにガウナが現れた。\r\n\r\n再び 滅亡の危機に襲われた人類だったが、人とガウナから生み出された白羽衣つむぎや\r\n人型戦闘兵器・衛人 （ルビ：モリト） のエースパイロットである谷風長道の活躍により、ガウナをいったん撃退。なんとか勝利をおさめたのだった。\r\n\r\nあれから10年－。\r\nシドニアの人々は、つかの間の平和を楽しんでいた。\r\nつむぎも、今やシドニアの英雄となった長道に想いを寄せながら、穏やかな日々を過ごしている。  \r\nだが、艦長・小林は分っていた。ガウナがいる限り、この平穏は長く続かないことを。\r\n\r\nそして、人類の存亡をかけ、最終決戦を決断する。\r\n愛する人を守るため、シドニア最後の戦いがついに始まった",
       "name": "シドニアの騎士 あいつむぐほし",
-      "name_cn": "希德尼娅的骑士 编织爱的行星",
+      "name_cn": "希德尼娅的骑士：织爱之星",
       "tags": [
         "2021",
         "2021年",
@@ -1410,17 +1491,17 @@
         "剧场版",
         "动画",
         "吉平直弘",
-        "后宫",
         "太空",
+        "山田哲弥",
         "希德尼娅的骑士",
         "弐瓶勉",
         "恋爱",
         "战斗",
+        "日本",
         "日本动画",
         "机战",
         "机甲",
         "村井さだゆき",
-        "村井贞之",
         "漫改",
         "漫画改",
         "科幻",
@@ -1430,11 +1511,14 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "希德尼娅的骑士 编织爱的行星"
+          "value": "希德尼娅的骑士：织爱之星"
         },
         {
           "key": "别名",
           "value": [
+            {
+              "v": "希德尼娅的骑士 编织爱的行星"
+            },
             {
               "v": "Knights of Sidonia: Love Woven in the Stars"
             },
@@ -1491,6 +1575,12 @@
       "total_episodes": 1,
       "id": 217285,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1729,6 +1819,9 @@
       "total_episodes": 1,
       "id": 294286,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1759,9 +1852,10 @@
         "Summer_2021",
         "TV",
         "プリズムの煌めき",
+        "日本",
         "未确定",
         "空",
-        "美妙旋律",
+        "龙之子Production",
         "龙之子、DongwooA&E"
       ],
       "infobox": [
@@ -1805,6 +1899,10 @@
       "total_episodes": 16,
       "id": 334494,
       "eps": 16,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1841,11 +1939,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/39/62285_3Kjks.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/39/62285_3Kjks.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/da/39/62285_3Kjks.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/39/62285_3Kjks.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/39/62285_3Kjks.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/39/62285_zcb5F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/39/62285_zcb5F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/da/39/62285_zcb5F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/39/62285_zcb5F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/39/62285_zcb5F.jpg"
           },
           "name": "プリティーリズム・レインボーライブ",
           "name_cn": "美妙旋律 Rainbow Live",
@@ -1930,6 +2028,7 @@
         "少女☆歌剧",
         "少女☆歌劇レヴュースタァライト",
         "少女歌剧",
+        "少女歌劇レヴュースタァライト",
         "意识流",
         "战斗",
         "扭曲",
@@ -1943,7 +2042,6 @@
         "续作",
         "舞台",
         "轻百合",
-        "青春",
         "音乐"
       ],
       "infobox": [
@@ -2117,6 +2215,12 @@
       "total_episodes": 1,
       "id": 294135,
       "eps": 1,
+      "meta_tags": [
+        "百合",
+        "剧场版",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2350,7 +2454,7 @@
         },
         {
           "key": "发售日",
-          "value": "*"
+          "value": "2021年6月19日"
         },
         {
           "key": "放送开始",
@@ -2371,11 +2475,24 @@
         {
           "key": "製作",
           "value": "幼女戦記製作委員会"
+        },
+        {
+          "key": "导演",
+          "value": "上村泰"
+        },
+        {
+          "key": "人物设定",
+          "value": "細越裕治"
         }
       ],
       "total_episodes": 1,
       "id": 339533,
       "eps": 1,
+      "meta_tags": [
+        "日本",
+        "OVA",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2519,6 +2636,9 @@
       "total_episodes": 1,
       "id": 319365,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2566,6 +2686,167 @@
           "relation": "其他",
           "type": 3,
           "id": 319398
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8c/10/520707_9q98o.jpg"
+          },
+          "name": "宇宙戦艦ヤマト 未来への航路",
+          "name_cn": "宇宙战舰大和号 未来航路",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520707
+        }
+      ]
+    }
+  },
+  {
+    "title": "グリッドナイトファイト",
+    "date": "2021-06-16",
+    "bangumi": {
+      "date": "2021-06-16",
+      "platform": "日剧",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/10/397214_Q2FOs.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/10/397214_Q2FOs.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2d/10/397214_Q2FOs.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/10/397214_Q2FOs.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/10/397214_Q2FOs.jpg"
+      },
+      "summary": "TRIGGER協力の下、円谷プロダクションが制作する全4回の実写作品。映像ソフトの追加特典として収録される。\r\n企画は雨宮がグリッドナイトで『ウルトラファイト』のようなゆるい作風の作品を作りたいと発案したことがきっかけとなり、エグゼクティブプロデューサーの隠田雅浩を介してアベユーイチが起用された。撮影は2020年12月14・15日に2日間かけて千葉県鋸山で実施され、アベの発案でドローンやGoProを多用したローアングル主体の撮影とアングル編集を合わせることで、爆笑や格好良さを楽しめる実写ならではの演出をすることが意識された。\r\nアクション監督は『グリッドマン』でグリッドマンを演じた岡野弘之が担当する。",
+      "name": "グリッドナイトファイト",
+      "name_cn": "古立特骑士格斗",
+      "tags": [
+        "2021",
+        "古立特",
+        "圆谷",
+        "日本",
+        "特摄",
+        "电视剧"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "古立特骑士格斗"
+        },
+        {
+          "key": "集数",
+          "value": "4"
+        },
+        {
+          "key": "开始",
+          "value": "2021年6月16日"
+        },
+        {
+          "key": "结束",
+          "value": "2021年10月20日"
+        },
+        {
+          "key": "类型",
+          "value": "特摄"
+        },
+        {
+          "key": "国家/地区",
+          "value": "日本"
+        },
+        {
+          "key": "语言",
+          "value": "日语"
+        },
+        {
+          "key": "每集长",
+          "value": "4分钟"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://dynazenon.net/"
+        },
+        {
+          "key": "导演",
+          "value": "アベユーイチ"
+        },
+        {
+          "key": "编剧",
+          "value": "アベユーイチ"
+        },
+        {
+          "key": "音乐",
+          "value": "鷺巣詩郎"
+        },
+        {
+          "key": "音响监督",
+          "value": "郷文裕貴"
+        },
+        {
+          "key": "执行制片人",
+          "value": "隠田雅浩"
+        },
+        {
+          "key": "制片人",
+          "value": "麻生智義"
+        },
+        {
+          "key": "企划协力",
+          "value": "雨宮哲 / 坂本勝 / 宇佐義大"
+        },
+        {
+          "key": "原作",
+          "value": "グリッドマン"
+        },
+        {
+          "key": "制作协力",
+          "value": "TRIGGER"
+        },
+        {
+          "key": "制作",
+          "value": "円谷プロダクション"
+        }
+      ],
+      "total_episodes": 4,
+      "id": 397214,
+      "eps": 4,
+      "meta_tags": [
+        "日本",
+        "电视剧",
+        "特摄"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 6,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/78/218712_c2Db6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/78/218712_c2Db6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/78/218712_c2Db6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/78/218712_c2Db6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/78/218712_c2Db6.jpg"
+          },
+          "name": "SSSS.GRIDMAN",
+          "name_cn": "SSSS.古立特",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 218712
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_yPic1.jpg"
+          },
+          "name": "SSSS.DYNAZENON",
+          "name_cn": "SSSS.电光机王",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 296367
         }
       ]
     }
@@ -2592,11 +2873,11 @@
         "2021年1月",
         "2021年4月",
         "2021年6月",
+        "2021年7月",
         "CloverWorks",
         "OVA",
         "SP",
         "TV",
-        "TVA",
         "TVSP",
         "剧场版",
         "原创",
@@ -2656,12 +2937,12 @@
           "value": "中京テレビ、福岡放送、ミヤギテレビ、青森放送、札幌テレビ、読売テレビ"
         },
         {
-          "key": "Copyright",
-          "value": "©WEP PROJECT"
-        },
-        {
           "key": "导演",
           "value": "若林信"
+        },
+        {
+          "key": "Copyright",
+          "value": "©WEP PROJECT"
         },
         {
           "key": "人物设定",
@@ -2675,6 +2956,13 @@
       "total_episodes": 1,
       "id": 331935,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2694,6 +2982,301 @@
           "relation": "前传",
           "type": 2,
           "id": 316607
+        }
+      ]
+    }
+  },
+  {
+    "title": "グリッドナイトファイト",
+    "date": "2021-06-16",
+    "bangumi": {
+      "date": "2021-06-16",
+      "platform": "日剧",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/10/397214_Q2FOs.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/10/397214_Q2FOs.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2d/10/397214_Q2FOs.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/10/397214_Q2FOs.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/10/397214_Q2FOs.jpg"
+      },
+      "summary": "TRIGGER協力の下、円谷プロダクションが制作する全4回の実写作品。映像ソフトの追加特典として収録される。\r\n企画は雨宮がグリッドナイトで『ウルトラファイト』のようなゆるい作風の作品を作りたいと発案したことがきっかけとなり、エグゼクティブプロデューサーの隠田雅浩を介してアベユーイチが起用された。撮影は2020年12月14・15日に2日間かけて千葉県鋸山で実施され、アベの発案でドローンやGoProを多用したローアングル主体の撮影とアングル編集を合わせることで、爆笑や格好良さを楽しめる実写ならではの演出をすることが意識された。\r\nアクション監督は『グリッドマン』でグリッドマンを演じた岡野弘之が担当する。",
+      "name": "グリッドナイトファイト",
+      "name_cn": "古立特骑士格斗",
+      "tags": [
+        "2021",
+        "古立特",
+        "圆谷",
+        "日本",
+        "特摄",
+        "电视剧"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "古立特骑士格斗"
+        },
+        {
+          "key": "集数",
+          "value": "4"
+        },
+        {
+          "key": "开始",
+          "value": "2021年6月16日"
+        },
+        {
+          "key": "结束",
+          "value": "2021年10月20日"
+        },
+        {
+          "key": "类型",
+          "value": "特摄"
+        },
+        {
+          "key": "国家/地区",
+          "value": "日本"
+        },
+        {
+          "key": "语言",
+          "value": "日语"
+        },
+        {
+          "key": "每集长",
+          "value": "4分钟"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://dynazenon.net/"
+        },
+        {
+          "key": "导演",
+          "value": "アベユーイチ"
+        },
+        {
+          "key": "编剧",
+          "value": "アベユーイチ"
+        },
+        {
+          "key": "音乐",
+          "value": "鷺巣詩郎"
+        },
+        {
+          "key": "音响监督",
+          "value": "郷文裕貴"
+        },
+        {
+          "key": "执行制片人",
+          "value": "隠田雅浩"
+        },
+        {
+          "key": "制片人",
+          "value": "麻生智義"
+        },
+        {
+          "key": "企划协力",
+          "value": "雨宮哲 / 坂本勝 / 宇佐義大"
+        },
+        {
+          "key": "原作",
+          "value": "グリッドマン"
+        },
+        {
+          "key": "制作协力",
+          "value": "TRIGGER"
+        },
+        {
+          "key": "制作",
+          "value": "円谷プロダクション"
+        }
+      ],
+      "total_episodes": 4,
+      "id": 397214,
+      "eps": 4,
+      "meta_tags": [
+        "日本",
+        "电视剧",
+        "特摄"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 6,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/78/218712_c2Db6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/78/218712_c2Db6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/78/218712_c2Db6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/78/218712_c2Db6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/78/218712_c2Db6.jpg"
+          },
+          "name": "SSSS.GRIDMAN",
+          "name_cn": "SSSS.古立特",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 218712
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_yPic1.jpg"
+          },
+          "name": "SSSS.DYNAZENON",
+          "name_cn": "SSSS.电光机王",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 296367
+        }
+      ]
+    }
+  },
+  {
+    "title": "TRUMP",
+    "date": "2021-06-04",
+    "bangumi": {
+      "date": "2021-06-04",
+      "platform": "漫画",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/ee/404231_4i55Y.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/ee/404231_4i55Y.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ad/ee/404231_4i55Y.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/ee/404231_4i55Y.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/ee/404231_4i55Y.jpg"
+      },
+      "summary": "身上流淌着『吸血种』与『人类』两种血统的『混血种』美少年索菲，从福利院转到了被称作『克兰』的地方——那里是迎来『茧期（相当于人类的青春期）』的吸血种少年们一起生活的学园。在阶级制度根深蒂固的吸血种社会中，身为混血种的索菲被歧视为最底层的贱民而受尽冷眼。而此时，如同命运一般，索菲与一位名门少年相遇了……",
+      "name": "TRUMP",
+      "name_cn": "",
+      "tags": [
+        "吸血鬼",
+        "悬疑",
+        "校园",
+        "漫画",
+        "漫画系列",
+        "画风",
+        "黑暗"
+      ],
+      "infobox": [
+        {
+          "key": "出版社",
+          "value": "KADOKAWA"
+        },
+        {
+          "key": "连载杂志",
+          "value": "ヤングエース"
+        },
+        {
+          "key": "发售日",
+          "value": "2021-06-04"
+        },
+        {
+          "key": "原作",
+          "value": "末満健一"
+        },
+        {
+          "key": "作画",
+          "value": "はまぐり"
+        },
+        {
+          "key": "开始",
+          "value": "2020-11-04 (2020年12月号)"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 404231,
+      "eps": 0,
+      "meta_tags": [],
+      "volumes": 0,
+      "series": true,
+      "locked": false,
+      "nsfw": false,
+      "type": 1,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/15/448879_b6Jb9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/15/448879_b6Jb9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b7/15/448879_b6Jb9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/15/448879_b6Jb9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/15/448879_b6Jb9.jpg"
+          },
+          "name": "デリコズ・ナーサリー",
+          "name_cn": "德里科的托儿所",
+          "relation": "动画",
+          "type": 2,
+          "id": 448879
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/8b/404232_WBw1K.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/8b/404232_WBw1K.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/8b/404232_WBw1K.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/8b/404232_WBw1K.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/8b/404232_WBw1K.jpg"
+          },
+          "name": "TRUMP (1)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 404232
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/4f/404233_4pFKk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/4f/404233_4pFKk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f6/4f/404233_4pFKk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/4f/404233_4pFKk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/4f/404233_4pFKk.jpg"
+          },
+          "name": "TRUMP (2)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 404233
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/db/0b/404234_fs7dI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/db/0b/404234_fs7dI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/db/0b/404234_fs7dI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/db/0b/404234_fs7dI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/db/0b/404234_fs7dI.jpg"
+          },
+          "name": "TRUMP (3)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 404234
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/c2/439304_8Ql89.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/c2/439304_8Ql89.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f8/c2/439304_8Ql89.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/c2/439304_8Ql89.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/c2/439304_8Ql89.jpg"
+          },
+          "name": "TRUMP (4)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 439304
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/ed/472171_qwUS9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/ed/472171_qwUS9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d4/ed/472171_qwUS9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/ed/472171_qwUS9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/ed/472171_qwUS9.jpg"
+          },
+          "name": "TRUMP (5)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 472171
         }
       ]
     }

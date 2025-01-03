@@ -22,15 +22,15 @@
         "90年代",
         "SUNRISE",
         "TV",
-        "TVA",
-        "TVB",
         "TV完结",
         "サンライズ",
         "井内秀治",
         "儿时萌",
         "冒险",
+        "动画",
         "原创",
         "奇幻",
+        "年番",
         "怀旧",
         "战斗",
         "日本",
@@ -84,6 +84,10 @@
           "value": "1998年9月24日"
         },
         {
+          "key": "音乐",
+          "value": "朝川朋之"
+        },
+        {
           "key": "原作",
           "value": "矢立肇、広井王子、井内秀治"
         },
@@ -102,10 +106,6 @@
         {
           "key": "人物设定",
           "value": "芦田豊雄 副:とみながまり＆スタジオライブ"
-        },
-        {
-          "key": "音乐",
-          "value": "朝川朋之"
         },
         {
           "key": "机械设定",
@@ -159,6 +159,12 @@
       "total_episodes": 51,
       "id": 1974,
       "eps": 51,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -192,6 +198,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 500633
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/31/474999_SkjkT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/31/474999_SkjkT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e0/31/474999_SkjkT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/31/474999_SkjkT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/31/474999_SkjkT.jpg"
+          },
+          "name": "魔神創造伝ワタル",
+          "name_cn": "魔神创造传",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 474999
         },
         {
           "images": {
@@ -483,11 +503,11 @@
       "date": "1997-10-07",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/b9/696_tdp05.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/b9/696_tdp05.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/0c/b9/696_tdp05.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/b9/696_tdp05.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/b9/696_tdp05.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0c/b9/696_33p3g.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0c/b9/696_33p3g.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0c/b9/696_33p3g.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0c/b9/696_33p3g.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0c/b9/696_33p3g.jpg"
       },
       "summary": "　　身の丈を超える長大な剣を自在に操り、「使徒」と呼ばれる人外の化け物を屠る「黒い剣士」ガッツを主人公とする大河ファンタジー。ガッツはある宿命に憑りつかれて狂戦士のごとく大剣を振るい、闇に蠢く化物と死闘を繰り広げる。その目的は無為に殺された仲間たちの復讐と大切なものを護るということ。二つの重荷を背負い、5人の守護天使ゴッドハンドを探し求めるガッツはその下に従う人外の存在「使徒」との闘いの中で、運命に翻弄されつつも必死にあがく。",
       "name": "剣風伝奇ベルセルク",
@@ -510,7 +530,7 @@
         "平沢進",
         "平泽进",
         "战斗",
-        "日本动画",
+        "日本",
         "漫改",
         "漫画改",
         "热血",
@@ -602,6 +622,12 @@
       "total_episodes": 25,
       "id": 696,
       "eps": 25,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -810,6 +836,7 @@
       "name": "バトルアスリーテス 大運動会",
       "name_cn": "BATTLE ATHLETESS 大运动会",
       "tags": [
+        "1990年代",
         "1997",
         "1997年10月",
         "7分",
@@ -821,18 +848,17 @@
         "[Yuri]",
         "倉田英之",
         "动画",
-        "动画品类补全",
         "原创",
-        "周防義和",
         "奥田淳",
+        "日本",
+        "有BD",
+        "田村",
         "百合",
         "真百合",
         "神展开",
         "秋山勝仁",
-        "秋山胜仁",
         "童年",
         "經典",
-        "经典",
         "老番",
         "补旧番",
         "超级系",
@@ -883,6 +909,10 @@
           "value": "秋山勝仁"
         },
         {
+          "key": "音乐",
+          "value": "周防義和"
+        },
+        {
           "key": "人物设定",
           "value": "奥田淳"
         },
@@ -899,10 +929,6 @@
           "value": "本田保則"
         },
         {
-          "key": "音乐",
-          "value": "周防義和"
-        },
-        {
           "key": "制作",
           "value": "AIC、PIONEER LDC（現・ジェネオンエンタテインメント）、テレビ東京、テレビ東京メディアネット、萬年社、WE'VE"
         }
@@ -910,6 +936,10 @@
       "total_episodes": 26,
       "id": 10413,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -918,11 +948,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/76/49189_S7yrj.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/76/49189_S7yrj.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1a/76/49189_S7yrj.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/76/49189_S7yrj.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/76/49189_S7yrj.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/76/49189_i81XS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/76/49189_i81XS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1a/76/49189_i81XS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/76/49189_i81XS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/76/49189_i81XS.jpg"
           },
           "name": "バトルアスリーテス 大運動会 OVA",
           "name_cn": "BATTLE ATHLETESS 大运动会 OVA",
@@ -1007,10 +1037,12 @@
       "name_cn": "忍者乱太郎 5期",
       "tags": [
         "1997",
+        "TV",
         "TVA",
         "亜細亜堂",
         "华视",
         "子供向",
+        "日本",
         "日本动画",
         "河内日出夫",
         "田中真弓",
@@ -1073,6 +1105,10 @@
       "total_episodes": 100,
       "id": 161683,
       "eps": 100,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1270,6 +1306,10 @@
       "total_episodes": 12,
       "id": 67782,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1285,24 +1325,22 @@
       "date": "1997-10-06",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/46/4466_3D199.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/46/4466_3D199.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/4e/46/4466_3D199.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/46/4466_3D199.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/46/4466_3D199.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/46/4466_ffTwn.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/46/4466_ffTwn.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/4e/46/4466_ffTwn.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/46/4466_ffTwn.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/46/4466_ffTwn.jpg"
       },
       "summary": "美夕は永遠の14歳の監視者として、全国の学校を度々転校しては神魔を見つけ出し、闇の世界に戻していた。神魔もまた、監視者を倒すことで仲間の間での名声を高めようとして美夕に攻撃を仕掛けるなど、美夕の戦いの日々は決して終わることがなかった。\r\n\r\nある日、時輪女子学園に転校した美夕は千里という少女に声を掛けられ、彼女のグループと一緒に休日の街の散策に付き合わされる。「美夕は一人ぼっちそうだったから声をかけた」と話す千里に、美夕も好意を持つ。二人は友情のイコンを買って、永遠の友情を誓い合う。\r\n\r\nその間にも、美夕は時輪女子学園周辺に出没する神魔を次々と闇の世界に送り込んでいく。しかし、弱い幼児や心優しい同年代の少女などが神魔の餌食となって運命を狂わされる様子に、美夕は悲しい表情を浮かべる。\r\n\r\n美夕が転入して以降の奇怪な事件の頻発に伴い、クラスメイトたちも美夕の素性に疑念を向け始める。その時、北の地から一人の男が帰って来る。美夕はその男に禍々しいものを感じる。しかし、美夕はこれが自分に向けられたある計画の始まりであることに気付いていなかった。やがて時は満ち、目覚めた「最強の神魔」が美夕に襲い掛かる。",
       "name": "吸血姫美夕",
       "name_cn": "吸血姬美夕",
       "tags": [
-        "1990s",
         "1997",
         "1997年",
         "1997年10月",
         "90年代",
         "AIC",
         "TV",
-        "三木真一郎",
         "剧情",
         "剧情系",
         "吸血姬",
@@ -1311,11 +1349,13 @@
         "垣野内成美",
         "奇幻",
         "妖怪",
+        "小中千昭",
         "少女",
         "川井宪次",
         "平野俊貴",
         "平野俊贵",
         "拉法",
+        "日本",
         "漫改",
         "漫画改",
         "百合",
@@ -1360,12 +1400,16 @@
           "value": "1998年3月30日"
         },
         {
-          "key": "原作",
-          "value": "平野俊貴・垣野内成美"
-        },
-        {
           "key": "导演",
           "value": "平野俊貴"
+        },
+        {
+          "key": "音乐",
+          "value": "川井憲次"
+        },
+        {
+          "key": "原作",
+          "value": "平野俊貴・垣野内成美"
         },
         {
           "key": "系列构成",
@@ -1388,10 +1432,6 @@
           "value": "本田保則"
         },
         {
-          "key": "音乐",
-          "value": "川井憲次"
-        },
-        {
           "key": "动画制作",
           "value": "AIC"
         },
@@ -1403,6 +1443,11 @@
       "total_episodes": 26,
       "id": 4466,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1505,7 +1550,7 @@
         "95~99年",
         "BL",
         "OVA",
-        "OVA-01",
+        "OVA·OAD",
         "StudioPierrot",
         "ぴえろ",
         "八云立",
@@ -1513,7 +1558,6 @@
         "关智一",
         "小丑社",
         "擦边",
-        "旧物",
         "暧昧",
         "暧昧向",
         "望月智充",
@@ -1524,6 +1568,7 @@
         "漫画改",
         "漫画虐",
         "独立ova",
+        "礼节性想看",
         "耽美",
         "腐",
         "补旧番",
@@ -1611,6 +1656,9 @@
       "total_episodes": 2,
       "id": 6021,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1664,6 +1712,7 @@
         "岩田光央",
         "川瀬敏文",
         "无源",
+        "日本",
         "日本动画",
         "旧",
         "旧物"
@@ -1709,6 +1758,10 @@
       "total_episodes": 12,
       "id": 37465,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1766,7 +1819,6 @@
         "1997",
         "90年代",
         "OVA",
-        "OVA-01",
         "SUNRISE",
         "robo",
         "やまだたかひろ",
@@ -1877,6 +1929,9 @@
       "total_episodes": 2,
       "id": 202960,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2001,6 +2056,11 @@
       "total_episodes": 1,
       "id": 100451,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2060,6 +2120,7 @@
         "後藤圭二",
         "战斗",
         "搞笑",
+        "日本",
         "日本动画",
         "旧物",
         "漫画改",
@@ -2095,6 +2156,14 @@
           "value": "1997年12月24日"
         },
         {
+          "key": "导演",
+          "value": "福富博"
+        },
+        {
+          "key": "音乐",
+          "value": "堤秀树、横山刚"
+        },
+        {
           "key": "动画制作",
           "value": "グループ・タック"
         },
@@ -2103,20 +2172,12 @@
           "value": "矢上裕"
         },
         {
-          "key": "导演",
-          "value": "福富博"
-        },
-        {
           "key": "系列构成",
           "value": "あみやまさはる"
         },
         {
           "key": "人物设定",
           "value": "後藤圭二"
-        },
-        {
-          "key": "音乐",
-          "value": "堤秀树、横山刚"
         },
         {
           "key": "音响监督",
@@ -2138,6 +2199,11 @@
       "total_episodes": 12,
       "id": 43473,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2235,6 +2301,7 @@
       "name_cn": "",
       "tags": [
         "1997",
+        "TV",
         "TVA",
         "日本动画",
         "日本动画公司",
@@ -2257,6 +2324,10 @@
       "total_episodes": 52,
       "id": 220515,
       "eps": 100,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2297,6 +2368,7 @@
       "name": "電脳戦隊ヴギィ'ズ★エンジェル",
       "name_cn": "美少女电脑战队",
       "tags": [
+        "1990-1999",
         "1997",
         "90年代",
         "95-99",
@@ -2307,13 +2379,16 @@
         "其他",
         "原创",
         "塩沢兼人",
+        "大张正己",
         "大張正己",
         "战队",
         "旧物",
         "旧番",
         "机器人",
         "机战",
-        "独立ova"
+        "独立ova",
+        "科幻",
+        "萝卜"
       ],
       "infobox": [
         {
@@ -2375,6 +2450,9 @@
       "total_episodes": 3,
       "id": 82780,
       "eps": 3,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

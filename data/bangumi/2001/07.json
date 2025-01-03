@@ -19,8 +19,6 @@
         "2001",
         "2001年",
         "2001年7月",
-        "DEEN",
-        "STUDIO_DEEN",
         "TV",
         "studiodeen",
         "乙女向",
@@ -32,9 +30,11 @@
         "奇幻",
         "少女",
         "少女向",
+        "少女漫",
         "少女系",
         "幻影天使",
         "恋爱",
+        "日本",
         "本田透",
         "校园",
         "水果篮子",
@@ -97,6 +97,13 @@
       "total_episodes": 26,
       "id": 880,
       "eps": 26,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "日本",
+        "漫画改",
+        "少女向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -233,6 +240,7 @@
         "坑了",
         "奇幻",
         "安娜姐",
+        "小西克幸",
         "少年",
         "少年系",
         "战斗",
@@ -244,7 +252,6 @@
         "水島精二",
         "漫改",
         "漫画改",
-        "烂尾",
         "热血",
         "童年",
         "经典",
@@ -282,16 +289,16 @@
           "value": "2002年9月25日"
         },
         {
-          "key": "原作",
-          "value": "武井宏之"
-        },
-        {
           "key": "导演",
           "value": "水島精二"
         },
         {
           "key": "音乐",
           "value": "大森俊之"
+        },
+        {
+          "key": "原作",
+          "value": "武井宏之"
         },
         {
           "key": "动画制作",
@@ -305,6 +312,13 @@
       "total_episodes": 64,
       "id": 4190,
       "eps": 64,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -533,20 +547,24 @@
           "value": "2001年12月26日"
         },
         {
-          "key": "Copyright",
-          "value": "©サンライズ"
-        },
-        {
-          "key": "原作",
-          "value": "矢立肇"
-        },
-        {
           "key": "导演",
           "value": "谷口悟朗"
         },
         {
-          "key": "脚本",
-          "value": "黒田洋介"
+          "key": "音乐",
+          "value": "中川幸太郎"
+        },
+        {
+          "key": "企画",
+          "value": "岩田圭介（テレビ東京）、小林真一郎、国崎久徳"
+        },
+        {
+          "key": "Copyright",
+          "value": "©サンライズ"
+        },
+        {
+          "key": "原案",
+          "value": "矢立肇、サンライズ"
         },
         {
           "key": "人物设定",
@@ -565,13 +583,76 @@
           "value": "浦上靖夫"
         },
         {
-          "key": "音乐",
-          "value": "中川幸太郎"
+          "key": "设定",
+          "value": "森木靖泰、荒牧伸志、山根理宏、神宮司訓久（视觉设定） 協力：シンクポート、大河広行[14話～26話]"
+        },
+        {
+          "key": "主演出",
+          "value": "吉本毅[6話～26話]"
+        },
+        {
+          "key": "制片人",
+          "value": "東不可止（テレビ東京）、高城一典、河内山隆"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、読売広告社、サンライズ"
+        },
+        {
+          "key": "特效",
+          "value": "長谷川敏生（マリックス）"
+        },
+        {
+          "key": "剪辑",
+          "value": "野尻由紀子（ウインズ）"
+        },
+        {
+          "key": "音效",
+          "value": "庄司雅弘（フィズサウンド・クリエイション）"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "井出泰彰（OP1）、酒井ミキオ（OP2、ED）"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "井出泰彰、酒井ミキオ"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "鈴木Daichi秀行（OP1）、酒井ミキオ（OP2、ED）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "鈴木Daichi秀行（OP1）、酒井ミキオ（OP2、ED）"
+        },
+        {
+          "key": "分镜",
+          "value": "谷口悟朗、渡辺純央、久城りおん、黒木冬、北村真咲、高松信司、やまざきかずお、日高政光、望月智充、吉永尚之、加瀬充子"
+        },
+        {
+          "key": "演出",
+          "value": "吉本毅、山田弘和、いとがしんたろー、久城りおん、高木茂樹、吉本毅、加藤洋人、西村大樹、吉村章、三好正人、喜多幡徹"
+        },
+        {
+          "key": "作画监督",
+          "value": "平井久司、寺岡巌、植田洋一、大貫健一、糸島雅彦、小林理、しんぼたくろう、木村貴宏"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "山根理宏、伊藤浩二、中田栄治、橋本誠一、中谷誠一"
         }
       ],
       "total_episodes": 26,
       "id": 10276,
       "eps": 26,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -678,11 +759,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/91/86/202594_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/91/86/202594_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/91/86/202594_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/91/86/202594_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/91/86/202594_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/91/86/202594_pESET.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/91/86/202594_pESET.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/91/86/202594_pESET.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/91/86/202594_pESET.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/91/86/202594_pESET.jpg"
           },
           "name": "スクライド サウンドエディション1 スクライド3.4 佐伯リューコ",
           "name_cn": "",
@@ -745,6 +826,48 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 495527
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/d9/518587_7iNs5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/d9/518587_7iNs5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/d9/518587_7iNs5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/d9/518587_7iNs5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/d9/518587_7iNs5.jpg"
+          },
+          "name": "my souls",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 518587
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/21/518590_JRASW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/21/518590_JRASW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/21/518590_JRASW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/21/518590_JRASW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/21/518590_JRASW.jpg"
+          },
+          "name": "スクライド サウンドエディション2 スクライド3.7ホーリーズ・プレイ",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 518590
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/f2/519340_hKrMr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/f2/519340_hKrMr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e0/f2/519340_hKrMr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/f2/519340_hKrMr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/f2/519340_hKrMr.jpg"
+          },
+          "name": "スクライドオルタレイション Sound Edition 2012",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 519340
         }
       ]
     }
@@ -770,6 +893,7 @@
         "2001-07",
         "TNK",
         "TV",
+        "日本",
         "早年",
         "治愈",
         "治癒系",
@@ -803,6 +927,11 @@
       "total_episodes": 12,
       "id": 89726,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -871,10 +1000,8 @@
       "name": "星界の戦旗II",
       "name_cn": "星界的战旗II",
       "tags": [
-        "01夏",
         "2000s",
         "2001",
-        "2001-07",
         "2001年7月",
         "SF",
         "SUNRISE",
@@ -892,8 +1019,10 @@
         "日本",
         "星界",
         "星界的战旗",
+        "机战",
         "森岡浩之",
         "科幻",
+        "竹田裕一郎",
         "第二季",
         "续作",
         "补番",
@@ -1059,6 +1188,12 @@
       "total_episodes": 10,
       "id": 9618,
       "eps": 10,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1081,11 +1216,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/f6/9619_k6xxO.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/f6/9619_k6xxO.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e4/f6/9619_k6xxO.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/f6/9619_k6xxO.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/f6/9619_k6xxO.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/f6/9619_0a73n.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/f6/9619_0a73n.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e4/f6/9619_0a73n.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/f6/9619_0a73n.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/f6/9619_0a73n.jpg"
           },
           "name": "星界の戦旗III",
           "name_cn": "星界的战旗III",
@@ -1172,12 +1307,12 @@
         "小林靖子",
         "山口祐司",
         "师生",
-        "平川大辅",
         "恋爱",
         "折笠富美子",
         "搞笑",
         "教师",
         "日常",
+        "日本",
         "日本动画",
         "校园",
         "渡辺明乃",
@@ -1233,6 +1368,11 @@
       "total_episodes": 13,
       "id": 24062,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1356,7 +1496,16 @@
         },
         {
           "key": "上映年度",
-          "value": "2001年7月28日 (Fantasia International Film Festival)、2002年9月14日 (日本)"
+          "value": [
+            {
+              "k": "Fantasia",
+              "v": "2001-07-28"
+            },
+            {
+              "k": "日本",
+              "v": "2002-09-14"
+            }
+          ]
         },
         {
           "key": "片长",
@@ -1438,6 +1587,11 @@
       "total_episodes": 1,
       "id": 840,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1485,6 +1639,20 @@
           "relation": "画集",
           "type": 1,
           "id": 335715
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/fd/531083_JGM86.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/fd/531083_JGM86.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/fd/531083_JGM86.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/fd/531083_JGM86.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/fd/531083_JGM86.jpg"
+          },
+          "name": "千年女優 アーカイブス",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 531083
         }
       ]
     }
@@ -1511,7 +1679,6 @@
         "2001年7月",
         "DM",
         "digimon",
-        "movie",
         "アニメ剧场",
         "デジモン",
         "东映",
@@ -1521,6 +1688,8 @@
         "冲绳",
         "剧场版",
         "劇場版",
+        "动画",
+        "动画电影",
         "原创",
         "奇幻",
         "小林靖子",
@@ -1531,7 +1700,6 @@
         "日本",
         "日本动画",
         "有澤孝紀",
-        "東映",
         "東映アニメーション",
         "热血",
         "科幻",
@@ -1596,6 +1764,10 @@
       "total_episodes": 1,
       "id": 3137,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1687,6 +1859,7 @@
         "冒险",
         "剧场版",
         "剧情版",
+        "动画",
         "动画电影",
         "原创",
         "口袋妖怪",
@@ -1703,7 +1876,6 @@
         "热血",
         "神奇宝贝",
         "神奇宝贝剧场版4",
-        "神奇寶貝",
         "穿越",
         "童年",
         "精灵宝可梦",
@@ -1863,6 +2035,10 @@
       "total_episodes": 1,
       "id": 3025,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1965,7 +2141,6 @@
         "2001年7月",
         "OLM",
         "OVA",
-        "OVA-01",
         "YL",
         "pokemon",
         "オー・エル・エム",
@@ -2107,6 +2282,9 @@
       "total_episodes": 1,
       "id": 27779,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2378,6 +2556,12 @@
       "total_episodes": 1,
       "id": 311,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "奇幻",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2428,11 +2612,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/53/28010_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/53/28010_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d4/53/28010_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/53/28010_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/53/28010_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/53/28010_81JAj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/53/28010_81JAj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d4/53/28010_81JAj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/53/28010_81JAj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/53/28010_81JAj.jpg"
           },
           "name": "千と千尋の神隠し サウンドトラック",
           "name_cn": "",
@@ -2582,6 +2766,7 @@
         "宫田幸季",
         "小杉十郎太",
         "後藤圭二",
+        "日本",
         "旧物",
         "木村郁绘",
         "石塚运升",
@@ -2637,6 +2822,10 @@
       "total_episodes": 13,
       "id": 83323,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2682,31 +2871,31 @@
         "2001年",
         "2001年7月",
         "OVA",
-        "OVA-01",
+        "TV",
         "~2006",
         "ささきむつみ",
+        "ケイエスエス",
         "ヴェネット",
         "ヴェネット等",
         "井上喜久子",
         "优先级b",
+        "动画",
         "原创",
         "后宫",
-        "夸张",
         "女教师",
         "岸尾大辅",
         "搞笑",
         "日常",
         "校园",
         "欢乐课程",
-        "殿勝秀樹",
         "母系",
         "水树奈奈",
         "水樹奈々",
+        "治愈",
         "特别企划",
         "老师",
         "肉腿",
-        "补番",
-        "鬼畜"
+        "补番"
       ],
       "infobox": [
         {
@@ -2772,6 +2961,11 @@
       "total_episodes": 5,
       "id": 53950,
       "eps": 5,
+      "meta_tags": [
+        "后宫",
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2787,7 +2981,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/1a/14653_rc1Mk.jpg"
           },
           "name": "HAPPY★LESSON THE TV",
-          "name_cn": "欢乐课程",
+          "name_cn": "欢乐课程 THE TV",
           "relation": "续集",
           "type": 2,
           "id": 14653
@@ -2814,8 +3008,9 @@
       "tags": [
         "2000s",
         "2001",
-        "2001-07",
         "2001年",
+        "6(+1)",
+        "61-100",
         "OVA",
         "doremi",
         "¬",
@@ -2831,12 +3026,11 @@
         "山内重保",
         "山田隆司",
         "幼女向",
+        "日常",
         "日本动画",
         "映画",
         "東映",
         "東映アニメーション",
-        "梦回老东映",
-        "演出アニメ",
         "百合",
         "表",
         "马越嘉彦",
@@ -2885,11 +3079,51 @@
         {
           "key": "製作",
           "value": "高岩淡、泊懋、東聡"
+        },
+        {
+          "key": "原作",
+          "value": "東堂いづみ"
+        },
+        {
+          "key": "导演",
+          "value": "山内重保"
+        },
+        {
+          "key": "脚本",
+          "value": "山田隆司"
+        },
+        {
+          "key": "人物设定",
+          "value": "馬越嘉彦"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "MAHO堂〔春風どれみ（千葉千恵巳）、藤原はづき（秋谷智子）、妹尾あいこ（松岡由貴）、瀬川おんぷ（宍戸留美）、飛鳥ももこ（宮原永海）〕"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "里乃塚玲央、柚木美祐"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "小形保夫、池毅"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "安井歩、信田かずお"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "MAHO堂〔春風どれみ（千葉千恵巳）、藤原はづき（秋谷智子）、妹尾あいこ（松岡由貴）、瀬川おんぷ（宍戸留美）、飛鳥ももこ（宮原永海）〕、五條真由美"
         }
       ],
       "total_episodes": 1,
       "id": 14881,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2909,6 +3143,34 @@
           "relation": "主线故事",
           "type": 2,
           "id": 14877
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/32/145223_ZdSya.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/32/145223_ZdSya.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/32/145223_ZdSya.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/32/145223_ZdSya.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/32/145223_ZdSya.jpg"
+          },
+          "name": "おジャ魔女でBAN² / たからもの",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 145223
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/b4/442297_fRfP6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/b4/442297_fRfP6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/81/b4/442297_fRfP6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/b4/442297_fRfP6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/b4/442297_fRfP6.jpg"
+          },
+          "name": "おジャ魔女どれみ# MEMORIAL CD BOX",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 442297
         },
         {
           "images": {
@@ -2950,6 +3212,10 @@
         "3D",
         "CG",
         "FF",
+        "SONY",
+        "SPE",
+        "SQUARE",
+        "SquareEnix",
         "冒险",
         "剧场版",
         "动画电影",
@@ -2966,14 +3232,10 @@
         "游戏改",
         "游戏改编",
         "电影",
-        "硬盘无存货",
         "科幻",
-        "空想科学",
-        "美国",
         "补番",
         "超越时代的技术",
-        "这货根本就不是最终幻想",
-        "金田伊功"
+        "这货根本就不是最终幻想"
       ],
       "infobox": [
         {
@@ -3072,6 +3334,9 @@
       "total_episodes": 1,
       "id": 17746,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3127,7 +3392,7 @@
       "name_cn": "铁臂阿童木 地球最后一日",
       "tags": [
         "2001",
-        "OVA",
+        "剧场版",
         "旧物"
       ],
       "infobox": [
@@ -3151,6 +3416,9 @@
       "total_episodes": 0,
       "id": 425942,
       "eps": 0,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3380,6 +3648,7 @@
         "冷门",
         "哈洛克",
         "季番",
+        "日本",
         "日本动画",
         "旧物",
         "星辰大海",
@@ -3421,6 +3690,14 @@
           "value": "2001年9月28日"
         },
         {
+          "key": "导演",
+          "value": "横田和善"
+        },
+        {
+          "key": "音乐",
+          "value": "Geminiart High Quality"
+        },
+        {
           "key": "原作",
           "value": "松本零士"
         },
@@ -3431,10 +3708,6 @@
         {
           "key": "监修",
           "value": "松本零士"
-        },
-        {
-          "key": "导演",
-          "value": "横田和善"
         },
         {
           "key": "系列构成",
@@ -3465,10 +3738,6 @@
           "value": "馬場健"
         },
         {
-          "key": "音乐",
-          "value": "Geminiart High Quality"
-        },
-        {
           "key": "音响监督",
           "value": "早瀬博雪"
         },
@@ -3480,6 +3749,10 @@
       "total_episodes": 13,
       "id": 127353,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3537,6 +3810,9 @@
         "2001",
         "SP",
         "SUNRISE",
+        "TV",
+        "小说改",
+        "日本",
         "轻小说改"
       ],
       "infobox": [
@@ -3608,6 +3884,11 @@
       "total_episodes": 1,
       "id": 445941,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3664,6 +3945,7 @@
       "tags": [
         "2001",
         "TMSEntertainment",
+        "剧场版",
         "子供向"
       ],
       "infobox": [
@@ -3683,6 +3965,9 @@
       "total_episodes": 0,
       "id": 317783,
       "eps": 0,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

@@ -29,6 +29,7 @@
         "剧场版",
         "剧情",
         "奇幻",
+        "悬疑",
         "战争",
         "战斗",
         "日本",
@@ -37,7 +38,6 @@
         "泽野弘之",
         "漫改",
         "漫画改",
-        "濑古浩司",
         "瀬古浩司",
         "热血",
         "神作",
@@ -88,16 +88,20 @@
           "value": "2023年3月3日"
         },
         {
+          "key": "导演",
+          "value": "林祐一郎"
+        },
+        {
+          "key": "音乐",
+          "value": "KOHTA YAMAMOTO/澤野弘之"
+        },
+        {
           "key": "Copyright",
           "value": "©諫山創・講談社／「進撃の巨人」The Final Season製作委員会"
         },
         {
           "key": "原作",
           "value": "諫山創（別冊少年マガジン連載／講談社）"
-        },
-        {
-          "key": "导演",
-          "value": "林祐一郎"
         },
         {
           "key": "人物设定",
@@ -152,10 +156,6 @@
           "value": "副制片人：堀切伸二、北林俊哉、宮井梨江、伊藤洋平、栃倉千穂、上田陽子、市塚優子、清水瑛美、山崎博昭"
         },
         {
-          "key": "音乐",
-          "value": "KOHTA YAMAMOTO/澤野弘之"
-        },
-        {
           "key": "原画",
           "value": "青木真理子、有澤寛、岩瀧智、上田彩朔、宇佐美皓一、翁靖翔、郭鋭、加藤雅之、加野晃、川合正剛、川辺雄介、簡廷軒、北條直明、邱家和、邱明哲、金正男、郡司智一、小井聖令奈、黄旻淳、黃鄧依姗(黄邓依姗)、小林明美、蔡孟書、酒井愛理、酒井智史、郷敏治、佐藤良隆、島袋奈津希、蔣平翊(蒋平翊)、邵伊怡、白井英治、末澤卓哉、杉光兼明、杉本ミッシェル、曾信雄、曾品喬(曾品乔)、超級豆仁(陳昇孟)、中村和代、范言新、福田健人、藤木奈々、古俣太一、古家桜子、松井アキラ、松田芳明、惠健人、八木元喜、姚杰善、横手雅子、吉松義雄、林晶、魯亞芝"
         },
@@ -167,6 +167,13 @@
       "total_episodes": 1,
       "id": 376739,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -245,17 +252,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/1e/508708_G939W.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/1e/508708_G939W.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/07/1e/508708_G939W.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/1e/508708_G939W.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/1e/508708_G939W.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/1e/508708_Z8Za5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/1e/508708_Z8Za5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/07/1e/508708_Z8Za5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/1e/508708_Z8Za5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/1e/508708_Z8Za5.jpg"
           },
           "name": "劇場版 進撃の巨人 完結編 THE LAST ATTACK",
           "name_cn": "剧场版 进击的巨人 完结篇 THE LAST ATTACK",
           "relation": "总集篇",
           "type": 2,
           "id": 508708
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/d9/520601_v84sB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/d9/520601_v84sB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/12/d9/520601_v84sB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/d9/520601_v84sB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/d9/520601_v84sB.jpg"
+          },
+          "name": "進撃の巨人VR: Unbreakable",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520601
         }
       ]
     }
@@ -279,15 +300,23 @@
       "tags": [
         "2022年7月",
         "2023",
+        "2023冬",
+        "2023夏",
         "2023年",
         "2023年4月",
         "2023年春",
+        "2023春",
+        "2023秋",
         "STUDIOPUYUKAI",
         "STUDIO_PUYUKAI",
         "TV",
         "WEB",
+        "会二刷",
+        "动画",
         "屹青",
+        "已下",
         "日常",
+        "日本",
         "治愈",
         "泡面",
         "泡面番",
@@ -403,6 +432,9 @@
       "total_episodes": 31,
       "id": 414969,
       "eps": 30,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -500,6 +532,8 @@
       "name_cn": "",
       "tags": [
         "2023",
+        "TV",
+        "日本",
         "東映アニメーション",
         "空"
       ],
@@ -536,12 +570,16 @@
           "value": "Eテレ"
         },
         {
-          "key": "Copyright",
-          "value": "©トロル・ポプラ社／NHK・NEP・東映アニメーション"
-        },
-        {
           "key": "导演",
           "value": "三上雅人"
+        },
+        {
+          "key": "音乐",
+          "value": "高木洋"
+        },
+        {
+          "key": "Copyright",
+          "value": "©トロル・ポプラ社／NHK・NEP・東映アニメーション"
         },
         {
           "key": "人物设定",
@@ -550,10 +588,6 @@
         {
           "key": "脚本",
           "value": "高橋ナツコ"
-        },
-        {
-          "key": "音乐",
-          "value": "高木洋"
         },
         {
           "key": "主题歌编曲",
@@ -587,26 +621,16 @@
       "total_episodes": 1,
       "id": 426617,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/ca/239180_4kAAK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/ca/239180_4kAAK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0f/ca/239180_4kAAK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/ca/239180_4kAAK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/ca/239180_4kAAK.jpg"
-          },
-          "name": "おしりたんてい",
-          "name_cn": "屁屁侦探",
-          "relation": "主线故事",
-          "type": 2,
-          "id": 239180
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/06/426619_bSySv.jpg",
@@ -620,6 +644,20 @@
           "relation": "续集",
           "type": 2,
           "id": 426619
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/de/529235_2EqAK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/de/529235_2EqAK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/de/529235_2EqAK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/de/529235_2EqAK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/de/529235_2EqAK.jpg"
+          },
+          "name": "おしりたんてい 第7シリーズ",
+          "name_cn": "屁屁侦探 第七季",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 529235
         }
       ]
     }
@@ -642,6 +680,7 @@
       "name_cn": "夜巡猫",
       "tags": [
         "2023",
+        "TV",
         "TVA",
         "动画",
         "子供向",
@@ -653,6 +692,7 @@
         "未定档",
         "未确定",
         "泡面番",
+        "漫画改",
         "種﨑敦美",
         "竹谷和真",
         "金杉弘子"
@@ -683,16 +723,16 @@
           "value": "2023年3月27日"
         },
         {
+          "key": "导演",
+          "value": "竹谷和真"
+        },
+        {
           "key": "Copyright",
           "value": "© 深谷かほる・講談社／NHK・NEP・創通"
         },
         {
           "key": "原作",
           "value": "深谷かほる"
-        },
-        {
-          "key": "导演",
-          "value": "竹谷和真"
         },
         {
           "key": "人物设定",
@@ -754,6 +794,11 @@
       "total_episodes": 15,
       "id": 408720,
       "eps": 15,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -801,6 +846,7 @@
         "TV",
         "剧集",
         "待上映",
+        "日本",
         "日本动画",
         "治愈",
         "漫改",
@@ -832,12 +878,12 @@
           "value": "2023年12月15日"
         },
         {
-          "key": "原作",
-          "value": "わたせせいぞう"
-        },
-        {
           "key": "音乐",
           "value": "島健"
+        },
+        {
+          "key": "原作",
+          "value": "わたせせいぞう"
         },
         {
           "key": "声音出演",
@@ -847,6 +893,11 @@
       "total_episodes": 15,
       "id": 425590,
       "eps": 15,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -901,6 +952,7 @@
       "name": "しゅわわん！",
       "name_cn": "手语！",
       "tags": [
+        "TV",
         "动画",
         "子供向",
         "日本"
@@ -939,16 +991,16 @@
           "value": "2023年3月25日"
         },
         {
-          "key": "原作",
-          "value": "齋藤陽道"
-        },
-        {
           "key": "导演",
           "value": "長嶋佳代子"
         },
         {
           "key": "音乐",
           "value": "からすだ晴奈"
+        },
+        {
+          "key": "原作",
+          "value": "齋藤陽道"
         },
         {
           "key": "配音",
@@ -978,6 +1030,10 @@
       "total_episodes": 3,
       "id": 425464,
       "eps": 3,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1015,6 +1071,7 @@
         "剧场版",
         "动画电影",
         "原创",
+        "古立特",
         "奇幻",
         "恋爱",
         "战斗",
@@ -1026,7 +1083,6 @@
         "特摄改",
         "电影",
         "科幻",
-        "纯爱",
         "萝卜",
         "長谷川圭一",
         "雨宫哲",
@@ -1134,6 +1190,12 @@
       "total_episodes": 3,
       "id": 362335,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "机战",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1260,19 +1322,19 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/80/410936_6LYUT.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/80/410936_6LYUT.jpg"
           },
-          "name": "SSSS.GRIDMAN 劇場総集編",
-          "name_cn": "SSSS.古立特 剧场总集篇",
+          "name": "劇場総集編 SSSS.GRIDMAN",
+          "name_cn": "剧场总集篇 SSSS.古立特",
           "relation": "前传",
           "type": 2,
           "id": 410936
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/11/296367_lMue6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/11/296367_lMue6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a1/11/296367_lMue6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/11/296367_lMue6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_lMue6.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_yPic1.jpg"
           },
           "name": "SSSS.DYNAZENON",
           "name_cn": "SSSS.电光机王",
@@ -1288,8 +1350,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/a5/410938_XJtGx.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/a5/410938_XJtGx.jpg"
           },
-          "name": "SSSS.DYNAZENON 劇場総集編",
-          "name_cn": "SSSS.电光机王 剧场总集篇",
+          "name": "劇場総集編 SSSS.DYNAZENON",
+          "name_cn": "剧场总集篇 SSSS.电光机王",
           "relation": "前传",
           "type": 2,
           "id": 410938
@@ -1316,12 +1378,10 @@
       "tags": [
         "2020s",
         "2023",
-        "2023年春",
         "IG.Port",
         "Production.I.G",
         "ProductionI.G",
         "SweetSub",
-        "らくだい魔女",
         "剧场版",
         "动画",
         "动画电影",
@@ -1329,12 +1389,13 @@
         "奇幻",
         "子供向",
         "小说改",
-        "山崎泰之",
         "待上映",
         "恋爱",
         "成田旬",
         "战斗",
+        "日剧场版",
         "日本",
+        "杉田まるみ",
         "正太",
         "波丽佳音",
         "浜名孝行",
@@ -1343,6 +1404,7 @@
         "漫画改",
         "石見舞菜香",
         "萝莉",
+        "落第魔女",
         "魔法"
       ],
       "infobox": [
@@ -1423,6 +1485,10 @@
       "total_episodes": 1,
       "id": 352185,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1616,6 +1682,9 @@
       "total_episodes": 13,
       "id": 425936,
       "eps": 13,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1663,6 +1732,7 @@
         "アニメ映画",
         "シンエイ動画",
         "ドラえもん",
+        "一般",
         "乌托邦",
         "冒险",
         "剧场版",
@@ -1671,10 +1741,10 @@
         "原创",
         "古沢良太",
         "哆啦A梦",
+        "喜剧",
         "堂山卓見",
         "堂山卓见",
-        "弱6",
-        "影院观影",
+        "子供向",
         "搞笑",
         "日本",
         "日本动画",
@@ -1683,7 +1753,6 @@
         "治愈",
         "漫画改",
         "电影",
-        "电影院",
         "科幻",
         "童年"
       ],
@@ -1699,7 +1768,7 @@
               "v": "Eiga Doraemon: Nobita to Sora no Utopia"
             },
             {
-              "v": "Doraemon the Movie 2023: Nobita`s Sky Utopia"
+              "v": "Doraemon the Movie: Nobita's Sky Utopia"
             },
             {
               "v": "哆啦A梦 大雄与天空乌托邦"
@@ -1712,7 +1781,7 @@
         },
         {
           "key": "片长",
-          "value": "107分"
+          "value": "107分钟"
         },
         {
           "key": "官方网站",
@@ -1727,6 +1796,10 @@
           "value": "1"
         },
         {
+          "key": "总制片人",
+          "value": "吉田健司、中島進、八木征志"
+        },
+        {
           "key": "原作",
           "value": "藤子・F・不二雄"
         },
@@ -1735,45 +1808,151 @@
           "value": "堂山卓見"
         },
         {
+          "key": "脚本",
+          "value": "古沢良太"
+        },
+        {
+          "key": "企画",
+          "value": "藤子・F・不二雄プロ"
+        },
+        {
+          "key": "监修",
+          "value": "藤子・F・不二雄プロ"
+        },
+        {
           "key": "人物设定",
           "value": "小林麻衣子"
         },
         {
-          "key": "主题歌编曲",
-          "value": "VERSACHOI・3RACHA（Bang Chan）"
+          "key": "总作画监督",
+          "value": "小林麻衣子"
         },
         {
-          "key": "主题歌作曲",
-          "value": "3RACHA（Bang Chan・Changbin・HAN）・VERSACHOI"
+          "key": "演出",
+          "value": "益山亮司、藤倉拓也、八木郁乃"
         },
         {
-          "key": "主题歌作词",
-          "value": "AKIRA・3RACHA（Bang Chan・Changbin・HAN）"
+          "key": "作画监督",
+          "value": "小澤早依子、三輪修、岸野美智、やぐちひろこ、神戸佑太、山下晃、曽々木安恵、HAN SEUNGAH"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "鈴木勤、桝田浩史"
+        },
+        {
+          "key": "特效作画监督",
+          "value": "遠藤正明、桝田浩史"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "藤原巧和、加来由加里"
+        },
+        {
+          "key": "原画",
+          "value": "大塚正実、山口晋、藤原巧和、小磯由佳、遠藤正明、松永絵美、山森英司、三原三千夫、林千博、海岸麻由子、大武正枝、江口寿志、松尾慎、古佐小吉重、宮本佐和子、松井理和子、野村美妃、松井啓一郎、小谷瞳美、野間千賀子、石田廣二、HAN SEUNGAH、大久保政尚、末吉裕一郎、北田久登、加来由加里、小川完、矢能玖佳、藤本雄一朗、上田幸一郎、松嶋かおり、安藤義信、小美野雅彦、山田潮美、阿部美佐緒、金木熱志、工藤利春、日根野優子、中村真由美、岩木孝司、伊藤一樹、岡昭彦、中村純子、秋津達哉、糸島雅彦、こすぎなほこ、今泉健、福田裕樹、香月志帆、千葉ゆみ、大谷藍生、浅野直之、三輪修、岸野美智、小澤早依子、山下晃、神戸佑太、桝田浩史、やぐちひろこ、曽々木安恵"
+        },
+        {
+          "key": "第二原画",
+          "value": "吉田清美、村長由紀、楮木知美、山下梨早、松枝尚生、甲斐順子、針生桐子、川村夏生、加藤紗誉、松丸知宏、山崎微都紀、小野慎哉、降籏秀吉、遠藤良恵、尾沢あとり、上貝初実、松原礼奈、五十嵐直子、河田泉、湯舟正博、塚本あかね、山本華織、藤浦嵩、堀之内梨絵、永木歩実、山本早苗、今村万理子、吉村朝陽、桂田都美紀、スノードロップ、ぎふとアニメーション、SILVER LINK.、スタジオリングス、ゼロジー"
+        },
+        {
+          "key": "动画检查",
+          "value": "神谷由季、堀之内梨絵、八木里沙子"
+        },
+        {
+          "key": "补间动画",
+          "value": "ベガエンタテイメント（堀江佑、宮本美智子、川重希、高橋美由希、諸隈瑛美、濱田夢子、栁井彩夏、柳谷華果、神谷隼汰）、ORANGE（RYU JA YOUNG、HAN SONG HEE、KIM MIN AE、JEONG HYUN JEONG、KIM JUNG LAN、PARK NAN HEE、SON SEON AH、LEE KYUNG MI、SON YOUNG JU、PARK JI YOUNG、BACK SEUNG HUN、BAIK EUN HYE）、オープロダクション（兒玉理和、藤原よしえ）、朱夏（本多梓、小野恵理華、竹内英気、廣澤響希、吉川榛奈）、Wish（八木里沙子、一条望、鈴木三音子、石橋佳奈、栗田果歩、柚木美那、木村光貴、古池晴香、Lai Thi Hai Yen、下池萌絵、Yang Yuyi、安藤誠、鈴江優奈、山本洋平）、TOEI ANIATION PHILS.,INC.（山田條司、柏原華、畑中悠菜、梶岡知央、Edgar Allan Alcabaza、Clesvin Nepomuceno）、針生桐子、三上喜子、甲斐順子、田中陽子、逆井淳美、武口つるみ、藤野京子、秋吉育子、矢野美幸、星公子、松田晃司、小須田ひろみ、北村知子、山崎微都紀、池田好花、長谷川夏美、加来由加里、小林麻衣子、シンエイ動画、スノードロップ、旭プロダクション"
+        },
+        {
+          "key": "色彩设计",
+          "value": "木幡美雪"
+        },
+        {
+          "key": "色彩指定",
+          "value": "倉内美幸、和田舞奈、林由稀"
+        },
+        {
+          "key": "美术监督",
+          "value": "竹田悠介、益城貴昌"
+        },
+        {
+          "key": "美术设计",
+          "value": "美峰（青木薫、天田俊貴、野村正信）"
+        },
+        {
+          "key": "背景美术",
+          "value": "岡本春美、須藤岳、宗政拓也、Bamboo（益城貴昌、長島孝幸、坂倉敦子、柳川真梨、平林いずみ、須藤ゆみこ、中嶋友美、平吹千佳、大貫賢太郎）、小椎尾佳代、知本祐太、丁樹祿、西村健、加藤朋則、山田那央子、水上恵理、西野隆世、スタジオSuuuu（池田裕輔、NGUYEN TRANG、LE MAI、HOANG MAI、DAO HUNG、NGUYEN HOA）、スタジオPablo（嶋田昭夫）、三宅昌和、岡田怜子、宿野部陸、上垣裕起子、前塚太一、でほぎゃらりー（中村聡子、大城空、金山詩織、眞﨑萌、森あかね）、3D Texture（宗政拓也）"
+        },
+        {
+          "key": "摄影监督",
+          "value": "末弘孝史、大矢創太（摄影特效）"
+        },
+        {
+          "key": "摄影",
+          "value": "アニメフィルム（コンポジット：ひろちけんじ、伊藤修一、花井延昌、鈴木浩司、西山朋広、伊藤久美子、大森美奈子、桶田一展、木次美則、倉田佳美、手塚智鶴子、松澤秀子、山田廣明、土岐浩司、梅田俊之、熊谷正弘）；線撮協力：アスラフィルム、旭プロダクション、エース・クリエイション、リバイバル、スタジオエル、流星"
+        },
+        {
+          "key": "剪辑",
+          "value": "小島俊彦 助手：藤本理子、山田健太郎"
+        },
+        {
+          "key": "音效",
+          "value": "北田雅也"
         },
         {
           "key": "主题歌演出",
           "value": "NiziU"
         },
         {
-          "key": "发行",
-          "value": "東映"
+          "key": "主题歌作词",
+          "value": "AKIRA, Bang Chan(3RACHA), Changbin(3RACHA), HAN(3RACHA)"
         },
         {
-          "key": "製作",
-          "value": "「映画ドラえもん」製作委員会【藤子・F・不二雄プロ、小学館、テレビ朝日、アサツー ディ・ケイ、小学館集英社プロダクション、シンエイ動画】（杉山登、馬場亮一、林郁美、カリー知子、宮澤英太郎、大金修一、河西麻利子、石関暁、伊藤澄、今本統人、熊内真弓、小西麻理、佐上靖之、佐々木礼子、沢辺伸政、柴田亮、島村英司、高橋絢太朗、戸板麻子、徳山雅記、戸高伸一郎、藤河秀雄、丸澤滋、脇立樹、渡邊景亮、小野仁、川崎琹、岩田皐希、二階堂義明、芝高啓介、天野翔一朗、鶴崎りか、中村快、佐藤絵里子、浅田幸男、北條暁子、須子泰充、山下優人、鈴木歷乃、奥村美南、藤澤佑介、秋田純、大澤友実、池田光子、赤津一彦、森文彦、與儀祥子、大谷絵里、渡邉祥子）"
+          "key": "主题歌作曲",
+          "value": "Bang Chan(3RACHA), Changbin(3RACHA), HAN(3RACHA), VERSACHOI"
         },
         {
-          "key": "总制片人",
-          "value": "吉田健司、中島進、八木征志"
+          "key": "主题歌编曲",
+          "value": "VERSACHOI, Bang Chan(3RACHA)"
+        },
+        {
+          "key": "制作进行",
+          "value": "吉田拓斗、立花優奈"
+        },
+        {
+          "key": "制作",
+          "value": "协力制作：関口勇聖、原口航詩、小笠原卓也"
         },
         {
           "key": "制片人",
           "value": "小西佑平、勝山健晴、佐藤大真"
+        },
+        {
+          "key": "製作",
+          "value": "「映画ドラえもん」製作委員会【藤子・F・不二雄プロ、小学館、テレビ朝日、ADKエモーションズ、小学館集英社プロダクション、シンエイ動画】（杉山登、馬場亮一、林郁美、カリー知子、宮澤英太郎、大金修一、河西麻利子、石関暁、伊藤澄、今本統人、熊内真弓、小西麻理、佐上靖之、佐々木礼子、沢辺伸政、柴田亮、島村英司、高橋絢太朗、戸板麻子、徳山雅記、戸高伸一郎、藤河秀雄、丸澤滋、脇立樹、渡邊景亮、小野仁、川崎琹、岩田皐希、二階堂義明、芝高啓介、天野翔一朗、鶴崎りか、中村快、佐藤絵里子、浅田幸男、北條暁子、須子泰充、山下優人、鈴木歷乃、奥村美南、藤澤佑介、秋田純、大澤友実、池田光子、赤津一彦、森文彦、與儀祥子、大谷絵里、渡邉祥子）"
+        },
+        {
+          "key": "发行",
+          "value": "東宝"
+        },
+        {
+          "key": "IMDb",
+          "value": "tt21223380"
         }
       ],
       "total_episodes": 1,
       "id": 390873,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "喜剧",
+        "剧场版",
+        "日本",
+        "原创",
+        "漫画改",
+        "冒险",
+        "子供向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1854,7 +2033,7 @@
     }
   },
   {
-    "title": "SSSS.DYNAZENON 劇場総集編",
+    "title": "劇場総集編 SSSS.DYNAZENON",
     "date": "2023-03-10",
     "bangumi": {
       "date": "2023-03-10",
@@ -1867,33 +2046,33 @@
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/a5/410938_XJtGx.jpg"
       },
       "summary": "1993年より放送された特撮『電光超人グリッドマン』を原点とし、『SSSS.GRIDMAN』に続く形で制作された『SSSS.DYNAZENON』。\r\n監督の雨宮哲は、日常と非日常の狭間で“今”を生きる若者たちの姿をみずみずしい感性で描き、同時にヒーローやロボットのアクションをダイナミズムで描き切った演出が、幅広い層からの絶大な支持を得た。\r\n脚本は平成ウルトラマンを筆頭に活躍する長谷川圭一。音楽には『シン・エヴァンゲリオン』『シン・ゴジラ』の鷺巣詩郎を迎える。\r\n劇場総集編の監督はTVシリーズで助監督を務めた宮島善博が担当。本作特有の重厚な合体アクションと精緻な人間ドラマをさらに際立たせる劇場作品に見事変身させた。\r\n愛や痛みも乗せたまま、ダイナゼノンがスクリーンを駆け巡る！\r\nフジヨキ台の高校生、麻中蓬は学校帰りにガウマという風変わりな男と出会った。ガウマは怪獣使いと名乗り、行き倒れ寸前だった自分を救ってくれた蓬に何かと絡み始める。そんな時、怪獣シャルバンデスが出現した。同時にガウマの持っていた龍の置物が巨大ロボット・ダイナゼノンに姿を変える。混乱の中、蓬はクラスメートの南夢芽、その場に居合わせた山中暦とともにダイナゼノンのボディに取り込まれてしまった。\r\nかくしてガウマを中心として、蓬、夢芽、暦、そして暦のイトコの飛鳥川ちせが加わって対怪獣チーム・ガウマ隊が結成されるのだった。ガウマ隊に立ちはだかるのは、ジュウガ、オニジャ、ムジナ、シズムたち怪獣優生思想である。ガウマ隊と怪獣優生思想、仲間と仲間の戦いの果てに待つものは何か？",
-      "name": "SSSS.DYNAZENON 劇場総集編",
-      "name_cn": "SSSS.电光机王 剧场总集篇",
+      "name": "劇場総集編 SSSS.DYNAZENON",
+      "name_cn": "剧场总集篇 SSSS.电光机王",
       "tags": [
-        "2020-2029",
         "2020s",
         "2023",
         "2023剧场版",
         "2023劇場版",
         "2023年3月",
         "23冬",
+        "SSSS.DYNAZENON",
         "SSSS.GRIDMAN",
         "TRIGGER",
         "robo",
         "ssss",
+        "前作弃",
         "剧场版",
         "动画",
         "原创",
+        "古立特",
         "宫岛善博",
         "宮島善博",
         "屹青",
-        "已保存",
         "待上映",
         "总集篇",
         "恋爱",
         "日本动画",
         "机战",
-        "校园",
         "特摄",
         "科幻",
         "若山詩音",
@@ -1904,7 +2083,7 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "SSSS.电光机王 剧场总集篇"
+          "value": "剧场总集篇 SSSS.电光机王"
         },
         {
           "key": "上映年度",
@@ -2022,6 +2201,10 @@
       "total_episodes": 2,
       "id": 410938,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2030,11 +2213,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/11/296367_lMue6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/11/296367_lMue6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a1/11/296367_lMue6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/11/296367_lMue6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_lMue6.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/11/296367_yPic1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/11/296367_yPic1.jpg"
           },
           "name": "SSSS.DYNAZENON",
           "name_cn": "SSSS.电光机王",
@@ -2092,8 +2275,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/80/410936_6LYUT.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/80/410936_6LYUT.jpg"
           },
-          "name": "SSSS.GRIDMAN 劇場総集編",
-          "name_cn": "SSSS.古立特 剧场总集篇",
+          "name": "劇場総集編 SSSS.GRIDMAN",
+          "name_cn": "剧场总集篇 SSSS.古立特",
           "relation": "不同世界观",
           "type": 2,
           "id": 410936
@@ -2122,10 +2305,10 @@
         "2023年",
         "2023年3月",
         "2023年4月",
+        "4月",
         "A-1Pictures",
         "OVA",
         "TV",
-        "TVA",
         "剧场版",
         "喜剧",
         "小俣真一",
@@ -2276,6 +2459,13 @@
       "total_episodes": 4,
       "id": 425211,
       "eps": 4,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "恋爱",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2319,7 +2509,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/b6/389474_tzbrl.jpg"
           },
           "name": "かぐや様は告らせたい-ファーストキッスは終わらない- 映画",
-          "name_cn": "辉夜大小姐想让我告白-初吻不会结束- 剧场版",
+          "name_cn": "辉夜大小姐想让我告白-初吻不会结束- 电影",
           "relation": "总集篇",
           "type": 2,
           "id": 389474
@@ -2379,6 +2569,60 @@
           "relation": "原声集",
           "type": 3,
           "id": 427514
+        }
+      ]
+    }
+  },
+  {
+    "title": "RWBY Chibi Season 4",
+    "date": "2023-03-05",
+    "bangumi": {
+      "date": "2023-03-05",
+      "platform": "WEB",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/bb/521200_JBBlo.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/bb/521200_JBBlo.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/e8/bb/521200_JBBlo.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/bb/521200_JBBlo.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/bb/521200_JBBlo.jpg"
+      },
+      "summary": "",
+      "name": "RWBY Chibi Season 4",
+      "name_cn": "",
+      "tags": [],
+      "infobox": [
+        {
+          "key": "话数",
+          "value": "7"
+        },
+        {
+          "key": "放送开始",
+          "value": "2023年3月5日"
+        }
+      ],
+      "total_episodes": 7,
+      "id": 521200,
+      "eps": 7,
+      "meta_tags": [],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/94/237133_l0f66.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/94/237133_l0f66.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/94/237133_l0f66.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/94/237133_l0f66.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/94/237133_l0f66.jpg"
+          },
+          "name": "RWBY Chibi Season 3",
+          "name_cn": "",
+          "relation": "前传",
+          "type": 2,
+          "id": 237133
         }
       ]
     }
@@ -2462,6 +2706,9 @@
       "total_episodes": 1,
       "id": 348384,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2545,6 +2792,8 @@
       "name_cn": "",
       "tags": [
         "2023",
+        "TV",
+        "日本",
         "東映アニメーション",
         "空"
       ],
@@ -2581,12 +2830,16 @@
           "value": "Eテレ"
         },
         {
-          "key": "Copyright",
-          "value": "©トロル・ポプラ社／NHK・NEP・東映アニメーション"
-        },
-        {
           "key": "导演",
           "value": "三上雅人"
+        },
+        {
+          "key": "音乐",
+          "value": "高木洋"
+        },
+        {
+          "key": "Copyright",
+          "value": "©トロル・ポプラ社／NHK・NEP・東映アニメーション"
         },
         {
           "key": "人物设定",
@@ -2595,10 +2848,6 @@
         {
           "key": "脚本",
           "value": "千葉克彦"
-        },
-        {
-          "key": "音乐",
-          "value": "高木洋"
         },
         {
           "key": "主题歌编曲",
@@ -2632,26 +2881,16 @@
       "total_episodes": 1,
       "id": 426619,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/ca/239180_4kAAK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/ca/239180_4kAAK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0f/ca/239180_4kAAK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/ca/239180_4kAAK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/ca/239180_4kAAK.jpg"
-          },
-          "name": "おしりたんてい",
-          "name_cn": "屁屁侦探",
-          "relation": "主线故事",
-          "type": 2,
-          "id": 239180
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/ae/426617_644Er.jpg",
@@ -2665,6 +2904,20 @@
           "relation": "前传",
           "type": 2,
           "id": 426617
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/de/529235_2EqAK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/de/529235_2EqAK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/de/529235_2EqAK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/de/529235_2EqAK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/de/529235_2EqAK.jpg"
+          },
+          "name": "おしりたんてい 第7シリーズ",
+          "name_cn": "屁屁侦探 第七季",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 529235
         }
       ]
     }
@@ -2740,6 +2993,9 @@
       "total_episodes": 15,
       "id": 308731,
       "eps": 15,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

@@ -30,13 +30,13 @@
         "大河内一楼",
         "富野由悠季",
         "战争",
+        "战斗",
         "文艺",
         "文艺高达",
         "日本",
         "机战",
         "白富野",
         "神作",
-        "神！作！",
         "科幻",
         "胡子",
         "菅野よう子",
@@ -162,6 +162,12 @@
       "total_episodes": 50,
       "id": 3553,
       "eps": 50,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -170,17 +176,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/0f/38088_ANkcL.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/0f/38088_ANkcL.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/89/0f/38088_ANkcL.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/0f/38088_ANkcL.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/0f/38088_ANkcL.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/72/15225_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/72/15225_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7c/72/15225_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/72/15225_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/72/15225_jp.jpg"
           },
-          "name": "AURA",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 38088
+          "name": "∀ガンダム・アートワークス",
+          "name_cn": "TURN A高达 Art Works",
+          "relation": "画集",
+          "type": 1,
+          "id": 40880
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/c4/517429_9a9OW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/c4/517429_9a9OW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/12/c4/517429_9a9OW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/c4/517429_9a9OW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/c4/517429_9a9OW.jpg"
+          },
+          "name": "∀ガンダム",
+          "name_cn": "∀高达",
+          "relation": "书籍",
+          "type": 1,
+          "id": 517429
         },
         {
           "images": {
@@ -380,17 +400,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/72/15225_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/72/15225_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7c/72/15225_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/72/15225_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/72/15225_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/0f/38088_ANkcL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/0f/38088_ANkcL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/89/0f/38088_ANkcL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/0f/38088_ANkcL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/0f/38088_ANkcL.jpg"
           },
-          "name": "∀ガンダム・アートワークス",
-          "name_cn": "TURN A高达 Art Works",
-          "relation": "画集",
-          "type": 1,
-          "id": 40880
+          "name": "AURA",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 38088
         },
         {
           "images": {
@@ -718,6 +738,10 @@
       "total_episodes": 26,
       "id": 77939,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -812,6 +836,7 @@
         "十兵卫",
         "原创",
         "大地丙太郎",
+        "御姐",
         "搞笑",
         "日本",
         "日本刀",
@@ -827,7 +852,6 @@
         "童年",
         "置鲇龙太郎",
         "藤原启治",
-        "西村ちなみ",
         "超爆笑",
         "長濵博史"
       ],
@@ -855,15 +879,16 @@
         {
           "key": "导演",
           "value": "桜井弘明"
-        },
-        {
-          "key": "演出",
-          "value": "ながはまのりひこ（5話、8話、11話）"
         }
       ],
       "total_episodes": 13,
       "id": 1547,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -922,18 +947,17 @@
       "date": "1999-04-07",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/a4/30520_dVeud.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/a4/30520_dVeud.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/15/a4/30520_dVeud.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/a4/30520_dVeud.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/a4/30520_dVeud.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/a4/30520_5bA10.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/a4/30520_5bA10.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/15/a4/30520_5bA10.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/a4/30520_5bA10.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/a4/30520_5bA10.jpg"
       },
       "summary": "　　在“星方天使”中的主角名字为李美凤，她其实只是一个仅仅有16岁的少女。不过，她的身份可不简单。因为她是巨大企业-----“天环集团”的总帅。所以她对于世界有着非常重大的影响力。在她的领导下，“天环集团”的业务蒸蒸日上。\r\n　　在巨大企业总帅 身份的背后，李美凤其实是一个“维护和平”的使者，在当时的宇宙环境中有很多的海盗横行。而李美凤便是对抗这些海盗的使者。她率领着无敌战舰“ANGEL RINGS”号，在宇宙之间与为非作歹之徒进行着斗争。“ANGEL RINGS”是李美凤的另一个家。这艘全长为250M的大型战舰除了可以宇宙航行之外，还有一群忠心耿耿且能力出众的部下。也正是由于大家的协助，才使得李美凤成为了一位真正的天使。就这样，以未来宇宙为舞台的太空故事精彩的演绎嘞……\r\n　　继“星方武侠”后，SUNRISE地10STUDIO 以星方事也为舞台再次创作了这款SF动画。华丽的制作班底吸引了众多FANS的眼球。此外具有丰富经验的监督也成就了本作精良程度。值得一提得是本作的监督：山口佑司他曾参与过“ESCAFLOWER”，\"恋之黄金率作战”，“勇者王GGG”“太空牛仔”等大作，这次又为广大观众奉献了一个热烈精彩而又富有人情味的幻想世界。",
       "name": "星方天使エンジェルリンクス",
       "name_cn": "星方天使",
       "tags": [
         "1999",
-        "1999年4月",
         "20世纪平成",
         "5分",
         "7+",
@@ -943,6 +967,7 @@
         "TVA",
         "サンライズ",
         "中华白富美",
+        "中国风",
         "伊東岳彦",
         "动画",
         "原创",
@@ -1120,6 +1145,10 @@
       "total_episodes": 13,
       "id": 30520,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1259,7 +1288,7 @@
       "name_cn": "宇宙战舰山本洋子",
       "tags": [
         "1999",
-        "1999.04",
+        "1999年4月",
         "20世纪平成",
         "90s",
         "90年代",
@@ -1270,22 +1299,22 @@
         "TVA",
         "ティーアップ",
         "ティーアップJ.C.STAFF",
-        "不到7分",
         "原创",
         "宇宙战舰山本洋子",
         "宫村优子",
         "小说改",
+        "待補1",
+        "搞笑",
         "新房",
         "新房昭之",
+        "日本",
         "日本动画",
         "旧物",
-        "旧番",
         "星辰大海",
         "林原めぐみ",
         "渡边明夫",
         "科幻",
         "补旧番",
-        "赛璐珞",
         "轻改",
         "鉄羅紀明"
       ],
@@ -1422,6 +1451,11 @@
       "total_episodes": 26,
       "id": 27170,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1587,16 +1621,16 @@
           "value": "1999年6月24日"
         },
         {
+          "key": "导演",
+          "value": "高橋ナオヒト"
+        },
+        {
           "key": "Copyright",
           "value": "©AQUAPLUS/ケイエスエス"
         },
         {
           "key": "原作",
           "value": "AQUAPLUS（アクアプラス）"
-        },
-        {
-          "key": "导演",
-          "value": "高橋ナオヒト"
         },
         {
           "key": "监修",
@@ -1658,6 +1692,13 @@
       "total_episodes": 20,
       "id": 8296,
       "eps": 13,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "恋爱",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1764,6 +1805,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/d9/517284_e9Me1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/d9/517284_e9Me1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b9/d9/517284_e9Me1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/d9/517284_e9Me1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/d9/517284_e9Me1.jpg"
+          },
+          "name": "To Heart PSE",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 517284
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/dd/452067_0vKz5.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/dd/452067_0vKz5.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/bd/dd/452067_0vKz5.jpg",
@@ -1814,18 +1869,17 @@
         "1999年",
         "1999年4月",
         "AIC",
-        "OP",
         "SF",
         "TV",
         "WOWOW",
         "robo",
-        "动",
         "原创",
         "后宫",
         "后宫番",
         "天地无用系列",
         "天地無用",
         "奥田淳",
+        "季番組",
         "日本",
         "日本动画",
         "有空再補1",
@@ -1836,6 +1890,7 @@
         "秋山勝仁",
         "秋山胜仁",
         "科幻",
+        "肉番(奇幻)",
         "萝卜",
         "长冈成贡",
         "黑田洋介",
@@ -1863,6 +1918,14 @@
           "value": "1999年7月1日"
         },
         {
+          "key": "导演",
+          "value": "秋山勝仁"
+        },
+        {
+          "key": "音乐",
+          "value": "長岡成貢"
+        },
+        {
           "key": "其他",
           "value": "全13話 + 未放送1話"
         },
@@ -1871,16 +1934,8 @@
           "value": "梶島正樹"
         },
         {
-          "key": "导演",
-          "value": "秋山勝仁"
-        },
-        {
           "key": "系列构成",
           "value": "黒田洋介"
-        },
-        {
-          "key": "音乐",
-          "value": "長岡成貢"
         },
         {
           "key": "动画制作",
@@ -1890,6 +1945,10 @@
       "total_episodes": 14,
       "id": 30525,
       "eps": 14,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1974,11 +2033,13 @@
         "大木良一",
         "恋爱",
         "新条真由",
+        "日本",
         "日本动画",
         "旧物",
         "松風雅也",
         "榎本温子",
         "樱井孝宏",
+        "漫画改",
         "鈴村健一",
         "音乐"
       ],
@@ -2022,6 +2083,11 @@
       "total_episodes": 44,
       "id": 45329,
       "eps": 44,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2062,11 +2128,9 @@
       "name": "コレクター・ユイ 第1期",
       "name_cn": "网络安琪儿 第一期",
       "tags": [
-        "1990s",
         "1999",
         "1999年",
         "1999年4月",
-        "20世纪平成",
         "5(0)",
         "90s",
         "90年代",
@@ -2076,10 +2140,12 @@
         "TVB",
         "ムトウユージ",
         "乙女向",
+        "利田優子",
         "动",
         "参考",
         "喵帕斯没看~",
         "少女向",
+        "日本",
         "日本アニメーション",
         "日本动画",
         "旧物",
@@ -2122,20 +2188,20 @@
           "value": "1999年10月15日"
         },
         {
-          "key": "原作",
-          "value": "麻宮騎亜"
-        },
-        {
           "key": "导演",
           "value": "ムトウユージ"
         },
         {
-          "key": "人物设定",
-          "value": "室井ふみえ"
-        },
-        {
           "key": "音乐",
           "value": "川井憲次"
+        },
+        {
+          "key": "原作",
+          "value": "麻宮騎亜"
+        },
+        {
+          "key": "人物设定",
+          "value": "室井ふみえ"
         },
         {
           "key": "动画制作",
@@ -2149,6 +2215,10 @@
       "total_episodes": 26,
       "id": 4023,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2207,11 +2277,11 @@
       "date": "1999-04-02",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/8a/49701_1AUxW.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/8a/49701_1AUxW.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/8d/8a/49701_1AUxW.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/8a/49701_1AUxW.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/8a/49701_1AUxW.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/8a/49701_X33V2.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/8a/49701_X33V2.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/8d/8a/49701_X33V2.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/8a/49701_X33V2.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/8a/49701_X33V2.jpg"
       },
       "summary": "最強のWORST HERO見参！\r\n放浪の冒険者ゴクドーくんは，ある日見知らぬバァさんに，おまえは命をねらわれてるなどと言われ，腹いせの仕返しで財布をすってしまった。しかしこのバァさん，実は全国魔界連合の組合長でおまけに魔界を支配する，大魔王のカミさんだったのだ。 そしてすった財布からは，身の丈3ｍもある大魔神”ジン”が煙の中からでてきたり・・・。やがて本当に命を狙われたゴクドーくんは，講釈の一人娘ルーベット，宿屋の看板娘アーガサ，魔神ジンとともに，敵とたたかうはめになるのだった。\r\n物語はまだ魔界と現実世界の境が判然としない時代，妖術魔術入り乱れる幻想的な世界を背景に，冒険者を自称するゴクドーくんが，世界の富と栄光と，美女を独り占めしようという不純な動機を胸に，諸国を漫遊するという話。 幻想と夢幻，ファンタジーとサスペンス，壮絶で奇想天外なアクション，そして恋のエピソード等々・・・。子供も大人も夢中にさせる”ホンマもん”の悪党が織りなす「極悪エッセイ」。",
       "name": "ゴクドーくん漫遊記",
@@ -2219,7 +2289,7 @@
       "tags": [
         "1999",
         "1999anime",
-        "1999年",
+        "1999年4月",
         "7分",
         "90年代",
         "NICE",
@@ -2227,17 +2297,17 @@
         "TVA",
         "TVanime",
         "トランス・アーツ",
-        "冨岡淳広",
+        "三木眞一郎",
         "吉田小百合",
         "喜剧",
         "声优",
         "奇幻",
         "待補1",
         "搞笑",
+        "日本",
         "日本动画",
         "旧物",
         "旧番",
-        "杉島邦久",
         "爆笑",
         "独特主角",
         "石头的羞耻PLAY",
@@ -2277,6 +2347,11 @@
       "total_episodes": 26,
       "id": 49701,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2367,6 +2442,7 @@
         "TVB",
         "井出安軌",
         "井出安轨",
+        "日本",
         "日本动画",
         "旧番",
         "泡面",
@@ -2401,6 +2477,11 @@
       "total_episodes": 24,
       "id": 86980,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2460,6 +2541,7 @@
         "OVA",
         "SP",
         "SUNRISE",
+        "TV",
         "TVSP",
         "ch",
         "こだま兼嗣",
@@ -2477,6 +2559,7 @@
         "日本",
         "日本动画",
         "漫改",
+        "漫画改",
         "热血",
         "神谷明",
         "经典",
@@ -2601,6 +2684,11 @@
       "total_episodes": 1,
       "id": 53938,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2663,9 +2751,9 @@
         "SHIN-EI动画",
         "ならはしみき",
         "アニメ映画",
-        "クレヨンしんちゃん",
         "シンエイ動画",
         "七分",
+        "不给小新评10分感觉对不起逝去的臼井仪人大师",
         "剧场版",
         "原创",
         "原勝徳",
@@ -2755,6 +2843,11 @@
       "total_episodes": 1,
       "id": 8973,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2963,6 +3056,12 @@
       "total_episodes": 1,
       "id": 2970,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "原创",
+        "推理"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3088,6 +3187,7 @@
       "name_cn": "",
       "tags": [
         "1999",
+        "TV",
         "TVA",
         "亚细亚堂",
         "亜細亜堂",
@@ -3116,6 +3216,10 @@
       "total_episodes": 80,
       "id": 161685,
       "eps": 80,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3201,19 +3305,19 @@
         "1999",
         "1999年",
         "1999年4月",
-        "5分",
         "90s",
         "90年代",
         "SF",
         "SUNRISE",
         "TV",
         "TVA",
+        "betterman",
         "robo",
         "¬",
         "サンライズ",
-        "ロボットアニメ",
         "原创",
         "山口宏",
+        "日本",
         "日本动画",
         "木村贵宏",
         "机战",
@@ -3263,12 +3367,16 @@
           "value": "1999年10月1日"
         },
         {
-          "key": "原作",
-          "value": "矢立肇、米たにヨシトモ"
-        },
-        {
           "key": "导演",
           "value": "米たにヨシトモ"
+        },
+        {
+          "key": "音乐",
+          "value": "田中公平"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇、米たにヨシトモ"
         },
         {
           "key": "企画",
@@ -3281,10 +3389,6 @@
         {
           "key": "色彩设计",
           "value": "柴田亜紀子、風間隼人"
-        },
-        {
-          "key": "音乐",
-          "value": "田中公平"
         },
         {
           "key": "製作",
@@ -3314,6 +3418,11 @@
       "total_episodes": 26,
       "id": 10417,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3540,11 +3649,11 @@
       "date": "1999-04-06",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/aa/98874_k3sQ7.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/aa/98874_k3sQ7.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/50/aa/98874_k3sQ7.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/aa/98874_k3sQ7.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/aa/98874_k3sQ7.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/aa/98874_344zt.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/aa/98874_344zt.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/50/aa/98874_344zt.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/aa/98874_344zt.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/aa/98874_344zt.jpg"
       },
       "summary": "在古老的大地上散布著许多城镇村落，大地的上空中飘浮著三个天上都市----优尔喀（伊甸），雅涅斯，乌托. 天都同样居住著人类，但它们因为拥有强大的魔法技术而成为高人一等的存在. 地上的人可以透过赢得天都所举行的武道大会而取得移民上天的资格. 世人都供奉著以「伟大之父」为首的各种神祇. 神族一般居住於另一个空间，衪们拥有远高於人类的力量. 然而不知从何时起，人间多了一个可以无视神族力量却受制於人类的力量的新种族---「杀神者」.由於杀神者是神族的勀星，因此大部分的神族包括伟大之父也想借人类的手来除掉杀神者. 只少部分的神族希望与杀神者和平共存，然而他们也因此而被「伟大之父」所排斥，当中包括伟大之父的两个女儿战神和律神. 某一年，天都优尔喀迎来了一位女巫「先见」. 先见因为可以预言未来而被认为是人和神之间的桥梁，然而她与人类所生下的两个儿子却生为杀神者. 婴儿被送离优尔喀，同时受人监视，而知悉先见诞下杀神者的人仅只少数. 某天「伟大之父」的女儿律神（爱里希丝/希妲/蒂拉3重人格拥有者）主动掉落到「杀神者」约恩的农屋中. 命运的齿轮因而转动，杀神者，神族，人类和三个天上都市此後迎来翻天覆地的巨变……",
       "name": "エデンズボゥイ",
@@ -3561,6 +3670,7 @@
         "奇幻",
         "山口勝平",
         "待補1",
+        "日本",
         "日本动画",
         "旧物",
         "旧番",
@@ -3603,12 +3713,12 @@
           "value": "1999年9月28日"
         },
         {
-          "key": "原作",
-          "value": "天王寺きつね"
-        },
-        {
           "key": "导演",
           "value": "須永司"
+        },
+        {
+          "key": "原作",
+          "value": "天王寺きつね"
         },
         {
           "key": "系列构成",
@@ -3642,6 +3752,11 @@
       "total_episodes": 26,
       "id": 98874,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3696,7 +3811,6 @@
         "十川誠志",
         "十川诚志",
         "原创",
-        "小樱悦子",
         "岛田敏",
         "川井宪次",
         "平松晶子",
@@ -3706,11 +3820,12 @@
         "日本动画",
         "映画",
         "横手美智子",
+        "漫改",
         "漫画改",
+        "玉川砂記子",
         "藤岛康介",
         "西村純二",
         "西村纯二",
-        "赛璐璐",
         "逮捕令"
       ],
       "infobox": [
@@ -3805,6 +3920,10 @@
       "total_episodes": 1,
       "id": 41887,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3813,11 +3932,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/4f/2074_d4HP9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/4f/2074_d4HP9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1f/4f/2074_d4HP9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1f/4f/2074_d4HP9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/4f/2074_d4HP9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/4f/2074_G71co.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/4f/2074_G71co.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1f/4f/2074_G71co.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1f/4f/2074_G71co.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/4f/2074_G71co.jpg"
           },
           "name": "逮捕しちゃうぞ",
           "name_cn": "逮捕令",
@@ -3890,8 +4009,9 @@
         "动画",
         "北爪宏幸",
         "原创",
-        "古川登志夫",
         "大张正己",
+        "大野木寛",
+        "日本",
         "日本动画",
         "旧物",
         "机甲",
@@ -3901,8 +4021,7 @@
         "科幻",
         "荒牧伸志",
         "警察",
-        "铃木敏充",
-        "黑暗"
+        "铃木敏充"
       ],
       "infobox": [
         {
@@ -3937,6 +4056,10 @@
           "value": "植田秀仁"
         },
         {
+          "key": "音乐",
+          "value": "平岩嘉信   音楽協力：テレビ東京ミュージック"
+        },
+        {
           "key": "製作",
           "value": "A.D.POLICE製作委員会"
         },
@@ -3961,10 +4084,6 @@
           "value": "井上俊次（エアーズ）"
         },
         {
-          "key": "音乐",
-          "value": "平岩嘉信   音楽協力：テレビ東京ミュージック"
-        },
-        {
           "key": "脚本",
           "value": "星川泰子、大野木寛、根元歳三"
         }
@@ -3972,6 +4091,10 @@
       "total_episodes": 12,
       "id": 38939,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3994,11 +4117,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/6b/46952_AEYoS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/6b/46952_AEYoS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a3/6b/46952_AEYoS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/6b/46952_AEYoS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/6b/46952_AEYoS.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/6b/46952_C1929.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/6b/46952_C1929.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a3/6b/46952_C1929.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/6b/46952_C1929.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/6b/46952_C1929.jpg"
           },
           "name": "AD.POLICE",
           "name_cn": "AD.特警",
@@ -4057,6 +4180,7 @@
         "1999",
         "1999年",
         "TV",
+        "日本",
         "旭一东京电影",
         "游戏",
         "童年"
@@ -4096,6 +4220,11 @@
       "total_episodes": 48,
       "id": 96863,
       "eps": 48,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4226,6 +4355,9 @@
       "total_episodes": 1,
       "id": 254424,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

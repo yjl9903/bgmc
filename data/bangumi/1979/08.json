@@ -16,15 +16,15 @@
       "name": "銀河鉄道999 映画版",
       "name_cn": "银河铁道999 剧场版",
       "tags": [
+        "1970-1979",
+        "1970s",
         "1979",
         "70年代",
         "999",
         "りんたろう",
-        "上世纪",
         "东映",
         "东映动画",
         "作画",
-        "公路片",
         "冒险",
         "剧场版",
         "小松原一男",
@@ -68,6 +68,11 @@
       "total_episodes": 1,
       "id": 23307,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -104,11 +109,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/59/98514_8oprF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/59/98514_8oprF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/95/59/98514_8oprF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/59/98514_8oprF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/59/98514_8oprF.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/59/98514_qM2u2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/59/98514_qM2u2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/59/98514_qM2u2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/59/98514_qM2u2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/59/98514_qM2u2.jpg"
           },
           "name": "火聖旅団 ダナサイト999.9",
           "name_cn": "火圣旅团999.9",
@@ -148,6 +153,7 @@
         "手塚PRODUCTION",
         "手塚プロダクション",
         "手塚治虫",
+        "日本",
         "日本动画",
         "旧物",
         "武岡淳一",
@@ -179,17 +185,21 @@
           "value": "日本テレビ"
         },
         {
-          "key": "片长",
-          "value": "91分"
-        },
-        {
           "key": "导演",
           "value": "出崎哲"
+        },
+        {
+          "key": "片长",
+          "value": "91分"
         }
       ],
       "total_episodes": 1,
       "id": 112657,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

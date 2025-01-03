@@ -89,6 +89,10 @@
       "total_episodes": 12,
       "id": 3841,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -116,7 +120,9 @@
       "tags": [
         "..浪漫",
         "2010",
+        "2010s",
         "2010年1月",
+        "4(-1)",
         "SF",
         "TV",
         "TVA",
@@ -131,6 +137,7 @@
         "哥普拉",
         "坂本真绫",
         "小出一巳",
+        "日本",
         "日本动画",
         "榊原良子",
         "清水恵蔵",
@@ -189,6 +196,11 @@
       "total_episodes": 13,
       "id": 3827,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -319,6 +331,7 @@
         "GAINAX",
         "TV",
         "はなまる幼稚園",
+        "动画",
         "季番",
         "幼儿园",
         "幼女",
@@ -328,7 +341,6 @@
         "搞笑",
         "日常",
         "日本",
-        "日野聪",
         "水岛精二",
         "水島精二",
         "治愈",
@@ -378,12 +390,16 @@
           "value": "2010年3月28日"
         },
         {
-          "key": "原作",
-          "value": "勇人"
-        },
-        {
           "key": "导演",
           "value": "水島精二"
+        },
+        {
+          "key": "音乐",
+          "value": "Sadesper Record（NARASAKI&WATCHMAN）"
+        },
+        {
+          "key": "原作",
+          "value": "勇人"
         },
         {
           "key": "系列构成",
@@ -410,10 +426,6 @@
           "value": "本山哲"
         },
         {
-          "key": "音乐",
-          "value": "Sadesper Record（NARASAKI&WATCHMAN）"
-        },
-        {
           "key": "动画制作",
           "value": "GAINAX"
         },
@@ -433,6 +445,12 @@
       "total_episodes": 12,
       "id": 3848,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -522,7 +540,6 @@
         "FFF团",
         "SILVERLINK",
         "SILVERLINK.",
-        "SILVER_LINK.",
         "TV",
         "下野紘",
         "伪娘",
@@ -537,6 +554,7 @@
         "战斗",
         "搞笑",
         "日常",
+        "日本",
         "校园",
         "秀吉",
         "笨蛋",
@@ -593,12 +611,16 @@
           "value": "2010年3月31日"
         },
         {
-          "key": "原作",
-          "value": "井上堅二"
-        },
-        {
           "key": "导演",
           "value": "大沼心"
+        },
+        {
+          "key": "音乐",
+          "value": "虹音（松田彬人）"
+        },
+        {
+          "key": "原作",
+          "value": "井上堅二"
         },
         {
           "key": "系列构成",
@@ -637,10 +659,6 @@
           "value": "亀山俊樹"
         },
         {
-          "key": "音乐",
-          "value": "虹音（松田彬人）"
-        },
-        {
           "key": "音乐制作",
           "value": "ランティス"
         },
@@ -668,6 +686,13 @@
       "total_episodes": 20,
       "id": 3326,
       "eps": 13,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "日本",
+        "日常",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -813,6 +838,48 @@
           "relation": "广播剧",
           "type": 3,
           "id": 216109
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/cd/517003_Ch24n.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/cd/517003_Ch24n.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/10/cd/517003_Ch24n.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/cd/517003_Ch24n.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/cd/517003_Ch24n.jpg"
+          },
+          "name": "バカとテストと召喚獣 文月学園放送部",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 517003
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/55/517023_gHPxh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/55/517023_gHPxh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/55/517023_gHPxh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/55/517023_gHPxh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/55/517023_gHPxh.jpg"
+          },
+          "name": "ドラマＣＤ　バカとテストと召喚獣",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 517023
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/9e/517024_7Q5oG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/9e/517024_7Q5oG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9d/9e/517024_7Q5oG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/9e/517024_7Q5oG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/9e/517024_7Q5oG.jpg"
+          },
+          "name": "ドラマCD バカとテストと召喚獣 Vol.2",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 517024
         },
         {
           "images": {
@@ -964,12 +1031,12 @@
           "value": "2010年3月23日"
         },
         {
-          "key": "原作",
-          "value": "上月司(電撃文庫）"
-        },
-        {
           "key": "导演",
           "value": "大槻敦史"
+        },
+        {
+          "key": "原作",
+          "value": "上月司(電撃文庫）"
         },
         {
           "key": "人物设定",
@@ -979,6 +1046,12 @@
       "total_episodes": 19,
       "id": 3446,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1178,12 +1251,12 @@
           "value": "2010年3月22日"
         },
         {
-          "key": "原作",
-          "value": "Paradores"
-        },
-        {
           "key": "导演",
           "value": "神戸守"
+        },
+        {
+          "key": "原作",
+          "value": "Paradores"
         },
         {
           "key": "人物设定",
@@ -1193,6 +1266,12 @@
       "total_episodes": 14,
       "id": 3477,
       "eps": 14,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1423,6 +1502,11 @@
       "total_episodes": 26,
       "id": 2463,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1906,6 +1990,7 @@
         "ひだまりスケッチ",
         "后藤邑子",
         "向阳素描",
+        "搞笑",
         "新房昭之",
         "新房省钱萌片",
         "日常",
@@ -1924,7 +2009,6 @@
         "萌",
         "萝莉",
         "蒼樹うめ",
-        "被治疗了",
         "轻百合",
         "阿澄佳奈"
       ],
@@ -1936,6 +2020,15 @@
         {
           "key": "别名",
           "value": [
+            {
+              "v": "hidaske s3"
+            },
+            {
+              "v": "Hidamari Sketch x Hoshi Mittsu"
+            },
+            {
+              "v": "Hidamari Sketch x Hoshimittsu"
+            },
             {
               "v": "向阳素描 第三季"
             }
@@ -1968,6 +2061,14 @@
         {
           "key": "播放结束",
           "value": "2010年3月25日"
+        },
+        {
+          "key": "导演",
+          "value": "新房昭之"
+        },
+        {
+          "key": "音乐",
+          "value": "菊谷知樹"
         },
         {
           "key": "企画",
@@ -2018,10 +2119,6 @@
           "value": "亀山俊樹"
         },
         {
-          "key": "音乐",
-          "value": "菊谷知樹"
-        },
-        {
           "key": "音乐制作",
           "value": "ランティス"
         },
@@ -2032,10 +2129,6 @@
         {
           "key": "OP・ED 分镜",
           "value": "宮本幸裕(OP)、山村洋貴(OP)、鈴木利正(ED)"
-        },
-        {
-          "key": "导演",
-          "value": "新房昭之"
         },
         {
           "key": "制片人",
@@ -2069,12 +2162,33 @@
       "total_episodes": 12,
       "id": 3622,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/73/330_252oN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/73/330_252oN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/73/330_252oN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/73/330_252oN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/73/330_252oN.jpg"
+          },
+          "name": "ひだまりスケッチ×365",
+          "name_cn": "向阳素描×365",
+          "relation": "前传",
+          "type": 2,
+          "id": 330
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/b4/2662_eLO2c.jpg",
@@ -2130,6 +2244,20 @@
           "relation": "印象曲",
           "type": 3,
           "id": 5420
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/3b/22241_xv62g.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/3b/22241_xv62g.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ec/3b/22241_xv62g.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/3b/22241_xv62g.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/3b/22241_xv62g.jpg"
+          },
+          "name": "ひだまりスケッチ×SP",
+          "name_cn": "向阳素描×SP",
+          "relation": "续集",
+          "type": 2,
+          "id": 22241
         },
         {
           "images": {
@@ -2236,10 +2364,10 @@
       "name_cn": "青春CUP",
       "tags": [
         "2010",
-        "2010冬",
         "2010年",
         "2010年1月",
         "TV",
+        "TVA",
         "ZEXCS",
         "ちゅーぶら!!",
         "ひいろゆきな",
@@ -2248,15 +2376,15 @@
         "内衣",
         "初中生",
         "动画",
-        "卖肉",
-        "寿美菜子",
+        "吉田玲子",
+        "季番",
         "搞笑",
         "教育片",
-        "日本动画",
+        "教育番組",
+        "日本",
         "日笠阳子",
         "日笠陽子",
         "校园",
-        "樱井孝宏",
         "漫改",
         "漫画改",
         "百合",
@@ -2304,16 +2432,20 @@
           "value": "2010年3月22日"
         },
         {
+          "key": "导演",
+          "value": "ひいろゆきな"
+        },
+        {
+          "key": "音乐",
+          "value": "平野義久"
+        },
+        {
           "key": "Copyright",
           "value": "©中田ゆみ・双葉社/桜南中学下着部"
         },
         {
           "key": "原作",
           "value": "中田ゆみ（双叶社 / COMIC HIGH! 连载）"
-        },
-        {
-          "key": "导演",
-          "value": "ひいろゆきな"
         },
         {
           "key": "系列构成",
@@ -2348,10 +2480,6 @@
           "value": "菊田浩巳"
         },
         {
-          "key": "音乐",
-          "value": "平野義久"
-        },
-        {
           "key": "音乐制作",
           "value": "STAR CHILD"
         },
@@ -2379,6 +2507,12 @@
       "total_episodes": 12,
       "id": 3473,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2526,7 +2660,7 @@
         "PEACH-PIT",
         "TV",
         "peach-hit",
-        "伊濑茉莉也",
+        "伊瀬茉莉也",
         "伪娘",
         "原创",
         "奇幻",
@@ -2598,12 +2732,12 @@
           "value": "2010年3月25日"
         },
         {
-          "key": "原作",
-          "value": "KONAMI Digital Entertainment、竜騎士07"
-        },
-        {
           "key": "导演",
           "value": "高本宣弘"
+        },
+        {
+          "key": "原作",
+          "value": "KONAMI Digital Entertainment、竜騎士07"
         },
         {
           "key": "系列构成",
@@ -2633,6 +2767,11 @@
       "total_episodes": 12,
       "id": 3444,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2721,6 +2860,7 @@
         "2010年1月番",
         "SHAFT",
         "TV",
+        "TVA",
         "chu❤取血",
         "イン",
         "ザ",
@@ -2739,7 +2879,6 @@
         "战斗",
         "新房",
         "新房昭之",
-        "沙发套",
         "漫改",
         "漫画改",
         "萝莉",
@@ -2788,12 +2927,16 @@
           "value": "2010年4月1日"
         },
         {
-          "key": "原作",
-          "value": "環望"
-        },
-        {
           "key": "导演",
           "value": "新房昭之"
+        },
+        {
+          "key": "音乐",
+          "value": "土橋安騎夫"
+        },
+        {
+          "key": "原作",
+          "value": "環望"
         },
         {
           "key": "系列构成",
@@ -2838,10 +2981,6 @@
         {
           "key": "音响监督",
           "value": "鶴岡陽太"
-        },
-        {
-          "key": "音乐",
-          "value": "土橋安騎夫"
         },
         {
           "key": "音乐制作人",
@@ -2907,6 +3046,11 @@
       "total_episodes": 13,
       "id": 3241,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3051,8 +3195,8 @@
         "TV",
         "ZEXCS",
         "おまもりひまり",
+        "ウシロシンジ",
         "乳",
-        "兽耳",
         "卖肉",
         "后宫",
         "奇幻",
@@ -3063,7 +3207,7 @@
         "战斗",
         "搞笑",
         "新番",
-        "日本动画",
+        "日本",
         "杀必死",
         "校园",
         "漫改",
@@ -3120,12 +3264,16 @@
           "value": "2010年3月24日"
         },
         {
-          "key": "原作",
-          "value": "的良みらん"
-        },
-        {
           "key": "导演",
           "value": "ウシロシンジ"
+        },
+        {
+          "key": "音乐",
+          "value": "橋本由香利"
+        },
+        {
+          "key": "原作",
+          "value": "的良みらん"
         },
         {
           "key": "系列构成",
@@ -3156,10 +3304,6 @@
           "value": "えのもとたかひろ"
         },
         {
-          "key": "音乐",
-          "value": "橋本由香利"
-        },
-        {
           "key": "音乐制作",
           "value": "コロムビアミュージックエンタテインメント"
         },
@@ -3175,6 +3319,13 @@
       "total_episodes": 12,
       "id": 3449,
       "eps": 12,
+      "meta_tags": [
+        "校园",
+        "后宫",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3280,7 +3431,6 @@
         "のだめ",
         "のだめカンタービレ",
         "中島かずき",
-        "乙女向",
         "交响情人梦",
         "交响情人梦Finale",
         "今千秋",
@@ -3300,6 +3450,7 @@
         "漫改",
         "漫画改",
         "野田妹",
+        "青春",
         "音乐"
       ],
       "infobox": [
@@ -3344,6 +3495,10 @@
           "value": "今千秋"
         },
         {
+          "key": "音乐",
+          "value": "松谷卓、のだめオーケストラ、東京都交響楽団"
+        },
+        {
           "key": "脚本",
           "value": "横谷昌宏、大野木寛、吉田玲子、丸尾みほ"
         },
@@ -3354,10 +3509,6 @@
         {
           "key": "制作",
           "value": "のだめカンタービレ3製作委員会（フジテレビジョン、アスミック・エース エンタテインメント、講談社、スカパー・ウェルシンク、ソニー・ミュージックエンタテインメント、電通、GENCO）"
-        },
-        {
-          "key": "音乐",
-          "value": "松谷卓、のだめオーケストラ、東京都交響楽団"
         },
         {
           "key": "CG制作人",
@@ -3415,6 +3566,13 @@
       "total_episodes": 12,
       "id": 3478,
       "eps": 11,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "音乐",
+        "少女向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3642,6 +3800,14 @@
           "value": "2010年12月10日"
         },
         {
+          "key": "导演",
+          "value": "元永慶太郎"
+        },
+        {
+          "key": "音乐",
+          "value": "岩崎琢"
+        },
+        {
           "key": "其他",
           "value": "2010年1月（各话1小时×毎月播放1话・全12话）"
         },
@@ -3666,20 +3832,12 @@
           "value": "えびなやすのり"
         },
         {
-          "key": "音乐",
-          "value": "岩崎琢"
-        },
-        {
           "key": "动画制作",
           "value": "WHITE FOX"
         },
         {
           "key": "制作",
           "value": "「刀語」製作委員会"
-        },
-        {
-          "key": "导演",
-          "value": "元永慶太郎"
         },
         {
           "key": "原作",
@@ -3693,6 +3851,12 @@
       "total_episodes": 12,
       "id": 3471,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "战斗",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4035,7 +4199,6 @@
         "Hoods_Entertainment",
         "TV",
         "丰崎爱生",
-        "动画",
         "卖肉",
         "后宫",
         "吸奶",
@@ -4048,6 +4211,7 @@
         "战斗",
         "搞笑",
         "新番",
+        "日本",
         "漫改",
         "漫画改",
         "炼金",
@@ -4055,8 +4219,8 @@
         "聖痕のクェイサー",
         "肉",
         "肉番",
-        "金子ひらく",
-        "露点"
+        "里番",
+        "金子ひらく"
       ],
       "infobox": [
         {
@@ -4106,16 +4270,20 @@
           "value": "2010年6月19日"
         },
         {
+          "key": "导演",
+          "value": "金子ひらく"
+        },
+        {
+          "key": "音乐",
+          "value": "加藤達也"
+        },
+        {
           "key": "Copyright",
           "value": "©2010 吉野弘幸・佐藤健悦・チャンピオンRED／聖痕のクェイサー製作委員会"
         },
         {
           "key": "原作",
           "value": "吉野弘幸×佐藤健悦"
-        },
-        {
-          "key": "导演",
-          "value": "金子ひらく"
         },
         {
           "key": "系列构成",
@@ -4144,10 +4312,6 @@
         {
           "key": "音响监督",
           "value": "明田川仁"
-        },
-        {
-          "key": "音乐",
-          "value": "加藤達也"
         },
         {
           "key": "主题歌演出",
@@ -4181,6 +4345,13 @@
       "total_episodes": 40,
       "id": 3479,
       "eps": 24,
+      "meta_tags": [
+        "百合",
+        "后宫",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4432,12 +4603,16 @@
           "value": "2010年6月28日"
         },
         {
-          "key": "原作",
-          "value": "増田こうすけ（集英社『ジャンプスクエア』连载）"
-        },
-        {
           "key": "导演",
           "value": "大地丙太郎"
+        },
+        {
+          "key": "音乐",
+          "value": "山本はるきち"
+        },
+        {
+          "key": "原作",
+          "value": "増田こうすけ（集英社『ジャンプスクエア』连载）"
         },
         {
           "key": "企画",
@@ -4446,15 +4621,16 @@
         {
           "key": "音响监督",
           "value": "たなかかずや"
-        },
-        {
-          "key": "音乐",
-          "value": "山本はるきち"
         }
       ],
       "total_episodes": 26,
       "id": 3482,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4502,6 +4678,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 66873
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b6/dc/526567_mYLri.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b6/dc/526567_mYLri.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b6/dc/526567_mYLri.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b6/dc/526567_mYLri.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b6/dc/526567_mYLri.jpg"
+          },
+          "name": "ギャグマンガ日和GO",
+          "name_cn": "搞笑漫画日和GO",
+          "relation": "续集",
+          "type": 2,
+          "id": 526567
         }
       ]
     }
@@ -4532,12 +4722,12 @@
         "ぎゃろっぷ",
         "一挑三挂王",
         "剧场版",
+        "劇場版",
         "动画电影",
         "卡牌",
         "印卡",
         "原创",
         "合体技",
-        "吐槽",
         "奇幻",
         "战斗",
         "打牌",
@@ -4590,6 +4780,10 @@
       "total_episodes": 1,
       "id": 23303,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4678,9 +4872,9 @@
         "山口祐司",
         "川井宪次",
         "川井憲次",
-        "恋爱",
         "战斗",
         "无限剑制",
+        "映画",
         "游戏改",
         "热血",
         "缩水",
@@ -4753,6 +4947,12 @@
       "total_episodes": 1,
       "id": 3484,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "奇幻",
+        "战斗",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4782,7 +4982,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_Zkz9E.jpg"
           },
           "name": "Fate/strange Fake",
-          "name_cn": "",
+          "name_cn": "Fate/strange Fake",
           "relation": "不同世界观",
           "type": 2,
           "id": 443831
@@ -4936,7 +5136,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/bf/175600_4wcTq.jpg"
           },
           "name": "劇場版 Fate/stay night [Heaven's Feel] III.spring song",
-          "name_cn": "剧场版 Fate/stay night [Heaven's Feel] III.spring song",
+          "name_cn": "剧场版 Fate/stay night [天之杯] III.春之歌",
           "relation": "不同演绎",
           "type": 2,
           "id": 175600
@@ -4950,7 +5150,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/28/175599_HfD3G.jpg"
           },
           "name": "劇場版 Fate/stay night [Heaven's Feel] II.lost butterfly",
-          "name_cn": "剧场版 Fate/stay night [Heaven's Feel] II.lost butterfly",
+          "name_cn": "剧场版 Fate/stay night [天之杯] II.迷失之蝶",
           "relation": "不同演绎",
           "type": 2,
           "id": 175599
@@ -4978,7 +5178,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/9f/109375_o2NnF.jpg"
           },
           "name": "劇場版 Fate/stay night [Heaven's Feel] I.presage flower",
-          "name_cn": "剧场版 Fate/stay night [Heaven's Feel] I.presage flower",
+          "name_cn": "剧场版 Fate/stay night [天之杯] I.恶兆之花",
           "relation": "不同演绎",
           "type": 2,
           "id": 109375
@@ -5158,11 +5358,11 @@
       "name_cn": "我是御宅上班族",
       "tags": [
         "2010",
-        "ACG",
+        "2010s",
+        "5(0)",
         "FLASH动画",
         "OTARI-MAN",
         "OVA",
-        "OVA-01",
         "STUDIOPUYUKAI",
         "StudioYUKAI",
         "ovaoad",
@@ -5225,6 +5425,9 @@
       "total_episodes": 2,
       "id": 5120,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5275,12 +5478,12 @@
         "人见人爱花见花开的小李",
         "伪娘",
         "冈村天斋",
+        "剧情",
         "原创",
         "奇幻",
         "岡村天斎",
         "战斗",
         "新婚旅行",
-        "木内秀信",
         "比黑更黑",
         "热血",
         "科幻",
@@ -5361,6 +5564,11 @@
       "total_episodes": 4,
       "id": 3960,
       "eps": 4,
+      "meta_tags": [
+        "OVA",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5579,6 +5787,11 @@
       "total_episodes": 1,
       "id": 3485,
       "eps": 1,
+      "meta_tags": [
+        "百合",
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5836,7 +6049,6 @@
         "TV",
         "TVSP",
         "TVspecial",
-        "[BG]",
         "ovaoad",
         "ゆめ太カンパニー（旧）",
         "三木眞一郎",
@@ -5848,14 +6060,15 @@
         "后宫",
         "声优",
         "女性向",
+        "日本",
         "日本动画",
         "暗荣",
-        "木宮茂",
         "梦太Company",
         "游戏动画化",
         "游戏改",
         "石田彰",
         "遥远时空中",
+        "遥远时空中3",
         "関智一",
         "高橋直純",
         "鷹村コージ"
@@ -5882,12 +6095,16 @@
           "value": "http://www.gamecity.ne.jp/neoromance/tv/haruka/destiny/"
         },
         {
-          "key": "原作",
-          "value": "コーエー"
-        },
-        {
           "key": "导演",
           "value": "きみやしげる（木宮茂）"
+        },
+        {
+          "key": "音乐",
+          "value": "平野義久"
+        },
+        {
+          "key": "原作",
+          "value": "コーエー"
         },
         {
           "key": "脚本",
@@ -5914,10 +6131,6 @@
           "value": "本田保則"
         },
         {
-          "key": "音乐",
-          "value": "平野義久"
-        },
-        {
           "key": "动画制作",
           "value": "ゆめ太カンパニー"
         }
@@ -5925,6 +6138,12 @@
       "total_episodes": 1,
       "id": 3811,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "女性向",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6027,7 +6246,6 @@
         "PC",
         "RPG",
         "■5.5",
-        "☆",
         "一般向",
         "三国",
         "中国",
@@ -6039,6 +6257,7 @@
         "方块游戏",
         "武侠",
         "武侠RPG",
+        "游戏",
         "轩五三部曲",
         "轩辕剑",
         "轩辕剑外传"
@@ -6088,6 +6307,11 @@
       "total_episodes": 0,
       "id": 3804,
       "eps": 0,
+      "meta_tags": [
+        "RPG",
+        "PC",
+        "游戏"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

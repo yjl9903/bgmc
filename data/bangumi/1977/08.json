@@ -22,7 +22,6 @@
         "70年代",
         "SF",
         "StudioAcademy",
-        "tspdt",
         "アニメ映画",
         "オフィスアカデミー",
         "剧场版",
@@ -60,6 +59,9 @@
       "total_episodes": 1,
       "id": 74535,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -93,6 +95,20 @@
           "relation": "续集",
           "type": 2,
           "id": 74533
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8c/10/520707_9q98o.jpg"
+          },
+          "name": "宇宙戦艦ヤマト 未来への航路",
+          "name_cn": "宇宙战舰大和号 未来航路",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520707
         }
       ]
     }

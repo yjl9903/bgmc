@@ -88,6 +88,10 @@
       "total_episodes": 1,
       "id": 54676,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -246,6 +250,13 @@
       "total_episodes": 1,
       "id": 54675,
       "eps": 1,
+      "meta_tags": [
+        "百合",
+        "剧场版",
+        "日本",
+        "奇幻",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -452,6 +463,7 @@
         "兄妹",
         "剧场版",
         "动画未来",
+        "动画未来2013",
         "原创",
         "吉原达矢",
         "吉原達矢",
@@ -459,7 +471,6 @@
         "妹控",
         "小说改",
         "山口优",
-        "山口優",
         "日本动画",
         "机器化的妖精们",
         "短片",
@@ -522,12 +533,58 @@
       "total_episodes": 1,
       "id": 29649,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/ba/54675_df9sF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/ba/54675_df9sF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/ba/54675_df9sF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/ba/54675_df9sF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/ba/54675_df9sF.jpg"
+          },
+          "name": "リトルウィッチアカデミア",
+          "name_cn": "小魔女学园",
+          "relation": "其他",
+          "type": 2,
+          "id": 54675
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/a3/54676_xZyw6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/a3/54676_xZyw6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/a3/54676_xZyw6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/a3/54676_xZyw6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/a3/54676_xZyw6.jpg"
+          },
+          "name": "龍 -RYO-",
+          "name_cn": "龙 -RYO-",
+          "relation": "其他",
+          "type": 2,
+          "id": 54676
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/af/54734_hAG5Q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/af/54734_hAG5Q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fa/af/54734_hAG5Q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/af/54734_hAG5Q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/af/54734_hAG5Q.jpg"
+          },
+          "name": "デス・ビリヤード",
+          "name_cn": "死亡台球",
+          "relation": "其他",
+          "type": 2,
+          "id": 54734
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ab/b7/66033_jp.jpg",
@@ -573,6 +630,7 @@
         "人性",
         "前野智昭",
         "剧场版",
+        "剧情",
         "劇場版",
         "动画未来",
         "动画未来2013",
@@ -583,14 +641,13 @@
         "悬疑",
         "日本",
         "日本动画",
+        "映画",
         "栗田新一",
         "死亡台球",
         "猎奇",
         "短片",
-        "短篇",
         "立川譲",
         "立川让",
-        "竞技",
         "青年动画制作者育成计划"
       ],
       "infobox": [
@@ -643,6 +700,11 @@
       "total_episodes": 1,
       "id": 54734,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "悬疑",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -802,6 +864,9 @@
       "total_episodes": 12,
       "id": 66338,
       "eps": 12,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -857,6 +922,7 @@
         "动画电影",
         "原创",
         "哆啦A梦",
+        "喜剧",
         "奇幻",
         "寺本幸代",
         "战斗",
@@ -864,7 +930,6 @@
         "搞笑",
         "日常",
         "日本",
-        "映画",
         "泽田完",
         "漫改",
         "漫画改",
@@ -904,11 +969,159 @@
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "藤子・F・不二雄"
+        },
+        {
+          "key": "导演",
+          "value": "寺本幸代"
+        },
+        {
+          "key": "脚本",
+          "value": "清水東"
+        },
+        {
+          "key": "分镜",
+          "value": "寺本幸代 、久場良忠"
+        },
+        {
+          "key": "演出",
+          "value": "山岡実"
+        },
+        {
+          "key": "音乐",
+          "value": "沢田完"
+        },
+        {
+          "key": "人物设定",
+          "value": "丸山宏一"
+        },
+        {
+          "key": "美术监督",
+          "value": "土橋誠"
+        },
+        {
+          "key": "摄影监督",
+          "value": "末弘孝史"
+        },
+        {
+          "key": "剪辑",
+          "value": "小島俊彦、藤本理子（助手）"
+        },
+        {
+          "key": "总制片人",
+          "value": "増子相二郎、杉山登"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "mao[Duca]・ひまわりキッズ（OP）、Perfume（ED）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "黒須克彦（OP）、中田ヤスタカ（ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "黒須克彦（OP）、中田ヤスタカ（ED）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "大久保薫（OP）、中田ヤスタカ（ED）"
+        },
+        {
+          "key": "企画",
+          "value": "むぎわらしんたろう"
+        },
+        {
+          "key": "协力",
+          "value": "むぎわらしんたろう（原案协力）"
+        },
+        {
+          "key": "作画监督",
+          "value": "丸山宏一、岸野美智、岡野慎吾、浦上貴之、桝田浩史、森久司"
+        },
+        {
+          "key": "原画",
+          "value": "大塚正実、末吉裕一郎、高倉佳彦、松田真路、伊藤秀次、山口晋、千葉ゆみ、小澤早依子、曽々木安恵、又賀大介、平岡雅樹、関修一、篠原真紀子、松井祐子、佐藤好春、西山映一郎、吉岡彩乃、原夕佳、山下祐、鈴木大司、上田幸一郎、北山修一、吉田優子、仁井学、外丸達也、酒井和男、霜山朋久、角張仁美、松井啓一郎、安西俊之、茂木琢次、山下将仁、尾鷲英俊、田中孝弘、三輪修、小林麻衣子、大森孝敏、安藤義信、加来由加里、加来哲郎、玉置敬子、小金井羽奈、渡邉元子、吉岡毅、城前龍治、戸部敦夫、岸野美智、岡野慎吾、浦上貴之、鈴木勤、桝田浩史、森久司"
+        },
+        {
+          "key": "第二原画",
+          "value": "大武正枝、小栗寛子、堤舞、岩永大蔵、海老原尚樹、神戸佑太、山下晃、吉田誠、小西富洋、碇谷敦、甲田正行、吉田朋代、伊達真紅郎、夢弦館、AI、Wish、アート・ベース・バン"
+        },
+        {
+          "key": "动画检查",
+          "value": "松村美佳"
+        },
+        {
+          "key": "补间动画",
+          "value": "ベガエンタテイメント（遠藤良恵、堀江佑、千々岩杏花、染川仁菜、宮本美智子、濱田友美、髙士亜衣、屋宜優、神谷由季、川重希、関根奈穂）、オープロダクション（大村将司、小川麻衣、佐伯行信、田中陽子、辻仁子、平岩聡、穂坂史織、山本祐希江、村橋亮佑）、スタジオエル（加藤晶久、佐藤弘幸、奥田富美子、神谷望夢）、Wish（鈴木三音子、周佐祥子、山本真夕子、阪野日香莉、伴翔人、西田政司、佐藤この実、玉腰桃子、藤井優翔、西山千夏、中智あすか、倉本真実、齋藤香）、ORANGE（RYU JA YOUNG、SON SEON AH、KIM JEONG SOON、KIM JUNG LAN、KIM HYE JUNG、SUH YOON JOO、YOU SU OK、CHOI SU JIN、LEE KYUNG MI、KANG MI RYEONG、JEON JIN HEE、JEONG HYUN JEONG、PARK NAN HEE、KIM MIN JEONG、HAN SONG HEE、HONG KYOUNG MI、CHOI YOON KYEONG）、藤野京子、八木綾乃、原佳寿美、高貫千津"
+        },
+        {
+          "key": "色彩设计",
+          "value": "高橋めぐみ"
+        },
+        {
+          "key": "背景美术",
+          "value": "ベガエンタテイメント（土橋知子、松村武蔵、知本祐太、JEE SEOGU、KANG MIHYANG）、スタジオ・ユニ（古賀徹、石黒恵美子、米田隆裕、鈴木朗、永井由香、池田玲子、越膳滝美、高橋佐知、永坂真琴、氣賀澤佐知子、本多美紀、中島美枝子）、アトリエローク07（工藤由美、渡辺美穂、皆谷透、森元茂）、美峰（野村正信、高峯義人、扇山秋仁、宮里和誉、NGUYEN ANH、TRAN KHOA、NGUYEN TRUONG、NGUYEN THUY、TRAN VAN、CAO TAI、LE KHOA、NGUYEN HIEU、HOANG LINH）、ATELIER KARO（Oka、Artana、Sutara）、NARA Animation（LIM HYUK SOO、LEE MI KYUNG、PARK SEUNG IL、LEE SOO KUNG）、HIJIRI（小野寺美幸、秋山真理子、小磯龍）、アートチーム･コンボイ（榊枝利行、金美京、岡部真由美、伊藤朱美）"
+        },
+        {
+          "key": "摄影",
+          "value": "アニメフィルム、コンポジット（西山朋広、桶田一展、山田廣明、倉田佳美、木次美則、下村博文、鈴木浩司、松澤秀子、大森美奈子、手塚智鶴子、梅田俊之）"
+        },
+        {
+          "key": "监修",
+          "value": "熊谷正弘（监修）"
+        },
+        {
+          "key": "3DCG",
+          "value": "オクティグラフィカ（神林憲和、沖田貢靖、田邉茂、本間潤樹）"
+        },
+        {
+          "key": "动画制片人",
+          "value": "沢辺伸政、山田卓司"
+        },
+        {
+          "key": "制作进行",
+          "value": "菊地達也、中村和喜、岡野孝規、佐藤大真、谷澤吉紀、河西麻利子、宇佐美翔平"
+        },
+        {
+          "key": "制作管理",
+          "value": "中島進、武井健、岡田麻衣子"
+        },
+        {
+          "key": "助理制片人",
+          "value": "横山幸恵"
+        },
+        {
+          "key": "制片人",
+          "value": "大倉俊輔、川北桃子、中世古裕美、斎藤敦、大金修一、鶴崎りか 、藤森匠"
+        },
+        {
+          "key": "製作",
+          "value": "「 映画ドラえもん 」制作委員会（斎藤満、石関暁、小西麻里、徳山雅記、小野綾子、山﨑俊一、田中雅広、飯田誠敬、小沢清人/大松宏樹、小野仁/和田修治、高木智悌、堤直之、佐藤絵里子、白土宏司、浅田幸男、白戸博久、浅井美佳/大槻育宏、間瀬謙介、佐藤龍伸、山守貴子、佐藤理絵、大塚薫、佐藤隆一、福原望、尾﨑瑞季、伊藤悠公/小林順子、塙智行、尾﨑美香、清水智美、森文彦）"
+        },
+        {
+          "key": "制作",
+          "value": "藤子・F・不二雄プロ、小学館、テレビ朝日、アサツー ディ・ケイ、小学館集英社プロダクション、シンエイ動画"
+        },
+        {
+          "key": "发行",
+          "value": "东宝"
         }
       ],
       "total_episodes": 1,
       "id": 55467,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "喜剧",
+        "剧场版",
+        "日本",
+        "漫画改",
+        "子供向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1069,6 +1282,11 @@
       "total_episodes": 1,
       "id": 67227,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1145,9 +1363,9 @@
         "TV",
         "TVSP",
         "Ten",
+        "アニメ",
         "三浦阳",
         "三浦陽",
-        "中谷美纪",
         "人生",
         "人生Best",
         "动画短片",
@@ -1204,17 +1422,22 @@
           "value": "NHK"
         },
         {
-          "key": "系列",
-          "value": "大人女子のアニメタイム/熟女的动画时间"
-        },
-        {
           "key": "音乐",
           "value": "川上ミネ"
+        },
+        {
+          "key": "系列",
+          "value": "大人女子のアニメタイム/熟女的动画时间"
         }
       ],
       "total_episodes": 1,
       "id": 67451,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1306,6 +1529,7 @@
         "WAOWorld",
         "ワオワールド",
         "不在他处",
+        "乙女向",
         "今井雅子",
         "动画短片",
         "原创",
@@ -1314,7 +1538,6 @@
         "女性",
         "女性向",
         "小说改",
-        "山本文绪",
         "川上ミネ",
         "成年女性的动画时间",
         "日常",
@@ -1360,16 +1583,16 @@
           "value": "http://www.nhk.or.jp/bs/joshianime/"
         },
         {
+          "key": "导演",
+          "value": "村上匡宏"
+        },
+        {
           "key": "系列",
           "value": "大人女子のアニメタイム/熟女的动画时间"
         },
         {
           "key": "脚本",
           "value": "今井雅子"
-        },
-        {
-          "key": "导演",
-          "value": "村上匡宏"
         },
         {
           "key": "原作",
@@ -1387,6 +1610,11 @@
       "total_episodes": 1,
       "id": 67452,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1470,6 +1698,7 @@
       "name_cn": "滑头鬼之孙 ～奴良组事始～",
       "tags": [
         "2013",
+        "2013年",
         "2013年3月",
         "JUMP",
         "OAD",
@@ -1485,7 +1714,6 @@
         "子安秀明",
         "少年jump",
         "战斗",
-        "日本动画",
         "椎橋寛",
         "滑头鬼之孙",
         "漫改",
@@ -1529,6 +1757,10 @@
       "total_episodes": 1,
       "id": 68461,
       "eps": 1,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1611,6 +1843,7 @@
         "原创",
         "奇幻",
         "战斗",
+        "打斗",
         "搞笑",
         "日本",
         "映画",
@@ -1622,7 +1855,6 @@
         "电影",
         "童年",
         "細田雅弘",
-        "细田雅弘",
         "草尾毅",
         "鳥山明",
         "鸟山明",
@@ -1661,6 +1893,11 @@
       "total_episodes": 1,
       "id": 44636,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1711,11 +1948,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/45/108438_Pg6Pf.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/45/108438_Pg6Pf.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/06/45/108438_Pg6Pf.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/45/108438_Pg6Pf.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/45/108438_Pg6Pf.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/45/108438_Uc1fu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/45/108438_Uc1fu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/45/108438_Uc1fu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/45/108438_Uc1fu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/45/108438_Uc1fu.jpg"
           },
           "name": "ドラゴンボールZ 復活のF",
           "name_cn": "龙珠Z 复活的F",
@@ -1822,12 +2059,12 @@
         "日本",
         "治愈",
         "治愈系",
+        "生活",
         "职场",
         "能登麻美子",
         "花咲くいろは",
         "花开伊吕波",
         "花开物语",
-        "豊崎愛生",
         "青春"
       ],
       "infobox": [
@@ -1892,6 +2129,10 @@
       "total_episodes": 1,
       "id": 49892,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1981,7 +2222,6 @@
         "OVA",
         "OVA$OAD",
         "OVA&OAD",
-        "OVA-01",
         "中村悠一",
         "乙女",
         "乙女向",
@@ -1989,9 +2229,11 @@
         "代永翼",
         "伊神貴世",
         "剧场版‧OVA‧OAD",
+        "动画",
         "吉野裕行",
-        "女性向",
+        "小杉十郎太",
         "搞笑",
+        "日本",
         "日本动画",
         "杉田智和",
         "游戏改",
@@ -2000,7 +2242,6 @@
         "福山潤",
         "立木文彦",
         "能登麻美子",
-        "腐",
         "逆后宫",
         "遊佐浩二",
         "魔力家族"
@@ -2034,6 +2275,10 @@
       "total_episodes": 1,
       "id": 121804,
       "eps": 1,
+      "meta_tags": [
+        "OVA",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2074,27 +2319,26 @@
       "name": "映画 プリキュアオールスターズNewStage2 こころのともだち",
       "name_cn": "电影 光之美少女 All Stars New Stage2 心之朋友",
       "tags": [
+        "2010s",
         "2013",
         "2013年",
         "2013年3月",
         "NS2",
         "Q娃",
         "precure",
-        "アニメ映画",
         "プリキュア",
         "东映",
         "东映动画",
         "光之美少女",
-        "光之美少女剧场版",
         "剧场版",
         "动画电影",
         "原创",
         "大长篇",
         "奇幻",
-        "子供向",
         "小川孝治",
         "幼女向",
         "成田良美",
+        "战斗",
         "日本动画",
         "東映アニメーション",
         "水树奈奈",
@@ -2102,6 +2346,7 @@
         "电影",
         "百合",
         "表",
+        "青山充",
         "高梨康治",
         "魔法少女"
       ],
@@ -2141,6 +2386,10 @@
       "total_episodes": 1,
       "id": 58948,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2363,6 +2612,7 @@
       "name": "劇場版しまじろうのわお! しまじろうとフフのだいぼうけん 〜すくえ!七色の花〜",
       "name_cn": "巧虎与芙芙的大冒险～拯救！七色之花～",
       "tags": [
+        "剧场版",
         "子供向",
         "童年"
       ],
@@ -2407,6 +2657,9 @@
       "total_episodes": 1,
       "id": 120238,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2472,17 +2725,17 @@
         "兄妹",
         "卖肉",
         "名和宗则",
-        "名和宗則",
         "后宫",
         "妹",
         "妹控",
         "妹控魂",
         "妹系",
         "小仓唯",
+        "小清水亚美",
         "小说改",
         "恋爱",
         "搞笑",
-        "日本动画",
+        "日本",
         "日高里菜",
         "校园",
         "樱井孝宏",
@@ -2520,6 +2773,11 @@
       "total_episodes": 1,
       "id": 91350,
       "eps": 1,
+      "meta_tags": [
+        "校园",
+        "后宫",
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

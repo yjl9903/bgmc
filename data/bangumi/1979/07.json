@@ -24,25 +24,18 @@
         "TVA",
         "robo",
         "サンライズ",
-        "伊东恒久",
         "伊東恒久",
         "四辻たかお",
         "富田祐弘",
-        "平野靖士",
         "日本SUNRISE",
         "日本动画",
         "旧物",
         "星山博之",
-        "水岛裕",
         "水島裕",
-        "渡边由自",
         "渡邉由自",
         "滝沢敏文",
-        "萝卜",
         "赛璐珞",
-        "野岛昭生",
-        "野島昭生",
-        "高桥良辅"
+        "野島昭生"
       ],
       "infobox": [
         {
@@ -73,6 +66,10 @@
       "total_episodes": 0,
       "id": 213786,
       "eps": 34,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -111,20 +108,20 @@
         "东映",
         "剧场版",
         "动画",
-        "大和号",
+        "原创",
         "宇宙战舰大和号",
         "富山敬",
         "日本",
         "日本动画",
         "旧物",
         "星辰大海",
-        "昭和",
         "机战",
+        "机甲",
+        "東映アニメーション",
         "松本零士",
         "石黒昇",
         "科幻",
         "舛田利雄",
-        "补旧番",
         "西崎义展",
         "西崎義展",
         "麻上洋子"
@@ -181,6 +178,10 @@
       "total_episodes": 1,
       "id": 74531,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -256,6 +257,20 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 352905
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8c/10/520707_9q98o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8c/10/520707_9q98o.jpg"
+          },
+          "name": "宇宙戦艦ヤマト 未来への航路",
+          "name_cn": "宇宙战舰大和号 未来航路",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520707
         }
       ]
     }

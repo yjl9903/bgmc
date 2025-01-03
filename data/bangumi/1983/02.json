@@ -90,6 +90,10 @@
       "total_episodes": 1,
       "id": 40001,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -204,11 +208,11 @@
       "date": "1983-02-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/d3/10402_LSYLu.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/d3/10402_LSYLu.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/f9/d3/10402_LSYLu.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/d3/10402_LSYLu.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/d3/10402_LSYLu.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/d3/10402_a4kK1.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/d3/10402_a4kK1.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/f9/d3/10402_a4kK1.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/d3/10402_a4kK1.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/d3/10402_a4kK1.jpg"
       },
       "summary": "《圣战士登拜因》宫武一贵作品，其中运用当时最先进技术创造出了“有机生态兵器”的前身。这次的“福音战士”从某种程度上也可以说是它的延续。圣战士：拜斯顿.威尔古传说中记载的拯救世界的战士。拜斯顿.威尔的古门人中流传着圣战士曾经显现奇迹，击败了企图统治拜斯顿.威尔的邪恶势力的传说。而来成为为了被召唤到拜斯顿.威尔，能驾驶奥拉机械，拥有比一般古门人更强“潜在能力”的地上人们的称号.....",
       "name": "聖戦士ダンバイン",
@@ -282,6 +286,10 @@
           "value": "1984年1月21日"
         },
         {
+          "key": "音乐",
+          "value": "坪能克裕"
+        },
+        {
           "key": "Copyright",
           "value": "©1983 創通・サンライズ"
         },
@@ -314,10 +322,6 @@
           "value": "藤野貞義"
         },
         {
-          "key": "音乐",
-          "value": "坪能克裕"
-        },
-        {
           "key": "动画制作",
           "value": "日本サンライズ"
         },
@@ -341,6 +345,11 @@
       "total_episodes": 49,
       "id": 10402,
       "eps": 49,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -349,45 +358,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/47/348271_HXaN2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/47/348271_HXaN2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/47/348271_HXaN2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/47/348271_HXaN2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/47/348271_HXaN2.jpg"
           },
-          "name": "スーパーロボット大戦64",
-          "name_cn": "超级机器人大战64",
+          "name": "リアルロボット戦線",
+          "name_cn": "真实机器人战线",
           "relation": "游戏",
           "type": 4,
-          "id": 308448
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/2d/208854_5yr0L.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/2d/208854_5yr0L.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bf/2d/208854_5yr0L.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/2d/208854_5yr0L.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/2d/208854_5yr0L.jpg"
-          },
-          "name": "スーパーロボット大戦COMPACT2 第1部:地上激動篇",
-          "name_cn": "超级机器人大战COMPACT2 地上激动篇",
-          "relation": "游戏",
-          "type": 4,
-          "id": 208854
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/75/208856_9bZD8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/75/208856_9bZD8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a9/75/208856_9bZD8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/75/208856_9bZD8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/75/208856_9bZD8.jpg"
-          },
-          "name": "スーパーロボット大戦COMPACT2 第3部:銀河決戦篇",
-          "name_cn": "超级机器人大战COMPACT2 银河决战篇",
-          "relation": "游戏",
-          "type": 4,
-          "id": 208856
+          "id": 348271
         },
         {
           "images": {
@@ -475,17 +456,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
           },
-          "name": "スーパーロボット大戦COMPACT",
-          "name_cn": "超级机器人大战COMPACT",
+          "name": "スーパーロボット大戦64",
+          "name_cn": "超级机器人大战64",
           "relation": "游戏",
           "type": 4,
-          "id": 208853
+          "id": 308448
         },
         {
           "images": {
@@ -517,17 +498,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/47/348271_HXaN2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/47/348271_HXaN2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7f/47/348271_HXaN2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/47/348271_HXaN2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/47/348271_HXaN2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/75/208856_9bZD8.jpg"
           },
-          "name": "リアルロボット戦線",
-          "name_cn": "真实机器人战线",
+          "name": "スーパーロボット大戦COMPACT2 第3部:銀河決戦篇",
+          "name_cn": "超级机器人大战COMPACT2 银河决战篇",
           "relation": "游戏",
           "type": 4,
-          "id": 348271
+          "id": 208856
         },
         {
           "images": {
@@ -601,17 +582,73 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/59/58409_h9BSg.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/59/58409_h9BSg.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ad/59/58409_h9BSg.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/59/58409_h9BSg.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/59/58409_h9BSg.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/42/524474_h1Egn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/42/524474_h1Egn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/42/524474_h1Egn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/42/524474_h1Egn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/42/524474_h1Egn.jpg"
           },
-          "name": "スーパーロボット大戦UX",
-          "name_cn": "超级机器人大战UX",
+          "name": "AURA BATTLER DUNBINE SIDE R",
+          "name_cn": "圣战士丹拜因SIDE R",
+          "relation": "其他",
+          "type": 2,
+          "id": 524474
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/07/524992_PiYl8.jpg"
+          },
+          "name": "スーパーロボットピンボール",
+          "name_cn": "超级机器人弹珠台",
           "relation": "游戏",
           "type": 4,
-          "id": 58409
+          "id": 524992
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/d6/528487_xHT4T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/d6/528487_xHT4T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/d6/528487_xHT4T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/d6/528487_xHT4T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/d6/528487_xHT4T.jpg"
+          },
+          "name": "聖戦士ダンバイン ～聖戦士伝説～",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 528487
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b2/531127_t4R74.jpg"
+          },
+          "name": "スーパーロボット大戦α for Dreamcast",
+          "name_cn": "超级机器人大战α for Dreamcast",
+          "relation": "游戏",
+          "type": 4,
+          "id": 531127
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/c9/58750_d56V6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/c9/58750_d56V6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c2/c9/58750_d56V6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/c9/58750_d56V6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/c9/58750_d56V6.jpg"
+          },
+          "name": "スーパーロボット大戦リンクバトラー",
+          "name_cn": "超级机器人大战Link Battler",
+          "relation": "游戏",
+          "type": 4,
+          "id": 58750
         },
         {
           "images": {
@@ -727,6 +764,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/59/58409_h9BSg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/59/58409_h9BSg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ad/59/58409_h9BSg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/59/58409_h9BSg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/59/58409_h9BSg.jpg"
+          },
+          "name": "スーパーロボット大戦UX",
+          "name_cn": "超级机器人大战UX",
+          "relation": "游戏",
+          "type": 4,
+          "id": 58409
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/1c/3417_9b4x1.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/1c/3417_9b4x1.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/47/1c/3417_9b4x1.jpg",
@@ -738,20 +789,6 @@
           "relation": "相同世界观",
           "type": 2,
           "id": 3417
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/c9/58750_d56V6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/c9/58750_d56V6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c2/c9/58750_d56V6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/c9/58750_d56V6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/c9/58750_d56V6.jpg"
-          },
-          "name": "スーパーロボット大戦リンクバトラー",
-          "name_cn": "超级机器人大战Link Battler",
-          "relation": "游戏",
-          "type": 4,
-          "id": 58750
         },
         {
           "images": {
@@ -850,6 +887,34 @@
           "relation": "游戏",
           "type": 4,
           "id": 192002
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
+          },
+          "name": "スーパーロボット大戦COMPACT",
+          "name_cn": "超级机器人大战COMPACT",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208853
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/2d/208854_5yr0L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/2d/208854_5yr0L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/2d/208854_5yr0L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/2d/208854_5yr0L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/2d/208854_5yr0L.jpg"
+          },
+          "name": "スーパーロボット大戦COMPACT2 第1部:地上激動篇",
+          "name_cn": "超级机器人大战COMPACT2 地上激动篇",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208854
         }
       ]
     }

@@ -92,6 +92,11 @@
       "total_episodes": 1,
       "id": 174147,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -124,17 +129,17 @@
         "2016年七月番",
         "BL",
         "PIERROT",
-        "PIERROT+",
+        "PIERROTPLUS",
+        "Studio.Pierrot",
         "StudioPierrot",
         "TV",
-        "ワザワキリ",
+        "ぴえろプラス",
         "前野智昭",
         "基",
         "奇幻",
         "妖怪",
         "岩永彰",
         "忧郁的物怪庵",
-        "怪异",
         "日常",
         "日本动画",
         "校园",
@@ -217,6 +222,11 @@
       "total_episodes": 13,
       "id": 168905,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -399,20 +409,20 @@
           "value": "2016年6月18日"
         },
         {
-          "key": "Copyright",
-          "value": "©深町なか・一迅社／NHK"
-        },
-        {
-          "key": "原作",
-          "value": "深町なか"
-        },
-        {
           "key": "导演",
           "value": "松井久美"
         },
         {
           "key": "音乐",
           "value": "雨のパレード"
+        },
+        {
+          "key": "Copyright",
+          "value": "©深町なか・一迅社／NHK"
+        },
+        {
+          "key": "原作",
+          "value": "深町なか"
         },
         {
           "key": "音响效果",
@@ -422,6 +432,12 @@
       "total_episodes": 10,
       "id": 180670,
       "eps": 10,
+      "meta_tags": [
+        "TV",
+        "恋爱",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -726,6 +742,9 @@
       "total_episodes": 22,
       "id": 175460,
       "eps": 20,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -900,6 +919,9 @@
       "total_episodes": 17,
       "id": 185176,
       "eps": 16,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -943,17 +965,17 @@
         "2016",
         "2016年",
         "2016年6月",
+        "2016年四月番",
         "OAD",
         "OVA",
-        "OVA&OAD&SP",
         "SILVERLINK.",
         "SP",
+        "『SP』",
         "井上圭介",
         "八星",
         "基",
         "尴尬",
         "川面真也",
-        "慵懒",
         "搞笑",
         "日常",
         "日本",
@@ -996,6 +1018,11 @@
       "total_episodes": 7,
       "id": 199270,
       "eps": 7,
+      "meta_tags": [
+        "OVA",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1064,7 +1091,6 @@
         "TV",
         "WEB",
         "WHITEFOX",
-        "スタジオぷYUKAI",
         "后宫",
         "奇幻",
         "小剧场",
@@ -1072,6 +1098,7 @@
         "小说改",
         "异世界",
         "搞笑",
+        "日本",
         "泡面",
         "泡面番",
         "短片",
@@ -1162,6 +1189,11 @@
       "total_episodes": 14,
       "id": 185837,
       "eps": 14,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1235,8 +1267,8 @@
         "2016年6月",
         "OAD",
         "OVA",
-        "OVA&OAD",
         "STUDIO_DEEN",
+        "TV",
         "studiodeen",
         "スタジオディーン",
         "为美好的世界献上祝福",
@@ -1298,12 +1330,33 @@
       "total_episodes": 2,
       "id": 162771,
       "eps": 2,
+      "meta_tags": [
+        "后宫",
+        "日本",
+        "OVA",
+        "穿越",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/70/107681_RhxEr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/70/107681_RhxEr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/70/107681_RhxEr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/70/107681_RhxEr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/70/107681_RhxEr.jpg"
+          },
+          "name": "この素晴らしい世界に祝福を！",
+          "name_cn": "为美好的世界献上祝福！",
+          "relation": "书籍",
+          "type": 1,
+          "id": 107681
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/4a/163895_YlI7v.jpg",
@@ -1411,6 +1464,7 @@
         "-20-100",
         "2016",
         "TV",
+        "WEB",
         "原创",
         "空"
       ],
@@ -1439,6 +1493,9 @@
       "total_episodes": 12,
       "id": 211023,
       "eps": 12,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1556,6 +1613,11 @@
       "total_episodes": 1,
       "id": 166348,
       "eps": 1,
+      "meta_tags": [
+        "奇幻",
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1674,6 +1736,9 @@
       "total_episodes": 6,
       "id": 189638,
       "eps": 6,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1718,12 +1783,12 @@
         "2016",
         "2016年",
         "2016年6月",
-        "2016年四月番",
         "GUNDAM",
         "SF",
         "SUNRISE",
         "サンライズ",
         "中村悠一",
+        "再编集",
         "剧场版",
         "动画",
         "太田垣康男",
@@ -1732,7 +1797,6 @@
         "战斗还行",
         "机战",
         "松尾衡",
-        "极左主义者",
         "残疾",
         "漫改",
         "漫画改",
@@ -1743,7 +1807,8 @@
         "萝卜",
         "身残志jian",
         "雷霆宙域战线",
-        "高达"
+        "高达",
+        "高达系列作品列表"
       ],
       "infobox": [
         {
@@ -1786,6 +1851,10 @@
       "total_episodes": 1,
       "id": 180172,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1843,12 +1912,12 @@
         "2010-2019",
         "2016",
         "2016年6月",
+        "2017年6月",
         "6分",
         "TV",
         "WEB",
         "中国",
         "催泪",
-        "剧集",
         "动画",
         "国产",
         "国产动画",
@@ -1932,6 +2001,13 @@
       "total_episodes": 22,
       "id": 281272,
       "eps": 21,
+      "meta_tags": [
+        "恋爱",
+        "奇幻",
+        "漫画改",
+        "中国",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

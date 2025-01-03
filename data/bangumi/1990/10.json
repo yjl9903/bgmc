@@ -80,6 +80,11 @@
       "total_episodes": 1,
       "id": 18505,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -264,16 +269,20 @@
           "value": "1991年9月26日"
         },
         {
+          "key": "导演",
+          "value": "うえだひでひと"
+        },
+        {
+          "key": "音乐",
+          "value": "渡辺俊幸"
+        },
+        {
           "key": "Copyright",
           "value": "学研/日本経済社/テレビ東京/手塚プロダクション"
         },
         {
           "key": "原作",
           "value": "手塚治虫"
-        },
-        {
-          "key": "导演",
-          "value": "うえだひでひと"
         },
         {
           "key": "企画",
@@ -284,10 +293,6 @@
           "value": "宇田川一彦"
         },
         {
-          "key": "音乐",
-          "value": "渡辺俊幸"
-        },
-        {
           "key": "制作",
           "value": "テレビ東京、日本経済社、学研研究社、手塚プロダクション"
         }
@@ -295,6 +300,11 @@
       "total_episodes": 48,
       "id": 6605,
       "eps": 48,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -381,7 +391,7 @@
           },
           "name": "悪魔島のプリンス 三つ目がとおる",
           "name_cn": "恶魔岛的王子 三眼神童",
-          "relation": "其他",
+          "relation": "不同演绎",
           "type": 2,
           "id": 158426
         },
@@ -427,11 +437,14 @@
         "ぎゃろっぷ",
         "なみきまさと",
         "増田裕生",
+        "日本",
         "日本动画",
         "旧物",
+        "机战",
         "石蔵武",
         "童年",
-        "草尾毅"
+        "草尾毅",
+        "萝卜"
       ],
       "infobox": [
         {
@@ -459,12 +472,16 @@
           "value": "1991年9月28日"
         },
         {
-          "key": "原作",
-          "value": "小早川薫"
-        },
-        {
           "key": "导演",
           "value": "石蔵武（1話〜24話）､なみきまさと（25話〜50話）"
+        },
+        {
+          "key": "音乐",
+          "value": "和田薫"
+        },
+        {
+          "key": "原作",
+          "value": "小早川薫"
         },
         {
           "key": "企画",
@@ -499,10 +516,6 @@
           "value": "原田一男"
         },
         {
-          "key": "音乐",
-          "value": "和田薫"
-        },
-        {
           "key": "动画制作",
           "value": "スタジオぎゃろっぷ"
         },
@@ -514,6 +527,10 @@
       "total_episodes": 50,
       "id": 10934,
       "eps": 50,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -569,35 +586,35 @@
       "name_cn": "THE八犬传",
       "tags": [
         "1990",
-        "90-94s",
+        "90-94",
         "90~94年",
         "90年代",
         "AIC",
+        "FF",
+        "OP",
         "OVA",
         "cv表耀眼",
         "『OVA』",
         "中村孝",
-        "优先",
         "会川升",
         "作画",
         "八犬传",
-        "八犬传系列",
         "关俊彦",
         "其他",
         "原创",
-        "可看可不看",
         "大平晋也",
+        "奇幻",
         "安浓高志",
         "安濃高志",
+        "小林正之",
         "小说改",
+        "已下载",
         "日本",
         "會川昇",
         "桥本晋治",
-        "橋本晋治",
         "独立ova",
         "补番",
-        "题材风格不合",
-        "马甲"
+        "题材风格不合"
       ],
       "infobox": [
         {
@@ -632,6 +649,10 @@
       "total_episodes": 6,
       "id": 63332,
       "eps": 6,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -772,6 +793,10 @@
       "total_episodes": 22,
       "id": 220042,
       "eps": 22,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -806,7 +831,7 @@
         "仙侠",
         "国产",
         "大宇",
-        "大宇資訊",
+        "游戏",
         "轩辕剑"
       ],
       "infobox": [
@@ -878,6 +903,11 @@
       "total_episodes": 0,
       "id": 22894,
       "eps": 0,
+      "meta_tags": [
+        "RPG",
+        "游戏",
+        "DOS"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -892,8 +922,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/26/1654_3TV6i.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/26/1654_3TV6i.jpg"
           },
-          "name": "軒轅劒叁 雲和山的彼端",
-          "name_cn": "轩辕剑叁 云和山的彼端",
+          "name": "軒轅劍參 雲和山的彼端",
+          "name_cn": "轩辕剑3 云和山的彼端",
           "relation": "相同世界观",
           "type": 4,
           "id": 1654
@@ -920,8 +950,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/fc/1916_11dSV.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/fc/1916_11dSV.jpg"
           },
-          "name": "軒轅劒叁外傳：天之痕",
-          "name_cn": "轩辕剑三外传：天之痕",
+          "name": "軒轅劍參外傳 天之痕",
+          "name_cn": "轩辕剑叁外传 天之痕",
           "relation": "相同世界观",
           "type": 4,
           "id": 1916
@@ -934,8 +964,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/6a/2483_e88pE.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/6a/2483_e88pE.jpg"
           },
-          "name": "軒轅劍肆：黑龍舞兮雲飛揚",
-          "name_cn": "轩辕剑四：黑龙舞兮云飞扬",
+          "name": "軒轅劍肆 黑龍舞兮雲飛揚",
+          "name_cn": "轩辕剑肆 黑龙舞兮云飞扬",
           "relation": "相同世界观",
           "type": 4,
           "id": 2483
@@ -948,7 +978,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/07/27712_vo1xP.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/07/27712_vo1xP.jpg"
           },
-          "name": "軒轅劒贰",
+          "name": "軒轅劍貳",
           "name_cn": "轩辕剑二",
           "relation": "续集",
           "type": 4,
@@ -992,7 +1022,7 @@
           },
           "name": "軒轅劍：黃金紀念版 紀念音樂集",
           "name_cn": "",
-          "relation": "原声集",
+          "relation": "其他",
           "type": 3,
           "id": 121976
         },

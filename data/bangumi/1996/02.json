@@ -23,9 +23,9 @@
         "GT",
         "JUMP",
         "TV",
-        "X星龙",
         "东映",
         "东映动画",
+        "动画",
         "原创",
         "又燃又基",
         "奇幻",
@@ -108,6 +108,12 @@
       "total_episodes": 65,
       "id": 9566,
       "eps": 64,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -172,11 +178,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/f0/98498_bFF3k.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/f0/98498_bFF3k.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b1/f0/98498_bFF3k.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/f0/98498_bFF3k.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/f0/98498_bFF3k.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/f0/98498_W5eX2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/f0/98498_W5eX2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/f0/98498_W5eX2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/f0/98498_W5eX2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/f0/98498_W5eX2.jpg"
           },
           "name": "Don't you see!",
           "name_cn": "",
@@ -298,11 +304,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b7/459435_fzCC1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b7/459435_fzCC1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/b7/459435_fzCC1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b7/459435_fzCC1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b7/459435_fzCC1.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b7/459435_6S18e.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b7/459435_6S18e.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b7/459435_6S18e.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b7/459435_6S18e.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b7/459435_6S18e.jpg"
           },
           "name": "ドラゴンボールDAIMA",
           "name_cn": "龙珠大魔",
@@ -344,7 +350,7 @@
         "勇者系列",
         "原创",
         "喜欢",
-        "子安武人",
+        "日本",
         "旧物",
         "望月智充",
         "机战",
@@ -383,12 +389,16 @@
           "value": "1997年1月25日"
         },
         {
-          "key": "原作",
-          "value": "矢立肇"
-        },
-        {
           "key": "导演",
           "value": "望月智充"
+        },
+        {
+          "key": "音乐",
+          "value": "Edison"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇"
         },
         {
           "key": "系列构成",
@@ -401,10 +411,6 @@
         {
           "key": "机械设定",
           "value": "大河原邦男"
-        },
-        {
-          "key": "音乐",
-          "value": "Edison"
         },
         {
           "key": "动画制作",
@@ -430,6 +436,11 @@
       "total_episodes": 48,
       "id": 37249,
       "eps": 48,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

@@ -19,15 +19,15 @@
         "1990-1999",
         "1990s",
         "1994",
+        "20世纪平成",
         "90-94",
         "90s",
         "OVA",
-        "OVA-01",
         "SF",
-        "こおろぎさとみ",
         "アミノテツロー",
         "久川綾",
         "伊利亚杰拉姆",
+        "低分",
         "动画",
         "原创",
         "在2023",
@@ -87,6 +87,10 @@
       "total_episodes": 6,
       "id": 39780,
       "eps": 6,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -148,6 +152,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 466009
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ba/26/525508_7l9Z9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ba/26/525508_7l9Z9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ba/26/525508_7l9Z9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ba/26/525508_7l9Z9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ba/26/525508_7l9Z9.jpg"
+          },
+          "name": "ハイパーイリア",
+          "name_cn": "伊利亚",
+          "relation": "游戏",
+          "type": 4,
+          "id": 525508
         }
       ]
     }
@@ -159,11 +177,11 @@
       "date": "1994-06-22",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/7b/93049_USM7V.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/7b/93049_USM7V.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/d5/7b/93049_USM7V.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/7b/93049_USM7V.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/7b/93049_USM7V.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/7b/93049_DtNgA.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/7b/93049_DtNgA.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/d5/7b/93049_DtNgA.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/7b/93049_DtNgA.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/7b/93049_DtNgA.jpg"
       },
       "summary": "汽車での旅の途中に立ち寄った駅で、モモはフェナリナーサのモモと偶然に再会する。中央駅という名のその駅には「旅立ちの汽笛を鳴らす」というライオン像があり、2人はその像に呼ばれたかのようであった。そして突然の落雷と共に、2人はいつの間にか、戦火にさらされた50年前の過去へとタイムスリップしてしまい、駅の中でスリの少女と出会う。ライオン像は戦災孤児である少女の過去、そして、未来に起きる悲劇を2人に伝えようとする。少女とその仲間達は、過酷な時代に翻弄され閉ざされた駅の中でしか生きられない自分達を、魔法の力で旅立たせてくれという願いを伝えるが、魔法を失ったモモには叶えられなかった。そして、その願いはモモを招いたライオン像自身によって叶えられた。",
       "name": "MINKY MOMO IN 旅だちの駅",
@@ -175,21 +193,27 @@
         "90-94",
         "90年代",
         "OVA",
-        "OVA-01",
         "ova2",
         "其他",
+        "剧场版",
         "原创",
+        "奇幻",
+        "小山茉美",
         "幻想",
         "日本动画",
         "旧物",
         "林原めぐみ",
+        "林原惠",
         "汤山邦彦",
         "湯山邦彦",
         "經典",
         "苇PRODUCTION",
         "葦プロダクション",
+        "长谷川智树",
         "首藤刚志",
-        "首藤剛志"
+        "首藤剛志",
+        "魔法",
+        "魔法公主明琪桃子_旅程中的车站"
       ],
       "infobox": [
         {
@@ -212,6 +236,9 @@
       "total_episodes": 1,
       "id": 93049,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

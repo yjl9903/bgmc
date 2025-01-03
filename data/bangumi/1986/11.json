@@ -23,7 +23,6 @@
         "1986年11月",
         "1986年十月番",
         "OVA",
-        "OVA-01",
         "SUNRISE",
         "robo",
         "サンライズ",
@@ -110,6 +109,9 @@
       "total_episodes": 3,
       "id": 73369,
       "eps": 3,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -164,7 +166,9 @@
       "name": "戦え!超ロボット生命体トランスフォーマー2010",
       "name_cn": "战斗吧！超机器人生命体 变形金刚2010",
       "tags": [
+        "TV",
         "东映动画",
+        "日本",
         "旧物"
       ],
       "infobox": [
@@ -200,21 +204,25 @@
           "value": "1987年6月26日"
         },
         {
+          "key": "导演",
+          "value": "レイ・リー、アンディ・キム"
+        },
+        {
           "key": "动画制作",
           "value": "東映アニメーション、AKOM"
         },
         {
           "key": "总导演",
           "value": "申能均（ネルソン・シン）"
-        },
-        {
-          "key": "导演",
-          "value": "レイ・リー、アンディ・キム"
         }
       ],
       "total_episodes": 32,
       "id": 442367,
       "eps": 32,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

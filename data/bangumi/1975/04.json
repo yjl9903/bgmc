@@ -16,18 +16,17 @@
       "name": "勇者ライディーン",
       "name_cn": "勇者莱汀",
       "tags": [
-        "1970s",
         "1975",
         "1975年",
         "1975年4月",
-        "4クール",
+        "70",
         "SUNRISE",
         "TV",
+        "TVA",
         "bot",
         "robo",
         "サンライズ",
         "ロボットアニメ",
-        "东北新社",
         "五武冬史",
         "创映社",
         "創映社",
@@ -35,6 +34,7 @@
         "原创",
         "安彦良和",
         "富野由悠季",
+        "日本",
         "日本动画",
         "旧物",
         "机战登场作",
@@ -45,7 +45,7 @@
         "远古番",
         "長浜忠夫",
         "长滨忠夫",
-        "高桥良辅"
+        "黑科技"
       ],
       "infobox": [
         {
@@ -106,11 +106,19 @@
         {
           "key": "美术监督",
           "value": "半藤克美、東条俊寿（第27話～第50話）"
+        },
+        {
+          "key": "总导演",
+          "value": "富野喜幸[富野由悠季]（第1話～第26話）、長浜忠夫（第27話～第50話）"
         }
       ],
       "total_episodes": 50,
       "id": 30170,
       "eps": 50,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -119,17 +127,45 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/75/208856_9bZD8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/75/208856_9bZD8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a9/75/208856_9bZD8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/75/208856_9bZD8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/75/208856_9bZD8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/a2/216358_4mZHY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/a2/216358_4mZHY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ec/a2/216358_4mZHY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/a2/216358_4mZHY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/a2/216358_4mZHY.jpg"
           },
-          "name": "スーパーロボット大戦COMPACT2 第3部:銀河決戦篇",
-          "name_cn": "超级机器人大战COMPACT2 银河决战篇",
-          "relation": "角色出演",
+          "name": "勇者ライディーン / おれは洸だ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 216358
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b2/531127_t4R74.jpg"
+          },
+          "name": "スーパーロボット大戦α for Dreamcast",
+          "name_cn": "超级机器人大战α for Dreamcast",
+          "relation": "游戏",
           "type": 4,
-          "id": 208856
+          "id": 531127
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/07/524992_PiYl8.jpg"
+          },
+          "name": "スーパーロボットピンボール",
+          "name_cn": "超级机器人弹珠台",
+          "relation": "游戏",
+          "type": 4,
+          "id": 524992
         },
         {
           "images": {
@@ -259,20 +295,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/a2/216358_4mZHY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/a2/216358_4mZHY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ec/a2/216358_4mZHY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/a2/216358_4mZHY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/a2/216358_4mZHY.jpg"
-          },
-          "name": "勇者ライディーン / おれは洸だ",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 216358
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/e5/11876_bkkNz.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/e5/11876_bkkNz.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a8/e5/11876_bkkNz.jpg",
@@ -284,6 +306,20 @@
           "relation": "不同世界观",
           "type": 2,
           "id": 11876
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/75/208856_9bZD8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/75/208856_9bZD8.jpg"
+          },
+          "name": "スーパーロボット大戦COMPACT2 第3部:銀河決戦篇",
+          "name_cn": "超级机器人大战COMPACT2 银河决战篇",
+          "relation": "角色出演",
+          "type": 4,
+          "id": 208856
         },
         {
           "images": {
@@ -465,6 +501,10 @@
       "total_episodes": 26,
       "id": 165789,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -522,32 +562,32 @@
         "1970.80",
         "1975",
         "1975年4月",
+        "2クール",
         "70s",
         "TMS",
         "TV",
         "YL",
         "gamba",
-        "tspdt",
         "东京movie",
         "东京电影",
+        "冒险",
+        "冷门",
+        "出崎統",
         "出崎统",
         "出﨑統",
         "可能会看",
-        "吉川惣司",
         "小林七郎",
         "小说改",
         "小说该改",
         "待補0",
         "无中文字幕",
+        "日本",
         "日本动画",
         "旧物",
-        "椛岛义夫",
         "水城蘭子",
         "生肉",
-        "竹内启雄",
         "芝山努",
         "赛璐珞",
-        "饭冈顺一",
         "齐藤淳夫"
       ],
       "infobox": [
@@ -583,6 +623,10 @@
           "value": "1975年9月26日"
         },
         {
+          "key": "音乐",
+          "value": "山下毅雄"
+        },
+        {
           "key": "Copyright",
           "value": "©斉藤惇夫/岩波書店・TMS"
         },
@@ -611,10 +655,6 @@
           "value": "清水達正、若菜章夫"
         },
         {
-          "key": "音乐",
-          "value": "山下毅雄"
-        },
-        {
           "key": "制作",
           "value": "東京ムービー"
         },
@@ -626,6 +666,10 @@
       "total_episodes": 26,
       "id": 10397,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -648,6 +692,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/2e/139360_IWx9i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/2e/139360_IWx9i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/2e/139360_IWx9i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/2e/139360_IWx9i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/2e/139360_IWx9i.jpg"
+          },
+          "name": "ガンバとカワウソの冒険",
+          "name_cn": "刚巴和水獭的冒险",
+          "relation": "续集",
+          "type": 2,
+          "id": 139360
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/82/314865_fLE1l.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/82/314865_fLE1l.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c1/82/314865_fLE1l.jpg",
@@ -655,7 +713,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/82/314865_fLE1l.jpg"
           },
           "name": "冒険者たち ガンバと7匹のなかま",
-          "name_cn": "GAMBA的冒险剧场版",
+          "name_cn": "冒险者们 刚巴与七位伙伴",
           "relation": "总集篇",
           "type": 2,
           "id": 314865
@@ -700,6 +758,7 @@
         "1975年四月番",
         "70s",
         "TV",
+        "日本",
         "日本动画公司",
         "旧物",
         "赛璐珞"
@@ -745,17 +804,21 @@
           "value": "1976年4月20日"
         },
         {
-          "key": "原作",
-          "value": "Waldemar Bonsels"
-        },
-        {
           "key": "导演",
           "value": "遠藤政治、斉藤博"
+        },
+        {
+          "key": "原作",
+          "value": "Waldemar Bonsels"
         }
       ],
       "total_episodes": 52,
       "id": 211630,
       "eps": 52,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

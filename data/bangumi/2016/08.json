@@ -34,9 +34,9 @@
         "悠木碧",
         "战斗",
         "所智一",
+        "日常",
+        "日本",
         "日本动画",
-        "木村良平",
-        "梶裕貴",
         "梶裕贵",
         "樱井孝宏",
         "泽野弘之",
@@ -81,16 +81,16 @@
           "value": "2016年9月18日"
         },
         {
+          "key": "导演",
+          "value": "ところともかず"
+        },
+        {
           "key": "Copyright",
           "value": "© 鈴木央・講談社／「七つの大罪TVSP」製作委員会・MBS"
         },
         {
           "key": "原作",
           "value": "鈴木央（講談社「週刊少年マガジン」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "ところともかず"
         },
         {
           "key": "脚本",
@@ -100,6 +100,12 @@
       "total_episodes": 4,
       "id": 175603,
       "eps": 4,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -229,6 +235,7 @@
         "2016年",
         "2016年8月",
         "TV",
+        "WEB",
         "中国",
         "兄弟",
         "动画",
@@ -316,6 +323,9 @@
       "total_episodes": 20,
       "id": 175462,
       "eps": 20,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -551,6 +561,12 @@
       "total_episodes": 1,
       "id": 148036,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "奇幻",
+        "战斗",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -671,17 +687,45 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/d6/454045_aGzj8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/d6/454045_aGzj8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ea/d6/454045_aGzj8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/d6/454045_aGzj8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/d6/454045_aGzj8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/d6/454045_l2CCI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/d6/454045_l2CCI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/d6/454045_l2CCI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/d6/454045_l2CCI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/d6/454045_l2CCI.jpg"
           },
           "name": "傷物語-こよみヴァンプ-",
           "name_cn": "伤物语-历吸血鬼-",
           "relation": "总集篇",
           "type": 2,
           "id": 454045
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/9b/459339_35Kzy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/9b/459339_35Kzy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/53/9b/459339_35Kzy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/9b/459339_35Kzy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/9b/459339_35Kzy.jpg"
+          },
+          "name": "アニメ〈物語〉シリーズ 10th Anniversary Illustration Works",
+          "name_cn": "动画〈物语〉系列10周年纪念插画集",
+          "relation": "书籍",
+          "type": 1,
+          "id": 459339
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/69/531434_93Bw4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/69/531434_93Bw4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/69/531434_93Bw4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/69/531434_93Bw4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/69/531434_93Bw4.jpg"
+          },
+          "name": "傷物語 劇伴音楽集",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 531434
         }
       ]
     }
@@ -789,6 +833,9 @@
       "total_episodes": 12,
       "id": 189286,
       "eps": 12,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -879,16 +926,16 @@
           "value": "テレビ東京系列"
         },
         {
+          "key": "音乐",
+          "value": "林ゆうき、橘麻美"
+        },
+        {
           "key": "Copyright",
           "value": "© 創通・サンライズ・テレビ東京"
         },
         {
           "key": "机械设定",
           "value": "大河原邦男、石垣純哉、今石進、海老川兼武、寺岡賢司、寺島慎也、NAOKI"
-        },
-        {
-          "key": "音乐",
-          "value": "林ゆうき、橘麻美"
         },
         {
           "key": "企画协力",
@@ -902,6 +949,11 @@
       "total_episodes": 1,
       "id": 182406,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -995,6 +1047,7 @@
         "OVA",
         "Under_The_Dog",
         "orange",
+        "イシイジロウ",
         "オレンジ",
         "伊藤秀次",
         "众筹",
@@ -1009,7 +1062,6 @@
         "小柳启伍",
         "小柳啓伍",
         "战斗",
-        "日本",
         "枪战",
         "濑户麻沙美",
         "短片",
@@ -1052,6 +1104,11 @@
       "total_episodes": 2,
       "id": 110658,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1197,6 +1254,10 @@
       "total_episodes": 1,
       "id": 198230,
       "eps": 1,
+      "meta_tags": [
+        "原创",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1275,7 +1336,6 @@
         "OVA",
         "SUNRISE",
         "吐槽",
-        "吐糟",
         "奇幻",
         "宫胁千鹤",
         "宮脇千鶴",
@@ -1291,6 +1351,7 @@
         "漫画改",
         "热血",
         "续作",
+        "釘宮理恵",
         "銀魂",
         "银他妈",
         "银魂",
@@ -1337,6 +1398,10 @@
       "total_episodes": 2,
       "id": 161710,
       "eps": 2,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1432,6 +1497,7 @@
         "剧场版",
         "动画电影",
         "原创",
+        "君の名は",
         "君の名は。",
         "奇幻",
         "安藤雅司",
@@ -1443,7 +1509,6 @@
         "校园",
         "治愈",
         "爱情",
-        "田中将賀",
         "田中将贺",
         "电影",
         "神作",
@@ -1530,6 +1595,13 @@
       "total_episodes": 1,
       "id": 160209,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "恋爱",
+        "日本",
+        "奇幻",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1643,7 +1715,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/a7/215943_s6kz9.jpg"
           },
           "name": "君の名は。美術画集",
-          "name_cn": "",
+          "name_cn": "《你的名字。》美术画集",
           "relation": "画集",
           "type": 1,
           "id": 215943
@@ -1780,6 +1852,9 @@
       "total_episodes": 1,
       "id": 187048,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1820,8 +1895,10 @@
       "name": "劇場版アイカツスターズ!",
       "name_cn": "剧场版 偶像活动Stars",
       "tags": [
+        "2010s",
         "2016",
         "2016年",
+        "2016年08月",
         "2016年8月",
         "2016年七月番",
         "BNPictures",
@@ -1834,15 +1911,13 @@
         "偶像",
         "偶像活动",
         "偶像活动Stars",
-        "偶活",
         "剧场版",
         "原创",
         "唱跳rap",
         "宮本侑芽",
         "富田美憂",
+        "已下载",
         "幼女向",
-        "愛敬由紀子",
-        "朝井彩加",
         "柿原優子",
         "游戏改",
         "爱敬由纪子",
@@ -1880,6 +1955,10 @@
       "total_episodes": 1,
       "id": 170120,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1977,34 +2056,34 @@
       "name_cn": "偶像活动 ~被盯上的魔法偶活卡~",
       "tags": [
         "10代",
+        "2010s",
         "2016",
         "2016年",
+        "2016年08月",
         "2016年8月",
         "BNPictures",
-        "BN_Pictures",
         "SUNRISE",
         "Theater",
+        "aikatsu",
         "アイカツ",
         "アニメ映画",
         "下地紫野",
         "偶像",
         "偶像活动",
-        "偶活",
         "剧场同映",
         "剧场版",
+        "加藤阳一",
         "加藤陽一",
         "原创",
         "唱跳rap",
         "太空明",
-        "子供向",
-        "巴山萌菜",
+        "已下载",
         "幼女向",
         "我难道说，是史上最弱的大友吗？",
         "星宫草莓",
         "木村隆一",
         "百合",
         "矢口弘子",
-        "表",
         "魔法卡"
       ],
       "infobox": [
@@ -2056,6 +2135,9 @@
       "total_episodes": 1,
       "id": 200913,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

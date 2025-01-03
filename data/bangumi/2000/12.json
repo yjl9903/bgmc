@@ -22,14 +22,15 @@
         "2000年10月",
         "2000年12月",
         "2000年十月番",
+        "5(0)",
         "BrainsBase",
         "Brain’sBase",
         "Getter",
         "JAM",
         "OVA",
-        "OVA-01",
         "robo",
         "不打分",
+        "井上俊次",
         "岩浪美和",
         "川越淳",
         "日本动画",
@@ -40,7 +41,6 @@
         "漫改",
         "漫画",
         "漫画改",
-        "独立ova",
         "盖塔",
         "科幻",
         "若本规夫",
@@ -112,6 +112,9 @@
       "total_episodes": 4,
       "id": 25919,
       "eps": 4,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -280,10 +283,10 @@
       "tags": [
         "2000",
         "2000-10",
+        "2000-2009",
         "2000年",
         "MADHouse",
         "OVA",
-        "OVA&OAD",
         "SP",
         "TV",
         "TVA-02",
@@ -301,7 +304,6 @@
         "沢城みゆき",
         "治愈",
         "泡面番",
-        "电波",
         "真田アサミ",
         "非独立OVA、OAD、特番等",
         "高橋亨"
@@ -328,6 +330,10 @@
           "value": "TBS"
         },
         {
+          "key": "导演",
+          "value": "高橋亨"
+        },
+        {
           "key": "原作",
           "value": "コゲどんぼ"
         },
@@ -336,17 +342,25 @@
           "value": "桜井弘明"
         },
         {
-          "key": "导演",
-          "value": "高橋亨"
-        },
-        {
           "key": "人物设定",
           "value": "山川吉樹"
+        },
+        {
+          "key": "制片人",
+          "value": "源生哲雄、浅野幸治、諸澤昌男"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "奥井雅美、森ユキ"
         }
       ],
       "total_episodes": 1,
       "id": 205296,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -394,6 +408,48 @@
           "relation": "续集",
           "type": 2,
           "id": 205297
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/8c/525725_MmxxI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/8c/525725_MmxxI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a0/8c/525725_MmxxI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/8c/525725_MmxxI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/8c/525725_MmxxI.jpg"
+          },
+          "name": "女神になりたい〜for a yours〜",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 525725
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/e3/525728_iUHCe.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/e3/525728_iUHCe.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/e3/525728_iUHCe.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/e3/525728_iUHCe.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/e3/525728_iUHCe.jpg"
+          },
+          "name": "でじこのサウンドガーデン",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 525728
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/d1/525762_8Clnn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/d1/525762_8Clnn.jpg"
+          },
+          "name": "デ･ジ･キャラット CD-BOX でじこのサウンドパーティー",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 525762
         }
       ]
     }
@@ -421,7 +477,6 @@
         "2000年12月",
         "OLM",
         "OVA",
-        "OVA-01",
         "TVSP",
         "YL",
         "pokemon",
@@ -465,6 +520,9 @@
       "total_episodes": 2,
       "id": 90012,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -520,11 +578,11 @@
       "name_cn": "皮卡丘的寒假2001",
       "tags": [
         "2000",
+        "2000-10",
         "2000年",
         "2000年12月",
         "OLM",
         "OVA",
-        "OVA-01",
         "YL",
         "pokemon",
         "オー・エル・エム",
@@ -666,6 +724,9 @@
       "total_episodes": 2,
       "id": 90015,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -741,7 +802,6 @@
         "5(0)",
         "999",
         "OVA",
-        "OVA-01",
         "VegaEntertainment",
         "ベガエンタテイメント",
         "剧场版",
@@ -756,6 +816,7 @@
         "生肉",
         "神尾麦",
         "科幻",
+        "续作",
         "补番"
       ],
       "infobox": [
@@ -792,11 +853,62 @@
         {
           "key": "结束",
           "value": "2001年3月7日"
+        },
+        {
+          "key": "原作",
+          "value": "松本零士"
+        },
+        {
+          "key": "导演",
+          "value": "横田和善"
+        },
+        {
+          "key": "脚本",
+          "value": "神尾麦"
+        },
+        {
+          "key": "音乐",
+          "value": "天野正道"
+        },
+        {
+          "key": "美术监督",
+          "value": "阿部泰三郎"
+        },
+        {
+          "key": "音响监督",
+          "value": "早瀬博雪"
+        },
+        {
+          "key": "作画监督",
+          "value": "嶋津郁雄"
+        },
+        {
+          "key": "人物设定",
+          "value": "嶋津郁雄"
+        },
+        {
+          "key": "制片人",
+          "value": "今井朝幸、八木仁、鈴木祐治、松土隆二"
+        },
+        {
+          "key": "动画制作",
+          "value": "ベガエンタテイメント"
+        },
+        {
+          "key": "摄影监督",
+          "value": "遠藤泰久"
+        },
+        {
+          "key": "制作协力",
+          "value": "円谷映像"
         }
       ],
       "total_episodes": 2,
       "id": 49266,
       "eps": 2,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -847,11 +959,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/4b/73439_4YMyM.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/4b/73439_4YMyM.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d3/4b/73439_4YMyM.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/4b/73439_4YMyM.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/4b/73439_4YMyM.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/4b/73439_vxJAA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/4b/73439_vxJAA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/4b/73439_vxJAA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/4b/73439_vxJAA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/4b/73439_vxJAA.jpg"
           },
           "name": "クイーン・エメラルダス",
           "name_cn": "银河女黑侠",
@@ -1084,6 +1196,11 @@
       "total_episodes": 1,
       "id": 27883,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1151,7 +1268,10 @@
       "summary": "「青」の創始者の１人にして忌まわしき反逆者ゾーンダイクが仕掛けた「ゾーンダイク動乱」により、多くの大陸と都市が海中に沈んだ。\r\n\r\nその後、かつてシンガポールのあった海域に、海上都市として誕生した「新世界」は動乱前の人類の在りように最も近づいた場所といえた。\r\n\r\nかつて「青」に在って、小型戦闘潜水艇グランパスの開発に携わりエリートの名を欲しいままにした速水も、サルベージを生業としながら世界をめぐり新世界に辿り着いた。\r\n\r\nしかし、運命がふたたび彼を時代の渦中に誘う。謎の原潜Ｘ号と、これをめぐる事件の数々。\r\n\r\n「青の６号」の突然の寄港に、これを追ってゾーンダイク陣営も新世界に迫る―。 \r\n\r\nＯＶＡの主人公　速水鉄のこれまで一切語られることのなかった失われた時間にスポットをあてた、ゲーム・オリジナル・ストーリー。\r\n\r\n-\r\n\r\n「新世界」を舞台に情報を集める「アドベンチャーモード」、海の中で潜航艇・セーレを操作する「サルベージモード」。2つのモードで「青の6号」の世界を、より深く楽しむことができます。　",
       "name": "青の6号 歳月不待人 -Time and Tide-",
       "name_cn": "",
-      "tags": [],
+      "tags": [
+        "DC",
+        "游戏"
+      ],
       "infobox": [
         {
           "key": "别名",
@@ -1204,6 +1324,10 @@
       "total_episodes": 0,
       "id": 401046,
       "eps": 0,
+      "meta_tags": [
+        "游戏",
+        "DC"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1245,15 +1369,17 @@
       "name_cn": "超人洛克 镜之戒",
       "tags": [
         "2000",
+        "2000年",
         "OVA",
-        "OVA-01",
         "SF",
+        "SidoLimited",
         "ひろたたけし",
         "小出克彦",
         "岩永哲哉",
         "日本アニメーション",
         "日本动画",
         "旧物",
+        "漫画改",
         "独立ova",
         "鈴村健一"
       ],
@@ -1282,6 +1408,9 @@
       "total_episodes": 1,
       "id": 106696,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

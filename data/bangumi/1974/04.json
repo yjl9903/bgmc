@@ -67,6 +67,10 @@
       "total_episodes": 26,
       "id": 107440,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -137,7 +141,6 @@
         "吐槽",
         "吐槽片",
         "和久田正明",
-        "安藤豊弘",
         "战斗",
         "搞笑",
         "无力吐槽",
@@ -145,6 +148,7 @@
         "日本动画",
         "泡面",
         "泡面番",
+        "玉戸義雄",
         "田中英二",
         "神作",
         "科幻",
@@ -225,6 +229,11 @@
       "total_episodes": 65,
       "id": 16872,
       "eps": 65,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -321,6 +330,8 @@
       "name": "星の子チョビン",
       "name_cn": "星星王子",
       "tags": [
+        "TV",
+        "日本",
         "旧物",
         "零工作室"
       ],
@@ -357,6 +368,10 @@
       "total_episodes": 26,
       "id": 213784,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -446,16 +461,16 @@
           "value": "1975年5月8日"
         },
         {
+          "key": "音乐",
+          "value": "菊池俊輔"
+        },
+        {
           "key": "原作",
           "value": "永井豪、石川賢"
         },
         {
           "key": "企画",
           "value": "別所考治、勝田稔男"
-        },
-        {
-          "key": "音乐",
-          "value": "菊池俊輔"
         },
         {
           "key": "制作",
@@ -465,6 +480,10 @@
       "total_episodes": 51,
       "id": 10405,
       "eps": 51,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -473,45 +492,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/ca/261045_eId7i.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/ca/261045_eId7i.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b0/ca/261045_eId7i.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/ca/261045_eId7i.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/ca/261045_eId7i.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
           },
-          "name": "第3次スーパーロボット大戦",
-          "name_cn": "第3次超级机器人大战",
+          "name": "スーパーロボット大戦64",
+          "name_cn": "超级机器人大战64",
           "relation": "游戏",
           "type": 4,
-          "id": 261045
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/10/134040_ZJL4E.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/10/134040_ZJL4E.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d0/10/134040_ZJL4E.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/10/134040_ZJL4E.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/10/134040_ZJL4E.jpg"
-          },
-          "name": "第2次スーパーロボット大戦α",
-          "name_cn": "第2次超级机器人大战α",
-          "relation": "游戏",
-          "type": 4,
-          "id": 134040
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
-          },
-          "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "超级机器人大战X-Ω",
-          "relation": "游戏",
-          "type": 4,
-          "id": 141050
+          "id": 308448
         },
         {
           "images": {
@@ -606,7 +597,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/32/249718_18GGJ.jpg"
           },
           "name": "ゲッターロボ",
-          "name_cn": "盖塔机器人",
+          "name_cn": "盖特机器人",
           "relation": "书籍",
           "type": 1,
           "id": 249718
@@ -627,17 +618,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/d1/120059_23A73.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/d1/120059_23A73.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/29/d1/120059_23A73.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/d1/120059_23A73.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/d1/120059_23A73.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b0/ca/261045_eId7i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b0/ca/261045_eId7i.jpg"
           },
-          "name": "スーパーロボット大戦F",
-          "name_cn": "超级机器人大战F",
+          "name": "第3次スーパーロボット大戦",
+          "name_cn": "第3次超级机器人大战",
           "relation": "游戏",
           "type": 4,
-          "id": 120059
+          "id": 261045
         },
         {
           "images": {
@@ -655,17 +646,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
           },
-          "name": "スーパーロボット大戦64",
-          "name_cn": "超级机器人大战64",
+          "name": "スーパーロボット大戦X-Ω",
+          "name_cn": "超级机器人大战X-Ω",
           "relation": "游戏",
           "type": 4,
-          "id": 308448
+          "id": 141050
         },
         {
           "images": {
@@ -767,17 +758,59 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/dd/48842_wX2wx.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/dd/48842_wX2wx.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/04/dd/48842_wX2wx.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/dd/48842_wX2wx.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/dd/48842_wX2wx.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/07/524992_PiYl8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/07/524992_PiYl8.jpg"
           },
-          "name": "スーパーロボット大戦α外伝",
-          "name_cn": "超级机器人大战α外传",
+          "name": "スーパーロボットピンボール",
+          "name_cn": "超级机器人弹珠台",
           "relation": "游戏",
           "type": 4,
-          "id": 48842
+          "id": 524992
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/d1/525887_FEtqa.jpg"
+          },
+          "name": "シャッフルファイト",
+          "name_cn": "Shuffle Fight",
+          "relation": "游戏",
+          "type": 4,
+          "id": 525887
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b2/531127_t4R74.jpg"
+          },
+          "name": "スーパーロボット大戦α for Dreamcast",
+          "name_cn": "超级机器人大战α for Dreamcast",
+          "relation": "游戏",
+          "type": 4,
+          "id": 531127
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/8d/56977_Iy7rR.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/8d/56977_Iy7rR.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2c/8d/56977_Iy7rR.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/8d/56977_Iy7rR.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/8d/56977_Iy7rR.jpg"
+          },
+          "name": "第2次スーパーロボット大戦",
+          "name_cn": "第2次超级机器人大战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 56977
         },
         {
           "images": {
@@ -865,11 +898,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/19/25921_3Al0N.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/19/25921_3Al0N.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/df/19/25921_3Al0N.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/19/25921_3Al0N.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/19/25921_3Al0N.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/19/25921_8z3pl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/19/25921_8z3pl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/19/25921_8z3pl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/19/25921_8z3pl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/19/25921_8z3pl.jpg"
           },
           "name": "ゲッターロボG",
           "name_cn": "盖塔机器人G",
@@ -907,6 +940,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/dd/48842_wX2wx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/dd/48842_wX2wx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/04/dd/48842_wX2wx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/dd/48842_wX2wx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/dd/48842_wX2wx.jpg"
+          },
+          "name": "スーパーロボット大戦α外伝",
+          "name_cn": "超级机器人大战α外传",
+          "relation": "游戏",
+          "type": 4,
+          "id": 48842
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/67/c6/47_yJDdk.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/67/c6/47_yJDdk.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/67/c6/47_yJDdk.jpg",
@@ -918,20 +965,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 47
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/8d/56977_Iy7rR.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/8d/56977_Iy7rR.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2c/8d/56977_Iy7rR.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/8d/56977_Iy7rR.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/8d/56977_Iy7rR.jpg"
-          },
-          "name": "第2次スーパーロボット大戦",
-          "name_cn": "第2次超级机器人大战",
-          "relation": "游戏",
-          "type": 4,
-          "id": 56977
         },
         {
           "images": {
@@ -1044,6 +1077,34 @@
           "relation": "角色出演",
           "type": 2,
           "id": 114512
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/d1/120059_23A73.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/d1/120059_23A73.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/d1/120059_23A73.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/d1/120059_23A73.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/d1/120059_23A73.jpg"
+          },
+          "name": "スーパーロボット大戦F",
+          "name_cn": "超级机器人大战F",
+          "relation": "游戏",
+          "type": 4,
+          "id": 120059
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/10/134040_ZJL4E.jpg"
+          },
+          "name": "第2次スーパーロボット大戦α",
+          "name_cn": "第2次超级机器人大战α",
+          "relation": "游戏",
+          "type": 4,
+          "id": 134040
         }
       ]
     }
@@ -1063,7 +1124,7 @@
       },
       "summary": "　それまでのウルトラシリーズと同様、怪獣や宇宙人とウルトラマンレオとの戦いが物語の中心となる。特徴としては主人公が他のウルトラマンとは別の星出身の宇宙人であること、変身はしないがウルトラセブン＝モロボシ・ダンがレオをサポートすること、防衛チームの劇中での役割が従来のシリーズ作品に比してより脇に退いており、主人公を取り巻く一般人がドラマの中心になることなどがある。作風は、故郷を失った主人公が、孤独で精神的に過酷な状況の下、肉体的にも過酷な特訓等を通じて心身共に強くなり、困難を乗り越え自ら楯となって戦い抜いていくという、一種の根性物的展開が当初試みられた（詳細は後述。但し、これも後述する事情から、路線が変更されていった）[1]。この点が、本作以前のウルトラマンシリーズには一部の例外を除いて見受けられなかった大きな特徴であり、本作品のカラーを色濃く特徴づけている。制作サイドの企画書にも記載され、番組放映開始時の番宣等でも大きく掲げられた本作品のテーマは、「生きる厳しさと哀しさを鮮烈に謳う」。このフレーズは、当初本作で描こうとしたヒーロー像を最もよく表現していると思われる。",
       "name": "ウルトラマンレオ",
-      "name_cn": "雷欧·奥特曼",
+      "name_cn": "雷欧奥特曼",
       "tags": [
         "1970s",
         "1974",
@@ -1098,13 +1159,13 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "雷欧·奥特曼"
+          "value": "雷欧奥特曼"
         },
         {
           "key": "别名",
           "value": [
             {
-              "v": "雷欧奥特曼"
+              "v": "雷欧·奥特曼"
             }
           ]
         },
@@ -1123,6 +1184,22 @@
         {
           "key": "结束",
           "value": "1975-03-28"
+        },
+        {
+          "key": "主演",
+          "value": "真夏竜、藤木悠、丘野かおり、新井つねひろ、富永美子[冨永みーな]、伊藤幸雄、奈良富士子、杉田かおる、春川ますみ、神田隆、大林丈史、森次晃嗣"
+        },
+        {
+          "key": "导演",
+          "value": "真船禎、深沢清澄、東條昭平、外山徹、筧正典、前田勲、山本正孝、大木淳、中川信夫、岡村精、山際永三、高野宏一、矢島信男、東條昭平、大木淳、吉村善之"
+        },
+        {
+          "key": "音乐",
+          "value": "冬木透"
+        },
+        {
+          "key": "制作",
+          "value": "円谷プロダクション、TBS"
         },
         {
           "key": "类型",
@@ -1145,24 +1222,12 @@
           "value": "tt1137351"
         },
         {
-          "key": "主演",
-          "value": "真夏竜、藤木悠、丘野かおり、新井つねひろ、富永美子[冨永みーな]、伊藤幸雄、奈良富士子、杉田かおる、春川ますみ、神田隆、大林丈史、森次晃嗣"
-        },
-        {
           "key": "制片人/制作人",
           "value": "円谷粲、熊谷健、橋本洋二（TBS）、熊谷国雄（TBS映画部）"
         },
         {
           "key": "编剧",
           "value": "田口成光、阿井文瓶、土門鉄郎、若槻文三、奥津啓二郎、石堂淑朗"
-        },
-        {
-          "key": "导演",
-          "value": "真船禎、深沢清澄、東條昭平、外山徹、筧正典、前田勲、山本正孝、大木淳、中川信夫、岡村精、山際永三、高野宏一、矢島信男、東條昭平、大木淳、吉村善之"
-        },
-        {
-          "key": "音乐",
-          "value": "冬木透"
         },
         {
           "key": "摄影",
@@ -1173,10 +1238,6 @@
           "value": "武田うめ"
         },
         {
-          "key": "制作",
-          "value": "円谷プロダクション、TBS"
-        },
-        {
           "key": "配角",
           "value": "松田洋治"
         }
@@ -1184,6 +1245,11 @@
       "total_episodes": 51,
       "id": 38659,
       "eps": 51,
+      "meta_tags": [
+        "日本",
+        "电视剧",
+        "特摄"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1199,18 +1265,18 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/25/38658_ydl77.jpg"
           },
           "name": "ウルトラマンタロウ",
-          "name_cn": "泰罗·奥特曼",
+          "name_cn": "泰罗奥特曼",
           "relation": "前传",
           "type": 6,
           "id": 38658
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/87/61260_773s7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/87/61260_773s7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/46/87/61260_773s7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/87/61260_773s7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/87/61260_773s7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/46/87/61260_OFZwi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/46/87/61260_OFZwi.jpg"
           },
           "name": "ザ☆ウルトラマン",
           "name_cn": "乔尼亚斯奥特曼",

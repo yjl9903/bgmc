@@ -24,7 +24,6 @@
         "MADHouse",
         "TV",
         "capcom",
-        "单元剧",
         "奇幻",
         "季番",
         "怪蜀黍",
@@ -39,6 +38,7 @@
         "游戏",
         "游戏改",
         "游戏改编",
+        "游改",
         "热血",
         "萝莉控",
         "蛋叔",
@@ -97,12 +97,12 @@
           "value": "2007年8月30日"
         },
         {
-          "key": "原作",
-          "value": "CAPCOM"
-        },
-        {
           "key": "导演",
           "value": "板垣伸"
+        },
+        {
+          "key": "原作",
+          "value": "CAPCOM"
         },
         {
           "key": "副导演",
@@ -120,6 +120,11 @@
       "total_episodes": 12,
       "id": 13430,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -254,6 +259,7 @@
         "原创",
         "搞笑",
         "日本",
+        "漫画改",
         "鉄道",
         "铁道"
       ],
@@ -283,16 +289,16 @@
           "value": "2007年9月23日"
         },
         {
-          "key": "原作",
-          "value": "菊池直恵"
-        },
-        {
           "key": "导演",
           "value": "永丘昭典"
         },
         {
           "key": "音乐",
           "value": "SUPER BELL\"Z、渡部チェル"
+        },
+        {
+          "key": "原作",
+          "value": "菊池直恵"
         },
         {
           "key": "设计作品",
@@ -334,6 +340,11 @@
       "total_episodes": 13,
       "id": 75027,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -378,20 +389,19 @@
         "2007年",
         "2017",
         "6.5-7",
-        "A.C.G.T",
         "ACGT",
         "AI-Raws",
         "A・C・G・T",
         "TV",
         "三木眞一郎",
         "冨永恒雄",
-        "喜欢",
         "富永恒雄",
         "小栗旬",
         "岸間信明",
         "恶魔Z",
         "改装",
         "日常",
+        "日本",
         "日本动画",
         "未分類",
         "湾岸MIDNIGHT",
@@ -403,6 +413,7 @@
         "补番",
         "赛车",
         "运动",
+        "都市",
         "首都高"
       ],
       "infobox": [
@@ -431,12 +442,12 @@
           "value": "2007年12月7日"
         },
         {
-          "key": "原作",
-          "value": "楠みちはる"
-        },
-        {
           "key": "导演",
           "value": "冨永恒雄"
+        },
+        {
+          "key": "原作",
+          "value": "楠みちはる"
         },
         {
           "key": "监修",
@@ -462,6 +473,11 @@
       "total_episodes": 26,
       "id": 2412,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -537,6 +553,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 376044
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/79/530494_L2t99.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/79/530494_L2t99.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/54/79/530494_L2t99.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/79/530494_L2t99.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/79/530494_L2t99.jpg"
+          },
+          "name": "湾岸ミッドナイト Maximum Tune 3",
+          "name_cn": "湾岸午夜极速3",
+          "relation": "游戏",
+          "type": 4,
+          "id": 530494
         }
       ]
     }
@@ -573,6 +603,7 @@
         "搞笑",
         "日常",
         "日常系",
+        "日本",
         "春日森春木",
         "森井ケンシロウ",
         "池ヶ谷愛",
@@ -649,6 +680,11 @@
       "total_episodes": 13,
       "id": 20691,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -703,6 +739,7 @@
       "name": "ななみちゃん 第4シリーズ",
       "name_cn": "魔法娜娜咪 第四季",
       "tags": [
+        "TV",
         "子供向"
       ],
       "infobox": [
@@ -734,6 +771,10 @@
       "total_episodes": 16,
       "id": 216383,
       "eps": 16,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -793,15 +834,14 @@
         "2007年6月",
         "2007年四月番",
         "AI-Raws",
+        "A级",
         "OVA",
-        "OVA-01",
-        "OVAOAD特典",
         "TOS",
         "Tales",
         "ufotable",
         "¬",
+        "二星",
         "传说系列",
-        "保存",
         "冻鳗",
         "动画",
         "可独立观赏",
@@ -817,7 +857,8 @@
         "游戏",
         "游戏改",
         "独立ova",
-        "藤岛康介"
+        "藤岛康介",
+        "金月龍之介"
       ],
       "infobox": [
         {
@@ -947,6 +988,10 @@
       "total_episodes": 4,
       "id": 3014,
       "eps": 4,
+      "meta_tags": [
+        "OVA",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1082,7 +1127,6 @@
         "剧场版",
         "动画",
         "天使特警",
-        "天使特警系列",
         "平野綾",
         "平野绫",
         "後藤圭二",
@@ -1124,6 +1168,9 @@
       "total_episodes": 1,
       "id": 84688,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

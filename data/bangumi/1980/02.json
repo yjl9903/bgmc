@@ -22,24 +22,24 @@
         "80s",
         "SUNRISE",
         "TV",
-        "TVA",
         "robo",
         "ロボットアニメ",
         "伊東恒久",
         "佐々木勝利",
+        "佐木勝利",
         "原创",
+        "子拱向",
         "安全确认",
         "待補1",
         "无敌系列",
+        "日常",
         "日本SUNRISE",
         "日本动画",
         "旧物",
         "星山博之",
-        "机器人",
         "机战",
         "机甲",
         "永井一郎",
-        "社长",
         "若本规夫",
         "萝卜",
         "藤本让",
@@ -104,6 +104,12 @@
       "total_episodes": 50,
       "id": 37286,
       "eps": 50,
+      "meta_tags": [
+        "机战",
+        "TV",
+        "日本",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -249,6 +255,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 467503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/d1/525887_FEtqa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/d1/525887_FEtqa.jpg"
+          },
+          "name": "シャッフルファイト",
+          "name_cn": "Shuffle Fight",
+          "relation": "游戏",
+          "type": 4,
+          "id": 525887
         }
       ]
     }
@@ -297,6 +317,10 @@
       "total_episodes": 52,
       "id": 220039,
       "eps": 130,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -337,6 +361,7 @@
         "原创",
         "小山高生",
         "押井守",
+        "日本",
         "日本动画",
         "旧物",
         "时间飞船",
@@ -380,6 +405,10 @@
       "total_episodes": 53,
       "id": 53759,
       "eps": 53,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

@@ -21,7 +21,6 @@
         "1991年",
         "1991年5月",
         "90年代",
-        "GP01",
         "GP03",
         "GUNDAM",
         "Mobile_Suit_Gundam_0083:Stardu",
@@ -32,11 +31,12 @@
         "军事",
         "加濑充子",
         "加瀬充子",
-        "动画",
         "原创",
         "家兔",
+        "富野由悠季",
         "川元利浩",
         "战争",
+        "战斗",
         "所罗门哟，我回来了",
         "日本",
         "星尘回忆",
@@ -190,6 +190,11 @@
       "total_episodes": 13,
       "id": 804,
       "eps": 13,
+      "meta_tags": [
+        "科幻",
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -198,31 +203,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/70/298304_vOAlt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/70/298304_vOAlt.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
           },
-          "name": "機動戦士ガンダム EXTREME VS. MAXI BOOST ON",
-          "name_cn": "机动战士高达 EXTREME VS.极限爆发",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 298304
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
-          },
-          "name": "スーパーロボット大戦COMPACT",
-          "name_cn": "超级机器人大战COMPACT",
+          "name": "スーパーロボット大戦64",
+          "name_cn": "超级机器人大战64",
           "relation": "游戏",
           "type": 4,
-          "id": 208853
+          "id": 308448
         },
         {
           "images": {
@@ -352,6 +343,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/89/70/298304_vOAlt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/89/70/298304_vOAlt.jpg"
+          },
+          "name": "機動戦士ガンダム EXTREME VS. MAXI BOOST ON",
+          "name_cn": "机动战士高达 EXTREME VS.极限爆发",
+          "relation": "角色出演",
+          "type": 4,
+          "id": 298304
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/75/208856_9bZD8.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/75/208856_9bZD8.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a9/75/208856_9bZD8.jpg",
@@ -363,20 +368,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 208856
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/1f/308448_6R0Sk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/1f/308448_6R0Sk.jpg"
-          },
-          "name": "スーパーロボット大戦64",
-          "name_cn": "超级机器人大战64",
-          "relation": "游戏",
-          "type": 4,
-          "id": 308448
         },
         {
           "images": {
@@ -489,6 +480,20 @@
           "relation": "画集",
           "type": 1,
           "id": 476872
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/b2/531127_t4R74.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/b2/531127_t4R74.jpg"
+          },
+          "name": "スーパーロボット大戦α for Dreamcast",
+          "name_cn": "超级机器人大战α for Dreamcast",
+          "relation": "游戏",
+          "type": 4,
+          "id": 531127
         },
         {
           "images": {
@@ -618,17 +623,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/28/208853_D1Zj1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/28/208853_D1Zj1.jpg"
           },
-          "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "超级机器人大战X-Ω",
+          "name": "スーパーロボット大戦COMPACT",
+          "name_cn": "超级机器人大战COMPACT",
           "relation": "游戏",
           "type": 4,
-          "id": 141050
+          "id": 208853
         },
         {
           "images": {
@@ -713,6 +718,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 134040
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
+          },
+          "name": "スーパーロボット大戦X-Ω",
+          "name_cn": "超级机器人大战X-Ω",
+          "relation": "游戏",
+          "type": 4,
+          "id": 141050
         },
         {
           "images": {
@@ -890,13 +909,11 @@
       "tags": [
         "1991",
         "OVA",
-        "OVA-01",
-        "lxy",
         "studiodeen",
         "やまざきかずお",
         "スタジオディーン",
         "不打分",
-        "二又一成",
+        "党争",
         "动画",
         "四分一節子",
         "四分一节子",
@@ -909,6 +926,7 @@
         "日常",
         "日本",
         "日本动画",
+        "旧物",
         "杉山卓夫",
         "漫改",
         "漫画改",
@@ -917,7 +935,8 @@
         "相聚一刻",
         "补番",
         "高屋敷英夫",
-        "高桥留美子"
+        "高桥留美子",
+        "高橋留美子"
       ],
       "infobox": [
         {
@@ -944,6 +963,9 @@
       "total_episodes": 1,
       "id": 46657,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1021,13 +1043,12 @@
         "ArtLand",
         "Artmic",
         "OVA",
-        "OVA-01",
         "[独立]OVA",
-        "ova2",
         "アートミック",
         "不到7分",
         "动画",
         "原创",
+        "園田健一",
         "平松晶子",
         "旧物",
         "机战",
@@ -1035,6 +1056,7 @@
         "泡泡糖危机",
         "独立ova",
         "石踊宏",
+        "社会",
         "福岛宏之",
         "福島宏之",
         "科幻",
@@ -1076,6 +1098,10 @@
       "total_episodes": 3,
       "id": 46953,
       "eps": 3,
+      "meta_tags": [
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1084,11 +1110,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/76/15176_TEklf.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/76/15176_TEklf.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3d/76/15176_TEklf.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/76/15176_TEklf.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/76/15176_TEklf.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/76/15176_y7yyy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/76/15176_y7yyy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3d/76/15176_y7yyy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/76/15176_y7yyy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/76/15176_y7yyy.jpg"
           },
           "name": "バブルガムクライシス",
           "name_cn": "泡泡糖危机",
@@ -1216,6 +1242,9 @@
       "total_episodes": 1,
       "id": 56301,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

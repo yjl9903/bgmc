@@ -23,7 +23,7 @@
         "70年代",
         "SF",
         "TV",
-        "フジテレビ",
+        "TVA",
         "东映",
         "东映动画",
         "公路",
@@ -41,7 +41,7 @@
         "经典",
         "荒木伸吾",
         "补旧番",
-        "被低估",
+        "补番",
         "西沢信孝",
         "银河铁道999",
         "长篇",
@@ -77,6 +77,10 @@
           "value": "1981年4月9日"
         },
         {
+          "key": "音乐",
+          "value": "青木望"
+        },
+        {
           "key": "原作",
           "value": "松本零士"
         },
@@ -91,10 +95,6 @@
         {
           "key": "总作画监督",
           "value": "湖川滋（湖川友謙）（～63、74～88話）、小松原一男（64 - 73話）"
-        },
-        {
-          "key": "音乐",
-          "value": "青木望"
         },
         {
           "key": "音乐指挥",
@@ -124,6 +124,12 @@
       "total_episodes": 114,
       "id": 10392,
       "eps": 113,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -252,7 +258,7 @@
           },
           "name": "銀河鉄道999 ガラスのクレア",
           "name_cn": "银河铁道999 玻璃克莱尔",
-          "relation": "总集篇",
+          "relation": "番外篇",
           "type": 2,
           "id": 474112
         },
@@ -300,11 +306,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/05/416984_lpC1t.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/05/416984_lpC1t.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/05/416984_lpC1t.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/05/416984_lpC1t.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/05/416984_lpC1t.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/05/416984_Bb7V4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/05/416984_Bb7V4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/05/416984_Bb7V4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/05/416984_Bb7V4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/05/416984_Bb7V4.jpg"
           },
           "name": "銀河鉄道999 君は戦士のように生きられるか!!",
           "name_cn": "银河铁道999：你能像战士那般活下来吗",
@@ -314,11 +320,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_4Yff9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_4Yff9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_4Yff9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/81/12784_4Yff9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/81/12784_4Yff9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/81/12784_7lwS8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/81/12784_7lwS8.jpg"
           },
           "name": "銀河鉄道物語",
           "name_cn": "银河铁道物语",
@@ -342,11 +348,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/59/98514_8oprF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/59/98514_8oprF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/95/59/98514_8oprF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/59/98514_8oprF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/59/98514_8oprF.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/59/98514_qM2u2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/59/98514_qM2u2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/59/98514_qM2u2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/59/98514_qM2u2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/59/98514_qM2u2.jpg"
           },
           "name": "火聖旅団 ダナサイト999.9",
           "name_cn": "火圣旅团999.9",
@@ -504,6 +510,7 @@
         "70s",
         "TV",
         "TVspecial",
+        "日本",
         "日本动画公司",
         "旧物",
         "赛璐珞"
@@ -529,6 +536,10 @@
       "total_episodes": 1,
       "id": 97133,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
