@@ -244,6 +244,7 @@ jobs:
 
       - uses: actions/checkout@v4
         with:
+          ref: ${{ needs.prepare.outputs.branch }}
           fetch-depth: 0
 
       - name: Create Pull Request
@@ -257,7 +258,7 @@ jobs:
             echo "$pr_list" | awk '{print $1}' | xargs gh pr close -d
           fi
 
-          pr_body=$(cat data/bangumi.md data/tmdb.md)
+          pr_body=$(cat data/bangumi.md data/tmdb.md || 'Update data')
 
           if [[ $(git rev-list --count origin/main..origin/${{ needs.prepare.outputs.branch }}) -gt 0 ]]; then
             gh pr create \
