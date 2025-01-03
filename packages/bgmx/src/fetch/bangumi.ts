@@ -24,23 +24,29 @@ export async function fetchBangumiData(ctx: Context) {
       if (!bgm) {
         console.log(`Error: There is no bangumi id for ${item.title}`);
       }
-      return bgm?.id;
+      return { title: item.title, id: bgm?.id };
     })
-    .filter(Boolean)
-    .map((id) => +id!) as number[];
+    .filter((b) => !!b.id)
+    .map((b) => ({ ...b, id: +b.id! }));
 
   for (const weekDay of await client.calendar()) {
-    taskIds.push(...((weekDay?.items?.map((bgm) => bgm.id).filter(Boolean) as number[]) ?? []));
+    const calendar =
+      weekDay?.items
+        ?.map((bgm) => ({ title: bgm.name_cn || bgm.name || '', id: bgm.id }))
+        .filter((b) => !!b.id)
+        .map((b) => ({ ...b, id: +b.id! })) ?? [];
+    taskIds.push(...calendar);
   }
 
-  const ids = new Set(taskIds);
+  const ids = new Set();
   const bgms: BangumiItem[] = [];
 
   while (true) {
     let begin = bgms.length;
-    const newTaskIds: number[] = [];
+    const newTaskIds = [];
 
-    for (const bgmId of taskIds) {
+    for (const task of taskIds) {
+      const bgmId = task.id;
       ids.add(bgmId);
       try {
         const bgm = await fetchSubject(bgmId, ctx);
@@ -48,7 +54,7 @@ export async function fetchBangumiData(ctx: Context) {
           bgms.push(bgm);
         }
       } catch (error) {
-        console.log(`Error: fetch ${bgmId} failed`);
+        console.log(`Error: fetch bangumi ${task.title} failed (id: ${bgmId})`);
       }
     }
 
@@ -58,7 +64,7 @@ export async function fetchBangumiData(ctx: Context) {
         for (const r of bgm.bangumi.relations) {
           if (BangumiRelations.includes(r.relation)) {
             if (!ids.has(r.id)) {
-              newTaskIds.push(r.id);
+              newTaskIds.push({ title: r.name_cn || r.name, id: r.id });
             }
           }
         }
@@ -73,7 +79,7 @@ export async function fetchBangumiData(ctx: Context) {
     taskIds.splice(0, taskIds.length, ...newTaskIds);
   }
 
-  const files = groupByBegin(bgms, (item) => (item.date ? new Date(item.date) : undefined));
+  const files = groupByBegin(bgms, (item) => item.date);
   for (const [year, yearData] of files) {
     const dir = path.join(ctx.bangumiRoot, '' + year);
     await fs.ensureDir(dir);
@@ -109,6 +115,10 @@ export async function fetchBangumiData(ctx: Context) {
     ]);
 
     if (subject) {
+      if (!options.overwrite) {
+        console.log(`Info: fetch ${subject.name ?? item?.title} (id: ${subject.id})`);
+      }
+
       return <BangumiItem>{
         title: subject.name ?? item?.title,
         date: subject.date ?? item?.begin,

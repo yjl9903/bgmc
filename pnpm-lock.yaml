@@ -89,6 +89,9 @@ importers:
       '@onekuma/map':
         specifier: ^0.1.10
         version: 0.1.10
+      '@total-typescript/ts-reset':
+        specifier: ^0.6.1
+        version: 0.6.1
       bangumi-data:
         specifier: '>=0.3.159'
         version: 0.3.159

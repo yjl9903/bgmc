@@ -9,7 +9,7 @@ import { buildData } from './build';
 import { fetchBangumiData, fetchTmdbData } from './fetch';
 
 const cli = breadc('bgmx')
-  .option('--overwrite', 'Overwrite cached data')
+  .option('--overwrite', 'Overwrite cached data', { default: false })
   .option('--root <string>', 'Data root')
   .option('--out-dir <string>', 'Output root')
 
@@ -49,7 +49,7 @@ cli.command('fetch tmdb')
     await fetchTmdbData(ctx);
   });
 
-function resolveOptions(options: { root?: string; outDir?: string }): Context {
+function resolveOptions(options: { overwrite: boolean, root?: string; outDir?: string }): Context {
   const root = options.root || path.join(process.cwd(), 'data');
   const bangumiRoot = path.join(root, 'bangumi')
   const tmdbRoot = path.join(root, 'tmdb')

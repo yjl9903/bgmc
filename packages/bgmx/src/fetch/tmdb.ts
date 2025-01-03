@@ -34,12 +34,7 @@ export async function fetchTmdbData(ctx: Context) {
     [...bangumiDB.values()].sort((a, b) => {
       return new Date(a.date).getTime() - new Date(b.date).getTime();
     }),
-    (bgm) => {
-      if (bgm.date) {
-        return new Date(bgm.date);
-      }
-      console.log(`Error: the date of ${bgm.title} is empty`);
-    }
+    (bgm) => bgm.date
   );
 
   for (const [year, yearData] of files) {

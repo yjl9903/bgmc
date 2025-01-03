@@ -7,5 +7,5 @@ export interface Context {
 
   outDir: string;
 
-  overwrite?: boolean;
+  overwrite: boolean;
 }
