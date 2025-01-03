@@ -1,0 +1,246 @@
+# Bangumi
+## Fetch new bangumi
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+## Error
+- There is no bangumi id for けろけろけろっぴの大冒険　ふしぎな豆の木
+- There is no bangumi id for 無責任艦長タイラー 地上より永遠に
+- There is no bangumi id for 劇場版 サルゲッチュ 黄金のピポヘル・ウッキーバトル
+- There is no bangumi id for 焼跡の、お菓子の木
+- There is no bangumi id for 進め！土管くん
+- There is no bangumi id for ピカチュウたんけんクラブ
+- There is no bangumi id for 一期一会 恋バナ友バナ
+- There is no bangumi id for 土管くん何かの絵描き歌
+- There is no bangumi id for 教えて！土管くん
+- There is no bangumi id for 菅井君と家族石 THE MOVIE
+- There is no bangumi id for 楓ニュータウン
+- There is no bangumi id for 本まぐろ トロ太郎
+- There is no bangumi id for 秘密結社 鷹の爪 THE MOVIE ２ ～私を愛した黒烏龍茶～
+- There is no bangumi id for 秘密結社 鷹の爪 THE MOVIE ３ ～http://鷹の爪.jpは永遠に～
+- There is no bangumi id for Peeping Life -The Perfect Emotion-
+- There is no bangumi id for 秘密結社 鷹の爪 THE MOVIE ４ ～カスペルスキーを持つ男～
+- There is no bangumi id for Peeping Life -The Perfect Evolution-
+- There is no bangumi id for 鷹の爪GO～美しきエリエール消臭プラス～
+- There is no bangumi id for 映画 それいけ！アンパンマン リズムでうたおう！アンパンマン夏まつり
+- There is no bangumi id for インド版 忍者ハットリくん
+- There is no bangumi id for インド版 忍者ハットリくん
+- There is no bangumi id for 一人之下 第二季
+- There is no bangumi id for ダヤンとタマと飛び猫と ～3つの猫の物語～
+- There is no bangumi id for 大怪獣ゴメラVS仮面ヤイバー
+- There is no bangumi id for 映画 ふしぎ駄菓子屋 銭天堂　つりたい焼き
+- There is no bangumi id for パウ・パトロール(シーズン3)
+- There is no bangumi id for 大家さんと僕(第3シリーズ)
+- There is no bangumi id for おしりたんてい(第5シリーズ)
+- There is no bangumi id for レゴ モンキーキッド
+- There is no bangumi id for 猫ジョッキー
+- There is no bangumi id for レゴ フレンズ(シーズン2)
+- There is no bangumi id for よるわまわるよ
+- There is no bangumi id for それいけ！アンパンマン　ふわふわフワリーと雲の国
+- There is no bangumi id for 猫ジョッキー(第2期)
+- There is no bangumi id for パウ・パトロール(シーズン4)
+- There is no bangumi id for 時光代理人 -LINK CLICK-
+- There is no bangumi id for ぼくらベビーベアーズ
+- There is no bangumi id for ざんねんないきもの事典(第4シリーズ)
+- There is no bangumi id for インド版 忍者ハットリくん
+- There is no bangumi id for インド版 忍者ハットリくん
+- There is no bangumi id for キラキラADらっこちゃん
+- There is no bangumi id for 赤ちゃん本部長(第3シリーズ)
+- There is no bangumi id for ドラ馬チック脳内
+- There is no bangumi id for それいけ！アンパンマン ドロリンとバケ〜るカーニバル
+- There is no bangumi id for パチスロ ボンバーガール 4コマアニメ
+- There is no bangumi id for がんばれ！長州くん
+- There is no bangumi id for 女体化した僕を騎士様達がねらってます
+- There is no bangumi id for アニメ ボス・ベイビー シーズン2
+- There is no bangumi id for デスゲームマスター出須
+- There is no bangumi id for セブンボイスミュージアム 名画と7人の巨匠たち
+- There is no bangumi id for 現代アートを基礎から学べるチャンネル ＴＶ版
+- There is no bangumi id for 聖闘士星矢:Knights of the Zodiac バトル・サンクチュアリ
+- There is no bangumi id for おしりたんてい(第7シリーズ)
+- There is no bangumi id for スマーフ シーズン2
+- There is no bangumi id for 鷹の爪外伝「秘密厩舎 馬の蹄」
+- There is no bangumi id for 蒼穹のファフナー THE BEYOND（TV Edition）
+- There is no bangumi id for フェ～レンザイ -神さまの日常-
+- There is no bangumi id for トランスフォーマー アーススパーク
+- There is no bangumi id for おしりたんてい(第8シリーズ)
+- There is no bangumi id for ハートカクテル カラフル(冬編)
+- There is no bangumi id for オオクニヌシとスクナビコナ
+- There is no bangumi id for MOON
+- There is no bangumi id for パンテオンの鳥
+- There is no bangumi id for ギャビーのドールハウス
+- There is no bangumi id for ROLY POLY PEOPLES
+- There is no bangumi id for おしりたんてい(第8シリーズ)
+- There is no bangumi id for ARNOLD & PUPPETS
+- fetch bangumi 千夜一夜物語 failed (id: 67738)
+- fetch bangumi クレオパトラ failed (id: 67739)
+- fetch bangumi 同級生2 failed (id: 74484)
+- fetch bangumi A KITE failed (id: 25469)
+- fetch bangumi 同級生2 Special 卒業生 failed (id: 102188)
+- fetch bangumi ONE～輝く季節へ～ failed (id: 5016)
+- fetch bangumi ふたりエッチ 第1期 failed (id: 50598)
+- fetch bangumi ふたりエッチ 2nd SEASON failed (id: 50599)
+- fetch bangumi せんせいのお時間 ご〜るど failed (id: 55603)
+- fetch bangumi 永遠のアセリア failed (id: 78071)
+- fetch bangumi ムダヅモ無き改革 -The Legend of KOIZUMI- failed (id: 4263)
+- fetch bangumi 169810 failed
+- fetch bangumi 恋騎士 Purely☆Kiss The Animation failed (id: 74478)
+- fetch bangumi 僧侶と交わる色欲の夜に… failed (id: 207567)
+- fetch bangumi スカートの中はケダモノでした。 failed (id: 215726)
+- fetch bangumi お見合い相手は教え子、強気な、問題児。 failed (id: 223502)
+- fetch bangumi 25歳の女子高生 failed (id: 230517)
+- fetch bangumi 甘い懲罰～私は看守専用ペット failed (id: 237602)
+- fetch bangumi じょしおちっ！～2階から女の子が…降ってきた!?～ failed (id: 248206)
+- fetch bangumi 終電後、カプセルホテルで、上司に微熱伝わる夜。 failed (id: 258081)
+- fetch bangumi パパだって、したい failed (id: 268653)
+- fetch bangumi 洗い屋さん！～俺とアイツが女湯で!?～ failed (id: 275610)
+- fetch bangumi 指先から本気の熱情-幼なじみは消防士- failed (id: 283272)
+- fetch bangumi XL上司。 failed (id: 288940)
+- fetch bangumi おーばーふろぉ failed (id: 295001)
+- fetch bangumi 俺の指で乱れろ。～閉店後二人きりのサロンで...～ failed (id: 300865)
+- fetch bangumi 巨人族の花嫁 failed (id: 306993)
+- fetch bangumi オオカミさんは食べられたい failed (id: 312982)
+- fetch bangumi 大人にゃ恋の仕方がわからねぇ！ failed (id: 314312)
+- fetch bangumi エタニティ ～深夜の濡恋ちゃんねる♡～ failed (id: 316106)
+- fetch bangumi じみへんっ!!～地味子を変えちゃう純異性交遊～ failed (id: 319894)
+- fetch bangumi 黒ギャルになったから親友とヤってみた。 failed (id: 327986)
+- fetch bangumi 指先から本気の熱情2-恋人は消防士- failed (id: 332655)
+- fetch bangumi しょうたいむ！～歌のお姉さんだってしたい failed (id: 345771)
+- fetch bangumi 魔王イブロギアに身を捧げよ failed (id: 328356)
+- fetch bangumi 王子の本命は悪役令嬢 failed (id: 339062)
+- fetch bangumi 3秒後、野獣。～合コンで隅にいた彼は肉食でした failed (id: 354246)
+- fetch bangumi 森のくまさん、冬眠中。 failed (id: 342673)
+- fetch bangumi ハーレムきゃんぷっ！ failed (id: 395537)
+- fetch bangumi しょうたいむ！2～歌のお姉さんだってしたい failed (id: 359059)
+- fetch bangumi 夫婦交歓～戻れない夜～ failed (id: 404643)
+- fetch bangumi しーくれっとみっしょん～潜入捜査官は絶対に負けない！～ failed (id: 451556)
+- fetch bangumi 悶えてよ、アダムくん failed (id: 469072)
+- fetch bangumi 当て馬キャラのくせして、スパダリ王子に寵愛されています。 failed (id: 441586)
+- fetch bangumi よあそびぐらしっ！ failed (id: 475555)
+- fetch bangumi 大正偽りブラヰダル～身代わり花嫁と軍服の猛愛 failed (id: 509169)
+- fetch bangumi 505080 failed
+- fetch bangumi 「1分間だけ触れてもいいよ…」シェアハウスの秘密ルール。 failed (id: 525733)
+- fetch bangumi 「1分間だけ触れてもいいよ…」シェアハウスの秘密ルール。 failed (id: 525733)
+- fetch bangumi 68059 failed
+- fetch bangumi 210443 failed
+- fetch bangumi 95121 failed
+- fetch bangumi 229358 failed
+- fetch bangumi 28792 failed
+- fetch bangumi 111180 failed
+- fetch bangumi 111180 failed
+- fetch bangumi 487782 failed
+- fetch bangumi 55301 failed
+- fetch bangumi 259709 failed
+- fetch bangumi 73715 failed
+- fetch bangumi 140063 failed
+- fetch bangumi 73715 failed
+- fetch bangumi 21294 failed
+- fetch bangumi 37662 failed
+- fetch bangumi 54848 failed
+- fetch bangumi 117991 failed
+- fetch bangumi 216788 failed
+- fetch bangumi 502928 failed
+- fetch bangumi 148664 failed
+- fetch bangumi 143866 failed
+- fetch bangumi 186939 failed
+- fetch bangumi 148664 failed
+- fetch bangumi 195292 failed
+- fetch bangumi 37662 failed
+- fetch bangumi 185409 failed
+- fetch bangumi 185411 failed
+- fetch bangumi 229992 failed
+- fetch bangumi 418229 failed
+- fetch bangumi 212803 failed
+- fetch bangumi 214208 failed
+- fetch bangumi 423621 failed
+- fetch bangumi 217287 failed
+- fetch bangumi 226440 failed
+- fetch bangumi 267988 failed
+- fetch bangumi 311672 failed
+- fetch bangumi 427235 failed
+- fetch bangumi 515880 failed
+- fetch bangumi 226614 failed
+- fetch bangumi 339515 failed
+- fetch bangumi 495238 failed
+- fetch bangumi 467954 failed
+- fetch bangumi 295741 failed
+- fetch bangumi 474371 failed
+- fetch bangumi 317645 failed
+- fetch bangumi 345814 failed
+- fetch bangumi 497881 failed
+- fetch bangumi 340867 failed
+- fetch bangumi 454083 failed
+- fetch bangumi 317645 failed
+- fetch bangumi 353181 failed
+- fetch bangumi 95596 failed
+- fetch bangumi 243430 failed
+- fetch bangumi 393010 failed
+- fetch bangumi 347191 failed
+- fetch bangumi 456077 failed
+- fetch bangumi 445903 failed
+- fetch bangumi 412144 failed
+- fetch bangumi 409383 failed
+- fetch bangumi 421874 failed
+- fetch bangumi 422031 failed
+- fetch bangumi 415482 failed
+- fetch bangumi 484623 failed
+- fetch bangumi 419872 failed
+- fetch bangumi 412008 failed
+- fetch bangumi 443106 failed
+- fetch bangumi 424242 failed
+- fetch bangumi 515595 failed
+- fetch bangumi 463779 failed
+- fetch bangumi 458684 failed
+- fetch bangumi 426100 failed
+- fetch bangumi 458673 failed
+- fetch bangumi 459601 failed
+- fetch bangumi 244931 failed
+- fetch bangumi 455617 failed
+- fetch bangumi 472741 failed
+- fetch bangumi 515759 failed
+- fetch bangumi 471345 failed
+- fetch bangumi 499474 failed
+- fetch bangumi 471844 failed
+- fetch bangumi 476542 failed
+- fetch bangumi 492199 failed
+- fetch bangumi 208829 failed
+- fetch bangumi 481530 failed
+- fetch bangumi 510710 failed
+- fetch bangumi 486763 failed
+- fetch bangumi 486311 failed
+- fetch bangumi 486456 failed
+- fetch bangumi 501044 failed
+- fetch bangumi 486054 failed
+- fetch bangumi 506957 failed
+- fetch bangumi 499073 failed
+- fetch bangumi 496391 failed
+- fetch bangumi 396016 failed
+- fetch bangumi 499656 failed
+- fetch bangumi 514926 failed
+- fetch bangumi 501963 failed
+- fetch bangumi 515594 failed
+- fetch bangumi 513725 failed
+- fetch bangumi 515856 failed
+- fetch bangumi 508003 failed
+- fetch bangumi 508003 failed
+- fetch bangumi 17833 failed
+- fetch bangumi 285530 failed
+- fetch bangumi 73966 failed
+- fetch bangumi 485990 failed
+- fetch bangumi 487716 failed
+- fetch bangumi 501960 failed
+- fetch bangumi 442616 failed
+- fetch bangumi 473414 failed
+- fetch bangumi 507819 failed

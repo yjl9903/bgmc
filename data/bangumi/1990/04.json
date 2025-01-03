@@ -1329,5 +1329,68 @@
         }
       ]
     }
+  },
+  {
+    "title": "ガタピシ",
+    "date": "1990-04-01",
+    "bangumi": {
+      "date": "1990-04-01",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/91/e8/309551_hpY4M.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/91/e8/309551_hpY4M.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/91/e8/309551_hpY4M.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/91/e8/309551_hpY4M.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/91/e8/309551_hpY4M.jpg"
+      },
+      "summary": "",
+      "name": "ガタピシ",
+      "name_cn": "",
+      "tags": [
+        "90s",
+        "SHIN-EI动画",
+        "TV",
+        "幻之动画",
+        "赛璐珞"
+      ],
+      "infobox": [
+        {
+          "key": "话数",
+          "value": "199"
+        },
+        {
+          "key": "放送开始",
+          "value": "1990年4月"
+        }
+      ],
+      "total_episodes": 52,
+      "id": 309551,
+      "eps": 199,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/49/439649_6T6tI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/49/439649_6T6tI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/34/49/439649_6T6tI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/49/439649_6T6tI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/49/439649_6T6tI.jpg"
+          },
+          "name": "虹の切符 / ガタピシ!",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 439649
+        }
+      ]
+    }
   }
 ]
