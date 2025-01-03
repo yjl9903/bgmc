@@ -98,7 +98,8 @@ jobs:
           # Output Info
           echo '## Fetch new bangumi' >> $output
           while IFS= read -r line; do
-            clean_line="${line/Info: /}"
+            line="${line/Info: /}"
+            clean_line="${clean_line/fetch /}"
             echo "- ${clean_line}" >> $output
           done < bangumi-info.log
 
@@ -170,13 +171,35 @@ jobs:
         if: ${{ inputs.tmdb }}
         run: |
           npx tsx packages/bgmd/scripts/tmdb.ts --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
+
           if [ "${{ needs.prepare.outputs.overwrite }}" = true ] ; then
-            grep "^Info:"  run.log >  data/tmdb-info.log  || true
-            grep "^Error:" run.log >  data/tmdb-error.log || true
+            grep "^Info:"  run.log > data/tmdb-info.log  || true
+            grep "^Error:" run.log > data/tmdb-error.log || true
           else
-            grep "^Info:"  run.log >> data/tmdb-info.log  || true
-            grep "^Error:" run.log >  data/tmdb-error.log || true
+            grep "^Info:"  run.log > data/tmdb-info.log  || true
+            grep "^Error:" run.log > data/tmdb-error.log || true
+            grep "^Info:"  run.log > tmdb-info.log  || true
+            grep "^Error:" run.log > tmdb-error.log || true
           fi
+
+          # Generate markdown summary
+          output=data/tmdb.md
+          echo '# tmdb' > $output
+
+          # Output Info
+          echo '## Fetch new bangumi' >> $output
+          while IFS= read -r line; do
+            line="${line/Info: /}"
+            clean_line="${clean_line/fetch /}"
+            echo "- ${clean_line}" >> $output
+          done < tmdb-info.log
+
+          # Output Error
+          echo '## Error' >> $output
+          while IFS= read -r line; do
+            clean_line="${line/Error: /}"
+            echo "- ${clean_line}" >> $output
+          done < tmdb-error.log
 
       # - name: Upload artifact
       #   uses: actions/upload-artifact@v3
@@ -234,10 +257,12 @@ jobs:
             echo "$pr_list" | awk '{print $1}' | xargs gh pr close -d
           fi
 
+          pr_body=$(cat data/bangumi.md data/tmdb.md)
+
           if [[ $(git rev-list --count origin/main..origin/${{ needs.prepare.outputs.branch }}) -gt 0 ]]; then
             gh pr create \
               --title "feat(bgmd): update data at $DATE" \
-              --body  "Update data" \
+              --body  "$pr_body" \
               --head  "${{ needs.prepare.outputs.branch }}" \
               --label "data"
           fi
