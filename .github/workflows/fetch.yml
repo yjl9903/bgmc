@@ -97,13 +97,13 @@ jobs:
           while IFS= read -r line; do
             clean_line="${line/Info: /}" >> $output
             echo "- ${clean_line}"
-          done < grep "^Info:" run.log
+          done < $(grep "^Info:" run.log)
           # Output Error
           echo '## Error' >> $output
           while IFS= read -r line; do
             clean_line="${line/Error: /}" >> $output
             echo "- ${clean_line}"
-          done < grep "^Error:" run.log
+          done < $(grep "^Error:" run.log)
 
       # - name: Upload artifact
       #   uses: actions/upload-artifact@v3

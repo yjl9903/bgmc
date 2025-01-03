@@ -1,7 +1,7 @@
 import path from 'node:path';
 
 import { breadc } from 'breadc';
-import { consola } from 'consola';
+// import { consola } from 'consola';
 
 import type { Context } from './types';
 
@@ -67,6 +67,6 @@ function resolveOptions(options: { overwrite: boolean, root?: string; outDir?: s
 }
 
 // main
-consola.wrapConsole();
+// consola.wrapConsole();
 
 await cli.run(process.argv.slice(2)).catch((err) => console.error(err));
