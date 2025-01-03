@@ -58,63 +58,6 @@
     }
   },
   {
-    "title": "ばなにゃ あらうんど ざ わーるど",
-    "date": "2024-10-01",
-    "bangumi": {
-      "id": "513939"
-    },
-    "tmdb": {
-      "id": 67656,
-      "type": "tv",
-      "search": {
-        "backdrop_path": "/eDcr92URnTb5EK5xkC4tylmE1JY.jpg",
-        "id": 67656,
-        "name": "香蕉喵 不可思议的伙伴们",
-        "original_name": "ばなにゃ",
-        "overview": "　　这个世界里还有许多我们不了解的神奇生物。在某座星球上，诞生了一只不可思议的生物。它的名字叫「香蕉喵」。它们会在怎样的星球上诞生，过上怎样的生活呢？而且，如果它们也梦想来到地球的话…",
-        "poster_path": "/nkHA9QgrHLh3vEq4WL5itDZAiCt.jpg",
-        "media_type": "tv",
-        "adult": false,
-        "original_language": "ja",
-        "genre_ids": [
-          16,
-          35
-        ],
-        "first_air_date": "2016-07-04",
-        "origin_country": [
-          "JP"
-        ]
-      }
-    }
-  },
-  {
-    "title": "雄狮少年2",
-    "date": "2024-10-01",
-    "bangumi": {
-      "id": "422351"
-    },
-    "tmdb": {
-      "id": 1154478,
-      "type": "movie",
-      "search": {
-        "backdrop_path": null,
-        "id": 1154478,
-        "title": "雄狮少年2",
-        "original_title": "雄狮少年2",
-        "overview": "　　来上海打工的无名之辈阿娟，为了赚钱给父亲治病，同意代表没落的传武拳馆参加“上海格斗之夜”武术比赛，为此他必须战胜所有的高手、偏见和自己。",
-        "poster_path": "/vqRNy1LZn4Ofdy2cRkm88ECb01I.jpg",
-        "media_type": "movie",
-        "adult": false,
-        "original_language": "zh",
-        "genre_ids": [
-          16
-        ],
-        "release_date": "",
-        "video": false
-      }
-    }
-  },
-  {
     "title": "アクロトリップ",
     "date": "2024-10-02",
     "bangumi": {
@@ -1101,7 +1044,7 @@
     }
   },
   {
-    "title": "チ。―地球の運動について―",
+    "title": "チ。 ―地球の運動について―",
     "date": "2024-10-05",
     "bangumi": {
       "id": "389156"
@@ -1110,23 +1053,22 @@
       "id": 204635,
       "type": "tv",
       "search": {
-        "backdrop_path": "/7VV0rFVMFjztQgfEIeltGYWdtEf.jpg",
-        "id": 204635,
-        "name": "地。- 关于地球的运动 -",
-        "original_name": "チ。―地球の運動について―",
-        "overview": "15世纪欧洲的某个国家，有一位跳级被大学录取的神通拉法尔。因为周围的期待，他宣布要进修当时被认为最为重要的学问“神学”。但是，对于一直都热心投入的天文学，他也难以舍弃。某一天，他遇到了一个叫休伯特的神秘学者。据说休伯特因为接触到了基于异端思想的禁忌研究，被关进过监狱。而他研究的，是和宇宙有关的，冲击力十足的“某个假说”——",
-        "poster_path": "/eVbdeWTZPcRiulJJkofwex9AhdS.jpg",
-        "media_type": "tv",
         "adult": false,
-        "original_language": "ja",
+        "backdrop_path": "/o5GDX8zmKLpOxRkBoAonoQL8gbg.jpg",
         "genre_ids": [
           16,
           18
         ],
-        "first_air_date": "2024-10-05",
+        "id": 204635,
         "origin_country": [
           "JP"
-        ]
+        ],
+        "original_language": "ja",
+        "original_name": "チ。―地球の運動について―",
+        "overview": "15世纪欧洲的某个国家，有一位跳级被大学录取的神通拉法尔。因为周围的期待，他宣布要进修当时被认为最为重要的学问“神学”。但是，对于一直都热心投入的天文学，他也难以舍弃。某一天，他遇到了一个叫休伯特的神秘学者。据说休伯特因为接触到了基于异端思想的禁忌研究，被关进过监狱。而他研究的，是和宇宙有关的，冲击力十足的“某个假说”——",
+        "poster_path": "/1VkZ8OeEkN3xUhftVjNisX9CJ2J.jpg",
+        "first_air_date": "2024-10-05",
+        "name": "地。—关于地球的运动—"
       }
     }
   },
@@ -2002,6 +1944,61 @@
         "poster_path": "/y7IozUi2dwICMl8aGvLxjTmJDYZ.jpg",
         "first_air_date": "1999-10-20",
         "name": "海贼王"
+      }
+    }
+  },
+  {
+    "title": "ばなにゃ あらうんど ざ わーるど",
+    "date": "2024-10-01",
+    "bangumi": {
+      "id": "513939"
+    },
+    "tmdb": {
+      "id": 67656,
+      "type": "tv",
+      "search": {
+        "backdrop_path": "/eDcr92URnTb5EK5xkC4tylmE1JY.jpg",
+        "id": 67656,
+        "name": "香蕉喵 不可思议的伙伴们",
+        "original_name": "ばなにゃ",
+        "overview": "　　这个世界里还有许多我们不了解的神奇生物。在某座星球上，诞生了一只不可思议的生物。它的名字叫「香蕉喵」。它们会在怎样的星球上诞生，过上怎样的生活呢？而且，如果它们也梦想来到地球的话…",
+        "poster_path": "/nkHA9QgrHLh3vEq4WL5itDZAiCt.jpg",
+        "media_type": "tv",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "first_air_date": "2016-07-04",
+        "origin_country": [
+          "JP"
+        ]
+      }
+    }
+  },
+  {
+    "title": "こまねこのかいがいりょこう",
+    "date": "2024-10-25",
+    "bangumi": {
+      "id": "521194"
+    },
+    "tmdb": {
+      "id": 1379851,
+      "type": "movie",
+      "search": {
+        "backdrop_path": null,
+        "id": 1379851,
+        "title": "Komaneko -A New Journey-",
+        "original_title": "こまねこのかいがいりょこう",
+        "overview": "A short film depicting the friendship and growth of the main character Koma-chan, who is going on her first trip abroad.",
+        "poster_path": "/jtoG4akD9N5HVkGmtGNoAwcq3mK.jpg",
+        "media_type": "movie",
+        "adult": false,
+        "original_language": "ja",
+        "genre_ids": [],
+        "release_date": "2024-10-25",
+        "video": false
       }
     }
   },
