@@ -33,10 +33,12 @@
         "小林弘利",
         "少女漫",
         "山口勝平",
+        "日本",
         "日本动画",
         "旧物",
         "时田广子",
         "渡辺麻実",
+        "漫改",
         "漫画改",
         "秋元奈美",
         "藤枝成子",
@@ -82,6 +84,11 @@
       "total_episodes": 51,
       "id": 80149,
       "eps": 51,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -165,18 +172,18 @@
       "name_cn": "无责任舰长",
       "tags": [
         "1993",
+        "1993anime",
         "1993年1月",
         "90s",
         "90年代",
-        "King_Record",
         "SF",
         "TV",
-        "soon",
+        "TVanime",
+        "harem",
         "タツノコプロ",
         "动画",
         "原创",
-        "天野由梨",
-        "小电视",
+        "吉岡平",
         "小说改",
         "川崎ヒロユキ",
         "川崎裕之",
@@ -184,7 +191,6 @@
         "无责任舰长",
         "日本",
         "日本动画",
-        "旧物",
         "旧番",
         "欢乐无下限",
         "毫无紧张感",
@@ -192,6 +198,7 @@
         "真下耕一",
         "科幻",
         "补旧番",
+        "轻小说改",
         "龙之子",
         "龙之子Production"
       ],
@@ -217,12 +224,16 @@
           "value": "1993年7月19日"
         },
         {
-          "key": "原作",
-          "value": "吉岡平"
-        },
-        {
           "key": "导演",
           "value": "真下耕一"
+        },
+        {
+          "key": "音乐",
+          "value": "川井憲次"
+        },
+        {
+          "key": "原作",
+          "value": "吉岡平"
         },
         {
           "key": "系列构成",
@@ -261,10 +272,6 @@
           "value": "松川陸"
         },
         {
-          "key": "音乐",
-          "value": "川井憲次"
-        },
-        {
           "key": "动画制作",
           "value": "タツノコプロダクション"
         },
@@ -276,6 +283,12 @@
       "total_episodes": 26,
       "id": 8249,
       "eps": 26,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -490,8 +503,11 @@
         "世界名作劇場",
         "二周目",
         "公视",
+        "小说改",
+        "日本",
         "日本动画公司",
         "旧物",
+        "治愈",
         "治愈系",
         "童年"
       ],
@@ -530,6 +546,11 @@
       "total_episodes": 40,
       "id": 53744,
       "eps": 40,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -599,7 +620,7 @@
       "name_cn": "勇者特急",
       "tags": [
         "1993",
-        "1993冬",
+        "1993年1月",
         "90",
         "90s",
         "90年代",
@@ -607,17 +628,17 @@
         "TV",
         "TVB",
         "robo",
-        "あみやまさはる",
+        "¬",
         "サンライズ",
-        "中村大樹",
+        "ロボットアニメ",
+        "动画",
         "勇者シリーズ",
         "勇者急先锋",
         "勇者系列",
         "原创",
         "合体",
         "小山高生",
-        "待補1",
-        "旧物",
+        "日本",
         "旧番",
         "机战",
         "桧山修之",
@@ -663,12 +684,16 @@
           "value": "1994年1月22日"
         },
         {
-          "key": "原作",
-          "value": "矢立肇"
-        },
-        {
           "key": "导演",
           "value": "高松信司"
+        },
+        {
+          "key": "音乐",
+          "value": "工藤隆"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇"
         },
         {
           "key": "人物设定",
@@ -677,10 +702,6 @@
         {
           "key": "机械设定",
           "value": "大河原邦男"
-        },
-        {
-          "key": "音乐",
-          "value": "工藤隆"
         },
         {
           "key": "动画制作",
@@ -710,6 +731,10 @@
       "total_episodes": 47,
       "id": 37248,
       "eps": 47,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -900,6 +925,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/f0/445953_xVjX7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/f0/445953_xVjX7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/f0/445953_xVjX7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/f0/445953_xVjX7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/f0/445953_xVjX7.jpg"
+          },
+          "name": "勇者宇宙ソーグレーダー",
+          "name_cn": "勇者宇宙剑奎达",
+          "relation": "书籍",
+          "type": 1,
+          "id": 445953
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
@@ -948,7 +987,6 @@
       "tags": [
         "1993",
         "OVA",
-        "OVA-01",
         "东映",
         "假面骑士",
         "日本",
@@ -1006,6 +1044,9 @@
       "total_episodes": 1,
       "id": 48352,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

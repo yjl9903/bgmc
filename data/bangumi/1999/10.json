@@ -24,13 +24,13 @@
         "PIECE",
         "TV",
         "东映",
-        "东映动画",
         "冒险",
         "動畫",
         "奇幻",
         "尾田榮一郎",
         "战斗",
         "搞笑",
+        "日本",
         "東映アニメーション",
         "梦想",
         "民工",
@@ -132,57 +132,23 @@
           "value": "森佳祐、志田直俊、太田晃博、林祐己、馬越嘉彦、Vincent Chansard、石塚勝海、涂泳策、谭钧文、大西亮、渡邊巧大、小島崇史、杉田柊、三木達也、前並武志、西野武志、黒崎隼人、高嶋宏之、藤沢研一、山本健、橋本敬史、小澤和則、重次創太、渡部尭皓、Bahi JD、Chris、Rondeseo、Mitchell Gonzales、Vercreek、FASTO、史涓生、羊廷牧、孙猛、章超、鴨川浩、小松英司、新井淳、高瀬健一、杉薗朗子、楡木哲郎、荒平隆晴、冨田与四一、小泉昇、東出太、椅子汰、前田義宏、すて、おだし、すしお、堀尾鉱、古川博之、神谷智大"
         }
       ],
-      "total_episodes": 1160,
+      "total_episodes": 1162,
       "id": 975,
       "eps": 0,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗",
+        "冒险",
+        "少年向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/9a/1867_jn0NB.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/9a/1867_jn0NB.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a1/9a/1867_jn0NB.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/9a/1867_jn0NB.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/9a/1867_jn0NB.jpg"
-          },
-          "name": "ONE PIECE 倒せ!海賊ギャンザック",
-          "name_cn": "海贼王 打倒海贼强萨克！",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 1867
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/c8/1999_Z5sW5.jpg"
-          },
-          "name": "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
-          "name_cn": "海贼王 沙漠的王女与海贼们",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 1999
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/f9/2000_UkduK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/f9/2000_UkduK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/08/f9/2000_UkduK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/f9/2000_UkduK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/f9/2000_UkduK.jpg"
-          },
-          "name": "ONE PIECE THE MOVIE エピソードオブチョッパー 冬に咲く、奇跡の桜",
-          "name_cn": "海贼王 绽放在寒冬的奇迹樱花",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 2000
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/e1/3510_pWiY9.jpg",
@@ -238,20 +204,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 8747
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/69/20523_ObMG5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/69/20523_ObMG5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/22/69/20523_ObMG5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/69/20523_ObMG5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/69/20523_ObMG5.jpg"
-          },
-          "name": "ONE PIECE 3D 麦わらチェイス",
-          "name_cn": "海贼王 追寻草帽",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 20523
         },
         {
           "images": {
@@ -1039,20 +991,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/74/162045_IJe5R.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/74/162045_IJe5R.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a3/74/162045_IJe5R.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/74/162045_IJe5R.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/74/162045_IJe5R.jpg"
-          },
-          "name": "SERENA×ONE PIECE 潜入!!サウザンド・サニー号",
-          "name_cn": "海贼王 潜入!!千里阳光号",
-          "relation": "衍生",
-          "type": 2,
-          "id": 162045
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/43/7c/168276_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/43/7c/168276_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/43/7c/168276_jp.jpg",
@@ -1116,7 +1054,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/26/219775_N5l3H.jpg"
           },
           "name": "One Piece",
-          "name_cn": "海贼王",
+          "name_cn": "航海王",
           "relation": "不同演绎",
           "type": 6,
           "id": 219775
@@ -1137,20 +1075,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/81/256278_6WDq6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/81/256278_6WDq6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/94/81/256278_6WDq6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/81/256278_6WDq6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/81/256278_6WDq6.jpg"
-          },
-          "name": "ONE PIECE エピソードオブ 空島",
-          "name_cn": "海贼王SP空岛篇",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 256278
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/f4/282086_68668.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/f4/282086_68668.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b5/f4/282086_68668.jpg",
@@ -1162,20 +1086,6 @@
           "relation": "其他",
           "type": 3,
           "id": 282086
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/76/285391_ci3wo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/76/285391_ci3wo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/81/76/285391_ci3wo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/76/285391_ci3wo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/76/285391_ci3wo.jpg"
-          },
-          "name": "HUNGRY DAYS 2019",
-          "name_cn": "",
-          "relation": "角色出演",
-          "type": 2,
-          "id": 285391
         },
         {
           "images": {
@@ -1204,20 +1114,6 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 357954
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/60/358803_Ww6Ip.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/60/358803_Ww6Ip.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/60/358803_Ww6Ip.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/60/358803_Ww6Ip.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/60/358803_Ww6Ip.jpg"
-          },
-          "name": "ONE PIECE FILM RED",
-          "name_cn": "海贼王 红发歌姬",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 358803
         },
         {
           "images": {
@@ -1277,20 +1173,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/db/446475_QAvh9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/db/446475_QAvh9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0a/db/446475_QAvh9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/db/446475_QAvh9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/db/446475_QAvh9.jpg"
-          },
-          "name": "MONSTERS 一百三情飛龍侍極",
-          "name_cn": "怪兽 一百三情飞龙侍极",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 446475
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/9d/455509_wW26D.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/9d/455509_wW26D.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c6/9d/455509_wW26D.jpg",
@@ -1302,20 +1184,6 @@
           "relation": "原声集",
           "type": 3,
           "id": 455509
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/40/470667_072Tl.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/40/470667_072Tl.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/77/40/470667_072Tl.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/40/470667_072Tl.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/40/470667_072Tl.jpg"
-          },
-          "name": "THE ONE PIECE",
-          "name_cn": "海贼王 重制版",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 470667
         },
         {
           "images": {
@@ -1358,6 +1226,48 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 511678
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e3/37/518603_AdqjY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e3/37/518603_AdqjY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e3/37/518603_AdqjY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e3/37/518603_AdqjY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e3/37/518603_AdqjY.jpg"
+          },
+          "name": "ONE PIECE 魚人島編",
+          "name_cn": "航海王：鱼人岛篇特别编辑版",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 518603
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f5/70/529272_9vFqV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f5/70/529272_9vFqV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f5/70/529272_9vFqV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f5/70/529272_9vFqV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f5/70/529272_9vFqV.jpg"
+          },
+          "name": "麦わらスペース",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 529272
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/c6/1869_ED6fo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/c6/1869_ED6fo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/c6/1869_ED6fo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/c6/1869_ED6fo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/c6/1869_ED6fo.jpg"
+          },
+          "name": "ONE PIECE the movie",
+          "name_cn": "航海王：黄金岛大冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 1869
         },
         {
           "images": {
@@ -1431,6 +1341,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/8f/1871_gPKk7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/8f/1871_gPKk7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fb/8f/1871_gPKk7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/8f/1871_gPKk7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/8f/1871_gPKk7.jpg"
+          },
+          "name": "ONE PIECE ねじまき島の冒険",
+          "name_cn": "航海王：发条岛的冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 1871
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/16/39213_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/16/39213_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/5c/16/39213_jp.jpg",
@@ -1473,20 +1397,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/b0/144666_iyLUQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/b0/144666_iyLUQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b7/b0/144666_iyLUQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/b0/144666_iyLUQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b0/144666_iyLUQ.jpg"
-          },
-          "name": "ONE PIECE ROMANCE DAWN STORY",
-          "name_cn": "海贼王 ROMANCE DAWN STORY",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 144666
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/a3/182830_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/a3/182830_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/99/a3/182830_jp.jpg",
@@ -1512,6 +1422,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 227003
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/4e/1901_A9Hdi.jpg"
+          },
+          "name": "ONE PIECE 珍獣島のチョッパー王国",
+          "name_cn": "航海王：珍兽岛的乔巴王国",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 1901
         },
         {
           "images": {
@@ -1543,20 +1467,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/d9/162046_XTYP0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/d9/162046_XTYP0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dd/d9/162046_XTYP0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/d9/162046_XTYP0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/d9/162046_XTYP0.jpg"
-          },
-          "name": "ONE PIECE グランドラインの冒険",
-          "name_cn": "海贼王 接地线的冒险",
-          "relation": "衍生",
-          "type": 2,
-          "id": 162046
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/a6/182831_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/a6/182831_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/68/a6/182831_jp.jpg",
@@ -1582,6 +1492,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 226998
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/15/1904_8VSH3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/15/1904_8VSH3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c9/15/1904_8VSH3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/15/1904_8VSH3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/15/1904_8VSH3.jpg"
+          },
+          "name": "ONE PIECE THE MOVIE デッドエンドの冒険",
+          "name_cn": "航海王：死亡尽头大冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 1904
         },
         {
           "images": {
@@ -1613,20 +1537,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/40/162047_Z9fxt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/40/162047_Z9fxt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e9/40/162047_Z9fxt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/40/162047_Z9fxt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/40/162047_Z9fxt.jpg"
-          },
-          "name": "ONE PIECE 3D 激走!トラップコースター",
-          "name_cn": "海贼王 3D 激走！陷阱过山车",
-          "relation": "衍生",
-          "type": 2,
-          "id": 162047
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/8a/c0/182832_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8a/c0/182832_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/8a/c0/182832_jp.jpg",
@@ -1655,17 +1565,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/c6/1869_ED6fo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/c6/1869_ED6fo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/68/c6/1869_ED6fo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/c6/1869_ED6fo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/c6/1869_ED6fo.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/51/1990_IlfkD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/51/1990_IlfkD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dc/51/1990_IlfkD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/51/1990_IlfkD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/51/1990_IlfkD.jpg"
           },
-          "name": "ONE PIECE the movie",
-          "name_cn": "海贼王 黄金岛大冒险",
+          "name": "ONE PIECE 呪われた聖剣",
+          "name_cn": "航海王：被诅咒的圣剑",
           "relation": "番外篇",
           "type": 2,
-          "id": 1869
+          "id": 1990
         },
         {
           "images": {
@@ -1711,17 +1621,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/8f/1871_gPKk7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/8f/1871_gPKk7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fb/8f/1871_gPKk7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/8f/1871_gPKk7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/8f/1871_gPKk7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/96/05/1991_Q3u7m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/96/05/1991_Q3u7m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/96/05/1991_Q3u7m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/05/1991_Q3u7m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/05/1991_Q3u7m.jpg"
           },
-          "name": "ONE PIECE ねじまき島の冒険",
-          "name_cn": "海贼王 发条岛的冒险",
+          "name": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
+          "name_cn": "航海王：祭典男爵与神秘岛",
           "relation": "番外篇",
           "type": 2,
-          "id": 1871
+          "id": 1991
         },
         {
           "images": {
@@ -1767,17 +1677,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/d1/144667_6KceA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/d1/144667_6KceA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d1/d1/144667_6KceA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/d1/144667_6KceA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/d1/144667_6KceA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3f/08/1995_69SFs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3f/08/1995_69SFs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3f/08/1995_69SFs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3f/08/1995_69SFs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3f/08/1995_69SFs.jpg"
           },
-          "name": "ジャンゴのダンスカーニバル",
-          "name_cn": "海贼王 赞高的狂欢舞会",
-          "relation": "衍生",
+          "name": "ONE PIECE  THE MOVIE カラクリ城のメカ巨兵",
+          "name_cn": "航海王：机关城的钢铁巨兵",
+          "relation": "番外篇",
           "type": 2,
-          "id": 144667
+          "id": 1995
         },
         {
           "images": {
@@ -1809,17 +1719,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/4e/1901_A9Hdi.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/c8/1999_Z5sW5.jpg"
           },
-          "name": "ONE PIECE 珍獣島のチョッパー王国",
-          "name_cn": "海贼王 珍兽岛之乔巴王国",
-          "relation": "番外篇",
+          "name": "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
+          "name_cn": "航海王：阿拉巴斯坦战记 沙漠王女与海盗们",
+          "relation": "总集篇",
           "type": 2,
-          "id": 1901
+          "id": 1999
         },
         {
           "images": {
@@ -1865,6 +1775,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/f9/2000_UkduK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/f9/2000_UkduK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/08/f9/2000_UkduK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/f9/2000_UkduK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/f9/2000_UkduK.jpg"
+          },
+          "name": "ONE PIECE THE MOVIE エピソードオブチョッパー 冬に咲く、奇跡の桜",
+          "name_cn": "航海王：乔巴身世之谜 冬季绽放、奇迹的樱花",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 2000
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/21/62240_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/21/62240_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/74/21/62240_jp.jpg",
@@ -1876,20 +1800,6 @@
           "relation": "片头曲",
           "type": 3,
           "id": 62240
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/cb/144671_dBTZ4.jpg"
-          },
-          "name": "ONE PIECE 夢のサッカー王!",
-          "name_cn": "海贼王 梦幻足球王",
-          "relation": "衍生",
-          "type": 2,
-          "id": 144671
         },
         {
           "images": {
@@ -1921,17 +1831,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/15/1904_8VSH3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/15/1904_8VSH3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c9/15/1904_8VSH3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/15/1904_8VSH3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/15/1904_8VSH3.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/c6/2462_F24sN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/c6/2462_F24sN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/10/c6/2462_F24sN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/c6/2462_F24sN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/c6/2462_F24sN.jpg"
           },
-          "name": "ONE PIECE THE MOVIE デッドエンドの冒険",
-          "name_cn": "海贼王  死亡尽头的冒险",
+          "name": "ONE PIECE FILM STRONG WORLD",
+          "name_cn": "航海王：强者天下",
           "relation": "番外篇",
           "type": 2,
-          "id": 1904
+          "id": 2462
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1b/9e/5393_EbO9N.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1b/9e/5393_EbO9N.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1b/9e/5393_EbO9N.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1b/9e/5393_EbO9N.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1b/9e/5393_EbO9N.jpg"
+          },
+          "name": "ONE PIECE FILM STRONG WORLD EPISODE:0",
+          "name_cn": "航海王：强者天下 前传",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 5393
         },
         {
           "images": {
@@ -1949,17 +1873,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/51/1990_IlfkD.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/51/1990_IlfkD.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dc/51/1990_IlfkD.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/51/1990_IlfkD.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/51/1990_IlfkD.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/69/20523_ObMG5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/69/20523_ObMG5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/22/69/20523_ObMG5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/69/20523_ObMG5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/69/20523_ObMG5.jpg"
           },
-          "name": "ONE PIECE 呪われた聖剣",
-          "name_cn": "海贼王 被诅咒的圣剑",
+          "name": "ONE PIECE 3D 麦わらチェイス",
+          "name_cn": "航海王3D：追逐草帽大冒险",
           "relation": "番外篇",
           "type": 2,
-          "id": 1990
+          "id": 20523
         },
         {
           "images": {
@@ -1991,6 +1915,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/b7/50513_7gvve.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/b7/50513_7gvve.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/62/b7/50513_7gvve.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/b7/50513_7gvve.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/b7/50513_7gvve.jpg"
+          },
+          "name": "ONE PIECE FILM Z",
+          "name_cn": "航海王：Z",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 50513
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/8a/59974_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/8a/59974_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/cc/8a/59974_jp.jpg",
@@ -2002,20 +1940,6 @@
           "relation": "片头曲",
           "type": 3,
           "id": 59974
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/c2/162049_k3hhh.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/c2/162049_k3hhh.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/19/c2/162049_k3hhh.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/c2/162049_k3hhh.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/c2/162049_k3hhh.jpg"
-          },
-          "name": "ONE PIECE めざせ!海賊野球王",
-          "name_cn": "海贼王 目标 海贼棒球王",
-          "relation": "衍生",
-          "type": 2,
-          "id": 162049
         },
         {
           "images": {
@@ -2033,20 +1957,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/96/05/1991_Q3u7m.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/96/05/1991_Q3u7m.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/96/05/1991_Q3u7m.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/05/1991_Q3u7m.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/05/1991_Q3u7m.jpg"
-          },
-          "name": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
-          "name_cn": "海贼王 祭典男爵与神秘岛",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 1991
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/91/11232_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/91/11232_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c2/91/11232_jp.jpg",
@@ -2061,6 +1971,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/41/144846_7m1u8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/41/144846_7m1u8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/41/144846_7m1u8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/41/144846_7m1u8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/41/144846_7m1u8.jpg"
+          },
+          "name": "ONE PIECE FILM GOLD",
+          "name_cn": "航海王之黄金城",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 144846
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/3d/244957_Q9T1q.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/3d/244957_Q9T1q.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b1/3d/244957_Q9T1q.jpg",
@@ -2072,20 +1996,6 @@
           "relation": "角色歌",
           "type": 3,
           "id": 244957
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3f/08/1995_69SFs.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3f/08/1995_69SFs.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3f/08/1995_69SFs.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3f/08/1995_69SFs.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3f/08/1995_69SFs.jpg"
-          },
-          "name": "ONE PIECE  THE MOVIE カラクリ城のメカ巨兵",
-          "name_cn": "海贼王 机关城的机械巨兵",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 1995
         },
         {
           "images": {
@@ -2114,6 +2024,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 245114
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/1d/258349_bDAVd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/1d/258349_bDAVd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/1d/258349_bDAVd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/1d/258349_bDAVd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/1d/258349_bDAVd.jpg"
+          },
+          "name": "ONE PIECE STAMPEDE",
+          "name_cn": "航海王：狂热行动",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 258349
         },
         {
           "images": {
@@ -2159,6 +2083,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/60/358803_Ww6Ip.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/60/358803_Ww6Ip.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/60/358803_Ww6Ip.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/60/358803_Ww6Ip.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/60/358803_Ww6Ip.jpg"
+          },
+          "name": "ONE PIECE FILM RED",
+          "name_cn": "航海王：红发歌姬",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 358803
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/25/60900_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/25/60900_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/38/25/60900_jp.jpg",
@@ -2201,20 +2139,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1b/9e/5393_EbO9N.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1b/9e/5393_EbO9N.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1b/9e/5393_EbO9N.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1b/9e/5393_EbO9N.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1b/9e/5393_EbO9N.jpg"
-          },
-          "name": "ONE PIECE FILM STRONG WORLD EPISODE:0",
-          "name_cn": "海贼王 强者世界 前传",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 5393
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/ba/60694_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/ba/60694_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/36/ba/60694_jp.jpg",
@@ -2254,20 +2178,6 @@
           "relation": "角色歌",
           "type": 3,
           "id": 245117
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/c6/2462_F24sN.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/c6/2462_F24sN.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/10/c6/2462_F24sN.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/c6/2462_F24sN.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/c6/2462_F24sN.jpg"
-          },
-          "name": "ONE PIECE FILM STRONG WORLD",
-          "name_cn": "海贼王 强者世界",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 2462
         },
         {
           "images": {
@@ -2369,17 +2279,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/b7/50513_7gvve.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/b7/50513_7gvve.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/62/b7/50513_7gvve.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/b7/50513_7gvve.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/b7/50513_7gvve.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/97/90799_S8B6N.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/97/90799_S8B6N.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/97/90799_S8B6N.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/97/90799_S8B6N.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/97/90799_S8B6N.jpg"
           },
-          "name": "ONE PIECE FILM Z",
-          "name_cn": "海贼王 Z",
+          "name": "ONE PIECE ルフィ落下! 秘境・海のヘソの大冒険",
+          "name_cn": "航海王：海肚脐大冒险",
           "relation": "番外篇",
           "type": 2,
-          "id": 50513
+          "id": 90799
         },
         {
           "images": {
@@ -2397,17 +2307,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/41/144846_7m1u8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/41/144846_7m1u8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/41/144846_7m1u8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/41/144846_7m1u8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/41/144846_7m1u8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/7f/144665_1FFLG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/7f/144665_1FFLG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bc/7f/144665_1FFLG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/7f/144665_1FFLG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/7f/144665_1FFLG.jpg"
           },
-          "name": "ONE PIECE FILM GOLD",
-          "name_cn": "海贼王 黄金城",
+          "name": "ONE PIECE 大海原にひらけ! でっかいでっカイ父の夢",
+          "name_cn": "航海王：奔向大海原！父亲伟大的梦想",
           "relation": "番外篇",
           "type": 2,
-          "id": 144846
+          "id": 144665
         },
         {
           "images": {
@@ -2425,17 +2335,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/71/90390_NozV7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/71/90390_NozV7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/07/71/90390_NozV7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/71/90390_NozV7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/71/90390_NozV7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/1c/90789_XrzUu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/1c/90789_XrzUu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/1c/90789_XrzUu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/1c/90789_XrzUu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/1c/90789_XrzUu.jpg"
           },
-          "name": "ONE PIECE エピソードオブナミ 〜航海士の涙と仲間の絆〜",
-          "name_cn": "海贼王 奈美特别篇 领航员之泪与伙伴的羁绊",
-          "relation": "总集篇",
+          "name": "ONE PIECE 守れ! 最後の大舞台",
+          "name_cn": "航海王：坚守最后的大舞台",
+          "relation": "番外篇",
           "type": 2,
-          "id": 90390
+          "id": 90789
         },
         {
           "images": {
@@ -2453,17 +2363,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/72/90391_GOA4Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/72/90391_GOA4Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/aa/72/90391_GOA4Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/72/90391_GOA4Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/72/90391_GOA4Z.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/11/90795_D0BUY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/11/90795_D0BUY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/11/90795_D0BUY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/11/90795_D0BUY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/11/90795_D0BUY.jpg"
           },
-          "name": "ONE PIECE エピソードオブルフィ 〜ハンドアイランドの冒険〜",
-          "name_cn": "海贼王 路飞特别篇 手掌岛的冒险",
-          "relation": "总集篇",
+          "name": "ワンピース時代劇 年末特別企画! 麦わらのルフィ親分捕物帖",
+          "name_cn": "航海王：路飞捕头传",
+          "relation": "不同世界观",
           "type": 2,
-          "id": 90391
+          "id": 90795
         },
         {
           "images": {
@@ -2481,17 +2391,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/79/90792_Vfs42.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/79/90792_Vfs42.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7c/79/90792_Vfs42.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/79/90792_Vfs42.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/79/90792_Vfs42.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/71/90390_NozV7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/71/90390_NozV7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/07/71/90390_NozV7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/71/90390_NozV7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/71/90390_NozV7.jpg"
           },
-          "name": "ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜",
-          "name_cn": "海贼王 梅利特别篇 另一位伙伴的故事",
+          "name": "ONE PIECE エピソードオブナミ 〜航海士の涙と仲間の絆〜",
+          "name_cn": "航海王：奈美之章～领航员之泪与伙伴的羁绊〜",
           "relation": "总集篇",
           "type": 2,
-          "id": 90792
+          "id": 90390
         },
         {
           "images": {
@@ -2509,17 +2419,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/fb/110526_7R9ZJ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/72/90391_GOA4Z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/72/90391_GOA4Z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/aa/72/90391_GOA4Z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/72/90391_GOA4Z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/72/90391_GOA4Z.jpg"
           },
-          "name": "ONE PIECE “3D2Y” エースの死を越えて! ルフィ仲間との誓い",
-          "name_cn": "海贼王3D2Y 跨越艾斯之死！与路飞伙伴的誓言",
+          "name": "ONE PIECE エピソードオブルフィ 〜ハンドアイランドの冒険〜",
+          "name_cn": "航海王：路飞之章～手掌岛的冒险〜",
           "relation": "总集篇",
           "type": 2,
-          "id": 110526
+          "id": 90391
         },
         {
           "images": {
@@ -2537,6 +2447,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/79/90792_Vfs42.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/79/90792_Vfs42.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7c/79/90792_Vfs42.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/79/90792_Vfs42.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/79/90792_Vfs42.jpg"
+          },
+          "name": "ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜",
+          "name_cn": "航海王：黄金梅利号之章 另一位伙伴的故事",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 90792
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/fb/110526_7R9ZJ.jpg"
+          },
+          "name": "ONE PIECE “3D2Y” エースの死を越えて! ルフィ仲間との誓い",
+          "name_cn": "航海王：跨越艾斯之死！路飞与伙伴的誓约",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 110526
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/48/137580_qD4JZ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/48/137580_qD4JZ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/35/48/137580_qD4JZ.jpg",
@@ -2544,7 +2482,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/48/137580_qD4JZ.jpg"
           },
           "name": "ONE PIECE エピソードオブサボ 〜3兄弟の絆 奇跡の再会と受け継がれる意志〜",
-          "name_cn": "海贼王 萨波特别篇 三兄弟的羁绊 奇迹的再会和被继承的意志",
+          "name_cn": "航海王：萨波特别篇 〜3兄弟的羁绊 奇迹的再会和被继承的意志〜",
           "relation": "总集篇",
           "type": 2,
           "id": 137580
@@ -2558,7 +2496,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/6e/154112_qz22E.jpg"
           },
           "name": "ONE PIECE 〜アドベンチャー オブ ネブランディア〜",
-          "name_cn": "海贼王 特别篇 雾之岛的冒险",
+          "name_cn": "航海王：迷雾岛大冒险",
           "relation": "总集篇",
           "type": 2,
           "id": 154112
@@ -2571,8 +2509,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/82/183591_pWvJs.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/82/183591_pWvJs.jpg"
           },
-          "name": "ONE PIECE～HEART of GOLD～",
-          "name_cn": "海贼王 特别篇 黄金之心",
+          "name": "ONE PIECE 〜HEART of GOLD〜",
+          "name_cn": "航海王：黄金之心",
           "relation": "总集篇",
           "type": 2,
           "id": 183591
@@ -2585,11 +2523,109 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/f0/217886_7brrA.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/f0/217886_7brrA.jpg"
           },
-          "name": "ONE PIECE エピソードオブ東の海～ルフィと4人の仲間の大冒険!!～",
-          "name_cn": "海贼王 东海特别篇 路飞与四位伙伴的大冒险！！",
+          "name": "ONE PIECE エピソードオブ東の海〜ルフィと4人の仲間の大冒険！！〜",
+          "name_cn": "航海王：东海篇～路飞与四名伙伴的大冒险～",
           "relation": "总集篇",
           "type": 2,
           "id": 217886
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/81/256278_6WDq6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/81/256278_6WDq6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/94/81/256278_6WDq6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/81/256278_6WDq6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/81/256278_6WDq6.jpg"
+          },
+          "name": "ONE PIECE エピソードオブ 空島",
+          "name_cn": "航海王：空岛篇",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 256278
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/42/518519_DMDo8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/be/42/518519_DMDo8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/be/42/518519_DMDo8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/be/42/518519_DMDo8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/be/42/518519_DMDo8.jpg"
+          },
+          "name": "ONE PIECE FAN LETTER",
+          "name_cn": "航海王：粉丝来信",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 518519
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/d1/144667_6KceA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/d1/144667_6KceA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/d1/144667_6KceA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/d1/144667_6KceA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/d1/144667_6KceA.jpg"
+          },
+          "name": "ONE PIECE ジャンゴのダンスカーニバル",
+          "name_cn": "航海王：强高的狂欢舞会",
+          "relation": "衍生",
+          "type": 2,
+          "id": 144667
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/cb/144671_dBTZ4.jpg"
+          },
+          "name": "ONE PIECE 夢のサッカー王!",
+          "name_cn": "航海王：梦幻足球王",
+          "relation": "衍生",
+          "type": 2,
+          "id": 144671
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/c2/162049_k3hhh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/c2/162049_k3hhh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/19/c2/162049_k3hhh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/c2/162049_k3hhh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/c2/162049_k3hhh.jpg"
+          },
+          "name": "ONE PIECE めざせ!海賊野球王",
+          "name_cn": "航海王：目标！海贼棒球王",
+          "relation": "衍生",
+          "type": 2,
+          "id": 162049
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/d9/162046_XTYP0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/d9/162046_XTYP0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/d9/162046_XTYP0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/d9/162046_XTYP0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/d9/162046_XTYP0.jpg"
+          },
+          "name": "ONE PIECE グランドラインの冒険",
+          "name_cn": "航海王：接地线的冒险",
+          "relation": "衍生",
+          "type": 2,
+          "id": 162046
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/40/162047_Z9fxt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/40/162047_Z9fxt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e9/40/162047_Z9fxt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/40/162047_Z9fxt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/40/162047_Z9fxt.jpg"
+          },
+          "name": "ONE PIECE 3D 激走!トラップコースター",
+          "name_cn": "航海王3D：激走！陷阱过山车",
+          "relation": "衍生",
+          "type": 2,
+          "id": 162047
         },
         {
           "images": {
@@ -2600,7 +2636,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/07/162043_7BXsj.jpg"
           },
           "name": "ONE PIECE 〜宇宙っておっもしれえ! 星空島編〜",
-          "name_cn": "海贼王 宇宙！星空岛编",
+          "name_cn": "航海王：宇宙！星空岛编",
           "relation": "衍生",
           "type": 2,
           "id": 162043
@@ -2614,80 +2650,94 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/e8/162044_TEx09.jpg"
           },
           "name": "ONE PIECE THE PLANETARIUM",
-          "name_cn": "海贼王 星空下的伟大航道",
+          "name_cn": "航海王：星空下的伟大航道",
           "relation": "衍生",
           "type": 2,
           "id": 162044
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/97/90799_S8B6N.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/97/90799_S8B6N.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/21/97/90799_S8B6N.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/97/90799_S8B6N.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/97/90799_S8B6N.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/74/162045_IJe5R.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/74/162045_IJe5R.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a3/74/162045_IJe5R.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/74/162045_IJe5R.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/74/162045_IJe5R.jpg"
           },
-          "name": "ONE PIECE ルフィ落下! 秘境・海のヘソの大冒険",
-          "name_cn": "海贼王 路飞落下！秘境 海肚脐的大冒险",
-          "relation": "番外篇",
+          "name": "SERENA×ONE PIECE 潜入!!サウザンド・サニー号",
+          "name_cn": "航海王：潜入！！千里阳光号",
+          "relation": "衍生",
           "type": 2,
-          "id": 90799
+          "id": 162045
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/7f/144665_1FFLG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/7f/144665_1FFLG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bc/7f/144665_1FFLG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/7f/144665_1FFLG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/7f/144665_1FFLG.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/9a/1867_jn0NB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/9a/1867_jn0NB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/9a/1867_jn0NB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/9a/1867_jn0NB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/9a/1867_jn0NB.jpg"
           },
-          "name": "ONE PIECE 大海原にひらけ! でっかいでっカイ父の夢",
-          "name_cn": "海贼王 父亲宏大的理想",
-          "relation": "番外篇",
+          "name": "ONE PIECE 倒せ!海賊ギャンザック",
+          "name_cn": "航海王：打倒！海贼强萨克！",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 144665
+          "id": 1867
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/1c/90789_XrzUu.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/1c/90789_XrzUu.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bf/1c/90789_XrzUu.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/1c/90789_XrzUu.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/1c/90789_XrzUu.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/b0/144666_2RTHX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/b0/144666_2RTHX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b7/b0/144666_2RTHX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/b0/144666_2RTHX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b0/144666_2RTHX.jpg"
           },
-          "name": "ONE PIECE 守れ! 最後の大舞台",
-          "name_cn": "海贼王 守护最后的大舞台",
-          "relation": "番外篇",
+          "name": "ONE PIECE ROMANCE DAWN STORY",
+          "name_cn": "航海王：ROMANCE DAWN STORY",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 90789
+          "id": 144666
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/11/90795_lyryC.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/11/90795_lyryC.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/11/90795_lyryC.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/11/90795_lyryC.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/11/90795_lyryC.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/40/470667_072Tl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/40/470667_072Tl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/40/470667_072Tl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/40/470667_072Tl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/40/470667_072Tl.jpg"
           },
-          "name": "ワンピース時代劇 年末特別企画! 麦わらのルフィ親分捕物帖",
-          "name_cn": "海贼王时代剧 年底特别企画! 草帽小子路飞的捕头传",
-          "relation": "不同世界观",
+          "name": "THE ONE PIECE",
+          "name_cn": "航海王 重制版",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 90795
+          "id": 470667
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/1d/258349_bDAVd.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/1d/258349_bDAVd.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ff/1d/258349_bDAVd.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/1d/258349_bDAVd.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/1d/258349_bDAVd.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/db/446475_QAvh9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/db/446475_QAvh9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0a/db/446475_QAvh9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/db/446475_QAvh9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/db/446475_QAvh9.jpg"
           },
-          "name": "ONE PIECE STAMPEDE",
-          "name_cn": "海贼王 狂热行动",
-          "relation": "番外篇",
+          "name": "MONSTERS 一百三情飛龍侍極",
+          "name_cn": "怪兽 一百三情飞龙侍极",
+          "relation": "相同世界观",
           "type": 2,
-          "id": 258349
+          "id": 446475
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/76/285391_ci3wo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/76/285391_ci3wo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/81/76/285391_ci3wo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/76/285391_ci3wo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/76/285391_ci3wo.jpg"
+          },
+          "name": "HUNGRY DAYS 2019",
+          "name_cn": "",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 285391
         }
       ]
     }
@@ -2781,12 +2831,12 @@
           "value": "2001年3月31日"
         },
         {
-          "key": "原作",
-          "value": "冨樫義博"
-        },
-        {
           "key": "导演",
           "value": "古橋一浩"
+        },
+        {
+          "key": "原作",
+          "value": "冨樫義博"
         },
         {
           "key": "剪辑",
@@ -2816,6 +2866,12 @@
       "total_episodes": 62,
       "id": 1704,
       "eps": 62,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "冒险"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2950,11 +3006,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/07/24596_n7QUu.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/07/24596_n7QUu.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d3/07/24596_n7QUu.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/07/24596_n7QUu.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/07/24596_n7QUu.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/07/24596_6KAf6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/07/24596_6KAf6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/07/24596_6KAf6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/07/24596_6KAf6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/07/24596_6KAf6.jpg"
           },
           "name": "HUNTER×HUNTER",
           "name_cn": "猎人",
@@ -3196,20 +3252,24 @@
           "value": "テレビ東京系列"
         },
         {
-          "key": "Copyright",
-          "value": "©1999 SUNRISE INC."
-        },
-        {
           "key": "播放结束",
           "value": "2000年3月29日"
         },
         {
-          "key": "企画",
-          "value": "サンライズ"
+          "key": "导演",
+          "value": "谷口悟朗"
         },
         {
-          "key": "导演",
-          "value": "服部克久、"
+          "key": "音乐",
+          "value": "服部克久、M. I. D."
+        },
+        {
+          "key": "Copyright",
+          "value": "©1999 SUNRISE INC."
+        },
+        {
+          "key": "企画",
+          "value": "サンライズ"
         },
         {
           "key": "原案",
@@ -3250,10 +3310,6 @@
         {
           "key": "剪辑",
           "value": "森田編集室"
-        },
-        {
-          "key": "音乐",
-          "value": "M. I. D.谷口悟朗"
         },
         {
           "key": "音乐制作人",
@@ -3335,6 +3391,12 @@
       "total_episodes": 26,
       "id": 1937,
       "eps": 26,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3618,16 +3680,16 @@
           "value": "2000年1月21日"
         },
         {
+          "key": "导演",
+          "value": "政木伸一"
+        },
+        {
           "key": "Copyright",
           "value": "©しげの秀一/講談社  ウェッジリンク、オービー企画"
         },
         {
           "key": "原作",
           "value": "しげの秀一"
-        },
-        {
-          "key": "导演",
-          "value": "政木伸一"
         },
         {
           "key": "企画",
@@ -3661,6 +3723,11 @@
       "total_episodes": 13,
       "id": 9568,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3857,8 +3924,9 @@
       "tags": [
         "1990s",
         "1999",
-        "1999年",
         "1999年10月",
+        "2003",
+        "90s",
         "90年代",
         "Andriod",
         "SF",
@@ -3874,12 +3942,11 @@
         "原创",
         "大圈",
         "小中千昭",
+        "战斗",
         "日本",
-        "日本动画",
         "机器人",
         "机战",
         "片山一良",
-        "矢島晶子",
         "科幻",
         "美式风格",
         "萝卜",
@@ -4049,6 +4116,12 @@
       "total_episodes": 26,
       "id": 697,
       "eps": 26,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4364,11 +4437,11 @@
         "科幻",
         "童年",
         "童年回憶",
-        "童年系列",
         "经典",
         "超级小黑咪",
         "这猫好嘈",
         "酷乐猫",
+        "长篇",
         "霹靂酷樂貓",
         "高本宣弘"
       ],
@@ -4404,16 +4477,20 @@
           "value": "2001年1月6日"
         },
         {
+          "key": "导演",
+          "value": "高本宣弘"
+        },
+        {
+          "key": "音乐",
+          "value": "若草恵、荒川敏行"
+        },
+        {
           "key": "原作",
           "value": "横内なおき"
         },
         {
           "key": "企画",
           "value": "パブリック&ベーシック"
-        },
-        {
-          "key": "导演",
-          "value": "高本宣弘"
         },
         {
           "key": "系列构成",
@@ -4440,10 +4517,6 @@
           "value": "沖野雅英、小林慎吾"
         },
         {
-          "key": "音乐",
-          "value": "若草恵、荒川敏行"
-        },
-        {
           "key": "音乐制作",
           "value": "イマジン"
         },
@@ -4463,6 +4536,11 @@
       "total_episodes": 72,
       "id": 13813,
       "eps": 66,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4547,12 +4625,13 @@
       "tags": [
         "1990s",
         "1999",
-        "90年代",
+        "1999年10月",
         "OLM",
         "TV",
         "TVA",
         "TVB",
         "井上喜久子",
+        "介错",
         "倉田雅世",
         "千羽由利子",
         "后宫",
@@ -4562,7 +4641,6 @@
         "废萌",
         "日本",
         "日本动画",
-        "柚木涼香",
         "榎本温子",
         "漫改",
         "漫画改",
@@ -4602,12 +4680,16 @@
           "value": "2000年4月4日"
         },
         {
-          "key": "原作",
-          "value": "介錯"
-        },
-        {
           "key": "导演",
           "value": "高橋ナオヒト"
+        },
+        {
+          "key": "音乐",
+          "value": "佐橋俊彦"
+        },
+        {
+          "key": "原作",
+          "value": "介錯"
         },
         {
           "key": "系列构成",
@@ -4634,10 +4716,6 @@
           "value": "渡辺淳"
         },
         {
-          "key": "音乐",
-          "value": "佐橋俊彦"
-        },
-        {
           "key": "音乐制作",
           "value": "サイトロン・アンド・アート"
         },
@@ -4653,6 +4731,11 @@
       "total_episodes": 31,
       "id": 4006,
       "eps": 28,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4817,6 +4900,11 @@
       "total_episodes": 13,
       "id": 4075,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4876,29 +4964,29 @@
         "90年代",
         "AIC",
         "SF",
+        "TOSHIBA_EMI",
         "TV",
         "TVA",
+        "robo",
         "ロボット",
+        "假科幻",
         "原创",
         "大畑晃一",
+        "抄美漫",
+        "日本",
         "日本动画",
+        "旧物",
+        "旧番",
         "末世",
-        "机战",
         "机甲",
         "桑岛法子",
         "桑島法子",
-        "消遣",
-        "烂",
-        "神作",
         "科幻",
         "经典",
         "萝卜",
         "蓜島邦明",
-        "虫孽",
         "补旧番",
         "补番",
-        "野島健児",
-        "長谷川勝己",
         "阿部雅司",
         "高桥良辅"
       ],
@@ -4946,6 +5034,10 @@
           "value": "大畑晃一"
         },
         {
+          "key": "音乐",
+          "value": "蓜島邦明"
+        },
+        {
           "key": "企画",
           "value": "藤田純二、三浦亨"
         },
@@ -4978,10 +5070,6 @@
           "value": "岩浪美和"
         },
         {
-          "key": "音乐",
-          "value": "蓜島邦明"
-        },
-        {
           "key": "音乐制作",
           "value": "蓜島邦明"
         },
@@ -4997,6 +5085,11 @@
       "total_episodes": 26,
       "id": 7075,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5055,6 +5148,7 @@
         "1999年10月",
         "A.P.P.P.",
         "TV",
+        "日本",
         "旧",
         "旧物",
         "旧番",
@@ -5100,6 +5194,10 @@
       "total_episodes": 24,
       "id": 79190,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5216,6 +5314,11 @@
       "total_episodes": 23,
       "id": 39065,
       "eps": 23,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5331,7 +5434,7 @@
         "新居昭乃",
         "日本",
         "日本动画",
-        "智斗推理",
+        "有空再補1",
         "東京ムービー",
         "松井仁之",
         "没看全",
@@ -5341,7 +5444,7 @@
         "緒方恵美",
         "绪方惠美",
         "补旧番",
-        "补番计划表"
+        "飯岡順一"
       ],
       "infobox": [
         {
@@ -5377,12 +5480,16 @@
           "value": "2000年3月31日"
         },
         {
-          "key": "原作",
-          "value": "写楽麿/小畑健"
-        },
-        {
           "key": "导演",
           "value": "まついひとゆき"
+        },
+        {
+          "key": "音乐",
+          "value": "都留教博/中村由利子"
+        },
+        {
+          "key": "原作",
+          "value": "写楽麿/小畑健"
         },
         {
           "key": "系列构成",
@@ -5413,10 +5520,6 @@
           "value": "小林克良"
         },
         {
-          "key": "音乐",
-          "value": "都留教博/中村由利子"
-        },
-        {
           "key": "动画制作",
           "value": "東京ムービー"
         },
@@ -5432,6 +5535,12 @@
       "total_episodes": 26,
       "id": 4040,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "推理",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5524,10 +5633,11 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/67/38/10422_MqW64.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/38/10422_MqW64.jpg"
       },
-      "summary": "首先这是一部试验动画，本上来说这部漫画是个超级无厘头疯狂飨宴，里面渗了很多大杂烩。在某方面来说很冷，在另一方面来说却是很热血。 \r\n　　最不能接受的就是能接受等的矛盾剧情，以阿库罗斯的理想─征服世界为主轴。女主角是做什么事都不经脑且贫穷的金发美少女─优秀和不知道什么时候会死随时缺氧的─哈雅。 \r\n　　优秀和哈雅为了阿库罗斯的理想，遵从著他们的最高领袖易路扒佐而于F县F市努力著。但F市的大变态博士蒲腐也为了保卫街市而组织了对等的团队。 \r\n　　所谓的EXCEL SAGA~照字面上翻就是冒险啦~本部呢~是位在于F县F市\r\n的地下水道中!可是呢~就是怕碰到大洪水~~因为是下水道所以淹水的情形相~当~的严重!P.S坐的台子有自动侦测水位并升高的功能……目前的短程目标是占领F县F市…… \r\n　　长程目标呢?当然是全世界啦! ",
+      "summary": "主角是秘密结社市街征服组织“阿库罗斯”的成员，为了达成易路扒左的理想，努力打工筹措征服世界的经费。 ",
       "name": "へっぽこ実験アニメーション エクセル♥サーガ",
       "name_cn": "迷糊女战士",
       "tags": [
+        "1990-1999",
         "1990s",
         "1999",
         "1999年",
@@ -5543,7 +5653,6 @@
         "喜剧",
         "大宇宙的大意志",
         "子安武人",
-        "实验",
         "恶搞",
         "搞笑",
         "无厘头",
@@ -5596,16 +5705,20 @@
           "value": "2000年3月31日"
         },
         {
+          "key": "导演",
+          "value": "ワタナベシンイチ"
+        },
+        {
+          "key": "音乐",
+          "value": "増田俊郎"
+        },
+        {
           "key": "Copyright",
           "value": "© 2000 六道神士・少年画報社／フライングドッグ"
         },
         {
           "key": "原作",
           "value": "六道神士（少年画報社「ヤングキングアワーズ」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "ワタナベシンイチ"
         },
         {
           "key": "系列构成",
@@ -5636,10 +5749,6 @@
           "value": "田中英行"
         },
         {
-          "key": "音乐",
-          "value": "増田俊郎"
-        },
-        {
           "key": "音乐制作",
           "value": "ビクターエンタテインメント"
         },
@@ -5655,6 +5764,11 @@
       "total_episodes": 26,
       "id": 10422,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5725,6 +5839,7 @@
       "tags": [
         "1999",
         "PIERROT",
+        "TV",
         "旧物"
       ],
       "infobox": [
@@ -5761,12 +5876,12 @@
           "value": "2000年3月21日"
         },
         {
-          "key": "原作",
-          "value": "赤塚不二夫"
-        },
-        {
           "key": "导演",
           "value": "伊達勇登"
+        },
+        {
+          "key": "原作",
+          "value": "赤塚不二夫"
         },
         {
           "key": "人物设定",
@@ -5788,6 +5903,11 @@
       "total_episodes": 24,
       "id": 258391,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5828,12 +5948,12 @@
       "name": "セラフィムコール",
       "name_cn": "六翼天使之声",
       "tags": [
+        "1990-1999",
         "1990s",
         "1999",
         "1999年",
         "1999年10月",
         "7分",
-        "90s",
         "90年代",
         "SF",
         "SUNRISE",
@@ -5845,8 +5965,8 @@
         "原创",
         "吉永尚之",
         "季番",
+        "实验",
         "实验动画",
-        "山本裕介",
         "川澄绫子",
         "日本",
         "日本动画",
@@ -6020,6 +6140,13 @@
       "total_episodes": 12,
       "id": 32164,
       "eps": 12,
+      "meta_tags": [
+        "科幻",
+        "百合",
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6326,6 +6453,7 @@
       "name": "地球防衛企業ダイ・ガード",
       "name_cn": "地球防卫企业",
       "tags": [
+        "1990-1999",
         "1999",
         "1999年10月",
         "7.1",
@@ -6335,8 +6463,7 @@
         "TV",
         "XEBEC",
         "robo",
-        "三木真一郞",
-        "上班族萝卜",
+        "三星",
         "伊藤健太郞",
         "会川升",
         "原创",
@@ -6347,12 +6474,12 @@
         "平松晶子",
         "广濑正志",
         "志茂文彦",
+        "日本",
         "日本动画",
         "机战",
         "水岛精二",
         "水島精二",
         "田中公平",
-        "田村",
         "科幻",
         "萝卜",
         "补番"
@@ -6391,12 +6518,16 @@
           "value": "2000年3月28日"
         },
         {
-          "key": "原作",
-          "value": "XEBEC（角川书店刊）"
-        },
-        {
           "key": "导演",
           "value": "水島精二"
+        },
+        {
+          "key": "音乐",
+          "value": "田中公平、川井憲次"
+        },
+        {
+          "key": "原作",
+          "value": "XEBEC（角川书店刊）"
         },
         {
           "key": "企画、制作人",
@@ -6443,10 +6574,6 @@
           "value": "Techno Sound"
         },
         {
-          "key": "音乐",
-          "value": "田中公平、川井憲次"
-        },
-        {
           "key": "音效",
           "value": "倉橋静男（SOUND BOX）"
         },
@@ -6478,6 +6605,11 @@
       "total_episodes": 26,
       "id": 32025,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6634,6 +6766,7 @@
         "1999年10月",
         "TV",
         "トランス・アーツ",
+        "日本",
         "日本动画",
         "旧物"
       ],
@@ -6670,6 +6803,10 @@
       "total_episodes": 26,
       "id": 67719,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6739,6 +6876,8 @@
       "name_cn": "知道吧！月光假面君",
       "tags": [
         "1999",
+        "TV",
+        "日本",
         "旧物",
         "旭一东京电影"
       ],
@@ -6772,16 +6911,16 @@
           "value": "2000年3月26日"
         },
         {
+          "key": "导演",
+          "value": "竹内啓雄"
+        },
+        {
           "key": "原作",
           "value": "川内康範"
         },
         {
           "key": "监修",
           "value": "川内康範"
-        },
-        {
-          "key": "导演",
-          "value": "竹内啓雄"
         },
         {
           "key": "分镜",
@@ -6823,6 +6962,10 @@
       "total_episodes": 25,
       "id": 98608,
       "eps": 25,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6871,13 +7014,13 @@
         "PIECE",
         "TV",
         "东映",
-        "东映动画",
         "冒险",
         "動畫",
         "奇幻",
         "尾田榮一郎",
         "战斗",
         "搞笑",
+        "日本",
         "東映アニメーション",
         "梦想",
         "民工",
@@ -6979,57 +7122,23 @@
           "value": "森佳祐、志田直俊、太田晃博、林祐己、馬越嘉彦、Vincent Chansard、石塚勝海、涂泳策、谭钧文、大西亮、渡邊巧大、小島崇史、杉田柊、三木達也、前並武志、西野武志、黒崎隼人、高嶋宏之、藤沢研一、山本健、橋本敬史、小澤和則、重次創太、渡部尭皓、Bahi JD、Chris、Rondeseo、Mitchell Gonzales、Vercreek、FASTO、史涓生、羊廷牧、孙猛、章超、鴨川浩、小松英司、新井淳、高瀬健一、杉薗朗子、楡木哲郎、荒平隆晴、冨田与四一、小泉昇、東出太、椅子汰、前田義宏、すて、おだし、すしお、堀尾鉱、古川博之、神谷智大"
         }
       ],
-      "total_episodes": 1160,
+      "total_episodes": 1162,
       "id": 975,
       "eps": 0,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗",
+        "冒险",
+        "少年向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/9a/1867_jn0NB.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/9a/1867_jn0NB.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a1/9a/1867_jn0NB.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/9a/1867_jn0NB.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/9a/1867_jn0NB.jpg"
-          },
-          "name": "ONE PIECE 倒せ!海賊ギャンザック",
-          "name_cn": "海贼王 打倒海贼强萨克！",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 1867
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/c8/1999_Z5sW5.jpg"
-          },
-          "name": "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
-          "name_cn": "海贼王 沙漠的王女与海贼们",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 1999
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/f9/2000_UkduK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/f9/2000_UkduK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/08/f9/2000_UkduK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/f9/2000_UkduK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/f9/2000_UkduK.jpg"
-          },
-          "name": "ONE PIECE THE MOVIE エピソードオブチョッパー 冬に咲く、奇跡の桜",
-          "name_cn": "海贼王 绽放在寒冬的奇迹樱花",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 2000
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/e1/3510_pWiY9.jpg",
@@ -7085,20 +7194,6 @@
           "relation": "游戏",
           "type": 4,
           "id": 8747
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/69/20523_ObMG5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/69/20523_ObMG5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/22/69/20523_ObMG5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/69/20523_ObMG5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/69/20523_ObMG5.jpg"
-          },
-          "name": "ONE PIECE 3D 麦わらチェイス",
-          "name_cn": "海贼王 追寻草帽",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 20523
         },
         {
           "images": {
@@ -7886,20 +7981,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/74/162045_IJe5R.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/74/162045_IJe5R.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a3/74/162045_IJe5R.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/74/162045_IJe5R.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/74/162045_IJe5R.jpg"
-          },
-          "name": "SERENA×ONE PIECE 潜入!!サウザンド・サニー号",
-          "name_cn": "海贼王 潜入!!千里阳光号",
-          "relation": "衍生",
-          "type": 2,
-          "id": 162045
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/43/7c/168276_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/43/7c/168276_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/43/7c/168276_jp.jpg",
@@ -7963,7 +8044,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/26/219775_N5l3H.jpg"
           },
           "name": "One Piece",
-          "name_cn": "海贼王",
+          "name_cn": "航海王",
           "relation": "不同演绎",
           "type": 6,
           "id": 219775
@@ -7984,20 +8065,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/81/256278_6WDq6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/81/256278_6WDq6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/94/81/256278_6WDq6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/81/256278_6WDq6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/81/256278_6WDq6.jpg"
-          },
-          "name": "ONE PIECE エピソードオブ 空島",
-          "name_cn": "海贼王SP空岛篇",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 256278
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/f4/282086_68668.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/f4/282086_68668.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b5/f4/282086_68668.jpg",
@@ -8009,20 +8076,6 @@
           "relation": "其他",
           "type": 3,
           "id": 282086
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/76/285391_ci3wo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/76/285391_ci3wo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/81/76/285391_ci3wo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/76/285391_ci3wo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/76/285391_ci3wo.jpg"
-          },
-          "name": "HUNGRY DAYS 2019",
-          "name_cn": "",
-          "relation": "角色出演",
-          "type": 2,
-          "id": 285391
         },
         {
           "images": {
@@ -8051,20 +8104,6 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 357954
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/60/358803_Ww6Ip.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/60/358803_Ww6Ip.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/60/358803_Ww6Ip.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/60/358803_Ww6Ip.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/60/358803_Ww6Ip.jpg"
-          },
-          "name": "ONE PIECE FILM RED",
-          "name_cn": "海贼王 红发歌姬",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 358803
         },
         {
           "images": {
@@ -8124,20 +8163,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/db/446475_QAvh9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/db/446475_QAvh9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0a/db/446475_QAvh9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/db/446475_QAvh9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/db/446475_QAvh9.jpg"
-          },
-          "name": "MONSTERS 一百三情飛龍侍極",
-          "name_cn": "怪兽 一百三情飞龙侍极",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 446475
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/9d/455509_wW26D.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/9d/455509_wW26D.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c6/9d/455509_wW26D.jpg",
@@ -8149,20 +8174,6 @@
           "relation": "原声集",
           "type": 3,
           "id": 455509
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/40/470667_072Tl.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/40/470667_072Tl.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/77/40/470667_072Tl.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/40/470667_072Tl.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/40/470667_072Tl.jpg"
-          },
-          "name": "THE ONE PIECE",
-          "name_cn": "海贼王 重制版",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 470667
         },
         {
           "images": {
@@ -8205,6 +8216,48 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 511678
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e3/37/518603_AdqjY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e3/37/518603_AdqjY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e3/37/518603_AdqjY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e3/37/518603_AdqjY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e3/37/518603_AdqjY.jpg"
+          },
+          "name": "ONE PIECE 魚人島編",
+          "name_cn": "航海王：鱼人岛篇特别编辑版",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 518603
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f5/70/529272_9vFqV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f5/70/529272_9vFqV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f5/70/529272_9vFqV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f5/70/529272_9vFqV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f5/70/529272_9vFqV.jpg"
+          },
+          "name": "麦わらスペース",
+          "name_cn": "",
+          "relation": "衍生",
+          "type": 6,
+          "id": 529272
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/c6/1869_ED6fo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/c6/1869_ED6fo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/c6/1869_ED6fo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/c6/1869_ED6fo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/c6/1869_ED6fo.jpg"
+          },
+          "name": "ONE PIECE the movie",
+          "name_cn": "航海王：黄金岛大冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 1869
         },
         {
           "images": {
@@ -8278,6 +8331,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/8f/1871_gPKk7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/8f/1871_gPKk7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fb/8f/1871_gPKk7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/8f/1871_gPKk7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/8f/1871_gPKk7.jpg"
+          },
+          "name": "ONE PIECE ねじまき島の冒険",
+          "name_cn": "航海王：发条岛的冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 1871
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/16/39213_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/16/39213_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/5c/16/39213_jp.jpg",
@@ -8320,20 +8387,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/b0/144666_iyLUQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/b0/144666_iyLUQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b7/b0/144666_iyLUQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/b0/144666_iyLUQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b0/144666_iyLUQ.jpg"
-          },
-          "name": "ONE PIECE ROMANCE DAWN STORY",
-          "name_cn": "海贼王 ROMANCE DAWN STORY",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 144666
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/a3/182830_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/a3/182830_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/99/a3/182830_jp.jpg",
@@ -8359,6 +8412,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 227003
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/4e/1901_A9Hdi.jpg"
+          },
+          "name": "ONE PIECE 珍獣島のチョッパー王国",
+          "name_cn": "航海王：珍兽岛的乔巴王国",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 1901
         },
         {
           "images": {
@@ -8390,20 +8457,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/d9/162046_XTYP0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/d9/162046_XTYP0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dd/d9/162046_XTYP0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/d9/162046_XTYP0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/d9/162046_XTYP0.jpg"
-          },
-          "name": "ONE PIECE グランドラインの冒険",
-          "name_cn": "海贼王 接地线的冒险",
-          "relation": "衍生",
-          "type": 2,
-          "id": 162046
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/a6/182831_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/a6/182831_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/68/a6/182831_jp.jpg",
@@ -8429,6 +8482,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 226998
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/15/1904_8VSH3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/15/1904_8VSH3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c9/15/1904_8VSH3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/15/1904_8VSH3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/15/1904_8VSH3.jpg"
+          },
+          "name": "ONE PIECE THE MOVIE デッドエンドの冒険",
+          "name_cn": "航海王：死亡尽头大冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 1904
         },
         {
           "images": {
@@ -8460,20 +8527,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/40/162047_Z9fxt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/40/162047_Z9fxt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e9/40/162047_Z9fxt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/40/162047_Z9fxt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/40/162047_Z9fxt.jpg"
-          },
-          "name": "ONE PIECE 3D 激走!トラップコースター",
-          "name_cn": "海贼王 3D 激走！陷阱过山车",
-          "relation": "衍生",
-          "type": 2,
-          "id": 162047
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/8a/c0/182832_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8a/c0/182832_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/8a/c0/182832_jp.jpg",
@@ -8502,17 +8555,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/c6/1869_ED6fo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/c6/1869_ED6fo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/68/c6/1869_ED6fo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/c6/1869_ED6fo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/c6/1869_ED6fo.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/51/1990_IlfkD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/51/1990_IlfkD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dc/51/1990_IlfkD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/51/1990_IlfkD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/51/1990_IlfkD.jpg"
           },
-          "name": "ONE PIECE the movie",
-          "name_cn": "海贼王 黄金岛大冒险",
+          "name": "ONE PIECE 呪われた聖剣",
+          "name_cn": "航海王：被诅咒的圣剑",
           "relation": "番外篇",
           "type": 2,
-          "id": 1869
+          "id": 1990
         },
         {
           "images": {
@@ -8558,17 +8611,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/8f/1871_gPKk7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/8f/1871_gPKk7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fb/8f/1871_gPKk7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/8f/1871_gPKk7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/8f/1871_gPKk7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/96/05/1991_Q3u7m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/96/05/1991_Q3u7m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/96/05/1991_Q3u7m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/05/1991_Q3u7m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/05/1991_Q3u7m.jpg"
           },
-          "name": "ONE PIECE ねじまき島の冒険",
-          "name_cn": "海贼王 发条岛的冒险",
+          "name": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
+          "name_cn": "航海王：祭典男爵与神秘岛",
           "relation": "番外篇",
           "type": 2,
-          "id": 1871
+          "id": 1991
         },
         {
           "images": {
@@ -8614,17 +8667,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/d1/144667_6KceA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/d1/144667_6KceA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d1/d1/144667_6KceA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/d1/144667_6KceA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/d1/144667_6KceA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3f/08/1995_69SFs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3f/08/1995_69SFs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3f/08/1995_69SFs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3f/08/1995_69SFs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3f/08/1995_69SFs.jpg"
           },
-          "name": "ジャンゴのダンスカーニバル",
-          "name_cn": "海贼王 赞高的狂欢舞会",
-          "relation": "衍生",
+          "name": "ONE PIECE  THE MOVIE カラクリ城のメカ巨兵",
+          "name_cn": "航海王：机关城的钢铁巨兵",
+          "relation": "番外篇",
           "type": 2,
-          "id": 144667
+          "id": 1995
         },
         {
           "images": {
@@ -8656,17 +8709,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/4e/1901_A9Hdi.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/4e/1901_A9Hdi.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/c8/1999_Z5sW5.jpg"
           },
-          "name": "ONE PIECE 珍獣島のチョッパー王国",
-          "name_cn": "海贼王 珍兽岛之乔巴王国",
-          "relation": "番外篇",
+          "name": "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
+          "name_cn": "航海王：阿拉巴斯坦战记 沙漠王女与海盗们",
+          "relation": "总集篇",
           "type": 2,
-          "id": 1901
+          "id": 1999
         },
         {
           "images": {
@@ -8712,6 +8765,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/f9/2000_UkduK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/f9/2000_UkduK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/08/f9/2000_UkduK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/f9/2000_UkduK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/f9/2000_UkduK.jpg"
+          },
+          "name": "ONE PIECE THE MOVIE エピソードオブチョッパー 冬に咲く、奇跡の桜",
+          "name_cn": "航海王：乔巴身世之谜 冬季绽放、奇迹的樱花",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 2000
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/21/62240_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/21/62240_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/74/21/62240_jp.jpg",
@@ -8723,20 +8790,6 @@
           "relation": "片头曲",
           "type": 3,
           "id": 62240
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/cb/144671_dBTZ4.jpg"
-          },
-          "name": "ONE PIECE 夢のサッカー王!",
-          "name_cn": "海贼王 梦幻足球王",
-          "relation": "衍生",
-          "type": 2,
-          "id": 144671
         },
         {
           "images": {
@@ -8768,17 +8821,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/15/1904_8VSH3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/15/1904_8VSH3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c9/15/1904_8VSH3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/15/1904_8VSH3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/15/1904_8VSH3.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/c6/2462_F24sN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/c6/2462_F24sN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/10/c6/2462_F24sN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/c6/2462_F24sN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/c6/2462_F24sN.jpg"
           },
-          "name": "ONE PIECE THE MOVIE デッドエンドの冒険",
-          "name_cn": "海贼王  死亡尽头的冒险",
+          "name": "ONE PIECE FILM STRONG WORLD",
+          "name_cn": "航海王：强者天下",
           "relation": "番外篇",
           "type": 2,
-          "id": 1904
+          "id": 2462
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1b/9e/5393_EbO9N.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1b/9e/5393_EbO9N.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1b/9e/5393_EbO9N.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1b/9e/5393_EbO9N.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1b/9e/5393_EbO9N.jpg"
+          },
+          "name": "ONE PIECE FILM STRONG WORLD EPISODE:0",
+          "name_cn": "航海王：强者天下 前传",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 5393
         },
         {
           "images": {
@@ -8796,17 +8863,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/51/1990_IlfkD.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/51/1990_IlfkD.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dc/51/1990_IlfkD.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/51/1990_IlfkD.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/51/1990_IlfkD.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/69/20523_ObMG5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/69/20523_ObMG5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/22/69/20523_ObMG5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/69/20523_ObMG5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/69/20523_ObMG5.jpg"
           },
-          "name": "ONE PIECE 呪われた聖剣",
-          "name_cn": "海贼王 被诅咒的圣剑",
+          "name": "ONE PIECE 3D 麦わらチェイス",
+          "name_cn": "航海王3D：追逐草帽大冒险",
           "relation": "番外篇",
           "type": 2,
-          "id": 1990
+          "id": 20523
         },
         {
           "images": {
@@ -8838,6 +8905,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/b7/50513_7gvve.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/b7/50513_7gvve.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/62/b7/50513_7gvve.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/b7/50513_7gvve.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/b7/50513_7gvve.jpg"
+          },
+          "name": "ONE PIECE FILM Z",
+          "name_cn": "航海王：Z",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 50513
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/8a/59974_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/8a/59974_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/cc/8a/59974_jp.jpg",
@@ -8849,20 +8930,6 @@
           "relation": "片头曲",
           "type": 3,
           "id": 59974
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/c2/162049_k3hhh.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/c2/162049_k3hhh.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/19/c2/162049_k3hhh.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/c2/162049_k3hhh.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/c2/162049_k3hhh.jpg"
-          },
-          "name": "ONE PIECE めざせ!海賊野球王",
-          "name_cn": "海贼王 目标 海贼棒球王",
-          "relation": "衍生",
-          "type": 2,
-          "id": 162049
         },
         {
           "images": {
@@ -8880,20 +8947,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/96/05/1991_Q3u7m.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/96/05/1991_Q3u7m.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/96/05/1991_Q3u7m.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/05/1991_Q3u7m.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/05/1991_Q3u7m.jpg"
-          },
-          "name": "ONE PIECE THE MOVIE オマツリ男爵と秘密の島",
-          "name_cn": "海贼王 祭典男爵与神秘岛",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 1991
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/91/11232_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/91/11232_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c2/91/11232_jp.jpg",
@@ -8908,6 +8961,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/41/144846_7m1u8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/41/144846_7m1u8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/41/144846_7m1u8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/41/144846_7m1u8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/41/144846_7m1u8.jpg"
+          },
+          "name": "ONE PIECE FILM GOLD",
+          "name_cn": "航海王之黄金城",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 144846
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/3d/244957_Q9T1q.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/3d/244957_Q9T1q.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/b1/3d/244957_Q9T1q.jpg",
@@ -8919,20 +8986,6 @@
           "relation": "角色歌",
           "type": 3,
           "id": 244957
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3f/08/1995_69SFs.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3f/08/1995_69SFs.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3f/08/1995_69SFs.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3f/08/1995_69SFs.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3f/08/1995_69SFs.jpg"
-          },
-          "name": "ONE PIECE  THE MOVIE カラクリ城のメカ巨兵",
-          "name_cn": "海贼王 机关城的机械巨兵",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 1995
         },
         {
           "images": {
@@ -8961,6 +9014,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 245114
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/1d/258349_bDAVd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/1d/258349_bDAVd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/1d/258349_bDAVd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/1d/258349_bDAVd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/1d/258349_bDAVd.jpg"
+          },
+          "name": "ONE PIECE STAMPEDE",
+          "name_cn": "航海王：狂热行动",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 258349
         },
         {
           "images": {
@@ -9006,6 +9073,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/60/358803_Ww6Ip.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/60/358803_Ww6Ip.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/60/358803_Ww6Ip.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/60/358803_Ww6Ip.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/60/358803_Ww6Ip.jpg"
+          },
+          "name": "ONE PIECE FILM RED",
+          "name_cn": "航海王：红发歌姬",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 358803
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/25/60900_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/25/60900_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/38/25/60900_jp.jpg",
@@ -9048,20 +9129,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1b/9e/5393_EbO9N.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1b/9e/5393_EbO9N.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1b/9e/5393_EbO9N.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1b/9e/5393_EbO9N.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1b/9e/5393_EbO9N.jpg"
-          },
-          "name": "ONE PIECE FILM STRONG WORLD EPISODE:0",
-          "name_cn": "海贼王 强者世界 前传",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 5393
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/ba/60694_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/ba/60694_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/36/ba/60694_jp.jpg",
@@ -9101,20 +9168,6 @@
           "relation": "角色歌",
           "type": 3,
           "id": 245117
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/c6/2462_F24sN.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/c6/2462_F24sN.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/10/c6/2462_F24sN.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/c6/2462_F24sN.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/c6/2462_F24sN.jpg"
-          },
-          "name": "ONE PIECE FILM STRONG WORLD",
-          "name_cn": "海贼王 强者世界",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 2462
         },
         {
           "images": {
@@ -9216,17 +9269,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/b7/50513_7gvve.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/b7/50513_7gvve.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/62/b7/50513_7gvve.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/b7/50513_7gvve.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/b7/50513_7gvve.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/97/90799_S8B6N.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/97/90799_S8B6N.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/97/90799_S8B6N.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/97/90799_S8B6N.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/97/90799_S8B6N.jpg"
           },
-          "name": "ONE PIECE FILM Z",
-          "name_cn": "海贼王 Z",
+          "name": "ONE PIECE ルフィ落下! 秘境・海のヘソの大冒険",
+          "name_cn": "航海王：海肚脐大冒险",
           "relation": "番外篇",
           "type": 2,
-          "id": 50513
+          "id": 90799
         },
         {
           "images": {
@@ -9244,17 +9297,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/41/144846_7m1u8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/41/144846_7m1u8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/41/144846_7m1u8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/41/144846_7m1u8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/41/144846_7m1u8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/7f/144665_1FFLG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/7f/144665_1FFLG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bc/7f/144665_1FFLG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/7f/144665_1FFLG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/7f/144665_1FFLG.jpg"
           },
-          "name": "ONE PIECE FILM GOLD",
-          "name_cn": "海贼王 黄金城",
+          "name": "ONE PIECE 大海原にひらけ! でっかいでっカイ父の夢",
+          "name_cn": "航海王：奔向大海原！父亲伟大的梦想",
           "relation": "番外篇",
           "type": 2,
-          "id": 144846
+          "id": 144665
         },
         {
           "images": {
@@ -9272,17 +9325,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/71/90390_NozV7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/71/90390_NozV7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/07/71/90390_NozV7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/71/90390_NozV7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/71/90390_NozV7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/1c/90789_XrzUu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/1c/90789_XrzUu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/1c/90789_XrzUu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/1c/90789_XrzUu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/1c/90789_XrzUu.jpg"
           },
-          "name": "ONE PIECE エピソードオブナミ 〜航海士の涙と仲間の絆〜",
-          "name_cn": "海贼王 奈美特别篇 领航员之泪与伙伴的羁绊",
-          "relation": "总集篇",
+          "name": "ONE PIECE 守れ! 最後の大舞台",
+          "name_cn": "航海王：坚守最后的大舞台",
+          "relation": "番外篇",
           "type": 2,
-          "id": 90390
+          "id": 90789
         },
         {
           "images": {
@@ -9300,17 +9353,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/72/90391_GOA4Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/72/90391_GOA4Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/aa/72/90391_GOA4Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/72/90391_GOA4Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/72/90391_GOA4Z.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/11/90795_D0BUY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/11/90795_D0BUY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/11/90795_D0BUY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/11/90795_D0BUY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/11/90795_D0BUY.jpg"
           },
-          "name": "ONE PIECE エピソードオブルフィ 〜ハンドアイランドの冒険〜",
-          "name_cn": "海贼王 路飞特别篇 手掌岛的冒险",
-          "relation": "总集篇",
+          "name": "ワンピース時代劇 年末特別企画! 麦わらのルフィ親分捕物帖",
+          "name_cn": "航海王：路飞捕头传",
+          "relation": "不同世界观",
           "type": 2,
-          "id": 90391
+          "id": 90795
         },
         {
           "images": {
@@ -9328,17 +9381,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/79/90792_Vfs42.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/79/90792_Vfs42.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7c/79/90792_Vfs42.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/79/90792_Vfs42.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/79/90792_Vfs42.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/71/90390_NozV7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/71/90390_NozV7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/07/71/90390_NozV7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/71/90390_NozV7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/71/90390_NozV7.jpg"
           },
-          "name": "ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜",
-          "name_cn": "海贼王 梅利特别篇 另一位伙伴的故事",
+          "name": "ONE PIECE エピソードオブナミ 〜航海士の涙と仲間の絆〜",
+          "name_cn": "航海王：奈美之章～领航员之泪与伙伴的羁绊〜",
           "relation": "总集篇",
           "type": 2,
-          "id": 90792
+          "id": 90390
         },
         {
           "images": {
@@ -9356,17 +9409,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/fb/110526_7R9ZJ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/72/90391_GOA4Z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/72/90391_GOA4Z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/aa/72/90391_GOA4Z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/72/90391_GOA4Z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/72/90391_GOA4Z.jpg"
           },
-          "name": "ONE PIECE “3D2Y” エースの死を越えて! ルフィ仲間との誓い",
-          "name_cn": "海贼王3D2Y 跨越艾斯之死！与路飞伙伴的誓言",
+          "name": "ONE PIECE エピソードオブルフィ 〜ハンドアイランドの冒険〜",
+          "name_cn": "航海王：路飞之章～手掌岛的冒险〜",
           "relation": "总集篇",
           "type": 2,
-          "id": 110526
+          "id": 90391
         },
         {
           "images": {
@@ -9384,6 +9437,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/79/90792_Vfs42.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/79/90792_Vfs42.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7c/79/90792_Vfs42.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/79/90792_Vfs42.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/79/90792_Vfs42.jpg"
+          },
+          "name": "ONE PIECE エピソードオブメリー 〜もうひとりの仲間の物語〜",
+          "name_cn": "航海王：黄金梅利号之章 另一位伙伴的故事",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 90792
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/fb/110526_7R9ZJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/fb/110526_7R9ZJ.jpg"
+          },
+          "name": "ONE PIECE “3D2Y” エースの死を越えて! ルフィ仲間との誓い",
+          "name_cn": "航海王：跨越艾斯之死！路飞与伙伴的誓约",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 110526
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/48/137580_qD4JZ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/48/137580_qD4JZ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/35/48/137580_qD4JZ.jpg",
@@ -9391,7 +9472,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/48/137580_qD4JZ.jpg"
           },
           "name": "ONE PIECE エピソードオブサボ 〜3兄弟の絆 奇跡の再会と受け継がれる意志〜",
-          "name_cn": "海贼王 萨波特别篇 三兄弟的羁绊 奇迹的再会和被继承的意志",
+          "name_cn": "航海王：萨波特别篇 〜3兄弟的羁绊 奇迹的再会和被继承的意志〜",
           "relation": "总集篇",
           "type": 2,
           "id": 137580
@@ -9405,7 +9486,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/6e/154112_qz22E.jpg"
           },
           "name": "ONE PIECE 〜アドベンチャー オブ ネブランディア〜",
-          "name_cn": "海贼王 特别篇 雾之岛的冒险",
+          "name_cn": "航海王：迷雾岛大冒险",
           "relation": "总集篇",
           "type": 2,
           "id": 154112
@@ -9418,8 +9499,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/82/183591_pWvJs.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/82/183591_pWvJs.jpg"
           },
-          "name": "ONE PIECE～HEART of GOLD～",
-          "name_cn": "海贼王 特别篇 黄金之心",
+          "name": "ONE PIECE 〜HEART of GOLD〜",
+          "name_cn": "航海王：黄金之心",
           "relation": "总集篇",
           "type": 2,
           "id": 183591
@@ -9432,11 +9513,109 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/f0/217886_7brrA.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/f0/217886_7brrA.jpg"
           },
-          "name": "ONE PIECE エピソードオブ東の海～ルフィと4人の仲間の大冒険!!～",
-          "name_cn": "海贼王 东海特别篇 路飞与四位伙伴的大冒险！！",
+          "name": "ONE PIECE エピソードオブ東の海〜ルフィと4人の仲間の大冒険！！〜",
+          "name_cn": "航海王：东海篇～路飞与四名伙伴的大冒险～",
           "relation": "总集篇",
           "type": 2,
           "id": 217886
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/81/256278_6WDq6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/81/256278_6WDq6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/94/81/256278_6WDq6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/81/256278_6WDq6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/81/256278_6WDq6.jpg"
+          },
+          "name": "ONE PIECE エピソードオブ 空島",
+          "name_cn": "航海王：空岛篇",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 256278
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/42/518519_DMDo8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/be/42/518519_DMDo8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/be/42/518519_DMDo8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/be/42/518519_DMDo8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/be/42/518519_DMDo8.jpg"
+          },
+          "name": "ONE PIECE FAN LETTER",
+          "name_cn": "航海王：粉丝来信",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 518519
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/d1/144667_6KceA.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/d1/144667_6KceA.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/d1/144667_6KceA.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/d1/144667_6KceA.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/d1/144667_6KceA.jpg"
+          },
+          "name": "ONE PIECE ジャンゴのダンスカーニバル",
+          "name_cn": "航海王：强高的狂欢舞会",
+          "relation": "衍生",
+          "type": 2,
+          "id": 144667
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/cb/144671_dBTZ4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/cb/144671_dBTZ4.jpg"
+          },
+          "name": "ONE PIECE 夢のサッカー王!",
+          "name_cn": "航海王：梦幻足球王",
+          "relation": "衍生",
+          "type": 2,
+          "id": 144671
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/c2/162049_k3hhh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/c2/162049_k3hhh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/19/c2/162049_k3hhh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/c2/162049_k3hhh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/c2/162049_k3hhh.jpg"
+          },
+          "name": "ONE PIECE めざせ!海賊野球王",
+          "name_cn": "航海王：目标！海贼棒球王",
+          "relation": "衍生",
+          "type": 2,
+          "id": 162049
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/d9/162046_XTYP0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/d9/162046_XTYP0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/d9/162046_XTYP0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/d9/162046_XTYP0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/d9/162046_XTYP0.jpg"
+          },
+          "name": "ONE PIECE グランドラインの冒険",
+          "name_cn": "航海王：接地线的冒险",
+          "relation": "衍生",
+          "type": 2,
+          "id": 162046
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/40/162047_Z9fxt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/40/162047_Z9fxt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e9/40/162047_Z9fxt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/40/162047_Z9fxt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/40/162047_Z9fxt.jpg"
+          },
+          "name": "ONE PIECE 3D 激走!トラップコースター",
+          "name_cn": "航海王3D：激走！陷阱过山车",
+          "relation": "衍生",
+          "type": 2,
+          "id": 162047
         },
         {
           "images": {
@@ -9447,7 +9626,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/07/162043_7BXsj.jpg"
           },
           "name": "ONE PIECE 〜宇宙っておっもしれえ! 星空島編〜",
-          "name_cn": "海贼王 宇宙！星空岛编",
+          "name_cn": "航海王：宇宙！星空岛编",
           "relation": "衍生",
           "type": 2,
           "id": 162043
@@ -9461,80 +9640,94 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/e8/162044_TEx09.jpg"
           },
           "name": "ONE PIECE THE PLANETARIUM",
-          "name_cn": "海贼王 星空下的伟大航道",
+          "name_cn": "航海王：星空下的伟大航道",
           "relation": "衍生",
           "type": 2,
           "id": 162044
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/97/90799_S8B6N.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/97/90799_S8B6N.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/21/97/90799_S8B6N.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/97/90799_S8B6N.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/97/90799_S8B6N.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/74/162045_IJe5R.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/74/162045_IJe5R.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a3/74/162045_IJe5R.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/74/162045_IJe5R.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/74/162045_IJe5R.jpg"
           },
-          "name": "ONE PIECE ルフィ落下! 秘境・海のヘソの大冒険",
-          "name_cn": "海贼王 路飞落下！秘境 海肚脐的大冒险",
-          "relation": "番外篇",
+          "name": "SERENA×ONE PIECE 潜入!!サウザンド・サニー号",
+          "name_cn": "航海王：潜入！！千里阳光号",
+          "relation": "衍生",
           "type": 2,
-          "id": 90799
+          "id": 162045
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/7f/144665_1FFLG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/7f/144665_1FFLG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bc/7f/144665_1FFLG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/7f/144665_1FFLG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/7f/144665_1FFLG.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/9a/1867_jn0NB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/9a/1867_jn0NB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a1/9a/1867_jn0NB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/9a/1867_jn0NB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/9a/1867_jn0NB.jpg"
           },
-          "name": "ONE PIECE 大海原にひらけ! でっかいでっカイ父の夢",
-          "name_cn": "海贼王 父亲宏大的理想",
-          "relation": "番外篇",
+          "name": "ONE PIECE 倒せ!海賊ギャンザック",
+          "name_cn": "航海王：打倒！海贼强萨克！",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 144665
+          "id": 1867
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/1c/90789_XrzUu.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/1c/90789_XrzUu.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bf/1c/90789_XrzUu.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/1c/90789_XrzUu.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/1c/90789_XrzUu.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/b0/144666_2RTHX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/b0/144666_2RTHX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b7/b0/144666_2RTHX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/b0/144666_2RTHX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b0/144666_2RTHX.jpg"
           },
-          "name": "ONE PIECE 守れ! 最後の大舞台",
-          "name_cn": "海贼王 守护最后的大舞台",
-          "relation": "番外篇",
+          "name": "ONE PIECE ROMANCE DAWN STORY",
+          "name_cn": "航海王：ROMANCE DAWN STORY",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 90789
+          "id": 144666
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/11/90795_lyryC.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/11/90795_lyryC.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/11/90795_lyryC.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/11/90795_lyryC.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/11/90795_lyryC.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/40/470667_072Tl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/40/470667_072Tl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/40/470667_072Tl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/40/470667_072Tl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/40/470667_072Tl.jpg"
           },
-          "name": "ワンピース時代劇 年末特別企画! 麦わらのルフィ親分捕物帖",
-          "name_cn": "海贼王时代剧 年底特别企画! 草帽小子路飞的捕头传",
-          "relation": "不同世界观",
+          "name": "THE ONE PIECE",
+          "name_cn": "航海王 重制版",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 90795
+          "id": 470667
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/1d/258349_bDAVd.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/1d/258349_bDAVd.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ff/1d/258349_bDAVd.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/1d/258349_bDAVd.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/1d/258349_bDAVd.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/db/446475_QAvh9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/db/446475_QAvh9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0a/db/446475_QAvh9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/db/446475_QAvh9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/db/446475_QAvh9.jpg"
           },
-          "name": "ONE PIECE STAMPEDE",
-          "name_cn": "海贼王 狂热行动",
-          "relation": "番外篇",
+          "name": "MONSTERS 一百三情飛龍侍極",
+          "name_cn": "怪兽 一百三情飞龙侍极",
+          "relation": "相同世界观",
           "type": 2,
-          "id": 258349
+          "id": 446475
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/76/285391_ci3wo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/76/285391_ci3wo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/81/76/285391_ci3wo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/76/285391_ci3wo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/76/285391_ci3wo.jpg"
+          },
+          "name": "HUNGRY DAYS 2019",
+          "name_cn": "",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 285391
         }
       ]
     }

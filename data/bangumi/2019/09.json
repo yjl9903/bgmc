@@ -22,14 +22,14 @@
         "2019年9月",
         "DMM.futureworks",
         "OVA",
-        "STUDIOMORIKEN",
+        "SP",
         "W-Toon_Studio",
-        "W-toon",
         "W-toonStudio",
         "WEB",
         "なもり",
         "タカヒロ",
         "ダブトゥーンスタジオ",
+        "一迅社",
         "宫岛星矢",
         "宮嶋星矢",
         "搞笑",
@@ -123,6 +123,11 @@
       "total_episodes": 4,
       "id": 285545,
       "eps": 4,
+      "meta_tags": [
+        "百合",
+        "漫画改",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -194,6 +199,7 @@
         "游戏",
         "游戏改",
         "登坂晋",
+        "筆安一幸",
         "长剧集"
       ],
       "infobox": [
@@ -268,6 +274,9 @@
       "total_episodes": 10,
       "id": 290387,
       "eps": 10,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -345,10 +354,11 @@
         "productiondoA",
         "productiondóA",
         "佐仓绫音",
+        "佐藤聪美",
+        "内田真礼",
         "剧场版",
         "搞笑",
         "日常",
-        "日本",
         "桥本裕之",
         "橋本裕之",
         "水濑祈",
@@ -357,7 +367,6 @@
         "漫画改",
         "点兔",
         "百合",
-        "种田梨沙",
         "芳文社",
         "萌",
         "萌系",
@@ -472,6 +481,12 @@
       "total_episodes": 1,
       "id": 260772,
       "eps": 1,
+      "meta_tags": [
+        "百合",
+        "OVA",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -602,7 +617,6 @@
         "剧场版",
         "原创",
         "愛美",
-        "手游改",
         "日本",
         "梅津朋美",
         "游戏改",
@@ -610,6 +624,7 @@
         "百合",
         "綾奈ゆにこ",
         "绫奈由仁子",
+        "续作",
         "邦邦",
         "音乐"
       ],
@@ -627,16 +642,16 @@
           "value": "2019年9月13日"
         },
         {
+          "key": "片长",
+          "value": "1:12:44"
+        },
+        {
           "key": "官方网站",
           "value": "https://anime.bang-dream.com/filmlive/"
         },
         {
           "key": "Copyright",
           "value": "©BanG Dream! Project ©BanG Dream! FILM LIVE Project"
-        },
-        {
-          "key": "动画制作",
-          "value": "サンジゲン"
         },
         {
           "key": "配给",
@@ -647,13 +662,122 @@
           "value": "1"
         },
         {
+          "key": "原作",
+          "value": "ブシロード"
+        },
+        {
+          "key": "执行制片人",
+          "value": "木谷高明（製作総指挥）、都田和志"
+        },
+        {
+          "key": "企划制作人",
+          "value": "松浦裕暁"
+        },
+        {
+          "key": "企画",
+          "value": "岩倉亜貴、森川修一、金原威也、成田耕祐、安田猛、北澤晋一郎、安藝貴範、矢田部行庸"
+        },
+        {
+          "key": "制作助理",
+          "value": "副制片人：井之上安莉、谷晴香、高根寿美子"
+        },
+        {
           "key": "导演",
           "value": "梅津朋美"
+        },
+        {
+          "key": "系列构成",
+          "value": "綾奈ゆにこ×西野裕子（脚本总监）"
+        },
+        {
+          "key": "监修",
+          "value": "綾奈ゆにこ×西野裕子（脚本监修）；三村厚史（CG总监）"
+        },
+        {
+          "key": "人物原案",
+          "value": "ひと和×Craft Egg"
+        },
+        {
+          "key": "人物设定",
+          "value": "植田和幸"
+        },
+        {
+          "key": "衣装设计原案",
+          "value": "尾内貴美香、Craft Egg"
+        },
+        {
+          "key": "设定",
+          "value": "茶之原拓也&八森優香（3Dモデル用衣装デザイン）、内古閑智之（ロゴ/ライブTシャツデザイン）、CHProduction（校章デザイン）"
+        },
+        {
+          "key": "美术设计",
+          "value": "美術：岡本綾乃"
+        },
+        {
+          "key": "色彩设计",
+          "value": "北川順子"
+        },
+        {
+          "key": "摄影监督",
+          "value": "井上麻梨"
+        },
+        {
+          "key": "剪辑",
+          "value": "梅津朋美"
+        },
+        {
+          "key": "音响监督",
+          "value": "飯田里樹"
+        },
+        {
+          "key": "音效",
+          "value": "猪俣泰史"
+        },
+        {
+          "key": "音响",
+          "value": "Cloud22"
+        },
+        {
+          "key": "音乐",
+          "value": "Elements Garden(藤田淳平×藤間仁×藤永龍太郎)"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "上松範康、藤田淳平"
+        },
+        {
+          "key": "制片人",
+          "value": "根本雄貴、沢村英祐、吉村秀至、海保匡志、奥村越後屋、塩谷佳之、田中聡、瓶子修一、金成雄文"
+        },
+        {
+          "key": "动画制片人",
+          "value": "奈良岡智哉"
+        },
+        {
+          "key": "动画制作",
+          "value": "サンジゲン"
+        },
+        {
+          "key": "製作",
+          "value": "BanG Dream！FILM LIVE Project（ブシロード、Craft Egg、ブシロードミュージック、ブシロードクリエイティブ、ブシロードメディア、TOKYO MX、Good Smile Company、ウルトラスーパーピクチャーズ、ホリプロ）"
+        },
+        {
+          "key": "分镜",
+          "value": "梅津朋美、三村厚史、植高正典"
+        },
+        {
+          "key": "作画监督",
+          "value": "茶之原拓也、八森優香"
         }
       ],
       "total_episodes": 1,
       "id": 279219,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创",
+        "音乐"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -726,16 +850,17 @@
       "date": "2019-09-27",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/27/7e/302157_Ah56Z.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/27/7e/302157_Ah56Z.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/27/7e/302157_Ah56Z.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/27/7e/302157_Ah56Z.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/27/7e/302157_Ah56Z.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/27/7e/302157_u18Mf.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/27/7e/302157_u18Mf.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/27/7e/302157_u18Mf.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/27/7e/302157_u18Mf.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/27/7e/302157_u18Mf.jpg"
       },
       "summary": "とおい宇宙のかなた、K10星雲チョーチイ星。\r\nきょうも、こどもかいじゅうが、楽しく遊んでる。\r\n泣いて、笑って、走りまわって、おおさわぎ。土にもぐったり、火を吹いたりもできるんだ。\r\nこの星にやってきたピグちゃんは、ともだちのカネちゃん、ダダちゃんと\r\nみんなを助ける“かいじゅうやさん”をはじめたよ。\r\n勇気がでなくて立ち止まりそうなときは\r\n大きな声で、「ワンダバダー！」\r\nさあ、いっぽ ふみだそう。",
       "name": "かいじゅうステップ ワンダバダ",
       "name_cn": "小怪兽成长日记 蹒跚学步",
       "tags": [
+        "TV",
         "子供向"
       ],
       "infobox": [
@@ -772,16 +897,20 @@
           "value": "2020年3月27日"
         },
         {
+          "key": "导演",
+          "value": "うもとゆーじ"
+        },
+        {
+          "key": "音乐",
+          "value": "立山秋航"
+        },
+        {
           "key": "Copyright",
           "value": "© TPC © KSW"
         },
         {
           "key": "原作",
           "value": "円谷プロダクション"
-        },
-        {
-          "key": "导演",
-          "value": "うもとゆーじ"
         },
         {
           "key": "人物设定",
@@ -798,10 +927,6 @@
         {
           "key": "脚本",
           "value": "三浦有為子、佐藤慎司"
-        },
-        {
-          "key": "音乐",
-          "value": "立山秋航"
         },
         {
           "key": "3DCG",
@@ -871,6 +996,10 @@
       "total_episodes": 26,
       "id": 302157,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -879,11 +1008,11 @@
       "relations": [
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/c4/318579_2w6ww.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/c4/318579_2w6ww.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/c4/318579_2w6ww.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/c4/318579_2w6ww.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/c4/318579_2w6ww.jpg"
           },
           "name": "かいじゅうステップ ワンダバダ 第2シリーズ",
           "name_cn": "小怪兽成长日记 二期",
@@ -995,6 +1124,11 @@
       "total_episodes": 4,
       "id": 226218,
       "eps": 4,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1129,11 +1263,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/ab/404024_wW6IH.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/ab/404024_wW6IH.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0e/ab/404024_wW6IH.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0e/ab/404024_wW6IH.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0e/ab/404024_wW6IH.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/ab/404024_Q1oLo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/ab/404024_Q1oLo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0e/ab/404024_Q1oLo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0e/ab/404024_Q1oLo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0e/ab/404024_Q1oLo.jpg"
           },
           "name": "銀河英雄伝説 Die Neue Saga",
           "name_cn": "银河英雄传说 Die Neue Saga",
@@ -1163,11 +1297,11 @@
       "tags": [
         "2019",
         "2019年",
+        "2019年10月",
         "2019年9月",
         "BONES",
         "ONE",
         "OVA",
-        "OVA&OAD",
         "亀田祥倫",
         "剧场版",
         "动画",
@@ -1233,6 +1367,12 @@
       "total_episodes": 1,
       "id": 279700,
       "eps": 1,
+      "meta_tags": [
+        "奇幻",
+        "OVA",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1483,6 +1623,12 @@
       "total_episodes": 1,
       "id": 280837,
       "eps": 1,
+      "meta_tags": [
+        "百合",
+        "剧场版",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1613,24 +1759,24 @@
         "2019年9月",
         "OAD",
         "OVA",
-        "OVA-01",
         "OVA·OAD",
         "PINEJAM",
+        "anime",
         "folklore",
-        "studiodeen",
         "伪",
         "合格",
         "后藤绿",
         "和风",
         "奇幻",
+        "已下",
         "异界",
         "後藤みどり",
         "搞笑",
         "日常",
-        "日本动画",
         "漫改",
         "漫画改",
         "番剧",
+        "番外",
         "短篇动画",
         "米田和弘",
         "续作",
@@ -1663,6 +1809,10 @@
       "total_episodes": 3,
       "id": 278449,
       "eps": 3,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1736,7 +1886,6 @@
         "2019年10月",
         "3D",
         "Graphinica",
-        "HELLOWORLD",
         "SF",
         "グラフィニカ",
         "伊藤智彦",
@@ -1758,6 +1907,7 @@
         "电影",
         "科幻",
         "穿越",
+        "纯爱",
         "野崎まど",
         "野﨑まど",
         "青春"
@@ -1785,7 +1935,7 @@
         },
         {
           "key": "官方网站",
-          "value": "hello-world-movie.com"
+          "value": "https://hello-world-movie.com/"
         },
         {
           "key": "Copyright",
@@ -1845,10 +1995,10 @@
         },
         {
           "key": "设定",
-          "value": "浅野直之、藤田和日郎、小松田大全鈴木政彦、五月女妃苗"
+          "value": "浅野直之、藤田和日郎、小松田大全、鈴木政彦、五月女妃苗"
         },
         {
-          "key": "音乐制作",
+          "key": "音乐制作人",
           "value": "成川沙世子"
         },
         {
@@ -1856,25 +2006,36 @@
           "value": "宮田知子"
         },
         {
-          "key": "补间动画",
-          "value": "ホワイトフォックス伊豆高原スタジオ、ユーフォーテーブル、スタジオエル、Revival、宮田知子、村上朋子"
-        },
-        {
           "key": "动画制片人",
           "value": "森口博史、二木啓輔"
         },
         {
-          "key": "イメージボード",
-          "value": "上津康義、よう、幻電放映、長谷梨加"
+          "key": "企画",
+          "value": "武井克弘"
+        },
+        {
+          "key": "监制",
+          "value": "武井克弘"
+        },
+        {
+          "key": "制片人",
+          "value": "馮年"
         },
         {
           "key": "製作",
-          "value": "「HELLO WORLD」製作委員会（東宝、グラフィニカ、ひかりTV、集英社、ジェイアール東日本企画、ムービック、毎日放送、テレビ大阪、関西テレビ放送、読売テレビ放送、ローソンエンタテインメント、サイバーエージェント、丸井グループ、TOKYO MX、LINE、メモリーテック・ホールディングス）"
+          "value": "「HELLO WORLD」製作委員会（東宝、グラフィニカ、ひかりTV、集英社、ジェイアール東日本企画、ムービック、毎日放送、テレビ大阪、関西テレビ放送、読売テレビ放送、ローソンエンタテインメント、CyberAgent、丸井グループ、TOKYO MX、LINE、メモリーテック・ホールディングス）"
         }
       ],
       "total_episodes": 1,
       "id": 269090,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "恋爱",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2031,7 +2192,6 @@
         "2019年",
         "2019年9月",
         "3D",
-        "9月",
         "Graphinica",
         "HELLOWORLD",
         "OVA",
@@ -2042,16 +2202,17 @@
         "伊藤智彦",
         "你好世界",
         "剧场版",
+        "动画电影",
         "原创",
         "堀口悠紀子",
         "堀口悠纪子",
-        "外传",
         "恋爱",
         "日本",
         "日本动画",
         "校园",
         "治愈",
         "爱情",
+        "番外",
         "短片",
         "短篇",
         "科幻",
@@ -2111,6 +2272,12 @@
       "total_episodes": 3,
       "id": 289310,
       "eps": 3,
+      "meta_tags": [
+        "科幻",
+        "恋爱",
+        "原创",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

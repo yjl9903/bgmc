@@ -20,6 +20,8 @@
         "TV",
         "世界名作剧场",
         "世界名作劇場",
+        "小说改",
+        "日本",
         "日本动画公司",
         "旧物",
         "正太",
@@ -71,6 +73,11 @@
       "total_episodes": 43,
       "id": 68707,
       "eps": 43,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -129,7 +136,6 @@
         "1988年",
         "1988年1月",
         "1989",
-        "80年代",
         "KittyFilm",
         "OVA",
         "SF",
@@ -154,7 +160,8 @@
         "补旧番",
         "轻小说改",
         "银河英雄传说",
-        "银英"
+        "银英",
+        "长篇"
       ],
       "infobox": [
         {
@@ -288,6 +295,11 @@
       "total_episodes": 110,
       "id": 2907,
       "eps": 110,
+      "meta_tags": [
+        "科幻",
+        "OVA",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -296,17 +308,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/e3/434828_f2B14.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/e3/434828_f2B14.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/84/e3/434828_f2B14.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/e3/434828_f2B14.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/e3/434828_f2B14.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/69/520586_kKz2K.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/69/520586_kKz2K.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5c/69/520586_kKz2K.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5c/69/520586_kKz2K.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/69/520586_kKz2K.jpg"
           },
-          "name": "银河英雄传说",
-          "name_cn": "",
-          "relation": "不同演绎",
-          "type": 6,
-          "id": 434828
+          "name": "銀河英雄伝説 戦いの輪舞曲",
+          "name_cn": "银河英雄传说 战争回旋曲",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520586
         },
         {
           "images": {
@@ -338,31 +350,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/b9/246961_rikKc.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/b9/246961_rikKc.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ce/b9/246961_rikKc.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/b9/246961_rikKc.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/b9/246961_rikKc.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/e3/434828_f2B14.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/e3/434828_f2B14.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/84/e3/434828_f2B14.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/e3/434828_f2B14.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/e3/434828_f2B14.jpg"
           },
-          "name": "銀河英雄伝説IV EX",
-          "name_cn": "银河英雄传说IV EX",
-          "relation": "游戏",
-          "type": 4,
-          "id": 246961
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/6c/507_GdFf8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/6c/507_GdFf8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2d/6c/507_GdFf8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/6c/507_GdFf8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/6c/507_GdFf8.jpg"
-          },
-          "name": "銀河英雄伝説",
-          "name_cn": "银河英雄传说",
-          "relation": "书籍",
-          "type": 1,
-          "id": 507
+          "name": "银河英雄传说",
+          "name_cn": "",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 434828
         },
         {
           "images": {
@@ -380,6 +378,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2d/6c/507_GdFf8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2d/6c/507_GdFf8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2d/6c/507_GdFf8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2d/6c/507_GdFf8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2d/6c/507_GdFf8.jpg"
+          },
+          "name": "銀河英雄伝説",
+          "name_cn": "银河英雄传说",
+          "relation": "书籍",
+          "type": 1,
+          "id": 507
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/74/79656_R8bt8.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/74/79656_R8bt8.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/6f/74/79656_R8bt8.jpg",
@@ -391,6 +403,20 @@
           "relation": "总集篇",
           "type": 2,
           "id": 79656
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/91/519927_mMPXQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/91/519927_mMPXQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/91/519927_mMPXQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/91/519927_mMPXQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/91/519927_mMPXQ.jpg"
+          },
+          "name": "銀河英雄伝説",
+          "name_cn": "银河英雄传说",
+          "relation": "游戏",
+          "type": 4,
+          "id": 519927
         },
         {
           "images": {
@@ -422,6 +448,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/83/519936_y14GY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/83/519936_y14GY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/83/519936_y14GY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/83/519936_y14GY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/83/519936_y14GY.jpg"
+          },
+          "name": "銀河英雄伝説II",
+          "name_cn": "银河英雄传说II",
+          "relation": "游戏",
+          "type": 4,
+          "id": 519936
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/73/519941_Np7U9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/73/519941_Np7U9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c0/73/519941_Np7U9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/73/519941_Np7U9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/73/519941_Np7U9.jpg"
+          },
+          "name": "銀河英雄伝説III",
+          "name_cn": "银河英雄传说III",
+          "relation": "游戏",
+          "type": 4,
+          "id": 519941
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/2e/79682_99U6Z.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/2e/79682_99U6Z.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/2c/2e/79682_99U6Z.jpg",
@@ -450,6 +504,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/d9/519944_Ggf5E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/d9/519944_Ggf5E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/d9/519944_Ggf5E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/d9/519944_Ggf5E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/d9/519944_Ggf5E.jpg"
+          },
+          "name": "銀河英雄伝説III SP",
+          "name_cn": "银河英雄传说III SP",
+          "relation": "游戏",
+          "type": 4,
+          "id": 519944
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/f4/39532_zXwi1.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/f4/39532_zXwi1.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c1/f4/39532_zXwi1.jpg",
@@ -461,6 +529,20 @@
           "relation": "番外篇",
           "type": 2,
           "id": 39532
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/bb/519952_S3OcF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/bb/519952_S3OcF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/bb/519952_S3OcF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/bb/519952_S3OcF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/bb/519952_S3OcF.jpg"
+          },
+          "name": "銀河英雄伝説IV",
+          "name_cn": "银河英雄传说IV",
+          "relation": "游戏",
+          "type": 4,
+          "id": 519952
         },
         {
           "images": {
@@ -478,6 +560,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/b9/246961_RHbHs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/b9/246961_RHbHs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ce/b9/246961_RHbHs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/b9/246961_RHbHs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/b9/246961_RHbHs.jpg"
+          },
+          "name": "銀河英雄伝説IV EX",
+          "name_cn": "银河英雄传说IV EX",
+          "relation": "游戏",
+          "type": 4,
+          "id": 246961
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/2f/79660_JeCx2.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/2f/79660_JeCx2.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/0a/2f/79660_JeCx2.jpg",
@@ -489,6 +585,34 @@
           "relation": "番外篇",
           "type": 2,
           "id": 79660
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/fc/519998_R3Cgf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/fc/519998_R3Cgf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/42/fc/519998_R3Cgf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/fc/519998_R3Cgf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/fc/519998_R3Cgf.jpg"
+          },
+          "name": "銀河英雄伝説V",
+          "name_cn": "银河英雄传说V",
+          "relation": "游戏",
+          "type": 4,
+          "id": 519998
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/e3/519999_RyYad.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/e3/519999_RyYad.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e4/e3/519999_RyYad.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/e3/519999_RyYad.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/e3/519999_RyYad.jpg"
+          },
+          "name": "銀河英雄伝説VI",
+          "name_cn": "银河英雄传说VI",
+          "relation": "游戏",
+          "type": 4,
+          "id": 519999
         },
         {
           "images": {
@@ -517,6 +641,34 @@
           "relation": "番外篇",
           "type": 2,
           "id": 79689
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/b9/520000_pbDPS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/b9/520000_pbDPS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f2/b9/520000_pbDPS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/b9/520000_pbDPS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/b9/520000_pbDPS.jpg"
+          },
+          "name": "銀河英雄伝説VII",
+          "name_cn": "银河英雄传说VII",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520000
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/ad/520001_2ppqk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/ad/520001_2ppqk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d8/ad/520001_2ppqk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/ad/520001_2ppqk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/ad/520001_2ppqk.jpg"
+          },
+          "name": "銀河英雄伝説",
+          "name_cn": "银河英雄传说",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520001
         },
         {
           "images": {
@@ -588,7 +740,9 @@
         "外传",
         "奇幻",
         "战斗",
+        "日本",
         "旧物",
+        "漫画改",
         "赛璐珞"
       ],
       "infobox": [
@@ -612,6 +766,11 @@
       "total_episodes": 35,
       "id": 299458,
       "eps": 35,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

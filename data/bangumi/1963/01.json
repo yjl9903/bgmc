@@ -19,9 +19,8 @@
         "1963",
         "60s",
         "60年代",
-        "SF",
         "TV",
-        "TVA",
+        "儿时回忆",
         "儿时的回忆",
         "动作",
         "动画",
@@ -45,6 +44,7 @@
         "虫制作",
         "铁臂",
         "铁臂阿童木",
+        "长篇",
         "阿木"
       ],
       "infobox": [
@@ -88,6 +88,12 @@
       "total_episodes": 193,
       "id": 806,
       "eps": 193,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -96,17 +102,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/6a/217021_oRobJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/6a/217021_oRobJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d3/6a/217021_oRobJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/6a/217021_oRobJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/6a/217021_oRobJ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/aa/217198_XPYel.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/aa/217198_XPYel.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/aa/217198_XPYel.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/aa/217198_XPYel.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/aa/217198_XPYel.jpg"
           },
-          "name": "PLUTO",
-          "name_cn": "冥王",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 217021
+          "name": "絵師神の絆",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 217198
         },
         {
           "images": {
@@ -117,10 +123,24 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/5d/465724_s5aPe.jpg"
           },
           "name": "ナンバー７",
-          "name_cn": "no7",
+          "name_cn": "NO.7",
           "relation": "书籍",
           "type": 1,
           "id": 465724
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/6c/456305_J945P.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/6c/456305_J945P.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/60/6c/456305_J945P.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/6c/456305_J945P.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/6c/456305_J945P.jpg"
+          },
+          "name": "元梦之星",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 456305
         },
         {
           "images": {
@@ -208,20 +228,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/aa/217198_XPYel.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/aa/217198_XPYel.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ef/aa/217198_XPYel.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/aa/217198_XPYel.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/aa/217198_XPYel.jpg"
-          },
-          "name": "絵師神の絆",
-          "name_cn": "",
-          "relation": "游戏",
-          "type": 4,
-          "id": 217198
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/c3/3151_F90q0.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/c3/3151_F90q0.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/98/c3/3151_F90q0.jpg",
@@ -233,6 +239,20 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 3151
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/6a/217021_oRobJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/6a/217021_oRobJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d3/6a/217021_oRobJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/6a/217021_oRobJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/6a/217021_oRobJ.jpg"
+          },
+          "name": "PLUTO",
+          "name_cn": "冥王",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 217021
         },
         {
           "images": {

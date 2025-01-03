@@ -22,6 +22,7 @@
         "TVA",
         "undefined",
         "タツノコプロ",
+        "上世纪",
         "九里一平",
         "动",
         "动物",
@@ -31,18 +32,17 @@
         "小蜜蜂找妈妈",
         "怀旧",
         "找妈妈",
-        "日本动画",
+        "日本",
         "日系",
         "旧物",
         "栗葉子",
         "没看全",
+        "没看完",
         "爱的战士",
         "童年",
         "童话",
         "经典",
-        "补",
         "西久保瑞穗",
-        "越部信義",
         "陣野修",
         "鳥海尽三",
         "龙之子"
@@ -77,12 +77,12 @@
           "value": "1971年12月28日"
         },
         {
-          "key": "原作",
-          "value": "吉田龙夫"
-        },
-        {
           "key": "导演",
           "value": "九里一平"
+        },
+        {
+          "key": "原作",
+          "value": "吉田龙夫"
         },
         {
           "key": "脚本",
@@ -96,6 +96,10 @@
       "total_episodes": 50,
       "id": 11191,
       "eps": 91,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -255,12 +259,12 @@
           "value": "1971年9月29日"
         },
         {
-          "key": "美术监督",
-          "value": "明石貞一"
-        },
-        {
           "key": "音乐",
           "value": "八木正生(A･R･A)"
+        },
+        {
+          "key": "美术监督",
+          "value": "明石貞一"
         },
         {
           "key": "制作",
@@ -286,6 +290,11 @@
       "total_episodes": 79,
       "id": 10404,
       "eps": 79,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -294,11 +303,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/54/48094_nYQxa.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/54/48094_nYQxa.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e5/54/48094_nYQxa.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/54/48094_nYQxa.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/54/48094_nYQxa.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/54/48094_625Qk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/54/48094_625Qk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e5/54/48094_625Qk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/54/48094_625Qk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/54/48094_625Qk.jpg"
           },
           "name": "あしたのジョー",
           "name_cn": "明日之丈",
@@ -316,7 +325,7 @@
           },
           "name": "あしたのジョー",
           "name_cn": "明日之丈",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 58432
         },

@@ -36,7 +36,6 @@
         "小出一巳",
         "小说改",
         "战争",
-        "战舰",
         "日本",
         "清水恵蔵",
         "田中芳树",
@@ -45,7 +44,8 @@
         "补旧番",
         "轻小说改",
         "银河英雄传说",
-        "银英"
+        "银英",
+        "院线电影"
       ],
       "infobox": [
         {
@@ -79,6 +79,10 @@
       "total_episodes": 1,
       "id": 39532,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -159,6 +163,84 @@
     }
   },
   {
+    "title": "宝島メモリアル 夕凪と呼ばれた男",
+    "date": "1992-12-21",
+    "bangumi": {
+      "date": "1992-12-21",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/e3/528833_9023B.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/e3/528833_9023B.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/99/e3/528833_9023B.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/e3/528833_9023B.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/e3/528833_9023B.jpg"
+      },
+      "summary": "1992年には、ほぼ同一スタッフの下で、一等航海士となったジムを語り部として、最終回から更にその後のシルバーの行方を描いたオリジナルの続編・“宝島メモリアル「夕凪と呼ばれた男」”が、数分の短編ながらOVAにて制作されている。",
+      "name": "宝島メモリアル 夕凪と呼ばれた男",
+      "name_cn": "",
+      "tags": [],
+      "infobox": [
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "1992年12月21日"
+        },
+        {
+          "key": "导演",
+          "value": "出崎统"
+        },
+        {
+          "key": "人物设定",
+          "value": "杉野昭夫"
+        },
+        {
+          "key": "美术监督",
+          "value": "小林七郎"
+        },
+        {
+          "key": "动画制作",
+          "value": "トムス・エンタテインメント"
+        },
+        {
+          "key": "片长",
+          "value": "7分钟"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 528833,
+      "eps": 1,
+      "meta_tags": [
+        "日本",
+        "OVA",
+        "小说改"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/a8/38941_rsYue.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/a8/38941_rsYue.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/a8/38941_rsYue.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/a8/38941_rsYue.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/a8/38941_rsYue.jpg"
+          },
+          "name": "宝島",
+          "name_cn": "金银岛",
+          "relation": "前传",
+          "type": 2,
+          "id": 38941
+        }
+      ]
+    }
+  },
+  {
     "title": "Ys 天空の神殿〜アドル・クリスティンの冒険〜",
     "date": "1992-12-16",
     "bangumi": {
@@ -179,17 +261,17 @@
         "90s",
         "GAL改",
         "OVA",
-        "OVA-01",
         "YS",
         "falcom",
-        "★★★★★★★",
         "三石琴乃",
         "中泽一登",
         "亚特鲁",
         "伊苏",
         "冒险",
         "动画",
+        "千叶克彦",
         "千葉克彦",
+        "奇幻",
         "寺嶋民哉",
         "幻想",
         "日本",
@@ -262,6 +344,9 @@
       "total_episodes": 4,
       "id": 33509,
       "eps": 4,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

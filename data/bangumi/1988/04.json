@@ -84,16 +84,20 @@
           "value": "1989年3月4日"
         },
         {
+          "key": "导演",
+          "value": "池田成（第1話～第19話）、浜津守（第20話～第39話）"
+        },
+        {
+          "key": "音乐",
+          "value": "戸塚修"
+        },
+        {
           "key": "企画",
           "value": "サンライズ"
         },
         {
           "key": "原作",
           "value": "矢立肇"
-        },
-        {
-          "key": "导演",
-          "value": "池田成（第1話～第19話）、浜津守（第20話～第39話）"
         },
         {
           "key": "系列构成",
@@ -106,10 +110,6 @@
         {
           "key": "音响监督",
           "value": "千葉耕市"
-        },
-        {
-          "key": "音乐",
-          "value": "戸塚修"
         },
         {
           "key": "动画制作",
@@ -163,6 +163,10 @@
       "total_episodes": 39,
       "id": 3621,
       "eps": 39,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -523,11 +527,11 @@
         "studiodeen",
         "スタジオディーン",
         "伊藤和典",
+        "动画",
         "原创",
         "吉永尚之",
         "川井宪次",
         "川井憲次",
-        "战斗",
         "押井守",
         "搞笑",
         "日本",
@@ -696,6 +700,11 @@
       "total_episodes": 7,
       "id": 8696,
       "eps": 7,
+      "meta_tags": [
+        "科幻",
+        "OVA",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -785,6 +794,20 @@
           "relation": "画集",
           "type": 1,
           "id": 441934
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/8e/526861_464ok.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/8e/526861_464ok.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/79/8e/526861_464ok.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/8e/526861_464ok.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/8e/526861_464ok.jpg"
+          },
+          "name": "スローガラスの輝き",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 526861
         },
         {
           "images": {
@@ -957,6 +980,12 @@
       "total_episodes": 1,
       "id": 302,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "奇幻",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -976,6 +1005,20 @@
           "relation": "其他",
           "type": 3,
           "id": 196344
+        },
+        {
+          "images": {
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
+          },
+          "name": "となりのトトロ",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 518088
         },
         {
           "images": {
@@ -1246,16 +1289,15 @@
         "ねぎしひろし",
         "东宝",
         "井上和彦",
-        "会川升",
         "原创",
         "園田英樹",
         "御姐",
         "摩托车",
+        "日本",
         "日本动画",
         "机器人",
         "机战",
         "机车",
-        "松本保典",
         "福音",
         "科幻",
         "童年",
@@ -1263,8 +1305,9 @@
         "菊池通隆",
         "萝卜",
         "葦プロダクション",
-        "超",
-        "鷹森淑乃"
+        "补旧番",
+        "鷹森淑乃",
+        "麻宫骑亚"
       ],
       "infobox": [
         {
@@ -1315,6 +1358,10 @@
       "total_episodes": 35,
       "id": 37511,
       "eps": 35,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1423,7 +1470,6 @@
         "原创",
         "国语配音",
         "奇幻",
-        "幻想",
         "怀旧",
         "战斗",
         "搞笑",
@@ -1431,6 +1477,7 @@
         "日本动画",
         "机战",
         "林原女王",
+        "林原惠",
         "热血",
         "田中真弓",
         "神龙斗士",
@@ -1466,6 +1513,10 @@
         {
           "key": "播放结束",
           "value": "1989年3月31日"
+        },
+        {
+          "key": "音乐",
+          "value": "兼崎順一、門倉聡"
         },
         {
           "key": "原作",
@@ -1506,10 +1557,6 @@
         {
           "key": "音响监督",
           "value": "藤野貞義"
-        },
-        {
-          "key": "音乐",
-          "value": "兼崎順一、門倉聡"
         },
         {
           "key": "动画制作",
@@ -1567,6 +1614,11 @@
       "total_episodes": 45,
       "id": 1972,
       "eps": 45,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1575,17 +1627,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8b/15/90704_3bPC9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8b/15/90704_3bPC9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8b/15/90704_3bPC9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8b/15/90704_3bPC9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/15/90704_3bPC9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/03/97719_Cx5If.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/03/97719_Cx5If.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d4/03/97719_Cx5If.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/03/97719_Cx5If.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/03/97719_Cx5If.jpg"
           },
-          "name": "魔神英雄伝ワタル外伝 虎ブルファンタジー 伝説にならない三つの物語",
-          "name_cn": "魔神英雄传外传 虎神秘冒险 不能成为传说的三个小故事",
-          "relation": "番外篇",
+          "name": "魔界皇子 虎王伝",
+          "name_cn": "魔神英雄传 魔界王子虎王传",
+          "relation": "书籍",
           "type": 1,
-          "id": 90704
+          "id": 97719
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/31/474999_SkjkT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/31/474999_SkjkT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e0/31/474999_SkjkT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/31/474999_SkjkT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/31/474999_SkjkT.jpg"
+          },
+          "name": "魔神創造伝ワタル",
+          "name_cn": "魔神创造传",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 474999
         },
         {
           "images": {
@@ -1687,20 +1753,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/03/97719_Cx5If.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/03/97719_Cx5If.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d4/03/97719_Cx5If.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/03/97719_Cx5If.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/03/97719_Cx5If.jpg"
-          },
-          "name": "魔界皇子 虎王伝",
-          "name_cn": "魔神英雄传 魔界王子虎王传",
-          "relation": "书籍",
-          "type": 1,
-          "id": 97719
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/de/b5/1973_UdVY2.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/de/b5/1973_UdVY2.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/de/b5/1973_UdVY2.jpg",
@@ -1712,6 +1764,20 @@
           "relation": "续集",
           "type": 2,
           "id": 1973
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8b/15/90704_3bPC9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8b/15/90704_3bPC9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8b/15/90704_3bPC9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8b/15/90704_3bPC9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/15/90704_3bPC9.jpg"
+          },
+          "name": "魔神英雄伝ワタル外伝 虎ブルファンタジー 伝説にならない三つの物語",
+          "name_cn": "魔神英雄传外传 虎神秘冒险 不能成为传说的三个小故事",
+          "relation": "番外篇",
+          "type": 1,
+          "id": 90704
         },
         {
           "images": {
@@ -1834,6 +1900,7 @@
         "1980s",
         "1988",
         "1988年",
+        "1988年4月",
         "80s",
         "SHAFT",
         "TV",
@@ -1848,7 +1915,6 @@
         "日本",
         "旧物",
         "没看全",
-        "泡面番",
         "漫画改",
         "猫",
         "猫怪麦克",
@@ -1897,6 +1963,10 @@
           "value": "1989年3月28日"
         },
         {
+          "key": "音乐",
+          "value": "馬飼野康二、加藤みちあき"
+        },
+        {
           "key": "原作",
           "value": "小林まこと"
         },
@@ -1911,10 +1981,6 @@
         {
           "key": "音响监督",
           "value": "山崎宏"
-        },
-        {
-          "key": "音乐",
-          "value": "馬飼野康二、加藤みちあき"
         },
         {
           "key": "製作",
@@ -1932,6 +1998,11 @@
       "total_episodes": 45,
       "id": 7667,
       "eps": 45,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2024,12 +2095,12 @@
         "こだま兼嗣",
         "井上敏樹",
         "伊倉一恵",
-        "儿玉兼嗣",
         "动画",
         "北条司",
         "城市猎人",
-        "婆",
+        "女性",
         "寒羽良",
+        "已收录(BDRip)",
         "年番組",
         "打斗",
         "搞笑",
@@ -2138,6 +2209,11 @@
       "total_episodes": 63,
       "id": 53925,
       "eps": 63,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2277,8 +2353,10 @@
       "name_cn": "昆虫战士",
       "tags": [
         "1988",
+        "TV",
         "TVA",
         "小宮和枝",
+        "日本",
         "日本アニメーション",
         "日本动画",
         "日本动画公司",
@@ -2320,6 +2398,10 @@
       "total_episodes": 12,
       "id": 81529,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2393,6 +2475,10 @@
       "total_episodes": 21,
       "id": 188708,
       "eps": 21,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2650,8 +2736,10 @@
         "TVA",
         "シンエイ動画",
         "城山昇",
+        "日本",
         "日本动画",
         "旧物",
+        "漫画改",
         "西村純二",
         "頓宮恭子"
       ],
@@ -2680,6 +2768,11 @@
       "total_episodes": 10,
       "id": 189442,
       "eps": 10,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2733,6 +2826,7 @@
         "变形金刚",
         "塩沢兼人",
         "大塚芳忠",
+        "日本",
         "日本动画",
         "星山博之",
         "机器人",
@@ -2831,6 +2925,10 @@
       "total_episodes": 47,
       "id": 77219,
       "eps": 47,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

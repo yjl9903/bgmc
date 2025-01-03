@@ -28,11 +28,11 @@
         "ぴえろ",
         "伊藤和典",
         "原创",
-        "奇幻",
-        "小林七郎",
         "小林治",
         "小甜甜",
         "小蝶",
+        "年番",
+        "日本",
         "日本动画",
         "没看全",
         "甜甜",
@@ -96,6 +96,11 @@
       "total_episodes": 52,
       "id": 10560,
       "eps": 52,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -255,6 +260,20 @@
           "relation": "其他",
           "type": 2,
           "id": 501796
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/29/518221_jFAY9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/29/518221_jFAY9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/29/518221_jFAY9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/29/518221_jFAY9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/29/518221_jFAY9.jpg"
+          },
+          "name": "魔法の天使 クリィミーマミ",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 518221
         }
       ]
     }
@@ -332,6 +351,9 @@
       "total_episodes": 1,
       "id": 47673,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -408,8 +430,9 @@
         "TMSEntertainment",
         "TV",
         "こだま兼嗣",
-        "トムス・エンタテインメント",
         "三姐妹",
+        "东京Movie新社",
+        "儿玉兼嗣",
         "动画",
         "北条司",
         "古老",
@@ -425,7 +448,6 @@
         "盗窃",
         "童年",
         "童年的回忆",
-        "竹内启雄",
         "竹内啓雄",
         "笨蛋警察",
         "紧身衣",
@@ -460,12 +482,12 @@
           "value": "1985年7月8日"
         },
         {
-          "key": "原作",
-          "value": "北条司"
-        },
-        {
           "key": "导演",
           "value": "竹内啓雄（第一季）、 こだま兼嗣（第二季）"
+        },
+        {
+          "key": "原作",
+          "value": "北条司"
         },
         {
           "key": "作画监督",
@@ -495,6 +517,11 @@
       "total_episodes": 73,
       "id": 9304,
       "eps": 73,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -567,7 +594,7 @@
           },
           "name": "CAT'S EYE キャッツ・アイ",
           "name_cn": "",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 269499
         },
@@ -626,6 +653,20 @@
           "relation": "角色出演",
           "type": 2,
           "id": 402370
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/ca/524986_9S8dD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/ca/524986_9S8dD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f2/ca/524986_9S8dD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/ca/524986_9S8dD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/ca/524986_9S8dD.jpg"
+          },
+          "name": "キャッツ♥アイ",
+          "name_cn": "猫眼三姐妹",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 524986
         }
       ]
     }
@@ -647,7 +688,8 @@
       "name": "パタリロ! スターダスト計画",
       "name_cn": "巴塔利洛 星尘计划",
       "tags": [
-        "东映动画"
+        "东映动画",
+        "剧场版"
       ],
       "infobox": [
         {
@@ -702,6 +744,9 @@
       "total_episodes": 0,
       "id": 449224,
       "eps": 0,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -772,28 +817,28 @@
       "tags": [
         "1980s",
         "1983",
+        "1983年",
         "1983年7月",
-        "80",
         "80~84年",
         "80年代",
         "MADHouse",
-        "lxy",
         "アニメ映画",
         "世界核平",
         "中沢啓治",
         "剧场版",
+        "劇場版1",
         "动画",
         "动画电影",
+        "原子弹爆炸比你们想象的要可怕的多",
         "反战",
-        "宮崎一成",
         "富沢和雄",
         "战争",
-        "日本",
         "日本动画",
         "漫改",
         "漫画改",
         "独立剧场版",
         "电影",
+        "电影或剧场版",
         "真崎守",
         "社會批判",
         "羽田健太郎",
@@ -888,6 +933,10 @@
       "total_episodes": 1,
       "id": 54297,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1061,6 +1110,11 @@
       "total_episodes": 35,
       "id": 37167,
       "eps": 35,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1188,7 +1242,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/db/322187_FLGGS.jpg"
           },
           "name": "デジタルトリップ 超時空世紀オーガス シンセサイザー・ファンタジー",
-          "name_cn": "",
+          "name_cn": "超时空世纪奥卡斯 合成器幻想",
           "relation": "印象曲",
           "type": 3,
           "id": 322187
@@ -1287,10 +1341,8 @@
         "1983",
         "80-84",
         "80年代",
-        "BD",
         "MADHouse",
         "アニメ映画",
-        "作画wiki推荐",
         "剧场",
         "剧场版",
         "富沢和雄",
@@ -1341,6 +1393,9 @@
       "total_episodes": 1,
       "id": 79790,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

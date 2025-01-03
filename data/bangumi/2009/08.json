@@ -39,6 +39,7 @@
       "total_episodes": 9,
       "id": 18582,
       "eps": 0,
+      "meta_tags": [],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -80,7 +81,7 @@
         "家庭",
         "恋爱",
         "战斗",
-        "武士家族",
+        "日本",
         "治愈",
         "热血",
         "燃",
@@ -155,6 +156,11 @@
       "total_episodes": 1,
       "id": 1905,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -368,7 +374,6 @@
         "2009年",
         "2009年8月",
         "Encourage",
-        "EncourageFilms",
         "Films",
         "ONA",
         "OVA",
@@ -392,7 +397,8 @@
         "蛋黄酱萝莉",
         "追崎史敏",
         "雨宫瞳",
-        "音魂"
+        "音魂",
+        "鹊"
       ],
       "infobox": [
         {
@@ -431,16 +437,20 @@
           "value": "2009年11月6日"
         },
         {
+          "key": "导演",
+          "value": "追崎史敏"
+        },
+        {
+          "key": "音乐",
+          "value": "Aki-zo (CAS)"
+        },
+        {
           "key": "其他",
           "value": "WEB放送"
         },
         {
           "key": "原作",
           "value": "前田登"
-        },
-        {
-          "key": "导演",
-          "value": "追崎史敏"
         },
         {
           "key": "系列构成",
@@ -471,12 +481,8 @@
           "value": "佐藤順一"
         },
         {
-          "key": "音乐",
-          "value": "Aki-zo (CAS)"
-        },
-        {
           "key": "动画制作",
-          "value": "エンカレッジフィルムズ"
+          "value": "エンカレッジフィルムズ（鵲）"
         },
         {
           "key": "制作",
@@ -486,6 +492,9 @@
       "total_episodes": 5,
       "id": 2418,
       "eps": 5,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -542,6 +551,10 @@
       "total_episodes": 12,
       "id": 113564,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -628,6 +641,9 @@
       "total_episodes": 1,
       "id": 27881,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -723,6 +739,9 @@
       "total_episodes": 1,
       "id": 67832,
       "eps": 1,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -766,7 +785,6 @@
         "2009",
         "2009-08",
         "OVA",
-        "OVA-01",
         "まんきゅう",
         "二〇〇九年",
         "吉田戦車",
@@ -819,6 +837,9 @@
       "total_episodes": 3,
       "id": 41256,
       "eps": 3,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -850,7 +871,6 @@
         "BONES",
         "OVA",
         "SP",
-        "TV",
         "W-Toon_Studio",
         "W-toonStudio",
         "ダブトゥーンスタジオ",
@@ -858,6 +878,7 @@
         "千住明",
         "喜剧",
         "四格",
+        "奇幻",
         "搞笑",
         "日本",
         "森井ケンシロウ",
@@ -865,7 +886,7 @@
         "泡面番",
         "漫改",
         "漫画改",
-        "牛姨",
+        "热血",
         "特典",
         "番外",
         "短片",
@@ -936,6 +957,10 @@
       "total_episodes": 65,
       "id": 69163,
       "eps": 65,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1009,9 +1034,9 @@
         "原创",
         "奇幻",
         "战斗",
-        "日本",
         "日本动画",
         "森森你受了",
+        "民工",
         "漫改",
         "漫画改",
         "火の意志を継ぐ者",
@@ -1126,6 +1151,10 @@
       "total_episodes": 1,
       "id": 4668,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1252,6 +1281,10 @@
       "total_episodes": 1,
       "id": 5087,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1395,6 +1428,9 @@
       "total_episodes": 1,
       "id": 147202,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1451,6 +1487,7 @@
       "tags": [
         "2009",
         "2009。",
+        "2009年",
         "2009年8月",
         "J.C.STAFF",
         "OAD",
@@ -1462,21 +1499,20 @@
         "交响情人梦",
         "今千秋",
         "关智一",
-        "其他",
+        "几原邦彦",
         "女性向",
         "少女向",
         "川澄綾子",
         "川澄绫子",
-        "幾原邦彦",
         "恋爱",
         "搞笑",
+        "日本",
         "校园",
         "横谷昌宏",
         "治愈",
         "漫改",
         "漫画改",
         "番外",
-        "関智一",
         "音乐",
         "音樂"
       ],
@@ -1537,6 +1573,12 @@
       "total_episodes": 2,
       "id": 10162,
       "eps": 2,
+      "meta_tags": [
+        "OVA",
+        "漫画改",
+        "音乐",
+        "少女向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1665,7 +1707,6 @@
         "恋爱",
         "悬疑",
         "战斗",
-        "映画",
         "梶浦由記",
         "梶浦由记",
         "殺人考察(後)",
@@ -1676,7 +1717,8 @@
         "轻小说改",
         "轻改",
         "近藤光",
-        "铃村健一"
+        "铃村健一",
+        "青木英"
       ],
       "infobox": [
         {
@@ -1776,6 +1818,12 @@
       "total_episodes": 1,
       "id": 3423,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "奇幻",
+        "战斗",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2130,12 +2178,14 @@
         "WAOWorld",
         "アニメ映画",
         "ワオワールド",
+        "一",
         "个人喜好",
         "传记",
         "偶像",
         "剧场版",
         "励志",
         "原创",
+        "小说改",
         "川岛爱",
         "感动",
         "日本动画",
@@ -2189,6 +2239,9 @@
       "total_episodes": 1,
       "id": 109070,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

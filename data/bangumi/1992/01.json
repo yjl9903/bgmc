@@ -16,7 +16,7 @@
       "name": "ママは小学4年生",
       "name_cn": "妈妈是小学四年生",
       "tags": [
-        "19",
+        "1990-1999",
         "1990s",
         "1992",
         "1992，",
@@ -32,7 +32,7 @@
         "井内秀治",
         "原创",
         "喜当娘",
-        "妈妈是小学四年生",
+        "山口亮太",
         "幼女向",
         "接近7分",
         "搞笑",
@@ -88,6 +88,10 @@
           "value": "1992年12月25日"
         },
         {
+          "key": "音乐",
+          "value": "千住明、神林早人、加藤みちあき"
+        },
+        {
           "key": "企画",
           "value": "サンライズ"
         },
@@ -114,10 +118,6 @@
         {
           "key": "设定",
           "value": "协力：サブマリン、佐藤元"
-        },
-        {
-          "key": "音乐",
-          "value": "千住明、神林早人、加藤みちあき"
         },
         {
           "key": "音响监督",
@@ -159,6 +159,10 @@
       "total_episodes": 51,
       "id": 76637,
       "eps": 51,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -269,6 +273,7 @@
       "name": "三国志 第一部・英雄たちの夜明け",
       "name_cn": "三国志 第一部 英雄的黎明",
       "tags": [
+        "1990-1999",
         "1992",
         "1992年",
         "90-94",
@@ -276,13 +281,11 @@
         "lxy",
         "あおい輝彦",
         "アニメ映画",
+        "シナノ企画",
         "三国志",
-        "三国题材",
-        "三國志",
         "不感兴趣",
         "东映",
         "剧场版",
-        "动画",
         "动画电影",
         "勝間田具治",
         "历史",
@@ -292,6 +295,7 @@
         "旧物",
         "東映",
         "東映アニメーション",
+        "渡哲也",
         "童年",
         "童年系列",
         "笠原和夫",
@@ -349,6 +353,9 @@
       "total_episodes": 2,
       "id": 46537,
       "eps": 2,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -382,6 +389,34 @@
           "relation": "书籍",
           "type": 1,
           "id": 123217
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/26/525669_ggT8L.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/26/525669_ggT8L.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d4/26/525669_ggT8L.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/26/525669_ggT8L.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/26/525669_ggT8L.jpg"
+          },
+          "name": "三国志・第一部～英雄たちの夜明け",
+          "name_cn": "三国志・第一部～英雄们的黎明",
+          "relation": "原声集",
+          "type": 3,
+          "id": 525669
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/38/529641_ligq1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/38/529641_ligq1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/38/529641_ligq1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/38/529641_ligq1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/38/529641_ligq1.jpg"
+          },
+          "name": "風姿花伝",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 529641
         }
       ]
     }

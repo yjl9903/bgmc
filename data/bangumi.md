@@ -1,21 +1,5 @@
 # Bangumi
 ## Fetch new bangumi
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
 ## Error
 - There is no bangumi id for けろけろけろっぴの大冒険　ふしぎな豆の木
 - There is no bangumi id for 無責任艦長タイラー 地上より永遠に
@@ -90,13 +74,18 @@
 - fetch bangumi A KITE failed (id: 25469)
 - fetch bangumi 同級生2 Special 卒業生 failed (id: 102188)
 - fetch bangumi ONE～輝く季節へ～ failed (id: 5016)
+- fetch bangumi 112452 failed
 - fetch bangumi ふたりエッチ 第1期 failed (id: 50598)
 - fetch bangumi ふたりエッチ 2nd SEASON failed (id: 50599)
 - fetch bangumi せんせいのお時間 ご〜るど failed (id: 55603)
 - fetch bangumi 永遠のアセリア failed (id: 78071)
+- fetch bangumi 2897 failed
+- fetch bangumi 137292 failed
 - fetch bangumi ムダヅモ無き改革 -The Legend of KOIZUMI- failed (id: 4263)
 - fetch bangumi 169810 failed
+- fetch bangumi 109606 failed
 - fetch bangumi 恋騎士 Purely☆Kiss The Animation failed (id: 74478)
+- fetch bangumi 94929 failed
 - fetch bangumi 僧侶と交わる色欲の夜に… failed (id: 207567)
 - fetch bangumi スカートの中はケダモノでした。 failed (id: 215726)
 - fetch bangumi お見合い相手は教え子、強気な、問題児。 failed (id: 223502)
@@ -116,6 +105,7 @@
 - fetch bangumi エタニティ ～深夜の濡恋ちゃんねる♡～ failed (id: 316106)
 - fetch bangumi じみへんっ!!～地味子を変えちゃう純異性交遊～ failed (id: 319894)
 - fetch bangumi 黒ギャルになったから親友とヤってみた。 failed (id: 327986)
+- fetch bangumi 237992 failed
 - fetch bangumi 指先から本気の熱情2-恋人は消防士- failed (id: 332655)
 - fetch bangumi しょうたいむ！～歌のお姉さんだってしたい failed (id: 345771)
 - fetch bangumi 魔王イブロギアに身を捧げよ failed (id: 328356)
@@ -137,6 +127,7 @@
 - fetch bangumi 210443 failed
 - fetch bangumi 95121 failed
 - fetch bangumi 229358 failed
+- fetch bangumi 28781 failed
 - fetch bangumi 28792 failed
 - fetch bangumi 111180 failed
 - fetch bangumi 111180 failed
@@ -148,6 +139,7 @@
 - fetch bangumi 73715 failed
 - fetch bangumi 21294 failed
 - fetch bangumi 37662 failed
+- fetch bangumi 54369 failed
 - fetch bangumi 54848 failed
 - fetch bangumi 117991 failed
 - fetch bangumi 216788 failed
@@ -155,6 +147,7 @@
 - fetch bangumi 148664 failed
 - fetch bangumi 143866 failed
 - fetch bangumi 186939 failed
+- fetch bangumi 139400 failed
 - fetch bangumi 148664 failed
 - fetch bangumi 195292 failed
 - fetch bangumi 37662 failed
@@ -169,6 +162,7 @@
 - fetch bangumi 226440 failed
 - fetch bangumi 267988 failed
 - fetch bangumi 311672 failed
+- fetch bangumi 524169 failed
 - fetch bangumi 427235 failed
 - fetch bangumi 515880 failed
 - fetch bangumi 226614 failed
@@ -180,6 +174,7 @@
 - fetch bangumi 317645 failed
 - fetch bangumi 345814 failed
 - fetch bangumi 497881 failed
+- fetch bangumi 529198 failed
 - fetch bangumi 340867 failed
 - fetch bangumi 454083 failed
 - fetch bangumi 317645 failed
@@ -191,6 +186,7 @@
 - fetch bangumi 456077 failed
 - fetch bangumi 445903 failed
 - fetch bangumi 412144 failed
+- fetch bangumi 528828 failed
 - fetch bangumi 409383 failed
 - fetch bangumi 421874 failed
 - fetch bangumi 422031 failed
@@ -198,13 +194,16 @@
 - fetch bangumi 484623 failed
 - fetch bangumi 419872 failed
 - fetch bangumi 412008 failed
+- fetch bangumi 529161 failed
 - fetch bangumi 443106 failed
 - fetch bangumi 424242 failed
+- fetch bangumi 524486 failed
 - fetch bangumi 515595 failed
 - fetch bangumi 463779 failed
 - fetch bangumi 458684 failed
 - fetch bangumi 426100 failed
 - fetch bangumi 458673 failed
+- fetch bangumi 529367 failed
 - fetch bangumi 459601 failed
 - fetch bangumi 244931 failed
 - fetch bangumi 455617 failed
@@ -219,28 +218,51 @@
 - fetch bangumi 481530 failed
 - fetch bangumi 510710 failed
 - fetch bangumi 486763 failed
+- fetch bangumi 516788 failed
 - fetch bangumi 486311 failed
 - fetch bangumi 486456 failed
 - fetch bangumi 501044 failed
 - fetch bangumi 486054 failed
 - fetch bangumi 506957 failed
+- fetch bangumi 528829 failed
 - fetch bangumi 499073 failed
 - fetch bangumi 496391 failed
+- fetch bangumi 522411 failed
+- fetch bangumi 526104 failed
 - fetch bangumi 396016 failed
+- fetch bangumi 524365 failed
+- fetch bangumi 523664 failed
 - fetch bangumi 499656 failed
 - fetch bangumi 514926 failed
+- fetch bangumi 523842 failed
 - fetch bangumi 501963 failed
 - fetch bangumi 515594 failed
+- fetch bangumi 524128 failed
 - fetch bangumi 513725 failed
+- fetch bangumi 529756 failed
+- fetch bangumi 528495 failed
+- fetch bangumi 517106 failed
 - fetch bangumi 515856 failed
+- fetch bangumi 517057 failed
+- fetch bangumi 517532 failed
+- fetch bangumi 530104 failed
+- fetch bangumi 529723 failed
+- fetch bangumi 530115 failed
+- fetch bangumi 529694 failed
+- fetch bangumi 530725 failed
+- fetch bangumi 529966 failed
+- fetch bangumi 530110 failed
 - fetch bangumi 508003 failed
 - fetch bangumi 508003 failed
-- fetch bangumi 17833 failed
 - fetch bangumi 285530 failed
 - fetch bangumi 73966 failed
+- fetch bangumi 525084 failed
 - fetch bangumi 485990 failed
 - fetch bangumi 487716 failed
+- fetch bangumi 525114 failed
+- fetch bangumi 526202 failed
 - fetch bangumi 501960 failed
+- fetch bangumi 505562 failed
 - fetch bangumi 442616 failed
 - fetch bangumi 473414 failed
 - fetch bangumi 507819 failed

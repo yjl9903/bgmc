@@ -34,13 +34,13 @@
         "原创",
         "坪田文",
         "奇幻",
-        "子供",
         "子供向",
         "川村敏江",
         "年番",
         "幼女向",
         "座古明史",
         "战斗",
+        "日本动画",
         "東映アニメーション",
         "百合",
         "续作",
@@ -100,6 +100,14 @@
           "value": "2019年1月27日"
         },
         {
+          "key": "导演",
+          "value": "佐藤順一、座古明史"
+        },
+        {
+          "key": "音乐",
+          "value": "林ゆうき"
+        },
+        {
           "key": "Copyright",
           "value": "©ABC-A・東映アニメーション"
         },
@@ -118,10 +126,6 @@
         {
           "key": "系列构成",
           "value": "坪田文"
-        },
-        {
-          "key": "音乐",
-          "value": "林ゆうき"
         },
         {
           "key": "制作管理",
@@ -146,10 +150,6 @@
         {
           "key": "人物设定",
           "value": "川村敏江"
-        },
-        {
-          "key": "导演",
-          "value": "佐藤順一、座古明史"
         },
         {
           "key": "动画制作",
@@ -178,11 +178,36 @@
         {
           "key": "总作画监督",
           "value": "宮本絵美子、山岡直子、川村敏江"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "宮本佳那子、キュアエール（引坂理絵）、キュアアンジュ（本泉莉奈）、キュアエトワール（小倉唯）、キュアマシェリ（田村奈央）、キュアアムール（田村ゆかり）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "藤本記子、ミズノゲンキ、六ツ見純代"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "福富雅之、睦月周平、KOH"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "福富雅之、睦月周平、KOH"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "薬師寺さあや（本泉莉奈）、輝木ほまれ（小倉唯）、愛崎えみる（田村奈央）、ルールー・アムール（田村ゆかり）"
         }
       ],
       "total_episodes": 49,
       "id": 228046,
       "eps": 49,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -419,6 +444,7 @@
       "name": "がんがんがんこちゃん 第2期",
       "name_cn": "吵闹的顽固小子 第2期",
       "tags": [
+        "TV",
         "泡面",
         "泡面番"
       ],
@@ -487,6 +513,10 @@
       "total_episodes": 8,
       "id": 238831,
       "eps": 8,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -538,6 +568,7 @@
         "国漫",
         "垃圾",
         "基",
+        "已下",
         "恋爱",
         "恋爱番",
         "漫改",
@@ -770,6 +801,11 @@
       "total_episodes": 12,
       "id": 233615,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "漫画改",
+        "中国"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -906,6 +942,9 @@
       "total_episodes": 1,
       "id": 223517,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1038,6 +1077,9 @@
       "total_episodes": 1,
       "id": 223398,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1117,13 +1159,11 @@
         "RoosterTeeth",
         "RoosterTeethProductions",
         "Rooster_Teeth",
-        "SF",
         "SP",
         "ShaneNewville",
         "TV",
         "WEB",
         "anime",
-        "teeth",
         "动画",
         "原创",
         "已保存",
@@ -1133,6 +1173,8 @@
         "泡面",
         "泡面番",
         "番外",
+        "百合",
+        "短片",
         "短篇",
         "美国",
         "美国动画"
@@ -1158,6 +1200,10 @@
       "total_episodes": 16,
       "id": 237133,
       "eps": 16,
+      "meta_tags": [
+        "欧美",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1177,6 +1223,20 @@
           "relation": "前传",
           "type": 2,
           "id": 215096
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/bb/521200_JBBlo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/bb/521200_JBBlo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e8/bb/521200_JBBlo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/bb/521200_JBBlo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/bb/521200_JBBlo.jpg"
+          },
+          "name": "RWBY Chibi Season 4",
+          "name_cn": "",
+          "relation": "续集",
+          "type": 2,
+          "id": 521200
         },
         {
           "images": {
@@ -1283,6 +1343,10 @@
       "total_episodes": 1,
       "id": 199230,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1590,6 +1654,12 @@
       "total_episodes": 1,
       "id": 218971,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "奇幻",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1704,6 +1774,7 @@
         "安野希世乃",
         "总集篇",
         "恋爱",
+        "日本",
         "映画",
         "机战",
         "机甲",
@@ -1714,7 +1785,6 @@
         "科幻",
         "萝卜",
         "超时空要塞",
-        "鈴木みのり",
         "音乐"
       ],
       "infobox": [
@@ -1754,6 +1824,10 @@
       "total_episodes": 1,
       "id": 221637,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1861,11 +1935,13 @@
         "小说改",
         "悬疑",
         "挺不错",
+        "欧美",
         "电视剧",
         "碳变",
         "科幻",
         "细节",
         "美剧",
+        "美国",
         "赛博朋克"
       ],
       "infobox": [
@@ -1928,6 +2004,12 @@
       "total_episodes": 10,
       "id": 231595,
       "eps": 10,
+      "meta_tags": [
+        "电视剧",
+        "美国",
+        "科幻",
+        "欧美"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

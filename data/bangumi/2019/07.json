@@ -19,7 +19,6 @@
         "2019",
         "2019年",
         "2019年7月",
-        "Film",
         "MAHOFILM",
         "MAHO_FILM",
         "TV",
@@ -32,6 +31,7 @@
         "小说改",
         "异世界",
         "恋爱",
+        "战斗",
         "日常",
         "日本",
         "日本动画",
@@ -81,6 +81,10 @@
           "value": "2019年9月19日"
         },
         {
+          "key": "导演",
+          "value": "柳瀬雄之"
+        },
+        {
           "key": "Copyright",
           "value": "© CHIROLU・ホビージャパン／白金の妖精姫を見守る会"
         },
@@ -95,10 +99,6 @@
         {
           "key": "デザイン協力",
           "value": "ほた。(MFC／KADOKAWA）"
-        },
-        {
-          "key": "导演",
-          "value": "柳瀬雄之"
         },
         {
           "key": "人物设定",
@@ -128,6 +128,13 @@
       "total_episodes": 12,
       "id": 275352,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "恋爱",
+        "日本",
+        "奇幻",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -234,9 +241,9 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/d1/238004_F9Hgn.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/d1/238004_F9Hgn.jpg"
       },
-      "summary": "这座城市住着众多的神，其中心存在着通往地心深处——深渊的“地下城”。城市的名字是迷宫都市欧拉丽。\r\n女神赫斯缇雅与冒险者贝尔·克朗尼，一如既往地是主神和仅仅一名眷族的最小构成。但达成了世界最快升级这一伟业的贝尔，开始受到前所未有的的万众瞩目——\r\n迷宫中的相遇，以及冒险——这是再次开始编织的，少年所走过的，女神所记录的【眷族物语】——",
+      "summary": "这座城市住着众多的神，其中心存在着通往地心深处——深渊的“地下城”。城市的名字是迷宫都市欧拉丽。\r\n女神赫斯缇雅与冒险者贝尔·克朗尼，一如既往地是主神和仅仅一名眷族的最小构成。但达成了世界最快升级这一伟业的贝尔，开始受到前所未有的的万众瞩目——\r\n迷宫中的相遇，以及冒险——这是再次开始编织的，少年所走过的，女神所记录的——【眷族物语（Familiar Myth）】——",
       "name": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ",
-      "name_cn": "期待在地下城邂逅有错吗 第二季",
+      "name_cn": "期待在地下城邂逅有错吗II",
       "tags": [
         "2019",
         "2019年",
@@ -245,6 +252,7 @@
         "TV",
         "冒险",
         "剧情",
+        "动画",
         "后宫",
         "在地下城寻求邂逅是否搞错了什么",
         "地下城",
@@ -254,7 +262,6 @@
         "恋爱",
         "战斗",
         "搞笑",
-        "日常",
         "日本",
         "日本动画",
         "期待在地下城邂逅有错吗",
@@ -272,11 +279,14 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "期待在地下城邂逅有错吗 第二季"
+          "value": "期待在地下城邂逅有错吗II"
         },
         {
           "key": "别名",
           "value": [
+            {
+              "v": "期待在地下城邂逅有错吗 第二季"
+            },
             {
               "v": "在地下城寻求邂逅是否搞错了什么 第二季"
             },
@@ -314,16 +324,20 @@
           "value": "2019年9月27日"
         },
         {
+          "key": "导演",
+          "value": "橘秀樹"
+        },
+        {
+          "key": "音乐",
+          "value": "井内啓二"
+        },
+        {
           "key": "Copyright",
           "value": "©大森藤ノ・SBクリエイティブ／ダンまち2製作委員会"
         },
         {
           "key": "原作",
           "value": "大森藤ノ（GA文庫／SBクリエイティブ刊）"
-        },
-        {
-          "key": "导演",
-          "value": "橘秀樹"
         },
         {
           "key": "人物原案",
@@ -360,10 +374,6 @@
         {
           "key": "音响监督",
           "value": "明田川仁"
-        },
-        {
-          "key": "音乐",
-          "value": "井内啓二"
         },
         {
           "key": "主题歌作词",
@@ -417,6 +427,13 @@
       "total_episodes": 13,
       "id": 238004,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "战斗",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -432,7 +449,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b6/d5/291412_zE2C2.jpg"
           },
           "name": "ダンジョンに出会いを求めるのは間違っているだろうかⅢ",
-          "name_cn": "期待在地下城邂逅有错吗 第三季",
+          "name_cn": "期待在地下城邂逅有错吗III",
           "relation": "续集",
           "type": 2,
           "id": 291412
@@ -544,7 +561,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/3d/291413_Q6Cw0.jpg"
           },
           "name": "ダンジョンに出会いを求めるのは間違っているだろうかⅡ OVA",
-          "name_cn": "期待在地下城邂逅有错吗Ⅱ OVA",
+          "name_cn": "期待在地下城邂逅有错吗II OVA",
           "relation": "番外篇",
           "type": 2,
           "id": 291413
@@ -628,7 +645,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/13/238005_q264u.jpg"
           },
           "name": "劇場版 ダンジョンに出会いを求めるのは間違っているだろうか －オリオンの矢－",
-          "name_cn": "期待在地下城邂逅有错吗－俄里翁之矢－",
+          "name_cn": "期待在地下城邂逅有错吗 -俄里翁之矢-",
           "relation": "番外篇",
           "type": 2,
           "id": 238005
@@ -708,6 +725,7 @@
         "原创",
         "变身",
         "声乐",
+        "奇幻",
         "小野勝巳",
         "小野胜巳",
         "悠木碧",
@@ -720,7 +738,6 @@
         "百合",
         "科幻",
         "续作",
-        "茅野爱衣",
         "金子彰史",
         "音乐",
         "高垣彩阳",
@@ -769,6 +786,10 @@
         {
           "key": "播放结束",
           "value": "2019年9月28日"
+        },
+        {
+          "key": "导演",
+          "value": "小野勝巳"
         },
         {
           "key": "Copyright",
@@ -823,10 +844,6 @@
           "value": "大河広行、川原智弘"
         },
         {
-          "key": "导演",
-          "value": "小野勝巳"
-        },
-        {
           "key": "动作作画监督",
           "value": "式地幸喜、杉江敏治、中小路佳毅、高嶋宏之（OP表记）；光田史亮、椛島洋介"
         },
@@ -842,6 +859,13 @@
       "total_episodes": 17,
       "id": 170689,
       "eps": 13,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -948,11 +972,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/12/163711_95HdH.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/12/163711_95HdH.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/38/12/163711_95HdH.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/12/163711_95HdH.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/12/163711_95HdH.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/12/163711_5g6w9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/12/163711_5g6w9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/12/163711_5g6w9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/12/163711_5g6w9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/12/163711_5g6w9.jpg"
           },
           "name": "戦姫絶唱シンフォギアAXZ",
           "name_cn": "战姬绝唱SYMPHOGEAR AXZ",
@@ -1156,9 +1180,9 @@
         "一方通行",
         "外传",
         "奇幻",
-        "季番",
         "岡本信彦",
         "战斗",
+        "日常",
         "日本",
         "日本动画",
         "杉原研二",
@@ -1224,6 +1248,10 @@
           "value": "2019年9月27日"
         },
         {
+          "key": "导演",
+          "value": "鎌仲史陽"
+        },
+        {
           "key": "Copyright",
           "value": "©2018 鎌池和馬／山路新／KADOKAWA／PROJECT-ACCELERATOR"
         },
@@ -1238,10 +1266,6 @@
         {
           "key": "製作",
           "value": "PROJECT-ACCELERATOR（ KADOKAWA アスキー・メディアワークス、ワーナー ブラザース ジャパン、NBCユニバーサル・エンターテイメント、スクウェア・エニックス、ムービック、J.C.STAFF、AT-X）"
-        },
-        {
-          "key": "导演",
-          "value": "鎌仲史陽"
         },
         {
           "key": "人物设定",
@@ -1259,6 +1283,13 @@
       "total_episodes": 13,
       "id": 262939,
       "eps": 12,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1267,11 +1298,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/00/95590_qU31e.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/00/95590_qU31e.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/88/00/95590_qU31e.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/00/95590_qU31e.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/00/95590_qU31e.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/00/95590_DBU49.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/00/95590_DBU49.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/88/00/95590_DBU49.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/00/95590_DBU49.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/00/95590_DBU49.jpg"
           },
           "name": "とある科学の一方通行",
           "name_cn": "某科学的一方通行",
@@ -1373,11 +1404,11 @@
       "date": "2019-07-12",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/19/264355_PBB4E.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/19/264355_PBB4E.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/10/19/264355_PBB4E.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/19/264355_PBB4E.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/19/264355_PBB4E.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/19/264355_L33lh.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/19/264355_L33lh.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/10/19/264355_L33lh.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/19/264355_L33lh.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/19/264355_L33lh.jpg"
       },
       "summary": "“小真，接下来就和妈妈一起好好冒险吧”\r\n被传送到梦寐以求的游戏世界的高中生、大好真人，但不到为什么，溺爱真人的母亲真真子也跟着来了！？\r\n母亲陪伴的新感觉冒险喜剧开幕！",
       "name": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
@@ -1389,7 +1420,6 @@
         "2019年7月",
         "J.C.STAFF",
         "TV",
-        "undefined",
         "冒险",
         "动画",
         "卖肉",
@@ -1409,6 +1439,7 @@
         "穿越",
         "网游",
         "肉",
+        "肉番",
         "茅野愛衣",
         "茅野爱衣",
         "轻小说改",
@@ -1474,6 +1505,13 @@
       "total_episodes": 12,
       "id": 264355,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "奇幻",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1705,16 +1743,20 @@
           "value": "2019年9月22日"
         },
         {
+          "key": "导演",
+          "value": "赤城博昭"
+        },
+        {
+          "key": "音乐",
+          "value": "堤博明"
+        },
+        {
           "key": "Copyright",
           "value": "© 2019 山本崇一朗・小学館／からかい上手の高木さん2 製作委員会"
         },
         {
           "key": "原作",
           "value": "山本崇一朗「からかい上手の高木さん」「あしたは土曜日」（小学館「ゲッサン」刊）"
-        },
-        {
-          "key": "导演",
-          "value": "赤城博昭"
         },
         {
           "key": "副导演",
@@ -1731,15 +1773,18 @@
         {
           "key": "总作画监督",
           "value": "茂木琢次、近藤奈都子、諏訪壮大、高野綾"
-        },
-        {
-          "key": "音乐",
-          "value": "堤博明"
         }
       ],
       "total_episodes": 16,
       "id": 271151,
       "eps": 12,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "恋爱",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1938,7 +1983,6 @@
         "2019夏",
         "2019年",
         "2019年7月",
-        "7分",
         "Passione",
         "TV",
         "さんぺい聖",
@@ -1963,7 +2007,8 @@
         "赤﨑千夏",
         "轻百合",
         "青春",
-        "高桥丈夫"
+        "高桥丈夫",
+        "高橋丈夫"
       ],
       "infobox": [
         {
@@ -2013,6 +2058,14 @@
           "value": "2019年9月20日"
         },
         {
+          "key": "导演",
+          "value": "さんぺい聖"
+        },
+        {
+          "key": "音乐",
+          "value": "菊谷知樹"
+        },
+        {
           "key": "Copyright",
           "value": "©ビーノ／KADOKAWA／女子高生の無駄づかい製作委員会"
         },
@@ -2023,10 +2076,6 @@
         {
           "key": "总导演",
           "value": "高橋丈夫"
-        },
-        {
-          "key": "导演",
-          "value": "さんぺい聖"
         },
         {
           "key": "系列构成",
@@ -2065,10 +2114,6 @@
           "value": "明田川仁"
         },
         {
-          "key": "音乐",
-          "value": "菊谷知樹"
-        },
-        {
           "key": "音乐制作",
           "value": "KADOKAWA"
         },
@@ -2084,6 +2129,13 @@
       "total_episodes": 12,
       "id": 265708,
       "eps": 12,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "日本",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2195,6 +2247,7 @@
       "name_cn": "只要可爱即使是变态你也会喜欢我吧？",
       "tags": [
         "2019",
+        "2019夏",
         "2019年",
         "2019年7月",
         "GeekToys",
@@ -2202,7 +2255,6 @@
         "いまざきいつき",
         "伊魔崎斋",
         "兄妹",
-        "党争",
         "动画",
         "卖肉",
         "变态",
@@ -2219,8 +2271,8 @@
         "日高里菜",
         "校园",
         "竹达彩奈",
-        "竹達彩奈",
         "肉",
+        "花間燈",
         "贫穷",
         "轻小说改",
         "轻改"
@@ -2278,6 +2330,13 @@
       "total_episodes": 12,
       "id": 275371,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "恋爱",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2388,8 +2447,8 @@
       "name": "ありふれた職業で世界最強",
       "name_cn": "平凡职业造就世界最强",
       "tags": [
-        "2018年4月",
         "2019",
+        "2019夏",
         "2019年",
         "2019年7月",
         "TV",
@@ -2513,6 +2572,13 @@
       "total_episodes": 17,
       "id": 231414,
       "eps": 13,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "穿越",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2673,6 +2739,7 @@
         "Encourage_Films",
         "TV",
         "UHF",
+        "动画",
         "厕纸",
         "后宫",
         "天﨑滉平",
@@ -2685,10 +2752,9 @@
         "恋爱",
         "战斗",
         "搞笑",
+        "日本",
         "日本动画",
-        "日笠陽子",
         "热血",
-        "爽片",
         "穿越",
         "筑紫大介",
         "轻小说改",
@@ -2730,16 +2796,16 @@
           "value": "2019年9月25日"
         },
         {
+          "key": "导演",
+          "value": "筑紫大介"
+        },
+        {
           "key": "Copyright",
           "value": "©2019 内田健／主婦の友インフォス・KADOKAWA／「異世界チート魔術師」製作委員会"
         },
         {
           "key": "原作",
           "value": "内田健（ヒーロー文庫／主婦の友インフォス刊）"
-        },
-        {
-          "key": "导演",
-          "value": "筑紫大介"
         },
         {
           "key": "人物设定",
@@ -2768,11 +2834,22 @@
         {
           "key": "摄影监督",
           "value": "塩野修平（いなほ）"
+        },
+        {
+          "key": "动画制作",
+          "value": "エンカレッジフィルムズ（鵲）"
         }
       ],
       "total_episodes": 13,
       "id": 242962,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "穿越",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2945,16 +3022,16 @@
           "value": "2019年9月18日"
         },
         {
+          "key": "导演",
+          "value": "木村寛"
+        },
+        {
           "key": "Copyright",
           "value": "©神埼黒音／双葉社・「魔王様、リトライ！」製作委員会"
         },
         {
           "key": "原作",
           "value": "神埼黒音 (『魔王様、リトライ！』/双葉社・Mノベルス)"
-        },
-        {
-          "key": "导演",
-          "value": "木村寛"
         },
         {
           "key": "人物设定",
@@ -2968,6 +3045,13 @@
       "total_episodes": 12,
       "id": 260407,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "奇幻",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3043,6 +3127,20 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 451119
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/85/520728_bjRCT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/85/520728_bjRCT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3c/85/520728_bjRCT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/85/520728_bjRCT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/85/520728_bjRCT.jpg"
+          },
+          "name": "魔王様、リトライ！R リボーン",
+          "name_cn": "重来吧、魔王大人！R 重生",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520728
         }
       ]
     }
@@ -3062,7 +3160,7 @@
       },
       "summary": "“响……你又胖了吧？”\r\n朋友毫不留情的一句话，刺入爱吃的女高中生·纱仓响心中。\r\n她想着暑假之前绝对要瘦下来而决定减肥，却陷入一个人无法好好持续运动的窘境。\r\n为此而苦恼的响，前往的地方是健身房！\r\n她在入会的健身房与同级生、气质十足的美少女学生会长·奏流院朱美相遇，自此踏入了深奥而愉快的肌肉锻炼的世界……。",
       "name": "ダンベル何キロ持てる？",
-      "name_cn": "肌肉少女：哑铃，能举多少公斤？",
+      "name_cn": "流汗吧！健身少女",
       "tags": [
         "2019",
         "2019年",
@@ -3098,19 +3196,19 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "肌肉少女：哑铃，能举多少公斤？"
+          "value": "流汗吧！健身少女"
         },
         {
           "key": "别名",
           "value": [
             {
+              "v": "肌肉少女：哑铃，能举多少公斤？"
+            },
+            {
               "v": "Dumbbell Nan Kilo Moteru?"
             },
             {
               "v": "How Heavy Are the Dumbbells You Lift?"
-            },
-            {
-              "v": "流汗吧！健身少女"
             }
           ]
         },
@@ -3143,16 +3241,16 @@
           "value": "2019年9月18日"
         },
         {
+          "key": "导演",
+          "value": "山﨑みつえ"
+        },
+        {
           "key": "Copyright",
-          "value": "© 2019 サンドロビッチ・ヤバ子，MAAM・小学館／シルバーマンジム"
+          "value": "©2019 サンドロビッチ・ヤバ子，MAAM・小学館／シルバーマンジム"
         },
         {
           "key": "原作",
-          "value": "サンドロビッチ・ヤバ子&MAAM(小学館「マンガワン」連載中)"
-        },
-        {
-          "key": "导演",
-          "value": "山﨑みつえ"
+          "value": "サンドロビッチ・ヤバ子&MAAM（小学館「マンガワン」連載中）"
         },
         {
           "key": "人物设定",
@@ -3178,6 +3276,13 @@
       "total_episodes": 12,
       "id": 271724,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "运动",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3298,7 +3403,6 @@
         "おそら",
         "下山健人",
         "中之人基因组",
-        "井上亜樹子",
         "佐藤拓也",
         "内山昂輝",
         "冒险",
@@ -3313,6 +3417,7 @@
         "日本",
         "日本动画",
         "横手美智子",
+        "津田健次郎",
         "漫改",
         "漫画改",
         "畠中祐",
@@ -3361,6 +3466,14 @@
           "value": "2019年9月22日"
         },
         {
+          "key": "导演",
+          "value": "大沼心"
+        },
+        {
+          "key": "音乐",
+          "value": "佐藤純一（fhána）、TEAM WHIM"
+        },
+        {
           "key": "Copyright",
           "value": "©2019 おそら／KADOKAWA／ナカノヒトゲノム【実況中】製作委員会"
         },
@@ -3369,20 +3482,12 @@
           "value": "おそら"
         },
         {
-          "key": "导演",
-          "value": "大沼心"
-        },
-        {
           "key": "系列构成",
           "value": "下山健人"
         },
         {
           "key": "人物设定",
           "value": "髙橋瑞紀"
-        },
-        {
-          "key": "音乐",
-          "value": "佐藤純一（fhána）、TEAM WHIM"
         },
         {
           "key": "音乐制作",
@@ -3400,6 +3505,13 @@
       "total_episodes": 12,
       "id": 247548,
       "eps": 12,
+      "meta_tags": [
+        "悬疑",
+        "TV",
+        "日本",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3527,7 +3639,6 @@
         "2019",
         "2019年",
         "2019年7月",
-        "7月",
         "LIDENFILMS",
         "TV",
         "ライデンフィルム",
@@ -3538,6 +3649,7 @@
         "手冲学姐",
         "搞笑",
         "日常",
+        "日本",
         "日本动画",
         "本渡枫",
         "本渡楓",
@@ -3600,6 +3712,12 @@
       "total_episodes": 12,
       "id": 265614,
       "eps": 12,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3747,16 +3865,16 @@
           "value": "2019年9月17日"
         },
         {
+          "key": "导演",
+          "value": "長山延好"
+        },
+        {
           "key": "Copyright",
           "value": "©岡本健太郎・さがら梨々・講談社／ソウナンですか？製作委員会"
         },
         {
           "key": "原作",
           "value": "岡本健太郎、さがら梨々"
-        },
-        {
-          "key": "导演",
-          "value": "長山延好"
         },
         {
           "key": "人物设定",
@@ -3786,6 +3904,12 @@
       "total_episodes": 12,
       "id": 276187,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3881,7 +4005,6 @@
         "原创动画",
         "奇幻",
         "季番",
-        "島袋美由利",
         "悠木碧",
         "战斗",
         "日本",
@@ -3896,6 +4019,7 @@
         "花田十輝",
         "花田十辉",
         "萝卜",
+        "表番",
         "轻百合",
         "魔法少女"
       ],
@@ -3941,16 +4065,16 @@
           "value": "2019年9月27日"
         },
         {
+          "key": "导演",
+          "value": "渡邊政治"
+        },
+        {
           "key": "Copyright",
           "value": "©ProjectGRANBELM"
         },
         {
           "key": "原案",
           "value": "ProjectGRANBELM"
-        },
-        {
-          "key": "导演",
-          "value": "渡邊政治"
         },
         {
           "key": "系列构成",
@@ -3992,6 +4116,13 @@
       "total_episodes": 13,
       "id": 276412,
       "eps": 13,
+      "meta_tags": [
+        "百合",
+        "机战",
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4064,11 +4195,11 @@
       "date": "2019-07-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/ad/268070_OHo4U.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/ad/268070_OHo4U.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/22/ad/268070_OHo4U.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/ad/268070_OHo4U.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/ad/268070_OHo4U.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/22/ad/268070_UEueQ.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/22/ad/268070_UEueQ.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/22/ad/268070_UEueQ.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/22/ad/268070_UEueQ.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/22/ad/268070_UEueQ.jpg"
       },
       "summary": "隶属于高中文艺部的小野寺和纱等5名女生。\r\n某一天她们正在热烈讨论“死前想要做的事情”这一话题，这时部员中的一人说出了一句话……。\r\n从那个瞬间开始，她们就开始为“性”所折磨了。",
       "name": "荒ぶる季節の乙女どもよ。",
@@ -4080,12 +4211,12 @@
         "2019年7月",
         "Lay-duce",
         "TV",
-        "TVA",
         "レイ・デュース",
         "冈田磨里",
         "冈田麿里",
         "塚田拓郎",
         "季番",
+        "安济知佳",
         "安済知佳",
         "安藤真裕",
         "岡田麿里",
@@ -4153,12 +4284,16 @@
           "value": "2019年9月20日"
         },
         {
-          "key": "Copyright",
-          "value": "©岡田麿里・絵本奈央・講談社/荒乙製作委員会"
-        },
-        {
           "key": "导演",
           "value": "安藤真裕、塚田拓郎"
+        },
+        {
+          "key": "音乐",
+          "value": "日向萌"
+        },
+        {
+          "key": "Copyright",
+          "value": "©岡田麿里・絵本奈央・講談社/荒乙製作委員会"
         },
         {
           "key": "脚本",
@@ -4211,15 +4346,18 @@
         {
           "key": "音响监督",
           "value": "郷文裕貴"
-        },
-        {
-          "key": "音乐",
-          "value": "日向萌"
         }
       ],
       "total_episodes": 12,
       "id": 268070,
       "eps": 12,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "恋爱",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4317,10 +4455,10 @@
       "name_cn": "炎炎消防队",
       "tags": [
         "2019",
+        "2019夏",
         "2019年",
         "2019年7月",
         "TV",
-        "TVA",
         "david.production",
         "david_production",
         "davidproduction",
@@ -4343,7 +4481,7 @@
         "漫画改",
         "炎炎消防队",
         "热血",
-        "王道",
+        "蓜岛岳斗",
         "蓜島岳斗",
         "超能力"
       ],
@@ -4398,6 +4536,10 @@
           "value": "2019年12月27日"
         },
         {
+          "key": "导演",
+          "value": "八瀬祐樹"
+        },
+        {
           "key": "Copyright",
           "value": "© 大久保篤・講談社／特殊消防隊動画広報課"
         },
@@ -4416,10 +4558,6 @@
         {
           "key": "VFX",
           "value": "大橋遼"
-        },
-        {
-          "key": "导演",
-          "value": "八瀬祐樹"
         },
         {
           "key": "人物设定",
@@ -4445,6 +4583,13 @@
       "total_episodes": 24,
       "id": 266372,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4632,10 +4777,12 @@
         "2019年7月",
         "MAPPA",
         "TV",
+        "a.Anime",
         "cygames",
         "三话弃",
         "中村悠一",
         "兽化",
+        "加隈亚衣",
         "奇幻",
         "宍户淳",
         "宍戸淳",
@@ -4652,9 +4799,7 @@
         "热血",
         "石川界人",
         "能登麻美子",
-        "致曾为神之众兽",
-        "萌二",
-        "表"
+        "致曾为神之众兽"
       ],
       "infobox": [
         {
@@ -4701,16 +4846,16 @@
           "value": "2019年9月16日"
         },
         {
+          "key": "导演",
+          "value": "宍戸淳"
+        },
+        {
           "key": "Copyright",
           "value": "©めいびい・講談社／かつ神製作委員会"
         },
         {
           "key": "原作",
           "value": "めいびい（講談社「別冊少年マガジン」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "宍戸淳"
         },
         {
           "key": "系列构成",
@@ -4752,6 +4897,13 @@
       "total_episodes": 12,
       "id": 273879,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4832,7 +4984,7 @@
       },
       "summary": "全人类被神奇的现象一瞬间石化后过了几千年——\r\n拥有超人般头脑、天生的科学少年·千空苏醒了。\r\n在文明遭到毁灭的石头世界（STONE WORLD）里，千空决定要用科学的力量复原整个世界。而与此同时苏醒过来的有，以有着过人体力的儿时玩伴·大木大树为首的伙伴们，从零开始创造文明——\r\n从石器时代到现代文明，一定要赶上这科学史的200万年差距！\r\n前所未闻的创世冒险谭，就此开幕！",
       "name": "Dr.STONE",
-      "name_cn": "新石纪",
+      "name_cn": "石纪元",
       "tags": [
         "2019",
         "2019年",
@@ -4843,7 +4995,6 @@
         "TMSEntertainment",
         "TMS_Entertainment",
         "TV",
-        "トムス・エンタテインメント",
         "中村悠一",
         "冒险",
         "半年番",
@@ -4853,6 +5004,7 @@
         "战斗",
         "搞笑",
         "新石纪",
+        "日本",
         "日本动画",
         "漫改",
         "漫画改",
@@ -4868,13 +5020,13 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "新石纪"
+          "value": "石纪元"
         },
         {
           "key": "别名",
           "value": [
             {
-              "v": "石纪元"
+              "v": "新石纪"
             }
           ]
         },
@@ -4907,12 +5059,16 @@
           "value": "2019年12月13日"
         },
         {
-          "key": "Copyright",
-          "value": "©米スタジオ・Boichi／集英社・Dr.STONE製作委員会"
-        },
-        {
           "key": "导演",
           "value": "飯野慎也"
+        },
+        {
+          "key": "音乐",
+          "value": "加藤達也、堤博明、YUKI KANESAKA(monolog)"
+        },
+        {
+          "key": "Copyright",
+          "value": "©米スタジオ・Boichi／集英社・Dr.STONE製作委員会"
         },
         {
           "key": "系列构成",
@@ -4928,11 +5084,7 @@
         },
         {
           "key": "人物设定",
-          "value": "岩佐裕子 副：村谷貴志、寺尾憲治"
-        },
-        {
-          "key": "音乐",
-          "value": "加藤達也、堤博明、YUKI KANESAKA(monolog)"
+          "value": "岩佐裕子；副：村谷貴志、寺尾憲治"
         },
         {
           "key": "动画制作",
@@ -4942,6 +5094,13 @@
       "total_episodes": 24,
       "id": 266794,
       "eps": 24,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4985,7 +5144,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/b5/296261_5xbbe.jpg"
           },
           "name": "Dr.STONE STONE WARS",
-          "name_cn": "新石纪 STONE WARS",
+          "name_cn": "石纪元 石之战争",
           "relation": "续集",
           "type": 2,
           "id": 296261
@@ -5095,12 +5254,13 @@
       "name_cn": "Re:Stage！Dream Days♪",
       "tags": [
         "2019",
+        "2019夏",
+        "2019年",
         "2019年7月",
         "Graphinica",
         "Lolidol",
         "Re:stage!",
         "TV",
-        "TVA",
         "ゆめ太カンパニー",
         "グラフィニカ",
         "偶像",
@@ -5109,6 +5269,7 @@
         "原创",
         "和泉つばす",
         "季番",
+        "已下载",
         "手游改",
         "搞笑",
         "日常",
@@ -5118,12 +5279,10 @@
         "游戏改",
         "片貝慎",
         "片贝慎",
-        "牧野天音",
         "百合",
         "萌",
         "轻百合",
-        "音乐",
-        "鬼頭明里"
+        "音乐"
       ],
       "infobox": [
         {
@@ -5167,16 +5326,16 @@
           "value": "2019年9月29日"
         },
         {
+          "key": "导演",
+          "value": "片貝慎"
+        },
+        {
           "key": "Copyright",
           "value": "ⒸRe:ステージ! ドリームデイズ♪ 製作委員会"
         },
         {
           "key": "原作",
           "value": "『Re:ステージ！』"
-        },
-        {
-          "key": "导演",
-          "value": "片貝慎"
         },
         {
           "key": "副导演",
@@ -5206,6 +5365,12 @@
       "total_episodes": 12,
       "id": 252321,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5429,7 +5594,6 @@
       "name_cn": "偶像梦幻祭",
       "tags": [
         "16-19",
-        "19.12.22",
         "2017",
         "2017年",
         "2019",
@@ -5444,6 +5608,7 @@
         "偶像",
         "前野智昭",
         "女性向",
+        "小推",
         "手游改",
         "日日日",
         "日本",
@@ -5501,6 +5666,14 @@
           "value": "2019年12月22日"
         },
         {
+          "key": "导演",
+          "value": "菱田正和"
+        },
+        {
+          "key": "音乐",
+          "value": "加藤達也"
+        },
+        {
           "key": "Copyright",
           "value": "©Happy Elements K.K／あんスタ！アニメ製作委員会"
         },
@@ -5513,20 +5686,12 @@
           "value": "日日日"
         },
         {
-          "key": "音乐",
-          "value": "加藤達也"
-        },
-        {
           "key": "动画制作",
           "value": "david production"
         },
         {
           "key": "製作",
           "value": "あんスタ！アニメ製作委員会"
-        },
-        {
-          "key": "导演",
-          "value": "菱田正和"
         },
         {
           "key": "系列监督",
@@ -5564,6 +5729,12 @@
       "total_episodes": 25,
       "id": 159159,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改",
+        "中国"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5820,8 +5991,8 @@
         "J.C.STAFF",
         "TV",
         "きらら",
-        "大知慶一郎",
         "奇幻",
+        "季番",
         "小原好美",
         "废萌",
         "搞笑",
@@ -5896,16 +6067,16 @@
           "value": "2019年9月26日"
         },
         {
+          "key": "导演",
+          "value": "桜井弘明"
+        },
+        {
           "key": "Copyright",
           "value": "©伊藤いづも・芳文社／まちカドまぞく製作委員会"
         },
         {
           "key": "原作",
           "value": "伊藤いづも（芳文社「まんがタイムきららキャラット」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "桜井弘明"
         },
         {
           "key": "人物设定",
@@ -5967,6 +6138,13 @@
       "total_episodes": 16,
       "id": 272510,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6150,16 +6328,20 @@
           "value": "2019年9月18日"
         },
         {
+          "key": "导演",
+          "value": "安藤正臣"
+        },
+        {
+          "key": "音乐",
+          "value": "横山克、信澤宣明"
+        },
+        {
           "key": "Copyright",
           "value": "© 篠原健太／集英社・彼方のアストラ製作委員会"
         },
         {
           "key": "原作",
           "value": "篠原健太 (集英社ジャンプ コミックス刊)"
-        },
-        {
-          "key": "导演",
-          "value": "安藤正臣"
         },
         {
           "key": "系列构成",
@@ -6226,10 +6408,6 @@
           "value": "宮崎直樹(森田編集室)"
         },
         {
-          "key": "音乐",
-          "value": "横山克、信澤宣明"
-        },
-        {
           "key": "音乐制作",
           "value": "KADOKAWA"
         },
@@ -6264,15 +6442,20 @@
         {
           "key": "执行制片人",
           "value": "工藤大丈、大好誠、 松田啓次、篠崎文彦、山崎明日香、宮崎裕司"
-        },
-        {
-          "key": "演出",
-          "value": "ながはまのりひこ（4话）"
         }
       ],
       "total_episodes": 12,
       "id": 273877,
       "eps": 12,
+      "meta_tags": [
+        "科幻",
+        "悬疑",
+        "TV",
+        "日本",
+        "漫画改",
+        "冒险",
+        "剧情"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6373,11 +6556,11 @@
       "date": "2019-07-08",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/f7/270422_HjK2l.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/f7/270422_HjK2l.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/14/f7/270422_HjK2l.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/f7/270422_HjK2l.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/f7/270422_HjK2l.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/f7/270422_lkZU5.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/f7/270422_lkZU5.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/14/f7/270422_lkZU5.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/f7/270422_lkZU5.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/f7/270422_lkZU5.jpg"
       },
       "summary": "十五年前，太平洋上出现了一个未知的超空间大门。在门的对面，是妖精和魔物居住的奇妙异世界“莱特·塞玛尼”。\r\n“圣特雷萨市”是有着超过200万的来自两个世界的移民居住的都市。那里有着多样的民族和多彩的文化，有着富裕者和贫困者。那里是全世界最新的“梦幻之城”。但是，在那混沌的暗影中，涌动着各种各样的犯罪。\r\n毒品贩卖、色情交易、武器走私。\r\n而面对这些犯罪的刑警们，就存在于圣特雷萨市的警察局……\r\n刑警桂·的场与异世界骑士缇拉娜，性别、性格以及“出生的世界”均不相同的两人相遇之时，案件发生了。\r\n两个世界，两种正义，在其前方——搭档警察动作剧开幕！",
       "name": "コップクラフト",
@@ -6393,12 +6576,12 @@
         "全缉毒狂潮",
         "剧情",
         "奇幻",
-        "季番",
         "小说改",
         "岩崎琢",
         "异世界",
         "悬疑",
         "战斗",
+        "日本",
         "日本动画",
         "村田莲尔",
         "板垣伸",
@@ -6456,6 +6639,10 @@
           "value": "2019年9月30日"
         },
         {
+          "key": "导演",
+          "value": "板垣伸"
+        },
+        {
           "key": "Copyright",
           "value": "©賀東招二・小学館／STPD"
         },
@@ -6468,10 +6655,6 @@
           "value": "播摩優、田辺慎吾"
         },
         {
-          "key": "导演",
-          "value": "板垣伸"
-        },
-        {
           "key": "人物设定",
           "value": "木村博美"
         }
@@ -6479,6 +6662,13 @@
       "total_episodes": 13,
       "id": 270422,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "战斗",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6567,27 +6757,27 @@
         "C-Station",
         "KenArai",
         "TV",
-        "「✘」",
         "ハラダサヤカ",
         "偶像",
         "内田雄馬",
         "冈本信彦",
         "前野智昭",
-        "动画",
         "原创",
         "原创动画",
         "基",
         "多田俊介",
+        "女性向",
+        "斉藤壮馬",
         "日本",
         "日本动画",
         "校园",
         "梅原裕一郎",
-        "森川智之",
         "歌番",
         "武内骏辅",
         "渡边亚彩美",
         "细谷佳正",
         "续作",
+        "诹访部顺一",
         "音乐",
         "高校星歌剧",
         "齐藤壮马"
@@ -6626,6 +6816,14 @@
           "value": "2019年9月16日"
         },
         {
+          "key": "导演",
+          "value": "多田俊介"
+        },
+        {
+          "key": "音乐",
+          "value": "Ken Arai"
+        },
+        {
           "key": "Copyright",
           "value": "© ひなた凛／スタミュ製作委員会"
         },
@@ -6638,20 +6836,12 @@
           "value": "ひなた凛"
         },
         {
-          "key": "导演",
-          "value": "多田俊介"
-        },
-        {
           "key": "系列构成",
           "value": "ハラダサヤカ"
         },
         {
           "key": "人物设定",
           "value": "渡邉亜彩美"
-        },
-        {
-          "key": "音乐",
-          "value": "Ken Arai"
         },
         {
           "key": "动画制作",
@@ -6661,6 +6851,11 @@
       "total_episodes": 12,
       "id": 227390,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -6669,11 +6864,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/11/184022_6KkpV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/11/184022_6KkpV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/45/11/184022_6KkpV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/11/184022_6KkpV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/11/184022_6KkpV.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/11/184022_34ACq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/11/184022_34ACq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/45/11/184022_34ACq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/11/184022_34ACq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/11/184022_34ACq.jpg"
           },
           "name": "スタミュ 第2期",
           "name_cn": "高校星歌剧 第二季",
@@ -6922,14 +7117,13 @@
         "TV",
         "noitaminA",
         "キヅナツキ",
-        "ギヴン",
         "ラルケ",
         "乐队",
         "内田雄馬",
-        "基",
         "山口ひかる",
         "恋爱",
         "搞笑",
+        "日常",
         "日本",
         "日本动画",
         "校园",
@@ -6938,6 +7132,7 @@
         "漫画改",
         "矢野奨吾",
         "綾奈ゆにこ",
+        "绫奈由仁子",
         "耽美",
         "腐",
         "音乐"
@@ -6976,16 +7171,20 @@
           "value": "2019年9月19日"
         },
         {
+          "key": "导演",
+          "value": "山口ひかる"
+        },
+        {
+          "key": "音乐",
+          "value": "未知瑠"
+        },
+        {
           "key": "Copyright",
           "value": "©キヅナツキ・新書館／ギヴン 製作委員会"
         },
         {
           "key": "原作",
           "value": "「ギヴン」キヅナツキ（新書館「シェリプラス」）"
-        },
-        {
-          "key": "导演",
-          "value": "山口ひかる"
         },
         {
           "key": "系列构成",
@@ -7032,10 +7231,6 @@
           "value": "菊田浩巳"
         },
         {
-          "key": "音乐",
-          "value": "未知瑠"
-        },
-        {
           "key": "制片人",
           "value": "比嘉勇二 / 秋田信人"
         },
@@ -7051,6 +7246,14 @@
       "total_episodes": 11,
       "id": 277518,
       "eps": 11,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "BL",
+        "耽美",
+        "漫画改",
+        "音乐"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7171,6 +7374,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/f9/523586_78rR7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/f9/523586_78rR7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3a/f9/523586_78rR7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/f9/523586_78rR7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/f9/523586_78rR7.jpg"
+          },
+          "name": "アニメ『ギヴン』オフィシャルファンブック memory of",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 523586
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/e2/523587_VH9pB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/e2/523587_VH9pB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/e2/523587_VH9pB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/e2/523587_VH9pB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/e2/523587_VH9pB.jpg"
+          },
+          "name": "推しが武道館いってくれたら死ぬ (11)",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 523587
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/7d/291144_7770e.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/7d/291144_7770e.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/04/7d/291144_7770e.jpg",
@@ -7230,7 +7461,6 @@
         "ProductionI.G",
         "Production_I.G",
         "TV",
-        "m.一集可弃（或未看完暂时搁置）",
         "ランドック・スタジオ",
         "冨岡淳広",
         "原创",
@@ -7242,6 +7472,7 @@
         "小高義規",
         "悬疑",
         "战斗",
+        "日本",
         "日本动画",
         "椎名林檎",
         "漫改",
@@ -7278,6 +7509,14 @@
           "value": "2019年10月13日"
         },
         {
+          "key": "导演",
+          "value": "小高義規"
+        },
+        {
+          "key": "音乐",
+          "value": "SOIL&\"PIMP\"SESSIONS、未知瑠"
+        },
+        {
           "key": "Copyright",
           "value": "©ADK-EM／BEM製作委員会"
         },
@@ -7310,21 +7549,20 @@
           "value": "ランドック・スタジオ"
         },
         {
-          "key": "导演",
-          "value": "小高義規"
-        },
-        {
           "key": "製作",
           "value": "BEM製作委員会"
-        },
-        {
-          "key": "音乐",
-          "value": "SOIL&\"PIMP\"SESSIONS、未知瑠"
         }
       ],
       "total_episodes": 12,
       "id": 274133,
       "eps": 12,
+      "meta_tags": [
+        "悬疑",
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7550,12 +7788,16 @@
           "value": "2019年9月23日"
         },
         {
-          "key": "Copyright",
-          "value": "©揚羽母衣衆/胡蝶綺製作委員会"
-        },
-        {
           "key": "导演",
           "value": "阿部記之"
+        },
+        {
+          "key": "音乐",
+          "value": "白戸佑輔"
+        },
+        {
+          "key": "Copyright",
+          "value": "©揚羽母衣衆/胡蝶綺製作委員会"
         },
         {
           "key": "人物设定",
@@ -7568,10 +7810,6 @@
         {
           "key": "脚本",
           "value": "笹野恵 / 澤田薫"
-        },
-        {
-          "key": "音乐",
-          "value": "白戸佑輔"
         },
         {
           "key": "音乐制作",
@@ -7589,6 +7827,10 @@
       "total_episodes": 12,
       "id": 270229,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7650,7 +7892,6 @@
         "ILCA",
         "ILCA、DRAWIZ",
         "TV",
-        "五星",
         "佐佐木充郭",
         "动画",
         "原创",
@@ -7662,6 +7903,7 @@
         "怪谈，",
         "恐怖",
         "惊悚",
+        "日本",
         "日本动画",
         "暗芝居",
         "泡面",
@@ -7739,6 +7981,11 @@
       "total_episodes": 13,
       "id": 283480,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -7897,6 +8144,10 @@
       "total_episodes": 12,
       "id": 285513,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8030,6 +8281,10 @@
           "value": "2019年9月28日"
         },
         {
+          "key": "导演",
+          "value": "加藤誠"
+        },
+        {
           "key": "Copyright",
           "value": "©三田誠・TYPE-MOON / LEMPC"
         },
@@ -8040,10 +8295,6 @@
         {
           "key": "人物原案",
           "value": "坂本みねぢ"
-        },
-        {
-          "key": "导演",
-          "value": "加藤誠"
         },
         {
           "key": "人物设定",
@@ -8061,6 +8312,13 @@
       "total_episodes": 14,
       "id": 267732,
       "eps": 14,
+      "meta_tags": [
+        "悬疑",
+        "TV",
+        "日本",
+        "奇幻",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8146,7 +8404,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/bf/175600_4wcTq.jpg"
           },
           "name": "劇場版 Fate/stay night [Heaven's Feel] III.spring song",
-          "name_cn": "剧场版 Fate/stay night [Heaven's Feel] III.spring song",
+          "name_cn": "剧场版 Fate/stay night [天之杯] III.春之歌",
           "relation": "相同世界观",
           "type": 2,
           "id": 175600
@@ -8160,7 +8418,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/28/175599_HfD3G.jpg"
           },
           "name": "劇場版 Fate/stay night [Heaven's Feel] II.lost butterfly",
-          "name_cn": "剧场版 Fate/stay night [Heaven's Feel] II.lost butterfly",
+          "name_cn": "剧场版 Fate/stay night [天之杯] II.迷失之蝶",
           "relation": "相同世界观",
           "type": 2,
           "id": 175599
@@ -8202,7 +8460,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/9f/109375_o2NnF.jpg"
           },
           "name": "劇場版 Fate/stay night [Heaven's Feel] I.presage flower",
-          "name_cn": "剧场版 Fate/stay night [Heaven's Feel] I.presage flower",
+          "name_cn": "剧场版 Fate/stay night [天之杯] I.恶兆之花",
           "relation": "相同世界观",
           "type": 2,
           "id": 109375
@@ -8379,13 +8637,13 @@
           "key": "别名",
           "value": [
             {
-              "v": "海盗战记"
-            },
-            {
               "v": "Vinland Saga"
             },
             {
-              "v": "文兰萨迦"
+              "v": "文兰传奇"
+            },
+            {
+              "v": "海盗战记"
             }
           ]
         },
@@ -8440,11 +8698,22 @@
         {
           "key": "动画制片人",
           "value": "長谷川博哉"
+        },
+        {
+          "key": "IMDb",
+          "value": "tt10233448"
         }
       ],
       "total_episodes": 24,
       "id": 240386,
       "eps": 24,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改",
+        "战斗",
+        "历史"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8586,6 +8855,7 @@
         "2019",
         "2019年7月",
         "TV",
+        "日本",
         "空"
       ],
       "infobox": [
@@ -8632,6 +8902,10 @@
       "total_episodes": 5,
       "id": 285670,
       "eps": 5,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8772,6 +9046,10 @@
       "total_episodes": 6,
       "id": 221295,
       "eps": 6,
+      "meta_tags": [
+        "漫画改",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -8877,7 +9155,6 @@
         "7",
         "LARXENTERTAINMENT",
         "Netflix",
-        "ONA",
         "TV",
         "WEB",
         "上江洲诚",
@@ -8895,6 +9172,7 @@
         "漫改",
         "漫画改",
         "热血",
+        "爽",
         "石田彰",
         "运动",
         "鈴木達央"
@@ -8980,6 +9258,11 @@
       "total_episodes": 12,
       "id": 132817,
       "eps": 12,
+      "meta_tags": [
+        "漫画改",
+        "战斗",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -9009,7 +9292,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/b7/271724_32Jou.jpg"
           },
           "name": "ダンベル何キロ持てる？",
-          "name_cn": "肌肉少女：哑铃，能举多少公斤？",
+          "name_cn": "流汗吧！健身少女",
           "relation": "相同世界观",
           "type": 2,
           "id": 271724
@@ -9235,16 +9518,16 @@
           "value": "2019年10月15日"
         },
         {
+          "key": "导演",
+          "value": "佐々木勅嘉"
+        },
+        {
           "key": "Copyright",
           "value": "©蒼嵐高校ラグビー部"
         },
         {
           "key": "原作",
           "value": "TRY KNIGHTS UNION"
-        },
-        {
-          "key": "导演",
-          "value": "佐々木勅嘉"
         },
         {
           "key": "人物设定",
@@ -9274,6 +9557,11 @@
       "total_episodes": 12,
       "id": 277423,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -9361,6 +9649,7 @@
         "IandA",
         "TV",
         "搞笑",
+        "日本",
         "生活"
       ],
       "infobox": [
@@ -9404,6 +9693,10 @@
       "total_episodes": 12,
       "id": 285517,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -9435,27 +9728,27 @@
         "OAD",
         "OAD.OVA.SP",
         "OVA",
-        "OVA-01",
         "『OVA』",
         "二〇一九年",
         "修业魔女璐璐萌",
-        "动画",
+        "其他",
         "喵帕斯记录~",
         "奇幻",
         "恋爱",
         "捆绑光碟动画",
         "搞笑",
+        "无口",
+        "日常",
         "日本",
         "有盖的坑。。。",
         "校园",
         "樱井亲良",
         "櫻井親良",
-        "治愈",
+        "水上清资",
         "渡边航",
         "漫改",
         "漫画改",
         "番外",
-        "萌",
         "萝莉",
         "高橋信",
         "魔女"
@@ -9489,6 +9782,10 @@
       "total_episodes": 2,
       "id": 261493,
       "eps": 2,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -9551,7 +9848,6 @@
         "WEB",
         "robo",
         "⊘日本",
-        "☐",
         "サンライズ",
         "万代骗我钱",
         "三国",
@@ -9598,6 +9894,9 @@
       "total_episodes": 10,
       "id": 267432,
       "eps": 10,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -9682,6 +9981,7 @@
       "tags": [
         "2019",
         "2019年7月",
+        "6",
         "TV",
         "WEB",
         "中国",
@@ -9690,6 +9990,7 @@
         "习习中你真短",
         "动画",
         "及格",
+        "周鹏",
         "国产",
         "国产动画",
         "国创",
@@ -9701,15 +10002,13 @@
         "手游改",
         "拟人",
         "搞笑",
-        "枪械",
         "氪改",
         "泡面",
         "泡面番",
         "游戏",
         "游戏改",
         "百合",
-        "短",
-        "粉丝向"
+        "陸泓熹"
       ],
       "infobox": [
         {
@@ -9909,6 +10208,10 @@
       "total_episodes": 24,
       "id": 217405,
       "eps": 24,
+      "meta_tags": [
+        "游戏改",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -9982,9 +10285,9 @@
         "Q版",
         "SP",
         "WEB",
+        "×",
         "【ANIME】TV丨日本",
         "ぴえろ",
-        "ふでやすかずゆき",
         "ブラッククローバー",
         "喜剧",
         "四等",
@@ -9992,6 +10295,7 @@
         "少年jump",
         "屹青",
         "島﨑信長",
+        "已下",
         "异世界",
         "搞笑",
         "无厘头",
@@ -10000,6 +10304,7 @@
         "梶原岳人",
         "泡面番",
         "漫画改",
+        "筆安一幸",
         "西山司",
         "黑色五叶草"
       ],
@@ -10044,6 +10349,9 @@
       "total_episodes": 8,
       "id": 297745,
       "eps": 8,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10100,14 +10408,20 @@
       "tags": [
         "2019",
         "2019年7月",
+        "ANIMATIONDo",
         "Free!",
         "free",
+        "『剧场版』",
         "アニメーションDo",
+        "アニメ映画",
         "京都アニメーション",
         "京都动画",
+        "京都动画、AnimationDo",
         "京阿尼",
         "剧场版",
         "原创",
+        "嘿嘿嘿",
+        "基",
         "宫野真守",
         "島﨑信長",
         "总集篇",
@@ -10115,19 +10429,13 @@
         "校园",
         "横谷昌宏",
         "河浪栄作",
-        "津田健次郎",
+        "河浪荣作",
         "游泳",
-        "細谷佳正",
         "耽美",
         "表外",
-        "西屋太志",
         "轻改",
         "运动",
-        "运动番",
-        "野島健児",
-        "鈴木達央",
-        "铃木达央",
-        "青春"
+        "院线电影"
       ],
       "infobox": [
         {
@@ -10214,6 +10522,10 @@
       "total_episodes": 1,
       "id": 271662,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10299,7 +10611,6 @@
         "2019",
         "2019年",
         "2019年7月",
-        "2020",
         "8-Bit",
         "8bit",
         "OAD",
@@ -10325,7 +10636,8 @@
         "菊地康仁",
         "転生したらスライムだった件",
         "轻小说改",
-        "轻改"
+        "轻改",
+        "龙傲天"
       ],
       "infobox": [
         {
@@ -10368,6 +10680,12 @@
       "total_episodes": 5,
       "id": 268726,
       "eps": 5,
+      "meta_tags": [
+        "奇幻",
+        "OVA",
+        "漫画改",
+        "穿越"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10424,22 +10742,22 @@
       "tags": [
         "2010s",
         "2019",
+        "2019完成",
         "2019年",
+        "2019年07月",
         "2019年7月",
         "3D",
+        "Netflix",
         "OLM",
         "OLMDigital",
         "OLMTEAMOTA",
         "pokemon",
-        "undefined",
-        "アニメ映画",
         "剧场版",
         "原创",
         "吉野裕之",
         "奇幻",
         "宝可梦",
         "宠物小精灵",
-        "小学馆Production",
         "日本",
         "榊原干典",
         "汤山邦彦",
@@ -10545,6 +10863,10 @@
       "total_episodes": 1,
       "id": 256283,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10824,6 +11146,13 @@
       "total_episodes": 1,
       "id": 269235,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "恋爱",
+        "日本",
+        "奇幻",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -10866,7 +11195,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/40/283403_OA7b2.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/40/283403_OA7b2.jpg"
           },
-          "name": "天気の子",
+          "name": "小説 天気の子",
           "name_cn": "天气之子",
           "relation": "书籍",
           "type": 1,
@@ -11102,6 +11431,12 @@
       "total_episodes": 12,
       "id": 269549,
       "eps": 12,
+      "meta_tags": [
+        "原创",
+        "日常",
+        "中国",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11143,6 +11478,7 @@
       "name_cn": "遗憾生物事典 第二季",
       "tags": [
         "2019",
+        "TV",
         "ファンワークス",
         "日本动画",
         "日髙のり子",
@@ -11195,6 +11531,10 @@
       "total_episodes": 8,
       "id": 366189,
       "eps": 8,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11341,6 +11681,9 @@
       "total_episodes": 1,
       "id": 283250,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11429,6 +11772,7 @@
       "total_episodes": 0,
       "id": 289774,
       "eps": 0,
+      "meta_tags": [],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11484,6 +11828,8 @@
       "name_cn": "屁屁侦探 第三季",
       "tags": [
         "2019",
+        "TV",
+        "日本",
         "東映アニメーション",
         "泡面番"
       ],
@@ -11532,6 +11878,10 @@
           "value": "2019年9月28日"
         },
         {
+          "key": "音乐",
+          "value": "高木洋"
+        },
+        {
           "key": "Copyright",
           "value": "© トロル・ポプラ社 / おしりたんてい製作委員会"
         },
@@ -11550,10 +11900,6 @@
         {
           "key": "系列构成",
           "value": "高橋ナツコ"
-        },
-        {
-          "key": "音乐",
-          "value": "高木洋"
         },
         {
           "key": "美术设计",
@@ -11635,6 +11981,462 @@
       "total_episodes": 13,
       "id": 303878,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/31/303877_sxSSX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/31/303877_sxSSX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/31/303877_sxSSX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/31/303877_sxSSX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/31/303877_sxSSX.jpg"
+          },
+          "name": "おしりたんてい 第2シリーズ",
+          "name_cn": "屁屁侦探 第二季",
+          "relation": "前传",
+          "type": 2,
+          "id": 303877
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/ef/303880_N2nH2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/ef/303880_N2nH2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/ef/303880_N2nH2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/ef/303880_N2nH2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/ef/303880_N2nH2.jpg"
+          },
+          "name": "おしりたんてい 第4シリーズ",
+          "name_cn": "屁屁侦探 第四季",
+          "relation": "续集",
+          "type": 2,
+          "id": 303880
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/89/314497_ZzuNS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/89/314497_ZzuNS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/86/89/314497_ZzuNS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/89/314497_ZzuNS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/89/314497_ZzuNS.jpg"
+          },
+          "name": "おしりたんてい オリジナル・サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 314497
+        }
+      ]
+    }
+  },
+  {
+    "title": "おしりたんてい 第3シリーズ",
+    "date": "2019-07-06",
+    "bangumi": {
+      "date": "2019-07-06",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/14/303878_IIGTk.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/14/303878_IIGTk.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0f/14/303878_IIGTk.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/14/303878_IIGTk.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/14/303878_IIGTk.jpg"
+      },
+      "summary": "「おしりたんてい」とは、トロル原作の児童書で、2017年5月現在、シリーズ累計150万部を超える大ヒットシリーズ。幼児から小学校低学年の男女を中心に爆発的人気を得ている。\r\n内容は、顔の形が “おしり”に見える名探偵の「おしりたんてい」が、数々の難事件を「フーム、においますね。」というお決まりのセリフを言いながら、ププッと解決していく謎解き物語。キャラクターのインパクトや、犯人を追い詰める必殺技が子供たちにうけている。",
+      "name": "おしりたんてい 第3シリーズ",
+      "name_cn": "屁屁侦探 第三季",
+      "tags": [
+        "2019",
+        "TV",
+        "日本",
+        "東映アニメーション",
+        "泡面番"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "屁屁侦探 第三季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "おしりたんてい 第3期"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "13"
+        },
+        {
+          "key": "放送开始",
+          "value": "2019年7月6日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": [
+            {
+              "v": "https://www.oshiri-tantei.com/"
+            },
+            {
+              "v": "https://www.nhk.jp/p/oshiri-t/"
+            }
+          ]
+        },
+        {
+          "key": "播放电视台",
+          "value": "NHK Eテレ"
+        },
+        {
+          "key": "播放结束",
+          "value": "2019年9月28日"
+        },
+        {
+          "key": "音乐",
+          "value": "高木洋"
+        },
+        {
+          "key": "Copyright",
+          "value": "© トロル・ポプラ社 / おしりたんてい製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "トロル"
+        },
+        {
+          "key": "企画",
+          "value": "鷲尾天、長谷川均、押田敦"
+        },
+        {
+          "key": "制片人",
+          "value": "柳川あかり、安川めぐみ、坂田淳"
+        },
+        {
+          "key": "系列构成",
+          "value": "高橋ナツコ"
+        },
+        {
+          "key": "美术设计",
+          "value": "増田竜太郎"
+        },
+        {
+          "key": "色彩设计",
+          "value": "森綾"
+        },
+        {
+          "key": "人物设定",
+          "value": "真庭秀明"
+        },
+        {
+          "key": "总作画监督",
+          "value": "真庭秀明"
+        },
+        {
+          "key": "系列导演",
+          "value": "芝田浩樹"
+        },
+        {
+          "key": "特殊效果",
+          "value": "勝岡稔夫"
+        },
+        {
+          "key": "摄影监督",
+          "value": "五十嵐慎一"
+        },
+        {
+          "key": "剪辑",
+          "value": "吉田公紀"
+        },
+        {
+          "key": "录音",
+          "value": "阿部智佳子"
+        },
+        {
+          "key": "音效",
+          "value": "中原隆太、茅原万起子"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "高木洋"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "小杉保夫"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "藤本記子"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "伊勢大貴"
+        },
+        {
+          "key": "记录",
+          "value": "梶本みのり"
+        },
+        {
+          "key": "制作管理",
+          "value": "太田有紀"
+        },
+        {
+          "key": "演员分配",
+          "value": "松山守美"
+        },
+        {
+          "key": "助理制片人",
+          "value": "吉田稔、犬塚舞、高林淳一"
+        },
+        {
+          "key": "动画制作",
+          "value": "東映アニメーション"
+        }
+      ],
+      "total_episodes": 13,
+      "id": 303878,
+      "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/31/303877_sxSSX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/31/303877_sxSSX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/31/303877_sxSSX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/31/303877_sxSSX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/31/303877_sxSSX.jpg"
+          },
+          "name": "おしりたんてい 第2シリーズ",
+          "name_cn": "屁屁侦探 第二季",
+          "relation": "前传",
+          "type": 2,
+          "id": 303877
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/ef/303880_N2nH2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/ef/303880_N2nH2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/ef/303880_N2nH2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/ef/303880_N2nH2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/ef/303880_N2nH2.jpg"
+          },
+          "name": "おしりたんてい 第4シリーズ",
+          "name_cn": "屁屁侦探 第四季",
+          "relation": "续集",
+          "type": 2,
+          "id": 303880
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/89/314497_ZzuNS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/89/314497_ZzuNS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/86/89/314497_ZzuNS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/89/314497_ZzuNS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/89/314497_ZzuNS.jpg"
+          },
+          "name": "おしりたんてい オリジナル・サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 314497
+        }
+      ]
+    }
+  },
+  {
+    "title": "おしりたんてい 第3シリーズ",
+    "date": "2019-07-06",
+    "bangumi": {
+      "date": "2019-07-06",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/14/303878_IIGTk.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/14/303878_IIGTk.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/0f/14/303878_IIGTk.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/14/303878_IIGTk.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/14/303878_IIGTk.jpg"
+      },
+      "summary": "「おしりたんてい」とは、トロル原作の児童書で、2017年5月現在、シリーズ累計150万部を超える大ヒットシリーズ。幼児から小学校低学年の男女を中心に爆発的人気を得ている。\r\n内容は、顔の形が “おしり”に見える名探偵の「おしりたんてい」が、数々の難事件を「フーム、においますね。」というお決まりのセリフを言いながら、ププッと解決していく謎解き物語。キャラクターのインパクトや、犯人を追い詰める必殺技が子供たちにうけている。",
+      "name": "おしりたんてい 第3シリーズ",
+      "name_cn": "屁屁侦探 第三季",
+      "tags": [
+        "2019",
+        "TV",
+        "日本",
+        "東映アニメーション",
+        "泡面番"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "屁屁侦探 第三季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "おしりたんてい 第3期"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "13"
+        },
+        {
+          "key": "放送开始",
+          "value": "2019年7月6日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": [
+            {
+              "v": "https://www.oshiri-tantei.com/"
+            },
+            {
+              "v": "https://www.nhk.jp/p/oshiri-t/"
+            }
+          ]
+        },
+        {
+          "key": "播放电视台",
+          "value": "NHK Eテレ"
+        },
+        {
+          "key": "播放结束",
+          "value": "2019年9月28日"
+        },
+        {
+          "key": "音乐",
+          "value": "高木洋"
+        },
+        {
+          "key": "Copyright",
+          "value": "© トロル・ポプラ社 / おしりたんてい製作委員会"
+        },
+        {
+          "key": "原作",
+          "value": "トロル"
+        },
+        {
+          "key": "企画",
+          "value": "鷲尾天、長谷川均、押田敦"
+        },
+        {
+          "key": "制片人",
+          "value": "柳川あかり、安川めぐみ、坂田淳"
+        },
+        {
+          "key": "系列构成",
+          "value": "高橋ナツコ"
+        },
+        {
+          "key": "美术设计",
+          "value": "増田竜太郎"
+        },
+        {
+          "key": "色彩设计",
+          "value": "森綾"
+        },
+        {
+          "key": "人物设定",
+          "value": "真庭秀明"
+        },
+        {
+          "key": "总作画监督",
+          "value": "真庭秀明"
+        },
+        {
+          "key": "系列导演",
+          "value": "芝田浩樹"
+        },
+        {
+          "key": "特殊效果",
+          "value": "勝岡稔夫"
+        },
+        {
+          "key": "摄影监督",
+          "value": "五十嵐慎一"
+        },
+        {
+          "key": "剪辑",
+          "value": "吉田公紀"
+        },
+        {
+          "key": "录音",
+          "value": "阿部智佳子"
+        },
+        {
+          "key": "音效",
+          "value": "中原隆太、茅原万起子"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "高木洋"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "小杉保夫"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "藤本記子"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "伊勢大貴"
+        },
+        {
+          "key": "记录",
+          "value": "梶本みのり"
+        },
+        {
+          "key": "制作管理",
+          "value": "太田有紀"
+        },
+        {
+          "key": "演员分配",
+          "value": "松山守美"
+        },
+        {
+          "key": "助理制片人",
+          "value": "吉田稔、犬塚舞、高林淳一"
+        },
+        {
+          "key": "动画制作",
+          "value": "東映アニメーション"
+        }
+      ],
+      "total_episodes": 13,
+      "id": 303878,
+      "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -11734,6 +12536,9 @@
       "total_episodes": 10,
       "id": 310818,
       "eps": 10,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

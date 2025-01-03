@@ -21,7 +21,6 @@
         "SHAFT",
         "TV",
         "TVA",
-        "后藤邑子",
         "向阳庄",
         "向阳素描",
         "四格",
@@ -40,6 +39,7 @@
         "漫改",
         "漫画改",
         "百合",
+        "续作",
         "芳文社",
         "苍树梅",
         "萌",
@@ -79,6 +79,14 @@
         {
           "key": "播放结束",
           "value": "2008年9月25日"
+        },
+        {
+          "key": "导演",
+          "value": "新房昭之"
+        },
+        {
+          "key": "音乐",
+          "value": "菊谷知樹"
         },
         {
           "key": "企画",
@@ -129,10 +137,6 @@
           "value": "亀山俊樹"
         },
         {
-          "key": "音乐",
-          "value": "菊谷知樹"
-        },
-        {
           "key": "音乐制作",
           "value": "ランティス"
         },
@@ -143,10 +147,6 @@
         {
           "key": "OP・ED 分镜",
           "value": "大沼心(OP)、上坪亮樹(ED)"
-        },
-        {
-          "key": "导演",
-          "value": "新房昭之"
         },
         {
           "key": "制片人",
@@ -180,6 +180,13 @@
       "total_episodes": 14,
       "id": 330,
       "eps": 14,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -188,17 +195,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/7f/9642_5FD55.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/7f/9642_5FD55.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/13/7f/9642_5FD55.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/13/7f/9642_5FD55.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/13/7f/9642_5FD55.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/b4/2662_eLO2c.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/b4/2662_eLO2c.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/98/b4/2662_eLO2c.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/b4/2662_eLO2c.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/b4/2662_eLO2c.jpg"
           },
-          "name": "ひだまりスケッチ 特別編",
-          "name_cn": "向阳素描 特别篇",
-          "relation": "前传",
+          "name": "ひだまりスケッチ×365 特別編",
+          "name_cn": "向阳素描×365 特别篇",
+          "relation": "续集",
           "type": 2,
-          "id": 9642
+          "id": 2662
         },
         {
           "images": {
@@ -300,17 +307,45 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/b4/2662_eLO2c.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/b4/2662_eLO2c.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/98/b4/2662_eLO2c.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/b4/2662_eLO2c.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/b4/2662_eLO2c.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/7f/9642_5FD55.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/7f/9642_5FD55.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/13/7f/9642_5FD55.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/13/7f/9642_5FD55.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/13/7f/9642_5FD55.jpg"
           },
-          "name": "ひだまりスケッチ×365 特別編",
-          "name_cn": "向阳素描×365 特别篇",
+          "name": "ひだまりスケッチ 特別編",
+          "name_cn": "向阳素描 特别篇",
+          "relation": "前传",
+          "type": 2,
+          "id": 9642
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/6b/3622_H34kJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/6b/3622_H34kJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/6b/3622_H34kJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/6b/3622_H34kJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/6b/3622_H34kJ.jpg"
+          },
+          "name": "ひだまりスケッチ×☆☆☆",
+          "name_cn": "向阳素描×☆☆☆",
           "relation": "续集",
           "type": 2,
-          "id": 2662
+          "id": 3622
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/14/896_sipL4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/14/896_sipL4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/14/896_sipL4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/14/896_sipL4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/14/896_sipL4.jpg"
+          },
+          "name": "ひだまりスケッチ",
+          "name_cn": "向阳素描",
+          "relation": "前传",
+          "type": 2,
+          "id": 896
         },
         {
           "images": {
@@ -471,6 +506,7 @@
         "恋爱",
         "战斗",
         "无口少女",
+        "日本",
         "日本动画",
         "热血",
         "特公",
@@ -538,6 +574,10 @@
       "total_episodes": 12,
       "id": 54760,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -584,8 +624,8 @@
         "A-1",
         "A-1Pictures",
         "A-1_Pictures",
-        "Birdy",
         "TV",
+        "TVA",
         "web系",
         "りょーちも",
         "作画",
@@ -615,6 +655,17 @@
           "value": "铁腕巴迪 DECODE"
         },
         {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Tetsuwan Birdy Decode"
+            },
+            {
+              "v": "Birdy the Mighty: Decode"
+            }
+          ]
+        },
+        {
           "key": "话数",
           "value": "13"
         },
@@ -639,12 +690,16 @@
           "value": "2008年9月26日"
         },
         {
-          "key": "原作",
-          "value": "ゆうきまさみ（小学館「週刊ヤングサンデー」連載）"
-        },
-        {
           "key": "导演",
           "value": "赤根和樹"
+        },
+        {
+          "key": "音乐",
+          "value": "菅野祐悟"
+        },
+        {
+          "key": "原作",
+          "value": "ゆうきまさみ（小学館「週刊ヤングサンデー」連載）"
         },
         {
           "key": "系列构成",
@@ -657,10 +712,6 @@
         {
           "key": "机械设定",
           "value": "佐山善則"
-        },
-        {
-          "key": "音乐",
-          "value": "菅野祐悟"
         },
         {
           "key": "创意制作人",
@@ -678,6 +729,12 @@
       "total_episodes": 13,
       "id": 2443,
       "eps": 13,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -810,13 +867,13 @@
         "TV",
         "TVA",
         "anime",
-        "冒险",
         "动画",
         "声优",
         "奇幻",
+        "小说改",
         "战斗",
         "搞笑",
-        "日本动画",
+        "日本",
         "松本保典",
         "林原めぐみ",
         "林原惠",
@@ -863,12 +920,12 @@
           "value": "2008年9月24日"
         },
         {
-          "key": "原作",
-          "value": "神坂一"
-        },
-        {
           "key": "导演",
           "value": "渡部高志"
+        },
+        {
+          "key": "原作",
+          "value": "神坂一"
         },
         {
           "key": "人物设定",
@@ -882,6 +939,11 @@
       "total_episodes": 13,
       "id": 11645,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -998,7 +1060,7 @@
         "2008年7月",
         "BEETRAIN",
         "TV",
-        "TV动画",
+        "三木真一郎",
         "不死剑客",
         "中井和哉",
         "人生",
@@ -1010,11 +1072,11 @@
         "历史感",
         "复仇",
         "大谷幸",
+        "山下喜光",
         "川崎ヒロユキ",
         "战斗",
         "日本",
         "日本动画",
-        "暴力",
         "沙村广明",
         "漫改",
         "漫画改",
@@ -1072,6 +1134,11 @@
       "total_episodes": 13,
       "id": 492,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1229,16 +1296,16 @@
           "value": "2008年9月30日"
         },
         {
+          "key": "导演",
+          "value": "大森貴弘"
+        },
+        {
           "key": "Copyright",
           "value": "©緑川ゆき・白泉社／「夏目友人帳」製作委員会"
         },
         {
           "key": "原作",
           "value": "緑川ゆき（白泉社「月刊LaLa」「LaLa DX」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "大森貴弘"
         },
         {
           "key": "人物设定",
@@ -1296,6 +1363,13 @@
       "total_episodes": 13,
       "id": 259,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "日常"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1413,6 +1487,48 @@
           "relation": "衍生",
           "type": 6,
           "id": 511334
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/a8/529080_UBrF1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/a8/529080_UBrF1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/a8/529080_UBrF1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/a8/529080_UBrF1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/a8/529080_UBrF1.jpg"
+          },
+          "name": "夏目友人帳 ～葉月の記～",
+          "name_cn": "夏目友人帐 ～叶月之记～",
+          "relation": "游戏",
+          "type": 4,
+          "id": 529080
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/7e/524312_fCo9k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/7e/524312_fCo9k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/7e/524312_fCo9k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/7e/524312_fCo9k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/7e/524312_fCo9k.jpg"
+          },
+          "name": "夏目友人帳 1 完全生産限定版特典 オリジナルドラマCD 「君去りし、後」",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 524312
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/97/134639_e6WE2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/97/134639_e6WE2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/23/97/134639_e6WE2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/97/134639_e6WE2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/97/134639_e6WE2.jpg"
+          },
+          "name": "夏目友人帳 5（初回生産限定）オリジナルドラマCD「夏目学習帳 ～勉強会だよレイコさん～」",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 134639
         }
       ]
     }
@@ -1455,7 +1571,7 @@
         "最萌",
         "电击文库",
         "穿越",
-        "第三季",
+        "肉",
         "贫乳",
         "轻小说改",
         "轻改",
@@ -1561,6 +1677,13 @@
       "total_episodes": 21,
       "id": 763,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "奇幻",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1814,6 +1937,7 @@
         "川崎ヒロユキ",
         "御姐",
         "推理",
+        "日本",
         "木内秀信",
         "桑岛法子",
         "生天目仁美",
@@ -1824,7 +1948,6 @@
         "补旧番",
         "补番",
         "警察",
-        "讲谈社",
         "轻小说改",
         "轻改"
       ],
@@ -1858,12 +1981,16 @@
           "value": "2008年9月27日"
         },
         {
-          "key": "Copyright",
-          "value": "©田中芳樹・垣野内成美／女王陛下執務室"
-        },
-        {
           "key": "导演",
           "value": "岩崎太郎"
+        },
+        {
+          "key": "音乐",
+          "value": "倖山リオ、KATSU（angela）"
+        },
+        {
+          "key": "Copyright",
+          "value": "©田中芳樹・垣野内成美／女王陛下執務室"
         },
         {
           "key": "人物原案",
@@ -1894,21 +2021,30 @@
           "value": "若林和弘"
         },
         {
-          "key": "音乐",
-          "value": "倖山リオ、KATSU（angela）"
-        },
-        {
           "key": "音乐制作",
           "value": "STAR CHILD"
         },
         {
           "key": "製作",
           "value": "女王陛下執務室"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "倖山リオ、KATSU（angela）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "倖山リオ、KATSU（angela）"
         }
       ],
       "total_episodes": 13,
       "id": 907,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1937,7 +2073,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/7d/94239_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/7d/94239_jp.jpg"
           },
-          "name": "薬師寺涼子の怪奇事件簿 Le recueil des faits improbables de Ryoko Yakushiji",
+          "name": "Le recueil des faits improbables de Ryoko Yakushiji",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -1951,7 +2087,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/f0/94240_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/f0/94240_jp.jpg"
           },
-          "name": "Le recueil des faits improbables de Ryoko Yakushiji 2 薬師寺涼子の怪奇事件簿2",
+          "name": "Le recueil des faits improbables de Ryoko Yakushiji 2",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -1965,7 +2101,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/a5/94241_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/a5/94241_jp.jpg"
           },
-          "name": "Le recueil des faits improbables de Ryoko Yakushiji3 薬師寺涼子の怪奇事件簿 3",
+          "name": "Le recueil des faits improbables de Ryoko Yakushiji 3",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -1999,7 +2135,9 @@
         "原创",
         "吸血鬼",
         "小山力也",
+        "日本",
         "朴璐美",
+        "欧美",
         "科幻",
         "関智一",
         "黑暗"
@@ -2044,6 +2182,11 @@
       "total_episodes": 14,
       "id": 15184,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "欧美"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2096,6 +2239,7 @@
         "TV",
         "一人的世界毁灭委员会",
         "动画",
+        "原创",
         "古谷彻",
         "坂本真綾",
         "多田俊介",
@@ -2111,7 +2255,6 @@
         "池田秀一",
         "游戏改",
         "游戏改编",
-        "游改",
         "热血",
         "草尾毅"
       ],
@@ -2153,16 +2296,20 @@
           "value": "2008年9月29日"
         },
         {
+          "key": "导演",
+          "value": "多田俊介"
+        },
+        {
+          "key": "音乐",
+          "value": "池頼広"
+        },
+        {
           "key": "Copyright",
           "value": "©SEGA / WD制作委员会"
         },
         {
           "key": "原作",
           "value": "SEGA"
-        },
-        {
-          "key": "导演",
-          "value": "多田俊介"
         },
         {
           "key": "企画",
@@ -2193,10 +2340,6 @@
           "value": "中嶋聡彦、三間雅文"
         },
         {
-          "key": "音乐",
-          "value": "池頼広"
-        },
-        {
           "key": "动画制作",
           "value": "Production I.G"
         },
@@ -2208,6 +2351,11 @@
       "total_episodes": 13,
       "id": 2087,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2364,6 +2512,13 @@
       "total_episodes": 12,
       "id": 762,
       "eps": 12,
+      "meta_tags": [
+        "校园",
+        "TV",
+        "恋爱",
+        "日本",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2472,7 +2627,6 @@
         "内裤",
         "军事",
         "原创",
-        "名塚佳織",
         "奇幻",
         "小裤裤",
         "島田フミカネ",
@@ -2480,6 +2634,7 @@
         "战争",
         "战斗",
         "日常",
+        "日本",
         "机战",
         "杀必死",
         "百合",
@@ -2543,12 +2698,12 @@
           "value": "2008年9月18日"
         },
         {
-          "key": "原作",
-          "value": "島田フミカネ&Projekt Kagonish"
-        },
-        {
           "key": "导演",
           "value": "高村和宏"
+        },
+        {
+          "key": "原作",
+          "value": "島田フミカネ&Projekt Kagonish"
         },
         {
           "key": "製作",
@@ -2562,6 +2717,13 @@
       "total_episodes": 12,
       "id": 698,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2570,31 +2732,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/e1/290313_ATvAV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/e1/290313_ATvAV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/51/e1/290313_ATvAV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/e1/290313_ATvAV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/e1/290313_ATvAV.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/d9/310950_8zmbK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/d9/310950_8zmbK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/d9/310950_8zmbK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/d9/310950_8zmbK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/d9/310950_8zmbK.jpg"
           },
-          "name": "岛田フミカネ THE WORLD WITCHES 2018",
-          "name_cn": "岛田文金 世界魔女 2018",
-          "relation": "单行本",
-          "type": 1,
-          "id": 290313
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/83/220668_caojc.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/83/220668_caojc.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/77/83/220668_caojc.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/83/220668_caojc.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/83/220668_caojc.jpg"
-          },
-          "name": "アリス・ギア・アイギス",
-          "name_cn": "机战少女 Alice",
-          "relation": "游戏",
-          "type": 4,
-          "id": 220668
+          "name": "ワールドウィッチーズ 発進しますっ！",
+          "name_cn": "世界魔女 起飞！",
+          "relation": "衍生",
+          "type": 2,
+          "id": 310950
         },
         {
           "images": {
@@ -2724,31 +2872,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/2a/219058_lmwph.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/2a/219058_lmwph.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1c/2a/219058_lmwph.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/2a/219058_lmwph.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/2a/219058_lmwph.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/e1/290313_ATvAV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/e1/290313_ATvAV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/51/e1/290313_ATvAV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/e1/290313_ATvAV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/e1/290313_ATvAV.jpg"
           },
-          "name": "ワールドウィッチーズ 魔女たちの航跡雲 Contrail of Witches",
-          "name_cn": "强袭魔女 魔女飞过的痕迹",
-          "relation": "相同世界观",
+          "name": "島田フミカネ THE WORLD WITCHES 2018",
+          "name_cn": "岛田文金 世界魔女 2018",
+          "relation": "单行本",
           "type": 1,
-          "id": 219058
+          "id": 290313
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/d9/310950_8zmbK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/d9/310950_8zmbK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/56/d9/310950_8zmbK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/d9/310950_8zmbK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/d9/310950_8zmbK.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/83/220668_caojc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/83/220668_caojc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/83/220668_caojc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/83/220668_caojc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/83/220668_caojc.jpg"
           },
-          "name": "ワールドウィッチーズ 発進しますっ！",
-          "name_cn": "世界魔女 起飞！",
-          "relation": "衍生",
-          "type": 2,
-          "id": 310950
+          "name": "アリス・ギア・アイギス",
+          "name_cn": "机战少女 Alice",
+          "relation": "游戏",
+          "type": 4,
+          "id": 220668
         },
         {
           "images": {
@@ -2791,6 +2939,20 @@
           "relation": "画集",
           "type": 1,
           "id": 336203
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/07/364461_MX9xl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/07/364461_MX9xl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a2/07/364461_MX9xl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/07/364461_MX9xl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/07/364461_MX9xl.jpg"
+          },
+          "name": "ストライクウィッチーズ オフィシャルファンブック コンプリートファイル",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 364461
         },
         {
           "images": {
@@ -2878,17 +3040,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/51/92783_pmz11.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/51/92783_pmz11.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/68/51/92783_pmz11.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/51/92783_pmz11.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/51/92783_pmz11.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/f6/92785_EII28.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/f6/92785_EII28.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/32/f6/92785_EII28.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/f6/92785_EII28.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/f6/92785_EII28.jpg"
           },
-          "name": "ストライクウィッチーズ オリジナルサウンドトラック",
-          "name_cn": "强袭魔女 原声带",
-          "relation": "原声集",
+          "name": "STRIKE WITCHES ~わたしにできること~ / ブックマーク ア・ヘッド",
+          "name_cn": "",
+          "relation": "片头曲",
           "type": 3,
-          "id": 92783
+          "id": 92785
         },
         {
           "images": {
@@ -2962,20 +3124,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/eb/41/35963_zU5u1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/eb/41/35963_zU5u1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/eb/41/35963_zU5u1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/eb/41/35963_zU5u1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/eb/41/35963_zU5u1.jpg"
-          },
-          "name": "ストライクウィッチーズ 小ぃサーニャ",
-          "name_cn": "强袭魔女 小萨尼娅",
-          "relation": "番外篇",
-          "type": 1,
-          "id": 35963
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/85/85338_7ROAZ.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/85/85338_7ROAZ.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/5c/85/85338_7ROAZ.jpg",
@@ -2990,6 +3138,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/51/92783_pmz11.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/51/92783_pmz11.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/51/92783_pmz11.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/51/92783_pmz11.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/51/92783_pmz11.jpg"
+          },
+          "name": "ストライクウィッチーズ オリジナルサウンドトラック",
+          "name_cn": "强袭魔女 原声带",
+          "relation": "原声集",
+          "type": 3,
+          "id": 92783
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/2e/5651_0969e.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/2e/5651_0969e.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/9b/2e/5651_0969e.jpg",
@@ -3001,20 +3163,6 @@
           "relation": "续集",
           "type": 2,
           "id": 5651
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/f6/92785_EII28.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/f6/92785_EII28.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/32/f6/92785_EII28.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/f6/92785_EII28.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/f6/92785_EII28.jpg"
-          },
-          "name": "STRIKE WITCHES ~わたしにできること~ / ブックマーク ア・ヘッド",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 92785
         },
         {
           "images": {
@@ -3053,8 +3201,8 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/4a/129921_i1gHj.jpg"
           },
           "name": "ノーブルウィッチーズ 第506統合戦闘航空団",
-          "name_cn": "NOBLE WITCHES 第506统合战斗航空团（角川Sneaker文库）",
-          "relation": "书籍",
+          "name_cn": "NOBLE WITCHES 第506统合战斗航空团",
+          "relation": "单行本",
           "type": 1,
           "id": 129921
         },
@@ -3110,7 +3258,7 @@
           },
           "name": "ストライクウィッチーズ零 1937 扶桑海事変",
           "name_cn": "强袭魔女零 1937 扶桑海事变",
-          "relation": "书籍",
+          "relation": "单行本",
           "type": 1,
           "id": 195030
         },
@@ -3127,6 +3275,20 @@
           "relation": "角色出演",
           "type": 2,
           "id": 204641
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/2a/219058_lmwph.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/2a/219058_lmwph.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1c/2a/219058_lmwph.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/2a/219058_lmwph.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/2a/219058_lmwph.jpg"
+          },
+          "name": "ワールドウィッチーズ 魔女たちの航跡雲 Contrail of Witches",
+          "name_cn": "强袭魔女 魔女飞过的痕迹",
+          "relation": "相同世界观",
+          "type": 1,
+          "id": 219058
         },
         {
           "images": {
@@ -3258,21 +3420,27 @@
           "value": "2008年9月17日"
         },
         {
+          "key": "导演",
+          "value": "草川啓造"
+        },
+        {
           "key": "Copyright",
           "value": "(C) 極楽院櫻子/スクウェアエニックス・鶺鴒計画"
         },
         {
           "key": "原作",
           "value": "極楽院櫻子"
-        },
-        {
-          "key": "导演",
-          "value": "草川啓造"
         }
       ],
       "total_episodes": 13,
       "id": 325,
       "eps": 12,
+      "meta_tags": [
+        "后宫",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3398,6 +3566,7 @@
       "name_cn": "稻草男",
       "tags": [
         "TV",
+        "日本",
         "空",
         "补"
       ],
@@ -3434,6 +3603,10 @@
       "total_episodes": 26,
       "id": 11877,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3467,6 +3640,7 @@
         "TV",
         "TVA",
         "井上麻里奈",
+        "催泪",
         "写实？",
         "前野智昭",
         "动画",
@@ -3486,7 +3660,6 @@
         "花泽香菜",
         "花澤香菜",
         "魔法",
-        "魔法使的条件",
         "魔法遣いに大切なこと",
         "魔法遣いに大切なこと〜夏のソラ〜"
       ],
@@ -3524,12 +3697,16 @@
           "value": "2008年9月24日"
         },
         {
-          "key": "原作",
-          "value": "山田典枝"
-        },
-        {
           "key": "导演",
           "value": "小林治"
+        },
+        {
+          "key": "音乐",
+          "value": "羽毛田丈史"
+        },
+        {
+          "key": "原作",
+          "value": "山田典枝"
         },
         {
           "key": "脚本",
@@ -3556,10 +3733,6 @@
           "value": "長崎行男"
         },
         {
-          "key": "音乐",
-          "value": "羽毛田丈史"
-        },
-        {
           "key": "製作",
           "value": "下北沢魔法事務所（ジェネオンエンタテインメント、インターチャネル・ホロン、ハルフィルムメーカー、キッズステーション）"
         }
@@ -3567,6 +3740,11 @@
       "total_episodes": 12,
       "id": 807,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3690,6 +3868,7 @@
         "动画工房",
         "動画工房",
         "卖肉",
+        "卖萌",
         "娘化",
         "季番",
         "幻想",
@@ -3701,7 +3880,6 @@
         "日常",
         "日本",
         "游戏改",
-        "游改",
         "男人去死",
         "百合",
         "肉",
@@ -3734,12 +3912,16 @@
           "value": "2008年9月23日"
         },
         {
-          "key": "原作",
-          "value": "BaseSon"
-        },
-        {
           "key": "导演",
           "value": "中西伸彰"
+        },
+        {
+          "key": "音乐",
+          "value": "清水永之"
+        },
+        {
+          "key": "原作",
+          "value": "BaseSon"
         },
         {
           "key": "企画",
@@ -3774,10 +3956,6 @@
           "value": "ハマノカズゾウ"
         },
         {
-          "key": "音乐",
-          "value": "清水永之"
-        },
-        {
           "key": "动画制作",
           "value": "動画工房"
         }
@@ -3785,6 +3963,12 @@
       "total_episodes": 12,
       "id": 811,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -3885,8 +4069,8 @@
         "2008",
         "2008夏",
         "2008年",
+        "2008年4月",
         "TV",
-        "TVA",
         "YumetaCompany",
         "ゆめ太カンパニー（旧）",
         "中村悠一",
@@ -3961,6 +4145,11 @@
       "total_episodes": 13,
       "id": 21035,
       "eps": 13,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4065,6 +4254,7 @@
         "noitaminA",
         "三木眞一郎",
         "三木真一郎",
+        "动画",
         "吉永史",
         "基",
         "宫野真守",
@@ -4073,7 +4263,6 @@
         "日本",
         "日本アニメーション",
         "日本动画",
-        "日本动画公司",
         "暧昧",
         "暧昧。",
         "漫改",
@@ -4121,6 +4310,11 @@
       "total_episodes": 12,
       "id": 482,
       "eps": 12,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4233,16 +4427,15 @@
       "tags": [
         "2000-2009",
         "2008",
+        "2008年7月",
         "OVA",
         "SP",
         "TMS",
-        "TMSEntertainment",
         "TV",
         "TVSP",
-        "トムス・エンタテインメント",
+        "アミノテツロー",
         "ルパン三世",
         "五右卫门SAMA",
-        "冒险",
         "剧场版",
         "动画",
         "名侦探柯南",
@@ -4255,6 +4448,7 @@
         "日本动画",
         "栗田貫一",
         "栗田贯一",
+        "沢城みゆき",
         "漫改",
         "漫画改",
         "网野哲郎",
@@ -4287,6 +4481,11 @@
       "total_episodes": 1,
       "id": 84998,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4295,11 +4494,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/d2/24274_obiN2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/d2/24274_obiN2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/33/d2/24274_obiN2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/d2/24274_obiN2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/d2/24274_obiN2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/d2/24274_SH7jx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/d2/24274_SH7jx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/d2/24274_SH7jx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/d2/24274_SH7jx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/d2/24274_SH7jx.jpg"
           },
           "name": "ルパン三世",
           "name_cn": "鲁邦三世  第一期",
@@ -4329,8 +4528,8 @@
       "tags": [
         "2008",
         "2008年7月",
+        "A-1",
         "A-1Pictures",
-        "A-1_Pictures",
         "Animax动画大赏",
         "OVA",
         "SHORTS",
@@ -4391,6 +4590,10 @@
       "total_episodes": 1,
       "id": 10558,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4505,6 +4708,12 @@
       "total_episodes": 1,
       "id": 313,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "奇幻",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4822,6 +5031,10 @@
       "total_episodes": 1,
       "id": 3032,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -4928,8 +5141,8 @@
         "Production_I.G",
         "SF",
         "伊藤和典",
+        "冲浦启之",
         "剧场版",
-        "动画",
         "原创",
         "士郎正宗",
         "复刻",
@@ -5050,6 +5263,11 @@
       "total_episodes": 1,
       "id": 10291,
       "eps": 1,
+      "meta_tags": [
+        "科幻",
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5166,8 +5384,8 @@
         "Clannad",
         "GAL改",
         "OVA",
+        "TV",
         "key",
-        "中村悠一",
         "京都",
         "京都アニメーション",
         "京都动画",
@@ -5220,6 +5438,13 @@
       "total_episodes": 1,
       "id": 37873,
       "eps": 1,
+      "meta_tags": [
+        "校园",
+        "恋爱",
+        "日本",
+        "OVA",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5303,7 +5528,6 @@
         "小林尽",
         "小清水亚美",
         "恋爱",
-        "恋爱喜剧",
         "搞笑",
         "旗派",
         "日常",
@@ -5317,6 +5541,7 @@
         "能登",
         "能登麻美子",
         "跳跃",
+        "青春",
         "高松信司"
       ],
       "infobox": [
@@ -5419,6 +5644,12 @@
       "total_episodes": 3,
       "id": 1879,
       "eps": 2,
+      "meta_tags": [
+        "校园",
+        "恋爱",
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5489,6 +5720,7 @@
       "tags": [
         "2008",
         "TMSEntertainment",
+        "剧场版",
         "子供向"
       ],
       "infobox": [
@@ -5551,6 +5783,9 @@
       "total_episodes": 1,
       "id": 422507,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -5607,6 +5842,7 @@
       "tags": [
         "2008",
         "TMSEntertainment",
+        "剧场版",
         "子供向"
       ],
       "infobox": [
@@ -5687,6 +5923,9 @@
       "total_episodes": 1,
       "id": 335295,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

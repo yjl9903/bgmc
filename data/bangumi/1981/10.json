@@ -28,7 +28,6 @@
         "やまざきかずお",
         "スタジオディーン",
         "伊藤和典",
-        "动画",
         "山崎和男",
         "恋爱",
         "押井守",
@@ -36,7 +35,6 @@
         "搞笑",
         "日常",
         "日本",
-        "日本动画",
         "校园",
         "没看完",
         "漫改",
@@ -44,7 +42,9 @@
         "福星小子",
         "童年",
         "童年的记忆",
+        "经典",
         "补旧番",
+        "长篇",
         "高桥留美子"
       ],
       "infobox": [
@@ -192,6 +192,11 @@
       "total_episodes": 235,
       "id": 10388,
       "eps": 218,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -200,17 +205,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/e8/364468_8AI0E.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/e8/364468_8AI0E.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c1/e8/364468_8AI0E.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/e8/364468_8AI0E.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/e8/364468_8AI0E.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/a3/526849_WrcBc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/a3/526849_WrcBc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ae/a3/526849_WrcBc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/a3/526849_WrcBc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/a3/526849_WrcBc.jpg"
           },
-          "name": "うる星やつら",
-          "name_cn": "福星小子",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 364468
+          "name": "Urusei Yatsura: Lum no Wedding Bell",
+          "name_cn": "福星小子: 拉姆的婚礼",
+          "relation": "游戏",
+          "type": 4,
+          "id": 526849
         },
         {
           "images": {
@@ -225,6 +230,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 508429
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/16/40004_oco5s.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/16/40004_oco5s.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6f/16/40004_oco5s.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/16/40004_oco5s.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/16/40004_oco5s.jpg"
+          },
+          "name": "うる星やつら",
+          "name_cn": "福星小子",
+          "relation": "书籍",
+          "type": 1,
+          "id": 40004
         },
         {
           "images": {
@@ -270,6 +289,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/e8/364468_8AI0E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/e8/364468_8AI0E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c1/e8/364468_8AI0E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/e8/364468_8AI0E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/e8/364468_8AI0E.jpg"
+          },
+          "name": "うる星やつら",
+          "name_cn": "福星小子",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 364468
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/fa/152645_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/fa/152645_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/98/fa/152645_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/fa/152645_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/fa/152645_jp.jpg"
+          },
+          "name": "うる星やつら・ラムのベストセレクション",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 152645
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/bd/293465_qn9C5.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/bd/293465_qn9C5.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/07/bd/293465_qn9C5.jpg",
@@ -298,31 +345,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/98/fa/152645_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/98/fa/152645_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/98/fa/152645_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/98/fa/152645_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/98/fa/152645_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/61/f4/370386_Y9S92.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/61/f4/370386_Y9S92.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/61/f4/370386_Y9S92.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/61/f4/370386_Y9S92.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/61/f4/370386_Y9S92.jpg"
           },
-          "name": "うる星やつら・ラムのベストセレクション",
+          "name": "ラムのラブソング",
           "name_cn": "",
-          "relation": "其他",
+          "relation": "片头曲",
           "type": 3,
-          "id": 152645
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/16/40004_oco5s.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/16/40004_oco5s.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6f/16/40004_oco5s.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/16/40004_oco5s.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/16/40004_oco5s.jpg"
-          },
-          "name": "うる星やつら",
-          "name_cn": "福星小子",
-          "relation": "书籍",
-          "type": 1,
-          "id": 40004
+          "id": 370386
         },
         {
           "images": {
@@ -337,20 +370,6 @@
           "relation": "番外篇",
           "type": 2,
           "id": 40001
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/61/f4/370386_Y9S92.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/61/f4/370386_Y9S92.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/61/f4/370386_Y9S92.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/61/f4/370386_Y9S92.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/61/f4/370386_Y9S92.jpg"
-          },
-          "name": "ラムのラブソング",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 370386
         },
         {
           "images": {
@@ -410,20 +429,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/f5/47151_TL07w.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/f5/47151_TL07w.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/10/f5/47151_TL07w.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/f5/47151_TL07w.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/f5/47151_TL07w.jpg"
-          },
-          "name": "うる星やつら4 ラム・ザ・フォーエバー",
-          "name_cn": "福星小子4 永远的拉姆",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 47151
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/70/499321_0g511.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/70/499321_0g511.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/cb/70/499321_0g511.jpg",
@@ -438,17 +443,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/41/47158_HvWVf.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/41/47158_HvWVf.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/31/41/47158_HvWVf.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/41/47158_HvWVf.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/41/47158_HvWVf.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/f5/47151_TL07w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/f5/47151_TL07w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/10/f5/47151_TL07w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/f5/47151_TL07w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/f5/47151_TL07w.jpg"
           },
-          "name": "うる星やつら",
-          "name_cn": "福星小子 OVA",
+          "name": "うる星やつら4 ラム・ザ・フォーエバー",
+          "name_cn": "福星小子4 永远的拉姆",
           "relation": "番外篇",
           "type": 2,
-          "id": 47158
+          "id": 47151
         },
         {
           "images": {
@@ -466,17 +471,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/58/47152_d6HDf.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/58/47152_d6HDf.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/94/58/47152_d6HDf.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/58/47152_d6HDf.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/58/47152_d6HDf.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/41/47158_HvWVf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/41/47158_HvWVf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/31/41/47158_HvWVf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/41/47158_HvWVf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/41/47158_HvWVf.jpg"
           },
-          "name": "うる星やつら 完結篇",
-          "name_cn": "福星小子 完结篇",
-          "relation": "续集",
+          "name": "うる星やつら",
+          "name_cn": "福星小子 OVA",
+          "relation": "番外篇",
           "type": 2,
-          "id": 47152
+          "id": 47158
         },
         {
           "images": {
@@ -491,6 +496,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 454892
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/58/47152_d6HDf.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/58/47152_d6HDf.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/94/58/47152_d6HDf.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/58/47152_d6HDf.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/58/47152_d6HDf.jpg"
+          },
+          "name": "うる星やつら 完結篇",
+          "name_cn": "福星小子 完结篇",
+          "relation": "续集",
+          "type": 2,
+          "id": 47152
         },
         {
           "images": {
@@ -600,19 +619,18 @@
         "1981年",
         "1981年10月",
         "6合1哦耶",
-        "80",
         "80s",
         "80年代",
         "TV",
         "robo",
-        "ロボットアニメ",
-        "东京电影新社",
         "东映",
         "今沢哲男",
         "六神合体",
         "六神合体，我来组成头部",
         "新井隆文",
+        "日本",
         "日本动画",
+        "日系",
         "机战",
         "机甲",
         "東京ムービー新社",
@@ -620,11 +638,12 @@
         "横山光輝",
         "横山光辉",
         "石丸博也",
+        "石垣努",
         "科幻",
         "童年",
+        "童年系列",
         "萝卜",
         "藤川桂介",
-        "赛璐珞",
         "雷霆王"
       ],
       "infobox": [
@@ -643,6 +662,14 @@
         {
           "key": "播放结束",
           "value": "1982年12月24日"
+        },
+        {
+          "key": "导演",
+          "value": "今沢哲男"
+        },
+        {
+          "key": "音乐",
+          "value": "若草恵"
         },
         {
           "key": "原作",
@@ -665,10 +692,6 @@
           "value": "本橋秀之"
         },
         {
-          "key": "导演",
-          "value": "今沢哲男"
-        },
-        {
           "key": "机械设定",
           "value": "亀垣一"
         },
@@ -683,10 +706,6 @@
         {
           "key": "摄影监督",
           "value": "新井隆文"
-        },
-        {
-          "key": "音乐",
-          "value": "若草恵"
         },
         {
           "key": "色指定",
@@ -704,6 +723,10 @@
       "total_episodes": 64,
       "id": 32213,
       "eps": 64,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -919,6 +942,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 474781
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/94/478295_QP4qp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/94/478295_QP4qp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/18/94/478295_QP4qp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/94/478295_QP4qp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/94/478295_QP4qp.jpg"
+          },
+          "name": "超時空要塞マクロス/コブラ 人気アニメ主題歌集",
+          "name_cn": "超时空要塞/哥普拉 人气动画主题歌集",
+          "relation": "其他",
+          "type": 3,
+          "id": 478295
         }
       ]
     }
@@ -942,6 +979,7 @@
       "tags": [
         "1981",
         "StudioPierrot",
+        "TV",
         "TVA",
         "ぴえろ",
         "千葉繁",
@@ -988,6 +1026,10 @@
       "total_episodes": 52,
       "id": 213652,
       "eps": 95,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1059,7 +1101,6 @@
         "1981",
         "1981年10月",
         "80",
-        "80年代",
         "J9",
         "J9シリーズ",
         "OP",
@@ -1067,13 +1108,15 @@
         "TVA",
         "robo",
         "ロボットアニメ",
-        "中庸",
+        "一",
+        "冷门",
         "原创",
         "四辻たかお",
         "国际映画社",
         "塩沢兼人",
         "山本優",
         "待補0",
+        "日本",
         "日本动画",
         "旧物",
         "曽我部和行",
@@ -1092,6 +1135,14 @@
           "value": "银河旋风无赖我"
         },
         {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Ginga Senpuu Braiger"
+            }
+          ]
+        },
+        {
           "key": "话数",
           "value": "39"
         },
@@ -1107,6 +1158,11 @@
       "total_episodes": 39,
       "id": 37196,
       "eps": 39,
+      "meta_tags": [
+        "机战",
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1245,15 +1301,20 @@
       "name": "じゃりン子チエ",
       "name_cn": "小麻烦千惠",
       "tags": [
+        "1980s",
         "1981",
+        "5クール以上",
         "80s",
         "TV",
         "TVA",
         "トムス・エンタテインメント",
         "东京电影新社",
         "大长篇",
+        "日本",
         "日本动画",
         "旧物",
+        "漫改",
+        "漫画改",
         "生肉",
         "赛璐珞",
         "高畑勋",
@@ -1283,11 +1344,28 @@
         {
           "key": "播放结束",
           "value": "1983年3月25日"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "惣領泰則、高畑勲、風鳥花楽"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "惣領泰則"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "中山千夏、大野進"
         }
       ],
       "total_episodes": 65,
       "id": 213654,
       "eps": 64,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1355,14 +1433,14 @@
         "サンライズ",
         "冬木透",
         "原创",
-        "吉川惣司",
         "大河原邦男",
-        "大长篇",
         "战争",
         "政治",
         "政治片",
+        "日本",
         "日本动画",
         "星山博之",
+        "机器人",
         "机战",
         "真实系",
         "神作",
@@ -1422,6 +1500,11 @@
       "total_episodes": 75,
       "id": 37183,
       "eps": 75,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1600,29 +1683,32 @@
     }
   },
   {
-    "title": "Dogtanian and the Three Muskehounds",
+    "title": "ワンワン三銃士",
     "date": "1981-10-09",
     "bangumi": {
       "date": "1981-10-09",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/55/af/272058_CbjSE.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/55/af/272058_CbjSE.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/55/af/272058_CbjSE.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/55/af/272058_CbjSE.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/55/af/272058_CbjSE.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/55/af/272058_s17E7.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/55/af/272058_s17E7.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/55/af/272058_s17E7.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/55/af/272058_s17E7.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/55/af/272058_s17E7.jpg"
       },
       "summary": "故事发生在17世纪的法国，年轻的主角汤恩（英语Dogtanian，西班牙语D'Artacan，日语ダルタニヤン（CV 間嶋里美））以成为法国国王路易十三（King Louis XIII of France）的火枪手为目标，从贝亚恩（Béarn）一路旅行到巴黎。途中Dogtanian与三位火枪手（Porthos，Athos和Aramis）成为了朋友，并拯救了奥地利女王安妮（Queen Anne of Austria）的侍女朱丽叶（Juliette）。动画改编自大仲马的经典小说《三个火枪手》（d'Artagnan and The Three Musketeers），与小说最关键的不同之处是，改编动画中的Athos和Porthos在角色特征上作了互换。\r\n本作品由西班牙BRB Internacional和日本工作室Nippon Animation联合制作。1981年在日本首播，次年（1982年）在西班牙播出，并于1985年由Intersound USA配音成英文。在日本，整部作品的26集中只播出了24集。除TV以外，BRB还制作了一部电影，同样由Intersound USA配音。",
-      "name": "Dogtanian and the Three Muskehounds",
-      "name_cn": "汤恩与三剑客",
+      "name": "ワンワン三銃士",
+      "name_cn": "汪汪三剑客",
       "tags": [
         "1981",
         "1981年10月",
         "80s",
         "TV",
         "原创",
+        "小说改",
+        "日本",
         "日本动画公司",
         "旧物",
+        "欧美",
         "老番",
         "补",
         "赛璐珞"
@@ -1630,11 +1716,14 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "汤恩与三剑客"
+          "value": "汪汪三剑客"
         },
         {
           "key": "别名",
           "value": [
+            {
+              "v": "汤恩与三剑客"
+            },
             {
               "v": "三个火枪手"
             },
@@ -1642,7 +1731,7 @@
               "v": "D'Artacan y los Tres Mosqueperros"
             },
             {
-              "v": "ワンワン三銃士"
+              "v": "Dogtanian and the Three Muskehounds"
             }
           ]
         },
@@ -1671,13 +1760,39 @@
           "value": "1982年3月26日"
         },
         {
+          "key": "导演",
+          "value": "杉山卓、腰繁男"
+        },
+        {
           "key": "Copyright",
           "value": "© BRB Internacional"
+        },
+        {
+          "key": "人物设定",
+          "value": "関修一"
+        },
+        {
+          "key": "系列构成",
+          "value": "木村芳弘"
+        },
+        {
+          "key": "脚本",
+          "value": "木村芳弘"
+        },
+        {
+          "key": "剪辑",
+          "value": "瀬山武司、上遠野英俊、割田益男"
         }
       ],
       "total_episodes": 26,
       "id": 272058,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "小说改",
+        "欧美"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1722,16 +1837,17 @@
       "date": "1981-10-09",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/7a/380722_rNT1Z.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/7a/380722_rNT1Z.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/34/7a/380722_rNT1Z.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/7a/380722_rNT1Z.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/7a/380722_rNT1Z.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/7a/380722_E65Oe.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/7a/380722_E65Oe.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/34/7a/380722_E65Oe.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/7a/380722_E65Oe.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/7a/380722_E65Oe.jpg"
       },
       "summary": "翔とあずさが書庫で見つけた不思議な本は旧約聖書の世界へと通じる“タイムブック” だった。主人公の目を通して人類創世にまつわるエピソードを子どもにも分かりやすく解説する聖書シリーズ第1作。",
       "name": "アニメ 親子劇場",
       "name_cn": "动画 亲子剧场",
       "tags": [
+        "TV",
         "空",
         "龙之子"
       ],
@@ -1771,6 +1887,10 @@
       "total_episodes": 26,
       "id": 380722,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1779,11 +1899,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/30/115985_15Up9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/30/115985_15Up9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/65/30/115985_15Up9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/30/115985_15Up9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/30/115985_15Up9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/30/115985_5bA7B.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/30/115985_5bA7B.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/30/115985_5bA7B.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/30/115985_5bA7B.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/30/115985_5bA7B.jpg"
           },
           "name": "トンデラハウスの大冒険",
           "name_cn": "",
@@ -1804,6 +1924,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 467407
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/e9/526735_51H4G.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/e9/526735_51H4G.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6b/e9/526735_51H4G.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/e9/526735_51H4G.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/e9/526735_51H4G.jpg"
+          },
+          "name": "Superbook Season 1",
+          "name_cn": "超级妙妙书 第一季",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 526735
         }
       ]
     }

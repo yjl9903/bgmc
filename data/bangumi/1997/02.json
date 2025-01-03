@@ -18,11 +18,13 @@
       "tags": [
         "1990s",
         "1997",
+        "1997年2月",
         "90年代",
         "GAOGAIGA",
         "GGG",
         "SUNRISE",
         "TV",
+        "TVA",
         "TVB",
         "不灭的勇气",
         "也没看完",
@@ -30,10 +32,8 @@
         "勇者シリーズ",
         "勇者王",
         "勇者系列",
-        "勇者！",
         "原创",
         "天海护",
-        "战斗",
         "机战",
         "热血",
         "熱血",
@@ -73,12 +73,16 @@
           "value": "1998年1月31日"
         },
         {
-          "key": "原作",
-          "value": "矢立肇"
-        },
-        {
           "key": "导演",
           "value": "米たにヨシトモ"
+        },
+        {
+          "key": "音乐",
+          "value": "田中公平"
+        },
+        {
+          "key": "原作",
+          "value": "矢立肇"
         },
         {
           "key": "系列构成",
@@ -109,10 +113,6 @@
           "value": "布施由美子・野尻由紀子"
         },
         {
-          "key": "音乐",
-          "value": "田中公平"
-        },
-        {
           "key": "制作",
           "value": "名古屋テレビ、東急エージェンシー、サンライズ"
         },
@@ -132,96 +132,17 @@
       "total_episodes": 49,
       "id": 1894,
       "eps": 49,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
       "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
-          },
-          "name": "スーパーロボット大戦X-Ω",
-          "name_cn": "超级机器人大战X-Ω",
-          "relation": "游戏",
-          "type": 4,
-          "id": 141050
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/4e/490490_2izQ9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/4e/490490_2izQ9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/aa/4e/490490_2izQ9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/4e/490490_2izQ9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/4e/490490_2izQ9.jpg"
-          },
-          "name": "オール ザット ガオガイガー ー勇者王大全ー",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 490490
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/9e/467503_YOzqr.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/9e/467503_YOzqr.jpg"
-          },
-          "name": "GBハロボッツ",
-          "name_cn": "哈罗机器人",
-          "relation": "游戏",
-          "type": 4,
-          "id": 467503
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/d5/445950_Ps8Do.jpg"
-          },
-          "name": "ブレイブサーガ 新章 アスタリア",
-          "name_cn": "勇者传说 新章",
-          "relation": "游戏",
-          "type": 4,
-          "id": 445950
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/7f/441157_xDxIE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/7f/441157_xDxIE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d5/7f/441157_xDxIE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/7f/441157_xDxIE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/7f/441157_xDxIE.jpg"
-          },
-          "name": "20th ANNIVERSARY 勇者王ガオガイガー イラストワークス",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 441157
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/ad/354950_lVvrb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/ad/354950_lVvrb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e9/ad/354950_lVvrb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/ad/354950_lVvrb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/ad/354950_lVvrb.jpg"
-          },
-          "name": "覇界王~ガオガイガー対ベターマン~",
-          "name_cn": "霸界王～GaoGaiGar对Betterman～",
-          "relation": "书籍",
-          "type": 1,
-          "id": 354950
-        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/5d/348266_f14p3.jpg",
@@ -232,93 +153,9 @@
           },
           "name": "新世紀勇者大戦",
           "name_cn": "新世纪勇者大战",
-          "relation": "角色出演",
+          "relation": "游戏",
           "type": 4,
           "id": 348266
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/49/348260_oLw7B.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/49/348260_oLw7B.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8d/49/348260_oLw7B.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/49/348260_oLw7B.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/49/348260_oLw7B.jpg"
-          },
-          "name": "ブレイブサーガ2",
-          "name_cn": "勇者传说2",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 348260
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/76/303894_xG6l8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/76/303894_xG6l8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7d/76/303894_xG6l8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/76/303894_xG6l8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/76/303894_xG6l8.jpg"
-          },
-          "name": "サンライズ 英雄譚3",
-          "name_cn": "日升英雄谭3",
-          "relation": "游戏",
-          "type": 4,
-          "id": 303894
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/7d/303892_GFZ86.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/7d/303892_GFZ86.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/7d/303892_GFZ86.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/7d/303892_GFZ86.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/7d/303892_GFZ86.jpg"
-          },
-          "name": "サンライズ英雄譚2",
-          "name_cn": "日升英雄谭2",
-          "relation": "游戏",
-          "type": 4,
-          "id": 303892
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
-          },
-          "name": "スーパーロボット大戦DD",
-          "name_cn": "超级机器人大战DD",
-          "relation": "游戏",
-          "type": 4,
-          "id": 271927
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/80/267261_z9znE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/80/267261_z9znE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cc/80/267261_z9znE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/80/267261_z9znE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/80/267261_z9znE.jpg"
-          },
-          "name": "スーパーロボット大戦T",
-          "name_cn": "超级机器人大战T",
-          "relation": "游戏",
-          "type": 4,
-          "id": 267261
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/28/214577_3AFVX.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/28/214577_3AFVX.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/33/28/214577_3AFVX.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/28/214577_3AFVX.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/28/214577_3AFVX.jpg"
-          },
-          "name": "机动战队",
-          "name_cn": "",
-          "relation": "游戏",
-          "type": 4,
-          "id": 214577
         },
         {
           "images": {
@@ -336,6 +173,104 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/28/214577_3AFVX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/28/214577_3AFVX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/28/214577_3AFVX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/28/214577_3AFVX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/28/214577_3AFVX.jpg"
+          },
+          "name": "机动战队",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 214577
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/80/267261_z9znE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/80/267261_z9znE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cc/80/267261_z9znE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/80/267261_z9znE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/80/267261_z9znE.jpg"
+          },
+          "name": "スーパーロボット大戦T",
+          "name_cn": "超级机器人大战T",
+          "relation": "游戏",
+          "type": 4,
+          "id": 267261
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/70/c2/271927_6CpTE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/70/c2/271927_6CpTE.jpg"
+          },
+          "name": "スーパーロボット大戦DD",
+          "name_cn": "超级机器人大战DD",
+          "relation": "游戏",
+          "type": 4,
+          "id": 271927
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6c/68/289134_n3WZa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6c/68/289134_n3WZa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6c/68/289134_n3WZa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6c/68/289134_n3WZa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6c/68/289134_n3WZa.jpg"
+          },
+          "name": "勇者王ガオガイガー BLOCKADED NUMBERS",
+          "name_cn": "勇者王BLOCKADED NUMBERS",
+          "relation": "游戏",
+          "type": 4,
+          "id": 289134
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/7d/303892_GFZ86.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/7d/303892_GFZ86.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f7/7d/303892_GFZ86.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/7d/303892_GFZ86.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/7d/303892_GFZ86.jpg"
+          },
+          "name": "サンライズ英雄譚2",
+          "name_cn": "日升英雄谭2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 303892
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/76/303894_xG6l8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/76/303894_xG6l8.jpg"
+          },
+          "name": "サンライズ 英雄譚3",
+          "name_cn": "日升英雄谭3",
+          "relation": "游戏",
+          "type": 4,
+          "id": 303894
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/49/348260_oLw7B.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/49/348260_oLw7B.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/49/348260_oLw7B.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/49/348260_oLw7B.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/49/348260_oLw7B.jpg"
+          },
+          "name": "ブレイブサーガ2",
+          "name_cn": "勇者传说2",
+          "relation": "角色出演",
+          "type": 4,
+          "id": 348260
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/d7/145455_f5ypf.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/d7/145455_f5ypf.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/68/d7/145455_f5ypf.jpg",
@@ -350,6 +285,104 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/ad/354950_lVvrb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/ad/354950_lVvrb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e9/ad/354950_lVvrb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/ad/354950_lVvrb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/ad/354950_lVvrb.jpg"
+          },
+          "name": "覇界王~ガオガイガー対ベターマン~",
+          "name_cn": "霸界王～GaoGaiGar对Betterman～",
+          "relation": "书籍",
+          "type": 1,
+          "id": 354950
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/aa/402731_uw6Zp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/aa/402731_uw6Zp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/73/aa/402731_uw6Zp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/aa/402731_uw6Zp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/aa/402731_uw6Zp.jpg"
+          },
+          "name": "勇者王ガオガイガー外伝 キングジェイダー -灼熱の不死鳥-",
+          "name_cn": "勇者王我王凯牙外传 积达王 灼热的不死鸟",
+          "relation": "书籍",
+          "type": 1,
+          "id": 402731
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d5/7f/441157_xDxIE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d5/7f/441157_xDxIE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d5/7f/441157_xDxIE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/7f/441157_xDxIE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/7f/441157_xDxIE.jpg"
+          },
+          "name": "20th ANNIVERSARY 勇者王ガオガイガー イラストワークス",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 441157
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b2/d5/445950_Ps8Do.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/d5/445950_Ps8Do.jpg"
+          },
+          "name": "ブレイブサーガ 新章 アスタリア",
+          "name_cn": "勇者传说 新章",
+          "relation": "游戏",
+          "type": 4,
+          "id": 445950
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/9e/467503_YOzqr.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/9e/467503_YOzqr.jpg"
+          },
+          "name": "GBハロボッツ",
+          "name_cn": "哈罗机器人",
+          "relation": "游戏",
+          "type": 4,
+          "id": 467503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/4e/490490_2izQ9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/4e/490490_2izQ9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/aa/4e/490490_2izQ9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/4e/490490_2izQ9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/4e/490490_2izQ9.jpg"
+          },
+          "name": "オール ザット ガオガイガー ー勇者王大全ー",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 490490
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/23/508867_5Iaea.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/23/508867_5Iaea.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dc/23/508867_5Iaea.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/23/508867_5Iaea.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/23/508867_5Iaea.jpg"
+          },
+          "name": "お絵かきパズルバトル! 勇者王ガオガイガー 編",
+          "name_cn": "绘图方块解迷战斗勇者王",
+          "relation": "游戏",
+          "type": 4,
+          "id": 508867
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/f5/7a/905_pK3xW.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f5/7a/905_pK3xW.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/f5/7a/905_pK3xW.jpg",
@@ -361,6 +394,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 905
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/1c/141050_m2hH7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/1c/141050_m2hH7.jpg"
+          },
+          "name": "スーパーロボット大戦X-Ω",
+          "name_cn": "超级机器人大战X-Ω",
+          "relation": "游戏",
+          "type": 4,
+          "id": 141050
         },
         {
           "images": {
@@ -454,7 +501,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/24/25801_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/24/25801_jp.jpg"
           },
-          "name": "勇者王ガオガイガー ― オリジナル・サウンドトラック 2",
+          "name": "勇者王ガオガイガー ～オリジナル・サウンドトラック2～",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -468,7 +515,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/4a/25800_jp.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/4a/25800_jp.jpg"
           },
-          "name": "勇者王ガオガイガー ― オリジナル・サウンドトラック 1",
+          "name": "勇者王ガオガイガー ～オリジナル・サウンドトラック1～",
           "name_cn": "",
           "relation": "原声集",
           "type": 3,
@@ -581,7 +628,6 @@
         "1997",
         "1997.01",
         "1997年2月",
-        "20世纪平成",
         "90s",
         "SF",
         "TV",
@@ -590,11 +636,11 @@
         "东映动画",
         "佐々木憲世",
         "佐佐木宪世",
-        "变身",
+        "动画（TV）",
         "女性主角",
-        "山口亮太",
         "待補1",
         "战斗",
+        "搞笑",
         "日本动画",
         "旧物",
         "東映アニメーション",
@@ -603,10 +649,11 @@
         "永野愛",
         "漫改",
         "漫画改",
+        "特摄",
         "甜心战士",
         "甜心战士F",
+        "科幻",
         "赛璐珞",
-        "重制",
         "魔法少女"
       ],
       "infobox": [
@@ -662,6 +709,11 @@
       "total_episodes": 39,
       "id": 38774,
       "eps": 39,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -681,6 +733,20 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 9302
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/be/da/9303_I55BQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/be/da/9303_I55BQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/be/da/9303_I55BQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/be/da/9303_I55BQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/be/da/9303_I55BQ.jpg"
+          },
+          "name": "Re:キューティーハニー",
+          "name_cn": "Re: 甜心战士",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 9303
         },
         {
           "images": {
@@ -790,7 +856,6 @@
         "J.C",
         "J.C.STAFF",
         "OVA",
-        "OVA-01",
         "SF",
         "STAFF",
         "又野弘道",
@@ -835,6 +900,9 @@
       "total_episodes": 15,
       "id": 120936,
       "eps": 15,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

@@ -23,17 +23,17 @@
         "OVA",
         "SUNRISE",
         "中井和哉",
-        "动画",
         "吐槽",
         "在银他妈面前我们都是抖M",
         "在银他妈面前我们都是斗M",
         "少年jump",
-        "恶搞",
         "搞笑",
+        "日常",
         "日本动画",
         "杉田智和",
         "漫改",
         "漫画改",
+        "热血",
         "白夜叉",
         "石田彰",
         "自然卷",
@@ -99,6 +99,9 @@
       "total_episodes": 1,
       "id": 3153,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -188,15 +191,12 @@
         "Comedy",
         "JUMP",
         "OVA",
-        "OVA|OAD",
         "OVA·OAD",
         "SUNRISE",
-        "★OVA・OAD",
-        "『OVA』",
         "マンガ原作",
         "剧场版",
-        "吐槽",
         "大长篇",
+        "已保存",
         "战斗",
         "搞笑",
         "日本动画",
@@ -207,10 +207,13 @@
         "短片",
         "藤田阳一",
         "藤田陽一",
+        "表",
         "野村裕树",
         "银他妈",
         "银魂",
-        "骗人的...抚额苦笑"
+        "预告片",
+        "骗人的...抚额苦笑",
+        "骗魂淡"
       ],
       "infobox": [
         {
@@ -237,6 +240,9 @@
       "total_episodes": 1,
       "id": 162688,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -309,7 +315,7 @@
         "女王之刃",
         "女皇之刃",
         "川澄綾子",
-        "川澄绫子",
+        "平野绫",
         "战斗",
         "游戏改",
         "百合",
@@ -363,6 +369,12 @@
       "total_episodes": 18,
       "id": 2605,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "游戏改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -466,6 +478,20 @@
           "relation": "画集",
           "type": 1,
           "id": 169345
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/10/13/520590_99dYa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/10/13/520590_99dYa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/10/13/520590_99dYa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/10/13/520590_99dYa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/10/13/520590_99dYa.jpg"
+          },
+          "name": "クイーンズブレイドリミットブレイク",
+          "name_cn": "女王之刃Limit Break",
+          "relation": "游戏",
+          "type": 4,
+          "id": 520590
         }
       ]
     }
@@ -595,6 +621,12 @@
       "total_episodes": 50,
       "id": 14766,
       "eps": 50,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "原创",
+        "子供向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -729,6 +761,7 @@
         "手塚PRO",
         "手塚PRODUCTION",
         "手塚治虫",
+        "日本",
         "日番",
         "森林大帝",
         "漫画改",
@@ -751,6 +784,11 @@
       "total_episodes": 1,
       "id": 62930,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -875,6 +913,7 @@
       "total_episodes": 10,
       "id": 210715,
       "eps": 10,
+      "meta_tags": [],
       "volumes": 0,
       "series": false,
       "locked": true,
@@ -902,9 +941,9 @@
       "tags": [
         "03",
         "2009",
+        "2009年",
         "OAD",
         "OVA",
-        "OVA-01",
         "SHAFT",
         "StudioPastoral",
         "スタジオパストラル",
@@ -912,7 +951,7 @@
         "动画",
         "后宫",
         "奇幻",
-        "所智一",
+        "已下载",
         "新房昭之",
         "日本",
         "日本动画",
@@ -1067,6 +1106,10 @@
       "total_episodes": 5,
       "id": 3341,
       "eps": 5,
+      "meta_tags": [
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1128,712 +1171,20 @@
           "relation": "续集",
           "type": 2,
           "id": 34585
-        }
-      ]
-    }
-  },
-  {
-    "title": "仮面ライダーW",
-    "date": "2009-09-06",
-    "bangumi": {
-      "date": "2009-09-06",
-      "platform": "日剧",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/4b/8055_krmKN.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/4b/8055_krmKN.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/44/4b/8055_krmKN.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/4b/8055_krmKN.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/4b/8055_krmKN.jpg"
-      },
-      "summary": "今から1年前（2008年）、私立探偵の鳴海荘吉とその弟子の左 翔太郎は、謎の組織に拘束されていた少年を助け出す。脱出の途中に荘吉が追手の凶弾に倒れ、残る2人も絶体絶命の窮地に陥る中、少年は翔太郎に謎の機械を渡し、こう告げた。「悪魔と相乗りする勇気、あるかな?」\r\n\r\nそして2009年秋。あらゆる場所で風車が回る風の街風都において、荘吉の後を継いで探偵業を営む翔太郎と1年前に救出された少年フィリップの元に、荘吉の娘鳴海亜樹子が事務所からの立ち退きを要求しにやってきた。翔太郎に付きまとううちに、亜樹子は風都で怪事件を起こす怪人ドーパントの存在を知る。そして、翔太郎とフィリップが変身する風都を守る戦士仮面ライダーWの戦いに深く関わっていくことになる。",
-      "name": "仮面ライダーW",
-      "name_cn": "假面骑士W",
-      "tags": [
-        "2009",
-        "2009年9月",
-        "JOKER",
-        "TV",
-        "w",
-        "三条陆",
-        "三条陸",
-        "东映",
-        "中川幸太郎",
-        "仮面ライダー",
-        "假面骑士",
-        "假面骑士w",
-        "单元剧",
-        "喜感腰带音声",
-        "平成",
-        "慢热",
-        "战斗",
-        "推理",
-        "日剧",
-        "日本",
-        "東映",
-        "桐山涟",
-        "桐山漣",
-        "特摄",
-        "石森章太郎",
-        "翔太郎",
-        "菅田将晖",
-        "菅田将暉",
-        "连续剧",
-        "长谷川圭一"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "假面骑士W"
-        },
-        {
-          "key": "集数",
-          "value": "49"
-        },
-        {
-          "key": "放送星期",
-          "value": "周日"
-        },
-        {
-          "key": "开始",
-          "value": "2009-09-06"
-        },
-        {
-          "key": "结束",
-          "value": "2010-08-29"
-        },
-        {
-          "key": "类型",
-          "value": "特摄"
-        },
-        {
-          "key": "原作",
-          "value": "石ノ森章太郎"
-        },
-        {
-          "key": "导演",
-          "value": "田﨑竜太、諸田敏、黒沢直輔、柴﨑貴行、石田秀範、坂本浩一"
-        },
-        {
-          "key": "编剧",
-          "value": "三条陸、荒川稔久、長谷川圭一、中島かずき"
-        },
-        {
-          "key": "主演",
-          "value": "桐山漣、菅田将暉、山本ひかる"
-        },
-        {
-          "key": "片头曲",
-          "value": "W-B-X ~W-Boiled Extreme~"
-        },
-        {
-          "key": "音乐",
-          "value": "鳴瀬シュウヘイ、中川幸太郎"
-        },
-        {
-          "key": "制片人/制作人",
-          "value": "本井健吾（テレビ朝日）、塚田英明、高橋一浩"
-        },
-        {
-          "key": "制作",
-          "value": "テレビ朝日、東映"
-        }
-      ],
-      "total_episodes": 49,
-      "id": 8055,
-      "eps": 49,
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 6,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/2f/270683_qIXJJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/2f/270683_qIXJJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/2f/270683_qIXJJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/2f/270683_qIXJJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/2f/270683_qIXJJ.jpg"
-          },
-          "name": "ネット版 仮面ライダーW FOREVER AtoZで爆笑26連発",
-          "name_cn": "网络版 假面骑士W FOREVER AtoZ爆笑26连发",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 270683
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/19/120605_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/19/120605_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6d/19/120605_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/19/120605_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/19/120605_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/35/520724_My3AJ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/35/520724_My3AJ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/35/520724_My3AJ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/35/520724_My3AJ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/35/520724_My3AJ.jpg"
           },
-          "name": "仮面ライダーダブル オリジナルサウンドトラック 2",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 120605
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/06/120613_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/06/120613_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/31/06/120613_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/06/120613_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/06/120613_jp.jpg"
-          },
-          "name": "仮面ライダーダブル オリジナルサウンドト",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 120613
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/95/144216_k91zU.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/95/144216_k91zU.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e0/95/144216_k91zU.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/95/144216_k91zU.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/95/144216_k91zU.jpg"
-          },
-          "name": "仮面ライダーゴースト",
-          "name_cn": "假面骑士Ghost",
-          "relation": "相同世界观",
-          "type": 6,
-          "id": 144216
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/f3/180769_VFzHj.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/f3/180769_VFzHj.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2f/f3/180769_VFzHj.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/f3/180769_VFzHj.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/f3/180769_VFzHj.jpg"
-          },
-          "name": "ドライブサーガ 仮面ライダーチェイサー",
-          "name_cn": "DRIVE SAGA 假面骑士Chaser",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 180769
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/88/188707_sIEsg.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/88/188707_sIEsg.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7e/88/188707_sIEsg.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/88/188707_sIEsg.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/88/188707_sIEsg.jpg"
-          },
-          "name": "仮面ライダーエグゼイド",
-          "name_cn": "假面骑士EX-AID",
-          "relation": "相同世界观",
-          "type": 6,
-          "id": 188707
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/23/189502_fZF4Y.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/23/189502_fZF4Y.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/33/23/189502_fZF4Y.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/23/189502_fZF4Y.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/23/189502_fZF4Y.jpg"
-          },
-          "name": "仮面ライダーW 超バトルDVD 丼のα/さらば愛しのレシピよ",
-          "name_cn": "假面骑士W 超战斗DVD 盖浇饭的α／再会爱的食谱",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 189502
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/32/213849_IKSiE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/32/213849_IKSiE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/03/32/213849_IKSiE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/32/213849_IKSiE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/32/213849_IKSiE.jpg"
-          },
-          "name": "仮面ライダーエグゼイド [裏技] 仮面ライダーゲンム",
-          "name_cn": "假面骑士Ex-Aid [秘技]假面骑士Genm",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 213849
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/6f/221759_505o5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/6f/221759_505o5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8e/6f/221759_505o5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/6f/221759_505o5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/6f/221759_505o5.jpg"
-          },
-          "name": "風都探偵",
-          "name_cn": "风都侦探",
-          "relation": "书籍",
-          "type": 1,
-          "id": 221759
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/aa/223098_150ob.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/aa/223098_150ob.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cb/aa/223098_150ob.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/aa/223098_150ob.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/aa/223098_150ob.jpg"
-          },
-          "name": "仮面ライダービルド",
-          "name_cn": "假面骑士Build",
-          "relation": "不同世界观",
-          "type": 6,
-          "id": 223098
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/a1/254354_3m3bk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/a1/254354_3m3bk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/86/a1/254354_3m3bk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/a1/254354_3m3bk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/a1/254354_3m3bk.jpg"
-          },
-          "name": "仮面ライダージオウ",
-          "name_cn": "假面骑士时王",
-          "relation": "不同世界观",
-          "type": 6,
-          "id": 254354
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/a9/120603_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/a9/120603_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ea/a9/120603_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/a9/120603_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/a9/120603_jp.jpg"
-          },
-          "name": "KAMEN RIDER BEST 2000-2011",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 120603
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/af/279816_n258r.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/af/279816_n258r.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4a/af/279816_n258r.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/af/279816_n258r.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/af/279816_n258r.jpg"
-          },
-          "name": "仮面ライダーW DVD ガイアメモリ大図鑑",
-          "name_cn": "假面骑士W DVD 盖亚记忆体大图鉴",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 279816
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/d7/279833_9cKK3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/d7/279833_9cKK3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c8/d7/279833_9cKK3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/d7/279833_9cKK3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/d7/279833_9cKK3.jpg"
-          },
-          "name": "左翔太郎ハードボイルド妄想日記",
-          "name_cn": "左翔太郎硬汉妄想日记",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 279833
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/a5/289674_7I4lP.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/a5/289674_7I4lP.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/13/a5/289674_7I4lP.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/13/a5/289674_7I4lP.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/13/a5/289674_7I4lP.jpg"
-          },
-          "name": "仮面ライダージオウ NEXT TIME ゲイツ、マジェスティ",
-          "name_cn": "假面骑士时王 NEXT TIME Geiz，Majesty",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 289674
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6c/bc/313862_4hy47.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6c/bc/313862_4hy47.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6c/bc/313862_4hy47.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6c/bc/313862_4hy47.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6c/bc/313862_4hy47.jpg"
-          },
-          "name": "仮面ライダー メモリーオブヒーローズ",
-          "name_cn": "假面骑士 英雄寻忆",
+          "name": "魔法先生ネギま！まほらパニック",
+          "name_cn": "魔法老师 魔法大乱斗",
           "relation": "游戏",
           "type": 4,
-          "id": 313862
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/98/332133_PUJQ9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/98/332133_PUJQ9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/81/98/332133_PUJQ9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/98/332133_PUJQ9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/98/332133_PUJQ9.jpg"
-          },
-          "name": "風都探偵",
-          "name_cn": "风都侦探",
-          "relation": "续集",
-          "type": 2,
-          "id": 332133
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/05/335533_FvRn2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/05/335533_FvRn2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ff/05/335533_FvRn2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/05/335533_FvRn2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/05/335533_FvRn2.jpg"
-          },
-          "name": "小説 仮面ライダーW ~Zを継ぐ者~",
-          "name_cn": "小说 假面骑士W",
-          "relation": "书籍",
-          "type": 1,
-          "id": 335533
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d9/68/367063_vvCQK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d9/68/367063_vvCQK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d9/68/367063_vvCQK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d9/68/367063_vvCQK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d9/68/367063_vvCQK.jpg"
-          },
-          "name": "仮面ライダーリバイス The Mystery",
-          "name_cn": "假面骑士利维斯 The Mystery",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 367063
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/19/392624_RqblS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/19/392624_RqblS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6b/19/392624_RqblS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/19/392624_RqblS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/19/392624_RqblS.jpg"
-          },
-          "name": "仮面ライダージャンヌ&仮面ライダーアギレラ withガールズリミックス",
-          "name_cn": "假面骑士贞德 & 假面骑士阿基蕾拉 with Girls Remix",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 392624
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/8a/453249_rXeg8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/8a/453249_rXeg8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f3/8a/453249_rXeg8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/8a/453249_rXeg8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/8a/453249_rXeg8.jpg"
-          },
-          "name": "仮面ライダーバトル ガンバライドカードバトル大戦",
-          "name_cn": "假面骑士BATTLE GANBARIDE 卡片大战",
-          "relation": "游戏",
-          "type": 4,
-          "id": 453249
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/d4/73670_Zk6zc.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/d4/73670_Zk6zc.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/29/d4/73670_Zk6zc.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/d4/73670_Zk6zc.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/d4/73670_Zk6zc.jpg"
-          },
-          "name": "仮面ライダーW RETURNS 仮面ライダーエターナル",
-          "name_cn": "假面骑士W RETURNS 假面骑士Eternal",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 73670
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/99/11297_PQDc7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/99/11297_PQDc7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9d/99/11297_PQDc7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/99/11297_PQDc7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/99/11297_PQDc7.jpg"
-          },
-          "name": "劇場版 仮面ライダーディケイド オールライダー対大ショッカー",
-          "name_cn": "剧场版 假面骑士DECADE ALL RIDER对大修卡",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 11297
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/1e/11299_4lWA2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/1e/11299_4lWA2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/64/1e/11299_4lWA2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/1e/11299_4lWA2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/1e/11299_4lWA2.jpg"
-          },
-          "name": "仮面ライダー×仮面ライダー W&ディケイド MOVIE大戦2010",
-          "name_cn": "假面骑士X假面骑士 W&DECADE MOVIE大战2010",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 11299
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/60/11300_G5jkR.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/60/11300_G5jkR.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/83/60/11300_G5jkR.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/60/11300_G5jkR.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/60/11300_G5jkR.jpg"
-          },
-          "name": "仮面ライダーW FOREVER AtoZ/運命のガイアメモリ",
-          "name_cn": "假面骑士W FOREVER A 至 Z 命运的Gaia Memory",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 11300
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/01/11312_Y5msJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/01/11312_Y5msJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/23/01/11312_Y5msJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/01/11312_Y5msJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/01/11312_Y5msJ.jpg"
-          },
-          "name": "仮面ライダー×仮面ライダー オーズ&ダブル feat.スカル MOVIE大戦CORE",
-          "name_cn": "假面骑士×假面骑士 OOO&W feat.SKULL MOVIE大战CORE",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 11312
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3a/bb/22641_7XWC0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3a/bb/22641_7XWC0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3a/bb/22641_7XWC0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3a/bb/22641_7XWC0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3a/bb/22641_7XWC0.jpg"
-          },
-          "name": "仮面ライダーフォーゼ",
-          "name_cn": "假面骑士Fourze",
-          "relation": "相同世界观",
-          "type": 6,
-          "id": 22641
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/c8/24993_Mb55t.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/c8/24993_Mb55t.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ec/c8/24993_Mb55t.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/c8/24993_Mb55t.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/c8/24993_Mb55t.jpg"
-          },
-          "name": "ロストヒーローズ",
-          "name_cn": "忘却的英雄",
-          "relation": "游戏",
-          "type": 4,
-          "id": 24993
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/3f/43392_0PQ19.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/3f/43392_0PQ19.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5c/3f/43392_0PQ19.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5c/3f/43392_0PQ19.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/3f/43392_0PQ19.jpg"
-          },
-          "name": "仮面ライダーウィザード",
-          "name_cn": "假面骑士Wizard",
-          "relation": "相同世界观",
-          "type": 6,
-          "id": 43392
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/d9/64284_BiRXr.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/d9/64284_BiRXr.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/32/d9/64284_BiRXr.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/d9/64284_BiRXr.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/d9/64284_BiRXr.jpg"
-          },
-          "name": "ヒーローズバーサス",
-          "name_cn": "英雄VS",
-          "relation": "游戏",
-          "type": 4,
-          "id": 64284
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/9f/72195_33r33.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/9f/72195_33r33.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/9f/72195_33r33.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/9f/72195_33r33.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/9f/72195_33r33.jpg"
-          },
-          "name": "仮面ライダー×仮面ライダー フォーゼ&オーズ MOVIE大戦MEGA MAX",
-          "name_cn": "假面骑士×假面骑士 Fourze & OOO MOVIE大战 MEGA MAX",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 72195
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/c7/73668_XWC47.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/c7/73668_XWC47.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/c7/73668_XWC47.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/c7/73668_XWC47.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/c7/73668_XWC47.jpg"
-          },
-          "name": "仮面ライダーW RETURNS 仮面ライダーアクセル",
-          "name_cn": "假面骑士W Returns：假面骑士Accel",
-          "relation": "番外篇",
-          "type": 6,
-          "id": 73668
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/d4/9376_aaC74.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/d4/9376_aaC74.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/15/d4/9376_aaC74.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/d4/9376_aaC74.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/d4/9376_aaC74.jpg"
-          },
-          "name": "仮面ライダーオーズ",
-          "name_cn": "假面骑士OOO",
-          "relation": "相同世界观",
-          "type": 6,
-          "id": 9376
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/73/78323_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/73/78323_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/73/78323_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/73/78323_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/73/78323_jp.jpg"
-          },
-          "name": "W-B-X ～W-Boiled Extreme～",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 78323
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/6c/78324_cXqLS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/6c/78324_cXqLS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2a/6c/78324_cXqLS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/6c/78324_cXqLS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/6c/78324_cXqLS.jpg"
-          },
-          "name": "Cyclone Effect",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 78324
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/e0/78325_B6e5k.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/e0/78325_B6e5k.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/e0/78325_B6e5k.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/e0/78325_B6e5k.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/e0/78325_B6e5k.jpg"
-          },
-          "name": "Free your heat",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 78325
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/bc/78326_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/bc/78326_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5b/bc/78326_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/bc/78326_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/bc/78326_jp.jpg"
-          },
-          "name": "Finger on the trigger",
-          "name_cn": "",
-          "relation": "插入歌",
-          "type": 3,
-          "id": 78326
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/07/8d/78327_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/07/8d/78327_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/07/8d/78327_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/07/8d/78327_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/07/8d/78327_jp.jpg"
-          },
-          "name": "仮面ライダーW Special CD-BOX",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 78327
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/57/79034_LLkOW.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/57/79034_LLkOW.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e0/57/79034_LLkOW.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/57/79034_LLkOW.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/57/79034_LLkOW.jpg"
-          },
-          "name": "仮面ライダー鎧武",
-          "name_cn": "假面骑士铠武",
-          "relation": "相同世界观",
-          "type": 6,
-          "id": 79034
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/38/110954_wKZhc.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/38/110954_wKZhc.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/6b/38/110954_wKZhc.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/38/110954_wKZhc.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/38/110954_wKZhc.jpg"
-          },
-          "name": "平成ライダー対昭和ライダー 仮面ライダー大戦 feat.スーパー戦隊",
-          "name_cn": "平成骑士VS昭和骑士 假面骑士feat.超级战队",
-          "relation": "角色出演",
-          "type": 6,
-          "id": 110954
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/1f/112356_yqOUo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/1f/112356_yqOUo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8f/1f/112356_yqOUo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/1f/112356_yqOUo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/1f/112356_yqOUo.jpg"
-          },
-          "name": "仮面ライダードライブ",
-          "name_cn": "假面骑士Drive",
-          "relation": "相同世界观",
-          "type": 6,
-          "id": 112356
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b3/b6/117069_Xwi19.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b3/b6/117069_Xwi19.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b3/b6/117069_Xwi19.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b3/b6/117069_Xwi19.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b3/b6/117069_Xwi19.jpg"
-          },
-          "name": "ロストヒーローズ2",
-          "name_cn": "忘却的英雄2",
-          "relation": "游戏",
-          "type": 4,
-          "id": 117069
+          "id": 520724
         }
       ]
     }

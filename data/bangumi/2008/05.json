@@ -23,6 +23,7 @@
         "AIC",
         "Boy无关",
         "Candy☆Boy",
+        "GL",
         "OVA",
         "TV",
         "WEB",
@@ -34,12 +35,11 @@
         "姐妹爱",
         "恋爱",
         "日常",
+        "日本",
         "星川孝文",
         "校园",
         "治愈",
         "漫改",
-        "漫画改",
-        "甜",
         "甜蜜",
         "生天目仁美",
         "百合",
@@ -85,6 +85,10 @@
           "value": "ほしかわたかふみ"
         },
         {
+          "key": "音乐",
+          "value": "杉山正明・TAKA"
+        },
+        {
           "key": "人物设定",
           "value": "波部崇、うめつゆきのり"
         },
@@ -101,10 +105,6 @@
           "value": "日比智恵子"
         },
         {
-          "key": "音乐",
-          "value": "杉山正明・TAKA"
-        },
-        {
           "key": "动画制作",
           "value": "AIC"
         },
@@ -116,6 +116,15 @@
       "total_episodes": 9,
       "id": 2829,
       "eps": 9,
+      "meta_tags": [
+        "喜剧",
+        "百合",
+        "校园",
+        "日本",
+        "原创",
+        "GL",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -308,6 +317,13 @@
       "total_episodes": 1,
       "id": 766,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "日本",
+        "奇幻",
+        "战斗",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -735,6 +751,9 @@
       "total_episodes": 1,
       "id": 513599,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

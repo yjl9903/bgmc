@@ -21,7 +21,6 @@
         "2022",
         "GAL改",
         "OVA",
-        "OVA-01",
         "OVA·OAD",
         "lxy",
         "studiodeen",
@@ -80,6 +79,9 @@
       "total_episodes": 3,
       "id": 349519,
       "eps": 3,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -221,16 +223,16 @@
           "value": "2022年2月13日"
         },
         {
+          "key": "导演",
+          "value": "外崎春雄"
+        },
+        {
           "key": "Copyright",
           "value": "©吾峠呼世晴／集英社・アニプレックス・ufotable"
         },
         {
           "key": "原作",
           "value": "吾峠呼世晴（集英社ジャンプ コミックス刊）"
-        },
-        {
-          "key": "导演",
-          "value": "外崎春雄"
         },
         {
           "key": "人物设定",
@@ -252,6 +254,13 @@
       "total_episodes": 11,
       "id": 328195,
       "eps": 11,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -302,6 +311,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/30/527604_BU14g.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/30/527604_BU14g.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b8/30/527604_BU14g.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/30/527604_BU14g.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/30/527604_BU14g.jpg"
+          },
+          "name": "鬼滅の刃 ヒノカミ血風譚2",
+          "name_cn": "鬼灭之刃 火之神血风谭2",
+          "relation": "游戏",
+          "type": 4,
+          "id": 527604
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/bb/369768_F05zh.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/bb/369768_F05zh.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/c9/bb/369768_F05zh.jpg",
@@ -316,45 +339,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/af/404879_I66bb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/af/404879_I66bb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2a/af/404879_I66bb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/af/404879_I66bb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/af/404879_I66bb.jpg"
+            "small": "",
+            "grid": "",
+            "large": "",
+            "medium": "",
+            "common": ""
           },
-          "name": "鬼滅ラヂヲ",
-          "name_cn": "鬼灭广播",
-          "relation": "衍生",
-          "type": 6,
-          "id": 404879
+          "name": "アニメ「鬼滅の刃」イラスト記録集 参",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 525433
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/9d/410499_kA9t3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/9d/410499_kA9t3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ad/9d/410499_kA9t3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/9d/410499_kA9t3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/9d/410499_kA9t3.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/bb/482135_q5FVU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/bb/482135_q5FVU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fc/bb/482135_q5FVU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/bb/482135_q5FVU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/bb/482135_q5FVU.jpg"
           },
-          "name": "鬼滅の刃 上弦集結、そして刀鍛冶の里へ",
-          "name_cn": "鬼灭之刃 上弦集结、前往锻刀村",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 410499
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/3d/422759_KJ79K.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/3d/422759_KJ79K.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/23/3d/422759_KJ79K.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/3d/422759_KJ79K.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/422759_KJ79K.jpg"
-          },
-          "name": "鬼滅の刃 遊郭編 特別編集版",
-          "name_cn": "鬼灭之刃 游郭篇 特別编集版",
-          "relation": "总集篇",
-          "type": 2,
-          "id": 422759
+          "name": "「鬼滅の刃」オーケストラコンサート〜鬼滅の奏〜 遊郭編",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 482135
         },
         {
           "images": {
@@ -372,17 +381,45 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fc/bb/482135_q5FVU.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fc/bb/482135_q5FVU.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fc/bb/482135_q5FVU.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fc/bb/482135_q5FVU.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fc/bb/482135_q5FVU.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/3d/422759_KJ79K.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/3d/422759_KJ79K.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/23/3d/422759_KJ79K.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/3d/422759_KJ79K.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/3d/422759_KJ79K.jpg"
           },
-          "name": "「鬼滅の刃」オーケストラコンサート〜鬼滅の奏〜 遊郭編",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 482135
+          "name": "鬼滅の刃 遊郭編 特別編集版",
+          "name_cn": "鬼灭之刃 游郭篇 特別编集版",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 422759
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/9d/410499_kA9t3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/9d/410499_kA9t3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ad/9d/410499_kA9t3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/9d/410499_kA9t3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/9d/410499_kA9t3.jpg"
+          },
+          "name": "鬼滅の刃 上弦集結、そして刀鍛冶の里へ",
+          "name_cn": "鬼灭之刃 上弦集结、前往锻刀村",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 410499
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/af/404879_I66bb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/af/404879_I66bb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2a/af/404879_I66bb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/af/404879_I66bb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/af/404879_I66bb.jpg"
+          },
+          "name": "鬼滅ラヂヲ",
+          "name_cn": "鬼灭广播",
+          "relation": "衍生",
+          "type": 6,
+          "id": 404879
         },
         {
           "images": {
@@ -503,6 +540,7 @@
       "name_cn": "",
       "tags": [
         "CYCLONEGRAPHICS",
+        "TV",
         "空"
       ],
       "infobox": [
@@ -539,6 +577,10 @@
           "value": "2021年12月17日"
         },
         {
+          "key": "音乐",
+          "value": "長岡亮介"
+        },
+        {
           "key": "原作",
           "value": "文・早見和真、絵・かのうかりん"
         },
@@ -553,10 +595,6 @@
         {
           "key": "人物设计",
           "value": "竹内進二"
-        },
-        {
-          "key": "音乐",
-          "value": "長岡亮介"
         },
         {
           "key": "动画制作",
@@ -578,6 +616,10 @@
       "total_episodes": 10,
       "id": 366528,
       "eps": 10,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -623,14 +665,14 @@
         "妹控",
         "小说改",
         "战斗",
+        "日本",
         "日本动画",
         "早見沙織",
-        "未确定",
         "校园",
         "科幻",
+        "续作",
         "轻小说改",
         "轻改",
-        "魔法",
         "魔法科高校的劣等生",
         "龙傲天"
       ],
@@ -678,16 +720,20 @@
           "value": "MBS / テレビ愛知 / AT-X"
         },
         {
+          "key": "导演",
+          "value": "吉田りさこ"
+        },
+        {
+          "key": "音乐",
+          "value": "岩崎琢"
+        },
+        {
           "key": "Copyright",
           "value": "©2019 佐島 勤/KADOKAWA/魔法科高校2製作委員会"
         },
         {
           "key": "原作",
           "value": "佐島勤（電撃文庫刊）"
-        },
-        {
-          "key": "导演",
-          "value": "吉田りさこ"
         },
         {
           "key": "副导演",
@@ -726,10 +772,6 @@
           "value": "本山哲"
         },
         {
-          "key": "音乐",
-          "value": "岩崎琢"
-        },
-        {
           "key": "动画制作",
           "value": "エイトビット"
         },
@@ -741,6 +783,12 @@
       "total_episodes": 1,
       "id": 329436,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "战斗",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1059,6 +1107,12 @@
       "total_episodes": 1,
       "id": 331559,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "奇幻",
+        "漫画改",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1211,7 +1265,7 @@
         "剧场版",
         "加藤誠",
         "加藤诚",
-        "原创",
+        "型月",
         "奇幻",
         "小太刀右京",
         "小说改",
@@ -1268,16 +1322,16 @@
           "value": "TOKYO MX / BS11 / 群馬テレビ / とちぎテレビ"
         },
         {
+          "key": "导演",
+          "value": "加藤誠"
+        },
+        {
           "key": "Copyright",
           "value": "©三田誠・TYPE-MOON / LEMPC"
         },
         {
           "key": "原作",
           "value": "三田誠 / TYPE-MOON"
-        },
-        {
-          "key": "导演",
-          "value": "加藤誠"
         },
         {
           "key": "人物设定",
@@ -1311,6 +1365,12 @@
       "total_episodes": 1,
       "id": 340842,
       "eps": 1,
+      "meta_tags": [
+        "TV",
+        "日本",
+        "奇幻",
+        "小说改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1383,6 +1443,7 @@
         "2021",
         "2021年",
         "2021年12月",
+        "20年代",
         "ARIA",
         "J.C.STAFF",
         "佐藤順一",
@@ -1390,13 +1451,12 @@
         "剧场版",
         "劇場版アニメ",
         "动画",
-        "动画电影",
         "励志",
         "原创",
         "吉田玲子",
         "名取孝浩",
         "天野梢",
-        "奇幻",
+        "已下载",
         "日常",
         "日本",
         "日本动画",
@@ -1767,6 +1827,10 @@
       "total_episodes": 1,
       "id": 329948,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1870,10 +1934,8 @@
         "GIVEN",
         "Lerche",
         "OVA",
-        "OVA-01",
         "OVA·OAD",
         "『OVA』",
-        "ラルケ",
         "乐队",
         "乐队？",
         "内田雄馬",
@@ -1881,9 +1943,12 @@
         "动画",
         "基",
         "大橋明代",
+        "恋爱",
+        "日常",
         "日本",
         "日本动画",
         "江口拓也",
+        "治愈",
         "漫改",
         "漫画改",
         "矢野奨吾",
@@ -1942,6 +2007,14 @@
       "total_episodes": 1,
       "id": 337433,
       "eps": 1,
+      "meta_tags": [
+        "日本",
+        "OVA",
+        "BL",
+        "耽美",
+        "漫画改",
+        "音乐"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2003,6 +2076,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 357171
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/e2/523587_VH9pB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/e2/523587_VH9pB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/e2/523587_VH9pB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/e2/523587_VH9pB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/e2/523587_VH9pB.jpg"
+          },
+          "name": "推しが武道館いってくれたら死ぬ (11)",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 523587
         }
       ]
     }
@@ -2024,6 +2111,7 @@
       "name": "ガールズ&パンツァー 最終章 第3話",
       "name_cn": "少女与战车 最终章 第3话",
       "tags": [
+        "2020s",
         "2021",
         "2021年",
         "2021年12月",
@@ -2033,13 +2121,12 @@
         "アクタス",
         "军事",
         "剧场版",
-        "劇場版",
-        "动画",
         "动画电影",
         "原创",
         "吉田玲子",
         "后续遥遥无期",
         "少女与战车",
+        "少女和战车",
         "战斗",
         "战车",
         "战车道",
@@ -2053,7 +2140,7 @@
         "热血",
         "百合",
         "竞技",
-        "萌"
+        "续作"
       ],
       "infobox": [
         {
@@ -2092,6 +2179,12 @@
       "total_episodes": 3,
       "id": 208826,
       "eps": 1,
+      "meta_tags": [
+        "百合",
+        "OVA",
+        "原创",
+        "战斗"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2249,7 +2342,6 @@
         "日本",
         "望公太",
         "治愈",
-        "泡面番",
         "百合",
         "短片",
         "竞技",
@@ -2257,6 +2349,7 @@
         "运动",
         "雨宫哲",
         "雨宮哲",
+        "青春",
         "高尔夫",
         "高木美佑",
         "齐藤健吾"
@@ -2298,12 +2391,12 @@
           "value": "TOKYO MX"
         },
         {
-          "key": "Copyright",
-          "value": "©2021 Yostar Pictures, Inc. All rights reserved."
-        },
-        {
           "key": "导演",
           "value": "斉藤健吾"
+        },
+        {
+          "key": "Copyright",
+          "value": "©2021 Yostar Pictures, Inc. All rights reserved."
         },
         {
           "key": "脚本",
@@ -2353,6 +2446,13 @@
       "total_episodes": 1,
       "id": 354247,
       "eps": 1,
+      "meta_tags": [
+        "短片",
+        "TV",
+        "日本",
+        "原创",
+        "运动"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2375,11 +2475,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/c4/479788_gzd50.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/c4/479788_gzd50.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ea/c4/479788_gzd50.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/c4/479788_gzd50.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/c4/479788_gzd50.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/c4/479788_mcfeN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/c4/479788_mcfeN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ea/c4/479788_mcfeN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/c4/479788_mcfeN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/c4/479788_mcfeN.jpg"
           },
           "name": "空色ユーティリティ",
           "name_cn": "一杆青空",
@@ -2416,7 +2516,6 @@
         "SUNRISE",
         "movie",
         "アニメ映画",
-        "令和",
         "令和4年",
         "偶像",
         "偶像元素",
@@ -2436,7 +2535,8 @@
         "福原遥",
         "綿田慎也",
         "绵田慎也",
-        "美山加恋"
+        "美山加恋",
+        "藤村鼓乃美"
       ],
       "infobox": [
         {
@@ -2519,6 +2619,10 @@
       "total_episodes": 1,
       "id": 318543,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2653,7 +2757,6 @@
         "动画",
         "动画电影",
         "励志",
-        "华语",
         "原创",
         "原神",
         "国产",
@@ -2662,6 +2765,8 @@
         "国产电影",
         "国漫",
         "孙海鹏",
+        "搞笑",
+        "易动文化",
         "民俗",
         "热血",
         "现实主义",
@@ -2671,8 +2776,7 @@
         "舞狮",
         "辱华",
         "运动",
-        "里则林",
-        "里番"
+        "里则林"
       ],
       "infobox": [
         {
@@ -2835,6 +2939,11 @@
       "total_episodes": 1,
       "id": 338424,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "原创",
+        "中国"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2885,11 +2994,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/7d/422351_Hqggu.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/7d/422351_Hqggu.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/7d/422351_Hqggu.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/7d/422351_Hqggu.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/7d/422351_Hqggu.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/7d/422351_7jYHT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/7d/422351_7jYHT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/7d/422351_7jYHT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/7d/422351_7jYHT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/7d/422351_7jYHT.jpg"
           },
           "name": "雄狮少年2",
           "name_cn": "",
@@ -2992,6 +3101,9 @@
       "total_episodes": 10,
       "id": 350796,
       "eps": 10,
+      "meta_tags": [
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,

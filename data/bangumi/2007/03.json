@@ -20,9 +20,9 @@
         "2007年3月",
         "2007年4月",
         "MADHouse",
+        "PIG",
         "Production.I.G",
         "ProductionI.G",
-        "Production_I.G",
         "TV",
         "robo",
         "こやまきみこ",
@@ -34,6 +34,7 @@
         "待補2",
         "慢动作",
         "我妻正崇",
+        "日本",
         "日本动画",
         "星野充昭",
         "本田贵子",
@@ -41,7 +42,6 @@
         "机战",
         "横谷昌宏",
         "科幻",
-        "老婆好大一个",
         "莱丁",
         "萝卜",
         "补番",
@@ -88,25 +88,29 @@
           "value": "2007年9月1日"
         },
         {
-          "key": "动画制作",
-          "value": "Production I.G"
-        },
-        {
           "key": "导演",
           "value": "本郷みつる"
         },
         {
-          "key": "脚本",
-          "value": "横谷昌宏"
-        },
-        {
           "key": "音乐",
           "value": "池頼広"
+        },
+        {
+          "key": "动画制作",
+          "value": "Production I.G"
+        },
+        {
+          "key": "脚本",
+          "value": "横谷昌宏"
         }
       ],
       "total_episodes": 26,
       "id": 11876,
       "eps": 26,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -234,16 +238,20 @@
           "value": "2007年6月13日"
         },
         {
+          "key": "导演",
+          "value": "西森章"
+        },
+        {
+          "key": "音乐",
+          "value": "コーニッシュ"
+        },
+        {
           "key": "Copyright",
           "value": "©2007 桐原いづみ・双葉社/ひとひら製作委員会"
         },
         {
           "key": "原作",
           "value": "桐原いづみ（『コミックハイ!』連載）"
-        },
-        {
-          "key": "导演",
-          "value": "西森章"
         },
         {
           "key": "企画",
@@ -263,7 +271,7 @@
         },
         {
           "key": "演出",
-          "value": "ながはまのりひこ（4话、10话）"
+          "value": "西森章、西村大樹、ながはまのりひこ、松本マサユキ、高島大輔、森宮崇佳、篠原俊哉"
         },
         {
           "key": "人物设定",
@@ -292,10 +300,6 @@
         {
           "key": "音响监督",
           "value": "鶴岡陽太"
-        },
-        {
-          "key": "音乐",
-          "value": "コーニッシュ"
         },
         {
           "key": "音乐制作",
@@ -341,6 +345,12 @@
       "total_episodes": 12,
       "id": 5910,
       "eps": 12,
+      "meta_tags": [
+        "百合",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -395,26 +405,26 @@
       "name": "Moonlight Mile -Lift off-",
       "name_cn": "月光旅程 -Lift off-",
       "tags": [
+        "00年代",
         "2007",
         "2007年2月",
         "2007年3月",
         "2007年4月",
+        "7分",
         "SF",
         "StudioHibari",
         "TV",
-        "TVA",
         "moonlight",
         "スタジオ雲雀",
         "三浦陽",
-        "云雀工作室",
         "天朝霸气",
         "太田垣康男",
         "季番",
         "宇宙",
         "宇宙战争",
-        "日本动画",
+        "日本",
         "月光旅程",
-        "沢田完",
+        "浅見松雄",
         "漫改",
         "漫画改",
         "硬科幻",
@@ -456,12 +466,16 @@
           "value": "2007年5月26日"
         },
         {
-          "key": "原作",
-          "value": "太田垣康男"
-        },
-        {
           "key": "导演",
           "value": "鈴木行"
+        },
+        {
+          "key": "音乐",
+          "value": "沢田完"
+        },
+        {
+          "key": "原作",
+          "value": "太田垣康男"
         },
         {
           "key": "脚本",
@@ -470,15 +484,17 @@
         {
           "key": "音响监督",
           "value": "藤野貞義"
-        },
-        {
-          "key": "音乐",
-          "value": "沢田完"
         }
       ],
       "total_episodes": 12,
       "id": 2732,
       "eps": 12,
+      "meta_tags": [
+        "科幻",
+        "TV",
+        "日本",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -633,6 +649,10 @@
       "total_episodes": 6,
       "id": 12381,
       "eps": 6,
+      "meta_tags": [
+        "游戏改",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -791,6 +811,12 @@
       "total_episodes": 3,
       "id": 927,
       "eps": 3,
+      "meta_tags": [
+        "剧场版",
+        "恋爱",
+        "日本",
+        "原创"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1016,8 +1042,7 @@
         "2007",
         "2007年3月",
         "SHIN-EI",
-        "movie",
-        "undefined",
+        "Shin-EiAnimation",
         "アニメ映画",
         "シンエイ動画",
         "ドラえもん",
@@ -1037,6 +1062,7 @@
         "漫改",
         "漫画改",
         "电影",
+        "真保裕一",
         "科幻",
         "童年",
         "童年系",
@@ -1076,21 +1102,138 @@
           "value": "https://doraeiga.com/2007/"
         },
         {
-          "key": "其他",
-          "value": "制作：「映画ドラえもん」制作委員会（藤子プロ、小学館、テレビ朝日、シンエイ動画、ADK、小学館プロダクション）"
-        },
-        {
           "key": "话数",
           "value": "1"
         },
         {
+          "key": "原作",
+          "value": "藤子・F・不二雄"
+        },
+        {
+          "key": "导演",
+          "value": "寺本幸代"
+        },
+        {
+          "key": "脚本",
+          "value": "真保裕一"
+        },
+        {
+          "key": "演出",
+          "value": "腰繁男"
+        },
+        {
+          "key": "分镜",
+          "value": "寺本幸代、鈴木孝義（辅）"
+        },
+        {
+          "key": "作画监督",
+          "value": "金子志津枝"
+        },
+        {
+          "key": "美术监督",
+          "value": "土橋誠"
+        },
+        {
+          "key": "监修",
+          "value": "木船徳光（3DCG监修）"
+        },
+        {
+          "key": "剪辑",
+          "value": "岡安肇、岡安プロモーション（三宅圭貴、小島俊彦、中葉由美子、村井秀明、藤本理子）"
+        },
+        {
+          "key": "音乐",
+          "value": "沢田完"
+        },
+        {
+          "key": "总制片人",
+          "value": "増子相二郎、杉山登"
+        },
+        {
           "key": "主题歌演出",
-          "value": "mihimaru GT「かけがえのない詩」"
+          "value": "夏川りみ（OP）、mihimaru GT（ED）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "阿木燿子（OP）、hiroko,mitsuyuki miyake and Hidemi（ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "宇崎竜童（OP）、mitsuyuki miyake（ED）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "京田誠一（OP）、mitsuyuki miyake and takashi morio（ED）"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "加来哲郎、大杉宜弘"
+        },
+        {
+          "key": "原画",
+          "value": "牧原亮太郎、大塚正実、桝田浩史、霜山朋久、浦上貴之、植村淳、北山修一、吉田正幸、井上香織、大城勝、佐々木美和、夏目真悟、才田俊次、篠原真紀子、重本雅博、志村恵美子、矢向宏志、矢上孝一、佐々木政勝、増田敏彦、大谷敦子、松井理和子、八崎健二、松下浩美、石川貴正、柳田幸平、小林冬至生、藤井真澄、奥野浩行、佐々木啓之、林静香、森知鶴、江畑諒真、鈴木陽太、薮本陽輔、芝山智隆、内田真樹、茶谷与志雄、吉田誠、泰洋美、角張仁美、橋本とよ子、小竹歩、西村貴世、西本真弓"
+        },
+        {
+          "key": "动画检查",
+          "value": "大野順子"
+        },
+        {
+          "key": "补间动画",
+          "value": "ベガエンタテイメント（小杉菜穂子/こすぎなほこ、遠藤良恵、鈴木まりあ、矢嶋哲生、大宮夏美、角田恵子）、オープロダクション（小須田ひろみ、大村将司、曺宗徳、田中陽子、平岩聡、本庄裕貴）、スタジオヴィクトリー（詍高実、本田吉則、時田亮平、上原未夢、中川裕子、大室奈緒子、大前祐美子、木口智和、岡昭彦）、虫プロダクション（勝部知子、入沢典子、古屋佐和子、上原真生人、早船明彦）、スノーライトスタッフ（森下智美、江部賢、長澤基）、タント（井上さやか、伊東大翼、江本悠二）、ORANGE（LEE JI YOUNG、HA IN YONG、CHOI HYE JEONG、KANG MI RYUNG、KIM SUN A）、WHITE LINE（KIM YOUN CHUL、KIM YOUNG MIN、KIM JONG KYU、KIM SHIN LI、CHOI EUN JUNG）、HYOIN ANIMATION（WON YEUN SOOX、PARK HYE YEON、KIM IN SUN、YUN BYUNG HEE、KIM HYE JIN）、HANJIN （JUNG YOUNG HEE、NAM M SUN、JUNG YOUNG JA、CHO YOUN SUNG、CHO YOUN JANG）、P.A.WORKS（前田輪太郎、佐藤梨香、戸谷賢都、大東百合恵、佐藤孝一、蔦佳穂里、牧野博美、久保田真希、藤井康雄、白敷桃子、久保光寿、小鳥明日香、稲津辰宣）、Telecom Animation Film（飯盛夏子、小野旭、齋藤未享、北川隆之、多田羅梨早、西真由子、高須美野子、友部奈津美、富田恵美）、アニメTOROTORO（中西雅美、福井理恵、谷平久美子、小山正清、菅原隆人、中里舞、鈴木理沙、金子由紀江、山浦由加里）、たくらんけ（伊藤かおり、寺田久美子、小澤理彦、中西佳奈世）、ラジカルパーティー2、エクラアニマル、夢弦館、加来由加里、高貫千津、武口つるみ、原口ちはる"
+        },
+        {
+          "key": "色彩设计",
+          "value": "吉田晴絵"
+        },
+        {
+          "key": "色彩指定",
+          "value": "上田明子"
+        },
+        {
+          "key": "背景美术",
+          "value": "ベガエンタテイメント（土橋知子、小谷恵、吉岡亜衣）、アトリエ・ローク（沼井信朗、川井憲、浜名お孝、山下千歌、川口晴美）、スタジオ・ユニ（榊枝利行、明石聖子、高橋佐知、新井由華、池田玲子、三原伸明、河合伸治、石黒恵美子、松宮由美、楠本祐也、中島美枝子、根本洋行）、studio SEY、Studio RUFUS（宮本実生、川島裕充、熊谷恵里、大久保錦一）、阿部泰三郎、P&T Entertaiment、エコーアニメーション"
+        },
+        {
+          "key": "摄影",
+          "value": "アニメフィルム（岸克芳、福田寛、下村博文、木次美則、鈴木浩司、山田廣明、倉田佳美、大森美奈子、羽鳥貢、手塚智鶴子、井上江美、貞松寿幸、梅田俊之）"
+        },
+        {
+          "key": "特效",
+          "value": "干場豊"
+        },
+        {
+          "key": "制作进行",
+          "value": "八鍬新之介、廣川浩二、西川昭彦、布川徹"
+        },
+        {
+          "key": "制片人",
+          "value": "小倉久美、吉川大祐、藤森匠、山﨑立士"
+        },
+        {
+          "key": "製作",
+          "value": "「映画ドラえもん」制作委員会（横田清、鵜沢道彦、山崎俊一、秋本武英/太田賢司/小川邦恵、天野賢、萬代知/新井聡、塙智行、間瀬謙介、佐藤龍伸、山守貴子、平川愛、佐藤隆一/島哲雄、小林順子、清水智美、池田光子、尾崎美香、鶴見治子）"
+        },
+        {
+          "key": "制作",
+          "value": "藤子・F・不二雄プロ、小学館、テレビ朝日、アサツー ディ・ケイ、小学館プロダクション、シンエイ動画"
+        },
+        {
+          "key": "发行",
+          "value": "东宝"
         }
       ],
       "total_episodes": 1,
       "id": 475,
       "eps": 1,
+      "meta_tags": [
+        "喜剧",
+        "剧场版",
+        "日本",
+        "奇幻",
+        "漫画改",
+        "冒险",
+        "子供向"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1234,6 +1377,9 @@
       "total_episodes": 1,
       "id": 82729,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1249,7 +1395,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/c8/1999_Z5sW5.jpg"
           },
           "name": "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
-          "name_cn": "海贼王 沙漠的王女与海贼们",
+          "name_cn": "航海王：阿拉巴斯坦战记 沙漠王女与海盗们",
           "relation": "其他",
           "type": 2,
           "id": 1999
@@ -1298,24 +1444,24 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/c8/1999_Z5sW5.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/c8/1999_Z5sW5.jpg"
       },
-      "summary": "ONE PIECE 电影系列用最初的原作的故事，使最受欢迎“阿拉巴斯坦篇” 电影化了。和过去强调“娱乐作”的剧场版不同，本篇强调是“感动作”系列。上映结束后可以看到草帽海贼团（包括没有出现的佛朗基等8人）悬赏单“2008年次回作公开决定”与下回预告的通知，而妮可·罗宾的回亿篇在电影近尾声时曾短暂出现过（哈古瓦尔·D·萨乌罗豋场）。",
+      "summary": "《ONE PIECE》的制作人员将最受欢迎的原作漫画中的“阿拉巴斯坦王国篇”电影化，重新绘制成这套剧场版，和过去强调“娱乐”的剧场版不同，本篇强调的是“感动”。\r\n\r\n上映结束后，观众可以看到草帽海贼团（包括没有出现的弗兰奇等8人）的悬赏单及下一套剧场版的预告；而妮古·罗宾的回忆篇亦会在电影近尾声时出现（包括哈古瓦尔·D·萨乌罗的登场）。 ",
       "name": "ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち",
-      "name_cn": "海贼王 沙漠的王女与海贼们",
+      "name_cn": "航海王：阿拉巴斯坦战记 沙漠王女与海盗们",
       "tags": [
         "2007",
         "2007年",
+        "2007年3月",
         "JUMP",
         "ONEPIECE",
         "OP",
         "东映",
         "东映动画",
-        "中井和哉",
         "今村隆寛",
         "冒险",
         "剧场版",
         "动画",
-        "励志",
         "圈錢",
+        "奇幻",
         "少年系",
         "尾田荣一郎",
         "幻想",
@@ -1336,11 +1482,26 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "海贼王 沙漠的王女与海贼们"
+          "value": "航海王：阿拉巴斯坦战记 沙漠王女与海盗们"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "航海王剧场版：阿拉巴斯坦战记"
+            },
+            {
+              "v": "海贼王 沙漠的王女与海贼们"
+            }
+          ]
         },
         {
           "key": "上映年度",
           "value": "2007年3月3日"
+        },
+        {
+          "key": "片长",
+          "value": "90分钟"
         },
         {
           "key": "官方网站",
@@ -1382,6 +1543,9 @@
       "total_episodes": 1,
       "id": 1999,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1465,9 +1629,11 @@
       "name_cn": "",
       "tags": [
         "2005",
+        "2007",
         "アニメ映画",
         "トムス・エンタテインメント",
         "佐藤正治",
+        "剧场版",
         "園田英樹",
         "堀井真吾",
         "大川俊道",
@@ -1493,6 +1659,9 @@
       "total_episodes": 1,
       "id": 238455,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1536,6 +1705,7 @@
         "2007",
         "2007年",
         "2007年3月",
+        "2007年4月",
         "BEETRAIN",
         "MURDER_PRINCESS",
         "OVA",
@@ -1554,7 +1724,6 @@
         "浦畑達彦",
         "漫改",
         "漫画改",
-        "犬威赤彦",
         "独立ova",
         "百合",
         "福田康文",
@@ -1627,6 +1796,11 @@
       "total_episodes": 6,
       "id": 1265,
       "eps": 6,
+      "meta_tags": [
+        "百合",
+        "OVA",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1777,6 +1951,9 @@
       "total_episodes": 2,
       "id": 3762,
       "eps": 2,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1887,6 +2064,11 @@
       "total_episodes": 1,
       "id": 37264,
       "eps": 1,
+      "meta_tags": [
+        "剧场版",
+        "机战",
+        "漫画改"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1966,6 +2148,9 @@
       "total_episodes": 1,
       "id": 127131,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -1996,11 +2181,11 @@
       "date": "2007-03-20",
       "platform": "WEB",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/5e/2682_6162O.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/5e/2682_6162O.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/f1/5e/2682_6162O.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/5e/2682_6162O.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/5e/2682_6162O.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/5e/2682_Um0ti.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/5e/2682_Um0ti.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/f1/5e/2682_Um0ti.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/5e/2682_Um0ti.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/5e/2682_Um0ti.jpg"
       },
       "summary": "故事发生在一所名叫第3新东京世立NERV学园中，校长是严肃又寡言的碇原度。作为校长的儿子，碇真嗣感到压力很大。于此同时，来自外国的红发转学生明日香，分裂成三个、以姐妹的形式出场的凌波丽都给碇真嗣的学校生活带来了翻天覆地的变化。此外，在原作中高大帅气的初号机，也将以娇小可爱的形象，作为学院的一份子出现在动画中。 动画以《新世界福音战士》中的角色为原型，一改原作沉重严肃的气氛，描述了轻松愉快的校园生活。制作方首次采用了3D的Q版造型，配以实景背景和2D拼接，造就了多元化的绘画风格。",
       "name": "ぷちえゔぁ",
@@ -2008,7 +2193,6 @@
       "tags": [
         "2007",
         "2007年3月",
-        "2007年4月",
         "3D",
         "EVA",
         "EVA学园",
@@ -2021,7 +2205,7 @@
         "XEBEC",
         "カナバングラフィックス",
         "三木俊一郎",
-        "动画剧集",
+        "动画",
         "原创",
         "坑爹",
         "大萌",
@@ -2032,6 +2216,7 @@
         "桜井弘明",
         "樱井弘明",
         "水泡眼",
+        "泡面",
         "泡面番",
         "短片",
         "萌",
@@ -2107,6 +2292,10 @@
       "total_episodes": 42,
       "id": 2682,
       "eps": 24,
+      "meta_tags": [
+        "原创",
+        "WEB"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2242,12 +2431,30 @@
       "total_episodes": 1,
       "id": 102313,
       "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f3/4c/468758_A1XtM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f3/4c/468758_A1XtM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f3/4c/468758_A1XtM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f3/4c/468758_A1XtM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f3/4c/468758_A1XtM.jpg"
+          },
+          "name": "ひみつのアイプリ",
+          "name_cn": "秘密的偶像公主",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 468758
+        }
+      ]
     }
   },
   {
@@ -2272,7 +2479,6 @@
         "2007年",
         "GONZO",
         "OVA",
-        "OVA-01",
         "robo",
         "ゴンゾ",
         "动画",
@@ -2308,6 +2514,9 @@
       "total_episodes": 1,
       "id": 45375,
       "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
       "volumes": 0,
       "series": false,
       "locked": false,
@@ -2341,6 +2550,142 @@
           "relation": "原声集",
           "type": 3,
           "id": 131112
+        }
+      ]
+    }
+  },
+  {
+    "title": "スチームボーイ",
+    "date": "2007-03-06",
+    "bangumi": {
+      "date": "2007-03-06",
+      "platform": "漫画",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/a9/114130_JuRT9.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/a9/114130_JuRT9.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/bf/a9/114130_JuRT9.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/a9/114130_JuRT9.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/a9/114130_JuRT9.jpg"
+      },
+      "summary": "映画以前の物語。レイは科学の発展が人々を良き方向に導くと純粋に信じていた。そんな彼は幼馴染のエマや新聞記者志望の友人、ポール・マクレガーと共に蒸気車レース・ロンドン行きなど様々な小冒険を繰り広げる。",
+      "name": "スチームボーイ",
+      "name_cn": "蒸汽男孩",
+      "tags": [
+        "大友克洋",
+        "已完结",
+        "日本",
+        "漫画",
+        "科幻",
+        "系列",
+        "衣谷游"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "蒸汽男孩"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Steam Boy"
+            }
+          ]
+        },
+        {
+          "key": "作画",
+          "value": "衣谷遊"
+        },
+        {
+          "key": "原作",
+          "value": "大友克洋"
+        },
+        {
+          "key": "出版社",
+          "value": "講談社"
+        },
+        {
+          "key": "连载杂志",
+          "value": "月刊マガジンZ"
+        },
+        {
+          "key": "发售日",
+          "value": "2007-03-06"
+        },
+        {
+          "key": "册数",
+          "value": "2"
+        },
+        {
+          "key": "连载开始",
+          "value": "2005-06-26（2005年8月号）"
+        },
+        {
+          "key": "连载结束",
+          "value": "2006-07-26（2006年9月号）"
+        },
+        {
+          "key": "书系",
+          "value": "マガジンZKC"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 114130,
+      "eps": 0,
+      "meta_tags": [
+        "日本",
+        "科幻",
+        "漫画",
+        "系列",
+        "已完结"
+      ],
+      "volumes": 2,
+      "series": true,
+      "locked": false,
+      "nsfw": false,
+      "type": 1,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ad/4c/1938_B18cB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ad/4c/1938_B18cB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ad/4c/1938_B18cB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ad/4c/1938_B18cB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ad/4c/1938_B18cB.jpg"
+          },
+          "name": "スチームボーイ",
+          "name_cn": "蒸汽男孩",
+          "relation": "动画",
+          "type": 2,
+          "id": 1938
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/1d/114128_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/1d/114128_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/1d/114128_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/1d/114128_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/1d/114128_jp.jpg"
+          },
+          "name": "スチームボーイ 上 (マガジンZコミックス)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 114128
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/cc/114129_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/cc/114129_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/cc/114129_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/cc/114129_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/cc/114129_jp.jpg"
+          },
+          "name": "スチームボーイ 下 (2) (マガジンZコミックス)",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 114129
         }
       ]
     }
