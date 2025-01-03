@@ -12,12 +12,12 @@ on:
         default: false
         required: true
       bangumi:
-        description: 'Fetch bangumi data'
+        description: 'Fetch Bangumi data'
         type: boolean
         default: true
         required: true
       tmdb:
-        description: 'Fetch tmdb data'
+        description: 'Fetch TMDB data'
         type: boolean
         default: true
         required: true
@@ -56,8 +56,6 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    if: ${{ inputs.bangumi }}
-
     permissions:
       contents: write
 
@@ -87,24 +85,28 @@ jobs:
           pnpm build
 
       - name: Fetch Bangumi
+        if: ${{ inputs.bangumi }}
         run: |
           pnpm run bgmx fetch bangumi --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
           grep "^Info:"  run.log > bangumi-info.log  || true
           grep "^Error:" run.log > bangumi-error.log || true
+
           # Generate markdown summary
           output=data/bangumi.md
           echo '# Bangumi' > $output
+
           # Output Info
-          echo '## Fetch new bangumit' >> $output
+          echo '## Fetch new bangumi' >> $output
           while IFS= read -r line; do
-            clean_line="${line/Info: /}" >> $output
-            echo "- ${clean_line}"
+            clean_line="${line/Info: /}"
+            echo "- ${clean_line}" >> $output
           done < bangumi-info.log
+
           # Output Error
           echo '## Error' >> $output
           while IFS= read -r line; do
-            clean_line="${line/Error: /}" >> $output
-            echo "- ${clean_line}"
+            clean_line="${line/Error: /}"
+            echo "- ${clean_line}" >> $output
           done < bangumi-error.log
 
       # - name: Upload artifact
@@ -116,6 +118,7 @@ jobs:
       #       data/bangumi-*.log
 
       - name: Push changes
+        if: ${{ inputs.bangumi }}
         run: |
           TIMESTAMP=$(date +"%Y-%m-%d %T")
           BRANCH=${{ needs.prepare.outputs.branch }}
@@ -133,8 +136,6 @@ jobs:
     name: Fetch TMDB
 
     runs-on: ubuntu-latest
-
-    if: ${{ inputs.tmdb }}
 
     permissions:
       contents: write
@@ -166,6 +167,7 @@ jobs:
           pnpm build
 
       - name: Fetch TMDB
+        if: ${{ inputs.tmdb }}
         run: |
           npx tsx packages/bgmd/scripts/tmdb.ts --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
           if [ "${{ needs.prepare.outputs.overwrite }}" = true ] ; then
@@ -185,8 +187,7 @@ jobs:
       #       data/tmdb-*.log
 
       - name: Push changes
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: ${{ inputs.tmdb }}
         run: |
           TIMESTAMP=$(date +"%Y-%m-%d %T")
           BRANCH=${{ needs.prepare.outputs.branch }}
