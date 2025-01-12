@@ -85,7 +85,7 @@ jobs:
           pnpm build
 
       - name: Fetch Bangumi
-        if: ${{ inputs.bangumi || github.event_name == "schedule" }}
+        if: ${{ inputs.bangumi || github.event_name == 'schedule' }}
         run: |
           pnpm run bgmx fetch bangumi --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
           grep "^Info:"  run.log > bangumi-info.log  || true
@@ -165,7 +165,7 @@ jobs:
           pnpm build
 
       - name: Fetch TMDB
-        if: ${{ inputs.tmdb || github.event_name == "schedule" }}
+        if: ${{ inputs.tmdb || github.event_name == 'schedule' }}
         run: |
           pnpm run bgmx fetch tmdb --overwrite=${{ needs.prepare.outputs.overwrite }} | tee run.log
           grep "^Info:"  run.log >  tmdb-info.log  || true
