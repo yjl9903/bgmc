@@ -6,8 +6,8 @@ import { BgmClient } from 'bgmc';
 
 import type { Context } from '../types';
 
-import { groupByBegin } from '../utils';
 import { BangumiRelations } from '../constants';
+import { groupByBegin, normalizeSummary } from '../utils';
 import { OfflineBangumi, type BangumiItem } from '../offline';
 
 export async function fetchBangumiData(ctx: Context) {
@@ -118,6 +118,8 @@ export async function fetchBangumiData(ctx: Context) {
       if (!options.overwrite) {
         console.log(`Info: fetch ${subject.name ?? item?.title} (id: ${subject.id})`);
       }
+
+      subject.summary = normalizeSummary(subject.summary);
 
       return <BangumiItem>{
         title: subject.name ?? item?.title,

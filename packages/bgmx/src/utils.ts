@@ -7,6 +7,12 @@ export function measureSimiliarity(t1: string, t2: string) {
   return 1 - dis / Math.max(t1.length, t2.length);
 }
 
+export function normalizeSummary(text: string) {
+  if (!text) return '';
+  const t = text.trim().replace(/\u2028|\r\n/g, '\n');
+  return t;
+}
+
 export function groupByBegin<T extends {}>(items: T[], fn: (item: T) => string | undefined) {
   const map = new MutableMap<number, MutableMap<number, T[]>>();
   for (const item of items) {
