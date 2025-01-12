@@ -71,6 +71,9 @@ importers:
       bgmc:
         specifier: workspace:*
         version: link:../bgmc
+      bgmt:
+        specifier: workspace:*
+        version: link:../bgmt
       tmdbc:
         specifier: workspace:*
         version: link:../tmdbc

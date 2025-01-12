@@ -1,6 +1,7 @@
 import type { Item } from 'bangumi-data';
 import type { PartialDeep } from 'type-fest';
 
+import { trimSeason } from 'bgmt';
 import { type SubjectInformation, getSubjectAlias } from 'bgmc';
 
 import type { FullBangumi } from './types';
@@ -50,6 +51,11 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
       tags: normalizeTags(bgm.tags)
     }
   };
+
+  const { original }  = trimSeason(full);
+  if (original) {
+    full.original = original;
+  }
 
   if (extra.tmdb) {
     full.tmdb = {

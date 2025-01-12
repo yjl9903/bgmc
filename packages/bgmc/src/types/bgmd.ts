@@ -5,6 +5,8 @@ export interface FullBangumi {
 
   name: string;
 
+  original?: string[];
+
   alias: string[];
 
   summary: string;

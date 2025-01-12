@@ -1,5 +1,3 @@
-import type { FullBangumi } from 'bgmc/types';
-
 const REs = [
   /(?:S|Season|season\s?)(\d+)$/,
   /(1st|2nd|3rd|[456789]th) Season$/,
@@ -8,7 +6,7 @@ const REs = [
   /\((?:19|20)\d{2}\)$/
 ];
 
-export function trimSeason(bgm: FullBangumi) {
+export function trimSeason(bgm: { name: string, alias: string[] }) {
   let changed = false;
   function trim(t: string) {
     for (const RE of REs) {
@@ -23,12 +21,12 @@ export function trimSeason(bgm: FullBangumi) {
   const trimmed = bgm.alias.map(trim);
   trimmed.push(trim(bgm.name));
 
-  const original = [...new Set(trimmed.filter(Boolean))].sort();
+  const original = [...new Set(trimmed.filter(Boolean))].sort() as string[];
 
   if (original.length === bgm.alias.length && !changed) {
     return {
       name: bgm.name,
-      original: []
+      original: undefined
     };
   }
 
