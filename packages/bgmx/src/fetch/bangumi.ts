@@ -3,11 +3,12 @@ import path from 'node:path';
 
 import { items } from 'bangumi-data';
 import { BgmClient } from 'bgmc';
+import { normalizeSummary, normalizeTags } from 'bgmt';
 
 import type { Context } from '../types';
 
+import { groupByBegin } from '../utils';
 import { BangumiRelations } from '../constants';
-import { groupByBegin, normalizeSummary } from '../utils';
 import { OfflineBangumi, type BangumiItem } from '../offline';
 
 export async function fetchBangumiData(ctx: Context) {
@@ -126,7 +127,7 @@ export async function fetchBangumiData(ctx: Context) {
         date: subject.date ?? item?.begin,
         bangumi: {
           ...subject,
-          tags: subject.tags?.map((t) => t.name).sort() ?? [],
+          tags: normalizeTags(subject.tags ?? [], { count: 5 }),
           relations
         }
       };

@@ -47,8 +47,9 @@
     "test:ci": "vitest --run",
     "typecheck": "tsc --noEmit"
   },
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "simptrad": "^0.2.0"
+  },
   "engines": {
     "node": ">=v20.8.0"
   },

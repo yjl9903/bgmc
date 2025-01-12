@@ -82,7 +82,11 @@ importers:
         specifier: ^0.9.7
         version: 0.9.7
 
-  packages/bgmt: {}
+  packages/bgmt:
+    dependencies:
+      simptrad:
+        specifier: ^0.2.0
+        version: 0.2.0
 
   packages/bgmx:
     dependencies:
@@ -2958,6 +2962,9 @@ packages:
   signal-exit@4.1.0:
     resolution: {integrity: sha512-bzyZ1e88w9O1iNJbKnOlvYTrWPDl46O1bG0D3XInv+9tkPrxrN8jUUTiFlDkkmKWgn1M6CfIA13SuGqOa9Korw==}
     engines: {node: '>=14'}
+
+  simptrad@0.2.0:
+    resolution: {integrity: sha512-SADENHX3KNuTLThG/LQCZvIywDOwCFTC2aLufwmSgjVbHUEZKIjRzleb28J856kL4ozkKptv08eR3GyJFRCnMg==}
 
   sisteransi@1.0.5:
     resolution: {integrity: sha512-bLGGlR1QxBcynn2d5YmDX4MGjlZvy2MRBDRNHLJ8VI6l6+9FUiyTFNJ0IveOSP0bcXgVDPRcfGqA0pjaqUpfVg==}
@@ -6230,6 +6237,8 @@ snapshots:
   signal-exit@3.0.7: {}
 
   signal-exit@4.1.0: {}
+
+  simptrad@0.2.0: {}
 
   sisteransi@1.0.5: {}
 
