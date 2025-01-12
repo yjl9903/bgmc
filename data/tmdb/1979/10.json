@@ -1,5 +1,36 @@
 [
   {
+    "title": "こぐまのミーシャ",
+    "date": "1979-10-06",
+    "bangumi": {
+      "id": "190434"
+    },
+    "tmdb": {
+      "id": 69241,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/22QHIhZjgV0xygtEZW7EvL4VOt7.jpg",
+        "genre_ids": [
+          16,
+          35,
+          10751,
+          10762
+        ],
+        "id": 69241,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "こぐまのミーシャ",
+        "overview": "小熊米沙和爸爸妈妈一起搬到了动物们和平共处的山奥之村，他们与娜塔莎和老虎一家、豆多（北海狮）的署长们，以及村里的大家一起开始了新的生活。\n\n本作是以1980年开办的莫斯科奥林匹克的吉祥物“米沙”为主人公，得到了奥林匹克委员会承认制作而成TV动画。",
+        "poster_path": "/1CxdmYgfzjuGFmgLhXCJLMUPRta.jpg",
+        "first_air_date": "1979-10-06",
+        "name": "小熊米沙"
+      }
+    }
+  },
+  {
     "title": "科学忍者隊ガッチャマンF",
     "date": "1979-10-07",
     "bangumi": {
@@ -114,6 +145,33 @@
           16
         ],
         "release_date": "1979-10-11",
+        "video": false
+      }
+    }
+  },
+  {
+    "title": "星のオルフェウス",
+    "date": "1979-10-27",
+    "bangumi": {
+      "id": "187189"
+    },
+    "tmdb": {
+      "id": 84493,
+      "type": "movie",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/2R0oQfIEV6FRSaXTSEkEP1xMS1Z.jpg",
+        "genre_ids": [
+          14,
+          16
+        ],
+        "id": 84493,
+        "original_language": "en",
+        "original_title": "星のオルフェウス",
+        "overview": "Several animated stories from \"Metamorphoses,\" the Roman poet Ovid's narrative of legends, are presented.",
+        "poster_path": "/tSVdrN1ltIo8eVarrD7IV9Gme0P.jpg",
+        "release_date": "1978-05-03",
+        "title": "变形记",
         "video": false
       }
     }
