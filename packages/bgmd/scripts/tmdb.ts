@@ -111,8 +111,8 @@ async function search(bgm: BangumiItem) {
       item?.type === 'movie'
         ? await client.searchMovie({ query, language: Language })
         : item?.type === 'tv'
-        ? await client.searchTV({ query, language: Language })
-        : await client.searchMulti({ query, language: Language });
+          ? await client.searchTV({ query, language: Language })
+          : await client.searchMulti({ query, language: Language });
 
     // Fallback to multi search
     if (resp.results.length === 0) {

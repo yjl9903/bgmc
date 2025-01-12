@@ -4,13 +4,13 @@
  */
 
 export interface paths {
-  "/calendar": {
-    get: operations["getCalendar"];
+  '/calendar': {
+    get: operations['getCalendar'];
   };
-  "/search/subject/{keywords}": {
-    get: operations["searchSubjectByKeywords"];
+  '/search/subject/{keywords}': {
+    get: operations['searchSubjectByKeywords'];
   };
-  "/v0/search/subjects": {
+  '/v0/search/subjects': {
     /**
      * ## 实验性 API， 本 schema 和实际的 API 行为都可能随时发生改动
      *
@@ -29,77 +29,77 @@ export interface paths {
      *
      * 希望未来版本的 meilisearch 能解决相关的问题。
      */
-    post: operations["searchSubjects"];
+    post: operations['searchSubjects'];
   };
-  "/v0/subjects/{subject_id}": {
+  '/v0/subjects/{subject_id}': {
     /** cache with 300s */
-    get: operations["getSubjectById"];
+    get: operations['getSubjectById'];
   };
-  "/v0/subjects/{subject_id}/image": {
-    get: operations["getSubjectImageById"];
+  '/v0/subjects/{subject_id}/image': {
+    get: operations['getSubjectImageById'];
   };
-  "/v0/subjects/{subject_id}/persons": {
-    get: operations["getRelatedPersonsBySubjectId"];
+  '/v0/subjects/{subject_id}/persons': {
+    get: operations['getRelatedPersonsBySubjectId'];
   };
-  "/v0/subjects/{subject_id}/characters": {
-    get: operations["getRelatedCharactersBySubjectId"];
+  '/v0/subjects/{subject_id}/characters': {
+    get: operations['getRelatedCharactersBySubjectId'];
   };
-  "/v0/subjects/{subject_id}/subjects": {
-    get: operations["getRelatedSubjectsBySubjectId"];
+  '/v0/subjects/{subject_id}/subjects': {
+    get: operations['getRelatedSubjectsBySubjectId'];
   };
-  "/v0/episodes": {
-    get: operations["getEpisodes"];
+  '/v0/episodes': {
+    get: operations['getEpisodes'];
   };
-  "/v0/episodes/{episode_id}": {
-    get: operations["getEpisodeById"];
+  '/v0/episodes/{episode_id}': {
+    get: operations['getEpisodeById'];
   };
-  "/v0/characters/{character_id}": {
+  '/v0/characters/{character_id}': {
     /** cache with 60s */
-    get: operations["getCharacterById"];
+    get: operations['getCharacterById'];
   };
-  "/v0/characters/{character_id}/image": {
-    get: operations["getCharacterImageById"];
+  '/v0/characters/{character_id}/image': {
+    get: operations['getCharacterImageById'];
   };
-  "/v0/characters/{character_id}/subjects": {
-    get: operations["getRelatedSubjectsByCharacterId"];
+  '/v0/characters/{character_id}/subjects': {
+    get: operations['getRelatedSubjectsByCharacterId'];
   };
-  "/v0/characters/{character_id}/persons": {
-    get: operations["getRelatedPersonsByCharacterId"];
+  '/v0/characters/{character_id}/persons': {
+    get: operations['getRelatedPersonsByCharacterId'];
   };
-  "/v0/persons/{person_id}": {
+  '/v0/persons/{person_id}': {
     /** cache with 60s */
-    get: operations["getPersonById"];
+    get: operations['getPersonById'];
   };
-  "/v0/persons/{person_id}/image": {
-    get: operations["getPersonImageById"];
+  '/v0/persons/{person_id}/image': {
+    get: operations['getPersonImageById'];
   };
-  "/v0/persons/{person_id}/subjects": {
-    get: operations["getRelatedSubjectsByPersonId"];
+  '/v0/persons/{person_id}/subjects': {
+    get: operations['getRelatedSubjectsByPersonId'];
   };
-  "/v0/persons/{person_id}/characters": {
-    get: operations["getRelatedCharactersByPersonId"];
+  '/v0/persons/{person_id}/characters': {
+    get: operations['getRelatedCharactersByPersonId'];
   };
-  "/v0/users/{username}": {
+  '/v0/users/{username}': {
     /** 获取用户信息 */
-    get: operations["getUserByName"];
+    get: operations['getUserByName'];
   };
-  "/v0/users/{username}/avatar": {
+  '/v0/users/{username}/avatar': {
     /** 获取用户头像，302 重定向至头像地址，设置了 username 之后无法使用 UID 查询。 */
-    get: operations["getUserAvatarByName"];
+    get: operations['getUserAvatarByName'];
   };
-  "/v0/me": {
+  '/v0/me': {
     /** 返回当前 Access Token 对应的用户信息 */
-    get: operations["getMyself"];
+    get: operations['getMyself'];
   };
-  "/v0/users/{username}/collections": {
+  '/v0/users/{username}/collections': {
     /** 获取对应用户的收藏，查看私有收藏需要access token。 */
-    get: operations["getUserCollectionsByUsername"];
+    get: operations['getUserCollectionsByUsername'];
   };
-  "/v0/users/{username}/collections/{subject_id}": {
+  '/v0/users/{username}/collections/{subject_id}': {
     /** 获取对应用户的收藏，查看私有收藏需要access token。 */
-    get: operations["getUserCollection"];
+    get: operations['getUserCollection'];
   };
-  "/v0/users/-/collections/{subject_id}": {
+  '/v0/users/-/collections/{subject_id}': {
     /**
      * 修改条目收藏状态
      *
@@ -107,62 +107,62 @@ export interface paths {
      *
      * PATCH 方法的所有请求体字段均可选
      */
-    patch: operations["patchUserCollection"];
+    patch: operations['patchUserCollection'];
   };
-  "/v0/users/-/collections/{subject_id}/episodes": {
-    get: operations["getUserSubjectEpisodeCollection"];
+  '/v0/users/-/collections/{subject_id}/episodes': {
+    get: operations['getUserSubjectEpisodeCollection'];
     /** 同时会重新计算条目的完成度 */
-    patch: operations["patchUserSubjectEpisodeCollection"];
+    patch: operations['patchUserSubjectEpisodeCollection'];
   };
-  "/v0/users/-/collections/-/episodes/{episode_id}": {
-    get: operations["getUserEpisodeCollection"];
-    put: operations["putUserEpisodeCollection"];
+  '/v0/users/-/collections/-/episodes/{episode_id}': {
+    get: operations['getUserEpisodeCollection'];
+    put: operations['putUserEpisodeCollection'];
   };
-  "/v0/revisions/persons": {
-    get: operations["getPersonRevisions"];
+  '/v0/revisions/persons': {
+    get: operations['getPersonRevisions'];
   };
-  "/v0/revisions/persons/{revision_id}": {
-    get: operations["getPersonRevisionByRevisionId"];
+  '/v0/revisions/persons/{revision_id}': {
+    get: operations['getPersonRevisionByRevisionId'];
   };
-  "/v0/revisions/characters": {
-    get: operations["getCharacterRevisions"];
+  '/v0/revisions/characters': {
+    get: operations['getCharacterRevisions'];
   };
-  "/v0/revisions/characters/{revision_id}": {
-    get: operations["getCharacterRevisionByRevisionId"];
+  '/v0/revisions/characters/{revision_id}': {
+    get: operations['getCharacterRevisionByRevisionId'];
   };
-  "/v0/revisions/subjects": {
-    get: operations["getSubjectRevisions"];
+  '/v0/revisions/subjects': {
+    get: operations['getSubjectRevisions'];
   };
-  "/v0/revisions/subjects/{revision_id}": {
-    get: operations["getSubjectRevisionByRevisionId"];
+  '/v0/revisions/subjects/{revision_id}': {
+    get: operations['getSubjectRevisionByRevisionId'];
   };
-  "/v0/revisions/episodes": {
-    get: operations["getEpisodeRevisions"];
+  '/v0/revisions/episodes': {
+    get: operations['getEpisodeRevisions'];
   };
-  "/v0/revisions/episodes/{revision_id}": {
-    get: operations["getEpisodeRevisionByRevisionId"];
+  '/v0/revisions/episodes/{revision_id}': {
+    get: operations['getEpisodeRevisionByRevisionId'];
   };
-  "/v0/indices": {
-    post: operations["newIndex"];
+  '/v0/indices': {
+    post: operations['newIndex'];
   };
-  "/v0/indices/{index_id}": {
-    get: operations["getIndexById"];
-    put: operations["editIndexById"];
+  '/v0/indices/{index_id}': {
+    get: operations['getIndexById'];
+    put: operations['editIndexById'];
   };
-  "/v0/indices/{index_id}/subjects": {
-    get: operations["getIndexSubjectsByIndexId"];
-    post: operations["addSubjectToIndexByIndexId"];
+  '/v0/indices/{index_id}/subjects': {
+    get: operations['getIndexSubjectsByIndexId'];
+    post: operations['addSubjectToIndexByIndexId'];
   };
-  "/v0/indices/{index_id}/subjects/{subject_id}": {
+  '/v0/indices/{index_id}/subjects/{subject_id}': {
     /** 如果条目不存在于目录，会创建该条目 */
-    put: operations["editIndexSubjectsByIndexIdAndSubjectID"];
-    delete: operations["delelteSubjectFromIndexByIndexIdAndSubjectID"];
+    put: operations['editIndexSubjectsByIndexIdAndSubjectID'];
+    delete: operations['delelteSubjectFromIndexByIndexIdAndSubjectID'];
   };
-  "/v0/indices/{index_id}/collect": {
+  '/v0/indices/{index_id}/collect': {
     /** 为当前用户收藏一条目录 */
-    post: operations["collectIndexByIndexIdAndUserId"];
+    post: operations['collectIndexByIndexIdAndUserId'];
     /** 为当前用户取消收藏一条目录 */
-    delete: operations["uncollectIndexByIndexIdAndUserId"];
+    delete: operations['uncollectIndexByIndexIdAndUserId'];
   };
 }
 
@@ -257,25 +257,25 @@ export interface components {
         /** @description 各分值评分人数 */
         count?: {
           /** @example 5 */
-          "1"?: number;
+          '1'?: number;
           /** @example 3 */
-          "2"?: number;
+          '2'?: number;
           /** @example 4 */
-          "3"?: number;
+          '3'?: number;
           /** @example 6 */
-          "4"?: number;
+          '4'?: number;
           /** @example 46 */
-          "5"?: number;
+          '5'?: number;
           /** @example 267 */
-          "6"?: number;
+          '6'?: number;
           /** @example 659 */
-          "7"?: number;
+          '7'?: number;
           /** @example 885 */
-          "8"?: number;
+          '8'?: number;
           /** @example 284 */
-          "9"?: number;
+          '9'?: number;
           /** @example 130 */
-          "10"?: number;
+          '10'?: number;
         };
         /**
          * @description 评分
@@ -317,9 +317,9 @@ export interface components {
         dropped?: number;
       };
     };
-    Legacy_SubjectMedium: components["schemas"]["Legacy_SubjectSmall"] & {
+    Legacy_SubjectMedium: components['schemas']['Legacy_SubjectSmall'] & {
       /** @description 角色信息 */
-      crt?: (components["schemas"]["Legacy_Character"] & {
+      crt?: (components['schemas']['Legacy_Character'] & {
         /**
          * @description 角色类型
          * @example 主角
@@ -327,7 +327,7 @@ export interface components {
         role_name?: string;
       })[];
       /** @description 制作人员信息 */
-      staff?: (components["schemas"]["Legacy_Person"] & {
+      staff?: (components['schemas']['Legacy_Person'] & {
         /**
          * @description 人物类型
          * @example 主角
@@ -337,13 +337,13 @@ export interface components {
         jobs?: string[];
       })[];
     };
-    Legacy_SubjectLarge: components["schemas"]["Legacy_SubjectMedium"] & {
+    Legacy_SubjectLarge: components['schemas']['Legacy_SubjectMedium'] & {
       /** @description 章节列表 */
-      eps?: components["schemas"]["Legacy_Episode"][];
+      eps?: components['schemas']['Legacy_Episode'][];
       /** @description 讨论版 */
-      topic?: components["schemas"]["Legacy_Topic"][];
+      topic?: components['schemas']['Legacy_Topic'][];
       /** @description 评论日志 */
-      blog?: components["schemas"]["Legacy_Blog"][];
+      blog?: components['schemas']['Legacy_Blog'][];
     };
     /**
      * @description 章节类型 <br> 0 = 本篇 <br> 1 = 特别篇 <br> 2 = OP <br> 3 = ED <br> 4 = 预告/宣传/广告 <br> 5 = MAD <br> 6 = 其他
@@ -363,7 +363,7 @@ export interface components {
        * @example https://bgm.tv/ep/1027
        */
       url?: string;
-      type?: components["schemas"]["Legacy_EpisodeType"];
+      type?: components['schemas']['Legacy_EpisodeType'];
       /**
        * @description 集数
        * @example 1
@@ -401,7 +401,7 @@ export interface components {
        * @example Air
        * @enum {string}
        */
-      status?: "Air" | "Today" | "NA";
+      status?: 'Air' | 'Today' | 'NA';
     };
     /** @description 讨论版 */
     Legacy_Topic: {
@@ -419,7 +419,7 @@ export interface components {
       lastpost?: number;
       /** @description 回复数 */
       replies?: number;
-      user?: components["schemas"]["Legacy_User"];
+      user?: components['schemas']['Legacy_User'];
     };
     /** @description 日志 */
     Legacy_Blog: {
@@ -445,7 +445,7 @@ export interface components {
        * @example 2013-1-2 16:41
        */
       dateline?: string;
-      user?: components["schemas"]["Legacy_User"];
+      user?: components['schemas']['Legacy_User'];
     };
     /** @description 用户信息 */
     Legacy_User: {
@@ -483,7 +483,7 @@ export interface components {
        * @example Awesome!
        */
       sign?: string;
-      usergroup?: components["schemas"]["Legacy_UserGroup"];
+      usergroup?: components['schemas']['Legacy_UserGroup'];
     };
     /**
      * @description 用户组 <br> 1 = 管理员 <br> 2 = Bangumi 管理猿 <br> 3 = 天窗管理猿 <br> 4 = 禁言用户 <br> 5 = 禁止访问用户 <br> 8 = 人物管理猿 <br> 9 = 维基条目管理猿 <br> 10 = 用户 <br> 11 = 维基人
@@ -492,14 +492,14 @@ export interface components {
      */
     Legacy_UserGroup: 1 | 2 | 3 | 4 | 5 | 8 | 9 | 10 | 11;
     /** @description 现实人物 */
-    Legacy_Person: components["schemas"]["Legacy_Mono"] & {
-      info?: components["schemas"]["Legacy_MonoInfo"];
+    Legacy_Person: components['schemas']['Legacy_Mono'] & {
+      info?: components['schemas']['Legacy_MonoInfo'];
     };
     /** @description 虚拟角色 */
-    Legacy_Character: components["schemas"]["Legacy_Mono"] & {
-      info?: components["schemas"]["Legacy_MonoInfo"];
+    Legacy_Character: components['schemas']['Legacy_Mono'] & {
+      info?: components['schemas']['Legacy_MonoInfo'];
       /** @description 声优列表 */
-      actors?: components["schemas"]["Legacy_MonoBase"][];
+      actors?: components['schemas']['Legacy_MonoBase'][];
     };
     /** @description 人物（基础模型） */
     Legacy_MonoBase: {
@@ -522,7 +522,7 @@ export interface components {
       };
     };
     /** @description 人物 */
-    Legacy_Mono: components["schemas"]["Legacy_MonoBase"] & {
+    Legacy_Mono: components['schemas']['Legacy_MonoBase'] & {
       /** @description 简体中文名 */
       name_cn?: string;
       /** @description 回复数量 */
@@ -600,8 +600,8 @@ export interface components {
       username: string;
       /** Nickname */
       nickname: string;
-      user_group: components["schemas"]["UserGroup"];
-      avatar: components["schemas"]["Avatar"];
+      user_group: components['schemas']['UserGroup'];
+      avatar: components['schemas']['Avatar'];
       /**
        * Sign
        * @description 个人签名
@@ -657,7 +657,7 @@ export interface components {
        * Images
        * @description object with some size of images, this object maybe `null`
        */
-      images?: components["schemas"]["PersonImages"];
+      images?: components['schemas']['PersonImages'];
       /** Summary */
       summary: string;
       /** Locked */
@@ -690,7 +690,7 @@ export interface components {
        * @description parsed from wiki, maybe `null`
        */
       birth_day?: number;
-      stat: components["schemas"]["Stat"];
+      stat: components['schemas']['Stat'];
     };
     /** CharacterPerson */
     CharacterPerson: {
@@ -704,7 +704,7 @@ export interface components {
        * Images
        * @description object with some size of images, this object maybe `null`
        */
-      images?: components["schemas"]["PersonImages"];
+      images?: components['schemas']['PersonImages'];
       /** Subject ID */
       subject_id: number;
       /** Subject Name */
@@ -757,7 +757,7 @@ export interface components {
       id: number;
       /** Type */
       type: number;
-      creator?: components["schemas"]["Creator"];
+      creator?: components['schemas']['Creator'];
       /** Summary */
       summary: string;
       /**
@@ -772,9 +772,9 @@ export interface components {
       data?: { [key: string]: unknown };
     };
     /** PersonRevision */
-    PersonRevision: components["schemas"]["Revision"] & {
+    PersonRevision: components['schemas']['Revision'] & {
       /** Data */
-      data?: { [key: string]: components["schemas"]["PersonRevisionDataItem"] };
+      data?: { [key: string]: components['schemas']['PersonRevisionDataItem'] };
     };
     /** PersonRevisionDataItem */
     PersonRevisionDataItem: {
@@ -782,8 +782,8 @@ export interface components {
       prsn_infobox: string;
       /** Person Summary */
       prsn_summary: string;
-      profession: components["schemas"]["PersonRevisionProfession"];
-      extra: components["schemas"]["RevisionExtra"];
+      profession: components['schemas']['PersonRevisionProfession'];
+      extra: components['schemas']['RevisionExtra'];
       /** Person Name */
       prsn_name: string;
     };
@@ -810,8 +810,8 @@ export interface components {
       img?: string;
     };
     /** SubjectRevision */
-    SubjectRevision: components["schemas"]["Revision"] & {
-      data?: components["schemas"]["SubjectRevisionData"];
+    SubjectRevision: components['schemas']['Revision'] & {
+      data?: components['schemas']['SubjectRevisionData'];
     };
     /** SubjectRevisionData */
     SubjectRevisionData: {
@@ -837,10 +837,10 @@ export interface components {
       vote_field: string;
     };
     /** CharacterRevision */
-    CharacterRevision: components["schemas"]["Revision"] & {
+    CharacterRevision: components['schemas']['Revision'] & {
       /** Data */
       data?: {
-        [key: string]: components["schemas"]["CharacterRevisionDataItem"];
+        [key: string]: components['schemas']['CharacterRevisionDataItem'];
       };
     };
     /** CharacterRevisionDataItem */
@@ -851,7 +851,7 @@ export interface components {
       summary: string;
       /** Character Name */
       name: string;
-      extra: components["schemas"]["RevisionExtra"];
+      extra: components['schemas']['RevisionExtra'];
     };
     /**
      * EpType
@@ -1016,7 +1016,7 @@ export interface components {
        * Stat
        * @description 目录评论及收藏数
        */
-      stat: components["schemas"]["Stat"];
+      stat: components['schemas']['Stat'];
       /**
        * Created At
        * Format: date-time
@@ -1027,7 +1027,7 @@ export interface components {
        * Format: date-time
        */
       updated_at: string;
-      creator: components["schemas"]["Creator"];
+      creator: components['schemas']['Creator'];
       /** Ban */
       ban: boolean;
       /** 目录是否包括 nsfw 条目 */
@@ -1044,8 +1044,8 @@ export interface components {
       type: number;
       /** Name */
       name: string;
-      images?: components["schemas"]["Images"];
-      infobox?: components["schemas"]["WikiV0"];
+      images?: components['schemas']['Images'];
+      infobox?: components['schemas']['WikiV0'];
       /** Date */
       date?: string;
       /** Comment */
@@ -1210,7 +1210,7 @@ export interface components {
        * Data
        * @default []
        */
-      data?: components["schemas"]["Episode"][];
+      data?: components['schemas']['Episode'][];
     };
     /** Paged[IndexSubject] */
     Paged_IndexSubject: {
@@ -1233,7 +1233,7 @@ export interface components {
        * Data
        * @default []
        */
-      data?: components["schemas"]["IndexSubject"][];
+      data?: components['schemas']['IndexSubject'][];
     };
     /** Paged[Revision] */
     Paged_Revision: {
@@ -1256,7 +1256,7 @@ export interface components {
        * Data
        * @default []
        */
-      data?: components["schemas"]["Revision"][];
+      data?: components['schemas']['Revision'][];
     };
     /** Paged[UserCollection] */
     Paged_UserCollection: {
@@ -1279,7 +1279,7 @@ export interface components {
        * Data
        * @default []
        */
-      data?: components["schemas"]["UserSubjectCollection"][];
+      data?: components['schemas']['UserSubjectCollection'][];
     };
     /** Person */
     Person: {
@@ -1289,12 +1289,12 @@ export interface components {
       name: string;
       /** @description `1`, `2`, `3` 表示 `个人`, `公司`, `组合` */
       type: number;
-      career: components["schemas"]["PersonCareer"][];
+      career: components['schemas']['PersonCareer'][];
       /**
        * Images
        * @description object with some size of images, this object maybe `null`
        */
-      images?: components["schemas"]["PersonImages"];
+      images?: components['schemas']['PersonImages'];
       /** Short Summary */
       short_summary: string;
       /** Locked */
@@ -1305,14 +1305,7 @@ export interface components {
      * @description An enumeration.
      * @enum {string}
      */
-    PersonCareer:
-      | "producer"
-      | "mangaka"
-      | "artist"
-      | "seiyu"
-      | "writer"
-      | "illustrator"
-      | "actor";
+    PersonCareer: 'producer' | 'mangaka' | 'artist' | 'seiyu' | 'writer' | 'illustrator' | 'actor';
     /** PersonCharacter */
     PersonCharacter: {
       /** ID */
@@ -1325,7 +1318,7 @@ export interface components {
        * Images
        * @description object with some size of images, this object maybe `null`
        */
-      images?: components["schemas"]["PersonImages"];
+      images?: components['schemas']['PersonImages'];
       /** Subject ID */
       subject_id: number;
       /** Subject Name */
@@ -1343,12 +1336,12 @@ export interface components {
       name: string;
       /** @description `1`, `2`, `3` 表示 `个人`, `公司`, `组合` */
       type: number;
-      career: components["schemas"]["PersonCareer"][];
+      career: components['schemas']['PersonCareer'][];
       /**
        * Images
        * @description object with some size of images, this object maybe `null`
        */
-      images?: components["schemas"]["PersonImages"];
+      images?: components['schemas']['PersonImages'];
       /** Summary */
       summary: string;
       /** Locked */
@@ -1387,7 +1380,7 @@ export interface components {
        * @description parsed from wiki, maybe `null`
        */
       birth_day?: number;
-      stat: components["schemas"]["Stat"];
+      stat: components['schemas']['Stat'];
     };
     /** PersonImages */
     PersonImages: {
@@ -1418,7 +1411,7 @@ export interface components {
        * Images
        * @description object with some size of images, this object maybe `null`
        */
-      images?: components["schemas"]["PersonImages"];
+      images?: components['schemas']['PersonImages'];
       /** Relation */
       relation: string;
       /**
@@ -1426,7 +1419,7 @@ export interface components {
        * @description 演员列表
        * @default []
        */
-      actors?: components["schemas"]["Person"][];
+      actors?: components['schemas']['Person'][];
     };
     /** RelatedPerson */
     RelatedPerson: {
@@ -1436,12 +1429,12 @@ export interface components {
       name: string;
       /** @description `1`, `2`, `3` 表示 `个人`, `公司`, `组合` */
       type: number;
-      career: components["schemas"]["PersonCareer"][];
+      career: components['schemas']['PersonCareer'][];
       /**
        * Images
        * @description object with some size of images, this object maybe `null`
        */
-      images?: components["schemas"]["PersonImages"];
+      images?: components['schemas']['PersonImages'];
       /** Relation */
       relation: string;
     };
@@ -1451,7 +1444,7 @@ export interface components {
       id: number;
       /** Type */
       type: number;
-      creator?: components["schemas"]["Creator"];
+      creator?: components['schemas']['Creator'];
       /** Summary */
       summary: string;
       /**
@@ -1493,8 +1486,8 @@ export interface components {
        * @description TV, Web, 欧美剧, PS4...
        */
       platform: string;
-      images: components["schemas"]["Images"];
-      infobox?: components["schemas"]["WikiV0"];
+      images: components['schemas']['Images'];
+      infobox?: components['schemas']['WikiV0'];
       /**
        * Volumes
        * @description 书籍条目的册数，由旧服务端从wiki中解析
@@ -1518,16 +1511,16 @@ export interface components {
         total: number;
         /** Count */
         count: {
-          "1"?: number;
-          "2"?: number;
-          "3"?: number;
-          "4"?: number;
-          "5"?: number;
-          "6"?: number;
-          "7"?: number;
-          "8"?: number;
-          "9"?: number;
-          "10"?: number;
+          '1'?: number;
+          '2'?: number;
+          '3'?: number;
+          '4'?: number;
+          '5'?: number;
+          '6'?: number;
+          '7'?: number;
+          '8'?: number;
+          '9'?: number;
+          '10'?: number;
         };
         /** Score */
         score: number;
@@ -1545,7 +1538,7 @@ export interface components {
         /** Dropped */
         dropped: number;
       };
-      tags: components["schemas"]["SubjectTags"];
+      tags: components['schemas']['SubjectTags'];
     };
     /** SlimSubject */
     SlimSubject: {
@@ -1567,7 +1560,7 @@ export interface components {
        * @description air date in `YYYY-MM-DD` format
        */
       date?: string;
-      images: components["schemas"]["Images"];
+      images: components['schemas']['Images'];
       /**
        * Volumes
        * @description 书籍条目的册数，由旧服务端从wiki中解析
@@ -1589,7 +1582,7 @@ export interface components {
        */
       score: number;
       /** @description 前 10 个 tag */
-      tags: components["schemas"]["SubjectTags"];
+      tags: components['schemas']['SubjectTags'];
     } & {
       rank: unknown;
     };
@@ -1621,13 +1614,13 @@ export interface components {
        * @example 8
        */
       subject_id: number;
-      subject_type: components["schemas"]["SubjectType"];
+      subject_type: components['schemas']['SubjectType'];
       /**
        * Rate
        * @example 4
        */
       rate: number;
-      type: components["schemas"]["SubjectCollectionType"];
+      type: components['schemas']['SubjectCollectionType'];
       /**
        * Comment
        * @example 看看
@@ -1663,11 +1656,11 @@ export interface components {
       updated_at: string;
       /** Private */
       private: boolean;
-      subject?: components["schemas"]["SlimSubject"];
+      subject?: components['schemas']['SlimSubject'];
     };
     UserEpisodeCollection: {
-      episode: components["schemas"]["Episode"];
-      type: components["schemas"]["EpisodeCollectionType"];
+      episode: components['schemas']['Episode'];
+      type: components['schemas']['EpisodeCollectionType'];
     };
     /** RelatedSubject */
     v0_RelatedSubject: {
@@ -1692,7 +1685,7 @@ export interface components {
       name: string;
       /** Name Cn */
       name_cn: string;
-      images?: components["schemas"]["Images"];
+      images?: components['schemas']['Images'];
       /** Relation */
       relation: string;
     };
@@ -1701,33 +1694,33 @@ export interface components {
     /** Bad Request */
     400: {
       content: {
-        "application/json": components["schemas"]["ErrorDetail"];
+        'application/json': components['schemas']['ErrorDetail'];
       };
     };
     /** Unauthorized */
     401: {
       content: {
-        "application/json": components["schemas"]["ErrorDetail"];
+        'application/json': components['schemas']['ErrorDetail'];
       };
     };
     /** Not Found */
     404: {
       content: {
-        "application/json": components["schemas"]["ErrorDetail"];
+        'application/json': components['schemas']['ErrorDetail'];
       };
     };
     /** Internal Server Error */
     500: {
       content: {
-        "application/json": components["schemas"]["ErrorDetail"];
+        'application/json': components['schemas']['ErrorDetail'];
       };
     };
     /** Successful Response */
-    "200-no-content": unknown;
+    '200-no-content': unknown;
   };
   parameters: {
     /** @description 条目 ID */
-    path_subject_id: components["schemas"]["SubjectID"];
+    path_subject_id: components['schemas']['SubjectID'];
     /** @description 设置了用户名之后无法使用 UID。 */
     path_username: string;
     /** @description 章节 ID */
@@ -1739,7 +1732,7 @@ export interface components {
     /** @description 目录 ID */
     path_index_id: number;
     /** @description 条目 ID */
-    query_subject_id: components["schemas"]["SubjectID"];
+    query_subject_id: components['schemas']['SubjectID'];
     /** @description 分页参数 */
     default_query_limit: number;
     /** @description 分页参数 */
@@ -1755,7 +1748,7 @@ export interface operations {
       /** 每日放送 */
       200: {
         content: {
-          "application/json": {
+          'application/json': {
             weekday?: {
               /** @example Mon */
               en?: string;
@@ -1766,7 +1759,7 @@ export interface operations {
               /** @example 1 */
               id?: number;
             };
-            items?: components["schemas"]["Legacy_SubjectSmall"][];
+            items?: components['schemas']['Legacy_SubjectSmall'][];
           }[];
         };
       };
@@ -1780,9 +1773,9 @@ export interface operations {
       };
       query: {
         /** 条目类型，参考 [SubjectType](#model-Legacy_SubjectType) */
-        type?: components["schemas"]["Legacy_SubjectType"];
+        type?: components['schemas']['Legacy_SubjectType'];
         /** 返回数据大小 <br> 默认为 small */
-        responseGroup?: "small" | "medium" | "large";
+        responseGroup?: 'small' | 'medium' | 'large';
         /** 开始条数 */
         start?: number;
         /** 每页条数 <br> 最多 25 */
@@ -1793,24 +1786,24 @@ export interface operations {
       /** 搜索结果 */
       200: {
         content: {
-          "application/json":
+          'application/json':
             | {
                 /** @description 总条数 */
                 results?: number;
                 /** @description 结果列表 */
-                list?: components["schemas"]["Legacy_SubjectSmall"][];
+                list?: components['schemas']['Legacy_SubjectSmall'][];
               }
             | {
                 /** @description 总条数 */
                 results?: number;
                 /** @description 结果列表 */
-                list?: components["schemas"]["Legacy_SubjectMedium"][];
+                list?: components['schemas']['Legacy_SubjectMedium'][];
               }
             | {
                 /** @description 总条数 */
                 results?: number;
                 /** @description 结果列表 */
-                list?: components["schemas"]["Legacy_SubjectLarge"][];
+                list?: components['schemas']['Legacy_SubjectLarge'][];
               };
         };
       };
@@ -1847,7 +1840,7 @@ export interface operations {
       /** 返回搜索结果 */
       200: {
         content: {
-          "application/json": {
+          'application/json': {
             /**
              * @description 搜索结果数量
              * @example 100
@@ -1869,7 +1862,7 @@ export interface operations {
                * @example 8
                */
               id: number;
-              type?: components["schemas"]["SubjectType"];
+              type?: components['schemas']['SubjectType'];
               /** @description 上映/开播/连载开始日期，可能为空字符串 */
               date: string;
               /**
@@ -1883,7 +1876,7 @@ export interface operations {
               name: string;
               /** @description 条目中文名 */
               name_cn: string;
-              tags: components["schemas"]["SubjectTags"];
+              tags: components['schemas']['SubjectTags'];
               /** @description 评分 */
               score: number;
               /** @description 排名 */
@@ -1895,7 +1888,7 @@ export interface operations {
     };
     requestBody: {
       content: {
-        "application/json": {
+        'application/json': {
           keyword: string;
           /**
            * @description 排序规则
@@ -1909,11 +1902,11 @@ export interface operations {
            * @example rank
            * @enum {string}
            */
-          sort?: "match" | "heat" | "rank" | "score";
+          sort?: 'match' | 'heat' | 'rank' | 'score';
           /** @description 不同条件之间是 `且` 的关系 */
           filter?: {
             /** @description 条目类型，参照 `SubjectType` enum，多值之间为 `或` 的关系。 */
-            type?: components["schemas"]["SubjectType"][];
+            type?: components['schemas']['SubjectType'][];
             /**
              * @description 标签，可以多次出现。多值之间为 `且` 关系。
              * @example [
@@ -1966,26 +1959,26 @@ export interface operations {
     parameters: {
       path: {
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Subject"];
+          'application/json': components['schemas']['Subject'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -1994,7 +1987,7 @@ export interface operations {
     parameters: {
       path: {
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
       query: {
         /** 枚举值 {small|grid|large|medium|common} */
@@ -2007,13 +2000,13 @@ export interface operations {
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2022,26 +2015,26 @@ export interface operations {
     parameters: {
       path: {
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["RelatedPerson"][];
+          'application/json': components['schemas']['RelatedPerson'][];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2050,26 +2043,26 @@ export interface operations {
     parameters: {
       path: {
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["RelatedCharacter"][];
+          'application/json': components['schemas']['RelatedCharacter'][];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2078,26 +2071,26 @@ export interface operations {
     parameters: {
       path: {
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["v0_subject_relation"][];
+          'application/json': components['schemas']['v0_subject_relation'][];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2106,7 +2099,7 @@ export interface operations {
     parameters: {
       query: {
         /** 条目 ID */
-        subject_id: components["parameters"]["query_subject_id"];
+        subject_id: components['parameters']['query_subject_id'];
         /** 参照章节的`type` */
         type?: number;
         /** 分页参数 */
@@ -2119,19 +2112,19 @@ export interface operations {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Paged_Episode"];
+          'application/json': components['schemas']['Paged_Episode'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2140,26 +2133,26 @@ export interface operations {
     parameters: {
       path: {
         /** 章节 ID */
-        episode_id: components["parameters"]["path_episode_id"];
+        episode_id: components['parameters']['path_episode_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["EpisodeDetail"];
+          'application/json': components['schemas']['EpisodeDetail'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2169,26 +2162,26 @@ export interface operations {
     parameters: {
       path: {
         /** 角色 ID */
-        character_id: components["parameters"]["path_character_id"];
+        character_id: components['parameters']['path_character_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["CharacterDetail"];
+          'application/json': components['schemas']['CharacterDetail'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2197,7 +2190,7 @@ export interface operations {
     parameters: {
       path: {
         /** 角色 ID */
-        character_id: components["parameters"]["path_character_id"];
+        character_id: components['parameters']['path_character_id'];
       };
       query: {
         /** 枚举值 {small|grid|large|medium} */
@@ -2210,13 +2203,13 @@ export interface operations {
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2225,26 +2218,26 @@ export interface operations {
     parameters: {
       path: {
         /** 角色 ID */
-        character_id: components["parameters"]["path_character_id"];
+        character_id: components['parameters']['path_character_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["v0_RelatedSubject"][];
+          'application/json': components['schemas']['v0_RelatedSubject'][];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2253,26 +2246,26 @@ export interface operations {
     parameters: {
       path: {
         /** 角色 ID */
-        character_id: components["parameters"]["path_character_id"];
+        character_id: components['parameters']['path_character_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["CharacterPerson"][];
+          'application/json': components['schemas']['CharacterPerson'][];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2282,26 +2275,26 @@ export interface operations {
     parameters: {
       path: {
         /** 人物 ID */
-        person_id: components["parameters"]["path_person_id"];
+        person_id: components['parameters']['path_person_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["PersonDetail"];
+          'application/json': components['schemas']['PersonDetail'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2310,7 +2303,7 @@ export interface operations {
     parameters: {
       path: {
         /** 人物 ID */
-        person_id: components["parameters"]["path_person_id"];
+        person_id: components['parameters']['path_person_id'];
       };
       query: {
         /** 枚举值 {small|grid|large|medium} */
@@ -2323,13 +2316,13 @@ export interface operations {
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2338,26 +2331,26 @@ export interface operations {
     parameters: {
       path: {
         /** 人物 ID */
-        person_id: components["parameters"]["path_person_id"];
+        person_id: components['parameters']['path_person_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["v0_RelatedSubject"][];
+          'application/json': components['schemas']['v0_RelatedSubject'][];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2366,26 +2359,26 @@ export interface operations {
     parameters: {
       path: {
         /** 人物 ID */
-        person_id: components["parameters"]["path_person_id"];
+        person_id: components['parameters']['path_person_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["PersonCharacter"][];
+          'application/json': components['schemas']['PersonCharacter'][];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2395,26 +2388,26 @@ export interface operations {
     parameters: {
       path: {
         /** 设置了用户名之后无法使用 UID。 */
-        username: components["parameters"]["path_username"];
+        username: components['parameters']['path_username'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["User"];
+          'application/json': components['schemas']['User'];
         };
       };
       /** username 太长 */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 对应用户不存在 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2424,7 +2417,7 @@ export interface operations {
     parameters: {
       path: {
         /** 设置了用户名之后无法使用 UID。 */
-        username: components["parameters"]["path_username"];
+        username: components['parameters']['path_username'];
       };
       query: {
         /** 枚举值 {small|large|medium} */
@@ -2437,13 +2430,13 @@ export interface operations {
       /** username 太长 */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 对应用户不存在 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2454,13 +2447,13 @@ export interface operations {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["User"];
+          'application/json': components['schemas']['User'];
         };
       };
       /** unauthorized */
       403: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2470,7 +2463,7 @@ export interface operations {
     parameters: {
       path: {
         /** 设置了用户名之后无法使用 UID。 */
-        username: components["parameters"]["path_username"];
+        username: components['parameters']['path_username'];
       };
       query: {
         /**
@@ -2478,7 +2471,7 @@ export interface operations {
          *
          * 具体含义见 [SubjectType](#model-SubjectType)
          */
-        subject_type?: components["schemas"]["SubjectType"];
+        subject_type?: components['schemas']['SubjectType'];
         /**
          * 收藏类型，默认为全部
          *
@@ -2486,28 +2479,28 @@ export interface operations {
          */
         type?: number;
         /** 分页参数 */
-        limit?: components["parameters"]["default_query_limit"];
+        limit?: components['parameters']['default_query_limit'];
         /** 分页参数 */
-        offset?: components["parameters"]["default_query_offset"];
+        offset?: components['parameters']['default_query_offset'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Paged_UserCollection"];
+          'application/json': components['schemas']['Paged_UserCollection'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 用户不存在 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2517,28 +2510,28 @@ export interface operations {
     parameters: {
       path: {
         /** 设置了用户名之后无法使用 UID。 */
-        username: components["parameters"]["path_username"];
+        username: components['parameters']['path_username'];
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["UserSubjectCollection"];
+          'application/json': components['schemas']['UserSubjectCollection'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 用户不存在或者条目未收藏，或者条目为私有收藏 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2554,7 +2547,7 @@ export interface operations {
     parameters: {
       path: {
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
@@ -2563,27 +2556,27 @@ export interface operations {
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Unauthorized */
       401: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 用户不存在或者条目未收藏 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
     requestBody: {
       content: {
-        "application/json": {
+        'application/json': {
           /** @description 修改条目收藏类型 */
-          type?: components["schemas"]["SubjectCollectionType"];
+          type?: components['schemas']['SubjectCollectionType'];
           /** @description 评分，`0` 表示删除评分 */
           rate?: number;
           /** @description 只能用于修改书籍条目进度 */
@@ -2607,42 +2600,42 @@ export interface operations {
     parameters: {
       path: {
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
       query: {
         /** 分页参数 */
-        offset?: components["parameters"]["default_query_offset"];
+        offset?: components['parameters']['default_query_offset'];
         /** 分页参数 */
         limit?: number;
         /** 章节类型，不传则不按照章节进行筛选 */
-        episode_type?: components["schemas"]["EpType"];
+        episode_type?: components['schemas']['EpType'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Page"] & {
-            data?: components["schemas"]["UserEpisodeCollection"][];
+          'application/json': components['schemas']['Page'] & {
+            data?: components['schemas']['UserEpisodeCollection'][];
           };
         };
       };
       /** Bad Request */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** not authorized */
       401: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 条目不存在 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2652,7 +2645,7 @@ export interface operations {
     parameters: {
       path: {
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
@@ -2661,25 +2654,25 @@ export interface operations {
       /** Bad Request */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** not authorized */
       401: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 条目不存在 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
     requestBody: {
       content: {
-        "application/json": {
+        'application/json': {
           /**
            * @example [
            *   1,
@@ -2688,7 +2681,7 @@ export interface operations {
            * ]
            */
           episode_id: number[];
-          type: components["schemas"]["EpisodeCollectionType"];
+          type: components['schemas']['EpisodeCollectionType'];
         };
       };
     };
@@ -2697,32 +2690,32 @@ export interface operations {
     parameters: {
       path: {
         /** 章节 ID */
-        episode_id: components["parameters"]["path_episode_id"];
+        episode_id: components['parameters']['path_episode_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["UserEpisodeCollection"];
+          'application/json': components['schemas']['UserEpisodeCollection'];
         };
       };
       /** episode ID not valid */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** not authorized */
       401: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 条目或者章节不存在 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2731,7 +2724,7 @@ export interface operations {
     parameters: {
       path: {
         /** 章节 ID */
-        episode_id: components["parameters"]["path_episode_id"];
+        episode_id: components['parameters']['path_episode_id'];
       };
     };
     responses: {
@@ -2740,26 +2733,26 @@ export interface operations {
       /** episode ID not valid or subject not collected */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** not authorized */
       401: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** 条目或者章节不存在 */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
     requestBody: {
       content: {
-        "application/json": {
-          type: components["schemas"]["EpisodeCollectionType"];
+        'application/json': {
+          type: components['schemas']['EpisodeCollectionType'];
         };
       };
     };
@@ -2770,22 +2763,22 @@ export interface operations {
         /** 角色 ID */
         person_id: number;
         /** 分页参数 */
-        limit?: components["parameters"]["default_query_limit"];
+        limit?: components['parameters']['default_query_limit'];
         /** 分页参数 */
-        offset?: components["parameters"]["default_query_offset"];
+        offset?: components['parameters']['default_query_offset'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Paged_Revision"];
+          'application/json': components['schemas']['Paged_Revision'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2801,19 +2794,19 @@ export interface operations {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["PersonRevision"];
+          'application/json': components['schemas']['PersonRevision'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2824,22 +2817,22 @@ export interface operations {
         /** 角色 ID */
         character_id: number;
         /** 分页参数 */
-        limit?: components["parameters"]["default_query_limit"];
+        limit?: components['parameters']['default_query_limit'];
         /** 分页参数 */
-        offset?: components["parameters"]["default_query_offset"];
+        offset?: components['parameters']['default_query_offset'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Paged_Revision"];
+          'application/json': components['schemas']['Paged_Revision'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2848,26 +2841,26 @@ export interface operations {
     parameters: {
       path: {
         /** 版本 ID */
-        revision_id: components["parameters"]["path_revision_id"];
+        revision_id: components['parameters']['path_revision_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["CharacterRevision"];
+          'application/json': components['schemas']['CharacterRevision'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2878,22 +2871,22 @@ export interface operations {
         /** 条目 ID */
         subject_id: number;
         /** 分页参数 */
-        limit?: components["parameters"]["default_query_limit"];
+        limit?: components['parameters']['default_query_limit'];
         /** 分页参数 */
-        offset?: components["parameters"]["default_query_offset"];
+        offset?: components['parameters']['default_query_offset'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Paged_Revision"];
+          'application/json': components['schemas']['Paged_Revision'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2902,26 +2895,26 @@ export interface operations {
     parameters: {
       path: {
         /** 版本 ID */
-        revision_id: components["parameters"]["path_revision_id"];
+        revision_id: components['parameters']['path_revision_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["SubjectRevision"];
+          'application/json': components['schemas']['SubjectRevision'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2932,22 +2925,22 @@ export interface operations {
         /** 章节 ID */
         episode_id: number;
         /** 分页参数 */
-        limit?: components["parameters"]["default_query_limit"];
+        limit?: components['parameters']['default_query_limit'];
         /** 分页参数 */
-        offset?: components["parameters"]["default_query_offset"];
+        offset?: components['parameters']['default_query_offset'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Paged_Revision"];
+          'application/json': components['schemas']['Paged_Revision'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2956,26 +2949,26 @@ export interface operations {
     parameters: {
       path: {
         /** 版本 ID */
-        revision_id: components["parameters"]["path_revision_id"];
+        revision_id: components['parameters']['path_revision_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["DetailedRevision"];
+          'application/json': components['schemas']['DetailedRevision'];
         };
       };
       /** Validation Error */
       400: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
       /** Not Found */
       404: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -2985,13 +2978,13 @@ export interface operations {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Index"];
+          'application/json': components['schemas']['Index'];
         };
       };
       /** Unauthorized */
       401: {
         content: {
-          "application/json": components["schemas"]["ErrorDetail"];
+          'application/json': components['schemas']['ErrorDetail'];
         };
       };
     };
@@ -3000,40 +2993,40 @@ export interface operations {
     parameters: {
       path: {
         /** 目录 ID */
-        index_id: components["parameters"]["path_index_id"];
+        index_id: components['parameters']['path_index_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Index"];
+          'application/json': components['schemas']['Index'];
         };
       };
-      404: components["responses"]["404"];
+      404: components['responses']['404'];
     };
   };
   editIndexById: {
     parameters: {
       path: {
         /** 目录 ID */
-        index_id: components["parameters"]["path_index_id"];
+        index_id: components['parameters']['path_index_id'];
       };
     };
     responses: {
       /** Successful Response */
       200: {
         content: {
-          "application/json": components["schemas"]["Index"];
+          'application/json': components['schemas']['Index'];
         };
       };
-      400: components["responses"]["400"];
-      401: components["responses"]["401"];
-      404: components["responses"]["404"];
+      400: components['responses']['400'];
+      401: components['responses']['401'];
+      404: components['responses']['404'];
     };
     requestBody: {
       content: {
-        "application/json": components["schemas"]["IndexBasicInfo"];
+        'application/json': components['schemas']['IndexBasicInfo'];
       };
     };
   };
@@ -3041,40 +3034,40 @@ export interface operations {
     parameters: {
       path: {
         /** 目录 ID */
-        index_id: components["parameters"]["path_index_id"];
+        index_id: components['parameters']['path_index_id'];
       };
       query: {
         /** 条目类型 */
-        type?: components["schemas"]["SubjectType"];
+        type?: components['schemas']['SubjectType'];
         /** 分页参数 */
-        limit?: components["parameters"]["default_query_limit"];
+        limit?: components['parameters']['default_query_limit'];
         /** 分页参数 */
-        offset?: components["parameters"]["default_query_offset"];
+        offset?: components['parameters']['default_query_offset'];
       };
     };
     responses: {
       /** Successful Response */
       200: unknown;
-      400: components["responses"]["400"];
-      404: components["responses"]["404"];
+      400: components['responses']['400'];
+      404: components['responses']['404'];
     };
   };
   addSubjectToIndexByIndexId: {
     parameters: {
       path: {
         /** 目录 ID */
-        index_id: components["parameters"]["path_index_id"];
+        index_id: components['parameters']['path_index_id'];
       };
     };
     responses: {
-      200: components["responses"]["200-no-content"];
-      400: components["responses"]["401"];
-      401: components["responses"]["400"];
-      404: components["responses"]["404"];
+      200: components['responses']['200-no-content'];
+      400: components['responses']['401'];
+      401: components['responses']['400'];
+      404: components['responses']['404'];
     };
     requestBody: {
       content: {
-        "application/json": components["schemas"]["IndexSubjectAddInfo"];
+        'application/json': components['schemas']['IndexSubjectAddInfo'];
       };
     };
   };
@@ -3083,20 +3076,20 @@ export interface operations {
     parameters: {
       path: {
         /** 目录 ID */
-        index_id: components["parameters"]["path_index_id"];
+        index_id: components['parameters']['path_index_id'];
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
-      200: components["responses"]["200-no-content"];
-      400: components["responses"]["400"];
-      401: components["responses"]["401"];
-      404: components["responses"]["404"];
+      200: components['responses']['200-no-content'];
+      400: components['responses']['400'];
+      401: components['responses']['401'];
+      404: components['responses']['404'];
     };
     requestBody: {
       content: {
-        "application/json": components["schemas"]["IndexSubjectEditInfo"];
+        'application/json': components['schemas']['IndexSubjectEditInfo'];
       };
     };
   };
@@ -3104,15 +3097,15 @@ export interface operations {
     parameters: {
       path: {
         /** 目录 ID */
-        index_id: components["parameters"]["path_index_id"];
+        index_id: components['parameters']['path_index_id'];
         /** 条目 ID */
-        subject_id: components["parameters"]["path_subject_id"];
+        subject_id: components['parameters']['path_subject_id'];
       };
     };
     responses: {
-      200: components["responses"]["200-no-content"];
-      401: components["responses"]["401"];
-      404: components["responses"]["404"];
+      200: components['responses']['200-no-content'];
+      401: components['responses']['401'];
+      404: components['responses']['404'];
     };
   };
   /** 为当前用户收藏一条目录 */
@@ -3120,14 +3113,14 @@ export interface operations {
     parameters: {
       path: {
         /** 目录 ID */
-        index_id: components["parameters"]["path_index_id"];
+        index_id: components['parameters']['path_index_id'];
       };
     };
     responses: {
-      200: components["responses"]["200-no-content"];
-      401: components["responses"]["401"];
-      404: components["responses"]["404"];
-      500: components["responses"]["500"];
+      200: components['responses']['200-no-content'];
+      401: components['responses']['401'];
+      404: components['responses']['404'];
+      500: components['responses']['500'];
     };
   };
   /** 为当前用户取消收藏一条目录 */
@@ -3135,14 +3128,14 @@ export interface operations {
     parameters: {
       path: {
         /** 目录 ID */
-        index_id: components["parameters"]["path_index_id"];
+        index_id: components['parameters']['path_index_id'];
       };
     };
     responses: {
-      200: components["responses"]["200-no-content"];
-      401: components["responses"]["401"];
-      404: components["responses"]["404"];
-      500: components["responses"]["500"];
+      200: components['responses']['200-no-content'];
+      401: components['responses']['401'];
+      404: components['responses']['404'];
+      500: components['responses']['500'];
     };
   };
 }
