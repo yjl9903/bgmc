@@ -11,7 +11,7 @@ import { fetchBangumiData, fetchTmdbData } from './fetch';
 const cli = breadc('bgmx')
   .option('--overwrite', 'Overwrite cached data', { default: false })
   .option('--root <string>', 'Data root')
-  .option('--out-dir <string>', 'Output root')
+  .option('--out-dir <string>', 'Output root');
 
 cli
   .command('search')
@@ -25,15 +25,13 @@ cli
     //     return;
     //   }
     // }
-
     // console.log('Error: nothing found');
   });
 
-cli.command('build')
-  .action(async (options) => {
-    const ctx = resolveOptions(options);
-    await buildData(ctx);
-  });
+cli.command('build').action(async (options) => {
+  const ctx = resolveOptions(options);
+  await buildData(ctx);
+});
 
 cli
   .command('fetch bangumi')
@@ -43,19 +41,18 @@ cli
     await fetchBangumiData(ctx);
   });
 
-cli.command('fetch tmdb')
-  .action(async (options) => {
-    const ctx = resolveOptions(options);
-    await fetchTmdbData(ctx);
-  });
+cli.command('fetch tmdb').action(async (options) => {
+  const ctx = resolveOptions(options);
+  await fetchTmdbData(ctx);
+});
 
-function resolveOptions(options: { overwrite: boolean, root?: string; outDir?: string }): Context {
+function resolveOptions(options: { overwrite: boolean; root?: string; outDir?: string }): Context {
   const root = options.root || path.join(process.cwd(), 'data');
-  const bangumiRoot = path.join(root, 'bangumi')
-  const tmdbRoot = path.join(root, 'tmdb')
-  const outDir = options.outDir || (options.root
-    ? options.root
-    : path.join(process.cwd(), 'packages/bgmd/root'));
+  const bangumiRoot = path.join(root, 'bangumi');
+  const tmdbRoot = path.join(root, 'tmdb');
+  const outDir =
+    options.outDir ||
+    (options.root ? options.root : path.join(process.cwd(), 'packages/bgmd/root'));
 
   return {
     ...options,
@@ -63,7 +60,7 @@ function resolveOptions(options: { overwrite: boolean, root?: string; outDir?: s
     bangumiRoot,
     tmdbRoot,
     outDir
-  }
+  };
 }
 
 // main

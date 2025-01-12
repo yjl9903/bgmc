@@ -15,8 +15,8 @@ export interface NormalizeTagsOptions {
 
 export function normalizeTags(tags: Tag[], options: NormalizeTagsOptions = {}) {
   const merged = mergeSimpleTags(tags);
-  const reliable = options.count ? merged.filter(t => t.count >= options.count!) : merged;
-  return reliable.map(t => t.name);
+  const reliable = options.count ? merged.filter((t) => t.count >= options.count!) : merged;
+  return reliable.map((t) => t.name).sort();
 }
 
 function mergeSimpleTags(tags: Tag[]) {

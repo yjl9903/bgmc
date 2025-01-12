@@ -12,7 +12,7 @@ export function groupByBegin<T extends {}>(items: T[], fn: (item: T) => string |
   for (const item of items) {
     const begin = fn(item);
     if (!begin) continue;
-    const RE = /^(\d{4})-(\d{1,2})-\d{1,2}$/
+    const RE = /^(\d{4})-(\d{1,2})-\d{1,2}$/;
     const match = RE.exec(begin);
     if (match) {
       const year = +match[1];

@@ -48,6 +48,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "bgmc": "workspace:*",
     "simptrad": "^0.2.0"
   },
   "engines": {
