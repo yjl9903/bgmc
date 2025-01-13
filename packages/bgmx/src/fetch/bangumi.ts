@@ -127,7 +127,7 @@ export async function fetchBangumiData(ctx: Context) {
         date: subject.date ?? item?.begin,
         bangumi: {
           ...subject,
-          tags: normalizeTags(subject.tags ?? [], { count: 5 }),
+          tags: normalizeTags(subject.tags ?? [], { count: 3 }),
           relations
         }
       };
