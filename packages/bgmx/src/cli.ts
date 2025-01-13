@@ -55,8 +55,7 @@ function resolveOptions(options: { overwrite: boolean; root?: string; outDir?: s
   const root = path.join(options.root || process.cwd(), 'data');
   const bangumiRoot = path.join(root, 'bangumi');
   const tmdbRoot = path.join(root, 'tmdb');
-  const outDir =
-    options.outDir || path.join(options.root || process.cwd(), 'packages/bgmd/data');
+  const outDir = options.outDir || path.join(options.root || process.cwd(), 'packages/bgmd/data');
 
   return {
     ...options,

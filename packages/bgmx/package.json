@@ -53,6 +53,9 @@
     "tmdbc": "workspace:*",
     "undici": "^7.2.1"
   },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.7"
+  },
   "engines": {
     "node": ">=v20.8.0"
   },
