@@ -4,9 +4,9 @@ import path from 'node:path';
 import { rimraf } from 'rimraf';
 import { BgmClient } from 'bgmc';
 
-import type { FullBangumi } from 'bgmd/types';
+import type { FullBangumi } from 'bgmc/types';
 
-import { transform } from 'bgmd/transform';
+import { transform } from '../../../bgmd/src/transform';
 
 import type { Context } from '../types';
 

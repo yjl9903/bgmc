@@ -84,6 +84,9 @@ importers:
       '@types/fs-extra':
         specifier: ^11.0.4
         version: 11.0.4
+      bgmx:
+        specifier: workspace:*
+        version: link:../bgmx
       breadc:
         specifier: ^0.9.7
         version: 0.9.7
@@ -111,9 +114,6 @@ importers:
       bgmc:
         specifier: workspace:*
         version: link:../bgmc
-      bgmd:
-        specifier: workspace:*
-        version: link:../bgmd
       bgmt:
         specifier: workspace:*
         version: link:../bgmt
