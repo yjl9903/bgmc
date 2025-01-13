@@ -46,10 +46,18 @@ cli.command('fetch tmdb').action(async (options) => {
   await fetchTmdbData(ctx);
 });
 
-cli.command('fetch yuc').action(async (options) => {
-  const ctx = resolveOptions(options);
-  await fetchYucCalendar(ctx);
-});
+cli
+  .command('fetch yuc')
+  .option('--year <year>')
+  .option('--month <month>')
+  .action(async (options) => {
+    const ctx = resolveOptions(options);
+    await fetchYucCalendar(
+      ctx,
+      options.year ? +options.year : undefined,
+      options.month ? +options.month : undefined
+    );
+  });
 
 function resolveOptions(options: { overwrite: boolean; root?: string; outDir?: string }): Context {
   const root = path.join(options.root || process.cwd(), 'data');

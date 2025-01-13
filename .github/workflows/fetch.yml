@@ -51,6 +51,56 @@ jobs:
 
           echo "branch=$BRANCH" >> $GITHUB_OUTPUT
 
+  yuc:
+    name: Fetch yuc.wiki
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    needs:
+      - prepare
+
+    steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
+
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.prepare.outputs.branch }}
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4.0.0
+
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+          cache: pnpm
+
+      - name: Install and build
+        run: |
+          pnpm install
+          pnpm build
+
+      - name: Fetch Yuc
+        run: pnpm run bgmx fetch yuc
+
+      - name: Push changes
+        run: |
+          TIMESTAMP=$(date +"%Y-%m-%d %T")
+          BRANCH=${{ needs.prepare.outputs.branch }}
+
+          if [[ -n $(git status -s) ]]; then
+            git config user.email "actions@github.com"
+            git config user.name "GitHub Actions"
+
+            git add data
+            git commit -m "feat(bgmd): update yuc.wiki at $TIMESTAMP"
+            git push origin $BRANCH
+          fi
+
   bangumi:
     name: Fetch Bangumi
 
@@ -222,6 +272,7 @@ jobs:
 
     needs:
       - prepare
+      - yuc
       - bangumi
       - tmdb
 
