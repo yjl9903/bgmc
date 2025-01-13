@@ -6,7 +6,7 @@ import { breadc } from 'breadc';
 import type { Context } from './types';
 
 import { buildData } from './build';
-import { fetchBangumiData, fetchTmdbData } from './fetch';
+import { fetchBangumiData, fetchTmdbData, fetchYucCalendar } from './fetch';
 
 const cli = breadc('bgmx')
   .option('--overwrite', 'Overwrite cached data', { default: false })
@@ -44,6 +44,11 @@ cli
 cli.command('fetch tmdb').action(async (options) => {
   const ctx = resolveOptions(options);
   await fetchTmdbData(ctx);
+});
+
+cli.command('fetch yuc').action(async (options) => {
+  const ctx = resolveOptions(options);
+  await fetchYucCalendar(ctx);
 });
 
 function resolveOptions(options: { overwrite: boolean; root?: string; outDir?: string }): Context {
