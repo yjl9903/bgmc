@@ -47,12 +47,11 @@ cli.command('fetch tmdb').action(async (options) => {
 });
 
 function resolveOptions(options: { overwrite: boolean; root?: string; outDir?: string }): Context {
-  const root = options.root || path.join(process.cwd(), 'data');
+  const root = path.join(options.root || process.cwd(), 'data');
   const bangumiRoot = path.join(root, 'bangumi');
   const tmdbRoot = path.join(root, 'tmdb');
   const outDir =
-    options.outDir ||
-    (options.root ? options.root : path.join(process.cwd(), 'packages/bgmd/root'));
+    options.outDir || path.join(options.root || process.cwd(), 'packages/bgmd/data');
 
   return {
     ...options,

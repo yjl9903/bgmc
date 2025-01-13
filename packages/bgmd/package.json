@@ -64,7 +64,7 @@
     "*.d.ts"
   ],
   "scripts": {
-    "build": "tsx scripts/build.ts && unbuild",
+    "build": "tsx ../bgmx/src/cli.ts --root ../.. build && unbuild",
     "format": "prettier --write src/**/*.ts test/**/*.ts",
     "release": "release-it",
     "test": "vitest",

@@ -6,7 +6,7 @@ const REs = [
   /\((?:19|20)\d{2}\)$/
 ];
 
-export function trimSeason(bgm: { name: string, alias: string[] }) {
+export function trimSeason(bgm: { name: string; alias: string[] }) {
   let changed = false;
   function trim(t: string) {
     for (const RE of REs) {

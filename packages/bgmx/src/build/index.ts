@@ -15,8 +15,8 @@ import { BangumiItem, OfflineBangumi, OfflineTMDB } from '../offline';
 export async function buildData(ctx: Context) {
   const outDir = ctx.outDir;
 
-  const tmdbDB = new OfflineTMDB(ctx.bangumiRoot);
-  const bangumiDB = new OfflineBangumi(ctx.tmdbRoot);
+  const tmdbDB = new OfflineTMDB(ctx.tmdbRoot);
+  const bangumiDB = new OfflineBangumi(ctx.bangumiRoot);
 
   await clearOutDir(outDir);
   await tmdbDB.load();

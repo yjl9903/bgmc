@@ -52,7 +52,7 @@ export function transform<T extends PartialDeep<FullBangumi> = FullBangumi>(
     }
   };
 
-  const { original }  = trimSeason(full);
+  const { original } = trimSeason(full);
   if (original) {
     full.original = original;
   }
