@@ -51,56 +51,6 @@ jobs:
 
           echo "branch=$BRANCH" >> $GITHUB_OUTPUT
 
-  yuc:
-    name: Fetch yuc.wiki
-
-    runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
-
-    needs:
-      - prepare
-
-    steps:
-      - name: Set Timezone
-        run: sudo timedatectl set-timezone "Asia/Shanghai"
-
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ needs.prepare.outputs.branch }}
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4.0.0
-
-      - name: Setup node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20.x
-          cache: pnpm
-
-      - name: Install and build
-        run: |
-          pnpm install
-          pnpm build
-
-      - name: Fetch Yuc
-        run: pnpm run bgmx fetch yuc
-
-      - name: Push changes
-        run: |
-          TIMESTAMP=$(date +"%Y-%m-%d %T")
-          BRANCH=${{ needs.prepare.outputs.branch }}
-
-          if [[ -n $(git status -s) ]]; then
-            git config user.email "actions@github.com"
-            git config user.name "GitHub Actions"
-
-            git add data
-            git commit -m "feat(bgmd): update yuc.wiki at $TIMESTAMP"
-            git push origin $BRANCH
-          fi
-
   bangumi:
     name: Fetch Bangumi
 
@@ -148,11 +98,12 @@ jobs:
           # Output Info
           echo '## Fetch new bangumi' >> $output
           info_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-info.log" "bangumi-info.log" || true)
-          echo "$info_diff" | while IFS= read -r line; do
-            line="${line/Info: /}"
-            line="${line/fetch /}"
-            echo "- ${line}" >> $output
-          done
+          if [ -n "$info_diff" ]; then
+            echo "$info_diff" | while IFS= read -r line; do
+              line="${line/Info: /}"
+              echo "- ${line}" >> $output
+            done
+          fi
 
           # Output Error
           echo '## Error' >> $output
@@ -177,6 +128,76 @@ jobs:
 
             git add data
             git commit -m "feat(bgmd): update bangumi data at $TIMESTAMP"
+            git push origin $BRANCH
+          fi
+
+  yuc:
+    name: Fetch yuc.wiki
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    needs:
+      - prepare
+      - bangumi
+
+    steps:
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone "Asia/Shanghai"
+
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.prepare.outputs.branch }}
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4.0.0
+
+      - name: Setup node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+          cache: pnpm
+
+      - name: Install and build
+        run: |
+          pnpm install
+          pnpm build
+
+      - name: Fetch Yuc
+        run: |
+          pnpm run bgmx fetch yuc | tee run.log
+          grep "^Error:" run.log > yuc-error.log || true
+
+          # Generate markdown summary
+          output=data/yuc.md
+          echo '# yuc' > $output
+
+          # Output Error
+          echo '## Error' >> $output
+          error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/yuc-error.log" "yuc-error.log" || true)
+          if [ -z "$error_diff" ]; then
+            echo "$error_diff" | while IFS= read -r line; do
+              line="${line/Error: /}"
+              echo "- ${line}" >> $output
+            done
+          fi
+
+          # Update
+          grep "^Error:" run.log > data/yuc-error.log || true
+
+      - name: Push changes
+        run: |
+          TIMESTAMP=$(date +"%Y-%m-%d %T")
+          BRANCH=${{ needs.prepare.outputs.branch }}
+
+          if [[ -n $(git status -s) ]]; then
+            git config user.email "actions@github.com"
+            git config user.name "GitHub Actions"
+
+            git add data
+            git commit -m "feat(bgmd): update yuc.wiki at $TIMESTAMP"
             git push origin $BRANCH
           fi
 
@@ -272,8 +293,8 @@ jobs:
 
     needs:
       - prepare
-      - yuc
       - bangumi
+      - yuc
       - tmdb
 
     permissions:
@@ -300,7 +321,7 @@ jobs:
             echo "$pr_list" | awk '{print $1}' | xargs gh pr close -d
           fi
 
-          pr_body=$(cat data/bangumi.md data/tmdb.md || 'Update data')
+          pr_body=$(cat data/bangumi.md data/yuc.md data/tmdb.md || 'Update data')
 
           if [[ $(git rev-list --count origin/main..origin/${{ needs.prepare.outputs.branch }}) -gt 0 ]]; then
             gh pr create \

@@ -2,13 +2,17 @@ import fs from 'fs-extra';
 import path from 'node:path';
 import { JSDOM } from 'jsdom';
 
-import { BgmClient } from 'bgmc';
+import { BgmClient, getSubjectAlias } from 'bgmc';
 
 import type { Context } from '../types';
 
 import { OfflineBangumi } from '../offline';
+import { normalizeTitle, trimSeason } from 'bgmt';
+import { YucRewriter } from '../rewrite';
 
 export interface YucItem {
+  id: number;
+
   name_cn: string;
 
   name_jp: string;
@@ -46,24 +50,40 @@ export async function fetchYucCalendar(
 ) {
   await fs.ensureDir(ctx.bangumiRoot);
 
-  const client = new BgmClient(fetch);
   const bangumiDB = new OfflineBangumi(ctx.bangumiRoot);
+  const rewriter = new YucRewriter(ctx.root);
 
-  await bangumiDB.load();
+  const [ry, rm] = year && month ? [year, month] : inferOnairMonth();
+  await Promise.all([bangumiDB.load(), rewriter.load(ry, rm)]);
+  const matcher = createBangumiMatcher(bangumiDB, rewriter, ry, rm);
 
-  const page = year && month ? `${year}${String(month).padStart(2, '0')}` : inferOnairMonth();
+  const page = `${ry}${String(rm).padStart(2, '0')}`;
   const url = `https://yuc.wiki/${page}/`;
   const resp = await fetch(url);
   const html = await resp.text();
   const doc = new JSDOM(html);
 
   const items = extractAnime(doc.window.document);
+  const calendar = extractCalendar(doc.window.document);
+
+  for (const item of items) {
+    const result = matcher([item.name_cn, item.name_jp]);
+    if (result) {
+      item.id = result.bangumi.id;
+    } else {
+      console.log(`Error: can not find ${item.name_cn} or ${item.name_jp}`);
+    }
+  }
 
   const root = path.join(ctx.root, 'yuc');
   await fs.ensureDir(root);
   await fs.writeFile(
     path.join(root, `${page}.json`),
-    JSON.stringify({ href: url, count: items.length, items }, null, 2),
+    JSON.stringify(
+      { href: url, calendar, count: items.length, items: items.filter((t) => t.id) },
+      null,
+      2
+    ),
     'utf-8'
   );
 }
@@ -74,21 +94,21 @@ export function inferOnairMonth() {
   switch (month) {
     case 1:
     case 2:
-      return year + '01';
+      return [year, 1];
     case 3:
     case 4:
     case 5:
-      return year + '04';
+      return [year, 4];
     case 6:
     case 7:
     case 8:
-      return year + '07';
+      return [year, 7];
     case 9:
     case 10:
     case 11:
-      return year + '10';
+      return [year, 10];
     case 12:
-      return year + 1 + '01';
+      return [year + 1, 1];
     default:
       throw new Error('unreachable');
   }
@@ -133,6 +153,7 @@ function extractAnime(doc: Document) {
     }
 
     result.push({
+      id: 0,
       name_cn,
       name_jp,
       cover: cover || undefined,
@@ -146,6 +167,59 @@ function extractAnime(doc: Document) {
   }
 
   return result;
+}
+
+function extractCalendar(doc: Document) {
+  const calendar = [[], [], [], [], [], [], [], []];
+  return calendar;
+}
+
+function createBangumiMatcher(
+  db: OfflineBangumi,
+  rewriter: YucRewriter,
+  year: number,
+  month: number
+) {
+  const client = new BgmClient(fetch);
+  const d1 = `${year}-${String(month).padStart(2, '0')}`;
+  const d2 = `${month === 1 ? year - 1 : year}-${String(month === 1 ? 12 : month - 1).padStart(2, '0')}`;
+  const d3 = `${month === 12 ? year + 1 : year}-${String(month === 12 ? 1 : month + 1).padStart(2, '0')}`;
+  const latest = [...db.values()].filter(
+    (bgm) => bgm.date.startsWith(d1) || bgm.date.startsWith(d2) || bgm.date.startsWith(d3)
+  );
+  return (names: string[]) => {
+    const set = new Set(names.map(t => rewriter.rename(t)).map(normalizeTitle));
+    // Match trimmed season
+    const { original } = trimSeason({
+      name: names[0],
+      alias: names
+    });
+    const has = (t: string) => set.has(t);
+    const prefix = (t: string) => names.some((n) => t.startsWith(n));
+    const trimmed = 
+      original && original.length
+        ? (t: string) => original.some((n) => t.startsWith(n))
+        : undefined;
+
+    for (const check of [has, prefix, ...(trimmed ? [trimmed] : [])]) {
+      for (const bgm of latest) {
+        if (
+          check(normalizeTitle(bgm.title)) ||
+          check(normalizeTitle(bgm.bangumi.name)) ||
+          check(normalizeTitle(bgm.bangumi.name_cn))
+        ) {
+          return bgm;
+        }
+        // Match alias
+        const alias = new Set(
+          [...getSubjectAlias(bgm.bangumi)].map(decodeName).map(normalizeTitle)
+        );
+        if ([...alias].some((a) => check(a))) {
+          return bgm;
+        }
+      }
+    }
+  };
 }
 
 function parseTags(text?: string) {
