@@ -1,16 +1,11 @@
 # Bangumi
 ## Fetch new bangumi
-- 
+- fetch おはよう!スパンク (id: 210388)
+- fetch ハイスクール!奇面組 (id: 53738)
+- fetch アンドロイド・アナ MAICO 2010 (id: 86435)
+- fetch グラップラー刃牙 (id: 62893)
+- fetch Occultic;Nine -オカルティック・ナイン- (id: 203861)
+- fetch 機動戦士ガンダム 鉄血のオルフェンズ 月鋼 (id: 192656)
+- fetch ドラえもん (id: 18692)
 ## Error
-- There is no bangumi id for 青い瞳の女の子のお話
-- There is no bangumi id for あはれ！名作くん(第6期)
-- There is no bangumi id for こうしす！EE 総集編映画版　～こちら京姫鉄道広報部システム課～
-- fetch bangumi 504455 failed
-- fetch bangumi ヤリチン☆ビッチ部 failed (id: 241186)
-- fetch bangumi 「只能触摸一分钟哦...」合租房的秘密规则。 failed (id: 525733)
-- fetch bangumi 530729 failed
-- fetch bangumi 285530 failed
-- fetch bangumi 487716 failed
-- fetch bangumi 530290 failed
-- fetch bangumi 485990 failed
-- fetch bangumi 531919 failed
+- 
