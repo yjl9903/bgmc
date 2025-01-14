@@ -43,11 +43,21 @@ export interface YucItem {
     | undefined;
 }
 
+export interface YucCalendarItem {
+  id: number;
+
+  name: string;
+
+  cover: string;
+}
+
 export async function fetchYucCalendar(
   ctx: Context,
   year?: number,
   month?: 1 | 4 | 7 | 10 | number
 ) {
+  const root = path.join(ctx.root, 'yuc');
+  await fs.ensureDir(root);
   await fs.ensureDir(ctx.bangumiRoot);
 
   const bangumiDB = new OfflineBangumi(ctx.bangumiRoot);
@@ -64,29 +74,64 @@ export async function fetchYucCalendar(
   const doc = new JSDOM(html);
 
   const items = extractAnime(doc.window.document);
-  const calendar = extractCalendar(doc.window.document);
-
   for (const item of items) {
     const result = matcher([item.name_cn, item.name_jp]);
     if (result) {
       item.id = result.bangumi.id;
-      console.log(`Info: infer ${item.name_cn} -> ${result.bangumi.name_cn} (id: ${result.bangumi.id})`)
+      console.log(
+        `Info: infer ${item.name_cn} -> ${result.bangumi.name_cn} (id: ${result.bangumi.id})`
+      );
     } else {
       console.log(`Error: can not find ${item.name_cn} or ${item.name_jp}`);
     }
   }
 
-  const root = path.join(ctx.root, 'yuc');
-  await fs.ensureDir(root);
+  const { calendar, web } = extractCalendar(doc.window.document);
+  const coverMap = new Map((await loadAll(root)).map((b) => [b.cover, b] as const));
+  for (const item of [...calendar, web].flat()) {
+    const bgm = coverMap.get(item.cover);
+    if (bgm) {
+      item.id = bgm.id;
+    } else if (rewriter.getBangumiId(item.name)) {
+      item.id = rewriter.getBangumiId(item.name)!;
+    } else {
+      const result = matcher([item.name]);
+      if (result) {
+        item.id = result.bangumi.id;
+        console.log(
+          `Info: infer ${item.name} -> ${result.bangumi.name_cn} (id: ${result.bangumi.id})`
+        );
+      } else {
+        console.log(`Error: can not infer calendar bangumi ${item.name}`);
+      }
+    }
+  }
+
   await fs.writeFile(
     path.join(root, `${page}.json`),
     JSON.stringify(
-      { href: url, calendar, count: items.length, items: items.filter((t) => t.id) },
+      { href: url, calendar, web, count: items.length, items: items.filter((t) => t.id) },
       null,
       2
     ),
     'utf-8'
   );
+}
+
+/**
+ * Load all yuc JSON files
+ *
+ * @param root
+ * @returns
+ */
+async function loadAll(root: string) {
+  const files = await fs.readdir(root);
+  const contents = await Promise.all(
+    files
+      .filter((f) => f.endsWith('.json'))
+      .map(async (f) => fs.readFile(path.join(root, f), 'utf-8'))
+  );
+  return contents.map((c) => (JSON.parse(c) as any).items).flat() as YucItem[];
 }
 
 export function inferOnairMonth() {
@@ -170,9 +215,47 @@ function extractAnime(doc: Document) {
   return result;
 }
 
+const DAY_MAP = new Map([
+  ['周一', 0],
+  ['周二', 1],
+  ['周三', 2],
+  ['周四', 3],
+  ['周五', 4],
+  ['周六', 5],
+  ['周日', 6],
+  ['周天', 6]
+]);
+
 function extractCalendar(doc: Document) {
-  const calendar = [[], [], [], [], [], [], [], []];
-  return calendar;
+  const calendar: YucCalendarItem[][] = [[], [], [], [], [], [], []];
+  const web: YucCalendarItem[] = [];
+
+  const wrappers = Array.from(doc.querySelectorAll('td.date2')).map(
+    (t) => t.parentElement!.parentElement!.parentElement!.parentElement
+  );
+  for (const wrapper of wrappers) {
+    const day = DAY_MAP.get(wrapper?.querySelector('.date2')?.textContent?.slice(0, 2) ?? '');
+    const list = day !== undefined ? calendar[day] : web;
+
+    const root = wrapper?.nextElementSibling;
+    for (const dom of root?.children ?? []) {
+      const title = dom
+        .querySelector('table tbody tr:first-child td:first-child')
+        ?.textContent?.trim();
+      const cover = (
+        dom.querySelector('.div_date img') || dom.querySelector('.div_date_ img')
+      )?.getAttribute('data-src');
+
+      if (!cover || !title) {
+        console.log(`Error: unknown calendar item ${title}`, cover);
+        continue;
+      }
+
+      list.push({ id: 0, name: title, cover });
+    }
+  }
+
+  return { calendar, web };
 }
 
 function createBangumiMatcher(
@@ -189,7 +272,7 @@ function createBangumiMatcher(
     (bgm) => bgm.date.startsWith(d1) || bgm.date.startsWith(d2) || bgm.date.startsWith(d3)
   );
   return (names: string[]) => {
-    const set = new Set(names.map(t => rewriter.rename(t)).map(normalizeTitle));
+    const set = new Set(names.map((t) => rewriter.rename(t)).map(normalizeTitle));
     // Match trimmed season
     const { original } = trimSeason({
       name: names[0],
@@ -197,7 +280,7 @@ function createBangumiMatcher(
     });
     const has = (t: string) => set.has(t);
     const prefix = (t: string) => names.some((n) => t.startsWith(n));
-    const trimmed = 
+    const trimmed =
       original && original.length
         ? (t: string) => original.some((n) => t.startsWith(n))
         : undefined;
@@ -270,17 +353,6 @@ function parseWebsite(dom?: HTMLElement) {
   }
   return '';
 }
-
-const DAY_MAP = new Map([
-  ['周一', 0],
-  ['周二', 1],
-  ['周三', 2],
-  ['周四', 3],
-  ['周五', 4],
-  ['周六', 5],
-  ['周日', 6],
-  ['周天', 6]
-]);
 
 function parseBroadcast(dom?: HTMLElement) {
   if (!dom) return undefined;
