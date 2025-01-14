@@ -70,6 +70,7 @@ export async function fetchYucCalendar(
     const result = matcher([item.name_cn, item.name_jp]);
     if (result) {
       item.id = result.bangumi.id;
+      console.log(`Info: infer ${item.name_cn} -> ${result.bangumi.name_cn} (id: ${result.bangumi.id})`)
     } else {
       console.log(`Error: can not find ${item.name_cn} or ${item.name_jp}`);
     }

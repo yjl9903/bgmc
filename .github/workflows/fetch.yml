@@ -168,11 +168,19 @@ jobs:
       - name: Fetch Yuc
         run: |
           pnpm run bgmx fetch yuc | tee run.log
+          grep "^Info:" run.log  > yuc-info.log  || true
           grep "^Error:" run.log > yuc-error.log || true
 
           # Generate markdown summary
           output=data/yuc.md
           echo '# yuc' > $output
+
+          # Output info
+          echo '## Fetch yuc.wiki' >> $output
+          cat yuc-info.log | while IFS= read -r line; do
+            line="${line/Info: /}"
+            echo "- ${line}" >> $output
+          done
 
           # Output Error
           echo '## Error' >> $output
@@ -185,6 +193,7 @@ jobs:
           fi
 
           # Update
+          grep "^Info:" run.log  > data/yuc-info.log  || true
           grep "^Error:" run.log > data/yuc-error.log || true
 
       - name: Push changes
@@ -198,6 +207,7 @@ jobs:
 
             git add data
             git commit -m "feat(bgmd): update yuc.wiki at $TIMESTAMP"
+            git pull --rebase
             git push origin $BRANCH
           fi
 
@@ -283,6 +293,7 @@ jobs:
 
             git add data
             git commit -m "feat(bgmd): update TMDB data at $TIMESTAMP"
+            git pull --rebase
             git push origin $BRANCH
           fi
 
