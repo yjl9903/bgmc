@@ -10,6 +10,7 @@ import { transform } from '../../../bgmd/src/transform';
 
 import type { Context } from '../types';
 
+import { inferOnairMonth, YucCalendarItem } from '../fetch';
 import { BangumiItem, OfflineBangumi, OfflineTMDB } from '../offline';
 
 export async function buildData(ctx: Context) {
@@ -24,7 +25,8 @@ export async function buildData(ctx: Context) {
 
   await buildFull(path.join(outDir, 'full.json'));
   await buildIndex(path.join(outDir, 'index.json'));
-  await buildCalendar(path.join(outDir, 'calendar.json'));
+  (await buildYucCalendar(ctx.root, path.join(outDir, 'calendar.json'))) ||
+    (await buildBangumiCalendar(path.join(outDir, 'calendar.json')));
 
   async function buildFull(output: string) {
     const bangumis = [...bangumiDB.values()].map((bgm) =>
@@ -49,7 +51,57 @@ export async function buildData(ctx: Context) {
     await fs.writeFile(output, JSON.stringify({ bangumis }));
   }
 
-  async function buildCalendar(output: string) {
+  async function buildYucCalendar(root: string, output: string) {
+    try {
+      const [year, month] = inferOnairMonth();
+      const content = JSON.parse(
+        await fs.readFile(
+          path.join(root, 'yuc', `${year}${String(month).padStart(2, '0')}.json`),
+          'utf-8'
+        )
+      ) as { calendar: YucCalendarItem[][]; web: YucCalendarItem[] };
+
+      const bangumis: FullBangumi[][] = [[], [], [], [], [], [], []];
+      const web: FullBangumi[] = [];
+      const tranform = (id: number) => {
+        const bgm = bangumiDB.getById(id);
+        if (bgm) {
+          const res = transform(
+            bgm.bangumi,
+            {
+              data: bangumiDB.getItem(bgm),
+              tmdb: getTMDB(bgm)
+            },
+            { omit: ['tmdb.overview'] }
+          );
+          return res;
+        }
+        return undefined;
+      };
+      for (let i = 0; i < content.calendar.length; i++) {
+        for (const item of content.calendar[i]) {
+          const res = tranform(item.id);
+          if (res) {
+            bangumis[i].push(res);
+          }
+        }
+      }
+      for (const item of content.web) {
+        const res = tranform(item.id);
+        if (res) {
+          web.push(res);
+        }
+      }
+
+      await fs.writeFile(output, JSON.stringify({ calendar: bangumis, web }), 'utf-8');
+
+      return true;
+    } catch {
+      return false;
+    }
+  }
+
+  async function buildBangumiCalendar(output: string) {
     const client = new BgmClient(fetch);
     const calendar = await client.calendar();
 
