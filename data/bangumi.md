@@ -1,11 +1,8 @@
 # Bangumi
 ## Fetch new bangumi
-- fetch おはよう!スパンク (id: 210388)
-- fetch ハイスクール!奇面組 (id: 53738)
-- fetch アンドロイド・アナ MAICO 2010 (id: 86435)
-- fetch グラップラー刃牙 (id: 62893)
-- fetch Occultic;Nine -オカルティック・ナイン- (id: 203861)
-- fetch 機動戦士ガンダム 鉄血のオルフェンズ 月鋼 (id: 192656)
-- fetch ドラえもん (id: 18692)
+- fetch まぁるい彼女と残念な彼氏 続編 (id: 505080)
+- fetch 猫猫のひとりごと 第2期 (id: 533096)
+- fetch 向火而生 (id: 405303)
+- fetch 猫猫のひとりごと (id: 461203)
 ## Error
 - 
