@@ -96,9 +96,9 @@ jobs:
           echo '# Bangumi' > $output
 
           # Output Info
-          echo '## Fetch new bangumi' >> $output
           info_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-info.log" "bangumi-info.log" || true)
           if [ -n "$info_diff" ]; then
+            echo '## Fetch new bangumi' >> $output
             echo "$info_diff" | while IFS= read -r line; do
               line="${line/Info: /}"
               echo "- ${line}" >> $output
@@ -106,12 +106,14 @@ jobs:
           fi
 
           # Output Error
-          echo '## Error' >> $output
           error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/bangumi-error.log" "bangumi-error.log" || true)
-          echo "$error_diff" | while IFS= read -r line; do
-            line="${line/Error: /}"
-            echo "- ${line}" >> $output
-          done
+          if [ -n "$error_diff" ]; then
+            echo '## Error' >> $output
+            echo "$error_diff" | while IFS= read -r line; do
+              line="${line/Error: /}"
+              echo "- ${line}" >> $output
+            done
+          fi
 
           # Update
           grep "^Info:"  run.log > data/bangumi-info.log  || true
@@ -176,16 +178,18 @@ jobs:
           echo '# yuc' > $output
 
           # Output info
-          echo '## Fetch yuc.wiki' >> $output
-          cat yuc-info.log | while IFS= read -r line; do
-            line="${line/Info: /}"
-            echo "- ${line}" >> $output
-          done
+          if [ -n "$(cat yuc-info.log)" ]
+            echo '## Fetch yuc.wiki' >> $output
+            cat yuc-info.log | while IFS= read -r line; do
+              line="${line/Info: /}"
+              echo "- ${line}" >> $output
+            done
+          fi
 
           # Output Error
-          echo '## Error' >> $output
           error_diff=$(diff --new-line-format="%L" --old-line-format="" --unchanged-line-format="" "data/yuc-error.log" "yuc-error.log" || true)
-          if [ -z "$error_diff" ]; then
+          if [ -n "$error_diff" ]; then
+            echo '## Error' >> $output
             echo "$error_diff" | while IFS= read -r line; do
               line="${line/Error: /}"
               echo "- ${line}" >> $output
