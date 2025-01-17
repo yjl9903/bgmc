@@ -9,3 +9,5 @@ export const calendar: [
   FullBangumi[],
   FullBangumi[]
 ];
+
+export const web: FullBangumi[];
