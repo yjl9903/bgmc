@@ -1,8 +1,14 @@
 # Bangumi
 ## Fetch new bangumi
-- fetch まぁるい彼女と残念な彼氏 続編 (id: 505080)
-- fetch 猫猫のひとりごと 第2期 (id: 533096)
-- fetch 向火而生 (id: 405303)
-- fetch 猫猫のひとりごと (id: 461203)
-## Error
-- 
+- fetch 金刚特龙战队 (id: 452822)
+- fetch 星辰变 第六季 (id: 448535)
+- fetch Harley Quinn Season 5 (id: 465871)
+- fetch 星辰变 第五季 (id: 379023)
+- fetch Harley Quinn Season 4 (id: 441141)
+- fetch 星辰变 第四季 (id: 345808)
+- fetch Harley Quinn Season 3 (id: 389821)
+- fetch 星辰变 第三季 (id: 307982)
+- fetch Harley Quinn Season 2 (id: 303507)
+- fetch 星辰变 第二季 (id: 270749)
+- fetch Harley Quinn Season 1 (id: 295939)
+- fetch 星辰变 (id: 223148)
