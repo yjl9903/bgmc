@@ -178,7 +178,7 @@ jobs:
           echo '# yuc' > $output
 
           # Output info
-          if [ -n "$(cat yuc-info.log)" ]
+          if [ -n "$(cat yuc-info.log)" ]; then
             echo '## Fetch yuc.wiki' >> $output
             cat yuc-info.log | while IFS= read -r line; do
               line="${line/Info: /}"
