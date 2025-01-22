@@ -24,7 +24,7 @@ importers:
         version: 0.3.161
       bumpp:
         specifier: latest
-        version: 9.10.1
+        version: 9.10.2
       prettier:
         specifier: ^3.4.2
         version: 3.4.2
@@ -142,8 +142,8 @@ importers:
         specifier: workspace:*
         version: link:../tmdbc
       undici:
-        specifier: ^7.2.3
-        version: 7.2.3
+        specifier: ^7.3.0
+        version: 7.3.0
     devDependencies:
       '@types/jsdom':
         specifier: ^21.1.7
@@ -1064,8 +1064,8 @@ packages:
   buffer@6.0.3:
     resolution: {integrity: sha512-FTiCpNxtwiZZHEZbcbTIcZjERVICn9yq/pDFkTl95/AxzD1naBctN7YO68riM/gLSDY7sdrMby8hofADYuuqOA==}
 
-  bumpp@9.10.1:
-    resolution: {integrity: sha512-KG7oQmv6cz7QQwOvM3x/yPcF8+VBEtuLEEecmohNyb4+bLbtSVpJp8brjzcZYQN7UOyR4i0qIIYThnsBgP8uCA==}
+  bumpp@9.10.2:
+    resolution: {integrity: sha512-QX1JdswFLLVgrA+I/t+926/jsuJ92BTKKxGvMYC6fg+1lFpCl9RbILQJg0thc5UirIjQ6/jY1Sj+b4tz3evA5g==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -3150,8 +3150,8 @@ packages:
   undici-types@6.20.0:
     resolution: {integrity: sha512-Ny6QZ2Nju20vw1SRHe3d9jVu6gJ+4e3+MMpqu7pqE5HT6WsTSlce++GQmK5UXS8mzV8DSYHrQH+Xrf2jVcuKNg==}
 
-  undici@7.2.3:
-    resolution: {integrity: sha512-2oSLHaDalSt2/O/wHA9M+/ZPAOcU2yrSP/cdBYJ+YxZskiPYDSqHbysLSlD7gq3JMqOoJI5O31RVU3BxX/MnAA==}
+  undici@7.3.0:
+    resolution: {integrity: sha512-Qy96NND4Dou5jKoSJ2gm8ax8AJM/Ey9o9mz7KN1bb9GP+G0l20Zw8afxTnY2f4b7hmhn/z8aC2kfArVQlAhFBw==}
     engines: {node: '>=20.18.1'}
 
   unique-string@3.0.0:
@@ -4172,7 +4172,7 @@ snapshots:
       base64-js: 1.5.1
       ieee754: 1.2.1
 
-  bumpp@9.10.1:
+  bumpp@9.10.2:
     dependencies:
       c12: 2.0.1
       cac: 6.7.14
@@ -6434,7 +6434,7 @@ snapshots:
 
   undici-types@6.20.0: {}
 
-  undici@7.2.3: {}
+  undici@7.3.0: {}
 
   unique-string@3.0.0:
     dependencies:
