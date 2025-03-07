@@ -4,11 +4,6 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
-patchedDependencies:
-  release-it@16.2.1:
-    hash: 2e2aea092db4fff1b2e8ff1321b805586ce32e43d7ba087e7775e392021c69e2
-    path: patches/release-it@16.2.1.patch
-
 importers:
 
   .:
@@ -30,7 +25,7 @@ importers:
         version: 3.5.3
       release-it:
         specifier: ^16.2.1
-        version: 16.2.1(patch_hash=2e2aea092db4fff1b2e8ff1321b805586ce32e43d7ba087e7775e392021c69e2)(typescript@5.8.2)
+        version: 16.2.1(typescript@5.8.2)
       rimraf:
         specifier: ^6.0.1
         version: 6.0.1
@@ -5920,7 +5915,7 @@ snapshots:
     dependencies:
       rc: 1.2.8
 
-  release-it@16.2.1(patch_hash=2e2aea092db4fff1b2e8ff1321b805586ce32e43d7ba087e7775e392021c69e2)(typescript@5.8.2):
+  release-it@16.2.1(typescript@5.8.2):
     dependencies:
       '@iarna/toml': 2.2.5
       '@octokit/rest': 19.0.13
