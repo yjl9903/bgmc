@@ -1,59 +1,65 @@
 # yuc
 ## Fetch yuc.wiki
-- infer BanG Dream! Ave Mujica ->  (id: 454684)
-- infer Momentary Lily -> 刹那之花 (id: 491915)
-- infer 全修。 -> 全修。 (id: 486039)
-- infer 一杆青空 TV版 -> 一杆青空 (id: 479788)
-- infer 魔神创造传 -> 魔神创造传 (id: 474999)
-- infer 想星的大天使 Myth of Emotions -> 想星的大天使 Myth of Emotions (id: 425355)
-- infer UniteUp! 偶像集结 第2期 -> 众星齐聚 -Uni:Birth- (id: 447954)
-- infer 卡片战斗先导者 DivineZ第3期 DELUXE篇 -> 卡片战斗先导者 Divinez Deluxe篇 (id: 440880)
-- infer 魔法使光之美少女2 MIRAI DAYS -> 魔法使光之美少女！！～MIRAI DAYS～ (id: 424454)
-- infer 你与偶像 光之美少女 ->  (id: 526104)
-- infer 石纪元 第4期 Part.1 -> 石纪元 科学与未来 (id: 471578)
-- infer 动物狂想曲 最终章 Part.1 -> 动物狂想曲 最终季 第一部分 (id: 341139)
-- infer 我独自升级 第2期 -> 我独自升级 第二季 -起于暗影- (id: 487630)
-- infer 筋肉人 完美超人始祖篇 第2期 -> 金肉人 完美超人始祖篇 第二季 (id: 514744)
-- infer 地缚少年花子君 第2期 -> 地缚少年花子君2 (id: 464593)
-- infer 超超超超喜欢你的100个女孩子 第2期 -> 超超超超超喜欢你的100个女朋友 第二季 (id: 471793)
-- infer 决斗大师LOST 月下死神 -> 决斗大师 LOST ～月下的死神～ (id: 506773)
-- infer 坂本日常 -> 坂本日常 (id: 496617)
-- infer 群花绽放彷如修罗 -> 群花绽放，彷如修罗 (id: 498934)
-- infer 蜂蜜柠檬苏打 -> 蜂蜜柠檬碳酸水 (id: 482719)
-- infer 终究、与你相恋 -> 终究、与你相恋。 (id: 482301)
-- infer 我的可爱对黑岩目高不管用 -> 我的可爱对黑岩目高不管用 (id: 494267)
-- infer 这公司有我喜欢的人 -> 这公司有我喜欢的人 (id: 504710)
-- infer 金牌得主 (舞冰的祈愿) -> 金牌得主 (id: 430699)
-- infer 喜欢的冲绳妹说方言 -> 在冲绳喜欢上的女孩方言讲得太过令人困扰 (id: 443930)
-- infer 不知为何我和neet且宅的女忍者开始了同居生活 -> 我家有个阿宅女忍者 (id: 479922)
-- infer 嘻嘻嘻嘻吸血鬼 -> 嘻嘻嘻嘻吸血鬼 (id: 482708)
-- infer 魔域英雄传说 -> 魔域英雄传说 (id: 481649)
-- infer 上班族去了异世界后成了四天王 -> 上班族去了异世界后成了四天王 (id: 504591)
-- infer 战队红战士在异世界当冒险者 -> 战队红战士在异世界当冒险者 (id: 507581)
-- infer 大叔转生恶役大小姐 -> 中年上班族转生恶役 (id: 473497)
-- infer Re:从零开始的异世界生活 第3期 Part.2 反击篇 -> Re：从零开始的异世界生活 第三季 反击篇 (id: 510728)
-- infer 无名记忆 第2期 -> 无名记忆 第二季 (id: 501205)
-- infer 异修罗 第2期 -> 异修罗 第二季 (id: 485782)
-- infer 我的幸福婚姻 第2期 -> 我的幸福婚姻 第二季 (id: 455626)
-- infer 药屋少女的呢喃 第2期 -> 药屋少女的呢喃 第二季 (id: 486347)
-- infer 想逃离王妃教育的我 -> 想摆脱公主教育的我 (id: 463205)
-- infer 天久鹰央的推理病历表 -> 天久鹰央的推理病历表 (id: 488177)
-- infer 和班上最讨厌的女生结婚了 -> 我和班上最讨厌的女生结婚了。 (id: 501023)
-- infer 欢迎来到日本 妖精小姐 -> 欢迎来到日本，精灵小姐。 (id: 472661)
-- infer 不想加班的公会柜台小姐决定单挑地城BOSS -> 虽然是公会的前台小姐，因为讨厌加班，所以打算自己讨伐boss (id: 445827)
-- infer S级怪兽贝希摩斯被误认成小猫成为精灵女孩的骑士(宠物)一起生活 -> S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活 (id: 485469)
-- infer 脱离A级队伍的我和从前的徒弟们前往迷宫深处 -> 脱离了A级队伍的我，和从前的徒弟们前往迷宫深处。 (id: 511126)
-- infer 中年男的异世界网购生活 -> 中年男的异世界网购生活 (id: 508588)
-- infer 不幸职业鉴定士实则最强 -> 不幸职业【鉴定士】实则最强 (id: 500840)
-- infer 注定没落的贵族闲来无事只好深究魔法 -> 虽然我是注定没落的贵族，闲来无事只好来深究魔法 (id: 484952)
-- infer 魔法制造者 异世界魔法的创造方法 -> 魔法制造者 ～异世界魔法的制作方法～ (id: 503268)
-- infer 终将成为最强炼金术师 -> 迟早是最强的炼金术师？ (id: 493758)
-- infer 超弱技能<果实大师>能无限吃下(吃了会死的)技能果实这档事 -> 最弱技能《果实大师》 ～关于能无限食用技能果实（吃了就会死）这件事～ (id: 497909)
-- infer 灰色：幻影扳机 -> 灰色：幻影扳机 (id: 371829)
-- infer 黄昏旅店 -> 黄昏旅店 (id: 501033)
-- infer 魔农传记 -> 魔农传记 (id: 500356)
-- infer 魔法使的约定 -> 魔法使的约定 (id: 465094)
-- infer 暗芝居 第14期 -> 暗芝居 第十四季 (id: 526223)
-- infer 青之驱魔师第4期 -> 青之驱魔师 终夜篇 (id: 531834)
+- infer 秘密的偶像公主 RING篇 -> 秘密的偶像公主 RING篇 (id: 524365)
+- infer 黑执事 第5期 绿魔女篇 -> 黑执事 -绿之魔女篇- (id: 502875)
+- infer 搞笑漫画日和 第5期 -> 搞笑漫画日和GO (id: 526567)
+- infer 炎炎消防队 第3期 Part.1 -> 炎炎消防队 三之章 (id: 382126)
+- infer 战队大失格 第2期 -> 战队大失格 第二季 (id: 501919)
+- infer 防风铃 / 防风少年 第2期 -> 防风少年 第二季 (id: 501626)
+- infer 测不准的阿波连同学 第2期 -> 测不准的阿波连同学 第二季 (id: 506922)
+- infer 小市民系列 第2期 -> 小市民系列 第二季 (id: 513018)
+- infer 再见 地球 第2期 -> 再见，地球 第二季 (id: 512817)
 ## Error
-- 
+- can not find 机动战士高达GQuuuuuuX or 機動戦士Gundam GQuuuuuuX
+- can not find LAZARUS or LAZARUS ラザロ
+- can not find 启示录酒店 or アポカリプスホテル
+- can not find 月出之战 or MOONRISE
+- can not find MIRU 我们的未来 or 未ル わたしのみらい
+- can not find 时光流逝 饭菜依旧美味 or 日々は過ぎれど飯うまし
+- can not find 古典之星 or CLASSIC★STARS
+- can not find 公主专场管弦乐 or Princess Session Orchestra
+- can not find 前桥魔女 or 前橋ウィッチーズ
+- can not find 新 全力兔子 第2期 or 全力ウサギ シーズン2
+- can not find 赛马娘 芦毛灰姑娘 Part.1 or ウマ娘 シンデレラグレイ
+- can not find 新 剑勇传说 or 真•侍伝 YAIBA
+- can not find 三岁开始做王者 or 最強の王様、二度目の人生は何をする？
+- can not find 魔女与使魔 or ウィッチウォッチ
+- can not find 外星人沐沐 or 宇宙人ムームー
+- can not find 忍者与杀手二人组的日常生活 or 忍者と殺し屋のふたりぐらし
+- can not find mono女孩 or mono
+- can not find 杂旅 or ざつ旅-That's Journey-
+- can not find 阳光马达棒球场 or ボールパークでつかまえて！
+- can not find 摇滚乐是淑女的嗜好 or ロックは淑女の嗜みでして
+- can not find 紫云寺家的孩子们 or 紫雲寺家の子供たち
+- can not find 拜托请穿上 鹰峰同学 or 履いてください、鷹峰さん
+- can not find 快藏起来 玛琪娜同学 or かくして！ マキナさん!!
+- can not find 爱有些沉重的黑暗精灵从异世界追过来了 or ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた
+- can not find 九龙大众浪漫 or 九龍ジェネリックロマンス
+- can not find 中禅寺老师的灵怪讲义实录 or 中禅寺先生物怪講義録 先生が謎を解いてしまうから。
+- can not find 每日男公关 or EverydayHost
+- can not find 欢迎来到魔法少女村(非法占据中) or おいでよ 魔法少女村（不法占拠）
+- can not find 想征服世界的小怪兽 or かいじゅうせかいせいふく
+- can not find 你与我最后的战场亦或是世界起始的圣战 第2期 or キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season II
+- can not find 打了300年的史莱姆不知不觉就练到了满级 第2期 or スライム倒して300年、知らないうちにレベルMAXになってました 〜そのに(2)〜
+- can not find 新 红发少女安妮 or アン・シャーリー
+- can not find 男女之间存在友情吗(不存在) or 男女の友情は成立する？（いや、しないっ!!）
+- can not find 推理要在晚餐后 or 謎解きはディナーのあとで
+- can not find 记忆缝线 YourForma or ユア・フォルマ
+- can not find 直到某魔女死去 or ある魔女が死ぬまで
+- can not find 鬼人幻灯抄 or 鬼人幻燈抄
+- can not find 神统记 or 神統記
+- can not find 乡下大叔成为剑圣 or 片田舎のおっさん、剣聖になる
+- can not find 我是星际国家的恶德领主 or 俺は星間国家の悪徳領主！
+- can not find 被放逐的天才治愈师转为地下医生的快乐生活 or 一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる
+- can not find 使人误解的工房主 or (干杂活我乃最强)
+- can not find 受到猩猩之神庇护的大小姐在皇家骑士团受到宠爱 or ゴリラの神から加護された令嬢は王立騎士団で可愛がられる
+- can not find 圣女因太过完美不够可爱而被废除婚约并卖到邻国 or 完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる
+- can not find 夏日口袋 or Summer Pockets
+- can not find 罪恶装备 奋战：两位裁决者 or GULTY GEAR STRIVE: DUAL RULERS
+- can not find 华Doll* or 華Doll* -Reinterpretation of Flowering-
+- can not find 新 小浣熊 or あらいぐま カルカル団
+- can not find 正能量企鹅 or コウペンちゃん
+- can not find 呜莓猫猫 or ンめねこ
+- can not find 涩谷♥八公 第3期 or SHIBUYA♡HACHI 第3クール
+- can not find TWINS HINAHIMA or ツインズひなひま
+- can not find 正义使者 我的英雄学院之非法英雄 or ヴィジランテ -僕のヒーローアカデミア ILLEGALS-
