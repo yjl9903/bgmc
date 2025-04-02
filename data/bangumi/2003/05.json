@@ -942,5 +942,101 @@
         }
       ]
     }
+  },
+  {
+    "title": ".hack//ZERO",
+    "date": "2003-05-01",
+    "bangumi": {
+      "date": "2003-05-01",
+      "platform": "小说",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/31/28792_Cxcfg.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/31/28792_Cxcfg.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/64/31/28792_Cxcfg.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/31/28792_Cxcfg.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/31/28792_Cxcfg.jpg"
+      },
+      "summary": "主人公・カールは元々は普通にThe Worldを楽しむ一般的なプレイヤーだったが、悪質なプレイヤーの被害に遭ったことを切っ掛けにして様々な出来事を鬱積し、次第にこの世界に絶望感を抱いていく。それ以来は憎悪をもってThe Worldにログインし、次第に自らも悪意の下にPK（プレイヤーキル）を行ったり、不正行為であるチートなどにまで手を出し始めた。そんなすっかり荒みきった中で不思議なPC・楚良と出会い、彼に徐々に心惹かれてゆくようになる。 やがてアウラとの出会いを経て、カールはThe Worldの異常の中心に引き込まれていく。",
+      "name": ".hack//ZERO",
+      "name_cn": "",
+      "tags": [
+        ".hack"
+      ],
+      "infobox": [
+        {
+          "key": "作者",
+          "value": "横手美智子"
+        },
+        {
+          "key": "出版社",
+          "value": "角川書店"
+        },
+        {
+          "key": "发售日",
+          "value": "2003-05-01"
+        },
+        {
+          "key": "册数",
+          "value": "预定全2卷"
+        },
+        {
+          "key": "书系",
+          "value": "角川スニーカー文庫"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 28792,
+      "eps": 0,
+      "meta_tags": [],
+      "volumes": 0,
+      "series": true,
+      "locked": false,
+      "nsfw": false,
+      "type": 1,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/96/1997_5E56N.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/96/1997_5E56N.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/96/1997_5E56N.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/96/1997_5E56N.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/96/1997_5E56N.jpg"
+          },
+          "name": ".hack//SIGN",
+          "name_cn": ".hack//时空",
+          "relation": "动画",
+          "type": 2,
+          "id": 1997
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/4a/15787_v8Us4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/4a/15787_v8Us4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6b/4a/15787_v8Us4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/4a/15787_v8Us4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/4a/15787_v8Us4.jpg"
+          },
+          "name": ".hack//感染拡大 Vol.1",
+          "name_cn": ".hack//感染扩大",
+          "relation": "游戏",
+          "type": 4,
+          "id": 15787
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/c5/28791_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/c5/28791_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/c5/28791_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/c5/28791_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/c5/28791_jp.jpg"
+          },
+          "name": ".hack//ZERO〈Vol.1〉ファントム・ペイン",
+          "name_cn": "",
+          "relation": "单行本",
+          "type": 1,
+          "id": 28791
+        }
+      ]
+    }
   }
 ]
