@@ -271,6 +271,7 @@ function createBangumiMatcher(
   const latest = [...db.values()].filter(
     (bgm) => bgm.date.startsWith(d1) || bgm.date.startsWith(d2) || bgm.date.startsWith(d3)
   );
+
   return (names: string[]) => {
     const set = new Set(names.map((t) => rewriter.rename(t)).map(normalizeTitle));
     // Match trimmed season
