@@ -9101,5 +9101,84 @@
         }
       ]
     }
+  },
+  {
+    "title": "しまじろう ヘソカ",
+    "date": "2010-04-05",
+    "bangumi": {
+      "date": "2010-04-05",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/ed/212152_tKi82.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/ed/212152_tKi82.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/e6/ed/212152_tKi82.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/ed/212152_tKi82.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/ed/212152_tKi82.jpg"
+      },
+      "summary": "2010年4月5日から『しまじろう ヘソカ』を開始。内容はほぼ『はっけん たいけん〜』と同じである。番組名の「ヘソカ」とは発見における感嘆の言葉となる「へぇ〜そっか（へえ、そうか）!」を略語にした番組独自の造語である。同時にアナログ放送に関してはレターボックス放送に変更された。",
+      "name": "しまじろう ヘソカ",
+      "name_cn": "巧虎 HE SO KA",
+      "tags": [],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "巧虎 HE SO KA"
+        },
+        {
+          "key": "话数",
+          "value": "101"
+        },
+        {
+          "key": "放送开始",
+          "value": "2010年4月5日"
+        },
+        {
+          "key": "播放结束",
+          "value": "2012年3月26日"
+        }
+      ],
+      "total_episodes": 52,
+      "id": 212152,
+      "eps": 101,
+      "meta_tags": [
+        "TV",
+        "日本"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d9/3d/212150_9QczO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d9/3d/212150_9QczO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d9/3d/212150_9QczO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d9/3d/212150_9QczO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d9/3d/212150_9QczO.jpg"
+          },
+          "name": "はっけん たいけん だいすき! しまじろう",
+          "name_cn": "发现、体验、最喜欢！巧虎",
+          "relation": "前传",
+          "type": 2,
+          "id": 212150
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/d0/212153_ah58m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/d0/212153_ah58m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6d/d0/212153_ah58m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/d0/212153_ah58m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/d0/212153_ah58m.jpg"
+          },
+          "name": "しまじろうのわお!",
+          "name_cn": "巧虎 WAO！",
+          "relation": "续集",
+          "type": 2,
+          "id": 212153
+        }
+      ]
+    }
   }
 ]
