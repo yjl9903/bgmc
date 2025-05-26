@@ -1,3 +1,5 @@
+import { version } from '../package.json';
+
 import type {
   Query,
   BGMCollection,
@@ -30,10 +32,18 @@ export type Search = BGMSearch.Search;
 
 export type CollectionInformation = BGMCollection.Information;
 
-export class BgmClient {
-  static baseURL = 'https://api.bgm.tv';
+export interface BgmClientInit {
+  baseURL?: string;
 
-  static userAgent = 'bgmc (https://www.npmjs.com/package/bgmc)';
+  userAgent?: string;
+
+  maxRetry?: number;
+}
+
+export class BgmClient {
+  public baseURL;
+
+  public userAgent;
 
   private readonly maxRetry;
 
@@ -41,9 +51,11 @@ export class BgmClient {
 
   constructor(
     fetch: (request: RequestInfo, init?: RequestInit) => Promise<Response>,
-    { maxRetry = 5 }: { maxRetry?: number } = {}
+    { baseURL, userAgent, maxRetry = 5 }: BgmClientInit = {}
   ) {
     this.fetch = fetch;
+    this.baseURL = baseURL || 'https://api.bgm.tv';
+    this.userAgent = userAgent || `bgmc/${version} (https://www.npmjs.com/package/bgmc)`;
     this.maxRetry = maxRetry <= 0 ? Number.MAX_SAFE_INTEGER : maxRetry;
   }
 
@@ -88,7 +100,7 @@ export class BgmClient {
   }
 
   public async request<T>(pathname: string, query: Record<string, any> = {}): Promise<T> {
-    const url = new URL(pathname, BgmClient.baseURL);
+    const url = new URL(pathname, this.baseURL);
     for (const [key, value] of Object.entries(query)) {
       if (value !== null && value !== undefined) {
         url.searchParams.set(key, String(value));
@@ -98,7 +110,7 @@ export class BgmClient {
     for (let i = 0; i < maxRetry; i++) {
       try {
         const resp = await this.fetch(url.toString(), {
-          headers: { 'User-Agent': BgmClient.userAgent }
+          headers: { 'User-Agent': this.userAgent }
         });
         if (!resp.ok || resp.status !== 200) {
           throw new BgmFetchError(resp);
