@@ -15,6 +15,8 @@ export namespace BGMSubjectParams {
   };
   /* ============ E - Search ============ */
 
+  export type Subjects = paths['/v0/subjects']['get']['parameters'];
+
   export type Information = paths['/v0/subjects/{subject_id}']['get']['parameters'];
 
   export type Image = paths['/v0/characters/{character_id}/image']['get']['parameters'];
@@ -23,7 +25,7 @@ export namespace BGMSubjectParams {
 
   export type Characters = paths['/v0/subjects/{subject_id}/characters']['get']['parameters'];
 
-  export type Subjects = paths['/v0/subjects/{subject_id}/subjects']['get']['parameters'];
+  export type RelatedSubjects = paths['/v0/subjects/{subject_id}/subjects']['get']['parameters'];
 }
 
 /** 章节 */

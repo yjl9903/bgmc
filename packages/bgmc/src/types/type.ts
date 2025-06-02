@@ -5,6 +5,9 @@ export namespace BGMSubject {
   export type Calendar =
     paths['/calendar']['get']['responses']['200']['content']['application/json'];
 
+  export type GetSubjects =
+    paths['/v0/subjects']['get']['responses']['200']['content']['application/json'];
+
   /** 实验性 API， 随时可能发生改动 */
   export type Search =
     paths['/v0/search/subjects']['post']['responses']['200']['content']['application/json'];
@@ -18,7 +21,7 @@ export namespace BGMSubject {
   export type Characters =
     paths['/v0/subjects/{subject_id}/characters']['get']['responses']['200']['content']['application/json'];
 
-  export type Subjects =
+  export type RelatedSubjects =
     paths['/v0/subjects/{subject_id}/subjects']['get']['responses']['200']['content']['application/json'];
 }
 
