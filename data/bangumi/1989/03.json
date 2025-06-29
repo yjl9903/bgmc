@@ -1942,5 +1942,89 @@
       "type": 2,
       "relations": []
     }
+  },
+  {
+    "title": "劇場版 ひみつのアッコちゃん",
+    "date": "1989-03-18",
+    "bangumi": {
+      "date": "1989-03-18",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/d9/499293_HyEeb.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/d9/499293_HyEeb.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ea/d9/499293_HyEeb.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/d9/499293_HyEeb.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/d9/499293_HyEeb.jpg"
+      },
+      "summary": "9年振りの魔女っ子劇場作にして、初の劇場用新作。内容は、アッコたちが遊ぶ広場にビルを建てようとするのを阻止しようとする、下町舞台の話では良くある話だが、そのビル建設発起人が大将の父親というのが異色。作品ではアッコは、メス猫・巫女・バトントワラー、そして大将の父の初恋の少女の、計4キャラに変身する。",
+      "name": "劇場版 ひみつのアッコちゃん",
+      "name_cn": "剧场版 甜蜜小天使",
+      "tags": [],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "剧场版 甜蜜小天使"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Himitsu no Akko-chan (Movie)"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "1989年3月18日"
+        },
+        {
+          "key": "片长",
+          "value": "25分"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "赤塚不二夫"
+        },
+        {
+          "key": "导演",
+          "value": "芝田浩樹"
+        },
+        {
+          "key": "人物设定",
+          "value": "兼森義則"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 499293,
+      "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/7b/89256_49wxC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/7b/89256_49wxC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/7b/89256_49wxC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/7b/89256_49wxC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/7b/89256_49wxC.jpg"
+          },
+          "name": "ひみつのアッコちゃん（第2作）",
+          "name_cn": "甜蜜小天使",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 89256
+        }
+      ]
+    }
   }
 ]
