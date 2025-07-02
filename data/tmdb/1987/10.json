@@ -1,5 +1,34 @@
 [
   {
+    "title": "レモンエンジェル",
+    "date": "1987-10-01",
+    "bangumi": {
+      "id": "67771"
+    },
+    "tmdb": {
+      "id": 68928,
+      "type": "tv",
+      "search": {
+        "adult": false,
+        "backdrop_path": "/9AIgvFOxJ7YWmks2WsumUc8mHsE.jpg",
+        "genre_ids": [
+          16,
+          35
+        ],
+        "id": 68928,
+        "origin_country": [
+          "JP"
+        ],
+        "original_language": "ja",
+        "original_name": "レモンエンジェル",
+        "overview": "‎一个偶像三人组被扔进了各种奇怪的境地。‎偶像团体“柠檬天使”中的成员岛绘里香、绘本美希、樱井智三人分别担任动画中同名角色的声优，在每周轮换登场。",
+        "poster_path": "/t0PKnYdEL7PFGYxIs33frCqUOrg.jpg",
+        "first_air_date": "1987-10-02",
+        "name": "奶油柠檬：柠檬天使"
+      }
+    }
+  },
+  {
     "title": "ミスター味っ子",
     "date": "1987-10-08",
     "bangumi": {
@@ -81,36 +110,6 @@
         "poster_path": "/4rJqUC4NWSOMk53GY03yNMyYIFb.jpg",
         "first_air_date": "1987-10-11",
         "name": "仙魔大战"
-      }
-    }
-  },
-  {
-    "title": "Ultraman: The Adventure Begins",
-    "date": "1987-10-12",
-    "bangumi": {
-      "id": "273886"
-    },
-    "tmdb": {
-      "id": 135305,
-      "type": "movie",
-      "search": {
-        "backdrop_path": "/u3g5zYjHn3MKhFlfYC17DsiMnyR.jpg",
-        "id": 135305,
-        "title": "奥特曼USA",
-        "original_title": "Ultraman: The Adventure Begins",
-        "overview": "奥特曼USA是由美国的汉纳巴伯拉动画与日本的圆谷制作共同制作的全长78分钟的动画作品。",
-        "poster_path": "/lnRj1vdjxSoMtTonFtASoebM5hX.jpg",
-        "media_type": "movie",
-        "adult": false,
-        "original_language": "en",
-        "genre_ids": [
-          28,
-          12,
-          16,
-          878
-        ],
-        "release_date": "1987-10-12",
-        "video": false
       }
     }
   },
