@@ -17,7 +17,9 @@
       "name_cn": "怪盗小双侠",
       "tags": [
         "2000",
-        "TV"
+        "TV",
+        "植田秀仁",
+        "笹川ひろし"
       ],
       "infobox": [
         {
@@ -165,6 +167,7 @@
         "奇幻",
         "战斗",
         "打牌",
+        "日本",
         "杉岛邦久",
         "游☆戏☆王",
         "游戏王",
@@ -210,6 +213,10 @@
           "value": "星期二"
         },
         {
+          "key": "官方网站",
+          "value": "https://www.tv-tokyo.co.jp/anime/yugioh2000/"
+        },
+        {
           "key": "播放电视台",
           "value": "テレビ東京系"
         },
@@ -238,17 +245,24 @@
           "value": "ぎゃろっぷ"
         },
         {
-          "key": "制作",
+          "key": "製作",
           "value": "テレビ東京、NAS"
+        },
+        {
+          "key": "系列构成",
+          "value": "武上純希 [第1話～第121話] 、前川淳 [第122話～第144話] 、吉田伸 [第145話～第184話・第199話～第224話] 、面出明美 [第185話～第198話]"
         }
       ],
       "total_episodes": 224,
       "id": 6390,
       "eps": 224,
       "meta_tags": [
+        "科幻",
         "TV",
         "日本",
-        "漫画改"
+        "奇幻",
+        "漫画改",
+        "少年向"
       ],
       "volumes": 0,
       "series": false,
@@ -258,17 +272,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/ba/83359_y23y3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/ba/83359_y23y3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ed/ba/83359_y23y3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/ba/83359_y23y3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/ba/83359_y23y3.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ab/a1/3711_zVYL3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ab/a1/3711_zVYL3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ab/a1/3711_zVYL3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ab/a1/3711_zVYL3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ab/a1/3711_zVYL3.jpg"
           },
-          "name": "Yu-Gi-Oh! Power of Chaos: Joey the Passion",
-          "name_cn": "游戏王之混沌力量：城之内篇",
+          "name": "遊☆戯☆王デュエルモンスターズGX",
+          "name_cn": "游戏王－怪兽之决斗GX",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 3711
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/d4/464033_Qv21F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/d4/464033_Qv21F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/d4/464033_Qv21F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/d4/464033_Qv21F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/d4/464033_Qv21F.jpg"
+          },
+          "name": "遊☆戯☆王オフィシャルカードゲーム",
+          "name_cn": "游戏王 公式卡片游戏",
           "relation": "游戏",
           "type": 4,
-          "id": 83359
+          "id": 464033
         },
         {
           "images": {
@@ -283,20 +311,6 @@
           "relation": "其他",
           "type": 3,
           "id": 459182
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/00/362997_pf032.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/00/362997_pf032.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bd/00/362997_pf032.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/00/362997_pf032.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/00/362997_pf032.jpg"
-          },
-          "name": "遊☆戯☆王ゴーラッシュ!!",
-          "name_cn": "游戏王 Go Rush！！",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 362997
         },
         {
           "images": {
@@ -321,66 +335,24 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/59/343288_G0zZg.jpg"
           },
           "name": "遊戯王マスターデュエル",
-          "name_cn": "游戏王Master Duel",
+          "name_cn": "游戏王 大师决斗",
           "relation": "游戏",
           "type": 4,
           "id": 343288
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/98/286967_93sw2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/98/286967_93sw2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c6/98/286967_93sw2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/98/286967_93sw2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/98/286967_93sw2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/df/299064_0028R.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/df/299064_0028R.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/df/299064_0028R.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/df/299064_0028R.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/df/299064_0028R.jpg"
           },
-          "name": "遊☆戯☆王SEVENS",
-          "name_cn": "游戏王SEVENS",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 286967
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/78/202615_11QWz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/78/202615_11QWz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5f/78/202615_11QWz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/78/202615_11QWz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/78/202615_11QWz.jpg"
-          },
-          "name": "遊☆戯☆王VRAINS",
-          "name_cn": "游戏王VRAINS",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 202615
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/92/162833_6cUYm.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/92/162833_6cUYm.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f2/92/162833_6cUYm.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/92/162833_6cUYm.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/92/162833_6cUYm.jpg"
-          },
-          "name": "YGOPro",
-          "name_cn": "游戏王ygocore",
+          "name": "遊戯王デュエルモンスターズ レガシー・オブ・ザ・デュエリスト：リンク・エボリューション",
+          "name_cn": "游戏王 决斗者遗产-链接进化",
           "relation": "游戏",
           "type": 4,
-          "id": 162833
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/54/162428_Tk8Oj.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/54/162428_Tk8Oj.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c1/54/162428_Tk8Oj.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/54/162428_Tk8Oj.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/54/162428_Tk8Oj.jpg"
-          },
-          "name": "遊戯王 デュエルリンクス",
-          "name_cn": "游戏王：决斗链接",
-          "relation": "游戏",
-          "type": 4,
-          "id": 162428
+          "id": 299064
         },
         {
           "images": {
@@ -406,9 +378,23 @@
           },
           "name": "実況パワフルプロ野球",
           "name_cn": "实况野球Powerful Pro",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 130655
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/5a/116051_R3XOY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/5a/116051_R3XOY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/47/5a/116051_R3XOY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/5a/116051_R3XOY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/5a/116051_R3XOY.jpg"
+          },
+          "name": "遊☆戯☆王アーク・ファイブ TAG FORCE SPECIAL",
+          "name_cn": "游戏王ARC-V卡片力量SP",
+          "relation": "游戏",
+          "type": 4,
+          "id": 116051
         },
         {
           "images": {
@@ -419,24 +405,24 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/4b/106329_k0196.jpg"
           },
           "name": "遊☆戯☆王 THE DARK SIDE OF DIMENSIONS",
-          "name_cn": "游戏王 The Dark Side of Dimensions",
-          "relation": "续集",
+          "name_cn": "游戏王 次元之暗面",
+          "relation": "不同世界观",
           "type": 2,
           "id": 106329
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/cc/1609_g4R4R.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/cc/1609_g4R4R.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a2/cc/1609_g4R4R.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/cc/1609_g4R4R.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/cc/1609_g4R4R.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/8f/100865_Dn99K.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/8f/100865_Dn99K.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/8f/100865_Dn99K.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/8f/100865_Dn99K.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/8f/100865_Dn99K.jpg"
           },
-          "name": "遊☆戯☆王ファイブディーズ",
-          "name_cn": "游戏王5D's",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 1609
+          "name": "モンスターストライク",
+          "name_cn": "怪物弹珠",
+          "relation": "联动",
+          "type": 4,
+          "id": 100865
         },
         {
           "images": {
@@ -468,20 +454,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ab/a1/3711_zVYL3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ab/a1/3711_zVYL3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ab/a1/3711_zVYL3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ab/a1/3711_zVYL3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ab/a1/3711_zVYL3.jpg"
-          },
-          "name": "遊☆戯☆王デュエルモンスターズGX",
-          "name_cn": "游戏王－怪兽之决斗GX",
-          "relation": "相同世界观",
-          "type": 2,
-          "id": 3711
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/82/47116_OkOT2.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/82/47116_OkOT2.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/dd/82/47116_OkOT2.jpg",
@@ -493,6 +465,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 47116
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/09/12344_55aJS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/09/12344_55aJS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d1/09/12344_55aJS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/09/12344_55aJS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/09/12344_55aJS.jpg"
+          },
+          "name": "遊☆戯☆王",
+          "name_cn": "游戏王",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 12344
         },
         {
           "images": {
@@ -510,17 +496,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/09/12344_Kec1G.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/09/12344_Kec1G.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d1/09/12344_Kec1G.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/09/12344_Kec1G.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/09/12344_Kec1G.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/db/47114_YqjXY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/db/47114_YqjXY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f7/db/47114_YqjXY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/db/47114_YqjXY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/db/47114_YqjXY.jpg"
           },
-          "name": "遊☆戯☆王",
-          "name_cn": "游戏王",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 12344
+          "name": "遊☆戯☆王デュエルモンスターズ サウンドデュエル2",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 47114
         },
         {
           "images": {
@@ -574,7 +560,7 @@
           },
           "name": "遊☆戯☆王デュエルモンスターズALEX",
           "name_cn": "游戏王胶囊怪兽",
-          "relation": "衍生",
+          "relation": "番外篇",
           "type": 2,
           "id": 38954
         },
@@ -608,20 +594,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/db/47114_YqjXY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/db/47114_YqjXY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/db/47114_YqjXY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/db/47114_YqjXY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/db/47114_YqjXY.jpg"
-          },
-          "name": "遊☆戯☆王デュエルモンスターズ サウンドデュエル2",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 47114
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/de/e3/47113_6EPWd.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/de/e3/47113_6EPWd.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/de/e3/47113_6EPWd.jpg",
@@ -636,17 +608,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/be/51067_309bF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/be/51067_309bF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a3/be/51067_309bF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/be/51067_309bF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/be/51067_309bF.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/cc/1609_g4R4R.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/cc/1609_g4R4R.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a2/cc/1609_g4R4R.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/cc/1609_g4R4R.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/cc/1609_g4R4R.jpg"
           },
-          "name": "元気のシャワー",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 51067
+          "name": "遊☆戯☆王ファイブディーズ",
+          "name_cn": "游戏王5D's",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 1609
         },
         {
           "images": {
@@ -658,9 +630,23 @@
           },
           "name": "遊☆戯☆王ZEXAL",
           "name_cn": "游戏王ZEXAL",
-          "relation": "不同世界观",
+          "relation": "其他",
           "type": 2,
           "id": 10760
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/be/51067_309bF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/be/51067_309bF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a3/be/51067_309bF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/be/51067_309bF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/be/51067_309bF.jpg"
+          },
+          "name": "元気のシャワー",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 51067
         },
         {
           "images": {
@@ -714,7 +700,7 @@
           },
           "name": "遊☆戯☆王ZEXAL II",
           "name_cn": "游戏王ZEXAL II",
-          "relation": "不同世界观",
+          "relation": "其他",
           "type": 2,
           "id": 48670
         },
@@ -756,7 +742,7 @@
           },
           "name": "遊☆戯☆王ARC-V",
           "name_cn": "游戏王ARC-V",
-          "relation": "不同世界观",
+          "relation": "其他",
           "type": 2,
           "id": 92161
         },
@@ -776,6 +762,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/78/202615_11QWz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/78/202615_11QWz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5f/78/202615_11QWz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/78/202615_11QWz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/78/202615_11QWz.jpg"
+          },
+          "name": "遊☆戯☆王VRAINS",
+          "name_cn": "游戏王VRAINS",
+          "relation": "其他",
+          "type": 2,
+          "id": 202615
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/03/96952_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/03/96952_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/31/03/96952_jp.jpg",
@@ -787,6 +787,34 @@
           "relation": "片头曲",
           "type": 3,
           "id": 96952
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/98/286967_93sw2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/98/286967_93sw2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/98/286967_93sw2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/98/286967_93sw2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/98/286967_93sw2.jpg"
+          },
+          "name": "遊☆戯☆王SEVENS",
+          "name_cn": "游戏王 七星",
+          "relation": "其他",
+          "type": 2,
+          "id": 286967
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/00/362997_GMGCF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/00/362997_GMGCF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bd/00/362997_GMGCF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/00/362997_GMGCF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/00/362997_GMGCF.jpg"
+          },
+          "name": "遊☆戯☆王ゴーラッシュ!!",
+          "name_cn": "游戏王 Go Rush！！",
+          "relation": "其他",
+          "type": 2,
+          "id": 362997
         }
       ]
     }
@@ -798,11 +826,11 @@
       "date": "2000-04-08",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/c0/2060_eFEIZ.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/c0/2060_eFEIZ.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/f8/c0/2060_eFEIZ.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/c0/2060_eFEIZ.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/c0/2060_eFEIZ.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/c0/2060_hjj4n.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/c0/2060_hjj4n.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/f8/c0/2060_hjj4n.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/c0/2060_hjj4n.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/c0/2060_hjj4n.jpg"
       },
       "summary": "二十世纪初的日本太正时代，自明治维新以来的文明开化已进行了五十余年。随着西洋文化和日本传统文化的交汇融合，帝都·东京逐渐成为现代化建筑鳞次栉比，蒸汽铁道、地下铁道纵横交错，马车、人力车、蒸汽车川流不息的繁华都市。然而，这也是一座有着怪物和咒术等非现实存在的魔幻都市。\n　　为了对抗从地底出现的强大魔物“降魔”，陆军成立了由将校中的灵能者组成的特殊部队对降魔部队，成员即“二刀二剑”的4位继承者：米田一基，持有 “神刀灭却”；山崎真之介，持有“光刀无形”；藤枝菖蒲，持有“神剑白羽鸟”；真宫寺一马，持有“灵剑·荒鹰”。四人仅凭自己的血肉之躯和手中的神剑与魔物作战，史称“降魔战争”。激战的结果，陷入绝境的对降魔部队被迫使出最后的手段利用“魔神器”发动“破邪之血”。魔神器即日本上古时代流传下来的三种祭器：剑、珠、玉，可以成为魔力的增幅器。继承真宫寺家“破邪之血”的一马，以自己的生命为代价用魔神器将降魔们封印，而山崎真之介也在此战中失踪……\n　　太正十一年，以妖僧天海为首的邪恶组织“黑之巢会”蠢蠢欲动。仇视近代文明的天海为了复辟德川幕府的统治，率领手下的死天王葵叉丹、弥勒、修罗、罗刹，操纵着利用古代咒法生出的魔物魔操机兵在帝都展开了破坏活动。为了对抗这新的威胁、守护帝都和民众，在花小路伯爵的大力支持下，新的政府直属对降魔组织帝国华击团（简称“帝击”）花组成立了。在米田一基、藤枝菖蒲的领导下，花组集结了6名具备高灵力的少女：真宫寺一马的女儿、灵剑·荒鹰的继承者真宫寺樱；神崎财阀总帅忠义的孙女、精通神崎风尘流长刀术的神崎堇；俄国革命的勇士、曾有“食火鸟”之称的玛丽亚橘；自幼就因超常的灵力被与世隔绝、年仅10岁的法国贵族千金爱丽丝；在辛亥革命的战乱中失去亲人、精通机械的中国少女李红兰；以及桐岛流空手的正统传人、身高近2米的桐岛神奈。同时，基于山崎真之介留下的设计，由神崎重工完成了对降魔用灵子甲胄“光武”。以银座大帝国剧场为基地、平日以歌剧团面目出现来掩人耳目的花组，在魔物出现时就会变为守护帝都的战士，驾驶光武与敌人作战。\n　　太正十二年春，苦于战力及协作性不足的花组来了一位新队长海军少尉大神一郎，故事由此开始……",
       "name": "サクラ大戦",
@@ -811,10 +839,17 @@
         "2000",
         "2000年",
         "2000年4月",
+        "GAL改",
         "MADHouse",
         "TV",
+        "TVA",
         "中村隆太郎",
         "原作崩坏",
+        "奇幻",
+        "広井王子",
+        "战斗",
+        "日本",
+        "日本动画",
         "机动装甲",
         "机战",
         "横山智佐",
@@ -825,10 +860,12 @@
         "游戏改编",
         "田中公平",
         "真宫寺樱",
+        "科幻",
         "童年",
         "美好滴回忆",
         "美好滴回忆=",
-        "萝卜"
+        "萝卜",
+        "藤岛康介"
       ],
       "infobox": [
         {
@@ -848,12 +885,28 @@
           "value": "星期六"
         },
         {
+          "key": "官方网站",
+          "value": "https://www.madhouse.co.jp/works/2000-1999/works_tv_sakurataisen.html"
+        },
+        {
+          "key": "播放电视台",
+          "value": "TBS"
+        },
+        {
+          "key": "其他电视台",
+          "value": "MBS"
+        },
+        {
           "key": "播放结束",
           "value": "2000年9月23日"
         },
         {
           "key": "导演",
           "value": "中村隆太郎"
+        },
+        {
+          "key": "Copyright",
+          "value": "(C)SEGA/TBS・MBS"
         },
         {
           "key": "原作",
@@ -868,12 +921,20 @@
           "value": "サクラ大戦製作委員会（源生哲雄、諸冨洋史、佐々木絵美、SEGA/セガ・エンタープライゼス、レッドカンパニー/レッド・エンタテインメント、MADHOUSE、avex Group）、TBS"
         },
         {
-          "key": "制片人",
-          "value": "制作プロデューサー：浅利義美、安部正次郎（3話-）"
+          "key": "动画制片人",
+          "value": "制作制片人：浅利義美、安部正次郎（3話-）"
         },
         {
           "key": "监修",
-          "value": "大場規勝、名越康晃"
+          "value": "大場規勝、名越康晃；系列监修：あかほりさとる"
+        },
+        {
+          "key": "音乐制作",
+          "value": "IMAGINE；音乐协力：avex mode"
+        },
+        {
+          "key": "设定制作",
+          "value": "下井美奈子（1話-4話）→新井こず恵（5話-）、岡田伸吾（3話-）"
         }
       ],
       "total_episodes": 25,
@@ -906,11 +967,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/c0/20929_Pg3It.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/c0/20929_Pg3It.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b4/c0/20929_Pg3It.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/c0/20929_Pg3It.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/c0/20929_Pg3It.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/c0/20929_VXvTb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/c0/20929_VXvTb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/c0/20929_VXvTb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/c0/20929_VXvTb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/c0/20929_VXvTb.jpg"
           },
           "name": "サクラ大戦 桜華絢爛",
           "name_cn": "樱花大战 樱华绚烂",
@@ -1054,11 +1115,14 @@
         "GONZO",
         "TV",
         "佐藤顺一",
+        "千明孝一",
         "原创",
         "地球",
         "地球守护者",
         "守护者",
-        "童年"
+        "田中公平",
+        "童年",
+        "补旧番"
       ],
       "infobox": [
         {
@@ -1085,8 +1149,16 @@
           "value": "2000年4月3日"
         },
         {
+          "key": "放送星期",
+          "value": "星期一"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.gonzo.co.jp/works/gatekeepers/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "WOWOW"
         },
         {
           "key": "播放结束",
@@ -1097,12 +1169,76 @@
           "value": "千明孝一"
         },
         {
+          "key": "Copyright",
+          "value": "©GONZO・角川書店／GKプロジェクト"
+        },
+        {
           "key": "原作",
           "value": "佐藤順一、角川書店、GONZO"
         },
         {
           "key": "人物设定",
           "value": "後藤圭二"
+        },
+        {
+          "key": "企画",
+          "value": "安田猛、井上伸一郎"
+        },
+        {
+          "key": "制片人",
+          "value": "伊藤敦、高梨実"
+        },
+        {
+          "key": "动画制片人",
+          "value": "村濱章司、梶田浩司"
+        },
+        {
+          "key": "助理制片人",
+          "value": "池田東陽"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "渡辺隆"
+        },
+        {
+          "key": "设定",
+          "value": "超科学设定：前田真宏；特殊设定：堀内修"
+        },
+        {
+          "key": "美术设计",
+          "value": "菊地正典、谷村心一、草薙、成田偉保、岩佐禎、中尾陽子"
+        },
+        {
+          "key": "剪辑",
+          "value": "瀬山編集室（瀬山武司、水田経子、内田恵、武宮むつみ）；編集システム：重村建吾"
+        },
+        {
+          "key": "机械设定",
+          "value": "渭原敏明、増尾昭一〔5話、7話-〕"
+        },
+        {
+          "key": "录音",
+          "value": "名倉靖；录音工作室：アバコクリエイティブスタジオ〔1話-3話〕、スタジオごんぐ"
+        },
+        {
+          "key": "录音助理",
+          "value": "椎原操志"
+        },
+        {
+          "key": "音效",
+          "value": "山田稔"
+        },
+        {
+          "key": "音响",
+          "value": "楽音舎；音响制作担当：杉山好美"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ポニーキャニオン；音乐协力：IMAGINE"
+        },
+        {
+          "key": "製作",
+          "value": "GKプロジェクト（角川書店、バンダイビジュアル、ポニーキャニオン、GONZO）"
         }
       ],
       "total_episodes": 24,
@@ -1196,8 +1332,14 @@
       "name_cn": "新恋爱白书",
       "tags": [
         "2000",
+        "HalFilmMaker",
+        "NTR",
         "TV",
+        "下田正美",
+        "恋爱",
         "新恋爱白书",
+        "最终幻想4",
+        "漫改",
         "纯爱",
         "草尾毅",
         "补旧番",
@@ -1235,8 +1377,20 @@
           "value": "2000年7月4日"
         },
         {
+          "key": "音乐",
+          "value": "Be-Factory"
+        },
+        {
           "key": "原作",
-          "value": "板桥雅弘 玉越博幸"
+          "value": "板橋雅弘、玉越博幸（講談社・週刊少年マガジン連載）"
+        },
+        {
+          "key": "特摄监督",
+          "value": "宮本拓"
+        },
+        {
+          "key": "协力",
+          "value": "週刊少年マガジン編集部"
         }
       ],
       "total_episodes": 13,
@@ -1302,6 +1456,8 @@
       "name_cn": "星界的战旗",
       "tags": [
         "2000",
+        "2000s",
+        "2000年",
         "2000年4月",
         "SF",
         "SUNRISE",
@@ -1309,13 +1465,18 @@
         "TVA",
         "小说改",
         "川澄绫子",
+        "恋爱",
         "战争",
         "战斗",
         "战舰对射",
+        "日本",
         "星界",
         "星界的战旗",
+        "机战",
         "森冈浩之",
         "科幻",
+        "续作",
+        "补旧番",
         "轻小说改",
         "轻改",
         "长冈康史"
@@ -1582,6 +1743,7 @@
       "name_cn": "星界的断章 诞生",
       "tags": [
         "2000",
+        "2000s",
         "OVA",
         "SF",
         "SUNRISE",
@@ -1589,6 +1751,7 @@
         "TVSP",
         "小说改",
         "川澄绫子",
+        "日本",
         "星界",
         "森冈浩之",
         "科幻",
@@ -1761,7 +1924,9 @@
         "TV",
         "XEBEC",
         "东大",
+        "也许",
         "动画",
+        "半年番",
         "后宫",
         "后宫鼻祖",
         "堀江由衣",
@@ -1777,6 +1942,7 @@
         "漫画改",
         "童年",
         "纯情房东俏房客",
+        "经典",
         "考上东大",
         "肉松",
         "补番",
@@ -1828,6 +1994,10 @@
           "value": "24集正式动画及2集电视播放的特别篇"
         },
         {
+          "key": "Copyright",
+          "value": "©赤松健・講談社／ラブひな温泉組合・テレビ東京"
+        },
+        {
           "key": "原作",
           "value": "赤松健"
         },
@@ -1841,23 +2011,19 @@
         },
         {
           "key": "剪辑",
-          "value": "大竹弥生"
+          "value": "大竹弥生；助手：板部浩章"
         },
         {
-          "key": "剪辑助手",
-          "value": "板部浩章"
-        },
-        {
-          "key": "音响演出",
-          "value": "田中英行"
+          "key": "音响监督",
+          "value": "音响演出：田中英行"
         },
         {
           "key": "音效",
           "value": "今野康之"
         },
         {
-          "key": "录音调整",
-          "value": "小原吉男"
+          "key": "录音",
+          "value": "录音调整：小原吉男"
         },
         {
           "key": "文艺管理",
@@ -1874,6 +2040,22 @@
         {
           "key": "製作",
           "value": "XEBEC、テレビ東京、読売広告社"
+        },
+        {
+          "key": "音乐制作",
+          "value": "スターチャイルドレコード[STAR CHILD]（音乐制作担当：中西豪）；音乐协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "助理制片人",
+          "value": "プロデューサー補：五島尚武"
+        },
+        {
+          "key": "特别鸣谢",
+          "value": "週刊少年マガジン編集部"
+        },
+        {
+          "key": "摄影监督",
+          "value": "広瀬勝利、広川二三男"
         }
       ],
       "total_episodes": 28,
@@ -2122,7 +2304,9 @@
       "name_cn": "我家也有外星人",
       "tags": [
         "2000",
+        "2000年",
         "2000年4月",
+        "2000年4月26日",
         "2004",
         "NieA_under_7",
         "SF",
@@ -2132,12 +2316,16 @@
         "ところともかず",
         "トライアングルスタッフ",
         "佐藤卓哉",
+        "动画",
         "原创",
         "安倍吉俊",
+        "宫村优子",
         "川澄凌子",
         "川澄绫子",
+        "我家也有外星人",
         "搞笑",
         "日常",
+        "日本",
         "治愈",
         "片头曲你怎么了?!",
         "百合",
@@ -2199,6 +2387,10 @@
           "value": "大輪好男"
         },
         {
+          "key": "Copyright",
+          "value": "(C)安倍吉俊・NieA制作委員会"
+        },
+        {
           "key": "原案",
           "value": "gK"
         },
@@ -2208,7 +2400,7 @@
         },
         {
           "key": "人物设定",
-          "value": "柳田義明、副：田中雄一"
+          "value": "柳田義明；副：田中雄一"
         },
         {
           "key": "美术监督",
@@ -2256,7 +2448,7 @@
         },
         {
           "key": "製作",
-          "value": "NieA製作委員会（パイオニアLDC、角川書店、TBSサービス、GENCO）"
+          "value": "NieA製作委員会（パイオニアLDC、角川書店、TBSサービス、ジェンコ）"
         }
       ],
       "total_episodes": 13,
@@ -2325,7 +2517,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2b/6e/371017_h1PYz.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2b/6e/371017_h1PYz.jpg"
           },
-          "name": "niea_7",
+          "name": "ニア アンダーセブン",
           "name_cn": "我家也有外星人",
           "relation": "书籍",
           "type": 1,
@@ -2369,19 +2561,24 @@
       "date": "2000-04-05",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/e4/209625_ivxIE.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/e4/209625_ivxIE.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/62/e4/209625_ivxIE.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/e4/209625_ivxIE.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/e4/209625_ivxIE.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/62/e4/209625_ryMfW.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/62/e4/209625_ryMfW.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/62/e4/209625_ryMfW.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/62/e4/209625_ryMfW.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/e4/209625_ryMfW.jpg"
       },
       "summary": "汽车人战记的世界处于另一变形金刚系列的时空，故事讲述了一次能源发报会上原始兽的暗黑破坏神Gigatron出现捉走了科学家大西博士，其儿子勇气在无意间召唤了一直隐藏在地球的火焰擎天柱Fire Convoy，原来汽车人很久已经溶入了世界，成为各式的交通工具，也架起连接世界及塞伯坦的网络。",
       "name": "トランスフォーマー カーロボット",
       "name_cn": "变形金刚：汽车人战记",
       "tags": [
         "2000",
+        "TF",
         "TV",
-        "变形金刚"
+        "原创",
+        "变形金刚",
+        "科幻",
+        "童年",
+        "萝卜"
       ],
       "infobox": [
         {
@@ -2542,19 +2739,21 @@
       "date": "2000-04-20",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/9a/6375_h3zMX.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/9a/6375_h3zMX.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/f2/9a/6375_h3zMX.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/9a/6375_h3zMX.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/9a/6375_h3zMX.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/9a/6375_MpenE.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/9a/6375_MpenE.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/f2/9a/6375_MpenE.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/9a/6375_MpenE.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/9a/6375_MpenE.jpg"
       },
       "summary": "天女を題材にし、ミステリーやサスペンス、SF要素を織り交ぜたファンタジー漫画。キャッチコピーは天空お伽草子。\n御景妖は、御景財閥を擁する御景家の一族ではあるものの、両親と双子の兄である明と共に、ごく普通の女子高生として暮らしていたが、16歳の誕生日に、本家に呼び出された時から人生が一変する。一族が揃う中、妖は自らが、御景家の祖先であり一族の災いの元になるという天女の力を最も強く引き継ぐ生まれ変わりであることを知る。その場で災いを恐れる親族一同に殺されそうになるが、危機を察した天女の血を引くという女性梧納涼に助けられる。納涼とその義弟雄飛に保護された彼女は、梧家に居候することになり、やがて妖は自らの先祖である天女セレスに目覚めていく。\n御景財閥の若き統帥各臣が、記憶喪失の謎の男十夜を使ってC-計画を進める中、妖はセレスの探す「羽衣」を探す旅に出る。同じく天女の子孫である来間千鳥（パラス）や司珠呂（ジュノー）に出会う。その一方、一族を率いる者として御景家に庇護されながらも妖を心配する明は、セレスから羽衣を奪い妻とした御景家の始祖ミカギの意識に目覚めてしまう。",
       "name": "妖しのセレス",
       "name_cn": "梦幻妖子",
       "tags": [
         "2000",
+        "StudioPierrot",
         "TV",
         "studioぴえろ",
+        "乙女",
         "乙女向",
         "催泪",
         "奇幻",
@@ -2562,6 +2761,7 @@
         "少女向",
         "年代久远无印象派",
         "恋爱",
+        "日本",
         "渡瀬悠宇",
         "漫画改"
       ],
@@ -2603,6 +2803,10 @@
           "value": "酒井良"
         },
         {
+          "key": "Copyright",
+          "value": "©渡瀬悠宇／小学館・バンダイビジュアル・ぴえろ"
+        },
+        {
           "key": "原作",
           "value": "渡瀬悠宇"
         },
@@ -2639,8 +2843,52 @@
           "value": "植田文郎（小学館）、久保聡（バンダイビジュアル）、本間道幸（スタジオぴえろ）"
         },
         {
-          "key": "制作プロデューサー",
+          "key": "动画制片人",
           "value": "三上孝一"
+        },
+        {
+          "key": "剪辑",
+          "value": "松村正宏；助手：ジェイ・フィルム（秋保宜宏）"
+        },
+        {
+          "key": "摄影",
+          "value": "ティ・ニシムラ（高橋勇夫、星野栄都子、大久保悠子）"
+        },
+        {
+          "key": "音效",
+          "value": "フィズサウンドクリエイション（新井秀徳）"
+        },
+        {
+          "key": "录音",
+          "value": "依田章良"
+        },
+        {
+          "key": "录音助理",
+          "value": "山口貴之"
+        },
+        {
+          "key": "音响",
+          "value": "神南スタジオ；音响制作担当：小川信寛"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ポニーキャニオン；サイトロン・アンド・アート"
+        },
+        {
+          "key": "协力",
+          "value": "「少女コミック」編集部、藤本敏一、鈴木望（1話-15話）→山内靖子（16話-）"
+        },
+        {
+          "key": "助理制片人",
+          "value": "木村淳一"
+        },
+        {
+          "key": "制作管理",
+          "value": "鈴木重裕"
+        },
+        {
+          "key": "制作协力",
+          "value": "スタジオZ5"
         }
       ],
       "total_episodes": 24,
@@ -2762,6 +3010,7 @@
         "兽合体",
         "冒险",
         "原创",
+        "吉田玲子",
         "奇幻",
         "子供向",
         "年番",
@@ -2775,7 +3024,6 @@
         "美好滴回忆",
         "美好滴回忆=",
         "角铜博之",
-        "长篇",
         "黑历史"
       ],
       "infobox": [
@@ -2848,6 +3096,10 @@
         {
           "key": "制作",
           "value": "フジテレビ、読売広告社、東映アニメーション"
+        },
+        {
+          "key": "系列监督",
+          "value": "角銅博之"
         }
       ],
       "total_episodes": 50,
@@ -2866,17 +3118,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/ec/73792_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/ec/73792_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/42/ec/73792_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/ec/73792_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/ec/73792_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/8b/78648_fFfhG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/8b/78648_fFfhG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9d/8b/78648_fFfhG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/8b/78648_fFfhG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/8b/78648_fFfhG.jpg"
           },
-          "name": "デジモンアドベンチャー02 ～扉 DOOR",
+          "name": "デジモンエンディングベスト",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 78648
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/f1/94318_yYf8I.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/f1/94318_yYf8I.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/79/f1/94318_yYf8I.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/f1/94318_yYf8I.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/f1/94318_yYf8I.jpg"
+          },
+          "name": "デジモンアドベンチャー02 ベスト!ベスト!ベストパートナー‾デュエット編‾",
           "name_cn": "",
           "relation": "角色歌",
           "type": 3,
-          "id": 73792
+          "id": 94318
         },
         {
           "images": {
@@ -2978,31 +3244,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/8b/78648_fFfhG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/8b/78648_fFfhG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9d/8b/78648_fFfhG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/8b/78648_fFfhG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/8b/78648_fFfhG.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/ac/104712_84R0T.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/ac/104712_84R0T.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/ac/104712_84R0T.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/ac/104712_84R0T.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/ac/104712_84R0T.jpg"
           },
-          "name": "デジモンエンディングベスト",
-          "name_cn": "",
+          "name": "DIGIMON MOVIE SONG COLLECTION～オメガモンバージョン～",
+          "name_cn": "数码兽剧场版歌曲集～奥米加兽封面版～",
           "relation": "其他",
           "type": 3,
-          "id": 78648
+          "id": 104712
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/f1/94318_yYf8I.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/f1/94318_yYf8I.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/79/f1/94318_yYf8I.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/f1/94318_yYf8I.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/f1/94318_yYf8I.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/42/ec/73792_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/42/ec/73792_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/42/ec/73792_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/42/ec/73792_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/42/ec/73792_jp.jpg"
           },
-          "name": "デジモンアドベンチャー02 ベスト!ベスト!ベストパートナー‾デュエット編‾",
+          "name": "デジモンアドベンチャー02 ～扉 DOOR",
           "name_cn": "",
           "relation": "角色歌",
           "type": 3,
-          "id": 94318
+          "id": 73792
         },
         {
           "images": {
@@ -3090,31 +3356,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/4b/68025_zr14e.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/4b/68025_zr14e.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/4b/68025_zr14e.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/4b/68025_zr14e.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/4b/68025_zr14e.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/0e/116219_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/0e/116219_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/0e/116219_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/0e/116219_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/0e/116219_jp.jpg"
           },
-          "name": "デジモン オリジナル ストーリー スペシャル～with～（非売品）",
-          "name_cn": "数码宝贝 Original Story Special ~with~（非賣品）",
-          "relation": "印象曲",
-          "type": 3,
-          "id": 68025
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/b6/116218_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/b6/116218_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4c/b6/116218_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/b6/116218_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/b6/116218_jp.jpg"
-          },
-          "name": "デジモン挿入歌ワンダーベストエボリューション",
+          "name": "デジモン挿入歌ベストエボリューション",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
-          "id": 116218
+          "id": 116219
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/55/538992_1kRag.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/55/538992_1kRag.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9c/55/538992_1kRag.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/55/538992_1kRag.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/55/538992_1kRag.jpg"
+          },
+          "name": "デジモンカードゲーム",
+          "name_cn": "数码宝贝卡牌对战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 538992
         },
         {
           "images": {
@@ -3216,31 +3482,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/0e/116219_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/0e/116219_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/21/0e/116219_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/0e/116219_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/0e/116219_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/4b/68025_zr14e.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/4b/68025_zr14e.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/4b/68025_zr14e.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/4b/68025_zr14e.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/4b/68025_zr14e.jpg"
           },
-          "name": "デジモン挿入歌ベストエボリューション",
-          "name_cn": "",
-          "relation": "其他",
+          "name": "デジモン オリジナル ストーリー スペシャル～with～（非売品）",
+          "name_cn": "数码宝贝 Original Story Special ~with~（非賣品）",
+          "relation": "印象曲",
           "type": 3,
-          "id": 116219
+          "id": 68025
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/d2/68024_91sUU.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/d2/68024_91sUU.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/06/d2/68024_91sUU.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/d2/68024_91sUU.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/d2/68024_91sUU.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/b6/116218_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/b6/116218_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/b6/116218_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/b6/116218_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/b6/116218_jp.jpg"
           },
-          "name": "僕らのデジタルワールド",
-          "name_cn": "数码宝贝02 插曲「我們的數碼世界」（非賣品）",
-          "relation": "插入歌",
+          "name": "デジモン挿入歌ワンダーベストエボリューション",
+          "name_cn": "",
+          "relation": "其他",
           "type": 3,
-          "id": 68024
+          "id": 116218
         },
         {
           "images": {
@@ -3325,20 +3591,6 @@
           "relation": "其他",
           "type": 3,
           "id": 108122
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/ac/104712_84R0T.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/ac/104712_84R0T.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/99/ac/104712_84R0T.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/ac/104712_84R0T.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/ac/104712_84R0T.jpg"
-          },
-          "name": "DIGIMON MOVIE SONG COLLECTION～オメガモンバージョン～",
-          "name_cn": "数码兽剧场版歌曲集～奥米加兽封面版～",
-          "relation": "其他",
-          "type": 3,
-          "id": 104712
         },
         {
           "images": {
@@ -3580,118 +3832,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/f8/3128_4QNAH.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/f8/3128_4QNAH.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/df/f8/3128_4QNAH.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/f8/3128_4QNAH.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/f8/3128_4QNAH.jpg"
-          },
-          "name": "デジモンアドベンチャー",
-          "name_cn": "数码宝贝大冒险",
-          "relation": "前传",
-          "type": 2,
-          "id": 3128
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/55/80/50620_ZOQ3O.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/55/80/50620_ZOQ3O.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/55/80/50620_ZOQ3O.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/55/80/50620_ZOQ3O.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/55/80/50620_ZOQ3O.jpg"
-          },
-          "name": "ターゲット～赤い衝撃～",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 50620
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/18/53850_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/18/53850_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/41/18/53850_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/18/53850_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/18/53850_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02 ベストパートナー (2) 石田ヤマト&ガブモン",
-          "name_cn": "数码宝贝02 石田大和、加布兽 角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53850
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/27/53851_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/27/53851_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/26/27/53851_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/27/53851_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/27/53851_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02ベスト・パートナー(12)一乗寺賢&ワームモン",
-          "name_cn": "数码宝贝02 一乘寺贤、虫虫兽 角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53851
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/64/53852_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/64/53852_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ee/64/53852_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/64/53852_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/64/53852_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02ベスト・パートナー(5)太刀川ミミ&パルモン",
-          "name_cn": "数码宝贝02 太刀川美美 & 巴鲁兽角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53852
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/85/53853_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/85/53853_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0b/85/53853_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/85/53853_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/85/53853_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02ベスト・パートナー(7)本宮大輔&ブイモン",
-          "name_cn": "数码宝贝02 本宫大辅 & V 仔兽 角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53853
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/2e/68027_VI2WV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/2e/68027_VI2WV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c7/2e/68027_VI2WV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/2e/68027_VI2WV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/2e/68027_VI2WV.jpg"
-          },
-          "name": "デジモンアドベンチャー02 ベストパートナー (1) 八神太一&アグモン",
-          "name_cn": "数码宝贝02 八神太一、亚古兽 角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53854
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/e5/53855_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/e5/53855_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/59/e5/53855_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/e5/53855_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/e5/53855_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02 ベスト・パートナー (10) 高石タケル&パタモン",
-          "name_cn": "数码宝贝02 高石岳、巴達獸 角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53855
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/0f/53856_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/0f/53856_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/ae/0f/53856_jp.jpg",
@@ -3706,73 +3846,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/80/53857_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/80/53857_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4c/80/53857_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/80/53857_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/80/53857_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/d2/68024_91sUU.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/d2/68024_91sUU.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/d2/68024_91sUU.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/d2/68024_91sUU.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/d2/68024_91sUU.jpg"
           },
-          "name": "デジモンアドベンチャー02ドラマCD 石田ヤマト 手紙-Letter-",
+          "name": "僕らのデジタルワールド",
+          "name_cn": "数码宝贝02 插曲「我們的數碼世界」（非賣品）",
+          "relation": "插入歌",
+          "type": 3,
+          "id": 68024
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/fa/60479_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/fa/60479_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ef/fa/60479_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/fa/60479_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/fa/60479_jp.jpg"
+          },
+          "name": "デジモン超進化ベスト2!",
           "name_cn": "",
-          "relation": "广播剧",
+          "relation": "其他",
           "type": 3,
-          "id": 53857
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/96/2f/53858_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/96/2f/53858_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/96/2f/53858_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/2f/53858_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/2f/53858_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02ベスト・パートナー(8)井ノ上京&ホークモン",
-          "name_cn": "数码宝贝02 井上京、麻鹰兽 角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53858
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/ae/53859_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/ae/53859_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/73/ae/53859_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/ae/53859_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/ae/53859_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02ベスト・パートナー(6)武之内空&ピヨモン",
-          "name_cn": "数码宝贝02 武之内素娜 & 比丘兽 角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53859
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/f9/53860_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/f9/53860_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d7/f9/53860_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/f9/53860_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/f9/53860_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02ベスト・パートナー(4)城戸丈&ゴマモン",
-          "name_cn": "数码宝贝02  角色曲 城户助 & 哥玛兽",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53860
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/71/53861_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/71/53861_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/71/53861_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/71/53861_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/71/53861_jp.jpg"
-          },
-          "name": "デジモンアドベンチャー02ベスト・パートナー(11)八神ヒカリ&テイルモン",
-          "name_cn": "数码宝贝02 八神光、迪路獸 角色曲",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 53861
+          "id": 60479
         },
         {
           "images": {
@@ -3790,17 +3888,185 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/fa/60479_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/fa/60479_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ef/fa/60479_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/fa/60479_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/fa/60479_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/71/53861_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/71/53861_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/71/53861_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/71/53861_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/71/53861_jp.jpg"
           },
-          "name": "デジモン超進化ベスト2!",
-          "name_cn": "",
-          "relation": "其他",
+          "name": "デジモンアドベンチャー02ベスト・パートナー(11)八神ヒカリ&テイルモン",
+          "name_cn": "数码宝贝02 八神光、迪路獸 角色曲",
+          "relation": "角色歌",
           "type": 3,
-          "id": 60479
+          "id": 53861
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/f9/53860_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/f9/53860_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/f9/53860_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/f9/53860_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/f9/53860_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02ベスト・パートナー(4)城戸丈&ゴマモン",
+          "name_cn": "数码宝贝02  角色曲 城户助 & 哥玛兽",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53860
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/ae/53859_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/ae/53859_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/73/ae/53859_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/ae/53859_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/ae/53859_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02ベスト・パートナー(6)武之内空&ピヨモン",
+          "name_cn": "数码宝贝02 武之内素娜 & 比丘兽 角色曲",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53859
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/96/2f/53858_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/96/2f/53858_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/96/2f/53858_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/96/2f/53858_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/96/2f/53858_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02ベスト・パートナー(8)井ノ上京&ホークモン",
+          "name_cn": "数码宝贝02 井上京、麻鹰兽 角色曲",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53858
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/80/53857_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/80/53857_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/80/53857_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/80/53857_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/80/53857_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02ドラマCD 石田ヤマト 手紙-Letter-",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 53857
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/f8/3128_4QNAH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/f8/3128_4QNAH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/f8/3128_4QNAH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/f8/3128_4QNAH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/f8/3128_4QNAH.jpg"
+          },
+          "name": "デジモンアドベンチャー",
+          "name_cn": "数码宝贝大冒险",
+          "relation": "前传",
+          "type": 2,
+          "id": 3128
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/e5/53855_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/e5/53855_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/59/e5/53855_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/e5/53855_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/e5/53855_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02 ベスト・パートナー (10) 高石タケル&パタモン",
+          "name_cn": "数码宝贝02 高石岳、巴達獸 角色曲",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53855
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/2e/68027_VI2WV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/2e/68027_VI2WV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c7/2e/68027_VI2WV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/2e/68027_VI2WV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/2e/68027_VI2WV.jpg"
+          },
+          "name": "デジモンアドベンチャー02 ベストパートナー (1) 八神太一&アグモン",
+          "name_cn": "数码宝贝02 八神太一、亚古兽 角色曲",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53854
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/85/53853_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/85/53853_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/85/53853_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/85/53853_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/85/53853_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02ベスト・パートナー(7)本宮大輔&ブイモン",
+          "name_cn": "数码宝贝02 本宫大辅 & V 仔兽 角色曲",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53853
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/64/53852_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/64/53852_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ee/64/53852_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/64/53852_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/64/53852_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02ベスト・パートナー(5)太刀川ミミ&パルモン",
+          "name_cn": "数码宝贝02 太刀川美美 & 巴鲁兽角色曲",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53852
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/27/53851_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/27/53851_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/26/27/53851_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/27/53851_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/27/53851_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02ベスト・パートナー(12)一乗寺賢&ワームモン",
+          "name_cn": "数码宝贝02 一乘寺贤、虫虫兽 角色曲",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53851
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/18/53850_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/18/53850_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/18/53850_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/18/53850_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/18/53850_jp.jpg"
+          },
+          "name": "デジモンアドベンチャー02 ベストパートナー (2) 石田ヤマト&ガブモン",
+          "name_cn": "数码宝贝02 石田大和、加布兽 角色曲",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 53850
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/55/80/50620_ZOQ3O.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/55/80/50620_ZOQ3O.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/55/80/50620_ZOQ3O.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/55/80/50620_ZOQ3O.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/55/80/50620_ZOQ3O.jpg"
+          },
+          "name": "ターゲット～赤い衝撃～",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 50620
         }
       ]
     }
@@ -3823,15 +4089,22 @@
       "name_cn": "蜡笔小新：呼风唤雨的热带雨林",
       "tags": [
         "2000",
+        "2000年",
         "SHIN-EI",
+        "アニメ映画",
         "シンエイ动画",
+        "冒险",
         "剧场版",
         "原创",
         "原恵一",
         "原惠一",
         "搞笑",
+        "日本",
         "日本动画",
+        "映画",
+        "水岛努",
         "汤浅政明",
+        "漫改",
         "漫画改",
         "童年",
         "蜡笔小新"
@@ -4247,7 +4520,9 @@
       "summary": "",
       "name": "忍たま乱太郎 8期",
       "name_cn": "",
-      "tags": [],
+      "tags": [
+        "2000"
+      ],
       "infobox": [
         {
           "key": "话数",
@@ -4561,6 +4836,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/92/80262_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/92/80262_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/16/92/80262_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/92/80262_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/92/80262_jp.jpg"
+          },
+          "name": "Ride on shooting star",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 80262
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/1c/141050_m2hH7.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/1c/141050_m2hH7.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/bd/1c/141050_m2hH7.jpg",
@@ -4631,6 +4920,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/a0/485803_JukXy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/a0/485803_JukXy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/71/a0/485803_JukXy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/a0/485803_JukXy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/a0/485803_JukXy.jpg"
+          },
+          "name": "Fool on the planet",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 485803
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/16/2177_KIzzt.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/16/2177_KIzzt.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/bb/16/2177_KIzzt.jpg",
@@ -4694,6 +4997,7 @@
         "2000",
         "2000年",
         "2000年4月",
+        "BL",
         "JQ",
         "StudioPierrot",
         "TV",
@@ -4709,6 +5013,7 @@
         "最游记",
         "漫改",
         "漫画改",
+        "热血",
         "石田彰",
         "神声优",
         "神插曲",
@@ -4717,6 +5022,7 @@
         "经典",
         "美型",
         "腐",
+        "草尾毅",
         "西游记"
       ],
       "infobox": [
@@ -4741,12 +5047,48 @@
           "value": "2000年4月4日"
         },
         {
+          "key": "放送星期",
+          "value": "星期二"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.tv-tokyo.co.jp/anime/saiyuki/"
+        },
+        {
           "key": "播放电视台",
           "value": "东京电视台"
         },
         {
           "key": "播放结束",
           "value": "2001年3月27日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©︎峰倉かずや／一賽舎・ 最遊記プロジェクト・テレビ東京 2000"
+        },
+        {
+          "key": "企画",
+          "value": "岩田圭介（テレビ東京）、布川ゆうじ"
+        },
+        {
+          "key": "制片人",
+          "value": "具嶋朋子（テレビ東京）、渡辺哲也、萩野賢"
+        },
+        {
+          "key": "美术监督",
+          "value": "池田祐二；美术监督辅佐：一色美緒"
+        },
+        {
+          "key": "音乐制作",
+          "value": "エニックス；音乐协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "动画制片人",
+          "value": "朴谷直治"
+        },
+        {
+          "key": "製作",
+          "value": "TV TOKYO（テレビ東京）、電通、スタジオぴえろ"
         }
       ],
       "total_episodes": 50,
@@ -5053,11 +5395,11 @@
       "date": "2000-04-04",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/b3/3149_kyjk9.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/b3/3149_kyjk9.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/32/b3/3149_kyjk9.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/b3/3149_kyjk9.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/b3/3149_kyjk9.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/b3/3149_7QeWQ.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/b3/3149_7QeWQ.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/32/b3/3149_7QeWQ.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/b3/3149_7QeWQ.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/b3/3149_7QeWQ.jpg"
       },
       "summary": "正如前系列，勇者仁杰和魔法使歌莉的最终目的是要把魔王纪力打倒。究竟在这新系列中他们要做什么呢？是歌莉要把藏于各地的魔神呼唤出来，以确认他们的魔力并收为己用。而仁杰，需要寻找自然界四王──风、水、地、火的王，并得到他们的承认，从而集齐四柄剑──风之剑、水之剑、地之剑和火之剑。接着四把剑会变成一把传说之剑，只有勇者才可拥有它！而这次的第一个舞台是一个叫「猫舌谷」的地方，那里矗立着的一座『没尽头的塔』。究竟内里有什么等待着他们两人呢？",
       "name": "ドキドキ♡伝説 魔法陣グルグル",
@@ -5068,13 +5410,18 @@
         "TVB",
         "动画",
         "咕噜咕噜魔法阵",
+        "奇幻",
         "搞笑",
+        "日本",
+        "日本アニメーション",
         "欢乐",
         "没看全",
         "治愈",
         "治愈系",
+        "漫画改",
         "童年",
         "经典",
+        "高木淳",
         "魔法阵グルグル"
       ],
       "infobox": [
@@ -5124,7 +5471,7 @@
         },
         {
           "key": "原作",
-          "value": "衛藤ヒロユキ"
+          "value": "衛藤ヒロユキ（エニックス「月刊少年ガンガン」連載）"
         },
         {
           "key": "系列构成",
@@ -5152,11 +5499,43 @@
         },
         {
           "key": "音响监督",
-          "value": "加藤敏⇒三好慶一郎"
+          "value": "加藤敏⇒三好慶一郎；選曲：合田豊"
+        },
+        {
+          "key": "製作",
+          "value": "日本アニメーション、テレビ東京、創通エージェンシー"
         },
         {
           "key": "动画制作",
-          "value": "日本アニメーション、テレビ東京、創通エージェンシー"
+          "value": "日本アニメーション"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ビクターエンタテインメント；协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "录音",
+          "value": "田中和成"
+        },
+        {
+          "key": "音效",
+          "value": "フィズサウンド、庄司雅弘"
+        },
+        {
+          "key": "音响",
+          "value": "東北新社、田中信作"
+        },
+        {
+          "key": "剪辑",
+          "value": "宇津妙子、名取信一、中野一穂"
+        },
+        {
+          "key": "执行制片人",
+          "value": "本橋浩一"
+        },
+        {
+          "key": "制片人",
+          "value": "東不可止、横山真二郎、遠藤重夫"
         }
       ],
       "total_episodes": 38,
@@ -5250,13 +5629,17 @@
       "name_cn": "银河英雄传说外传 叛乱者",
       "tags": [
         "2000",
+        "KittyFilm",
         "OVA",
         "SF",
         "キティ·フィルム",
+        "动画",
         "太空歌剧",
         "小说改",
         "战争",
+        "日本",
         "田中芳树",
+        "石黑升",
         "石黒升",
         "科幻",
         "银河英雄传说"
@@ -5401,6 +5784,7 @@
       "name_cn": "向阳之树",
       "tags": [
         "2000",
+        "2000s",
         "MADHouse",
         "TV",
         "历史",
@@ -5429,6 +5813,10 @@
           "value": "星期二"
         },
         {
+          "key": "官方网站",
+          "value": "https://tezukaosamu.net/jp/anime/50.html"
+        },
+        {
           "key": "播放电视台",
           "value": "日本テレビ"
         },
@@ -5441,12 +5829,96 @@
           "value": "松居慶子"
         },
         {
+          "key": "Copyright",
+          "value": "©️手塚プロダクション/バップ/小学館/NTV"
+        },
+        {
           "key": "原作",
           "value": "手塚治虫"
         },
         {
           "key": "脚本",
           "value": "高屋敷英夫、水上清資 川嶋澄乃、大久保智康"
+        },
+        {
+          "key": "企画",
+          "value": "伊藤和明、伊藤梅男、山下暉人、植田文郎；企画協力：手塚プロダクション"
+        },
+        {
+          "key": "制片人",
+          "value": "山下洋、大島満、田村学、丸山正雄"
+        },
+        {
+          "key": "动画制片人",
+          "value": "小野亮"
+        },
+        {
+          "key": "助理制片人",
+          "value": "島田享子"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "松居和"
+        },
+        {
+          "key": "色彩设计",
+          "value": "児玉尚子；辅佐：こしかわよしみ"
+        },
+        {
+          "key": "音乐制作",
+          "value": "荒井正人、千石一成、組橋彩"
+        },
+        {
+          "key": "製作",
+          "value": "バップ、小学館"
+        },
+        {
+          "key": "音响监督",
+          "value": "藤山房伸；選曲：東上別符精"
+        },
+        {
+          "key": "音效",
+          "value": "加藤昭二（アニメサウンド）"
+        },
+        {
+          "key": "录音",
+          "value": "山田均；录音工作室：神南スタジオ"
+        },
+        {
+          "key": "录音助理",
+          "value": "高橋美由紀"
+        },
+        {
+          "key": "剪辑",
+          "value": "尾形編集室（寺内聡、木村佳史子）"
+        },
+        {
+          "key": "设定制作",
+          "value": "平山理志"
+        },
+        {
+          "key": "色彩指定",
+          "value": "こしかわよしみ、齋藤友子、田中文子、田辺みどり、影山清、小林恵、戸塚由紀子、鈴木尚美、李夢、岡野強"
+        },
+        {
+          "key": "特效",
+          "value": "谷口久美子、鈴木さちこ、榊原豊彦、西村龍之、前川孝、茂木孝浩、谷本千絵、大村和子、福田紀夫"
+        },
+        {
+          "key": "制作进行",
+          "value": "岩本信夫、原屋哲朗、野田英生、小白井正幸、天花寺伸広、菊地裕、齋藤優一郎、鬼崎友宏、村上杉郎、藤尾勉、横瀬雄介、寺崎光喜、織田真穂、古宇田英之、武藤貴彦、山本沙代、淡野真"
+        },
+        {
+          "key": "制作协力",
+          "value": "ビッグバン、ムーク、マジックバス、イマジン、オフィスていくおふ、虫プロダクション、タマ・プロダクション、G&G Direction"
+        },
+        {
+          "key": "演出助理",
+          "value": "長谷川功夫"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "太田雅彦、ふくだのりゆき"
         }
       ],
       "total_episodes": 25,
@@ -5471,7 +5943,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/01/92725_pTySw.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/01/92725_pTySw.jpg"
           },
-          "name": "陽だまりの樹",
+          "name": "陽だまりの樹（手塚治虫漫画全集）",
           "name_cn": "向阳之树",
           "relation": "书籍",
           "type": 1,
@@ -5539,9 +6011,12 @@
       "name": "銀装騎攻オーディアン",
       "name_cn": "银装骑攻Ordian",
       "tags": [
+        "2000",
         "TV",
         "大张正己",
-        "石田敦子"
+        "机战",
+        "石田敦子",
+        "补番"
       ],
       "infobox": [
         {
@@ -5568,12 +6043,32 @@
           "value": "2000年4月4日"
         },
         {
+          "key": "放送星期",
+          "value": "星期二"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.at-x.com/program/detail/1951"
+        },
+        {
           "key": "播放电视台",
           "value": "WOWOW"
         },
         {
           "key": "播放结束",
           "value": "2000年9月19日"
+        },
+        {
+          "key": "导演",
+          "value": "大張正己"
+        },
+        {
+          "key": "音乐",
+          "value": "大森俊之"
+        },
+        {
+          "key": "Copyright",
+          "value": "©️プラム／オーディアン製作委員会"
         },
         {
           "key": "原作",
@@ -5585,27 +6080,86 @@
         },
         {
           "key": "机械设定",
-          "value": "大張正巳、ことぶきつかさ、鈴木勤"
+          "value": "大張正己、ことぶきつかさ、鈴木勤；机设协力：伊藤浩二；リムヒューガンコンセプトデザイン：神宮司訓之"
         },
         {
           "key": "美术监督",
-          "value": "加藤朋則"
+          "value": "加藤朋則、佐藤勝、篠原理子、光元紋"
         },
         {
           "key": "音乐制作",
           "value": "FBIJ"
         },
         {
-          "key": "制作",
-          "value": "オーディアン製作委員会、読売広告社、プラム"
+          "key": "製作",
+          "value": "オーディアン製作委員会（読売広告社、プラム）"
+        },
+        {
+          "key": "企画",
+          "value": "読売広告社、プラム；企画協力：ケイエスエス、角川書店、FBIJ、ケイファクトリー、ブロッコリー"
+        },
+        {
+          "key": "制片人",
+          "value": "池田慎一、永井理"
+        },
+        {
+          "key": "音响",
+          "value": "ケイエスエス"
+        },
+        {
+          "key": "音效",
+          "value": "佐々木純一"
+        },
+        {
+          "key": "道具设计",
+          "value": "小物設定：狩生豊"
+        },
+        {
+          "key": "特效",
+          "value": "中島正之、前川孝"
+        },
+        {
+          "key": "制作进行",
+          "value": "長信考、吉本雅一、羽生敏行、山本慎一、島田威明、長田節、阿部健祐、島田威明、勝俣一光、菅谷和彦、金子逸人、吉村泰治、阿部健祐、吉田昇央"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "大張正己、重松晋一、鈴木勤、田村勝之、伊藤浩二、鷲北恭太、山根理宏、TANA"
+        },
+        {
+          "key": "演出助理",
+          "value": "園田雅裕"
+        },
+        {
+          "key": "色彩指定",
+          "value": "中村千穂、浜畑輝美、伊藤由紀子、小林恵、安斎弘美、横尾淳子、工藤和美"
+        },
+        {
+          "key": "制作协力",
+          "value": "フロントライン、ダンガンピクチャーズ、松岡哲也（スタジオD-VOLT）"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "永田正美、前澤弘美、マグナムTANA、永田正美、丸山隆、安彦英二、竹田逸子、崔ふみひで"
+        },
+        {
+          "key": "摄影监督",
+          "value": "池上元秋、黒木康之"
+        },
+        {
+          "key": "设定",
+          "value": "デザイン協力：永田正美、田村勝之"
         }
       ],
       "total_episodes": 24,
       "id": 4202,
       "eps": 24,
       "meta_tags": [
+        "科幻",
+        "机战",
         "TV",
-        "日本"
+        "日本",
+        "原创"
       ],
       "volumes": 0,
       "series": false,
@@ -5647,7 +6201,9 @@
       "name": "モンスターファーム ～伝説への道～",
       "name_cn": "怪物农场～通向传说的道路～",
       "tags": [
-        "TV"
+        "TV",
+        "游戏改",
+        "童年"
       ],
       "infobox": [
         {
@@ -5738,7 +6294,10 @@
       "name": "星界の紋章 特別編",
       "name_cn": "星界的纹章 特别篇",
       "tags": [
-        "2000"
+        "2000",
+        "SP",
+        "剧场版",
+        "日本"
       ],
       "infobox": [
         {
@@ -5873,6 +6432,9 @@
         "TVB",
         "乙女向",
         "少女向",
+        "川井宪次",
+        "没看全",
+        "漫改",
         "童年",
         "魔法少女"
       ],

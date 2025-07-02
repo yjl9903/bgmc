@@ -169,6 +169,10 @@
         {
           "key": "发行",
           "value": "松竹"
+        },
+        {
+          "key": "其他上映日期",
+          "value": "2025年5月10日(中国大陆4K修复版)"
         }
       ],
       "total_episodes": 1,
@@ -252,7 +256,7 @@
           },
           "name": "攻殻機動隊",
           "name_cn": "攻壳机动队",
-          "relation": "书籍",
+          "relation": "不同演绎",
           "type": 1,
           "id": 25259
         },
@@ -300,20 +304,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/4b/112770_2ITc3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/4b/112770_2ITc3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0a/4b/112770_2ITc3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/4b/112770_2ITc3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/4b/112770_2ITc3.jpg"
-          },
-          "name": "攻殻機動隊 新劇場版",
-          "name_cn": "攻壳机动队 新剧场版",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 112770
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/3d/133383_WnO2y.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/3d/133383_WnO2y.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/5d/3d/133383_WnO2y.jpg",
@@ -322,7 +312,7 @@
           },
           "name": "Ghost in the Shell",
           "name_cn": "攻壳机动队",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 133383
         },
@@ -350,7 +340,7 @@
           },
           "name": "攻殻機動隊 ゴースト・イン・ザ・シェル コミックトリビュート",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "单行本",
           "type": 1,
           "id": 212166
         },
@@ -378,20 +368,20 @@
           },
           "name": "攻殻機動隊 PERFECT BOOK 1995→2017",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "单行本",
           "type": 1,
           "id": 477110
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/10/496276_I5XnA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/10/496276_I5XnA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7e/10/496276_I5XnA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/10/496276_I5XnA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_I5XnA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/10/496276_ZsSSi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/10/496276_ZsSSi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/10/496276_ZsSSi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/10/496276_ZsSSi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/10/496276_ZsSSi.jpg"
           },
-          "name": "攻殻機動隊 新作TVアニメ",
-          "name_cn": "攻壳机动队 新作TV动画",
+          "name": "攻殻機動隊 THE GHOST IN THE SHELL",
+          "name_cn": "攻壳机动队 THE GHOST IN THE SHELL",
           "relation": "不同演绎",
           "type": 2,
           "id": 496276
@@ -412,11 +402,13 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d5/26/180401_DVqeL.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/d5/26/180401_DVqeL.jpg"
       },
-      "summary": "",
+      "summary": "魔空要塞の決戦から3年。オトやハヤミカもヤクモの村でタケルたちと暮らすように成平和が戻ったかに見えた。だが、そこに魔空要塞の一部が天空から落下。さらに魔空戦神のシュラノオが現れて村を襲い始めた。タケルは洞窟に眠るスサノオの封印を解き再び戦いへ！　オトとツクヨミに秘められた関係とは何か。TV放映が出来なかった2エピソード分を後日談のOVAとして発売。",
       "name": "ヤマトタケル 〜After War〜",
       "name_cn": "魔天战神 OVA",
       "tags": [
-        "OVA"
+        "1995",
+        "OVA",
+        "机战"
       ],
       "infobox": [
         {
@@ -429,7 +421,7 @@
         },
         {
           "key": "发售日",
-          "value": "1995-11-22"
+          "value": "1995年11月22日"
         }
       ],
       "total_episodes": 2,

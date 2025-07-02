@@ -17,6 +17,7 @@
       "name_cn": "机动战士高达0080 口袋里的战争",
       "tags": [
         "0080",
+        "1980s",
         "1989",
         "1989年",
         "80年代",
@@ -29,17 +30,16 @@
         "催泪",
         "原创",
         "反战",
-        "圣诞节",
         "富野由悠季",
         "山贺博之",
         "感人",
         "战争",
+        "战斗",
         "日本",
         "是爷们就开扎古",
         "机战",
         "神作",
         "科幻",
-        "经典",
         "美树本晴彦",
         "萝卜",
         "钢弹",
@@ -92,32 +92,32 @@
           "value": "高山文彦"
         },
         {
-          "key": "系列构成",
-          "value": "结城恭介"
-        },
-        {
-          "key": "脚本",
-          "value": "山賀博之"
-        },
-        {
           "key": "人物设定",
           "value": "美樹本晴彦"
         },
         {
-          "key": "摄影监督",
-          "value": "奥井敦"
+          "key": "机械设定",
+          "value": "デザインワークス：出渕裕；メカニカルデザイン協力：明貴美加、石津泰志；モビルスーツ原案：大河原邦男"
         },
         {
-          "key": "音响监督",
-          "value": "藤野貞義"
+          "key": "美术监督",
+          "value": "美術：池田繁 [ 池田繁美 ] 、脇威志"
+        },
+        {
+          "key": "摄影监督",
+          "value": "撮影：奥井敦"
+        },
+        {
+          "key": "剪辑",
+          "value": "瀬山武司"
         },
         {
           "key": "音乐",
           "value": "かしぶち哲郎"
         },
         {
-          "key": "机械设定",
-          "value": "大河原邦男、明貴美加、石津泰志"
+          "key": "音响",
+          "value": "藤野貞義；音响制作：千田啓子"
         },
         {
           "key": "制片人",
@@ -128,8 +128,16 @@
           "value": "サンライズ、バンダイ"
         },
         {
+          "key": "系列构成",
+          "value": "構成：結城恭介"
+        },
+        {
+          "key": "脚本",
+          "value": "山賀博之"
+        },
+        {
           "key": "分镜",
-          "value": "高山文彦(1,3-4,6)、甚目喜一（佐藤順一）(2,5)、高松信司(3)"
+          "value": "高山文彦(1,3-4,6)、甚目喜一 [ 佐藤順一 ] (2,5)、高松信司(3)"
         },
         {
           "key": "演出",
@@ -138,6 +146,26 @@
         {
           "key": "作画监督",
           "value": "齊藤格(1)、窪岡俊之(2,4-5)、川元利浩(3,5-6)、富沢和雄(3,5)"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "岩瀧智"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "椎名恵"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "椎名恵"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "戸塚修"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "椎名恵"
         }
       ],
       "total_episodes": 6,
@@ -171,6 +199,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/da/208858_9v8v2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/da/208858_9v8v2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/da/208858_9v8v2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/da/208858_9v8v2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/da/208858_9v8v2.jpg"
+          },
+          "name": "スーパーロボット大戦XO",
+          "name_cn": "超级机器人大战XO",
+          "relation": "联动",
+          "type": 4,
+          "id": 208858
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/47/219909_plL4e.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/47/219909_plL4e.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/79/47/219909_plL4e.jpg",
@@ -179,7 +221,7 @@
           },
           "name": "スーパーロボット大戦EX",
           "name_cn": "超级机器人大战EX",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 219909
         },
@@ -193,7 +235,7 @@
           },
           "name": "スーパーロボット大戦F完結編",
           "name_cn": "超级机器人大战F完结篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 260925
         },
@@ -207,7 +249,7 @@
           },
           "name": "第3次スーパーロボット大戦",
           "name_cn": "第3次超级机器人大战",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 261045
         },
@@ -221,7 +263,7 @@
           },
           "name": "第4次スーパーロボット大戦",
           "name_cn": "第4次超级机器人大战",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 261047
         },
@@ -263,17 +305,17 @@
           },
           "name": "機動戦士ガンダム クライマックスU.C.",
           "name_cn": "机动战士高达 CLIMAX U.C.",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 313159
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/a6/314196_603mg.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/a6/314196_603mg.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/38/a6/314196_603mg.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/a6/314196_603mg.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/a6/314196_603mg.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/a6/314196_0xe4i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/a6/314196_0xe4i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/a6/314196_0xe4i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/a6/314196_0xe4i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/a6/314196_0xe4i.jpg"
           },
           "name": "ALL THAT GUNDAM",
           "name_cn": "",
@@ -283,17 +325,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/da/208858_9v8v2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/da/208858_9v8v2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/40/da/208858_9v8v2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/da/208858_9v8v2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/da/208858_9v8v2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/db/208857_jjJjv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/db/208857_jjJjv.jpg"
           },
-          "name": "スーパーロボット大戦XO",
-          "name_cn": "超级机器人大战XO",
-          "relation": "游戏",
+          "name": "スーパーロボット大戦GC",
+          "name_cn": "超级机器人大战GC",
+          "relation": "联动",
           "type": 4,
-          "id": 208858
+          "id": 208857
         },
         {
           "images": {
@@ -333,7 +375,7 @@
           },
           "name": "スーパーロボット大戦Card Chronicle",
           "name_cn": "超级机器人大战Card Chronicle",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 391873
         },
@@ -395,17 +437,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/d0/128803_ZAaiq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/d0/128803_ZAaiq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/53/d0/128803_ZAaiq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/d0/128803_ZAaiq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/d0/128803_ZAaiq.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9e/5b/560216_Z650Q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9e/5b/560216_Z650Q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9e/5b/560216_Z650Q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9e/5b/560216_Z650Q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9e/5b/560216_Z650Q.jpg"
           },
-          "name": "SDバトル大相撲 平成ヒーロー場所",
-          "name_cn": "SD战斗大相扑 平成英雄场所",
-          "relation": "游戏",
-          "type": 4,
-          "id": 128803
+          "name": "機動戦士ガンダム 光る命 Chronicle U.C.",
+          "name_cn": "机动战士高达：生命光辉 编年史U.C.",
+          "relation": "联动",
+          "type": 2,
+          "id": 560216
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/d6/120976_IXmVx.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/d6/120976_IXmVx.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/d6/120976_IXmVx.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/d6/120976_IXmVx.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/d6/120976_IXmVx.jpg"
+          },
+          "name": "いつか空に届いて",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 120976
         },
         {
           "images": {
@@ -445,7 +501,7 @@
           },
           "name": "スーパーロボット大戦α",
           "name_cn": "超级机器人大战α",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 17041
         },
@@ -465,6 +521,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/bf/76076_7g7Kk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/bf/76076_7g7Kk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1e/bf/76076_7g7Kk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/bf/76076_7g7Kk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/bf/76076_7g7Kk.jpg"
+          },
+          "name": "WHATEVER",
+          "name_cn": "",
+          "relation": "印象曲",
+          "type": 3,
+          "id": 76076
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/5a/78546_06b4B.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/5a/78546_06b4B.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/f9/5a/78546_06b4B.jpg",
@@ -473,7 +543,7 @@
           },
           "name": "スーパーロボット大戦 Operation Extend",
           "name_cn": "超级机器人大战Operation Extend",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 78546
         },
@@ -487,7 +557,7 @@
           },
           "name": "スーパーロボット大戦IMPACT",
           "name_cn": "超级机器人大战Impact",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 98593
         },
@@ -501,23 +571,9 @@
           },
           "name": "スーパーロボット大戦F",
           "name_cn": "超级机器人大战F",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 120059
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/d6/120976_IXmVx.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/d6/120976_IXmVx.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bf/d6/120976_IXmVx.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/d6/120976_IXmVx.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/d6/120976_IXmVx.jpg"
-          },
-          "name": "いつか空に届いて",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 120976
         },
         {
           "images": {
@@ -535,6 +591,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/d0/128803_ZAaiq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/d0/128803_ZAaiq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/53/d0/128803_ZAaiq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/d0/128803_ZAaiq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/d0/128803_ZAaiq.jpg"
+          },
+          "name": "SDバトル大相撲 平成ヒーロー場所",
+          "name_cn": "SD战斗大相扑 平成英雄场所",
+          "relation": "游戏",
+          "type": 4,
+          "id": 128803
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/d1/128805_o2OFZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/d1/128805_o2OFZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/d1/128805_o2OFZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/d1/128805_o2OFZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/128805_o2OFZ.jpg"
+          },
+          "name": "バトルドッジボール 闘球大激突!",
+          "name_cn": "SD躲避球 斗球大激突",
+          "relation": "游戏",
+          "type": 4,
+          "id": 128805
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/8a/6b/128811_hvKQa.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8a/6b/128811_hvKQa.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/8a/6b/128811_hvKQa.jpg",
@@ -543,7 +627,7 @@
           },
           "name": "ヒーロー戦記 プロジェクト オリュンポス",
           "name_cn": "英雄战记 奥林匹斯计划",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 128811
         },
@@ -557,7 +641,7 @@
           },
           "name": "スーパーロボット大戦COMPACT",
           "name_cn": "超级机器人大战COMPACT",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208853
         },
@@ -571,7 +655,7 @@
           },
           "name": "スーパーロボット大戦COMPACT2 第1部:地上激動篇",
           "name_cn": "超级机器人大战COMPACT2 地上激动篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208854
         },
@@ -585,23 +669,9 @@
           },
           "name": "スーパーロボット大戦COMPACT2 第3部:銀河決戦篇",
           "name_cn": "超级机器人大战COMPACT2 银河决战篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208856
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/db/208857_jjJjv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/db/208857_jjJjv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/69/db/208857_jjJjv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/db/208857_jjJjv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/db/208857_jjJjv.jpg"
-          },
-          "name": "スーパーロボット大戦GC",
-          "name_cn": "超级机器人大战GC",
-          "relation": "游戏",
-          "type": 4,
-          "id": 208857
         },
         {
           "images": {
@@ -653,10 +723,15 @@
       "tags": [
         "1989",
         "东映",
+        "东映アニメーション",
         "剧场版",
+        "动画",
         "圣斗士",
         "圣斗士星矢",
-        "热血"
+        "战斗",
+        "日本",
+        "热血",
+        "草尾毅"
       ],
       "infobox": [
         {
@@ -709,6 +784,20 @@
           "relation": "主线故事",
           "type": 2,
           "id": 4843
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f5/46/525670_yY0HI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f5/46/525670_yY0HI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f5/46/525670_yY0HI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f5/46/525670_yY0HI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f5/46/525670_yY0HI.jpg"
+          },
+          "name": "聖闘士星矢 音楽集VIII 最終聖戦の戦士たち オリジナル・サウンドトラック",
+          "name_cn": "圣斗士星矢 音乐集8 最终圣战的战士们 OST",
+          "relation": "原声集",
+          "type": 3,
+          "id": 525670
         }
       ]
     }
@@ -731,15 +820,22 @@
       "name_cn": "哆啦A梦：大雄的日本诞生",
       "tags": [
         "1989",
+        "1989年",
+        "1989年3月",
         "SHIN-EI",
         "シンエイ动画",
         "ドラえもん",
+        "冒险",
         "剧场版",
         "动画",
+        "原创",
         "哆啦A梦",
         "奇幻",
+        "子供向",
+        "战斗",
         "搞笑",
         "日本",
+        "日本动画",
         "映画",
         "漫改",
         "漫画改",
@@ -902,6 +998,34 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/5b/446_YvnAo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/5b/446_YvnAo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1a/5b/446_YvnAo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/5b/446_YvnAo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/5b/446_YvnAo.jpg"
+          },
+          "name": "ドラえもん のび太のパラレル西遊記",
+          "name_cn": "哆啦A梦：大雄的平行西游记",
+          "relation": "前传",
+          "type": 2,
+          "id": 446
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/1e/449_Li035.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/1e/449_Li035.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d6/1e/449_Li035.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/1e/449_Li035.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/1e/449_Li035.jpg"
+          },
+          "name": "ドラえもん のび太とアニマル惑星",
+          "name_cn": "哆啦A梦：大雄与动物行星",
+          "relation": "续集",
+          "type": 2,
+          "id": 449
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/75/18/32077_zKgEa.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/75/18/32077_zKgEa.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/75/18/32077_zKgEa.jpg",
@@ -980,11 +1104,11 @@
       "date": "1989-03-11",
       "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/46/3421_0lhhc.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/46/3421_0lhhc.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/e8/46/3421_0lhhc.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/46/3421_0lhhc.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/46/3421_0lhhc.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/46/3421_MVE3u.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/46/3421_MVE3u.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/e8/46/3421_MVE3u.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/46/3421_MVE3u.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/46/3421_MVE3u.jpg"
       },
       "summary": "故事讲述天照帝化身成雷帝欧斯·苏普到达究加太阳星团的亚特拉参加其好友铬·巴兰榭博士最后的Fatima的发表会，并从中带走深爱着他的拉克西丝的经过……\n\n电影故事正是《五星物语》漫画系列的第1话《命运三女神-拉克西丝》。",
       "name": "ファイブスター物語",
@@ -992,17 +1116,22 @@
       "tags": [
         "1980s",
         "1989",
+        "1989年",
         "1989年3月",
+        "80s",
         "80年代",
         "SF",
         "SUNRISE",
         "やまざきかずお",
+        "サンライズ",
         "五星物语",
         "剧场版",
         "史上最大怨念",
+        "堀川亮",
         "山崎和男",
         "巨坑",
         "年表",
+        "朝川朋之",
         "机体",
         "机战",
         "永野护",
@@ -1011,7 +1140,8 @@
         "科幻",
         "结城信辉",
         "萝卜",
-        "远藤明范"
+        "远藤明范",
+        "金子英俊"
       ],
       "infobox": [
         {
@@ -1282,6 +1412,7 @@
       "name_cn": "金星战记",
       "tags": [
         "1989",
+        "80年代",
         "久石让",
         "九月社",
         "井上俊之",
@@ -1290,10 +1421,13 @@
         "千明孝一",
         "安彦良和",
         "小林七郎",
+        "桥本晋治",
         "漫改",
         "漫画改",
         "独立剧场版",
-        "科幻"
+        "科幻",
+        "笹本佑一",
+        "金星战记"
       ],
       "infobox": [
         {
@@ -1332,7 +1466,7 @@
           "value": "安彦良和"
         },
         {
-          "key": "人物设计",
+          "key": "人物设定",
           "value": "安彦良和"
         },
         {
@@ -1348,20 +1482,20 @@
           "value": "浦田保則"
         },
         {
-          "key": "メカニック作画監督",
+          "key": "机械作画监督",
           "value": "佐野浩敏"
         },
         {
-          "key": "音楽監督",
-          "value": "久石譲"
+          "key": "音乐",
+          "value": "音乐监督：久石譲"
         },
         {
-          "key": "作画監督補",
-          "value": "仲盛文、川元利浩"
+          "key": "作画监督",
+          "value": "神村幸子"
         },
         {
-          "key": "色指定補",
-          "value": "吉森貴子、片山由美子"
+          "key": "色彩指定",
+          "value": "水田信子；色彩指定辅佐：吉森貴子、片山由美子"
         },
         {
           "key": "メカクリンナップ",
@@ -1369,7 +1503,7 @@
         },
         {
           "key": "製作",
-          "value": "ヴイナス戦記製作委員会（学習研究社、松竹、バンダイ）"
+          "value": "ヴイナス戦記製作委員会（学習研究社（学研ホールディングス）、松竹、バンダイ）"
         }
       ],
       "total_episodes": 1,
@@ -1448,7 +1582,9 @@
       "name_cn": "宇宙皇子 地上篇",
       "tags": [
         "1989",
-        "剧场版"
+        "剧场版",
+        "吉田宪二",
+        "武上纯希"
       ],
       "infobox": [
         {
@@ -1549,7 +1685,9 @@
       "summary": "アンパンマンはいつものように町をパトロールしていたが、お腹を空かしている人に自分の顔の一部をあげたので力が半減。途中で疾風と雷に会い、落下しそうになるところを宇宙船に助けられた。しかし、激しい稲妻に宇宙船も落下。今度はアンパンマンが乗組員のロボット、マルデ・ヘンダーを助けた。マルデはドロンコ魔王に盗まれたキラキラの涙という宝石を取り返しにナンダ・ナンダー姫と地球にやって来たのだった。キラキラの涙は悪い心の者が持てば悪の力を発揮し、正しい心の者が持てば平和が訪れるという。その秘密を知ったばいきんまんは姫を森の中に閉じ込めたが、姫は同じ目的のドキンちゃんによって解き放たれ、アンパンマンに無事救出されたのだった。そしてアンパンマンはカレーパンマンやしょくぱんまんたちとナンダ・ナンダー姫のためにキラキラの涙を探す旅に出発。いろいろな宝石を集めている恐ろしい氷の女王から苦戦の末、そのキラキラの涙を取り戻したのだった。",
       "name": "それいけ!アンパンマン キラキラ星の涙",
       "name_cn": "面包超人：亮晶晶星的眼泪",
-      "tags": [],
+      "tags": [
+        "剧场版"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -1698,11 +1836,18 @@
       "name": "戦え!超ロボット生命体 トランスフォーマーV",
       "name_cn": "变形金刚之胜利斗争",
       "tags": [
+        "1989",
         "TV",
         "东映",
+        "东映动画",
+        "动画",
         "变形金刚",
+        "战斗",
+        "日本",
         "日本动画",
         "机战",
+        "科幻",
+        "童年",
         "萝卜"
       ],
       "infobox": [
@@ -1734,6 +1879,14 @@
         {
           "key": "放送开始",
           "value": "1989年3月14日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://lineup.toei-anim.co.jp/ja/tv/victory/"
         },
         {
           "key": "播放电视台",
@@ -1941,6 +2094,90 @@
       "nsfw": false,
       "type": 2,
       "relations": []
+    }
+  },
+  {
+    "title": "劇場版 ひみつのアッコちゃん",
+    "date": "1989-03-18",
+    "bangumi": {
+      "date": "1989-03-18",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/d9/499293_HyEeb.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/d9/499293_HyEeb.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ea/d9/499293_HyEeb.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/d9/499293_HyEeb.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/d9/499293_HyEeb.jpg"
+      },
+      "summary": "9年振りの魔女っ子劇場作にして、初の劇場用新作。内容は、アッコたちが遊ぶ広場にビルを建てようとするのを阻止しようとする、下町舞台の話では良くある話だが、そのビル建設発起人が大将の父親というのが異色。作品ではアッコは、メス猫・巫女・バトントワラー、そして大将の父の初恋の少女の、計4キャラに変身する。",
+      "name": "劇場版 ひみつのアッコちゃん",
+      "name_cn": "剧场版 甜蜜小天使",
+      "tags": [],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "剧场版 甜蜜小天使"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Himitsu no Akko-chan (Movie)"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "1989年3月18日"
+        },
+        {
+          "key": "片长",
+          "value": "25分"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "赤塚不二夫"
+        },
+        {
+          "key": "导演",
+          "value": "芝田浩樹"
+        },
+        {
+          "key": "人物设定",
+          "value": "兼森義則"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 499293,
+      "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/7b/89256_49wxC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/7b/89256_49wxC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/7b/89256_49wxC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/7b/89256_49wxC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/7b/89256_49wxC.jpg"
+          },
+          "name": "ひみつのアッコちゃん（第2作）",
+          "name_cn": "甜蜜小天使",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 89256
+        }
+      ]
     }
   }
 ]

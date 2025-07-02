@@ -18,9 +18,13 @@
       "tags": [
         "1987",
         "1987年",
+        "1987年4月",
         "80年代",
         "SUNRISE",
         "TV",
+        "TVA",
+        "こだま兼嗣",
+        "侠探寒羽良",
         "儿玉兼嗣",
         "剧情类",
         "北条司",
@@ -28,6 +32,8 @@
         "寒羽良",
         "搞笑",
         "日本",
+        "日本动画",
+        "日番",
         "星山博之",
         "漫改",
         "漫画改",
@@ -52,6 +58,35 @@
           "value": "1987年4月6日"
         },
         {
+          "key": "放送星期",
+          "value": "星期一"
+        },
+        {
+          "key": "官方网站",
+          "value": [
+            {
+              "k": "Sunrise World",
+              "v": "https://sunrise-world.net/titles/pickup_080.php"
+            },
+            {
+              "k": "Sunrise",
+              "v": "https://www.sunrise-inc.co.jp/work/detail.php?cid=80"
+            },
+            {
+              "k": "Aniplex",
+              "v": "https://www.aniplex.co.jp/lineup/cityhunter/"
+            },
+            {
+              "k": "dvd",
+              "v": "https://www.cityhunter-dvd.com/"
+            },
+            {
+              "k": "bdbox",
+              "v": "https://cityhunter-bdbox.com/"
+            }
+          ]
+        },
+        {
           "key": "播放电视台",
           "value": "日本テレビ系列"
         },
@@ -66,6 +101,10 @@
         {
           "key": "音乐",
           "value": "国吉良一(１話～２６話)、矢野立美(６話～)"
+        },
+        {
+          "key": "Copyright",
+          "value": "©北条司／NSP・読売テレビ・サンライズ"
         },
         {
           "key": "原作",
@@ -152,62 +191,6 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/9d/28576_6t565.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/9d/28576_6t565.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/72/9d/28576_6t565.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/9d/28576_6t565.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/9d/28576_6t565.jpg"
-          },
-          "name": "시티헌터",
-          "name_cn": "城市猎人",
-          "relation": "三次元",
-          "type": 6,
-          "id": 28576
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/bc/36101_2no1g.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/bc/36101_2no1g.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/08/bc/36101_2no1g.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/bc/36101_2no1g.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/bc/36101_2no1g.jpg"
-          },
-          "name": "シティーハンター",
-          "name_cn": "城市猎人",
-          "relation": "书籍",
-          "type": 1,
-          "id": 36101
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/c8/36176_cSvS1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/c8/36176_cSvS1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a0/c8/36176_cSvS1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/c8/36176_cSvS1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/c8/36176_cSvS1.jpg"
-          },
-          "name": "城市獵人",
-          "name_cn": "城市猎人",
-          "relation": "不同演绎",
-          "type": 6,
-          "id": 36176
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/6c/53925_zkKaF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/6c/53925_zkKaF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/08/6c/53925_zkKaF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/6c/53925_zkKaF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/6c/53925_zkKaF.jpg"
-          },
-          "name": "シティーハンター2",
-          "name_cn": "城市猎人 第二季",
-          "relation": "续集",
-          "type": 2,
-          "id": 53925
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/51/114691_sNH9s.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/51/114691_sNH9s.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/31/51/114691_sNH9s.jpg",
@@ -222,59 +205,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/2d/135099_HCMFb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/2d/135099_HCMFb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cf/2d/135099_HCMFb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/2d/135099_HCMFb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/2d/135099_HCMFb.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/63/411135_zyxQt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/63/411135_zyxQt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/63/411135_zyxQt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/63/411135_zyxQt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/63/411135_zyxQt.jpg"
           },
-          "name": "シティーハンター OAD",
-          "name_cn": "城市猎人 OAD",
-          "relation": "番外篇",
-          "type": 2,
-          "id": 135099
+          "name": "シティーハンター",
+          "name_cn": "城市猎人",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 411135
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/33/140254_SwSqd.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/33/140254_SwSqd.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/19/33/140254_SwSqd.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/33/140254_SwSqd.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/33/140254_SwSqd.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/0d/287735_Xvvvt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/0d/287735_Xvvvt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/05/0d/287735_Xvvvt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/0d/287735_Xvvvt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/0d/287735_Xvvvt.jpg"
           },
-          "name": "City Hunter～愛よ消えないで～",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 140254
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/84/140295_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/84/140295_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ec/84/140295_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/84/140295_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/84/140295_jp.jpg"
-          },
-          "name": "ゴーゴーヘブン",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 140295
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/58/215549_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/58/215549_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ae/58/215549_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/58/215549_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/58/215549_jp.jpg"
-          },
-          "name": "シティーハンター VOL.2",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 215549
+          "name": "Nicky Larson et le Parfum de Cupidon",
+          "name_cn": "城市猎人 (2019)",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 287735
         },
         {
           "images": {
@@ -292,17 +247,115 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/0d/287735_Xvvvt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/0d/287735_Xvvvt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/05/0d/287735_Xvvvt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/05/0d/287735_Xvvvt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/05/0d/287735_Xvvvt.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/58/215549_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/58/215549_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ae/58/215549_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/58/215549_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/58/215549_jp.jpg"
           },
-          "name": "Nicky Larson et le Parfum de Cupidon",
-          "name_cn": "城市猎人 (2019)",
-          "relation": "三次元",
+          "name": "シティーハンター VOL.2",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 215549
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/84/140295_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/84/140295_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ec/84/140295_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/84/140295_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/84/140295_jp.jpg"
+          },
+          "name": "ゴーゴーヘブン",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 140295
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/19/33/140254_SwSqd.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/19/33/140254_SwSqd.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/19/33/140254_SwSqd.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/19/33/140254_SwSqd.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/33/140254_SwSqd.jpg"
+          },
+          "name": "City Hunter～愛よ消えないで～",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 140254
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/9d/28576_6t565.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/9d/28576_6t565.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/9d/28576_6t565.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/9d/28576_6t565.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/9d/28576_6t565.jpg"
+          },
+          "name": "시티헌터",
+          "name_cn": "城市猎人",
+          "relation": "不同演绎",
           "type": 6,
-          "id": 287735
+          "id": 28576
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/6c/53925_zkKaF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/6c/53925_zkKaF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/08/6c/53925_zkKaF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/6c/53925_zkKaF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/6c/53925_zkKaF.jpg"
+          },
+          "name": "シティーハンター2",
+          "name_cn": "城市猎人 第二季",
+          "relation": "续集",
+          "type": 2,
+          "id": 53925
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/ea/41883_Yta9i.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/ea/41883_Yta9i.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ff/ea/41883_Yta9i.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/ea/41883_Yta9i.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/ea/41883_Yta9i.jpg"
+          },
+          "name": "エンジェル・ハート",
+          "name_cn": "天使心",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 41883
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/c8/36176_cSvS1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/c8/36176_cSvS1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a0/c8/36176_cSvS1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/c8/36176_cSvS1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/c8/36176_cSvS1.jpg"
+          },
+          "name": "城市獵人",
+          "name_cn": "城市猎人",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 36176
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/08/bc/36101_2no1g.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/08/bc/36101_2no1g.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/08/bc/36101_2no1g.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/08/bc/36101_2no1g.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/08/bc/36101_2no1g.jpg"
+          },
+          "name": "シティーハンター",
+          "name_cn": "城市猎人",
+          "relation": "书籍",
+          "type": 1,
+          "id": 36101
         },
         {
           "images": {
@@ -320,17 +373,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/29/240821_lh620.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/29/240821_lh620.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7c/29/240821_lh620.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/29/240821_lh620.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/29/240821_lh620.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/4b/53927_Y7cT1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/4b/53927_Y7cT1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/4b/53927_Y7cT1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/4b/53927_Y7cT1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/4b/53927_Y7cT1.jpg"
           },
-          "name": "劇場版シティーハンター 新宿プライベート・アイズ",
-          "name_cn": "剧场版 城市猎人 新宿私家侦探",
+          "name": "シティーハンター 愛と宿命のマグナム",
+          "name_cn": "城市猎人 爱与宿命的连发枪",
           "relation": "番外篇",
           "type": 2,
-          "id": 240821
+          "id": 53927
         },
         {
           "images": {
@@ -348,17 +401,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/c2/377649_aqY5d.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/c2/377649_aqY5d.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4a/c2/377649_aqY5d.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/c2/377649_aqY5d.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/c2/377649_aqY5d.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/d0/53932_XCZMg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/d0/53932_XCZMg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f7/d0/53932_XCZMg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/d0/53932_XCZMg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/d0/53932_XCZMg.jpg"
           },
-          "name": "劇場版シティーハンター 天使の涙",
-          "name_cn": "剧场版 城市猎人 天使之泪",
+          "name": "シティーハンター ベイシティウォーズ",
+          "name_cn": "城市猎人 海滩城市之战",
           "relation": "番外篇",
           "type": 2,
-          "id": 377649
+          "id": 53932
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/6c/53933_QU4Z3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/6c/53933_QU4Z3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/6c/53933_QU4Z3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/6c/53933_QU4Z3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/6c/53933_QU4Z3.jpg"
+          },
+          "name": "シティーハンター 百万ドルの陰謀",
+          "name_cn": "城市猎人 百万美金的阴谋",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 53933
         },
         {
           "images": {
@@ -373,6 +440,48 @@
           "relation": "其他",
           "type": 3,
           "id": 212804
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/2d/135099_HCMFb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/2d/135099_HCMFb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cf/2d/135099_HCMFb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/2d/135099_HCMFb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/2d/135099_HCMFb.jpg"
+          },
+          "name": "シティーハンター OAD",
+          "name_cn": "城市猎人 OAD",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 135099
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/29/240821_lh620.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/29/240821_lh620.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7c/29/240821_lh620.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/29/240821_lh620.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/29/240821_lh620.jpg"
+          },
+          "name": "劇場版シティーハンター 新宿プライベート・アイズ",
+          "name_cn": "剧场版 城市猎人 新宿私家侦探",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 240821
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/c2/377649_aqY5d.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/c2/377649_aqY5d.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4a/c2/377649_aqY5d.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/c2/377649_aqY5d.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/c2/377649_aqY5d.jpg"
+          },
+          "name": "劇場版シティーハンター 天使の涙",
+          "name_cn": "剧场版 城市猎人 天使之泪",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 377649
         }
       ]
     }
@@ -397,24 +506,32 @@
         "1987",
         "1987年",
         "1987年4月",
+        "80s",
         "80年代",
         "StudioPierrot",
         "TV",
         "TVA",
         "ぴえろ",
+        "三角恋",
         "古谷彻",
         "奇幻",
+        "寺田宪史",
+        "小丑社",
         "小林治",
         "恋爱",
         "搞笑",
         "日常",
+        "日本",
         "望月智充",
         "松本泉",
         "校园",
         "橙路",
         "漫改",
         "漫画改",
+        "经典",
         "非常经典的作品,真的",
+        "高田明美",
+        "鹤ひろみ",
         "鹭巣诗郎"
       ],
       "infobox": [
@@ -457,6 +574,10 @@
         {
           "key": "导演",
           "value": "小林治"
+        },
+        {
+          "key": "Copyright",
+          "value": "© まつもと泉／集英社・日本テレビ・東宝"
         },
         {
           "key": "原作",
@@ -754,11 +875,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c4/8e/13677_rPSJ3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c4/8e/13677_rPSJ3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c4/8e/13677_rPSJ3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c4/8e/13677_rPSJ3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c4/8e/13677_rPSJ3.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c4/8e/13677_5H7u9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c4/8e/13677_5H7u9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c4/8e/13677_5H7u9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c4/8e/13677_5H7u9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c4/8e/13677_5H7u9.jpg"
           },
           "name": "きまぐれオレンジ☆ロード あの日にかえりたい",
           "name_cn": "橙路 再回到往日",
@@ -818,11 +939,11 @@
       "date": "1987-04-12",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/b6/26798_77GD7.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/b6/26798_77GD7.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/ce/b6/26798_77GD7.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/b6/26798_77GD7.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/b6/26798_77GD7.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ce/b6/26798_pNzf9.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ce/b6/26798_pNzf9.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ce/b6/26798_pNzf9.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ce/b6/26798_pNzf9.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ce/b6/26798_pNzf9.jpg"
       },
       "summary": "西暦2387年、「第二の地球」と呼ばれた植民惑星マリスで暮らす人類は、凶悪な宇宙の侵略者ノーザ星人の侵攻により危機に陥っていた。人類の兵器ではノーザ星人の装甲に歯が立たず、火力でも圧倒され、人類の滅亡は時間の問題だった。\n\nそのとき、未知の超文明から3丁の銃が人類にもたらされた。ターゲットを分子崩壊によって消滅させるこの銃は、ノーザ星人に対して唯一の有効な武器であり、神秘の銃「ジリオン」と命名された。マリス防衛軍は、ジリオンを活用して戦局を打開すべく、ジリオンを持つにふさわしい3名のエキスパート／JJ、アップル、チャンプを選抜し、スペシャルチーム「ホワイト・ナッツ」を編成した。\n\n以降、ホワイト・ナッツとノーザ星人の死闘が繰り広げられる。中でもホワイト・ナッツにより敗北を喫せられて以来、JJを宿敵としてつけ狙うノーザ軍指揮官バロン・リックスとの対決は壮絶を極めた。しかし、リックスはJJとの決着が果たされることなく「命の時」を迎えてしまう。「命の時」とは何なのか？ リックスによってノーザ星人の悲しき宿命が語られた。",
       "name": "赤い光弾ジリオン",
@@ -831,8 +952,10 @@
         "1987",
         "Production.I.G",
         "TV",
+        "京都アニメーション",
         "京阿尼",
         "原创",
+        "日本动画",
         "西久保瑞穂",
         "龙之子"
       ],
@@ -864,8 +987,48 @@
           "value": "1987年4月12日"
         },
         {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://tatsunoko.co.jp/works/zillion/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "日本テレビ"
+        },
+        {
           "key": "播放结束",
           "value": "1987年12月13日"
+        },
+        {
+          "key": "导演",
+          "value": "西久保瑞穂（チーフディレクター）"
+        },
+        {
+          "key": "音乐",
+          "value": "入江純"
+        },
+        {
+          "key": "其他",
+          "value": "第17话开始更名为「赤い光弾ジリオン 激闘編」"
+        },
+        {
+          "key": "Copyright",
+          "value": "©タツノコプロ"
+        },
+        {
+          "key": "机械设定",
+          "value": "アンモナイト（小川浩、小野隆嗣、大倉宏俊）；机械设定协力：青井邦夫（11話-）"
+        },
+        {
+          "key": "系列构成",
+          "value": "関島眞頼（文芸構成）"
+        },
+        {
+          "key": "制作协力",
+          "value": "竜の子制作分室（Production I.G）、京都アニメーション（八田英明）；協力プロダクション：タマプロダクション、きのプロダクション"
         }
       ],
       "total_episodes": 31,
@@ -873,7 +1036,9 @@
       "eps": 31,
       "meta_tags": [
         "TV",
-        "日本"
+        "日本",
+        "原创",
+        "战斗"
       ],
       "volumes": 0,
       "series": false,
@@ -936,6 +1101,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 261177
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/19/540988_k1wAQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/19/540988_k1wAQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/19/540988_k1wAQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/19/540988_k1wAQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/19/540988_k1wAQ.jpg"
+          },
+          "name": "赤い光弾ジリオン ZILLION・LET IT ROCK!",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 540988
         }
       ]
     }
@@ -947,21 +1126,26 @@
       "date": "1987-04-07",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/f5/75182_zZkjR.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/f5/75182_zZkjR.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/32/f5/75182_zZkjR.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/f5/75182_zZkjR.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/f5/75182_zZkjR.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/32/f5/75182_O1poB.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/32/f5/75182_O1poB.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/32/f5/75182_O1poB.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/32/f5/75182_O1poB.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/32/f5/75182_O1poB.jpg"
       },
       "summary": "明月中学に通う普通の中学生・佐倉魔美は、同級生の高畑和夫を思わず助けたことから、自分がエスパーであることに気づく。当初、自分をエスパーだと誤解していた高畑だったが、それは魔美のものだと気づき魔美のよき理解者になると共に助言をするようになる。自らの超能力を高めていく魔美は、その能力を人助けのために活用する。",
       "name": "エスパー魔美",
       "name_cn": "超能力魔美",
       "tags": [
         "1987",
+        "SHIN-EI",
+        "Shin-EiAnimation",
         "TV",
+        "原惠一",
         "奇幻",
+        "旧物",
         "漫画改",
         "经典",
+        "草尾毅",
         "藤子·F·不二雄",
         "魔法少女"
       ],
@@ -987,8 +1171,24 @@
           "value": "1987年4月7日"
         },
         {
+          "key": "放送星期",
+          "value": "星期二"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.shin-ei-animation.jp/2016/mami/index.html"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ朝日系"
+        },
+        {
           "key": "播放结束",
           "value": "1989年10月26日"
+        },
+        {
+          "key": "Copyright",
+          "value": "(C)藤子プロ/シンエイ動画・小学館"
         }
       ],
       "total_episodes": 120,
@@ -1055,8 +1255,14 @@
       "tags": [
         "1987",
         "OVA",
+        "原创",
+        "山本百合子",
+        "断空我",
         "机战",
-        "萝卜"
+        "科幻",
+        "苇PRODUCTION",
+        "萝卜",
+        "超獣机神ダンクーガ"
       ],
       "infobox": [
         {
@@ -1191,6 +1397,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 478509
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/e6/555456_rU9K7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/e6/555456_rU9K7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/e6/555456_rU9K7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/e6/555456_rU9K7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/e6/555456_rU9K7.jpg"
+          },
+          "name": "超獣機神ダンクーガファイナルメモリアル",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 555456
         }
       ]
     }
@@ -1213,11 +1433,16 @@
       "name_cn": "棒球英豪3 在你离开之后",
       "tags": [
         "1987",
+        "GroupTac",
+        "Touch",
+        "グループ·タック",
         "剧场版",
         "安达充",
         "小南",
         "总集篇",
-        "棒球英豪"
+        "棒球",
+        "棒球英豪",
+        "运动"
       ],
       "infobox": [
         {
@@ -1395,11 +1620,11 @@
       "date": "1987-04-19",
       "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/26/10465_7Bxjr.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/26/10465_7Bxjr.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/41/26/10465_7Bxjr.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/26/10465_7Bxjr.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/26/10465_7Bxjr.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/26/10465_2PP41.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/26/10465_2PP41.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/41/26/10465_2PP41.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/26/10465_2PP41.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/26/10465_2PP41.jpg"
       },
       "summary": "《妖兽都市》动画版，为根据菊地秀行原作小说《妖兽都市》改编，于1987年4月19日上映的日本动画电影，由川尻善昭执导，本片也是原作者盛赞“最接近原作小说风格”的改编版本。1988年并曾于香港上映。\n\n       泷莲三郎，表面上只是个平凡的上班族业务员，但他的真正面貌，却是为了人界与魔界之间的和平而奋战的“黑暗护卫”（闇ガード）。\n       为了即将在东京签订的两界休战条约，他必须担任前来出席签订仪式的传奇魔导士乔瑟贝‧迈亚多的护卫。而他的另一个搭档却是来自魔界的黑暗护卫，一位绝色美女麻纪绘。他们好不容易在魔界激进派分子的突袭后，于机场见到了迈亚多，但却发现他不过只是个任性的好色老头，而泷与麻纪绘两人的个性也相当不对盘。但彼此基于职责所在，还是将迈亚多护送到饭店。殊不知魔界激进派分子早已经设下埋伏展开攻击，意图破坏和约的签订。在重重危机中，泷与麻纪绘是否能顺利完成任务？而随着局势发展，泷与麻纪绘也终于发现整个事件背后更令人惊讶的真相，竟是与自己有关……\n\n　　本片的原始企画仅为35分钟左右的OVA作品，后来却在制作分镜稿时，发展成为87分钟的动画电影。",
       "name": "妖獣都市",
@@ -1407,6 +1632,7 @@
       "tags": [
         "1980s",
         "1987",
+        "1987年",
         "80年代",
         "MADHouse",
         "OVA",
@@ -1417,13 +1643,20 @@
         "妖魔",
         "小说改",
         "川尻善昭",
+        "日本",
+        "日本动画",
+        "映画",
+        "混乱",
         "爱情",
+        "独立剧场版",
         "猎奇",
+        "电影",
         "男鹿和雄",
         "色老头",
         "菊地秀行",
         "里番",
-        "重口"
+        "重口",
+        "长希星"
       ],
       "infobox": [
         {
@@ -1505,7 +1738,7 @@
           },
           "name": "妖獸都市",
           "name_cn": "妖兽都市",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 133469
         },
@@ -1542,7 +1775,9 @@
       "summary": "1984年（昭和59年）から1989年（平成元年）まで、中央公論社刊『藤子不二雄ランド』の巻末に連載された。\n宇宙からやって来た謎の赤ん坊、ウルトラBと小学生のミチオの繰り広げるギャグ作品。単行本は中央公論社刊のものが全11巻あったが、現在は絶版。\nアニメ化もされ、1987年（昭和62年）4月 - 1989年（平成元年）3月まで放映[1]。全119話。\n1987年4月 - 1987年9月 ： 日曜朝の『藤子不二雄劇場』にて『オバケのQ太郎』とともに放映。\n1987年10月 - 1989年3月 ： 月曜19時台の『藤子不二雄Ⓐワールド』にて『プロゴルファー猿』や『ビリ犬』とともに放映。\nテレビ朝日系、シンエイ動画制作。劇場用アニメ『ウルトラB ブラックホールからの独裁者B・B』（1988年、立体映画）も作られた。\n現在、テレ朝チャンネルで再放送されている。\n原作ではUBのサングラスは一般的な太い縁のものだったが、アニメ化に伴い途中から翼の様なデザインのサングラスに変更された。又、口元のホクロも黒丸から水色の星型になった。",
       "name": "ウルトラB",
       "name_cn": "太空儿UB",
-      "tags": [],
+      "tags": [
+        "1987"
+      ],
       "infobox": [
         {
           "key": "中文名",

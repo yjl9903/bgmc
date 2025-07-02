@@ -22,6 +22,9 @@
         "OVA",
         "タツノコプロ",
         "原创",
+        "总集篇",
+        "日本",
+        "日本动画",
         "机战",
         "林明美",
         "河森正治",
@@ -138,6 +141,20 @@
           "relation": "主线故事",
           "type": 2,
           "id": 3166
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/40/532778_A542F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/40/532778_A542F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/40/532778_A542F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/40/532778_A542F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/40/532778_A542F.jpg"
+          },
+          "name": "UNION ARENA",
+          "name_cn": "携战之境",
+          "relation": "游戏",
+          "type": 4,
+          "id": 532778
         }
       ]
     }
@@ -158,7 +175,9 @@
       "summary": "电脑RIM（利姆）率领着亚可（アルゴ）共和国的机器勇士军团，与搭乘幸运号（グッドラック号）从地球而来的明章（アキラ）等人，一同联手组成问题部队‘雷鸟游击队（バトルハッカーズ）’向迪蓝（ディラン）总统带领的‘古雷特（グレンドス）帝国’激烈地展开的漫长的战斗。",
       "name": "マシンロボ ぶっちぎりバトルハッカーズ",
       "name_cn": "天威勇士 战斗黑客",
-      "tags": [],
+      "tags": [
+        "1987"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -188,31 +207,43 @@
           "value": "星期三"
         },
         {
+          "key": "官方网站",
+          "value": "http://www.ashipro.jp/works/tv_series/w013.html"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ東京系列"
+        },
+        {
           "key": "播放结束",
           "value": "1987年12月30日"
         },
         {
-          "key": "監督",
+          "key": "导演",
           "value": "吉田浩"
         },
         {
-          "key": "シリーズ構成",
-          "value": "園田英樹、岸間信明"
-        },
-        {
-          "key": "キャラクターデザイン",
-          "value": "つるやまおさむ"
-        },
-        {
-          "key": "メカニックデザイン",
-          "value": "やまだたかひろ、原口沢清"
-        },
-        {
-          "key": "音楽",
+          "key": "音乐",
           "value": "あかのたちお"
         },
         {
-          "key": "プロデューサー",
+          "key": "Copyright",
+          "value": "（Ｃ）PRODUCTION REED 1987"
+        },
+        {
+          "key": "系列构成",
+          "value": "園田英樹、岸間信明"
+        },
+        {
+          "key": "人物设定",
+          "value": "つるやまおさむ"
+        },
+        {
+          "key": "机械设定",
+          "value": "やまだたかひろ、原口沢清"
+        },
+        {
+          "key": "制片人",
           "value": "江津兵太（テレビ東京）、大野実（読売広告社）、梅原勝"
         },
         {
@@ -224,8 +255,11 @@
       "id": 37241,
       "eps": 31,
       "meta_tags": [
+        "机战",
         "TV",
-        "日本"
+        "日本",
+        "原创",
+        "子供向"
       ],
       "volumes": 0,
       "series": false,

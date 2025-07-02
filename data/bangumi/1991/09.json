@@ -83,15 +83,15 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/51/4653_4SRkS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/51/4653_4SRkS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b1/51/4653_4SRkS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/51/4653_4SRkS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/51/4653_4SRkS.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/51/4653_NdwT4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/51/4653_NdwT4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/51/4653_NdwT4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/51/4653_NdwT4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/51/4653_NdwT4.jpg"
           },
           "name": "天空戦記シュラト",
           "name_cn": "天空战记",
-          "relation": "主线故事",
+          "relation": "前传",
           "type": 2,
           "id": 4653
         },
@@ -108,6 +108,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 60851
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/66/565901_cBh0o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/66/565901_cBh0o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/66/565901_cBh0o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/66/565901_cBh0o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/66/565901_cBh0o.jpg"
+          },
+          "name": "OVA「天空戦記シュラト・創生への暗闘」/ 那羅王",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 565901
         }
       ]
     }
@@ -129,6 +143,7 @@
       "name": "おたくのビデオ",
       "name_cn": "OTAKU的录像带",
       "tags": [
+        "1990s",
         "1991",
         "1991年",
         "90年代",
@@ -138,6 +153,8 @@
         "Otaku",
         "もりたけし",
         "冈田斗司夫",
+        "剧场版",
+        "动画",
         "原创",
         "园田健一",
         "宅",
@@ -147,6 +164,7 @@
         "本田雄",
         "森健",
         "樋口真嗣",
+        "独立ova",
         "田中公平",
         "真人",
         "纪录片",
@@ -263,6 +281,20 @@
           "relation": "其他",
           "type": 2,
           "id": 55654
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/0c/565998_NaD31.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/0c/565998_NaD31.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5f/0c/565998_NaD31.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/0c/565998_NaD31.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/0c/565998_NaD31.jpg"
+          },
+          "name": "おたくのビデオ ★オリジナル・サウンド トラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 565998
         }
       ]
     }
@@ -337,26 +369,36 @@
       "name": "老人Z",
       "name_cn": "老人Z",
       "tags": [
+        "1990s",
         "1991",
         "1991年",
         "1991年9月",
+        "90s",
         "90年代",
         "A.P.P.P.",
         "SF",
         "人工智能",
         "今敏",
+        "冲浦启之",
         "剧场版",
+        "动画",
         "动画电影",
         "北久保弘之",
         "原创",
         "大友克洋",
         "押井守",
+        "搞笑",
+        "日本",
+        "日本动画",
         "映画",
         "江口寿史",
         "田中达之",
         "电影",
+        "社会问题",
         "科幻",
-        "老人"
+        "老人",
+        "老人Z",
+        "萝卜"
       ],
       "infobox": [
         {
@@ -383,23 +425,31 @@
           "value": "80分钟"
         },
         {
-          "key": "作監補",
+          "key": "官方网站",
+          "value": "https://www.aniplex.co.jp/lineup/rojinz/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©1991 TOKYO THEATRES CO.,INC./KADOKAWA SHOTEN PUBLISHING CO.,LTD./MOVIC CO.,LTD./tv asahi/Aniplex Inc."
+        },
+        {
+          "key": "作画监督助理",
           "value": "鈴木美代子、川名久美子"
         },
         {
-          "key": "美監補",
-          "value": "串田達也、神山健治"
+          "key": "美术监督",
+          "value": "佐々木洋；辅佐：串田達也、神山健治"
         },
         {
-          "key": "動画チェック",
+          "key": "动画检查",
           "value": "長岡孝善、わたなべりつこ、白川宏"
         },
         {
-          "key": "動画",
+          "key": "补间动画",
           "value": "吉川忠男・池内智男 中崎光康・岩井禎行 松原ゆうじ・嶋田俊彦 大貫有希・湯浅秀男 横山義家・青木理恵 川原真哉  ウォンバット・ブーメラン 金成WORLD・ポエムシネマ 孝仁動画・HANAプロダクション"
         },
         {
-          "key": "特殊効果",
+          "key": "特效",
           "value": "榊原豊彦"
         },
         {
@@ -407,7 +457,7 @@
           "value": "池畑祐治"
         },
         {
-          "key": "演出助手",
+          "key": "演出助理",
           "value": "森川定美"
         },
         {
@@ -421,6 +471,58 @@
         {
           "key": "企画",
           "value": "肥田光久、有吉司、井上伸一郎、沢登昌樹、野村和史"
+        },
+        {
+          "key": "色彩指定",
+          "value": "安斉弘美；辅佐：高木雅人"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "福岡智彦；助理：小摩木紀彰"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ティックタックパブリッシャー"
+        },
+        {
+          "key": "音响",
+          "value": "アーツプロ(嶋恵子)"
+        },
+        {
+          "key": "录音",
+          "value": "阿部幸雄"
+        },
+        {
+          "key": "音效",
+          "value": "今野康之(スワラプロ)"
+        },
+        {
+          "key": "制片人",
+          "value": "野村和史、風間康久"
+        },
+        {
+          "key": "协力",
+          "value": "AIC、アウベック、マジックバス、アシプロ、DAST、ACJ、スタジオかあたん、英雨、新友動画、NARAプロ、韓一動画、錦映動画、韓栄動画、辻壮一(A.S.H.)"
+        },
+        {
+          "key": "制作进行",
+          "value": "篠澤光輝"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "小川美潮"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "小川美潮"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "板倉文"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "板倉文"
         }
       ],
       "total_episodes": 1,
@@ -429,6 +531,7 @@
       "meta_tags": [
         "科幻",
         "剧场版",
+        "日本",
         "原创"
       ],
       "volumes": 0,

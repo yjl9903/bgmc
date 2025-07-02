@@ -35,9 +35,9 @@
         "奈须蘑菇",
         "山口佑司",
         "川井宪次",
-        "川澄绫子",
         "恋爱",
         "战斗",
+        "日本",
         "武内崇",
         "游戏改",
         "热血",
@@ -80,6 +80,22 @@
           "value": "2006年1月6日"
         },
         {
+          "key": "放送星期",
+          "value": "星期五"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.nbcuni.co.jp/rondorobe/anime/staynight/top.html"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ埼玉"
+        },
+        {
+          "key": "其他电视台",
+          "value": "チバテレビ/KBS京都/tvk/TOKYO MX/サンテレビ/テレビ愛知"
+        },
+        {
           "key": "播放结束",
           "value": "2006年6月17日"
         },
@@ -93,11 +109,11 @@
         },
         {
           "key": "Copyright",
-          "value": "Fate Project"
+          "value": "©TYPE-MOON／Fate Project"
         },
         {
           "key": "原作",
-          "value": "TYPE-MOON"
+          "value": "奈須きのこ／TYPE-MOON"
         },
         {
           "key": "系列构成",
@@ -124,11 +140,19 @@
           "value": "辻谷耕史"
         },
         {
-          "key": "制作",
-          "value": "Fate Project"
+          "key": "製作",
+          "value": "Fate Project（ジェネオンエンタテインメント、TBS、CREi、ノーツ、フロンティアワークス）"
+        },
+        {
+          "key": "制片人",
+          "value": "小倉充俊、源生哲雄、斎藤正明、竹内友崇（武内崇）、松永孝之"
+        },
+        {
+          "key": "总制片人",
+          "value": "西村潤"
         }
       ],
-      "total_episodes": 28,
+      "total_episodes": 27,
       "id": 290,
       "eps": 24,
       "meta_tags": [
@@ -146,87 +170,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/bf/175600_4wcTq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/bf/175600_4wcTq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2c/bf/175600_4wcTq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/bf/175600_4wcTq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/bf/175600_4wcTq.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/1f/10639_w4sHs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/1f/10639_w4sHs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/86/1f/10639_w4sHs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/1f/10639_w4sHs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/1f/10639_w4sHs.jpg"
           },
-          "name": "劇場版 Fate/stay night [Heaven's Feel] III.spring song",
-          "name_cn": "剧场版 Fate/stay night [天之杯] III.春之歌",
-          "relation": "不同演绎",
+          "name": "Fate/Zero",
+          "name_cn": "Fate/Zero",
+          "relation": "前传",
           "type": 2,
-          "id": 175600
+          "id": 10639
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/ca/33706_MKGBT.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/ca/33706_MKGBT.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e6/ca/33706_MKGBT.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/ca/33706_MKGBT.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/ca/33706_MKGBT.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/02/143893_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/02/143893_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/02/02/143893_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/02/143893_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/02/143893_jp.jpg"
           },
-          "name": "ねんどろいど じぇねれ〜しょん",
-          "name_cn": "粘土人世纪",
-          "relation": "游戏",
-          "type": 4,
-          "id": 33706
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/af/34549_8Xxar.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/af/34549_8Xxar.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/15/af/34549_8Xxar.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/af/34549_8Xxar.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/af/34549_8Xxar.jpg"
-          },
-          "name": "Fate/stay night",
-          "name_cn": "Fate/stay night 漫画版",
-          "relation": "书籍",
-          "type": 1,
-          "id": 34549
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/5a/95225_nuqNt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/5a/95225_nuqNt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e1/5a/95225_nuqNt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/5a/95225_nuqNt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/5a/95225_nuqNt.jpg"
-          },
-          "name": "Fate/stay night [Unlimited Blade Works]",
-          "name_cn": "Fate/stay night [Unlimited Blade Works]",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 95225
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/0a/101788_iyViu.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/0a/101788_iyViu.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/33/0a/101788_iyViu.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/0a/101788_iyViu.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/0a/101788_iyViu.jpg"
-          },
-          "name": "ディバインゲート",
-          "name_cn": "神圣之门",
-          "relation": "游戏",
-          "type": 4,
-          "id": 101788
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/9f/109375_o2NnF.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/9f/109375_o2NnF.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/34/9f/109375_o2NnF.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/9f/109375_o2NnF.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/9f/109375_o2NnF.jpg"
-          },
-          "name": "劇場版 Fate/stay night [Heaven's Feel] I.presage flower",
-          "name_cn": "剧场版 Fate/stay night [天之杯] I.恶兆之花",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 109375
+          "name": "Mariage -tribute to Fate-",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 143893
         },
         {
           "images": {
@@ -244,17 +212,45 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/02/02/143893_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/02/02/143893_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/02/02/143893_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/02/02/143893_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/02/02/143893_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/9f/109375_o2NnF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/9f/109375_o2NnF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/34/9f/109375_o2NnF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/9f/109375_o2NnF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/9f/109375_o2NnF.jpg"
           },
-          "name": "Mariage -tribute to Fate-",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 143893
+          "name": "劇場版 Fate/stay night [Heaven's Feel] I.presage flower",
+          "name_cn": "剧场版 Fate/stay night [天之杯] I.恶兆之花",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 109375
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/0a/101788_iyViu.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/0a/101788_iyViu.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/0a/101788_iyViu.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/0a/101788_iyViu.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/0a/101788_iyViu.jpg"
+          },
+          "name": "ディバインゲート",
+          "name_cn": "神圣之门",
+          "relation": "游戏",
+          "type": 4,
+          "id": 101788
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/5a/95225_nuqNt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/5a/95225_nuqNt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e1/5a/95225_nuqNt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/5a/95225_nuqNt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/5a/95225_nuqNt.jpg"
+          },
+          "name": "Fate/stay night [Unlimited Blade Works]",
+          "name_cn": "Fate/stay night [Unlimited Blade Works]",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 95225
         },
         {
           "images": {
@@ -286,6 +282,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/bf/175600_4wcTq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/bf/175600_4wcTq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2c/bf/175600_4wcTq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/bf/175600_4wcTq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/bf/175600_4wcTq.jpg"
+          },
+          "name": "劇場版 Fate/stay night [Heaven's Feel] III.spring song",
+          "name_cn": "剧场版 Fate/stay night [天之杯] III.春之歌",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 175600
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/c3/43951_TJfCH.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/c3/43951_TJfCH.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/1f/c3/43951_TJfCH.jpg",
@@ -297,6 +307,34 @@
           "relation": "不同世界观",
           "type": 2,
           "id": 43951
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/af/34549_8Xxar.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/af/34549_8Xxar.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/af/34549_8Xxar.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/af/34549_8Xxar.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/af/34549_8Xxar.jpg"
+          },
+          "name": "Fate/stay night",
+          "name_cn": "Fate/stay night 漫画版",
+          "relation": "书籍",
+          "type": 1,
+          "id": 34549
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/ca/33706_MKGBT.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/ca/33706_MKGBT.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e6/ca/33706_MKGBT.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/ca/33706_MKGBT.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/ca/33706_MKGBT.jpg"
+          },
+          "name": "ねんどろいど じぇねれ〜しょん",
+          "name_cn": "粘土人世纪",
+          "relation": "游戏",
+          "type": 4,
+          "id": 33706
         },
         {
           "images": {
@@ -325,6 +363,34 @@
           "relation": "衍生",
           "type": 2,
           "id": 234349
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/d2/17994_K13F3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/d2/17994_K13F3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/d2/17994_K13F3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/d2/17994_K13F3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/d2/17994_K13F3.jpg"
+          },
+          "name": "Wild flower",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 17994
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/ad/14450_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/ad/14450_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/26/ad/14450_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/ad/14450_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/ad/14450_jp.jpg"
+          },
+          "name": "ricordanza - Fate/stay night TV song collection -",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 14450
         },
         {
           "images": {
@@ -412,76 +478,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/51/443831_Zkz9E.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/51/443831_Zkz9E.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f0/51/443831_Zkz9E.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/51/443831_Zkz9E.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_Zkz9E.jpg"
-          },
-          "name": "Fate/strange Fake",
-          "name_cn": "Fate/strange Fake",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 443831
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/20/935_dOCPc.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/20/935_dOCPc.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e8/20/935_dOCPc.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/20/935_dOCPc.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/20/935_dOCPc.jpg"
-          },
-          "name": "Fate/stay night",
-          "name_cn": "",
-          "relation": "游戏",
-          "type": 4,
-          "id": 935
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/1f/10639_w4sHs.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/1f/10639_w4sHs.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/86/1f/10639_w4sHs.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/1f/10639_w4sHs.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/1f/10639_w4sHs.jpg"
-          },
-          "name": "Fate/Zero",
-          "name_cn": "Fate/Zero",
-          "relation": "前传",
-          "type": 2,
-          "id": 10639
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/26/ad/14450_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/26/ad/14450_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/26/ad/14450_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/26/ad/14450_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/26/ad/14450_jp.jpg"
-          },
-          "name": "ricordanza - Fate/stay night TV song collection -",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 14450
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/d2/17994_K13F3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/d2/17994_K13F3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/06/d2/17994_K13F3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/d2/17994_K13F3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/d2/17994_K13F3.jpg"
-          },
-          "name": "Wild flower",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 17994
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/3f/90/3955_hM7GE.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3f/90/3955_hM7GE.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/3f/90/3955_hM7GE.jpg",
@@ -507,6 +503,34 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 3484
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/51/443831_Zkz9E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/51/443831_Zkz9E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f0/51/443831_Zkz9E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/51/443831_Zkz9E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/51/443831_Zkz9E.jpg"
+          },
+          "name": "Fate/strange Fake",
+          "name_cn": "Fate/strange Fake",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 443831
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e8/20/935_dOCPc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/20/935_dOCPc.jpg"
+          },
+          "name": "Fate/stay night",
+          "name_cn": "",
+          "relation": "游戏",
+          "type": 4,
+          "id": 935
         },
         {
           "images": {
@@ -563,6 +587,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 10007
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/a2/547605_xA6H8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/a2/547605_xA6H8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/11/a2/547605_xA6H8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/a2/547605_xA6H8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/a2/547605_xA6H8.jpg"
+          },
+          "name": "Fate/stay night curtain raiser",
+          "name_cn": "",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 547605
         },
         {
           "images": {
@@ -650,20 +688,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/83/10004_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/83/10004_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d7/83/10004_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/83/10004_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/83/10004_jp.jpg"
-          },
-          "name": "Fate/stay night キャラクターイメージソングシリーズV:キャスター(田中敦子)",
-          "name_cn": "",
-          "relation": "角色歌",
-          "type": 3,
-          "id": 10004
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/0c/18882_XqC8o.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/0c/18882_XqC8o.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/38/0c/18882_XqC8o.jpg",
@@ -675,6 +699,20 @@
           "relation": "角色出演",
           "type": 2,
           "id": 18882
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/83/10004_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/83/10004_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/83/10004_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/83/10004_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/83/10004_jp.jpg"
+          },
+          "name": "Fate/stay night キャラクターイメージソングシリーズV:キャスター(田中敦子)",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 10004
         },
         {
           "images": {
@@ -692,20 +730,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/34/30055_GrfZ7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/34/30055_GrfZ7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/11/34/30055_GrfZ7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/34/30055_GrfZ7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/34/30055_GrfZ7.jpg"
-          },
-          "name": "Fate/Prototype",
-          "name_cn": "Fate/Prototype",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 30055
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/d4/78331_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/d4/78331_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/4e/d4/78331_jp.jpg",
@@ -717,6 +741,20 @@
           "relation": "角色歌",
           "type": 3,
           "id": 78331
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/34/30055_GrfZ7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/34/30055_GrfZ7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/11/34/30055_GrfZ7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/34/30055_GrfZ7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/34/30055_GrfZ7.jpg"
+          },
+          "name": "Fate/Prototype",
+          "name_cn": "Fate/Prototype",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 30055
         },
         {
           "images": {
@@ -799,8 +837,10 @@
         "Studio云雀",
         "TV",
         "スタジオ云雀",
+        "中西伸彰",
         "党争",
         "动画",
+        "变百",
         "另类系",
         "坑",
         "堀江由衣",
@@ -810,8 +850,11 @@
         "性転换",
         "性转",
         "恋爱",
+        "搞笑",
         "日常",
+        "日本",
         "校园",
+        "植田佳奈",
         "漫改",
         "漫画改",
         "田村ゆかり",
@@ -833,8 +876,28 @@
           "value": "2006年1月11日"
         },
         {
+          "key": "放送星期",
+          "value": "星期三"
+        },
+        {
           "key": "官方网站",
-          "value": "http://www.kasimasi.com/"
+          "value": [
+            {
+              "k": "东京电视台",
+              "v": "https://www.tv-tokyo.co.jp/anime/kasimasi/"
+            },
+            {
+              "v": "http://www.kasimasi.com/"
+            }
+          ]
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ東京系列"
+        },
+        {
+          "key": "其他电视台",
+          "value": "AT-X"
         },
         {
           "key": "播放结束",
@@ -845,8 +908,16 @@
           "value": "中西伸彰"
         },
         {
+          "key": "音乐",
+          "value": "磯江俊道（ZIZZ）、細井聡司（hosplug）、藤間仁（Elements Garden ）Produced by Aifmade+"
+        },
+        {
+          "key": "Copyright",
+          "value": "©あかほりさとる／桂遊生丸／アスキー・メディアワークス／かしまし製作委員会"
+        },
+        {
           "key": "原作",
-          "value": "あかほりさとる"
+          "value": "あかほりさとる、桂遊生丸（「月刊コミック電撃大王」連載）"
         },
         {
           "key": "系列构成",
@@ -858,11 +929,43 @@
         },
         {
           "key": "製作",
-          "value": "メディアワークス、バンダイビジュアル、ランティス、スタジオ雲雀"
+          "value": "かしまし製作委員会（メディアワークス、バンダイビジュアル、ランティス、スタジオ雲雀）"
         },
         {
           "key": "制片人",
           "value": "梅澤淳、轟豊太、里見哲朗"
+        },
+        {
+          "key": "企画",
+          "value": "久木敏行、川城和実"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "伊藤善之"
+        },
+        {
+          "key": "摄影监督",
+          "value": "塩見和欣"
+        },
+        {
+          "key": "音效",
+          "value": "今野康之"
+        },
+        {
+          "key": "录音",
+          "value": "小長谷啓太；调整：安斎歩；录音工作室：プロセンスタジオ"
+        },
+        {
+          "key": "音响",
+          "value": "マジックカプセル（濱野高年）"
+        },
+        {
+          "key": "宣传",
+          "value": "鈴木則道；协力：ビッグショット、石川功"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "中西伸彰"
         }
       ],
       "total_episodes": 13,
@@ -1061,6 +1164,10 @@
           "value": "市川淳"
         },
         {
+          "key": "Copyright",
+          "value": "©️桂歌若プロジェクト・落語天女製作委員会"
+        },
+        {
           "key": "原作",
           "value": "桂歌若プロジェクト"
         },
@@ -1090,15 +1197,55 @@
         },
         {
           "key": "音响监督",
-          "value": "高桑一"
+          "value": "髙桑一"
         },
         {
           "key": "动画制作",
           "value": "ティー・エヌ・ケー"
         },
         {
-          "key": "制作",
-          "value": "落語天女製作委員会"
+          "key": "製作",
+          "value": "落語天女製作委員会（東芝エンタテインメント、スリーファットサムライ/Three Fat Samurai、Amuse Soft Entertainment、マウスプロモーション、ティー・エヌ・ケー）"
+        },
+        {
+          "key": "企画",
+          "value": "臼井久人、神林義弘、橘田寿宏、小野光枝、加藤長輝"
+        },
+        {
+          "key": "制片人",
+          "value": "小倉尊行、日高功、中林太、宇都貴博、三原浩樹"
+        },
+        {
+          "key": "助理制片人",
+          "value": "松本正義"
+        },
+        {
+          "key": "音效",
+          "value": "三井友和"
+        },
+        {
+          "key": "录音",
+          "value": "小原吉男；录音工作室：スタジオマウス"
+        },
+        {
+          "key": "音响",
+          "value": "スタジオマウス；音响制作担当：納谷僚介"
+        },
+        {
+          "key": "宣传",
+          "value": "小島秀次"
+        },
+        {
+          "key": "设定制作",
+          "value": "米澤和俊"
+        },
+        {
+          "key": "色彩设计",
+          "value": "植木義則"
+        },
+        {
+          "key": "剪辑",
+          "value": "櫻井崇"
         }
       ],
       "total_episodes": 12,
@@ -1191,6 +1338,7 @@
       "name": "LEMON ANGEL PROJECT",
       "name_cn": "柠檬天使计划",
       "tags": [
+        "2006",
         "2006年1月",
         "Lemon",
         "RADIX",
@@ -1198,7 +1346,8 @@
         "偶像",
         "原创",
         "唱歌",
-        "季番"
+        "季番",
+        "日本"
       ],
       "infobox": [
         {
@@ -1323,6 +1472,7 @@
         "GroupTac",
         "OVA",
         "TV",
+        "グループ·タック",
         "仰望半月的夜空",
         "仰望只有半月的夜空",
         "催泪",
@@ -1501,6 +1651,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/f5/138941_Xt26O.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/f5/138941_Xt26O.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/f5/138941_Xt26O.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/f5/138941_Xt26O.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/f5/138941_Xt26O.jpg"
+          },
+          "name": "半分の月がのぼる空",
+          "name_cn": "仰望半月的夜空",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 138941
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/3f/08/149329_J3gjR.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3f/08/149329_J3gjR.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/3f/08/149329_J3gjR.jpg",
@@ -1533,11 +1697,13 @@
       "name": "タクティカルロア",
       "name_cn": "战吼",
       "tags": [
+        "2006",
         "2006年1月",
         "Actas",
         "TV",
         "中原麻衣",
         "原创",
+        "海战",
         "科幻"
       ],
       "infobox": [
@@ -1688,9 +1854,12 @@
         "后宫",
         "妹控",
         "子安武人",
+        "战斗",
+        "日本",
         "清水爱",
         "漫改",
         "漫画改",
+        "糟糕",
         "能登麻美子",
         "键姬物语"
       ],
@@ -1837,14 +2006,20 @@
       "name_cn": "魔法彼女",
       "tags": [
         "2006",
+        "2006年1月",
         "GONZO",
         "TV",
         "后宫",
+        "奇幻",
         "岸诚二",
         "搞笑",
+        "日本",
         "校园",
         "漫改",
         "漫画改",
+        "补番",
+        "角色崩坏",
+        "魔法",
         "魔法少女"
       ],
       "infobox": [
@@ -1994,10 +2169,15 @@
       "name_cn": "练马萝卜兄弟",
       "tags": [
         "2006",
+        "Studio云雀",
         "TV",
+        "ワタナベシンイチ",
         "原创",
+        "吐槽片",
         "搞笑",
-        "歌舞"
+        "歌舞",
+        "渡边慎一",
+        "社会问题"
       ],
       "infobox": [
         {
@@ -2039,15 +2219,15 @@
           "value": "2006年3月27日"
         },
         {
+          "key": "导演",
+          "value": "ワタナベシンイチ"
+        },
+        {
           "key": "原作",
           "value": "NDB PROJECT"
         },
         {
-          "key": "監督",
-          "value": "ワタナベシンイチ"
-        },
-        {
-          "key": "シリーズ構成",
+          "key": "系列构成",
           "value": "浦沢義雄"
         },
         {
@@ -2055,8 +2235,8 @@
           "value": "F☆CK"
         },
         {
-          "key": "制作",
-          "value": "アニプレックス、スタジオ雲雀"
+          "key": "製作",
+          "value": "アニプレックス（Aniplex）、スタジオ雲雀"
         },
         {
           "key": "imdb_id",
@@ -2103,8 +2283,11 @@
         "原创",
         "复苏的天空-救援之翼",
         "救援",
+        "日本",
+        "桜美かつし",
         "樱美胜志",
         "水上清资",
+        "治愈",
         "能登麻美子",
         "补番",
         "高山文彦"
@@ -2131,8 +2314,12 @@
           "value": "2006年1月8日"
         },
         {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
           "key": "官方网站",
-          "value": "http://www.rescue-w.jp/"
+          "value": "http://www.rescue-w.jp/ http://www.rescue-w.jp/2006/"
         },
         {
           "key": "播放结束",
@@ -2145,6 +2332,10 @@
         {
           "key": "音乐",
           "value": "松尾早人"
+        },
+        {
+          "key": "Copyright",
+          "value": "©バンダイビジュアル"
         },
         {
           "key": "系列构成",
@@ -2191,7 +2382,7 @@
           "value": "J.C.STAFF"
         },
         {
-          "key": "制作",
+          "key": "製作",
           "value": "バンダイビジュアル"
         }
       ],
@@ -2277,9 +2468,15 @@
         "2009",
         "TV",
         "后宫",
+        "喜剧",
+        "小说改",
         "忍者",
+        "恋爱",
         "搞笑",
+        "日本",
+        "校园",
         "欢乐番",
+        "轻小说改",
         "轻改",
         "阴からマモル!"
       ],
@@ -2411,10 +2608,14 @@
         "卖肉",
         "后宫",
         "和尚",
+        "寺田はるひ",
         "川上とも子",
         "搞笑",
+        "日本",
+        "日本动画",
         "漫改",
         "漫画改",
+        "福利",
         "肉",
         "肉番"
       ],
@@ -2502,10 +2703,17 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/a2/133220_DeCYC.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/a2/133220_DeCYC.jpg"
       },
-      "summary": "",
+      "summary": "超人ワールドグランプリ決勝トーナメント。\n\n準決勝は2試合、ふきっさらしサッカーフィールドでの万太郎ＶＳヒカルドの闘い。\n\nそして、空中立体リングでのケビンマスクＶＳイリューヒンの死闘！！\n\n\n\n誰がこの激戦を勝ち抜いて決勝のリングにあがるのか！？\n\nいよいよ盛り上がるキン肉マンⅡ世アルティメットマッスル2の放映を見逃すな！！",
       "name": "キン肉マンII世 ULTIMATE MUSCLE 2",
       "name_cn": "格斗金肉人二世 ULTIMATE MUSCLE 2",
-      "tags": [],
+      "tags": [
+        "2006",
+        "TV",
+        "东映アニメーション",
+        "东映动画",
+        "中井义则",
+        "漫画改"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -2532,6 +2740,19 @@
           "value": "星期三"
         },
         {
+          "key": "官方网站",
+          "value": [
+            {
+              "k": "东京电视台",
+              "v": "https://www.tv-tokyo.co.jp/anime/kinnikuman2/"
+            },
+            {
+              "k": "东映动画",
+              "v": "https://www.toei-anim.co.jp/tv/niku2_um2/"
+            }
+          ]
+        },
+        {
           "key": "播放电视台",
           "value": "テレビ東京"
         },
@@ -2541,7 +2762,19 @@
         },
         {
           "key": "Copyright",
-          "value": "ゆでたまご／集英社・東映アニメーション・テレビ東京"
+          "value": "©ゆでたまご／集英社・東映アニメーション・テレビ東京"
+        },
+        {
+          "key": "原作",
+          "value": "ゆでたまご（集英社「週刊プレイボーイ」連載）"
+        },
+        {
+          "key": "制片人",
+          "value": "木村京太郎、鷲尾天"
+        },
+        {
+          "key": "製作",
+          "value": "読売広告社、東映アニメーション"
         }
       ],
       "total_episodes": 13,
@@ -2550,7 +2783,8 @@
       "meta_tags": [
         "TV",
         "日本",
-        "漫画改"
+        "漫画改",
+        "战斗"
       ],
       "volumes": 0,
       "series": false,
@@ -2621,12 +2855,16 @@
       "name_cn": "吟游默示录 wieder",
       "tags": [
         "2006",
+        "2006年",
         "2009",
         "BEETRAIN",
         "Bee_Train",
         "TV",
+        "保志总一朗",
         "声优",
+        "已看",
         "忘记剧情",
+        "日本",
         "樱井孝宏",
         "游戏改",
         "补番"
@@ -2653,11 +2891,11 @@
           "value": "2006年4月16日"
         },
         {
-          "key": "監督",
+          "key": "导演",
           "value": "川面真也"
         },
         {
-          "key": "シリーズ構成",
+          "key": "系列构成",
           "value": "面出明美"
         }
       ],
@@ -2688,6 +2926,20 @@
           "relation": "前传",
           "type": 2,
           "id": 22405
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/e1/60542_7bYgz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/e1/60542_7bYgz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/e1/60542_7bYgz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/e1/60542_7bYgz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/e1/60542_7bYgz.jpg"
+          },
+          "name": "マイネリーベⅡ 〜誇りと正義と愛〜",
+          "name_cn": "耽美梦想2：骄傲和正义和爱",
+          "relation": "游戏",
+          "type": 4,
+          "id": 60542
         },
         {
           "images": {
@@ -2793,6 +3045,10 @@
           "value": "星期四"
         },
         {
+          "key": "官方网站",
+          "value": "http://www.toei-anim.co.jp/tv/ayakashi/"
+        },
+        {
           "key": "播放电视台",
           "value": "フジテレビ"
         },
@@ -2805,12 +3061,20 @@
           "value": "2006年3月23日"
         },
         {
+          "key": "导演",
+          "value": "門田英彦（「天守物語」动画导演）"
+        },
+        {
           "key": "音乐",
           "value": "高梨康治"
         },
         {
+          "key": "Copyright",
+          "value": "©怪～ayakashi～製作委員会"
+        },
+        {
           "key": "企画",
-          "value": "金田耕司"
+          "value": "金田耕司；协力：LATERNA"
         },
         {
           "key": "动画制作",
@@ -2818,24 +3082,55 @@
         },
         {
           "key": "製作",
-          "value": "怪 〜ayakashi〜製作委員會"
+          "value": "怪 〜ayakashi〜製作委員會（フジテレビ、東映アニメーション、アスミック・エースエンタテインメント、ソニー・ミュージックエンタテインメント、スカパー・ウェルシンク、電通）"
         },
         {
           "key": "主题歌演出",
-          "value": "RHYMESTER「HEAT ISLAND」"
+          "value": "RHYMESTER / 元ちとせ"
         },
         {
-          "key": "插入歌演出",
-          "value": "元ちとせ「春のかたみ」"
+          "key": "音乐制作",
+          "value": "ソニー・ミュージックエンタテインメント、フジパシフィックミュージック、東映アニメーション音楽出版"
+        },
+        {
+          "key": "制片人",
+          "value": "高瀬敦也、梅澤淳稔、柴田宏明、伊藤幸弘、山本幸治、氷見武士（CG制片人）"
+        },
+        {
+          "key": "系列监督",
+          "value": "今沢哲男、永山耕三、中村健治"
+        },
+        {
+          "key": "人物原案",
+          "value": "天野喜孝"
+        },
+        {
+          "key": "人物设定",
+          "value": "伊藤秀樹、名倉靖博"
+        },
+        {
+          "key": "总作画监督",
+          "value": "伊藤秀樹、名倉靖博"
+        },
+        {
+          "key": "美术监督",
+          "value": "加藤浩、行信三、保坂有美、倉橋隆"
+        },
+        {
+          "key": "色彩设计",
+          "value": "塚田劭、森田博"
         }
       ],
       "total_episodes": 11,
       "id": 976,
       "eps": 11,
       "meta_tags": [
+        "惊悚",
         "TV",
         "日本",
-        "原创"
+        "奇幻",
+        "原创",
+        "剧情"
       ],
       "volumes": 0,
       "series": false,
@@ -2974,7 +3269,9 @@
       "summary": "中学時代の試合で指を骨折し、その後遺症から野球ができなくなった谷口タカオ。墨谷高校入学後、実際にはプレーできない野球部を毎日眺めていた。それを見かねたサッカー部キャプテンが、できない野球に未練を持つよりは新しい道へと、谷口をサッカー部に勧誘する。サッカーは全くの初心者だったが、中学時代に培った努力と根性でみるみる上達し、チームメイトからも認められる。\nだが、一度は野球をあきらめサッカーに専念した谷口だったが、少年野球の審判を買って出るなど野球に対する情熱はまったく薄れることはなかった。それはほどなくキャプテンに知られることとなり、このままサッカーを続けることは谷口にとって最良ではないことを察したキャプテンの勧めもあり、サッカー部を退部して野球部に入部する。墨谷高校野球部は毎年1回戦負けの弱小野球部だったが、谷口の入部後、徐々に変化が起こっていく。",
       "name": "プレイボール 2nd",
       "name_cn": "棒球物语 第2期",
-      "tags": [],
+      "tags": [
+        "TV"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -3050,7 +3347,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/41/353575_OmB5B.jpg"
           },
           "name": "プレイボール",
-          "name_cn": "",
+          "name_cn": "比赛开始",
           "relation": "书籍",
           "type": 1,
           "id": 353575
@@ -3074,7 +3371,9 @@
       "summary": "玉賀必人は、ビーダーに憧れるごく普通の小学生。しかし、父が残したビーダマン「マグナムイフリート」を手にした時から、彼の周りで何かが変わり始めた。ビーダマンと共に残された手紙には「逆境を打ちやぶれ!」と記されていた…。",
       "name": "爆球Hit! クラッシュビーダマン",
       "name_cn": "轰烈弹珠人",
-      "tags": [],
+      "tags": [
+        "2006"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -3101,12 +3400,48 @@
           "value": "2006年12月25日"
         },
         {
-          "key": "監督",
+          "key": "导演",
           "value": "奥村よしあき"
         },
         {
-          "key": "シリーズ構成",
+          "key": "音乐",
+          "value": "山原一浩"
+        },
+        {
+          "key": "系列构成",
           "value": "富田祐弘、呉廷恩"
+        },
+        {
+          "key": "动画制作",
+          "value": "日本アニメディア"
+        },
+        {
+          "key": "制作协力",
+          "value": "SynergySP、HeeWon Entertainment、SONOKONG"
+        },
+        {
+          "key": "机械设定",
+          "value": "木村豪、金相国"
+        },
+        {
+          "key": "美术监督",
+          "value": "坂本信人、李剛旭"
+        },
+        {
+          "key": "CG导演",
+          "value": "後藤陽、橋本英明、朴美熙"
+        },
+        {
+          "key": "动画制片人",
+          "value": "田中敦、金東亨"
+        },
+        {
+          "key": "制片人",
+          "value": "青木俊志 (テレビ東京) 、池田慎一、青木真美子"
+        },
+        {
+          "key": "剪辑",
+          "value": "小野寺桂子、金香淑"
         }
       ],
       "total_episodes": 50,
@@ -3197,7 +3532,11 @@
       "summary": "刚由日本九州搬进东京高级住宅区“八本木山”的犬山家，在搬家后随即出现财政困难，这情况亦蔓延到犬山家所经营的企业。由犬山家独生女犬山留美所饲养的狗－彻之进，为了主人留美和犬山家的生计而出一分力，并得到秘密组织“犬乐园”的朋友帮助。但另一方面，居于白金区的里奥及其手下用尽千方百计对付他们，除了令彻之进失去身边的犬乐园朋友外，亦令犬乐园险遭崩溃……",
       "name": "ワンワンセレプー それゆけ!徹之進",
       "name_cn": "彻之进",
-      "tags": [],
+      "tags": [
+        "2006",
+        "StudioComet",
+        "TV"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -3351,6 +3690,7 @@
       "name": "ペイル・コクーン",
       "name_cn": "苍之茧",
       "tags": [
+        "2000s",
         "2006",
         "2006年",
         "2006年1月",
@@ -3365,8 +3705,12 @@
         "六花",
         "六花工作室",
         "剧场版",
+        "动画",
+        "动画短片",
         "原创",
         "吉浦康裕",
+        "日本",
+        "日本动画",
         "独立动画",
         "环保",
         "短片",
@@ -3374,6 +3718,7 @@
         "苍い茧",
         "苍之茧",
         "苍白的茧",
+        "补番",
         "记忆裂痕"
       ],
       "infobox": [
@@ -3475,20 +3820,27 @@
         "OVA",
         "Production.I.G",
         "ProductionI.G",
+        "Production_I.G",
         "剧场版",
+        "剧情",
         "动画",
+        "原创",
         "士郎正宗",
         "总集篇",
+        "悬疑",
         "战斗",
         "押井守",
         "攻壳机动队",
         "攻殻机动队",
         "政治",
         "日本",
+        "日本动画",
         "漫改",
         "漫画改",
+        "神作",
         "神山健治",
         "科幻",
+        "经典",
         "菅野洋子",
         "赛博朋克"
       ],
@@ -3618,6 +3970,8 @@
       "name": "カレイドスター Legend of phoenix 〜レイラ・ハミルトン物語〜",
       "name_cn": "百变之星 不死鸟传说 ～蕾拉・汉密尔顿物语～",
       "tags": [
+        "00年代",
+        "06年",
         "2005",
         "2006",
         "2006年",
@@ -3630,9 +3984,14 @@
         "原创",
         "吉田玲子",
         "大原さやか",
+        "広桥凉",
+        "日本",
+        "治愈",
         "百变之星",
         "百合",
         "蕾拉",
+        "补旧番",
+        "补番",
         "青春"
       ],
       "infobox": [
@@ -3692,7 +4051,7 @@
           "value": "©2005 佐藤順一・HAL・GDH/カレイドステージ"
         },
         {
-          "key": "原作",
+          "key": "原案",
           "value": "佐藤順一"
         },
         {
@@ -3733,7 +4092,7 @@
         },
         {
           "key": "色彩设计",
-          "value": "辻田邦夫、色彩設計補佐：鈴木寿枝"
+          "value": "國音邦生 [ 辻田邦夫 ]  / 色彩設計補佐：鈴木寿枝"
         },
         {
           "key": "摄影监督",
@@ -3741,11 +4100,11 @@
         },
         {
           "key": "音响监督",
-          "value": "佐藤順一"
+          "value": "佐藤順一 / 選曲：山田稔、高梨絵美"
         },
         {
           "key": "剪辑",
-          "value": "肥田文、フォーマット編集：キュー・テック、大西満、帆苅亮"
+          "value": "肥田文 / フォーマット編集：キュー・テック、大西満、帆苅亮"
         },
         {
           "key": "总作画监督",
@@ -3765,7 +4124,7 @@
         },
         {
           "key": "原画",
-          "value": "原田大基、蝦名康哲、西田亜沙子、小森秀人、飯島弘也、田村正文、本村晃一、加藤剣、樋口靖子、藤本さとる、三浦かおる、高木信一郎、いがりたかし、高原秀喜、西澤信也、日下岳史、小林幸洋、金﨑貴臣、馬場充子、西位輝実、玉川達文（伊藤達文）、和田高明、追崎史敏、音地正行、高口弘"
+          "value": "原田大基、蝦名康哲、西田亜沙子、小森秀人、飯島弘也、田村正文、本村晃一、加藤剣、樋口靖子、藤本さとる、三浦かおる、高木信一郎、いがりたかし、高原秀喜、西澤信也、日下岳史、小林幸洋、金﨑貴臣、馬場充子、西位輝実、玉川達文 [ 伊藤達文 ] 、和田高明、追崎史敏、音地正行、高口弘"
         },
         {
           "key": "第二原画",
@@ -3785,7 +4144,7 @@
         },
         {
           "key": "色彩指定",
-          "value": "色指定・仕上検査：辻田邦夫、鈴木寿枝、仕上検査補：大場将生"
+          "value": "色指定・仕上検査：辻田邦夫、鈴木寿枝 / 仕上検査補：大場将生"
         },
         {
           "key": "上色",
@@ -3793,7 +4152,7 @@
         },
         {
           "key": "摄影",
-          "value": "木下陽方、本山修、藤田賢治、林コージロー、中村慎太郎、江間常高、北村直樹、荻原猛夫、撮影協力：W-SKY、トランス・アーツ"
+          "value": "木下陽方、本山修、藤田賢治、林コージロー、中村慎太郎、江間常高、北村直樹、荻原猛夫 / 撮影協力：W-SKY、トランス・アーツ"
         },
         {
           "key": "特效",
@@ -3804,40 +4163,36 @@
           "value": "たなかかずひら"
         },
         {
-          "key": "选曲",
-          "value": "山田稔、高梨絵美"
-        },
-        {
           "key": "音效",
           "value": "山田稔、高梨絵美"
         },
         {
           "key": "录音",
-          "value": "椎原操志、録音スタジオ：スタジオごんぐ"
+          "value": "椎原操志 / 録音スタジオ：スタジオごんぐ"
         },
         {
           "key": "音响",
-          "value": "音響制作：楽音舎、音響制作担当：杉山好美"
+          "value": "音響制作：楽音舎 / 音響制作担当：杉山好美"
         },
         {
           "key": "主题歌编曲",
-          "value": "松浦有希、崎元仁"
+          "value": "松浦有希(OP)、崎元仁(ED)"
         },
         {
           "key": "主题歌作曲",
-          "value": "窪田ミナ、崎元仁"
+          "value": "窪田ミナ(OP)、崎元仁(ED)"
         },
         {
           "key": "主题歌作词",
-          "value": "松浦有希、カレイドステージ"
+          "value": "松浦有希(OP)、カレイドステージ(ED)"
         },
         {
           "key": "主题歌演出",
-          "value": "大原さやか"
+          "value": "レイラ・ハミルトン [ 大原さやか ] (OP,ED)"
         },
         {
           "key": "制作管理",
-          "value": "梶田浩司、制作デスク：金子真枝"
+          "value": "梶田浩司 / 制作デスク：金子真枝"
         },
         {
           "key": "设定制作",
@@ -3893,6 +4248,7 @@
       "eps": 1,
       "meta_tags": [
         "百合",
+        "日本",
         "OVA",
         "原创"
       ],
@@ -3902,6 +4258,20 @@
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/d2/491917_CWcKb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/d2/491917_CWcKb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3d/d2/491917_CWcKb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/d2/491917_CWcKb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/d2/491917_CWcKb.jpg"
+          },
+          "name": "カレイドスターの すごい 資料集",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 491917
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/49/4163_E22Se.jpg",
@@ -3929,20 +4299,6 @@
           "relation": "前传",
           "type": 2,
           "id": 37062
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/d2/491917_CWcKb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/d2/491917_CWcKb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3d/d2/491917_CWcKb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3d/d2/491917_CWcKb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3d/d2/491917_CWcKb.jpg"
-          },
-          "name": "カレイドスターの すごい 資料集",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 491917
         }
       ]
     }
@@ -4140,8 +4496,10 @@
         "KOKIA",
         "中日合拍",
         "剧场版",
+        "动画电影",
         "原创",
         "另类系",
+        "奇幻",
         "岩崎琢",
         "杉山庆一",
         "治愈",
@@ -4173,26 +4531,35 @@
         },
         {
           "key": "上映年度",
-          "value": "2006-01-07"
+          "value": "2006年1月7日"
         },
         {
           "key": "片长",
-          "value": "95min"
+          "value": "95分钟"
         },
         {
           "key": "官方网站",
-          "value": "http://www.mediafactory.co.jp/anime/gin-iro/"
+          "value": [
+            {
+              "k": "MEDIA FACTORY",
+              "v": "http://www.mediafactory.co.jp/anime/gin-iro/"
+            },
+            {
+              "k": "GONZO",
+              "v": "http://www.gonzo.co.jp/archives/agito/index.html"
+            }
+          ]
         },
         {
           "key": "Copyright",
-          "value": "(C)GONZO/銀色の髪のアギト製作委員会"
+          "value": "©GONZO/銀色の髪のアギト製作委員会"
         },
         {
           "key": "导演",
           "value": "杉山慶一"
         },
         {
-          "key": "编剧",
+          "key": "脚本",
           "value": "椎名奈菜、柿本直子"
         },
         {
@@ -4212,20 +4579,40 @@
           "value": "岩崎琢"
         },
         {
-          "key": "声优",
-          "value": "勝地涼、宮﨑あおい、古手川祐子、大杉漣、遠藤憲一"
-        },
-        {
           "key": "动画制作",
           "value": "GONZO"
         },
         {
-          "key": "制作",
-          "value": "銀色の髪のアギト製作委員会（メディアファクトリー、GDH、松竹、Yahoo! JAPAN、テレビ朝日、電通）"
+          "key": "製作",
+          "value": "銀色の髪のアギト製作委員会【メディアファクトリー（岩崎篤史）、GDH（内田康史、後藤文明）、松竹（永島聡、佐藤尚人）、Yahoo! JAPAN（田島麻実子）、テレビ朝日（福吉健、岡田真由子）、電通（横山真二郎）】；稲田浩之、石川真一郎、関一郎、喜多埜裕明、亀山慶二、島本雄二"
         },
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "企画",
+          "value": "永田勝治、村濱章司、吉田剛、内山順二、梅澤道彦、町田修一"
+        },
+        {
+          "key": "制片人",
+          "value": "堀内麻紀、梶田浩司、小林敬宜、柳村努、杉山登、倉田泰明"
+        },
+        {
+          "key": "动画制片人",
+          "value": "小竿俊一、堀裕治、坂部久明"
+        },
+        {
+          "key": "美术设计",
+          "value": "佐藤肇、中原れい 、菊地正典"
+        },
+        {
+          "key": "分镜",
+          "value": "飯田馬之介、前田真宏、角銅博之、杉山慶一；分镜协力：真柄耕一"
+        },
+        {
+          "key": "特效",
+          "value": "谷口久美子 、荒畑歩美、入佐千英美、糸川敬子、安部貴俊、イノイエシン、長岡多希子"
         }
       ],
       "total_episodes": 1,

@@ -21,7 +21,11 @@
         "TV",
         "エルドランシリーズ",
         "原创",
+        "日本",
+        "机器人",
         "机战",
+        "机甲",
+        "松本梨香",
         "童年",
         "绝对无敌",
         "绝对无敌雷神王",
@@ -164,6 +168,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 348266
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/1f/536258_uZf88.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/1f/536258_uZf88.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/1f/536258_uZf88.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/1f/536258_uZf88.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/1f/536258_uZf88.jpg"
+          },
+          "name": "バトルオブサンライズ",
+          "name_cn": "Sunrise大战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 536258
         },
         {
           "images": {
@@ -315,7 +333,7 @@
           },
           "name": "GBハロボッツ",
           "name_cn": "哈罗机器人",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 467503
         },
@@ -357,7 +375,7 @@
           },
           "name": "サンライズ 英雄譚3",
           "name_cn": "日升英雄谭3",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 303894
         },
@@ -371,7 +389,7 @@
           },
           "name": "サンライズ英雄譚2",
           "name_cn": "日升英雄谭2",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 303892
         },
@@ -385,7 +403,7 @@
           },
           "name": "スーパーロボット大戦XO",
           "name_cn": "超级机器人大战XO",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208858
         },
@@ -399,7 +417,7 @@
           },
           "name": "スーパーロボット大戦GC",
           "name_cn": "超级机器人大战GC",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208857
         },
@@ -413,7 +431,7 @@
           },
           "name": "サンライズ英雄譚",
           "name_cn": "日升英雄谭",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 145455
         },
@@ -441,7 +459,7 @@
           },
           "name": "スーパーロボット大戦BX",
           "name_cn": "超级机器人大战BX",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 134396
         },
@@ -497,7 +515,7 @@
           },
           "name": "スーパーロボット大戦 Operation Extend",
           "name_cn": "超级机器人大战Operation Extend",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 78546
         },
@@ -535,6 +553,7 @@
       "name": "ハイスクールミステリー学園七不思議",
       "name_cn": "学园七不思议",
       "tags": [
+        "1991",
         "TV"
       ],
       "infobox": [
@@ -617,10 +636,13 @@
         "北条司",
         "城市猎人",
         "搞笑",
+        "日本",
         "漫改",
         "漫画改",
+        "热血",
         "神谷明",
-        "童年"
+        "童年",
+        "经典"
       ],
       "infobox": [
         {
@@ -742,20 +764,6 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ff/ea/41883_Yta9i.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ff/ea/41883_Yta9i.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ff/ea/41883_Yta9i.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ff/ea/41883_Yta9i.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ff/ea/41883_Yta9i.jpg"
-          },
-          "name": "エンジェル・ハート",
-          "name_cn": "天使心",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 41883
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/09/53926_z4OY9.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/09/53926_z4OY9.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/3c/09/53926_z4OY9.jpg",
@@ -844,6 +852,8 @@
       "name": "アニメひみつの花園",
       "name_cn": "动画秘密花园",
       "tags": [
+        "1991",
+        "TV",
         "童年"
       ],
       "infobox": [
@@ -883,6 +893,14 @@
         {
           "key": "播放结束",
           "value": "1992年3月27日"
+        },
+        {
+          "key": "脚本",
+          "value": "西村孝史、梅野かおる（田波靖男）、久貴千彩子"
+        },
+        {
+          "key": "制片人",
+          "value": "金子泰生、松浦まさこ"
         }
       ],
       "total_episodes": 39,
@@ -936,8 +954,10 @@
         "TV",
         "儿时回忆",
         "想要重温",
+        "石头剪子布",
         "童年",
-        "童年系"
+        "童年系",
+        "经典"
       ],
       "infobox": [
         {
@@ -964,8 +984,84 @@
           "value": "1991年4月4日"
         },
         {
+          "key": "放送星期",
+          "value": "星期四"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.ashipro.jp/tv_series/w022.html"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ東京系列"
+        },
+        {
           "key": "播放结束",
           "value": "1992年3月26日"
+        },
+        {
+          "key": "Copyright",
+          "value": "(C)葦プロダクション・ビックウエスト"
+        },
+        {
+          "key": "脚本",
+          "value": "鈴木英之"
+        },
+        {
+          "key": "动画制作",
+          "value": "葦プロダクション"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、ビックウエスト、葦プロダクション"
+        },
+        {
+          "key": "制片人",
+          "value": "清水睦夫（テレビ東京）、田口智幸（ビックウエスト）、梅原勝"
+        },
+        {
+          "key": "人物设定",
+          "value": "羽原信義；副人设：深沢幸司"
+        },
+        {
+          "key": "摄影监督",
+          "value": "橋本和典"
+        },
+        {
+          "key": "音响监督",
+          "value": "田中英行"
+        },
+        {
+          "key": "美术监督",
+          "value": "橋本和典"
+        },
+        {
+          "key": "色彩设计",
+          "value": "岩沢れい子"
+        },
+        {
+          "key": "企画",
+          "value": "大西良昌（ビックウエスト）、佐藤俊彦"
+        },
+        {
+          "key": "音效",
+          "value": "野口透（アニメサウンド）"
+        },
+        {
+          "key": "剪辑",
+          "value": "古橋宏、田熊純"
+        },
+        {
+          "key": "作画监督",
+          "value": "馬場俊子、St.GIANTS、叶内孝行、松浦尚之、森中正春、森利夫、安東信悦"
+        },
+        {
+          "key": "演出",
+          "value": "高橋ナオヒト、日下直義、勝亦祥視、株本毅"
+        },
+        {
+          "key": "分镜",
+          "value": "高橋ナオヒト、深町洋子、佐々木よし子"
         }
       ],
       "total_episodes": 50,
@@ -973,7 +1069,9 @@
       "eps": 51,
       "meta_tags": [
         "TV",
-        "日本"
+        "日本",
+        "原创",
+        "子供向"
       ],
       "volumes": 0,
       "series": false,
@@ -1047,16 +1145,18 @@
       "date": "1991-04-08",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/7b/189019_t946R.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/7b/189019_t946R.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/ef/7b/189019_t946R.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/7b/189019_t946R.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/7b/189019_t946R.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/7b/189019_cF5Na.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/7b/189019_cF5Na.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ef/7b/189019_cF5Na.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/7b/189019_cF5Na.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/7b/189019_cF5Na.jpg"
       },
       "summary": "死んでから100年以上も人間界に漂う「小野小町」という幽霊少女が、ある家庭に住み着き騒動を起こすギャグ作品。他の幽霊や妖怪も登場するホラーコメディ的な展開、終盤では非常にシリアスな展開もある。",
       "name": "どろろんぱっ!",
       "name_cn": "飘飘小灵仙",
-      "tags": [],
+      "tags": [
+        "1991"
+      ],
       "infobox": [
         {
           "key": "中文名",

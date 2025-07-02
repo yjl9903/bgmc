@@ -24,12 +24,12 @@
         "PIERROT",
         "StudioPierrot",
         "TV",
+        "TVA",
         "ぴえろ",
         "不良中年",
         "不良少年",
         "人生补完",
         "夜露死苦",
-        "年番",
         "搞笑",
         "日本",
         "校园",
@@ -80,7 +80,16 @@
         },
         {
           "key": "官方网站",
-          "value": "http://www.mxtv.co.jp/gto/"
+          "value": [
+            {
+              "k": "ぴえろ",
+              "v": "https://pierrot.jp/archive/1995/tv90_26.html"
+            },
+            {
+              "k": "Aniplex",
+              "v": "https://www.aniplex.co.jp/lineup/gto/"
+            }
+          ]
         },
         {
           "key": "播放电视台",
@@ -100,7 +109,7 @@
         },
         {
           "key": "Copyright",
-          "value": "藤沢とおる/講談社、フジテレビ、SPEビジュアルワークス、ぴえろ"
+          "value": "©藤沢とおる／講談社・フジテレビ・アニプレックス・ぴえろ"
         },
         {
           "key": "原作",
@@ -108,7 +117,7 @@
         },
         {
           "key": "企画",
-          "value": "清水賢治、白川隆三"
+          "value": "清水賢治、白川隆三、布川ゆうじ"
         },
         {
           "key": "系列构成",
@@ -116,11 +125,11 @@
         },
         {
           "key": "人物设定",
-          "value": "宇佐美皓一"
+          "value": "宇佐美皓一；副人设：北山真理"
         },
         {
           "key": "美术监督",
-          "value": "池田祐二"
+          "value": "池田祐二；辅佐：高橋忍"
         },
         {
           "key": "色彩设计",
@@ -132,23 +141,19 @@
         },
         {
           "key": "音响监督",
-          "value": "児玉隆"
+          "value": "児玉隆；录音演出：阿部記之、清水勝則"
         },
         {
           "key": "音乐制作",
-          "value": "SPEビジュアルワークス、フジパシフィック音楽出版"
+          "value": "SPEビジュアルワークス（Aniplex）、フジパシフィック音楽出版（フジパシフィックミュージック）"
         },
         {
           "key": "製作",
-          "value": "フジテレビ、SPEビジュアルワークス、スタジオぴえろ"
+          "value": "フジテレビ、SPEビジュアルワークス（Aniplex）、スタジオぴえろ"
         },
         {
           "key": "剪辑",
-          "value": "植松淳一"
-        },
-        {
-          "key": "录音演出",
-          "value": "阿部記之、清水勝則"
+          "value": "ファルコン（厨川治彦、植松淳一）"
         },
         {
           "key": "音乐制作人",
@@ -156,13 +161,42 @@
         },
         {
           "key": "制片人",
-          "value": "瀧山麻土香→中村百合子→鈴木吉弘、勝股英夫、萩野賢"
+          "value": "瀧山麻土香→鈴木吉弘→中村百合子、勝股英夫、萩野賢"
+        },
+        {
+          "key": "设定",
+          "value": "デザインワークス：髙木弘樹〔3話-〕"
+        },
+        {
+          "key": "助理制片人",
+          "value": "篠原正季〔17話-〕"
+        },
+        {
+          "key": "音响",
+          "value": "ザックプロモーション、鈴木祐子"
+        },
+        {
+          "key": "制作协力",
+          "value": "呀龍スタジオ（ARMS）、ビーアイジー"
+        },
+        {
+          "key": "特效",
+          "value": "池田健司、田口史恵、村上正博、前川孝"
+        },
+        {
+          "key": "色彩指定",
+          "value": "滝口佳子、江口哲治、谷本千絵、日比智恵子、長野光一郎、上谷秀夫、松岡珠江、土屋智、北沢希実子、久下真由美"
+        },
+        {
+          "key": "制作进行",
+          "value": "大久保昌弘、松沢直人、田中信明、高重律也、髙橋朋宏、松澤直人、高橋英俊、秋本泰、川上聡、山田博司"
         }
       ],
       "total_episodes": 45,
       "id": 2045,
       "eps": 43,
       "meta_tags": [
+        "校园",
         "TV",
         "日本",
         "漫画改"
@@ -197,7 +231,7 @@
           },
           "name": "湘南純愛組!",
           "name_cn": "湘南纯爱组",
-          "relation": "角色出演",
+          "relation": "前传",
           "type": 2,
           "id": 26228
         },
@@ -362,9 +396,12 @@
       "name_cn": "侍魂2〜阿修罗斩魔传〜",
       "tags": [
         "1999",
+        "90s",
         "OVA",
         "SNK",
         "アスラ斩魔伝",
+        "七濑葵",
+        "亚细亚堂",
         "亜细亜堂",
         "侍魂",
         "游戏改",
@@ -441,11 +478,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/ee/73756_Kh7NH.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/ee/73756_Kh7NH.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/33/ee/73756_Kh7NH.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/ee/73756_Kh7NH.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/ee/73756_Kh7NH.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/ee/73756_4dqa0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/ee/73756_4dqa0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/ee/73756_4dqa0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/ee/73756_4dqa0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/ee/73756_4dqa0.jpg"
           },
           "name": "SAMURAI SPIRITS 〜破天降魔の章〜",
           "name_cn": "侍魂：破天降魔之章",
@@ -506,11 +543,15 @@
         "OVA",
         "StudioPierrot",
         "亀垣一",
+        "后宫",
         "心跳回忆",
+        "日本动画",
         "游戏改",
+        "独立ova",
         "藤崎诗织",
         "馆林见晴",
-        "黑田洋介"
+        "黑田洋介",
+        "黒田洋介"
       ],
       "infobox": [
         {

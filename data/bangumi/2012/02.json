@@ -39,6 +39,7 @@
         "少女",
         "山本宽",
         "战斗",
+        "日本",
         "校园",
         "百合",
         "花泽香菜",
@@ -315,6 +316,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/33/208559_6jzc1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/33/208559_6jzc1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/33/208559_6jzc1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/33/208559_6jzc1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/33/208559_6jzc1.jpg"
+          },
+          "name": "碧蓝航线",
+          "name_cn": "碧蓝航线",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208559
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/9a/293554_te9E2.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/9a/293554_te9E2.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/e7/9a/293554_te9E2.jpg",
@@ -380,6 +395,8 @@
         "2012年1月",
         "2012年2月",
         "TV",
+        "TVA",
+        "precure",
         "スマイルプリキュア!",
         "プリキュア",
         "东映",
@@ -391,10 +408,12 @@
         "大冢隆史",
         "奸笑霹雳Q娃",
         "子供向",
+        "川村敏江",
         "年番",
         "幼女向",
         "微笑Q娃",
         "搞笑",
+        "日本",
         "百合",
         "福圆美里",
         "米村正二",
@@ -455,10 +474,6 @@
           "value": "2013年1月27日"
         },
         {
-          "key": "导演",
-          "value": "大塚隆史"
-        },
-        {
           "key": "音乐",
           "value": "高梨康治"
         },
@@ -508,15 +523,19 @@
         },
         {
           "key": "分镜",
-          "value": "大塚隆史、黒田成美、芝田浩樹、門由利子、博史池畠、岩井隆央、土田豊、池田洋子、田中裕太、地岡公俊、三塚雅人、山口祐司、紅優、境宗久、佐々木憲世、広嶋秀樹、志田直俊、大塚健"
+          "value": "大塚隆史、黒田成美、芝田浩樹、門由利子、博史池畠、岩井隆央、土田豊、池田洋子、田中裕太、地岡公俊、三塚雅人、山口祐司、紅優[森川滋]、境宗久、佐々木憲世、広嶋秀樹、志田直俊、大塚健"
         },
         {
           "key": "演出",
-          "value": "大塚隆史、黒田成美、芝田浩樹、門由利子、博史池畠、岩井隆央、土田豊、池田洋子、田中裕太、地岡公俊、三塚雅人、山口祐司、紅優、境宗久、佐々木憲世、広嶋秀樹、志田直俊、大塚健"
+          "value": "大塚隆史、黒田成美、芝田浩樹、門由利子、博史池畠、岩井隆央、土田豊、池田洋子、田中裕太、地岡公俊、三塚雅人、山口祐司、紅優[森川滋]、境宗久、佐々木憲世、広嶋秀樹、志田直俊、大塚健"
         },
         {
           "key": "作画监督",
           "value": "山岡直子、ポール・アンニョヌエボ、フランシス・カネダ、宇津野勇樹、小島彰、仁井学、梅津茜、平野絵美、河野宏之、稲上晃、大谷房代、上野ケン、生田目康裕、青山充"
+        },
+        {
+          "key": "系列监督",
+          "value": "大塚隆史"
         }
       ],
       "total_episodes": 48,
@@ -536,17 +555,45 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/d9/55100_aNe9n.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/d9/55100_aNe9n.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ee/d9/55100_aNe9n.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/d9/55100_aNe9n.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/d9/55100_aNe9n.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/cb/106839_PkXVl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/cb/106839_PkXVl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1e/cb/106839_PkXVl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/cb/106839_PkXVl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/cb/106839_PkXVl.jpg"
           },
-          "name": "ドキドキ!プリキュア",
-          "name_cn": "心跳！光之美少女",
-          "relation": "续集",
-          "type": 2,
-          "id": 55100
+          "name": "スマイルプリキュア！ボーカルベスト",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 106839
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/f5/564962_bAe9h.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/f5/564962_bAe9h.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/23/f5/564962_bAe9h.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/f5/564962_bAe9h.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/f5/564962_bAe9h.jpg"
+          },
+          "name": "プリキュア15周年 Anniversary ライブ ~15☆Dreams Come True~",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 6,
+          "id": 564962
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/4d/564959_0KU2a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/4d/564959_0KU2a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/4d/564959_0KU2a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/4d/564959_0KU2a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/4d/564959_0KU2a.jpg"
+          },
+          "name": "全プリキュア 20th Anniversary LIVE！",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 6,
+          "id": 564959
         },
         {
           "images": {
@@ -561,6 +608,20 @@
           "relation": "画集",
           "type": 1,
           "id": 463296
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/61/422699_9CTZ5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/61/422699_9CTZ5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/04/61/422699_9CTZ5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/04/61/422699_9CTZ5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/04/61/422699_9CTZ5.jpg"
+          },
+          "name": "映画 プリキュアオールスターズF",
+          "name_cn": "电影 光之美少女 All Stars F",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 422699
         },
         {
           "images": {
@@ -589,6 +650,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 236955
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/31/228046_THyGs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/31/228046_THyGs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/31/228046_THyGs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/31/228046_THyGs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/31/228046_THyGs.jpg"
+          },
+          "name": "HUGっと! プリキュア",
+          "name_cn": "拥抱！光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 228046
         },
         {
           "images": {
@@ -648,17 +723,59 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/cb/106839_PkXVl.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/cb/106839_PkXVl.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1e/cb/106839_PkXVl.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/cb/106839_PkXVl.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/cb/106839_PkXVl.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/c0/159824_af4Hz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/c0/159824_af4Hz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/71/c0/159824_af4Hz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/c0/159824_af4Hz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/c0/159824_af4Hz.jpg"
           },
-          "name": "スマイルプリキュア！ボーカルベスト",
-          "name_cn": "",
+          "name": "映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法!",
+          "name_cn": "电影 光之美少女 All Stars 大家歌唱吧♪奇迹的魔法！",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 159824
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/a9/118336_UjYvv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/a9/118336_UjYvv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fa/a9/118336_UjYvv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/a9/118336_UjYvv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/a9/118336_UjYvv.jpg"
+          },
+          "name": "映画 プリキュアオールスターズ 春のカーニバル♪",
+          "name_cn": "电影 光之美少女 All Stars 春之嘉年华♪",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 118336
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/c3/4124_pPP9r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/c3/4124_pPP9r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/c3/4124_pPP9r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/c3/4124_pPP9r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/c3/4124_pPP9r.jpg"
+          },
+          "name": "ハートキャッチプリキュア!",
+          "name_cn": "Heart Catch 光之美少女！",
           "relation": "其他",
-          "type": 3,
-          "id": 106839
+          "type": 2,
+          "id": 4124
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/34/88715_EiaAg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/34/88715_EiaAg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/34/88715_EiaAg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/34/88715_EiaAg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/34/88715_EiaAg.jpg"
+          },
+          "name": "映画 プリキュアオールスターズNewStage3 永遠のともだち",
+          "name_cn": "电影 光之美少女 All Stars New Stage3 永远的朋友",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 88715
         },
         {
           "images": {
@@ -676,17 +793,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/c3/4124_pPP9r.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/c3/4124_pPP9r.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7d/c3/4124_pPP9r.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/c3/4124_pPP9r.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/c3/4124_pPP9r.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/d9/55100_Wz4XE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/d9/55100_Wz4XE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ee/d9/55100_Wz4XE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/d9/55100_Wz4XE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/d9/55100_Wz4XE.jpg"
           },
-          "name": "ハートキャッチプリキュア!",
-          "name_cn": "Heart Catch 光之美少女！",
-          "relation": "其他",
+          "name": "ドキドキ!プリキュア",
+          "name_cn": "心跳！光之美少女",
+          "relation": "续集",
           "type": 2,
-          "id": 4124
+          "id": 55100
         },
         {
           "images": {
@@ -837,10 +954,13 @@
         "2012",
         "OVA",
         "ufotable",
+        "アニメ",
         "企鹅",
         "搞笑",
         "漫改",
         "漫画改",
+        "独立ova",
+        "科幻系",
         "笑点",
         "芳文社",
         "野中卓也"
@@ -994,17 +1114,24 @@
       "tags": [
         "2012",
         "2012年",
+        "2012年1月",
+        "Asmik.Ace.Entertainment",
+        "ONA",
         "OVA",
         "SF",
         "Studio六花",
         "TV",
         "WEB",
         "スタジオ六花",
+        "パープルカウスタジオジャパン",
         "六花",
+        "六花工作室",
         "剧场版",
         "原创",
         "反乌托邦",
         "吉浦康裕",
+        "大岛ミチル",
+        "大岛满",
         "治愈",
         "短片",
         "神作预感",
@@ -1114,19 +1241,28 @@
       "tags": [
         "2012",
         "2012年",
+        "2012年2月",
         "OVA",
         "ufotable",
         "吐槽",
+        "奇幻",
         "搞笑",
         "新井里美",
+        "日本",
+        "日本动画",
+        "治愈",
+        "治愈系",
         "漫改",
         "漫画改",
         "电波",
         "百合",
+        "百合星人ナオコサン",
         "百合星人白井黑子",
+        "短片",
         "竹内哲也",
         "脱线",
         "节操",
+        "超自然系",
         "野中蓝",
         "黄段子"
       ],
@@ -1206,7 +1342,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/19/ae/10954_J2JSz.jpg"
           },
           "name": "百合星人ナオコサン",
-          "name_cn": "百合星人奈绪子 OAD",
+          "name_cn": "百合星人奈绪子",
           "relation": "前传",
           "type": 2,
           "id": 10954
@@ -1280,20 +1416,20 @@
         "Studio4℃",
         "三浦健太郎",
         "三浦建太郎",
+        "冒险",
         "剑风传奇",
         "剧场版",
         "动作",
-        "动画",
-        "动画电影",
         "基",
         "大坑",
         "大河内一楼",
         "奇幻",
         "巨坑",
-        "平沢进",
         "平泽进",
         "恩田尚之",
+        "战争",
         "战斗",
+        "日本",
         "樱井孝宏",
         "洼冈俊之",
         "漫改",
@@ -1559,7 +1695,9 @@
       "tags": [
         "2012",
         "OAD",
-        "OVA"
+        "OVA",
+        "SynergySP",
+        "东山奈央"
       ],
       "infobox": [
         {
@@ -1627,10 +1765,13 @@
       "tags": [
         "2012",
         "2012年1月",
+        "NAMCO",
         "OVA",
+        "SUNRISE",
         "Special",
         "Tales",
-        "传说系列"
+        "传说系列",
+        "全力卖萌"
       ],
       "infobox": [
         {
@@ -1731,18 +1872,26 @@
         "2012",
         "2012年",
         "2012年2月",
+        "ChaosProject",
         "GAL改",
         "OVA",
         "ToHeart2",
         "ToHeart2ダンジョントラベラーズ",
         "leaf",
+        "カオスプロジェクト",
         "伊藤静",
         "卖肉",
         "后宫",
+        "奇幻",
+        "巨乳",
+        "恋爱",
         "战斗",
         "搞笑",
+        "日本",
         "游戏改",
-        "福山润"
+        "福山润",
+        "肉番",
+        "西露法"
       ],
       "infobox": [
         {
@@ -1810,7 +1959,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/67/19394_eLOW8.jpg"
           },
           "name": "ToHeart2 ダンジョントラベラーズ",
-          "name_cn": "ToHeart2 迷宫旅行者",
+          "name_cn": "迷宮旅人：To Heart 2",
           "relation": "游戏",
           "type": 4,
           "id": 19394
@@ -1865,16 +2014,19 @@
       "tags": [
         "2011",
         "2012",
+        "2012年",
         "OVA",
         "东映",
         "东映アニメーション",
         "剧场版",
+        "动画",
         "巴达克",
         "战斗",
         "日本",
         "漫改",
         "漫画改",
         "热血",
+        "经典",
         "超赛",
         "龙珠"
       ],
@@ -1925,6 +2077,20 @@
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/68/72/9005_XZmlL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/68/72/9005_XZmlL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/68/72/9005_XZmlL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/68/72/9005_XZmlL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/68/72/9005_XZmlL.jpg"
+          },
+          "name": "ドラゴンボールZ",
+          "name_cn": "龙珠Z",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 9005
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/27/18505_PpbfG.jpg",
@@ -1999,6 +2165,168 @@
     }
   },
   {
+    "title": "帰ってきた トップをねらえ! 科学講座",
+    "date": "2012-02-24",
+    "bangumi": {
+      "date": "2012-02-24",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/5c/559221_eccTG.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/5c/559221_eccTG.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/d6/5c/559221_eccTG.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/5c/559221_eccTG.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/5c/559221_eccTG.jpg"
+      },
+      "summary": "帰ってきたトップをねらえ!科学講座\nBlu-ray Boxに収録された映像特典。\n\n脚本 - 堺三保\n絵コンテ・演出 - 赤松康裕\n作画監督・原画 - 木野下澄江\n音楽 - 田中公平\n音響監督 - 浦狩裕樹\nアニメーション制作 - ガイナックス\n製作 - バンダイビジュアル、フライングドッグ、ガイナックス\n声の出演 - 日髙のり子、佐々間レイ、若本規夫",
+      "name": "帰ってきた トップをねらえ! 科学講座",
+      "name_cn": "归来的飞跃巅峰！科学讲座",
+      "tags": [
+        "GAINAX"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "归来的飞跃巅峰！科学讲座"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "帰ってきた科学講座"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "2"
+        },
+        {
+          "key": "发售日",
+          "value": "2012年2月24日"
+        },
+        {
+          "key": "脚本",
+          "value": "堺三保"
+        },
+        {
+          "key": "分镜",
+          "value": "赤松康裕"
+        },
+        {
+          "key": "演出",
+          "value": "赤松康裕"
+        },
+        {
+          "key": "作画监督",
+          "value": "木野下澄江"
+        },
+        {
+          "key": "原画",
+          "value": "木野下澄江"
+        },
+        {
+          "key": "第二原画",
+          "value": "田頭悠郎、秋葉徹"
+        },
+        {
+          "key": "补间动画",
+          "value": "秋葉徹、田村絵美、梅下麻奈未、鯉沼菜奈"
+        },
+        {
+          "key": "色彩设计",
+          "value": "竹澤聡"
+        },
+        {
+          "key": "色彩指定",
+          "value": "竹澤聡"
+        },
+        {
+          "key": "摄影",
+          "value": "長瀬由起子、湯浅圭名絵、佐々木徹也、頓所信二"
+        },
+        {
+          "key": "背景美术",
+          "value": "背景CG：長瀬由起子、湯浅圭名絵、佐々木徹也、頓所信二"
+        },
+        {
+          "key": "音乐",
+          "value": "田中公平"
+        },
+        {
+          "key": "音响监督",
+          "value": "浦狩裕樹"
+        },
+        {
+          "key": "录音",
+          "value": "亀田亮治；录音工作室：デルファイサウンド"
+        },
+        {
+          "key": "音响",
+          "value": "HALF H・P STUDIO"
+        },
+        {
+          "key": "剪辑",
+          "value": "田村ゆり"
+        },
+        {
+          "key": "制片人",
+          "value": "中路亮輔、福良啓、佐々木史朗、武田康廣"
+        },
+        {
+          "key": "制作进行",
+          "value": "瀬古浩司、桑田祥"
+        },
+        {
+          "key": "动画制作",
+          "value": "GAINAX"
+        },
+        {
+          "key": "製作",
+          "value": "バンダイビジュアル、フライングドッグ、GAINAX"
+        }
+      ],
+      "total_episodes": 2,
+      "id": 559221,
+      "eps": 2,
+      "meta_tags": [],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/8c/769_oP9Vs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/8c/769_oP9Vs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/28/8c/769_oP9Vs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/8c/769_oP9Vs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/8c/769_oP9Vs.jpg"
+          },
+          "name": "トップをねらえ!",
+          "name_cn": "飞跃巅峰！",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 769
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/f2/117808_CXccS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/f2/117808_CXccS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7c/f2/117808_CXccS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/f2/117808_CXccS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/f2/117808_CXccS.jpg"
+          },
+          "name": "トップをねらえ! 科学講座",
+          "name_cn": "飞跃巅峰！科学讲座",
+          "relation": "前传",
+          "type": 2,
+          "id": 117808
+        }
+      ]
+    }
+  },
+  {
     "title": "GRAVITY DAZE/重力的眩暈:上層への帰還において、彼女の内宇宙に生じた摂動",
     "date": "2012-02-09",
     "bangumi": {
@@ -2020,16 +2348,21 @@
         "ARPG",
         "AVG",
         "JAPANSTUDIO",
+        "PS",
         "PS4",
         "PSV",
+        "PSVita",
         "PSVita独占",
         "SCE",
         "SCEJ",
+        "SONY",
         "Vita",
         "创意",
         "失足少女",
         "巧克力肤色",
+        "游戏",
         "独占",
+        "白金",
         "蒸汽朋克",
         "跳楼少女",
         "重力",
@@ -2149,7 +2482,7 @@
           },
           "name": "GRAVITY DAZE/重力的眩暈:上層への帰還において、彼女の内宇宙に生じた摂動",
           "name_cn": "重力异想世界 重制版",
-          "relation": "游戏",
+          "relation": "不同版本",
           "type": 4,
           "id": 146603
         },

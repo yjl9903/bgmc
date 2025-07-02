@@ -69,7 +69,11 @@
         },
         {
           "key": "导演",
-          "value": "小原正和"
+          "value": "小原正和、久行宏和（动画导演）"
+        },
+        {
+          "key": "企画",
+          "value": "サンライズ"
         },
         {
           "key": "原作",
@@ -84,8 +88,76 @@
           "value": "久行宏和"
         },
         {
-          "key": "创意制作人",
-          "value": "谷口悟朗"
+          "key": "制片人",
+          "value": "古里尚丈、国崎久徳、谷口悟朗（创意制作人）"
+        },
+        {
+          "key": "设定",
+          "value": "カグツチ&オーファン：宮武一貴（スタジオぬえ）；チャイルド&エレメント：阿久津潤一（ビークラフト）；设定协力：重田智、坂本修司、金田正彦"
+        },
+        {
+          "key": "道具设计",
+          "value": "制服デザイン原案：猪股むつみ；エレメント銃デザイン：平井久司"
+        },
+        {
+          "key": "机械设定",
+          "value": "ゲストメカデザイン：大河広行"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "井上俊次、伊藤善之"
+        },
+        {
+          "key": "製作",
+          "value": "サンライズ、バンダイビジュアル"
+        },
+        {
+          "key": "美术设计",
+          "value": "泉寛（スタジオ・イースター）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ランティス；协力：サンライズ音楽出版[现サンライズミュージック:]、テレビ東京ミュージック"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "栗林みな実（OP）、美郷あき（ED）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "栗林みな実（OP）、畑亜貴（ED）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "飯塚昌明"
+        },
+        {
+          "key": "脚本",
+          "value": "吉野弘幸、木村暢"
+        },
+        {
+          "key": "分镜",
+          "value": "小原正和、久行宏和、小野学、長井龍雪、鎌倉由実、太田雅彦、水草一馬（増井壮一）、菱川直樹、須永司、南康宏"
+        },
+        {
+          "key": "演出",
+          "value": "西村大樹、太田雅彦、小野学、長井龍雪、鎌倉由実、福本潔、菱川直樹、玉川達文（伊藤達文）、南康宏"
+        },
+        {
+          "key": "作画监督",
+          "value": "久行宏和、米山浩平、竹内浩志、しんぼたくろう、高瀬健一、相坂直紀（相坂ナオキ）、実原登、田中将賀、石野聡、坂本修司、稲吉智重、高野和史"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "重田智、金田正彦、坂本修司、大塚健、市川敬三、永田正美、川原智弘"
+        },
+        {
+          "key": "总作画监督",
+          "value": "总作画监督协力：竹内浩志"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "高野和史"
         }
       ],
       "total_episodes": 27,
@@ -95,8 +167,10 @@
         "百合",
         "校园",
         "TV",
+        "恋爱",
         "日本",
-        "原创"
+        "原创",
+        "战斗"
       ],
       "volumes": 0,
       "series": false,
@@ -117,6 +191,34 @@
           "relation": "游戏",
           "type": 4,
           "id": 141050
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/94/552896_pDXj4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/94/552896_pDXj4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9a/94/552896_pDXj4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/94/552896_pDXj4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/94/552896_pDXj4.jpg"
+          },
+          "name": "舞-HiME コミックアンソロジー",
+          "name_cn": "",
+          "relation": "番外篇",
+          "type": 1,
+          "id": 552896
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6a/b3/542482_H2H9o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6a/b3/542482_H2H9o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6a/b3/542482_H2H9o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6a/b3/542482_H2H9o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6a/b3/542482_H2H9o.jpg"
+          },
+          "name": "舞-HiME ～20周年ベストコレクション～",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 542482
         },
         {
           "images": {
@@ -383,48 +485,6 @@
           "relation": "原声集",
           "type": 3,
           "id": 3807
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/aa/374785_3xLBz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/aa/374785_3xLBz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/12/aa/374785_3xLBz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/aa/374785_3xLBz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/aa/374785_3xLBz.jpg"
-          },
-          "name": "舞ーHiMEコミックアンソロジー",
-          "name_cn": "",
-          "relation": "番外篇",
-          "type": 1,
-          "id": 374785
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ec/c7/374804_M2ZWz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ec/c7/374804_M2ZWz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ec/c7/374804_M2ZWz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ec/c7/374804_M2ZWz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ec/c7/374804_M2ZWz.jpg"
-          },
-          "name": "舞-HiMEコミックアンソロジー VOL.2",
-          "name_cn": "",
-          "relation": "番外篇",
-          "type": 1,
-          "id": 374804
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/d7/374921_6PtF5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/d7/374921_6PtF5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cf/d7/374921_6PtF5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/d7/374921_6PtF5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/d7/374921_6PtF5.jpg"
-          },
-          "name": "舞ーHiMEコミックアンソロジー 3",
-          "name_cn": "",
-          "relation": "番外篇",
-          "type": 1,
-          "id": 374921
         }
       ]
     }
@@ -448,6 +508,7 @@
       "tags": [
         "2004",
         "2004年",
+        "2004年10月",
         "2004年9月",
         "2005",
         "Production.I.G",
@@ -458,7 +519,6 @@
         "じんのひろあき",
         "入野自由",
         "原创",
-        "名冢佳织",
         "奇幻",
         "女中学生",
         "小林七郎",
@@ -602,7 +662,9 @@
       "tags": [
         "2004",
         "TV",
+        "三条陆",
         "东映",
+        "成田良美",
         "漫画改",
         "童年",
         "草尾毅"
@@ -700,9 +762,14 @@
         "SUNRISE",
         "TV",
         "TVB",
+        "原创",
+        "奇幻",
         "子供向",
         "少年系",
+        "战斗",
+        "日本动画",
         "漫改",
+        "漫画改",
         "热血",
         "童年",
         "菱田正和",
@@ -739,7 +806,7 @@
         },
         {
           "key": "原作",
-          "value": "富沢義彦、海童博行"
+          "value": "海童博行・富沢義彦／集英社（月刊Vジャンプ連載）"
         },
         {
           "key": "系列构成",
@@ -747,11 +814,11 @@
         },
         {
           "key": "人物设定",
-          "value": "倉田綾子   オリジナルキャラクター / 式神デザイン - 福田道生"
+          "value": "倉田綾子（动画人设）、福田道生（原创人物设定）"
         },
         {
           "key": "设定",
-          "value": "アニメーション式神設定 - 榎本勝紀"
+          "value": "福田道生（式神设定）、榎本勝紀（动画式神设定）"
         },
         {
           "key": "剪辑",
@@ -759,7 +826,7 @@
         },
         {
           "key": "制片人",
-          "value": "山川典夫、 実松照晃、渡辺洋一"
+          "value": "笹村武史→岩田圭介→山川典夫（テレビ東京）、笹田直樹、渡辺洋一"
         },
         {
           "key": "制作协力",
@@ -767,7 +834,47 @@
         },
         {
           "key": "製作",
-          "value": "テレビ東京、NAS、サンライズ"
+          "value": "40th Anniversaryテレビ東京、NAS、サンライズ"
+        },
+        {
+          "key": "企画",
+          "value": "サンライズ、WiZ"
+        },
+        {
+          "key": "美术监督",
+          "value": "小川由紀子"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "サザーランド（OP1）、FAKE?（OP2）、雷鼓（ED1、2）、柳澤純子（ED3）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "Yuya Abe（OP1）、FAKE?（OP2）、ハル（ED1）、hidemix（ED1）、星和生（ED3）"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "Yuya Abe（OP1）、FAKE?（OP2）、雷鼓（ED1）、ハル（ED2）、星和生（ED3）"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "Jiro Miyanaga&Suther Rand（OP1）、FAKE?（OP2）、本間昭光（ED1）、雷鼓（ED1、2）、熊谷主穀（ED3）"
+        },
+        {
+          "key": "脚本",
+          "value": "千葉克彦、大和屋暁、岡崎純子、樋口達人、むとうやすゆき、本田雅也、江夏由結、加藤陽一、菱田正和"
+        },
+        {
+          "key": "分镜",
+          "value": "菱田正和、信天翁経堂（アミノテツロー）、タカギシゲキ（高木茂樹）、よこた和（横田和）、井内秀治、上原秀明、悠凛々、中村憲由、竹内浩志、加藤陽一、戸部敦夫"
+        },
+        {
+          "key": "演出",
+          "value": "菱田正和、工藤寛顕、わたなべじゅんいち、高木茂樹、安川勝、藤田陽一、西山明樹彦"
+        },
+        {
+          "key": "作画监督",
+          "value": "榎本勝紀、佐久間信一、実原登、鈴木幸江"
         }
       ],
       "total_episodes": 57,
@@ -776,6 +883,10 @@
       "meta_tags": [
         "TV",
         "日本",
+        "奇幻",
+        "原创",
+        "战斗",
+        "冒险",
         "子供向"
       ],
       "volumes": 0,
@@ -950,8 +1061,11 @@
         "佐藤卓哉",
         "小慧慧",
         "广告",
+        "日本",
         "机器人",
+        "漫改",
         "漫画改",
+        "独立ova",
         "田中理惠",
         "短片",
         "童梦",
@@ -1077,6 +1191,10 @@
         "2004",
         "GAL改",
         "OVA",
+        "恋爱",
+        "游戏改",
+        "滝本正至",
+        "独立ova",
         "秋之回忆"
       ],
       "infobox": [
@@ -1209,12 +1327,17 @@
       "tags": [
         "2004",
         "2004年",
+        "2004年9月",
         "OVA",
         "原创",
         "恶搞",
         "搞笑",
+        "日本",
         "松园公",
+        "水岛努",
+        "渡边明夫",
         "渡辺明夫",
+        "百合",
         "米谷良知",
         "补番",
         "邪道魔法少女",
