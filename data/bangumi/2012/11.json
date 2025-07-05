@@ -2104,5 +2104,81 @@
         }
       ]
     }
+  },
+  {
+    "title": "Mickey Mouse Clubhouse Season 4",
+    "date": "2012-11-05",
+    "bangumi": {
+      "date": "2012-11-05",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/a9/564417_dI30o.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/a9/564417_dI30o.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/ae/a9/564417_dI30o.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/a9/564417_dI30o.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/a9/564417_dI30o.jpg"
+      },
+      "summary": "",
+      "name": "Mickey Mouse Clubhouse Season 4",
+      "name_cn": "米奇妙妙屋 第四季",
+      "tags": [],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "米奇妙妙屋 第四季"
+        },
+        {
+          "key": "话数",
+          "value": "26"
+        },
+        {
+          "key": "放送开始",
+          "value": "2012年11月5日"
+        }
+      ],
+      "total_episodes": 26,
+      "id": 564417,
+      "eps": 26,
+      "meta_tags": [
+        "TV",
+        "子供向",
+        "美国"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/37/564416_htu83.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/37/564416_htu83.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c3/37/564416_htu83.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/37/564416_htu83.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/37/564416_htu83.jpg"
+          },
+          "name": "Mickey Mouse Clubhouse Season 3",
+          "name_cn": "米奇妙妙屋 第三季",
+          "relation": "前传",
+          "type": 2,
+          "id": 564416
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/da/564419_mosCS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/da/564419_mosCS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0a/da/564419_mosCS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/da/564419_mosCS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/da/564419_mosCS.jpg"
+          },
+          "name": "Mickey Mouse Clubhouse+",
+          "name_cn": "米奇妙妙屋+",
+          "relation": "续集",
+          "type": 2,
+          "id": 564419
+        }
+      ]
+    }
   }
 ]

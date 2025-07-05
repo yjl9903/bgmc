@@ -4542,5 +4542,95 @@
         }
       ]
     }
+  },
+  {
+    "title": "The Amazing World of Gumball Season 5",
+    "date": "2016-09-01",
+    "bangumi": {
+      "date": "2016-09-01",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/01/194277_GECKY.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/01/194277_GECKY.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a2/01/194277_GECKY.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/01/194277_GECKY.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/01/194277_GECKY.jpg"
+      },
+      "summary": "",
+      "name": "The Amazing World of Gumball Season 5",
+      "name_cn": "阿甘妙世界 第五季",
+      "tags": [
+        "欧美",
+        "美国"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "阿甘妙世界 第五季"
+        },
+        {
+          "key": "话数",
+          "value": "40"
+        },
+        {
+          "key": "放送开始",
+          "value": "2016年9月1日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.theamazingworldofgumball.com/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "Cartoon Network"
+        },
+        {
+          "key": "播放结束",
+          "value": "2017年11月10日"
+        }
+      ],
+      "total_episodes": 40,
+      "id": 194277,
+      "eps": 40,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/dc/155120_Y7YOW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/dc/155120_Y7YOW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/dc/155120_Y7YOW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/dc/155120_Y7YOW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/dc/155120_Y7YOW.jpg"
+          },
+          "name": "The Amazing World of Gumball Season 4",
+          "name_cn": "阿甘妙世界 第四季",
+          "relation": "前传",
+          "type": 2,
+          "id": 155120
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c9/e8/195747_vYVFV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c9/e8/195747_vYVFV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c9/e8/195747_vYVFV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c9/e8/195747_vYVFV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c9/e8/195747_vYVFV.jpg"
+          },
+          "name": "The Amazing World of Gumball Season 6",
+          "name_cn": "阿甘妙世界 第六季",
+          "relation": "续集",
+          "type": 2,
+          "id": 195747
+        }
+      ]
+    }
   }
 ]
