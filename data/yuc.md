@@ -1,132 +1,134 @@
 # yuc
 ## Fetch yuc.wiki
-- infer 机动战士高达GQuuuuuuX -> 机动战士高达 GQuuuuuuX (id: 526816)
-- infer LAZARUS -> 拉撒路 (id: 446296)
-- infer 启示录酒店 -> 末日后酒店 (id: 509986)
-- infer 月出之战 -> 月出之战 (id: 386728)
-- infer MIRU 我们的未来 -> MIRU 我们的未来 (id: 442128)
-- infer 时光流逝 饭菜依旧美味 -> 时光流逝，饭菜依旧美味 (id: 531159)
-- infer 古典之星 -> 古典乐★之星 (id: 502036)
-- infer 公主专场管弦乐 -> 公主的管弦乐团 (id: 499169)
-- infer 前桥魔女 -> 前桥魔女 (id: 511207)
-- infer 秘密的偶像公主 RING篇 -> 秘密的偶像公主 RING篇 (id: 524365)
-- infer 莉可丽丝 朋友是时间小偷 -> 莉可丽丝 朋友是时间小偷。 (id: 504950)
-- infer 黑执事 第5期 绿魔女篇 -> 黑执事 -绿之魔女篇- (id: 502875)
-- infer 搞笑漫画日和 第5期 -> 搞笑漫画日和GO (id: 526567)
-- infer 炎炎消防队 第3期 Part.1 -> 炎炎消防队 三之章 (id: 382126)
-- infer 战队大失格 第2期 -> 战队大失格 第二季 (id: 501919)
-- infer 防风铃 / 防风少年 第2期 -> 防风少年 第二季 (id: 501626)
-- infer 测不准的阿波连同学 第2期 -> 测不准的阿波连同学 第二季 (id: 506922)
-- infer 赛马娘 芦毛灰姑娘 Part.1 -> 赛马娘 芦毛灰姑娘 (id: 509297)
-- infer 三岁开始做王者 -> 终末起点 (id: 520559)
-- infer 魔女与使魔 -> 魔女与使魔 (id: 506672)
-- infer 外星人沐沐 -> 外星人姆姆 (id: 526043)
-- infer 忍者与杀手二人组的日常生活 -> 忍者与杀手二人组的日常生活 (id: 491569)
-- infer mono女孩 -> mono女孩 (id: 485936)
-- infer 杂旅 -> 随兴旅-That's Journey- (id: 437593)
-- infer 阳光马达棒球场 -> 阳光马达棒球场！ (id: 524123)
-- infer 摇滚乐是淑女的嗜好 -> 摇滚乃是淑女的爱好 (id: 504678)
-- infer 紫云寺家的孩子们 -> 紫云寺家的兄弟姐妹 (id: 480545)
-- infer 拜托请穿上 鹰峰同学 -> 拜托请穿上，鹰峰同学 (id: 506407)
-- infer 快藏起来 玛琪娜同学 -> 快藏起来！玛琪娜同学!! (id: 493813)
-- infer 爱有些沉重的黑暗精灵从异世界追过来了 -> 爱有些沉重的黑暗精灵从异世界追过来了 (id: 511264)
-- infer 九龙大众浪漫 -> 九龙大众浪漫 (id: 518090)
-- infer 中禅寺老师的灵怪讲义实录 -> 中禅寺老师的灵怪讲义实录 老师会把谜题全都解开的。 (id: 516227)
-- infer 每日男公关 -> 每日男公关 (id: 529078)
-- infer 想征服世界的小怪兽 ->  (id: 501198)
-- infer 竹轮战记 用我的可爱侵略地球 -> 竹轮战纪～用我的可爱来侵略地球～ (id: 544872)
-- infer 海贼王谈恋爱 -> 航海王谈恋爱 (id: 546257)
-- infer 小市民系列 第2期 -> 小市民系列 第二季 (id: 513018)
-- infer 再见 地球 第2期 -> 再见，地球 第二季 (id: 512817)
-- infer 新 红发少女安妮 -> 安妮·雪莉 (id: 524801)
-- infer 男女之间存在友情吗(不存在) -> 男女之间的友情存在吗？（不，不存在!!） (id: 395493)
-- infer 推理要在晚餐后 -> 推理要在晚餐后 (id: 525642)
-- infer 记忆缝线 YourForma -> 记忆缝线 (id: 445826)
-- infer 直到某魔女死去 -> 直至魔女消逝 (id: 501702)
-- infer 鬼人幻灯抄 -> 鬼人幻灯抄 (id: 404753)
-- infer 神统记 -> 神统记 (id: 488460)
-- infer 乡下大叔成为剑圣 -> 乡下大叔成为剑圣 (id: 506258)
-- infer 我是星际国家的恶德领主 -> 我是星际国家的恶德领主！ (id: 520645)
-- infer 被放逐的天才治愈师转为地下医生的快乐生活 -> 瞬间治疗却被视为无用而被流放的天才治疗师，以暗黑治疗师的身份幸福地生活着 (id: 484402)
-- infer 使人误解的工房主 -> 干杂活我乃最强～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ (id: 520284)
-- infer 受到猩猩之神庇护的大小姐在皇家骑士团受到宠爱 -> 受到猩猩之神庇护的大小姐在皇家骑士团受到宠爱 (id: 514997)
-- infer 圣女因太过完美不够可爱而被废除婚约并卖到邻国 -> 圣女因太过完美不够可爱而被废除婚约并卖到邻国 (id: 520672)
-- infer 夏日口袋 -> 夏日口袋 (id: 363957)
-- infer #COMPASS 2.0 战斗天赋解析系统 -> #COMPASS2.0 战斗天赋解析系统 (id: 409682)
-- infer 华Doll* -> 华Doll-Reinterpretation of Flowering- (id: 441888)
-- infer 新 小浣熊 -> 小浣熊 卡尔卡尔团 (id: 528088)
-- infer 正能量企鹅 -> 正能量企鹅 (id: 529143)
-- infer 呜莓猫猫 -> 呜莓猫猫 (id: 534568)
-- infer 涩谷♥八公 第3期 -> 涩谷♡八 第三部分 (id: 541037)
-- infer 正义使者 我的英雄学院之非法英雄 -> 正义使者 -我的英雄学院之非法英雄- (id: 529995)
-- infer 鬼人幻灯抄 -> 鬼人幻灯抄 (id: 404753)
-- infer 中禅寺老师的灵怪讲义实录 -> 中禅寺老师的灵怪讲义实录 老师会把谜题全都解开的。 (id: 516227)
-- infer 测不准的阿波连第2期 -> 测不准的阿波连同学 第二季 (id: 506922)
-- infer 杂旅 -> 随兴旅-That's Journey- (id: 437593)
-- infer 夏日口袋 -> 夏日口袋 (id: 363957)
-- infer 直到某魔女死去 -> 直至魔女消逝 (id: 501702)
-- infer 阳光马达棒球场 -> 阳光马达棒球场！ (id: 524123)
-- infer 紫云寺家的孩子们 -> 紫云寺家的兄弟姐妹 (id: 480545)
-- infer 启示录酒店 -> 末日后酒店 (id: 509986)
-- infer 记忆缝线 -> 记忆缝线 (id: 445826)
-- infer 三岁开始做王者 -> 终末起点 (id: 520559)
-- infer 华Doll* -> 华Doll-Reinterpretation of Flowering- (id: 441888)
-- infer 外星人沐沐 -> 外星人姆姆 (id: 526043)
-- infer 摇滚乐是淑女的嗜好 -> 摇滚乃是淑女的爱好 (id: 504678)
-- infer 防风少年第2期 -> 防风少年 第二季 (id: 501626)
-- infer 忍者与杀手二人组的日常生活 -> 忍者与杀手二人组的日常生活 (id: 491569)
-- infer 推理要在晚餐后 -> 推理要在晚餐后 (id: 525642)
-- infer 炎炎消防队第3期 -> 炎炎消防队 三之章 (id: 382126)
-- infer 神统记 -> 神统记 (id: 488460)
-- infer 九龙大众浪漫 -> 九龙大众浪漫 (id: 518090)
-- infer 黑执事第5期 -> 黑执事 -绿之魔女篇- (id: 502875)
-- infer 乡下大叔成为剑圣 -> 乡下大叔成为剑圣 (id: 506258)
-- infer 小市民系列第2期 -> 小市民系列 第二季 (id: 513018)
-- infer 我是星际国家的恶德领主 -> 我是星际国家的恶德领主！ (id: 520645)
-- infer mono女孩 -> mono女孩 (id: 485936)
-- infer 使人误解的工房主 -> 干杂活我乃最强～关于原英雄队伍的杂役人员，实际上除了战斗能力外全是SSS的故事～ (id: 520284)
-- infer 魔女与使魔 -> 魔女与使魔 (id: 506672)
-- infer 前桥魔女 -> 前桥魔女 (id: 511207)
-- infer 受到猩猩之神庇护的大小姐 -> 受到猩猩之神庇护的大小姐在皇家骑士团受到宠爱 (id: 514997)
-- infer LAZARUS -> 拉撒路 (id: 446296)
-- infer 爱有些沉重的黑暗精灵从异世界追过来了 -> 爱有些沉重的黑暗精灵从异世界追过来了 (id: 511264)
-- infer 战队大失格第2期 -> 战队大失格 第二季 (id: 501919)
-- infer 呜莓猫猫 -> 呜莓猫猫 (id: 534568)
-- infer 每日男公关 -> 每日男公关 (id: 529078)
-- infer 搞笑漫画日和第5期 -> 搞笑漫画日和GO (id: 526567)
-- infer 正能量企鹅 -> 正能量企鹅 (id: 529143)
-- infer 月出之战 -> 月出之战 (id: 386728)
+- infer Turkey! -> 保龄球少女！ (id: 413567)
+- infer 死灵之子的宇宙恐怖秀 -> 死灵之子的宇宙恐怖秀 (id: 528147)
+- infer 阴阳回天 Re:Birth -> 阴阳回天 Re:Birth (id: 541945)
+- infer BULLET/BULLET -> 弹速狂飙 (id: 408467)
+- infer 美男高校地球防卫部 High Collar -> 美男高校地球防卫部High collar！ (id: 544967)
+- infer 阿松 第4期 -> 阿松 第四季 (id: 497881)
+- infer 石纪元 第4期 Part.2 -> 石纪元 科学与未来 第2部分 (id: 508003)
+- infer 坂本日常 Part.2 -> 坂本日常 第2部分 (id: 524005)
+- infer 胆大党 第2期 -> 胆大党 第二季 (id: 529431)
+- infer 怪兽8号 第2期 -> 怪兽8号 第二季 (id: 501844)
+- infer 碧蓝之海 第2期 -> 碧蓝之海 第二季 (id: 515880)
+- infer 可爱史莱姆噗尼露 第2期 -> 噗妮露是可爱史莱姆 第二季 (id: 530115)
+- infer 彻夜之歌 第2期 -> 彻夜之歌 第二季 (id: 484623)
+- infer 新 地狱老师 -> 地狱老师 (id: 504524)
+- infer 废渊战鬼 -> 咔嗒咔嗒 (id: 498947)
+- infer 桃源暗鬼 -> 桃源暗鬼 (id: 493546)
+- infer Clevatess魔兽之王与婴儿与尸之勇者 -> 克雷瓦提斯-魔兽之王与婴儿与尸之勇者- (id: 502142)
+- infer 失神勇者与暗杀公主 -> 气绝勇者与暗杀公主 (id: 536363)
+- infer 活死喵之夜 -> 活死喵之夜 (id: 481745)
+- infer 最近的侦探真没用 -> 最近的侦探真没用 (id: 509216)
+- infer 禁止入內的鼹鼠 -> 禁止出入的鼹鼠 (id: 524289)
+- infer 异人旅馆 -> HOTEL INHUMANS (id: 523426)
+- infer 章鱼噼的原罪 -> 章鱼哔的原罪 (id: 527620)
+- infer 光死去的夏天 -> 光死去的夏天 (id: 496086)
+- infer 去唱卡拉OK吧 -> 去K歌吧！ (id: 519956)
+- infer 为你着迷 -> 为你着迷 (id: 519958)
+- infer 为丑女献上花束 -> 为丑女献上花束。 (id: 406857)
+- infer 费马的料理 -> 费马的料理 (id: 531945)
+- infer 双人单身露营 -> 双人单身露营 (id: 531344)
+- infer 雨天遇见狸 -> 和雨和你 (id: 509062)
+- infer 薰香花朵凛然绽放 -> 薰香花朵凛然绽放 (id: 513345)
+- infer 渡君的XX即将崩坏 -> 渡君的XX即将崩坏 (id: 455454)
+- infer 帝乃三姐妹原来很好搞定 -> 帝乃三姐妹原来很好搞定。 (id: 502272)
+- infer 美食广场明天见 -> 明天，美食广场见。 (id: 528438)
+- infer 与游戏中心的少女异文化交流的故事 -> 与游戏中心的少女异文化交流的故事 (id: 510256)
+- infer 坏女孩 -> 不良少女 (id: 501614)
+- infer 瑠璃的宝石 -> 琉璃的宝石 (id: 512190)
+- infer 小城日常 -> 小城日常 (id: 514358)
+- infer 盾之勇者成名录 第4期 -> 盾之勇者成名录 第四季 (id: 476542)
+- infer 转生七王子的魔法全解 第2期 -> 转生为第七王子，随心所欲的魔法学习之路 第二季 (id: 499656)
+- infer 转生成自动贩卖机的我今天也在迷宫徘徊 第2期 -> 转生成自动贩卖机的我今天也在迷宫徘徊 第二季 (id: 455617)
+- infer 沉默魔女的秘密 -> Silent Witch 沉默魔女的秘密 (id: 506677)
+- infer 公爵千金的家庭教师 -> 公爵千金的家庭教师 (id: 459616)
+- infer 欢迎来到流放者食堂 -> 欢迎光临流放者食堂！ (id: 528831)
+- infer 水属性的魔法使 -> 水属性的魔法师 (id: 532403)
+- infer 强者的新传说 -> 强者的新传说 (id: 404909)
+- infer 异世界默示录麦诺格拉 -> 异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～ (id: 500825)
+- infer 肥宅勇者 -> 肥宅勇者 (id: 524593)
+- infer 落魄千金被姐姐的原未婚夫溺爱 -> 衣衫褴褛的大小姐受到姐姐前未婚夫的宠爱 (id: 505782)
+- infer 我怎么可能成为你的恋人不行不行 (※不是不可能) -> 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) (id: 524707)
+- infer 利维坦号战记 -> 利维坦号战记 (id: 497923)
+- infer 9-nine- 支配者的王冠 -> 9-nine- 支配者的王冠 (id: 496973)
+- infer 拔作岛 -> 拔作岛 (id: 477825)
+- infer 神椿市建设中 -> 神椿市建设中。 (id: 475032)
+- infer 歌声是法式千层酥 -> 歌声是千层派 (id: 441670)
+- infer 学校不教的重要事项 ->  (id: 559674)
+- infer 噗尼轮轮 第3期 -> 噗尼轮轮 噗尼3 (id: 546442)
+- infer 碧蓝之海第2期 -> 碧蓝之海 第二季 (id: 515880)
+- infer 死灵之子的宇宙恐怖秀 -> 死灵之子的宇宙恐怖秀 (id: 528147)
+- infer 最近的侦探真没用 -> 最近的侦探真没用 (id: 509216)
+- infer 阿松第4期 -> 阿松 第四季 (id: 497881)
+- infer Turkey! -> 保龄球少女！ (id: 413567)
+- infer 转生成自动贩卖机第2期 -> 转生成自动贩卖机的我今天也在迷宫徘徊 第二季 (id: 455617)
+- infer 强者的新传说 -> 强者的新传说 (id: 404909)
+- infer 盾之勇者成名录第4期 -> 盾之勇者成名录 第四季 (id: 476542)
+- infer 转生七王子的魔法全解 第2期 -> 转生为第七王子，随心所欲的魔法学习之路 第二季 (id: 499656)
+- infer 帝乃三姐妹原来很好搞定 -> 帝乃三姐妹原来很好搞定。 (id: 502272)
+- infer 胆大党第2期 -> 胆大党 第二季 (id: 529431)
+- infer 神椿市建设中 -> 神椿市建设中。 (id: 475032)
+- infer 双人单身露营 -> 双人单身露营 (id: 531344)
+- infer 去唱卡拉OK吧 -> 去K歌吧！ (id: 519956)
+- infer 为你着迷 -> 为你着迷 (id: 519958)
+- infer 为丑女献上花束 -> 为丑女献上花束。 (id: 406857)
+- infer 渡君的XX即将崩坏 -> 渡君的XX即将崩坏 (id: 455454)
+- infer 彻夜之歌第2期 -> 彻夜之歌 第二季 (id: 484623)
+- infer 桃源暗鬼 -> 桃源暗鬼 (id: 493546)
+- infer 拔作岛 -> 拔作岛 (id: 477825)
+- infer 费马的料理 -> 费马的料理 (id: 531945)
+- infer 坏女孩 -> 不良少女 (id: 501614)
+- infer 薰香花朵凛然绽放 -> 薰香花朵凛然绽放 (id: 513345)
+- infer 光死去的夏天 -> 光死去的夏天 (id: 496086)
+- infer 雨天遇见狸 -> 和雨和你 (id: 509062)
+- infer 公爵千金的家庭教师 -> 公爵千金的家庭教师 (id: 459616)
+- infer 怪兽8号第2期 -> 怪兽8号 第二季 (id: 501844)
+- infer 可爱史莱姆噗尼露第2期 -> 噗妮露是可爱史莱姆 第二季 (id: 530115)
+- infer 异世界默示录麦诺格拉 -> 异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～ (id: 500825)
+- infer 活死喵之夜 -> 活死喵之夜 (id: 481745)
+- infer 与游戏中心的少女异文化交流的故事 -> 与游戏中心的少女异文化交流的故事 (id: 510256)
+- infer 肥宅勇者 -> 肥宅勇者 (id: 524593)
+- infer 小城日常 -> 小城日常 (id: 514358)
+- infer 章鱼噼的原罪 -> 章鱼哔的原罪 (id: 527620)
+- infer 利维坦号战记 -> 利维坦号战记 (id: 497923)
+- infer BULLET/BULLET -> 弹速狂飙 (id: 408467)
+- infer 歌声是法式千层酥 -> 歌声是千层派 (id: 441670)
 ## Error
-- can not find 新 全力兔子 第2期 or 全力ウサギ シーズン2
-- can not find 新 剑勇传说 or 真•侍伝 YAIBA
-- can not find 欢迎来到魔法少女村(非法占据中) or おいでよ 魔法少女村（不法占拠）
-- can not find 你与我最后的战场亦或是世界起始的圣战 第2期 or キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season II
-- can not find 打了300年的史莱姆不知不觉就练到了满级 第2期 or スライム倒して300年、知らないうちにレベルMAXになってました 〜そのに(2)〜
-- can not find 罪恶装备 奋战：两位裁决者 or GULTY GEAR STRIVE: DUAL RULERS
-- can not infer calendar bangumi #COMPASS 2.0战斗天赋解析系统
-- can not infer calendar bangumi 机动战士高达GQuuuuuuX
-- can not infer calendar bangumi 拜托请穿上鹰峰同学
-- can not infer calendar bangumi 圣女因太过完美被废除婚约卖到邻国
-- can not infer calendar bangumi 新 全力兔子第2期
-- can not infer calendar bangumi 被放逐的天才治愈师转为地下医生
-- can not infer calendar bangumi 你我战 第2期
-- can not infer calendar bangumi 男女之间存在友情吗(不存在)
-- can not infer calendar bangumi 再见 地球第2期
-- can not infer calendar bangumi 新 剑勇传说
-- can not infer calendar bangumi 新 红发少女安妮
-- can not infer calendar bangumi 打史莱姆300年第2期
-- can not infer calendar bangumi 罪恶装备 奋战两位裁决者
-- can not infer calendar bangumi 古典之星
-- can not infer calendar bangumi 时光流逝饭菜依旧美味
-- can not infer calendar bangumi 公主专场管弦乐
-- can not infer calendar bangumi 秘密的偶像公主RING篇
-- can not infer calendar bangumi 赛马娘芦毛灰姑娘
-- can not infer calendar bangumi 快藏起来玛琪娜同学
-- can not infer calendar bangumi 海贼王谈恋爱
-- can not infer calendar bangumi MIRU我们的未来
-- can not infer calendar bangumi 新 小浣熊
-- can not infer calendar bangumi 欢迎来到魔法少女村(非法占据中)
-- can not infer calendar bangumi 想征服世界的小怪兽
-- can not infer calendar bangumi 涩谷♥八公第3期
-- can not infer calendar bangumi 竹轮战记
-- can not infer calendar bangumi 莉可丽丝短篇
+- can not find 新 吊带袜天使 or New PANTY&STOCKING with GARTERBELT
+- can not find 卡片战斗先导者 Divinez Deluxe决胜篇 or カードファイト!! ヴァンガード Divinez デラックス決勝編
+- can not find 租借女友 第4期 Part.1 or 彼女、お借りします 第4期
+- can not find 杜鹃的婚约 第2期 or カッコウの許嫁 第2期
+- can not find 更衣人偶坠入爱河 第2期 or その着せ替え人形は恋をする 第2期
+- can not find 地缚少年花子君 第2期 Part.2 or 地縛少年花子くん 2期 第2クール
+- can not find 稗记舞咏/寻神的旅途 or ハイガクラ
+- can not find 青春猪头少年不会梦到圣诞服女郎 or 青春ブタ野郎はサンタクロースの夢を見ない
+- can not find 被勇者队伍开除的白魔导师被S级冒险者捡到 or 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる
+- can not find 明日方舟 焰烬曙明 or アークナイツ 焔燼曙明/RISE FROM EMBER
+- can not infer calendar bangumi 禁止入內的鼹鼠
+- can not infer calendar bangumi 美食广场明天见
+- can not infer calendar bangumi 美男高校地球防卫部 High Collar
+- can not infer calendar bangumi 我怎么可能成为你的恋人 不行不行(※不是不可能)
+- can not infer calendar bangumi 坂本日常Part.2
+- can not infer calendar bangumi 租借女友第4期 Part.1
+- can not infer calendar bangumi 杜鹃的婚约第2期
+- can not infer calendar bangumi Clevatess 魔兽之王与婴儿与尸之勇者
+- can not infer calendar bangumi 新地狱老师
+- can not infer calendar bangumi 阴阳回天Re:Birth
+- can not infer calendar bangumi 新吊带袜天使
+- can not infer calendar bangumi 欢迎来到流放者食堂
+- can not infer calendar bangumi 水属性的魔法使
+- can not infer calendar bangumi 明日方舟焰烬曙明
+- can not infer calendar bangumi 沉默魔女的秘密
+- can not infer calendar bangumi 落魄千金被姐姐的原未婚夫溺爱
+- can not infer calendar bangumi 卡片战斗先导者DivinezDeluxe 决胜篇
+- can not infer calendar bangumi 新剑勇传说
+- can not infer calendar bangumi 9-nine-支配者的王冠
+- can not infer calendar bangumi 失神勇者与暗杀公主
+- can not infer calendar bangumi 被勇者队伍开除的白魔导师
+- can not infer calendar bangumi 青春猪头少年不会梦到圣诞服女郎
+- can not infer calendar bangumi 更衣人偶坠入爱河第2期
+- can not infer calendar bangumi 地缚少年花子君第2期 Part.2
+- can not infer calendar bangumi 瑠璃的宝石
+- can not infer calendar bangumi 废渊战鬼
+- can not infer calendar bangumi 异人旅馆(杀手旅店)
