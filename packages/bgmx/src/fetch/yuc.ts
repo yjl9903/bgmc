@@ -274,6 +274,17 @@ function createBangumiMatcher(
 
   return (names: string[]) => {
     const set = new Set(names.map((t) => rewriter.rename(t)).map(normalizeTitle));
+
+    // Use rewrite -> ids
+    const rewriteId = [...set, ...names].map((n) => rewriter.getBangumiId(n)).filter(Boolean)[0];
+    if (rewriteId) {
+      for (const item of db.values()) {
+        if (item.bangumi.id === +rewriteId) {
+          return item;
+        }
+      }
+    }
+
     // Match trimmed season
     const { original } = trimSeason({
       name: names[0],
