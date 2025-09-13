@@ -1,134 +1,61 @@
 # yuc
 ## Fetch yuc.wiki
-- infer Turkey! -> 保龄球少女！ (id: 413567)
-- infer 死灵之子的宇宙恐怖秀 -> 死灵之子的宇宙恐怖秀 (id: 528147)
-- infer 阴阳回天 Re:Birth -> 阴阳回天 Re:Birth (id: 541945)
-- infer BULLET/BULLET -> 弹速狂飙 (id: 408467)
-- infer 美男高校地球防卫部 High Collar -> 美男高校地球防卫部High collar！ (id: 544967)
-- infer 阿松 第4期 -> 阿松 第四季 (id: 497881)
-- infer 石纪元 第4期 Part.2 -> 石纪元 科学与未来 第2部分 (id: 508003)
-- infer 坂本日常 Part.2 -> 坂本日常 第2部分 (id: 524005)
-- infer 胆大党 第2期 -> 胆大党 第二季 (id: 529431)
-- infer 怪兽8号 第2期 -> 怪兽8号 第二季 (id: 501844)
-- infer 碧蓝之海 第2期 -> 碧蓝之海 第二季 (id: 515880)
-- infer 可爱史莱姆噗尼露 第2期 -> 噗妮露是可爱史莱姆 第二季 (id: 530115)
-- infer 彻夜之歌 第2期 -> 彻夜之歌 第二季 (id: 484623)
-- infer 新 地狱老师 -> 地狱老师 (id: 504524)
-- infer 废渊战鬼 -> 废渊战鬼 (id: 498947)
-- infer 桃源暗鬼 -> 桃源暗鬼 (id: 493546)
-- infer Clevatess魔兽之王与婴儿与尸之勇者 -> 克雷瓦提斯-魔兽之王与婴儿与尸之勇者- (id: 502142)
-- infer 失神勇者与暗杀公主 -> 气绝勇者与暗杀公主 (id: 536363)
-- infer 活死喵之夜 -> 活死喵之夜 (id: 481745)
-- infer 最近的侦探真没用 -> 最近的侦探真没用 (id: 509216)
-- infer 禁止入內的鼹鼠 -> 禁止出入的鼹鼠 (id: 524289)
-- infer 章鱼噼的原罪 -> 章鱼哔的原罪 (id: 527620)
-- infer 光死去的夏天 -> 光死去的夏天 (id: 496086)
-- infer 去唱卡拉OK吧 -> 去K歌吧！ (id: 519956)
-- infer 为你着迷 -> 为你着迷 (id: 519958)
-- infer 为丑女献上花束 -> 为丑女献上花束。 (id: 406857)
-- infer 费马的料理 -> 费马的料理 (id: 531945)
-- infer 双人单身露营 -> 双人单身露营 (id: 531344)
-- infer 雨天遇见狸 -> 和雨和你 (id: 509062)
-- infer 薰香花朵凛然绽放 -> 薰香花朵凛然绽放 (id: 513345)
-- infer 渡君的XX即将崩坏 -> 渡君的XX即将崩坏 (id: 455454)
-- infer 帝乃三姐妹原来很好搞定 -> 帝乃三姐妹原来很好搞定。 (id: 502272)
-- infer 美食广场明天见 -> 明天，美食广场见。 (id: 528438)
-- infer 与游戏中心的少女异文化交流的故事 -> 与游戏中心的少女异文化交流的故事 (id: 510256)
-- infer 坏女孩 -> 不良少女 (id: 501614)
-- infer 瑠璃的宝石 -> 琉璃的宝石 (id: 512190)
-- infer 小城日常 -> 小城日常 (id: 514358)
-- infer 盾之勇者成名录 第4期 -> 盾之勇者成名录 第四季 (id: 476542)
-- infer 转生七王子的魔法全解 第2期 -> 转生为第七王子，随心所欲的魔法学习之路 第二季 (id: 499656)
-- infer 转生成自动贩卖机的我今天也在迷宫徘徊 第2期 -> 转生成自动贩卖机的我今天也在迷宫徘徊 第二季 (id: 455617)
-- infer 沉默魔女的秘密 -> Silent Witch 沉默魔女的秘密 (id: 506677)
-- infer 公爵千金的家庭教师 -> 公爵千金的家庭教师 (id: 459616)
-- infer 欢迎来到流放者食堂 -> 欢迎光临流放者食堂！ (id: 528831)
-- infer 水属性的魔法使 -> 水属性的魔法师 (id: 532403)
-- infer 强者的新传说 -> 强者的新传说 (id: 404909)
-- infer 异世界默示录麦诺格拉 -> 异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～ (id: 500825)
-- infer 肥宅勇者 -> 肥宅勇者 (id: 524593)
-- infer 落魄千金被姐姐的原未婚夫溺爱 -> 衣衫褴褛的大小姐受到姐姐前未婚夫的宠爱 (id: 505782)
-- infer 我怎么可能成为你的恋人不行不行 (※不是不可能) -> 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) (id: 524707)
-- infer 利维坦号战记 -> 利维坦号战记 (id: 497923)
-- infer 9-nine- 支配者的王冠 -> 9-nine- 支配者的王冠 (id: 496973)
-- infer 拔作岛 -> 拔作岛 (id: 477825)
-- infer 神椿市建设中 -> 神椿市建设中。 (id: 475032)
-- infer 歌声是法式千层酥 -> 歌声是千层派 (id: 441670)
-- infer 学校不教的重要事项 ->  (id: 559674)
-- infer 噗尼轮轮 第3期 -> 噗尼轮轮 噗尼3 (id: 546442)
-- infer 碧蓝之海第2期 -> 碧蓝之海 第二季 (id: 515880)
-- infer 死灵之子的宇宙恐怖秀 -> 死灵之子的宇宙恐怖秀 (id: 528147)
-- infer 最近的侦探真没用 -> 最近的侦探真没用 (id: 509216)
-- infer 阿松第4期 -> 阿松 第四季 (id: 497881)
-- infer Turkey! -> 保龄球少女！ (id: 413567)
-- infer 转生成自动贩卖机第2期 -> 转生成自动贩卖机的我今天也在迷宫徘徊 第二季 (id: 455617)
-- infer 强者的新传说 -> 强者的新传说 (id: 404909)
-- infer 盾之勇者成名录第4期 -> 盾之勇者成名录 第四季 (id: 476542)
-- infer 转生七王子的魔法全解 第2期 -> 转生为第七王子，随心所欲的魔法学习之路 第二季 (id: 499656)
-- infer 帝乃三姐妹原来很好搞定 -> 帝乃三姐妹原来很好搞定。 (id: 502272)
-- infer 胆大党第2期 -> 胆大党 第二季 (id: 529431)
-- infer 神椿市建设中 -> 神椿市建设中。 (id: 475032)
-- infer 双人单身露营 -> 双人单身露营 (id: 531344)
-- infer 歌声是法式千层酥 -> 歌声是千层派 (id: 441670)
-- infer 去唱卡拉OK吧 -> 去K歌吧！ (id: 519956)
-- infer 为你着迷 -> 为你着迷 (id: 519958)
-- infer 为丑女献上花束 -> 为丑女献上花束。 (id: 406857)
-- infer 渡君的XX即将崩坏 -> 渡君的XX即将崩坏 (id: 455454)
-- infer 彻夜之歌第2期 -> 彻夜之歌 第二季 (id: 484623)
-- infer 桃源暗鬼 -> 桃源暗鬼 (id: 493546)
-- infer 拔作岛 -> 拔作岛 (id: 477825)
-- infer 费马的料理 -> 费马的料理 (id: 531945)
-- infer 坏女孩 -> 不良少女 (id: 501614)
-- infer 薰香花朵凛然绽放 -> 薰香花朵凛然绽放 (id: 513345)
-- infer 光死去的夏天 -> 光死去的夏天 (id: 496086)
-- infer 雨天遇见狸 -> 和雨和你 (id: 509062)
-- infer 公爵千金的家庭教师 -> 公爵千金的家庭教师 (id: 459616)
-- infer 怪兽8号第2期 -> 怪兽8号 第二季 (id: 501844)
-- infer 可爱史莱姆噗尼露第2期 -> 噗妮露是可爱史莱姆 第二季 (id: 530115)
-- infer 异世界默示录麦诺格拉 -> 异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～ (id: 500825)
-- infer 活死喵之夜 -> 活死喵之夜 (id: 481745)
-- infer 与游戏中心的少女异文化交流的故事 -> 与游戏中心的少女异文化交流的故事 (id: 510256)
-- infer 肥宅勇者 -> 肥宅勇者 (id: 524593)
-- infer 废渊战鬼 -> 废渊战鬼 (id: 498947)
-- infer 小城日常 -> 小城日常 (id: 514358)
-- infer 章鱼噼的原罪 -> 章鱼哔的原罪 (id: 527620)
-- infer 利维坦号战记 -> 利维坦号战记 (id: 497923)
-- infer BULLET/BULLET -> 弹速狂飙 (id: 408467)
+- infer 致不灭的你 第3期 -> 致不灭的你 第三季 (id: 424242)
+- infer 间谍过家家 第3期 -> 间谍过家家 第三季 (id: 498378)
+- infer 赛马娘 芦毛灰姑娘 Part.2 -> 赛马娘 芦毛灰姑娘 第2部分 (id: 530377)
+- infer 蓝色管弦乐 第2期 -> 蓝色管弦乐 第二季 (id: 458673)
+- infer 婚戒物语 第2期 -> 婚戒物语 第二季 (id: 486311)
+- infer 新 乱马1/2 第2期 -> 乱马1/2 第二季 (id: 529966)
+- infer 叹息的亡灵好想隐退 第2期 -> 叹气的亡灵想隐退 第2部分 (id: 530290)
+- infer 妖怪旅馆营业中 第2期 -> 妖怪旅馆营业中 第二季 (id: 492722)
 ## Error
-- can not find 新 吊带袜天使 or New PANTY&STOCKING with GARTERBELT
-- can not find 卡片战斗先导者 Divinez Deluxe决胜篇 or カードファイト!! ヴァンガード Divinez デラックス決勝編
-- can not find 租借女友 第4期 Part.1 or 彼女、お借りします 第4期
-- can not find 杜鹃的婚约 第2期 or カッコウの許嫁 第2期
-- can not find 更衣人偶坠入爱河 第2期 or その着せ替え人形は恋をする 第2期
-- can not find 地缚少年花子君 第2期 Part.2 or 地縛少年花子くん 2期 第2クール
-- can not find 稗记舞咏/寻神的旅途 or ハイガクラ
-- can not find 异人旅馆 or HOTEL INHUMANS
-- can not find 青春猪头少年不会梦到圣诞服女郎 or 青春ブタ野郎はサンタクロースの夢を見ない
-- can not find 被勇者队伍开除的白魔导师被S级冒险者捡到 or 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる
-- can not find 明日方舟 焰烬曙明 or アークナイツ 焔燼曙明/RISE FROM EMBER
-- can not infer calendar bangumi 美食广场明天见
-- can not infer calendar bangumi 禁止入內的鼹鼠
-- can not infer calendar bangumi 美男高校地球防卫部 High Collar
-- can not infer calendar bangumi 我怎么可能成为你的恋人 不行不行(※不是不可能)
-- can not infer calendar bangumi 坂本日常Part.2
-- can not infer calendar bangumi 租借女友第4期 Part.1
-- can not infer calendar bangumi 杜鹃的婚约第2期
-- can not infer calendar bangumi Clevatess 魔兽之王与婴儿与尸之勇者
-- can not infer calendar bangumi 新地狱老师
-- can not infer calendar bangumi 阴阳回天Re:Birth
-- can not infer calendar bangumi 新吊带袜天使
-- can not infer calendar bangumi 欢迎来到流放者食堂
-- can not infer calendar bangumi 水属性的魔法使
-- can not infer calendar bangumi 明日方舟焰烬曙明
-- can not infer calendar bangumi 沉默魔女的秘密
-- can not infer calendar bangumi 落魄千金被姐姐的原未婚夫溺爱
-- can not infer calendar bangumi 卡片战斗先导者DivinezDeluxe 决胜篇
-- can not infer calendar bangumi 新剑勇传说
-- can not infer calendar bangumi 9-nine-支配者的王冠
-- can not infer calendar bangumi 失神勇者与暗杀公主
-- can not infer calendar bangumi 被勇者队伍开除的白魔导师
-- can not infer calendar bangumi 青春猪头少年不会梦到圣诞服女郎
-- can not infer calendar bangumi 更衣人偶坠入爱河第2期
-- can not infer calendar bangumi 地缚少年花子君第2期 Part.2
-- can not infer calendar bangumi 瑠璃的宝石
-- can not infer calendar bangumi 异人旅馆(杀手旅店)
+- can not find 永恒余晖 or 永久のユウグレ
+- can not find SI-VIS: The Sound of Heroes or SI-VIS: The Sound of Heroes
+- can not find 数码宝贝 BEATBREAK or DIGIMON BEATBREAK
+- can not find 元祖 小邦多利 or 元祖！バンドリちゃん
+- can not find 王者天下 第6期 or キングダム 第6シリーズ
+- can not find 一拳超人 第3期 or ワンパンマン 第3期
+- can not find 科学×冒险求生 第2期 or 科学×冒険サバイバル 第2期
+- can not find 百姓贵族 第3期 or 百姓貴族 第3期
+- can not find 新 猫眼三姐妹 or Cat's Eye/キャッツ・アイ
+- can not find SANDA or SANDA
+- can not find 忍者和极道 or 忍者と極道
+- can not find 机械女仆玛丽 or 機械じかけのマリー
+- can not find 少女型兵器想要成为家人 or アルマちゃんは家族になりたい
+- can not find 末世二轮之旅 or 終末ツーリング
+- can not find 想吃掉我的非人少女 or 私を喰べたい、ひとでなし
+- can not find 不擅长吸血的吸血鬼 or ちゃんと吸えない吸血鬼ちゃん
+- can not find 跨越种族与你相恋 or キミと越えて恋になる
+- can not find 转生恶女的黑历史 or 転生悪女の黒歴史
+- can not find 胖子与爱情以及过错 or デブとラブと過ちと！
+- can not find 笨拙至极的前辈 or 不器用な先輩。
+- can not find 欢迎来到笑容不断的职场 or 笑顔のたえない職場です。
+- can not find Let's Play 充满挑战的人生 or Let's Play クエストだらけのマイライフ
+- can not find 绝妙舞步 or ワンダンス
+- can not find 无口的柏田小姐与元气的太田君 or 顔に出ない柏田さんと顔に出る太田君
+- can not find 矢野同学观察日记 or 矢野くんの普通の日々
+- can not find 星辰光辉更胜太阳 or 太陽よりも眩しい星
+- can not find 小手指君别碰我 or さわらないで小手指くん
+- can not find 东岛丹三郎想要成为假面骑士 or 東島丹三郎は仮面ライダーになりたい
+- can not find GANGLION or ガングリオン
+- can not find 野原广志 午餐的流派 or 野原ひろし 昼メシの流儀
+- can not find 异世界玩家用HP1进行最强最快的迷宫攻略 or 異世界マンチキン HP1のままで最強最速ダンジョン攻略
+- can not find 网购技能开启异世界美食之旅 第2期 or とんでもスキルで異世界放浪メシ 第2期
+- can not find 银魂 3年Z班银八老师 or 銀魂 3年Z組銀八先生
+- can not find 朋友的妹妹只喜欢烦我 or 友達の妹が俺にだけウザい
+- can not find 弹珠汽水瓶里的千岁同学 or 千歳くんはラムネ瓶のなか
+- can not find 娑婆气 or しゃばけ
+- can not find 最后再拜托您一件事可以吗 or 最後にひとつだけお願いしてもよろしいでしょうか
+- can not find 恶食千金与狂血公爵 or 悪食令嬢と狂血公爵
+- can not find 野生的最终BOSS出现了 or 野生のラスボスが現れた！
+- can not find 转生后的我成了英雄爸爸和精灵妈妈的女儿 or 父は英雄、母は精霊、娘の私は転生者。
+- can not find 无职英雄 技能什么的毫无用处 or 無職の英雄 別にスキルなんか要らなかったんだが
+- can not find 素材采集家的异世界旅行记 or 素材採取家の異世界旅行記
+- can not find 队友太弱所以贯彻辅助的宫廷魔法师惨遭流放目标却是最强 or 味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す
+- can not find 身为暗杀者的我明显比勇者还强 or 暗殺者である俺のステータスが勇者よりも明らかに強いのだが
+- can not find 差点在迷宫深处被信任的伙伴杀掉靠着天赐技能「无限扭蛋」获得等级9999的伙伴向前队友和世界展开复仇 or 信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル９９９９の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！
+- can not find 古诺希亚 or GNOSIA
+- can not find 迪士尼扭曲仙境第1期 Heartslabyul篇 or ディズニー ツイステッドワンダーランドザ アニメーション シーズン1
+- can not find 从前从前有只猫 世界喵童话 or うごく！ねこむかしばなし
+- can not find 考拉绘日记 or コアラ絵日記
+- can not find 我的英雄学院 第8期 or 僕のヒーローアカデミア FINALSEASON
