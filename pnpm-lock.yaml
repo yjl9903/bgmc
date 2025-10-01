@@ -30,7 +30,7 @@ importers:
         version: 3.6.2
       release-it:
         specifier: ^16.2.1
-        version: 16.2.1(patch_hash=2e2aea092db4fff1b2e8ff1321b805586ce32e43d7ba087e7775e392021c69e2)(typescript@5.9.2)
+        version: 16.2.1(patch_hash=2e2aea092db4fff1b2e8ff1321b805586ce32e43d7ba087e7775e392021c69e2)(typescript@5.9.3)
       rimraf:
         specifier: ^6.0.1
         version: 6.0.1
@@ -41,11 +41,11 @@ importers:
         specifier: ^2.5.8
         version: 2.5.8
       typescript:
-        specifier: ^5.9.2
-        version: 5.9.2
+        specifier: ^5.9.3
+        version: 5.9.3
       unbuild:
         specifier: ^3.6.1
-        version: 3.6.1(typescript@5.9.2)
+        version: 3.6.1(typescript@5.9.3)
       vite:
         specifier: ^7.1.7
         version: 7.1.7(@types/node@22.18.8)(jiti@2.5.1)(tsx@4.20.6)(yaml@2.8.1)
@@ -2875,8 +2875,8 @@ packages:
   typedarray-to-buffer@3.1.5:
     resolution: {integrity: sha512-zdu8XMNEDepKKR+XYOXAVPtWui0ly0NtohUscw+UmaHiAWT8hrV1rr//H6V+0DvJ3OQ19S979M0laLfX8rm82Q==}
 
-  typescript@5.9.2:
-    resolution: {integrity: sha512-CWBzXQrc/qOkhidw1OzBTQuYRbfyxDXJMVJ1XNwUHGROVmuaeiEm3OslpZ1RV96d7SKKjZKrSJu3+t/xlw3R9A==}
+  typescript@5.9.3:
+    resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -3933,14 +3933,14 @@ snapshots:
 
   consola@3.4.2: {}
 
-  cosmiconfig@8.3.6(typescript@5.9.2):
+  cosmiconfig@8.3.6(typescript@5.9.3):
     dependencies:
       import-fresh: 3.3.0
       js-yaml: 4.1.0
       parse-json: 5.2.0
       path-type: 4.0.0
     optionalDependencies:
-      typescript: 5.9.2
+      typescript: 5.9.3
 
   cross-spawn@7.0.3:
     dependencies:
@@ -4966,7 +4966,7 @@ snapshots:
 
   minipass@7.1.2: {}
 
-  mkdist@2.3.0(typescript@5.9.2):
+  mkdist@2.3.0(typescript@5.9.3):
     dependencies:
       autoprefixer: 10.4.21(postcss@8.5.6)
       citty: 0.1.6
@@ -4982,7 +4982,7 @@ snapshots:
       semver: 7.7.2
       tinyglobby: 0.2.14
     optionalDependencies:
-      typescript: 5.9.2
+      typescript: 5.9.3
 
   mlly@1.7.4:
     dependencies:
@@ -5458,13 +5458,13 @@ snapshots:
     dependencies:
       rc: 1.2.8
 
-  release-it@16.2.1(patch_hash=2e2aea092db4fff1b2e8ff1321b805586ce32e43d7ba087e7775e392021c69e2)(typescript@5.9.2):
+  release-it@16.2.1(patch_hash=2e2aea092db4fff1b2e8ff1321b805586ce32e43d7ba087e7775e392021c69e2)(typescript@5.9.3):
     dependencies:
       '@iarna/toml': 2.2.5
       '@octokit/rest': 19.0.13
       async-retry: 1.3.3
       chalk: 5.3.0
-      cosmiconfig: 8.3.6(typescript@5.9.2)
+      cosmiconfig: 8.3.6(typescript@5.9.3)
       execa: 7.2.0
       git-url-parse: 13.1.0
       globby: 13.2.2
@@ -5529,11 +5529,11 @@ snapshots:
       glob: 11.0.0
       package-json-from-dist: 1.0.0
 
-  rollup-plugin-dts@6.2.1(rollup@4.46.2)(typescript@5.9.2):
+  rollup-plugin-dts@6.2.1(rollup@4.46.2)(typescript@5.9.3):
     dependencies:
       magic-string: 0.30.17
       rollup: 4.46.2
-      typescript: 5.9.2
+      typescript: 5.9.3
     optionalDependencies:
       '@babel/code-frame': 7.26.2
 
@@ -5900,7 +5900,7 @@ snapshots:
     dependencies:
       is-typedarray: 1.0.0
 
-  typescript@5.9.2: {}
+  typescript@5.9.3: {}
 
   ufo@1.5.4: {}
 
@@ -5911,7 +5911,7 @@ snapshots:
       has-symbols: 1.0.3
       which-boxed-primitive: 1.0.2
 
-  unbuild@3.6.1(typescript@5.9.2):
+  unbuild@3.6.1(typescript@5.9.3):
     dependencies:
       '@rollup/plugin-alias': 5.1.1(rollup@4.46.2)
       '@rollup/plugin-commonjs': 28.0.6(rollup@4.46.2)
@@ -5927,18 +5927,18 @@ snapshots:
       hookable: 5.5.3
       jiti: 2.5.1
       magic-string: 0.30.17
-      mkdist: 2.3.0(typescript@5.9.2)
+      mkdist: 2.3.0(typescript@5.9.3)
       mlly: 1.7.4
       pathe: 2.0.3
       pkg-types: 2.2.0
       pretty-bytes: 7.0.1
       rollup: 4.46.2
-      rollup-plugin-dts: 6.2.1(rollup@4.46.2)(typescript@5.9.2)
+      rollup-plugin-dts: 6.2.1(rollup@4.46.2)(typescript@5.9.3)
       scule: 1.3.0
       tinyglobby: 0.2.14
       untyped: 2.0.0
     optionalDependencies:
-      typescript: 5.9.2
+      typescript: 5.9.3
     transitivePeerDependencies:
       - sass
       - vue
