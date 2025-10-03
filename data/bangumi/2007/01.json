@@ -4409,5 +4409,91 @@
       "type": 2,
       "relations": []
     }
+  },
+  {
+    "title": "Adventure Time (Pilot)",
+    "date": "2007-01-11",
+    "bangumi": {
+      "date": "2007-01-11",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/08/200550_8syMB.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/08/200550_8syMB.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/4d/08/200550_8syMB.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/08/200550_8syMB.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/08/200550_8syMB.jpg"
+      },
+      "summary": "",
+      "name": "Adventure Time (Pilot)",
+      "name_cn": "探险活宝",
+      "tags": [
+        "2007",
+        "TV",
+        "探险活宝",
+        "欧美",
+        "美国"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "探险活宝"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "探险时光"
+            },
+            {
+              "v": "探險活寶"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "放送开始",
+          "value": "2007年1月11日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.cartoonnetwork.com/tv_shows/adventuretime/index.html"
+        },
+        {
+          "key": "播放电视台",
+          "value": "Cartoon Network"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 200550,
+      "eps": 1,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/71/106653_g8UBL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/71/106653_g8UBL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/31/71/106653_g8UBL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/71/106653_g8UBL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/71/106653_g8UBL.jpg"
+          },
+          "name": "Adventure Time season 1",
+          "name_cn": "探险活宝 第一季",
+          "relation": "续集",
+          "type": 2,
+          "id": 106653
+        }
+      ]
+    }
   }
 ]
