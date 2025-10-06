@@ -1186,5 +1186,101 @@
         }
       ]
     }
+  },
+  {
+    "title": "Family Guy (Season 1)",
+    "date": "1999-01-31",
+    "bangumi": {
+      "date": "1999-01-31",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/84/123735_2w2B6.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/84/123735_2w2B6.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/b4/84/123735_2w2B6.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/84/123735_2w2B6.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/84/123735_2w2B6.jpg"
+      },
+      "summary": "The first season of the animated comedy series Family Guy aired on Fox from January 31 to May 16, 1999, and consisted of seven episodes. The series follows the dysfunctional Griffin family—father Peter, mother Lois, daughter Meg, son Chris, baby Stewie and their anthropomorphic dog Brian, all of whom reside in their hometown of Quahog. The show features the voices of series creator Seth MacFarlane, Alex Borstein, Seth Green, and Lacey Chabert in the roles of the Griffin family. The executive producers for the first season were David Zuckerman and MacFarlane.",
+      "name": "Family Guy (Season 1)",
+      "name_cn": "恶搞之家 第一季",
+      "tags": [
+        "1999",
+        "TV",
+        "TVA-02",
+        "三观",
+        "上来就是重量级",
+        "动画",
+        "原创",
+        "恶搞",
+        "恶搞之家",
+        "搞笑",
+        "欧美",
+        "美国",
+        "美漫",
+        "黄暴"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶搞之家 第一季"
+        },
+        {
+          "key": "话数",
+          "value": "7"
+        },
+        {
+          "key": "放送开始",
+          "value": "1999年1月31日"
+        },
+        {
+          "key": "播放结束",
+          "value": "1999年5月16日"
+        }
+      ],
+      "total_episodes": 7,
+      "id": 123735,
+      "eps": 7,
+      "meta_tags": [
+        "TV",
+        "原创",
+        "美国",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/81/126503_bS8Ny.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/81/126503_bS8Ny.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e1/81/126503_bS8Ny.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/81/126503_bS8Ny.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/81/126503_bS8Ny.jpg"
+          },
+          "name": "Family Guy (Season 2)",
+          "name_cn": "恶搞之家 第二季",
+          "relation": "续集",
+          "type": 2,
+          "id": 126503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b9/e5/457306_8YCE5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b9/e5/457306_8YCE5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b9/e5/457306_8YCE5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b9/e5/457306_8YCE5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b9/e5/457306_8YCE5.jpg"
+          },
+          "name": "Family Guy: Back to the Multiverse",
+          "name_cn": "恶搞之家 回归宇宙",
+          "relation": "游戏",
+          "type": 4,
+          "id": 457306
+        }
+      ]
+    }
   }
 ]

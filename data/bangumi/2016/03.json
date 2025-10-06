@@ -2882,5 +2882,109 @@
         }
       ]
     }
+  },
+  {
+    "title": "Adventure Time season 8",
+    "date": "2016-03-26",
+    "bangumi": {
+      "date": "2016-03-26",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/fb/194300_giyyx.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/fb/194300_giyyx.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/9c/fb/194300_giyyx.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/fb/194300_giyyx.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/fb/194300_giyyx.jpg"
+      },
+      "summary": "",
+      "name": "Adventure Time season 8",
+      "name_cn": "探险活宝 第八季",
+      "tags": [
+        "2016",
+        "AT",
+        "AdventureTime",
+        "CARTOONNETWORK",
+        "Frederator_Studios",
+        "TV",
+        "冒险",
+        "原创",
+        "欧美",
+        "美国",
+        "脑洞"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "探险活宝 第八季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "探險活寶"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "28"
+        },
+        {
+          "key": "放送开始",
+          "value": "2016年3月26日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "Cartoon Network"
+        },
+        {
+          "key": "播放结束",
+          "value": "2017年7月21日"
+        }
+      ],
+      "total_episodes": 28,
+      "id": 194300,
+      "eps": 28,
+      "meta_tags": [
+        "TV",
+        "美国",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/1f/152691_LkBrZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/1f/152691_LkBrZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c8/1f/152691_LkBrZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/1f/152691_LkBrZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/1f/152691_LkBrZ.jpg"
+          },
+          "name": "Adventure Time season 7",
+          "name_cn": "探险活宝 第七季",
+          "relation": "前传",
+          "type": 2,
+          "id": 152691
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/58/211269_WLl3n.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/58/211269_WLl3n.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/82/58/211269_WLl3n.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/58/211269_WLl3n.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/58/211269_WLl3n.jpg"
+          },
+          "name": "Adventure Time season 9",
+          "name_cn": "探险活宝 第九季",
+          "relation": "续集",
+          "type": 2,
+          "id": 211269
+        }
+      ]
+    }
   }
 ]

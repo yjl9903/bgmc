@@ -3091,5 +3091,95 @@
         }
       ]
     }
+  },
+  {
+    "title": "Family Guy (Season 12)",
+    "date": "2013-09-30",
+    "bangumi": {
+      "date": "2013-09-30",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/87/126512_5u6U6.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/87/126512_5u6U6.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a9/87/126512_5u6U6.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/87/126512_5u6U6.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/87/126512_5u6U6.jpg"
+      },
+      "summary": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "name": "Family Guy (Season 12)",
+      "name_cn": "恶搞之家 第十二季",
+      "tags": [
+        "Seth_MacFarlane",
+        "TV",
+        "原创",
+        "恶搞之家",
+        "搞笑",
+        "欧美"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶搞之家 第十二季"
+        },
+        {
+          "key": "话数",
+          "value": "21"
+        },
+        {
+          "key": "放送开始",
+          "value": "2013年9月30日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "FOX"
+        },
+        {
+          "key": "播放结束",
+          "value": "2014年5月19日"
+        }
+      ],
+      "total_episodes": 21,
+      "id": 126512,
+      "eps": 21,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/cf/50159_4GO0Y.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/cf/50159_4GO0Y.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/cf/50159_4GO0Y.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/cf/50159_4GO0Y.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/cf/50159_4GO0Y.jpg"
+          },
+          "name": "Family Guy (Season 11)",
+          "name_cn": "恶搞之家 第十一季",
+          "relation": "前传",
+          "type": 2,
+          "id": 50159
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/b9/126513_c8414.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/b9/126513_c8414.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/b9/126513_c8414.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/b9/126513_c8414.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/b9/126513_c8414.jpg"
+          },
+          "name": "Family Guy (Season 13)",
+          "name_cn": "恶搞之家 第十三季",
+          "relation": "续集",
+          "type": 2,
+          "id": 126513
+        }
+      ]
+    }
   }
 ]

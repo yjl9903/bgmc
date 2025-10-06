@@ -3924,5 +3924,98 @@
       "type": 2,
       "relations": []
     }
+  },
+  {
+    "title": "Family Guy (Season 3)",
+    "date": "2001-07-12",
+    "bangumi": {
+      "date": "2001-07-12",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/8b/126504_1ifwq.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/8b/126504_1ifwq.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/73/8b/126504_1ifwq.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/8b/126504_1ifwq.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/8b/126504_1ifwq.jpg"
+      },
+      "summary": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "name": "Family Guy (Season 3)",
+      "name_cn": "恶搞之家 第三季",
+      "tags": [
+        "2001",
+        "FOX",
+        "TV",
+        "下饭",
+        "原创",
+        "恶搞之家",
+        "搞笑",
+        "欧美",
+        "黄暴"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶搞之家 第三季"
+        },
+        {
+          "key": "话数",
+          "value": "22"
+        },
+        {
+          "key": "放送开始",
+          "value": "2001年7月12日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "FOX"
+        },
+        {
+          "key": "播放结束",
+          "value": "2003年11月3日"
+        }
+      ],
+      "total_episodes": 22,
+      "id": 126504,
+      "eps": 22,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/81/126503_bS8Ny.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/81/126503_bS8Ny.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e1/81/126503_bS8Ny.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/81/126503_bS8Ny.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/81/126503_bS8Ny.jpg"
+          },
+          "name": "Family Guy (Season 2)",
+          "name_cn": "恶搞之家 第二季",
+          "relation": "前传",
+          "type": 2,
+          "id": 126503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/d1/126505_b1T0d.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/d1/126505_b1T0d.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/d1/126505_b1T0d.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/d1/126505_b1T0d.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/d1/126505_b1T0d.jpg"
+          },
+          "name": "Family Guy (Season 4)",
+          "name_cn": "恶搞之家 第四季",
+          "relation": "续集",
+          "type": 2,
+          "id": 126505
+        }
+      ]
+    }
   }
 ]

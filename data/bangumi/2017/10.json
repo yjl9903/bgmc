@@ -15594,5 +15594,101 @@
         }
       ]
     }
+  },
+  {
+    "title": "Family Guy (Season 16)",
+    "date": "2017-10-01",
+    "bangumi": {
+      "date": "2017-10-01",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/49/22/406820_oFpP9.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/49/22/406820_oFpP9.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/49/22/406820_oFpP9.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/49/22/406820_oFpP9.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/49/22/406820_oFpP9.jpg"
+      },
+      "summary": "",
+      "name": "Family Guy (Season 16)",
+      "name_cn": "恶搞之家 第十六季",
+      "tags": [
+        "恶搞之家",
+        "欧美"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶搞之家 第十六季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Family Guy Season 16"
+            },
+            {
+              "v": "Family Guy"
+            },
+            {
+              "v": "恶搞之家"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "20"
+        },
+        {
+          "key": "放送开始",
+          "value": "2017年10月1日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "FOX"
+        }
+      ],
+      "total_episodes": 20,
+      "id": 406820,
+      "eps": 20,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/bd/406268_F01Z3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/bd/406268_F01Z3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/57/bd/406268_F01Z3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/bd/406268_F01Z3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/bd/406268_F01Z3.jpg"
+          },
+          "name": "Family Guy (Season 15)",
+          "name_cn": "恶搞之家 第十五季",
+          "relation": "前传",
+          "type": 2,
+          "id": 406268
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e3/72/406822_UuwL9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e3/72/406822_UuwL9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e3/72/406822_UuwL9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e3/72/406822_UuwL9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e3/72/406822_UuwL9.jpg"
+          },
+          "name": "Family Guy (Season 17)",
+          "name_cn": "恶搞之家 第十七季",
+          "relation": "续集",
+          "type": 2,
+          "id": 406822
+        }
+      ]
+    }
   }
 ]

@@ -2166,5 +2166,96 @@
         }
       ]
     }
+  },
+  {
+    "title": "Family Guy (Season 11)",
+    "date": "2012-09-30",
+    "bangumi": {
+      "date": "2012-09-30",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/cf/50159_4GO0Y.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/cf/50159_4GO0Y.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/5e/cf/50159_4GO0Y.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/cf/50159_4GO0Y.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/cf/50159_4GO0Y.jpg"
+      },
+      "summary": "",
+      "name": "Family Guy (Season 11)",
+      "name_cn": "恶搞之家 第十一季",
+      "tags": [
+        "2012",
+        "TV",
+        "喜剧",
+        "恶搞之家",
+        "搞笑",
+        "欧美",
+        "美国"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶搞之家 第十一季"
+        },
+        {
+          "key": "话数",
+          "value": "22"
+        },
+        {
+          "key": "放送开始",
+          "value": "2012年9月30日"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.fox.com/familyguy/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "fox"
+        }
+      ],
+      "total_episodes": 11,
+      "id": 50159,
+      "eps": 22,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b7/f3/126511_B0vYQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b7/f3/126511_B0vYQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b7/f3/126511_B0vYQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b7/f3/126511_B0vYQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b7/f3/126511_B0vYQ.jpg"
+          },
+          "name": "Family Guy (Season 10)",
+          "name_cn": "恶搞之家 第十季",
+          "relation": "前传",
+          "type": 2,
+          "id": 126511
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/87/126512_5u6U6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/87/126512_5u6U6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/87/126512_5u6U6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/87/126512_5u6U6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/87/126512_5u6U6.jpg"
+          },
+          "name": "Family Guy (Season 12)",
+          "name_cn": "恶搞之家 第十二季",
+          "relation": "续集",
+          "type": 2,
+          "id": 126512
+        }
+      ]
+    }
   }
 ]
