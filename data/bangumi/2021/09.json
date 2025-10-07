@@ -3003,5 +3003,102 @@
         }
       ]
     }
+  },
+  {
+    "title": "Family Guy (Season 20)",
+    "date": "2021-09-26",
+    "bangumi": {
+      "date": "2021-09-26",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/3b/13/406827_4JsW2.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3b/13/406827_4JsW2.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/3b/13/406827_4JsW2.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3b/13/406827_4JsW2.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/3b/13/406827_4JsW2.jpg"
+      },
+      "summary": "Lois decides to get LASIK surgery, but exploits her failing vision for personal gain; Peter, Chris and Stewie have to partake in activities with Doug that are neglected by his father.",
+      "name": "Family Guy (Season 20)",
+      "name_cn": "恶搞之家 第二十季",
+      "tags": [
+        "TV",
+        "恶搞之家",
+        "欧美"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶搞之家 第二十季"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Family Guy Season 20"
+            },
+            {
+              "v": "Family Guy"
+            },
+            {
+              "v": "恶搞之家"
+            }
+          ]
+        },
+        {
+          "key": "话数",
+          "value": "20"
+        },
+        {
+          "key": "放送开始",
+          "value": "2021年9月26日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "FOX"
+        }
+      ],
+      "total_episodes": 20,
+      "id": 406827,
+      "eps": 20,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/15/406826_Zy2L2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/15/406826_Zy2L2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9c/15/406826_Zy2L2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/15/406826_Zy2L2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/15/406826_Zy2L2.jpg"
+          },
+          "name": "Family Guy (Season 19)",
+          "name_cn": "恶搞之家 第十九季",
+          "relation": "前传",
+          "type": 2,
+          "id": 406826
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/30/430663_zI92e.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/30/430663_zI92e.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b8/30/430663_zI92e.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/30/430663_zI92e.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/30/430663_zI92e.jpg"
+          },
+          "name": "Family Guy (Season 21)",
+          "name_cn": "恶搞之家 第二十一季",
+          "relation": "续集",
+          "type": 2,
+          "id": 430663
+        }
+      ]
+    }
   }
 ]
