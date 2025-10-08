@@ -2040,5 +2040,95 @@
         }
       ]
     }
+  },
+  {
+    "title": "Family Guy (Season 5)",
+    "date": "2006-09-11",
+    "bangumi": {
+      "date": "2006-09-11",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/70/126506_n23Xt.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/70/126506_n23Xt.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/97/70/126506_n23Xt.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/70/126506_n23Xt.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/70/126506_n23Xt.jpg"
+      },
+      "summary": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "name": "Family Guy (Season 5)",
+      "name_cn": "恶搞之家 第五季",
+      "tags": [
+        "2006",
+        "TV",
+        "恶搞之家",
+        "搞笑",
+        "欧美",
+        "黄暴"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "恶搞之家 第五季"
+        },
+        {
+          "key": "话数",
+          "value": "18"
+        },
+        {
+          "key": "放送开始",
+          "value": "2006年9月11日"
+        },
+        {
+          "key": "播放电视台",
+          "value": "FOX"
+        },
+        {
+          "key": "播放结束",
+          "value": "2007年5月21日"
+        }
+      ],
+      "total_episodes": 18,
+      "id": 126506,
+      "eps": 18,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/65/d1/126505_b1T0d.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/65/d1/126505_b1T0d.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/65/d1/126505_b1T0d.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/65/d1/126505_b1T0d.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/65/d1/126505_b1T0d.jpg"
+          },
+          "name": "Family Guy (Season 4)",
+          "name_cn": "恶搞之家 第四季",
+          "relation": "前传",
+          "type": 2,
+          "id": 126505
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/bf/126507_TriRK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/bf/126507_TriRK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/23/bf/126507_TriRK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/bf/126507_TriRK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/bf/126507_TriRK.jpg"
+          },
+          "name": "Family Guy (Season 6)",
+          "name_cn": "恶搞之家 第六季",
+          "relation": "续集",
+          "type": 2,
+          "id": 126507
+        }
+      ]
+    }
   }
 ]

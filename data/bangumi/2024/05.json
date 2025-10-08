@@ -2544,5 +2544,86 @@
         }
       ]
     }
+  },
+  {
+    "title": "Smiling Friends Season 2",
+    "date": "2024-05-12",
+    "bangumi": {
+      "date": "2024-05-12",
+      "platform": "TV",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/e2/488563_XoXsV.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/e2/488563_XoXsV.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/48/e2/488563_XoXsV.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/48/e2/488563_XoXsV.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/e2/488563_XoXsV.jpg"
+      },
+      "summary": "",
+      "name": "Smiling Friends Season 2",
+      "name_cn": "微笑朋友 第二季",
+      "tags": [
+        "欧美"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "微笑朋友 第二季"
+        },
+        {
+          "key": "话数",
+          "value": "8"
+        },
+        {
+          "key": "放送开始",
+          "value": "2024年5月12日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期日"
+        }
+      ],
+      "total_episodes": 8,
+      "id": 488563,
+      "eps": 8,
+      "meta_tags": [
+        "TV",
+        "欧美"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/7c/377774_kV10a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/7c/377774_kV10a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/50/7c/377774_kV10a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/7c/377774_kV10a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/7c/377774_kV10a.jpg"
+          },
+          "name": "Smiling Friends Season 1",
+          "name_cn": "微笑朋友 第一季",
+          "relation": "前传",
+          "type": 2,
+          "id": 377774
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/79/564363_7Lt2Q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/79/564363_7Lt2Q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/28/79/564363_7Lt2Q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/79/564363_7Lt2Q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/79/564363_7Lt2Q.jpg"
+          },
+          "name": "Smiling Friends Season 3",
+          "name_cn": "微笑朋友 第三季",
+          "relation": "续集",
+          "type": 2,
+          "id": 564363
+        }
+      ]
+    }
   }
 ]
