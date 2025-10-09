@@ -25,7 +25,7 @@ jobs:
       - name: Setup node
         uses: actions/setup-node@v5
         with:
-          node-version: 22.20.0
+          node-version: 24.8.0
           cache: pnpm
 
       - name: Install and build
@@ -46,4 +46,4 @@ jobs:
 
       - run: npx changelogithub
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}     
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
