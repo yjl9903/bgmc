@@ -16,6 +16,7 @@
       "name": "ピーターパンの冒険",
       "name_cn": "彼得潘的冒险",
       "tags": [
+        "1989",
         "TV",
         "世界名作剧场"
       ],
@@ -170,11 +171,11 @@
       "date": "1989-01-14",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/9b/155836_op1r3.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/9b/155836_op1r3.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/a7/9b/155836_op1r3.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/9b/155836_op1r3.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/9b/155836_op1r3.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/9b/155836_o9sVO.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/9b/155836_o9sVO.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a7/9b/155836_o9sVO.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/9b/155836_o9sVO.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/9b/155836_o9sVO.jpg"
       },
       "summary": "《天才少爷》主角叫欧茶魔，因为家里超有钱而引发了很多搞笑的事....主要角色： 御坊茶魔——就是这个“天才少爷”，大便人，头上有个尖角。必杀技是用尖角戳别人P眼…… 御坊亀光——茶魔的老爸。大财主，是个看似正常，实际极不正常的人！ 柿野修平——茶魔的平民朋友。正常人…… 御嬢沙麻代——茶魔的未婚妻。暗恋修平…… 袋小路金満——和茶魔拼有钱的家伙。最深的印象就是他双手、双脚都戴“劳力士”。不过还是拼不过茶魔的“报时人”……",
       "name": "おぼっちゃまくん",
@@ -312,11 +313,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/51/515087_AANLa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/51/515087_AANLa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/73/51/515087_AANLa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/51/515087_AANLa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/51/515087_AANLa.jpg"
           },
           "name": "おぼっちゃまくん",
           "name_cn": "",
@@ -381,7 +382,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/97/479212_VJdd7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/97/479212_VJdd7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c1/97/479212_VJdd7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/97/479212_VJdd7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/97/479212_VJdd7.jpg"
+          },
+          "name": "Kinder- und Hausmärchen",
+          "name_cn": "儿童与家庭童话集",
+          "relation": "书籍",
+          "type": 1,
+          "id": 479212
+        }
+      ]
     }
   }
 ]

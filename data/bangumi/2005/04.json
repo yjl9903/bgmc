@@ -24,11 +24,13 @@
         "SHAFT",
         "TV",
         "佐伯昭志",
+        "动画",
         "卖肉",
         "另类系",
         "后宫",
         "女仆",
         "妹抖",
+        "恋爱",
         "恶劣男主",
         "我的主人爱作怪",
         "搞笑",
@@ -72,6 +74,10 @@
           "value": "2005年4月7日"
         },
         {
+          "key": "放送星期",
+          "value": "星期四"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.nbcuni.co.jp/rondorobe/anime/gosyujinsama/"
         },
@@ -90,6 +96,10 @@
         {
           "key": "音乐",
           "value": "長岡成貢"
+        },
+        {
+          "key": "Copyright",
+          "value": "©️まっつー・椿あす／スクウェアエニックス・御主人様プロジェクト"
         },
         {
           "key": "原作",
@@ -251,11 +261,11 @@
       "date": "2005-04-02",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/dc/1964_fLTX0.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/dc/1964_fLTX0.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/39/dc/1964_fLTX0.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/dc/1964_fLTX0.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/dc/1964_fLTX0.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/39/dc/1964_bBIqU.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/39/dc/1964_bBIqU.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/39/dc/1964_bBIqU.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/39/dc/1964_bBIqU.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/39/dc/1964_bBIqU.jpg"
       },
       "summary": "偶然的相遇带来了一份恋情，随时间流逝，两颗心的距离更接近。但是，在两人的面前所立的现实——叫做“阶级”的一面墙壁。\n19世纪末的英国，以伦敦为舞台相遇的女佣与上流阶级的恋爱故事。于过着俭省生活的艾玛对照，威廉所置身的地方是多么华丽的舞台。即使两个人知道互相之间的感情是得不到允许的，却还是互相吸引，慢慢地积累起属于两个人的时间。\n随后，印度的王族哈奇姆、子爵家的三女爱蕾诺的登场也为艾玛和威廉之间的故事增添了不少色彩。\n在这革新的时代中。不被传统所束缚，努力地对抗，越过这一困难的艾玛与威廉的恋爱故事开始了。",
       "name": "英國戀物語エマ",
@@ -269,7 +279,9 @@
         "ぴえろ",
         "女仆",
         "小林常夫",
+        "川岛得爱",
         "恋爱",
+        "日本",
         "梁邦彦",
         "森熏",
         "漫改",
@@ -332,12 +344,12 @@
           "value": "田中比呂人、高岡淳一"
         },
         {
-          "key": "音响效果",
+          "key": "音效",
           "value": "森川永子"
         },
         {
-          "key": "录音调整",
-          "value": "名倉靖"
+          "key": "录音",
+          "value": "录音调整：名倉靖"
         },
         {
           "key": "文艺",
@@ -541,7 +553,7 @@
         },
         {
           "key": "制作",
-          "value": "NHK"
+          "value": "NHKエンタープライズ"
         }
       ],
       "total_episodes": 26,
@@ -561,17 +573,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/21/18575_E4jaM.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/21/18575_E4jaM.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4c/21/18575_E4jaM.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/21/18575_E4jaM.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/21/18575_E4jaM.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/0e/7748_QZhg8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/0e/7748_QZhg8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/44/0e/7748_QZhg8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/0e/7748_QZhg8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/0e/7748_QZhg8.jpg"
           },
-          "name": "CLOVER",
-          "name_cn": "三叶草",
-          "relation": "不同世界观",
-          "type": 2,
-          "id": 18575
+          "name": "BLAZE",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 7748
         },
         {
           "images": {
@@ -597,7 +609,7 @@
           },
           "name": "Wish",
           "name_cn": "",
-          "relation": "不同世界观",
+          "relation": "角色出演",
           "type": 2,
           "id": 113514
         },
@@ -617,17 +629,87 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/0e/7748_QZhg8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/0e/7748_QZhg8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/44/0e/7748_QZhg8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/0e/7748_QZhg8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/0e/7748_QZhg8.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/37/36262_5VZkE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/37/36262_5VZkE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1c/37/36262_5VZkE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/37/36262_5VZkE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/37/36262_5VZkE.jpg"
           },
-          "name": "BLAZE",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 7748
+          "name": "X -エックス-",
+          "name_cn": "X战记",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 36262
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f6/a5/36260_x5g5y.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f6/a5/36260_x5g5y.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f6/a5/36260_x5g5y.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f6/a5/36260_x5g5y.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f6/a5/36260_x5g5y.jpg"
+          },
+          "name": "聖伝-リグ・ヴェーダ-",
+          "name_cn": "圣传",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 36260
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b2/10/19613_pPZp0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b2/10/19613_pPZp0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b2/10/19613_pPZp0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b2/10/19613_pPZp0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b2/10/19613_pPZp0.jpg"
+          },
+          "name": "魔法騎士レイアース",
+          "name_cn": "魔法骑士雷阿斯",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 19613
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4c/21/18575_PDDQz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4c/21/18575_PDDQz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4c/21/18575_PDDQz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4c/21/18575_PDDQz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4c/21/18575_PDDQz.jpg"
+          },
+          "name": "CLOVER",
+          "name_cn": "三叶草",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 18575
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/76/bb/8881_MczfF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/76/bb/8881_MczfF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/76/bb/8881_MczfF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/76/bb/8881_MczfF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/76/bb/8881_MczfF.jpg"
+          },
+          "name": "CLAMP学園探偵団",
+          "name_cn": "CLAMP学园侦探团",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 8881
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c2/0a/12_q23bZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c2/0a/12_q23bZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c2/0a/12_q23bZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c2/0a/12_q23bZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg"
+          },
+          "name": "ちょびっツ",
+          "name_cn": "人形电脑天使心",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 12
         },
         {
           "images": {
@@ -645,6 +727,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/46/4011_l7qlO.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/46/4011_l7qlO.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b1/46/4011_l7qlO.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/46/4011_l7qlO.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/46/4011_l7qlO.jpg"
+          },
+          "name": "機動天使エンジェリックレイヤー",
+          "name_cn": "天使领域",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 4011
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/0a/2916_Kou4k.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/0a/2916_Kou4k.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/34/0a/2916_Kou4k.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/0a/2916_Kou4k.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/0a/2916_Kou4k.jpg"
+          },
+          "name": "東京BABYLON",
+          "name_cn": "东京巴比伦",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 2916
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/19/2893_bSnRG.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/19/2893_bSnRG.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/97/19/2893_bSnRG.jpg",
@@ -653,7 +763,7 @@
           },
           "name": "劇場版ツバサ・クロニクル 鳥カゴの国の姫君",
           "name_cn": "翼·年代记 鸟笼国的公主",
-          "relation": "番外篇",
+          "relation": "衍生",
           "type": 2,
           "id": 2893
         },
@@ -670,6 +780,20 @@
           "relation": "续集",
           "type": 2,
           "id": 2892
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/f0/2478_ITui7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/f0/2478_ITui7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/53/f0/2478_ITui7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/f0/2478_ITui7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/f0/2478_ITui7.jpg"
+          },
+          "name": "こばと。",
+          "name_cn": "小鸠。",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 2478
         },
         {
           "images": {
@@ -715,17 +839,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/36/431_ajp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/36/431_ajp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/66/36/431_ajp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/36/431_ajp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/36/431_ajp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/8f/532_aufkh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/8f/532_aufkh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/8f/532_aufkh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/8f/532_aufkh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/8f/532_aufkh.jpg"
           },
-          "name": "ツバサクロニクル",
-          "name_cn": "翼·年代记",
-          "relation": "游戏",
-          "type": 4,
-          "id": 431
+          "name": "X -エックス-",
+          "name_cn": "X战记",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 532
         },
         {
           "images": {
@@ -757,6 +881,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/36/431_ajp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/36/431_ajp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/36/431_ajp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/36/431_ajp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/36/431_ajp.jpg"
+          },
+          "name": "ツバサクロニクル",
+          "name_cn": "翼·年代记",
+          "relation": "游戏",
+          "type": 4,
+          "id": 431
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/05/c2/39223_ODHpO.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/05/c2/39223_ODHpO.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/05/c2/39223_ODHpO.jpg",
@@ -771,20 +909,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/2b/378000_1BbPp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/2b/378000_1BbPp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ed/2b/378000_1BbPp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/2b/378000_1BbPp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/2b/378000_1BbPp.jpg"
-          },
-          "name": "「ツバサ・クロニクル」ドラマ & キャラソンアルバム 「王宮のマチネ」Chapter.2～ありえないゴール～",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 378000
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/9e/434_ajp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/9e/434_ajp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a4/9e/434_ajp.jpg",
@@ -796,6 +920,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 434
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/2b/378000_1BbPp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/2b/378000_1BbPp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ed/2b/378000_1BbPp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/2b/378000_1BbPp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/2b/378000_1BbPp.jpg"
+          },
+          "name": "「ツバサ・クロニクル」ドラマ & キャラソンアルバム 「王宮のマチネ」Chapter.2～ありえないゴール～",
+          "name_cn": "",
+          "relation": "广播剧",
+          "type": 3,
+          "id": 378000
         },
         {
           "images": {
@@ -838,6 +976,7 @@
         "GONZO",
         "TV",
         "TVA",
+        "むとうやすゆき",
         "一话一杀",
         "便当",
         "全灭",
@@ -858,7 +997,6 @@
         "相爱相杀",
         "胧",
         "致郁",
-        "补番",
         "轻小说改",
         "阴暗"
       ],
@@ -888,6 +1026,10 @@
           "value": "星期二"
         },
         {
+          "key": "官方网站",
+          "value": "https://www.gonzo.co.jp/archives/basilisk/index.html"
+        },
+        {
           "key": "播放电视台",
           "value": "三重テレビ / テレ玉/ KBS京都"
         },
@@ -902,6 +1044,10 @@
         {
           "key": "音乐",
           "value": "中川孝"
+        },
+        {
+          "key": "Copyright",
+          "value": "©山田風太郎・せがわまさき・講談社／デジタル・アニメ・プロジェクト"
         },
         {
           "key": "原作",
@@ -926,6 +1072,10 @@
         {
           "key": "动画制作",
           "value": "GONZO"
+        },
+        {
+          "key": "製作",
+          "value": "デジタル・アニメ・プロジェクト、GDH（内田康史）"
         }
       ],
       "total_episodes": 24,
@@ -1117,12 +1267,12 @@
         "原创",
         "变形萝卜",
         "吉田健一",
-        "名冢佳织",
         "大河内一楼",
         "少年",
         "尼尔巴修",
         "年番",
         "恋爱",
+        "战斗",
         "日本",
         "月光洲",
         "机战",
@@ -1188,6 +1338,10 @@
           "value": "京田知己"
         },
         {
+          "key": "Copyright",
+          "value": "©2005 BONES／Project EUREKA・MBS"
+        },
+        {
           "key": "原作",
           "value": "BONES"
         },
@@ -1224,7 +1378,7 @@
           "value": "板部浩章"
         },
         {
-          "key": "音响效果",
+          "key": "音效",
           "value": "倉橋静男"
         },
         {
@@ -1246,6 +1400,18 @@
         {
           "key": "OP・ED 分镜",
           "value": "村木靖（OP2）、うつのみや理（OP3）、京田知己（OP4）；鈴木典光（ED1＆ED2）、渡辺信一郎（ED3）、吉田健一（ED4）"
+        },
+        {
+          "key": "企画",
+          "value": "竹田靑滋、鵜之澤伸、南雅彦、川城和実、彌富健一、峯岸卓生"
+        },
+        {
+          "key": "製作",
+          "value": "毎日放送、Project EUREKA、BONES"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "篠原廣人（Sony Music Entertainment） 、大山良（Aniplex）"
         }
       ],
       "total_episodes": 51,
@@ -1288,7 +1454,7 @@
           },
           "name": "スーパーロボット大戦Z スペシャルディスク",
           "name_cn": "超级机器人大战Z 特别篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 331794
         },
@@ -1330,7 +1496,7 @@
           },
           "name": "スーパーロボット大戦X-Ω",
           "name_cn": "超级机器人大战X-Ω",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 141050
         },
@@ -1400,7 +1566,7 @@
           },
           "name": "スーパーロボット大戦Z",
           "name_cn": "超级机器人大战Z",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 144
         },
@@ -1442,7 +1608,7 @@
           },
           "name": "Another Century's Episode 3: THE FINAL",
           "name_cn": "异世纪传说3 THE FINAL",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 41200
         },
@@ -1623,17 +1789,24 @@
         "2005",
         "2005年",
         "2005年4月",
+        "2005春",
         "SF",
         "Satelight",
         "TV",
+        "アニメ",
         "サテライト",
         "创圣",
+        "创圣的大天使",
+        "动画",
         "原创",
         "合体",
+        "战斗",
         "日本",
         "机器人",
         "机战",
+        "杉田智和",
         "河森正治",
+        "热血",
         "神曲出没",
         "神棍",
         "神棍河森",
@@ -1641,6 +1814,7 @@
         "菅野洋子",
         "萝卜",
         "补番",
+        "超级系",
         "阿姨洗铁路"
       ],
       "infobox": [
@@ -1680,8 +1854,20 @@
           "value": "2005年4月5日"
         },
         {
+          "key": "放送星期",
+          "value": "星期二"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.aquarion.info/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ東京系列"
+        },
+        {
+          "key": "其他电视台",
+          "value": "ファミリー劇場"
         },
         {
           "key": "播放结束",
@@ -1692,8 +1878,12 @@
           "value": "河森正治"
         },
         {
+          "key": "Copyright",
+          "value": "©️2004 河森正治・サテライト／Project AQUARION"
+        },
+        {
           "key": "原作",
-          "value": "河森正治"
+          "value": "河森正治、湯山邦彦、サテライト"
         },
         {
           "key": "脚本",
@@ -1722,6 +1912,78 @@
         {
           "key": "作画监督",
           "value": "結城信輝"
+        },
+        {
+          "key": "製作",
+          "value": "Project AQUARION（メディアファクトリー、博報堂DYメディアパートナーズ、東北新社、バンダイ）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ビクターエンタテインメント、ボーダーライン；音乐协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "剪辑",
+          "value": "竹内康晃；剪辑工作室：キュー・テック"
+        },
+        {
+          "key": "音乐监督",
+          "value": "伊藤将生"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "佐々木史朗、太田敏明"
+        },
+        {
+          "key": "制片人",
+          "value": "岩崎篤史、峯岸卓生、服部洋之、里吉純、葛西励"
+        },
+        {
+          "key": "企画",
+          "value": "永田勝治、好木裕貴、原戸洋一、竹内淳、佐藤道明"
+        },
+        {
+          "key": "概念设计",
+          "value": "OKAMA"
+        },
+        {
+          "key": "CG 导演",
+          "value": "小林謙一"
+        },
+        {
+          "key": "企画协力",
+          "value": "岩本昌子"
+        },
+        {
+          "key": "标题设计",
+          "value": "マッハ55号"
+        },
+        {
+          "key": "录音",
+          "value": "内田誠；录音工作室：オムニバス・ジャパン"
+        },
+        {
+          "key": "录音助理",
+          "value": "戸田恵美子"
+        },
+        {
+          "key": "音响",
+          "value": "林隆司、大野拓也"
+        },
+        {
+          "key": "OP・ED 演出",
+          "value": "殿勝秀樹（OP1）、小林謙一（OP2、ED）、竹内康晃（ED#18）、こばやしけんいち（#16、#19）"
+        },
+        {
+          "key": "客座人物设定",
+          "value": "入江篤"
+        },
+        {
+          "key": "设定协力",
+          "value": "宮武一貴"
+        },
+        {
+          "key": "构图监修",
+          "value": "柳野龍男"
         }
       ],
       "total_episodes": 26,
@@ -2032,21 +2294,28 @@
         "EverlastingSong",
         "TV",
         "XEBEC",
+        "うえだしげる",
+        "三无少女",
+        "冒险",
+        "动画",
         "半年番",
         "奇幻",
         "战斗",
         "把妹子当武器用",
         "无口",
         "日本",
+        "日本动画",
         "梶浦由纪",
         "梶浦由记",
         "武器种族传说",
         "水树奈々",
+        "水树奈奈",
         "漫改",
         "漫画改",
         "石头",
         "石田彰",
         "荒川稔久",
+        "蕾",
         "高桥美佳子"
       ],
       "infobox": [
@@ -2086,11 +2355,99 @@
         },
         {
           "key": "播放电视台",
-          "value": "テレビ東京"
+          "value": "テレビ東京 / テレビ北海道 / テレビ愛知 / テレビ大阪 / テレビせとうち"
+        },
+        {
+          "key": "其他电视台",
+          "value": "AT-X / BSジャパン"
         },
         {
           "key": "播放结束",
           "value": "2005年9月27日"
+        },
+        {
+          "key": "导演",
+          "value": "うえだしげる"
+        },
+        {
+          "key": "音乐",
+          "value": "梶浦由記"
+        },
+        {
+          "key": "Copyright",
+          "value": "©2005 東まゆみ/マッグガーデン・EG製作委員会・創通エージェンシー・テレビ東京"
+        },
+        {
+          "key": "原作",
+          "value": "東まゆみ 月刊「コミックブレイド」（マッグガーデン）連載"
+        },
+        {
+          "key": "企画",
+          "value": "保坂嘉弘、川村明廣、下地志直"
+        },
+        {
+          "key": "制片人",
+          "value": "東不可止（テレビ東京）、板橋秀徳、佐藤徹"
+        },
+        {
+          "key": "副制片人",
+          "value": "立石茂、松田章男"
+        },
+        {
+          "key": "现场制片人",
+          "value": "森見秀史"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、創通映像、XEBEC"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "野崎圭一"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ビクターエンタテインメント；音乐协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "音响",
+          "value": "オムニバスプロモーション、糠塚忠幸"
+        },
+        {
+          "key": "录音",
+          "value": "タバック（明石崇廉）、OPレクイエムスタジオ（大坪恵美）；录音调整：桑原邦男"
+        },
+        {
+          "key": "剪辑",
+          "value": "大竹弥生；助手：ジェイ・フィルム、渡辺直樹"
+        },
+        {
+          "key": "音效",
+          "value": "ena、高梨絵美"
+        },
+        {
+          "key": "背景美术",
+          "value": "小倉工房、合六弘、植田竜太郎、山崎一巳、風戸亜希子、岩熊茜、鈴木姿帆美、田中孝典、金子雄司、長沢康治"
+        },
+        {
+          "key": "摄影",
+          "value": "Production I.G、谷内潤、荒井栄児"
+        },
+        {
+          "key": "色彩指定",
+          "value": "井上留美子、松島英子、水野愛子、西村省吾、菅原美佳、最相茂、浦大器"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "桝田浩史"
+        },
+        {
+          "key": "特效",
+          "value": "羽鳥歩"
+        },
+        {
+          "key": "美术设计",
+          "value": "三田小太郎"
         }
       ],
       "total_episodes": 26,
@@ -2269,12 +2626,16 @@
       "name_cn": "出云战记",
       "tags": [
         "2005",
+        "2005年",
         "2005年4月",
         "EGO",
+        "GAL",
         "GAL改",
         "TV",
+        "中川聡",
         "后宫",
         "山本大妈",
+        "日本",
         "日本动画",
         "游戏改",
         "神兽",
@@ -2337,20 +2698,6 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/1f/13415_fHfcx.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1d/1f/13415_fHfcx.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1d/1f/13415_fHfcx.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1d/1f/13415_fHfcx.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1d/1f/13415_fHfcx.jpg"
-          },
-          "name": "IZUMO2",
-          "name_cn": "出云战记2",
-          "relation": "游戏",
-          "type": 4,
-          "id": 13415
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/04/cd/116205_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/04/cd/116205_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/04/cd/116205_jp.jpg",
@@ -2398,10 +2745,15 @@
       "name_cn": "恋恋七人组",
       "tags": [
         "2005",
+        "2005年",
+        "2005年4月",
         "TV",
         "トライネットエンタテインメント",
+        "中岛沙树",
         "后宫",
         "恋恋七人组",
+        "搞笑",
+        "日本",
         "水树奈々",
         "漫改",
         "漫画改",
@@ -2735,13 +3087,19 @@
       "tags": [
         "2005",
         "2005年4月",
+        "Animation(jp.)",
         "BL",
         "TV",
         "studiodeen",
         "乔林知",
+        "井上和彦",
+        "今天开始做魔王",
         "今日开始做魔王",
+        "动画",
         "基",
         "奇幻",
+        "小说改",
+        "异世界",
         "搅基",
         "搞笑",
         "日本",
@@ -2750,6 +3108,8 @@
         "耽美",
         "耽美系",
         "腐",
+        "腐向",
+        "西村纯二",
         "轻小说改",
         "轻小说改编",
         "轻改",
@@ -2911,11 +3271,12 @@
         "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/0f/23542_AXEsA.jpg",
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/0f/23542_AXEsA.jpg"
       },
-      "summary": "不可思議星球是這七個國家星系中最和平的星球，但是圍繞著星球中心太陽王國的太陽光環，突然出現異變！糟了！這樣下去星球會毀滅的！這個星球中有七個不同的國家，而每一個國家都一個屬於自己的工作。其中的一個國家可以說是掌管整個不可思議星球的生亡──太陽王國。因為太陽王國是管理不可思議星球的“太陽光環”，各國都是靠“太陽光環”的光芒和將“太陽光環”的力量變成溫暖，才能讓大家不會受凍死亡。而現在有一個星球危機，只有太陽王國的公主才能拯教這個不可思議星球！但是太陽王國的兩位雙胞胎公主──蓮音(蓮伊恩)和法音(法伊恩)是這個不可思議星球「有史以來最不像公主的公主」。而這套動畫講述這兩位公主如何拯救這個星球。",
+      "summary": "宇宙に漂う空洞星「ふしぎ星」には7つの国があります。\nある日突然、「おひさまの恵（光）」が衰えて、ふしぎ星に異変が起こり始めます。\nこのままではふしぎ星は光のささないまっ暗な星になってしまいます。\nふしぎ星にある王国のひとつである「おひさまの国」のふたごのプリンセス、「ファイン」と「レイン」は伝説の女王「プリンセス・グレイス」から星を救う使命を受けます。\nサニールーチェでプロミネンス(魔法)の力を人々のために使い、エターナル・ソーラー・プリンセス（真のプリンセス）になれた時、おひさまの恵を取り戻すことができるのです。\nプリンセス・グレイスから遣わされた妖精・プーモの導きにより、幼いふたごのプリンセスは旅に出ることに。はたして二人は再びおひさまの恵をとりもどすことができるのでしょうか･･･！？",
       "name": "ふしぎ星の☆ふたご姫",
       "name_cn": "不可思议星球的双胞胎公主",
       "tags": [
         "2005",
+        "2005年",
         "2005年4月",
         "HalFilmMaker",
         "TV",
@@ -2923,12 +3284,18 @@
         "佐藤顺一",
         "原创",
         "双子星公主",
+        "后藤邑子",
+        "奇幻",
         "子供向",
         "少女",
         "幼向萌",
+        "恋爱",
+        "日本",
+        "柿原彻也",
         "没看全",
         "河本升悟",
         "治愈",
+        "皆川纯子",
         "童年",
         "萝莉",
         "魔法少女"
@@ -2991,15 +3358,127 @@
           "value": "河本昇悟"
         },
         {
+          "key": "音乐",
+          "value": "中川幸太郎"
+        },
+        {
+          "key": "Copyright",
+          "value": "©️BIRTHDAY・NAS"
+        },
+        {
           "key": "总导演",
           "value": "佐藤順一"
         },
         {
           "key": "人物设定",
-          "value": "数井浩子、小林明美、プレックス（一部デザイン）"
+          "value": "数井浩子、小林明美"
+        },
+        {
+          "key": "制作协力",
+          "value": "リバティーシップ、LIBETY SHIP、スタジオ座円洞、OLM Team IWASA"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "本地大輔、高岸るみ子"
+        },
+        {
+          "key": "音乐制作",
+          "value": "インターチャンネル；音乐协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "录音",
+          "value": "熊倉亨；录音工作室：タバック"
+        },
+        {
+          "key": "录音助理",
+          "value": "明石崇廉"
+        },
+        {
+          "key": "音效",
+          "value": "今野康之（スワラプロ）"
+        },
+        {
+          "key": "音响",
+          "value": "オムニバスプロモーション"
+        },
+        {
+          "key": "音响监督",
+          "value": "本山哲"
+        },
+        {
+          "key": "制片人",
+          "value": "森村祥子（テレビ東京）、高橋知子"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、NAS"
+        },
+        {
+          "key": "摄影监督",
+          "value": "櫻田知之〔1話-36話〕→和田尚之〔37話-〕"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "佐藤順一 （OP）/ 奥野耕太（ED1）、須永梅久（ED2）"
+        },
+        {
+          "key": "美术设计",
+          "value": "小林徳光"
+        },
+        {
+          "key": "背景美术",
+          "value": "スタジオイースター、中村恵理、島田友紀子、宮崎英子、白波瀬宏美"
+        },
+        {
+          "key": "摄影",
+          "value": "旭プロダクション、和田尚之、大久保益野恵、老平英、五明真利、田中唯、濱雄紀、佐々木俊宏、柳田貴志"
+        },
+        {
+          "key": "3DCG 导演",
+          "value": "佐野秀典"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "森林檎、kenko-p"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "本田洋一郎、高野康弘、後藤冬樹"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "佐藤泰将、高野康弘、中川幸太郎"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "FLIP-FLAP、ファイン★レイン（小島めぐみ & 後藤邑子）"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "ファイン★レイン（小島めぐみ & 後藤邑子）、FLIP-FLAP"
+        },
+        {
+          "key": "插入歌作词",
+          "value": "森林檎、木村真也"
+        },
+        {
+          "key": "插入歌作曲",
+          "value": "水谷広実、木村真也"
+        },
+        {
+          "key": "插入歌编曲",
+          "value": "佐藤泰将、木村真也"
+        },
+        {
+          "key": "OP・ED 演出",
+          "value": "伊藤達文 （OP）/ 奥野耕太（ED）"
+        },
+        {
+          "key": "选曲",
+          "value": "佐藤恭野"
         }
       ],
-      "total_episodes": 52,
+      "total_episodes": 54,
       "id": 23542,
       "eps": 51,
       "meta_tags": [
@@ -3121,13 +3600,17 @@
         "2003",
         "2005",
         "GAL改",
+        "RADIX",
         "TV",
         "comic",
         "comiket",
         "leaf",
         "party",
+        "カオスプロジェクト",
+        "动画",
         "后宫",
         "搞笑",
+        "日本",
         "游戏改",
         "漫画同人会",
         "补番"
@@ -3158,24 +3641,136 @@
           "value": "星期一"
         },
         {
+          "key": "官方网站",
+          "value": "http://www.comicparty-r.com/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "tvk"
+        },
+        {
+          "key": "其他电视台",
+          "value": "KBS京都 / AT-X / 群馬テレビ / BS朝日 / 東京MXテレビ / 奈良テレビ / 信越放送 / 熊本放送"
+        },
+        {
           "key": "播放结束",
           "value": "2005年6月27日"
         },
         {
           "key": "导演",
-          "value": "坂田純一→東郷光宏"
+          "value": "坂田純一（1-4）→東郷光宏（5-13）"
+        },
+        {
+          "key": "音乐",
+          "value": "アクアプラス（松岡純也、衣笠道雄）(1-4)→池頼広(5-13)"
+        },
+        {
+          "key": "Copyright",
+          "value": "©️2005 AQUAPLUS／こみパ準備会"
         },
         {
           "key": "人物设定",
-          "value": "桂憲一郎"
+          "value": "桂憲一郎；客串人设：中原竜太(5話-13話)"
         },
         {
           "key": "动画制作",
-          "value": "カオスプロジェクト→RADIX"
+          "value": "カオスプロジェクト（1-4）→RADIX（RADIX MOBANIMATION）（5-13）"
         },
         {
           "key": "原画",
           "value": "高橋しんや（ED插画）"
+        },
+        {
+          "key": "剪辑",
+          "value": "岡安プロモーション（小島俊彦、中葉由美子、村井秀明、川崎晃洋、三宅圭貴）(1-4)→後藤正浩（タバック）(5-13)"
+        },
+        {
+          "key": "助理制片人",
+          "value": "滝口健太"
+        },
+        {
+          "key": "动画制片人",
+          "value": "现场制片人：長谷川聡(1-4)→岩谷能宣(5-13)"
+        },
+        {
+          "key": "制片人",
+          "value": "望月雄太郎、永谷敬之、松永孝之、大森啓幸、植田もとき"
+        },
+        {
+          "key": "音响监督",
+          "value": "飯塚康一(1-4)→田中英行(5-13)；選曲：神保直史"
+        },
+        {
+          "key": "音响",
+          "value": "トライネットエンタテインメント(1-4)→AUDIO・タナカ[オーディオ タナカ](5-13)；音响制作担当：佐藤晴央"
+        },
+        {
+          "key": "美术监督",
+          "value": "緒続学(1-4)→椋本豊（スタジオちゅーりっぷ）(5-13)"
+        },
+        {
+          "key": "色彩设计",
+          "value": "三笠修、藤木由香里(5-13)"
+        },
+        {
+          "key": "人物原案",
+          "value": "みつみ美里、甘露樹、中村毅"
+        },
+        {
+          "key": "道具设计",
+          "value": "小野隆嗣(5-13)"
+        },
+        {
+          "key": "企画",
+          "value": "下川直哉、福井政文、及川武、川村明廣；企画协力：AQUAPLUS東京開発室"
+        },
+        {
+          "key": "设定制作",
+          "value": "長村伸治；协力：カオスプロジェクト"
+        },
+        {
+          "key": "音效",
+          "value": "佐々木純一(1-4)→和田俊也（スワラプロ）(5-13)"
+        },
+        {
+          "key": "录音",
+          "value": "野口あきら(1、2)、手塚孝太郎(3)、宮澤二郎(4)、佐竹徹也(4)、国分政嗣(5-13)；录音工作室：KSSスタジオ[ケイエスエス](1-3)→東京テレビセンター(4)→タバック(5-13)"
+        },
+        {
+          "key": "音乐制作",
+          "value": "フロンティアワークス；音乐制作担当：吉川明"
+        },
+        {
+          "key": "摄影监督",
+          "value": "勝又雄一(1-4)→中山敦史(5-13)"
+        },
+        {
+          "key": "脚本",
+          "value": "月永ヒデヲ、山田靖智、鴻野貴光、野崎透；脚本协力：小林成朗"
+        },
+        {
+          "key": "系列构成",
+          "value": "山田靖智(5-13)"
+        },
+        {
+          "key": "製作",
+          "value": "こみパ準備会【アクアプラス、IMAGICAエンタテインメント[IMAGICAイメージワークス]、フロンティアワークス、ジェネオンエンタテインメント】"
+        },
+        {
+          "key": "制作进行",
+          "value": "宮崎圭輔、別府洋一、若林亮、祖父江有花、塚本佳樹、鬼塚康介、森宮崇佳、近藤泰宏"
+        },
+        {
+          "key": "色彩指定",
+          "value": "大嶋三香子、藤木由香里、山田裕香、浜畑輝美、西栄子、池田ひとみ、斉藤友子、田中真紀"
+        },
+        {
+          "key": "特效",
+          "value": "永井留美子、福田直征"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "加藤やすひさ、安食佳、烏宏明、三浦日出夫、野村雅史、津田崇"
         }
       ],
       "total_episodes": 13,
@@ -3263,15 +3858,18 @@
         "TV",
         "奇幻",
         "少年系",
+        "川口敬一郎",
         "异世界",
         "战斗",
         "支持姐弟恋",
+        "日本",
         "星空卫视",
         "星空台",
         "漫改",
         "漫画改",
         "热血",
         "童年",
+        "魔兵",
         "魔法世界"
       ],
       "infobox": [
@@ -3308,12 +3906,16 @@
           "value": "2005年4月3日"
         },
         {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.tv-tokyo.co.jp/anime/MAR"
         },
         {
           "key": "播放电视台",
-          "value": "東京電視台"
+          "value": "テレビ東京"
         },
         {
           "key": "其他电视台",
@@ -3332,16 +3934,16 @@
           "value": "池田大介"
         },
         {
+          "key": "Copyright",
+          "value": "©️安西信行／小学館・ShoPro・TV Tokyo　"
+        },
+        {
           "key": "副标题",
           "value": "MÄR - Märchen Awakens Romance"
         },
         {
           "key": "原作",
           "value": "安西信行"
-        },
-        {
-          "key": "企画",
-          "value": "保戶塚良明（東京電視台） 阿部正和（小學館） 西村浩哉（d-rights）"
         },
         {
           "key": "系列构成",
@@ -3372,8 +3974,32 @@
           "value": "SynergySP"
         },
         {
-          "key": "制作",
-          "value": "東京電視台 小學館Production"
+          "key": "製作",
+          "value": "テレビ東京、小学館プロダクション"
+        },
+        {
+          "key": "制片人",
+          "value": "笹村武史（テレビ東京）（第1話～第10話）、青木俊志（テレビ東京）（第11話～第71話）、岩田伸一（テレビ東京）（第72話～第102話）、古市直彦"
+        },
+        {
+          "key": "动画制片人",
+          "value": "桜井涼介"
+        },
+        {
+          "key": "原案",
+          "value": "原案協力：都築伸一郎、林正人、宮坂保志"
+        },
+        {
+          "key": "监修",
+          "value": "野村敦司、沢辺伸政、斎藤裕"
+        },
+        {
+          "key": "3DCG 导演",
+          "value": "工藤洋彰"
+        },
+        {
+          "key": "机械设定",
+          "value": "ÄRM设计：蝦名康哲（1 - 51） →今野幸一（52- 102）"
         }
       ],
       "total_episodes": 102,
@@ -3493,6 +4119,7 @@
         "寻找自我",
         "恋爱",
         "日常",
+        "日本",
         "杉田智和",
         "校园",
         "森田忍",
@@ -3501,7 +4128,6 @@
         "漫改",
         "漫画改",
         "爱情",
-        "神作",
         "神谷浩史",
         "神配乐",
         "笠井贤一",
@@ -3565,7 +4191,7 @@
         },
         {
           "key": "原作",
-          "value": "羽海野チカ"
+          "value": "羽海野チカ（集英社「YOUNG YOU」連載）"
         },
         {
           "key": "脚本",
@@ -3617,7 +4243,7 @@
         },
         {
           "key": "企画",
-          "value": "金田耕司"
+          "value": "金田耕司（フジテレビ）"
         },
         {
           "key": "音响监督",
@@ -3628,20 +4254,16 @@
           "value": "J.C.STAFF"
         },
         {
-          "key": "人物监修",
-          "value": "羽海野チカ"
+          "key": "监修",
+          "value": "人物监修：羽海野チカ；衣装監修：倉石一樹"
         },
         {
-          "key": "衣装协力",
-          "value": "羽海野チカ 、倉石一樹"
+          "key": "设定",
+          "value": "设定补助：都築裕佳子；映像设计：大河内喜夫"
         },
         {
-          "key": "设定补助",
-          "value": "都築裕佳子"
-        },
-        {
-          "key": "映像设计",
-          "value": "大河内喜夫"
+          "key": "音乐制作",
+          "value": "Aniplex、ソニー・ミュージックエンタテインメント（协力）"
         },
         {
           "key": "美术设计",
@@ -3649,7 +4271,7 @@
         },
         {
           "key": "音效",
-          "value": "中野勝博"
+          "value": "中野勝博（サウンドボックス）"
         },
         {
           "key": "录音调整",
@@ -3665,15 +4287,15 @@
         },
         {
           "key": "协力",
-          "value": "集英社『YOUNG YOU』編集部、グラスホッパー、オフィスオーガスタ"
+          "value": "集英社『YOUNG YOU』編集部、グラスホッパー、オフィスオーガスタ；衣装协力：羽海野チカ、we、visvim、Levi's fenom、HEAD PORTER、adidas、Sally Scott"
         },
         {
           "key": "製作",
-          "value": "椎名保、山路則隆、内田耕一（フジテレビ）、島本雄二（chapter.1、2）→町田修一（chapter.3-）、真木太郎、ハチクロ製作委員会（アスミック・エースエンタテインメント、集英社、フジテレビジョン、電通、ジェンコ）"
+          "value": "ハチクロ製作委員会（アスミック・エースエンタテインメント、集英社、フジテレビジョン、電通、ジェンコ）椎名保、山路則隆、内田耕一（フジテレビ）、島本雄二（chapter.1、2）→町田修一（chapter.3-）、真木太郎；製作担当：佐藤至信、伊藤幸弘、山本幸治、松尾光広、集英社ライツ事業部"
         },
         {
           "key": "制片人",
-          "value": "ジェンコ（プロデュース）、高瀬敦也（フジテレビ）、豊島雅郎、八坂健司、渡辺哲也、大澤信博"
+          "value": "高瀬敦也（フジテレビ）、豊島雅郎、八坂健司、渡辺哲也、大澤信博"
         },
         {
           "key": "主题歌演出",
@@ -3690,6 +4312,10 @@
         {
           "key": "主题歌编曲",
           "value": "蔦谷好位置、渡辺健二（スネオヘアー）、奥田民生"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "佐野弘明、田口貴章、大山良"
         }
       ],
       "total_episodes": 26,
@@ -3732,7 +4358,7 @@
           },
           "name": "ハチミツとクローバー",
           "name_cn": "蜂蜜与四叶草",
-          "relation": "其他",
+          "relation": "不同演绎",
           "type": 6,
           "id": 1369
         },
@@ -3788,7 +4414,7 @@
           },
           "name": "ハチミツとクローバー",
           "name_cn": "蜂蜜与四叶草",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 35816
         },
@@ -3858,7 +4484,7 @@
           },
           "name": "蜂蜜幸運草",
           "name_cn": "蜂蜜幸运草",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 493660
         }
@@ -3887,18 +4513,26 @@
         "2005年4月",
         "TV",
         "studiodeen",
+        "スタジオディーン",
         "三木眞一郎",
+        "动画",
         "励志",
+        "外挂",
         "战斗",
+        "日本",
+        "日本动画",
         "曾经的感动",
         "朴璐美",
+        "植木",
         "植木的法则",
+        "治愈",
         "治愈系",
         "漫改",
         "漫画改",
         "烂尾",
         "热血",
         "环保",
+        "童年",
         "补番"
       ],
       "infobox": [
@@ -3935,7 +4569,7 @@
         },
         {
           "key": "播放电视台",
-          "value": "东京电视台"
+          "value": "テレビ東京系列"
         },
         {
           "key": "播放结束",
@@ -3946,8 +4580,12 @@
           "value": "わたなべひろし"
         },
         {
+          "key": "Copyright",
+          "value": "©️福地翼／小学館・テレビ東京・「うえきの法則」製作委員会"
+        },
+        {
           "key": "原作",
-          "value": "福地翼"
+          "value": "福地翼（小学館『週刊少年サンデー』連載）"
         },
         {
           "key": "人物设定",
@@ -3956,6 +4594,26 @@
         {
           "key": "动画制作",
           "value": "スタジオディーン"
+        },
+        {
+          "key": "制片人",
+          "value": "笹村武史〔1-8〕→松山進〔9-51〕(テレビ東京) 、坂田雄馬、高畑裕一郎"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、電通、スタジオディーン"
+        },
+        {
+          "key": "协力",
+          "value": "avex entertainment"
+        },
+        {
+          "key": "音乐制作",
+          "value": "avex mode"
+        },
+        {
+          "key": "动画制片人",
+          "value": "浦崎宣光"
         }
       ],
       "total_episodes": 51,
@@ -4131,18 +4789,21 @@
       },
       "summary": "小早川濑那是个胆小因循守旧的高中一年级学生。自小就为了躲避被人欺负，一味地过着遁行的人生。成天被人点去买饮买食，不知不觉间练就了一副好身手（指跑步），甚至用4秒2跑出40码的世界纪录（当被狗追时）。进入高中后，濑那决意改变自己、决心加入美式足球部担任经理，期待着新生活的来临...但是，濑那由逃跑而练就出来的跑步，吸引了美式足球部的队长蛭魔妖一（ヒル魔）的眼光。因为强悍和卑劣的手段而声名远播的ヒル魔，准备训练濑那成为背号21的神秘光速之脚。际遇了美式足球，濑那能改变以往的自己吗……",
       "name": "アイシールド21",
-      "name_cn": "光速跑者21号",
+      "name_cn": "光速蒙面侠21",
       "tags": [
         "2005",
+        "2005年",
         "2005年4月",
         "JUMP",
         "TV",
         "TVB",
         "ぎゃろっぷ",
+        "为了漫画",
         "为了蛭魔",
         "体育",
         "光速蒙面侠",
         "光速蒙面侠21",
+        "入野自由",
         "搞笑",
         "渣改编",
         "漫改",
@@ -4151,13 +4812,14 @@
         "竞技",
         "童年",
         "美式足球",
+        "西田正义",
         "运动",
         "集英社"
       ],
       "infobox": [
         {
           "key": "中文名",
-          "value": "光速跑者21号"
+          "value": "光速蒙面侠21"
         },
         {
           "key": "别名",
@@ -4172,7 +4834,8 @@
               "v": "冲锋21"
             },
             {
-              "v": "光速蒙面侠21"
+              "k": "非官方",
+              "v": "光速跑者21号"
             }
           ]
         },
@@ -4185,6 +4848,14 @@
           "value": "2005年4月6日"
         },
         {
+          "key": "放送星期",
+          "value": "星期三"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.tv-tokyo.co.jp/anime/eyeshield21/"
+        },
+        {
           "key": "播放电视台",
           "value": "东京电视台"
         },
@@ -4194,19 +4865,23 @@
         },
         {
           "key": "导演",
-          "value": "片貝慎、西田正義"
+          "value": "西田正義（第1話-第103話）→片貝慎（104話-145話）"
         },
         {
           "key": "音乐",
           "value": "大谷幸"
         },
         {
+          "key": "Copyright",
+          "value": "©米スタジオ・ビレッジスタジオ／集英社・テレビ東京・NAS"
+        },
+        {
           "key": "原作",
-          "value": "村田雄介"
+          "value": "稲垣理一郎、村田雄介（集英社『週刊少年ジャンプ』連載）"
         },
         {
           "key": "人物设定",
-          "value": "高谷浩利"
+          "value": "高谷浩利、小林一幸（104話-111話）、加藤寛崇（112話-）"
         },
         {
           "key": "美术监督",
@@ -4215,6 +4890,26 @@
         {
           "key": "色彩设计",
           "value": "横井正人"
+        },
+        {
+          "key": "总导演",
+          "value": "西田正義（104話-145話）"
+        },
+        {
+          "key": "制作助理",
+          "value": "南川茜"
+        },
+        {
+          "key": "设定制作",
+          "value": "水谷謙（1話-13話）→赤路恭望（14話-26話）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "音乐制作协力：avex mode；音乐协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "高畑裕一郎"
         }
       ],
       "total_episodes": 145,
@@ -4223,6 +4918,7 @@
       "meta_tags": [
         "TV",
         "日本",
+        "运动",
         "漫画改"
       ],
       "volumes": 0,
@@ -4373,6 +5069,7 @@
         "Trinity",
         "Trinty_Blood",
         "中嶋敦子",
+        "动画",
         "华丽",
         "吉田直",
         "吸血鬼",
@@ -4383,9 +5080,11 @@
         "小说改",
         "平田智浩",
         "战斗",
+        "日本",
         "烂尾",
         "烂尾了",
         "能登麻美子",
+        "补旧番",
         "补番",
         "轻小说改",
         "轻改"
@@ -4446,11 +5145,11 @@
         },
         {
           "key": "Copyright",
-          "value": "©GONZO"
+          "value": "©吉田直・角川書店 ©2005 トリニティ・ブラッド製作委員会"
         },
         {
           "key": "原作",
-          "value": "吉田直"
+          "value": "吉田直・THORES柴本（角川スニーカー文庫）"
         },
         {
           "key": "系列构成",
@@ -4481,8 +5180,84 @@
           "value": "GONZO"
         },
         {
-          "key": "制作",
-          "value": "トリニティ・ブラッド製作委員会"
+          "key": "製作",
+          "value": "トリニティ・ブラッド製作委員会（角川書店、GDH、クロックワークス）"
+        },
+        {
+          "key": "企画",
+          "value": "安田猛、石川真一郎、酒匂暢彦"
+        },
+        {
+          "key": "制片人",
+          "value": "安田猛、永井理、武智恒雄"
+        },
+        {
+          "key": "执行制片人",
+          "value": "梶田浩司"
+        },
+        {
+          "key": "美术设计",
+          "value": "六本木和成〔1話-7話〕、宮本崇〔8話-14話〕、成田偉保（KUSANAGI）〔15話-19話〕、金平和茂（KUSANAGI）〔15話-19話〕"
+        },
+        {
+          "key": "录音",
+          "value": "橋本健一；录音调整：土屋雅紀；录音工作室：プロセンスタジオ"
+        },
+        {
+          "key": "音响",
+          "value": "マジックカプセル、濱野高年"
+        },
+        {
+          "key": "助理制片人",
+          "value": "立崎孝史、岩沢航介；协力制片人：鈴木路子（WOWOW）"
+        },
+        {
+          "key": "宣传",
+          "value": "蜂屋誠一、西山洋介"
+        },
+        {
+          "key": "协力",
+          "value": "女井正浩（角川スニーカー文庫編集部）、難波江宏隆（角川スニーカー文庫編集部）、棚橋哲也（YOMIKO）、宮本正輝（YOMIKO）、森真奈（博報堂DYメディアパートナーズ）、伊藤将生（ビクターエンタテインメント）"
+        },
+        {
+          "key": "制作管理",
+          "value": "松本淳〔1話-12話〕→吉冨敏夫〔13話-〕"
+        },
+        {
+          "key": "设定制作",
+          "value": "稗田宜〔1話-6話〕、田中祐有〔14話-23話〕"
+        },
+        {
+          "key": "演出助理",
+          "value": "原田孝宏〔1話-23話〕"
+        },
+        {
+          "key": "动画检查",
+          "value": "白井英治、松野笑美子、家郷真衣、中島大輔、蓮田しつえ、かわたつ、金城美保、清水慶太"
+        },
+        {
+          "key": "色彩指定",
+          "value": "長坂恵、加藤良高、山崎朋子、安野久美子、竹村さき子、大西峰代、松岡珠江、瀬田藍子、土屋智、鈴木依里"
+        },
+        {
+          "key": "特效",
+          "value": "星美弥子、加藤良高、岡野国治、イノイエシン、国分優美子、古市裕一"
+        },
+        {
+          "key": "制作进行",
+          "value": "林健一、中村周子、後藤安子、村岡康成、山田義和、武居訓生、徳丸仁志、吉原豊、河口亮司、野田裕一郎、賀部匠美、溝口僚我、田代雄一、セイ椿、高橋純平、大久保勝盛、植田慎也、田中祐有"
+        },
+        {
+          "key": "摄影",
+          "value": "林コージロー、北村直樹、荻原猛夫、江間常高、中村慎太郎"
+        },
+        {
+          "key": "背景美术",
+          "value": "スタジオ・イースター、阿部江津子、居垣宏、石原信明、井戸川望、清水順子、鈴木隆文、徳田俊之、矢中勝、草薙、緒続学、長峰愛子、山根佐帆"
+        },
+        {
+          "key": "制作进行协力",
+          "value": "野田裕一郎"
         }
       ],
       "total_episodes": 24,
@@ -4491,6 +5266,8 @@
       "meta_tags": [
         "TV",
         "日本",
+        "奇幻",
+        "战斗",
         "小说改"
       ],
       "volumes": 0,
@@ -4646,6 +5423,7 @@
       "name_cn": "双恋 Alternative",
       "tags": [
         "2005",
+        "2005年",
         "2005年4月",
         "Feel.",
         "StudioFLAG",
@@ -4668,7 +5446,6 @@
         "文艺",
         "日常",
         "日本",
-        "水桥かおり",
         "治愈",
         "神ED",
         "补番",
@@ -4722,12 +5499,28 @@
           ]
         },
         {
+          "key": "播放电视台",
+          "value": "テレビ愛知/テレビ大阪"
+        },
+        {
+          "key": "其他电视台",
+          "value": "テレビ神奈川/テレビ埼玉/キッズステーション/青森放送/ちばテレビ"
+        },
+        {
           "key": "播放结束",
           "value": "2005年6月29日"
         },
         {
           "key": "导演",
-          "value": "平尾隆之（チーフディレクタ ー）"
+          "value": "平尾隆之（チーフディレクター）"
+        },
+        {
+          "key": "音乐",
+          "value": "村山達哉、鈴木俊介、磯江俊道"
+        },
+        {
+          "key": "Copyright",
+          "value": "(C)双葉ひな・ささきむつみ・メディアワークス／双恋製作委員会"
         },
         {
           "key": "总导演",
@@ -4740,6 +5533,42 @@
         {
           "key": "人物设定",
           "value": "小林利充"
+        },
+        {
+          "key": "总作画监督",
+          "value": "小林利充"
+        },
+        {
+          "key": "製作",
+          "value": "フタコイプロジェクト（メディアワークス、キングレコード、ランティス、読売広告社）"
+        },
+        {
+          "key": "制片人",
+          "value": "高野希義、宿利剛、渡辺和哉"
+        },
+        {
+          "key": "动画制片人",
+          "value": "近藤光"
+        },
+        {
+          "key": "动画制作",
+          "value": "ufotable × studio FLAG × feel."
+        },
+        {
+          "key": "脚本",
+          "value": "金月龍之介(1-13)、寺東克己(4)、逢瀬祭 [ 近藤光 ] (5)、佐藤和治(6)"
+        },
+        {
+          "key": "分镜",
+          "value": "平尾隆之(1,3,7,13)、阿部雅司(2)、寺東克己(4-6,10,13)、望月三郎 [ 荒木哲郎 ] (8)、逢瀬祭 [ 近藤光 ] (8,11)、後信治 [ ウシロシンジ ] (9)、野中卓也(12)、大隈孝晴(12)"
+        },
+        {
+          "key": "演出",
+          "value": "平尾隆之(1,3,7,13)、阿部雅司(2)、鎌仲史陽(2,10)、小林智樹(4)、嘉手苅睦(5)、水本葉月(6)、夕澄慶英(8)、後信治 [ ウシロシンジ ] (9)、沼田誠也(11)、大隈孝晴(12)"
+        },
+        {
+          "key": "作画监督",
+          "value": "嘉手苅睦、大田和寛、下川寿士、山本佐和子、南伸一郎、斉藤雅和、立石聖、高橋タクロヲ、堀越久美子、湯本佳典、沼田誠也、あおいみづき、小林利充"
         }
       ],
       "total_episodes": 16,
@@ -4877,20 +5706,29 @@
       "name_cn": "速写者",
       "tags": [
         "2005",
+        "2005年",
         "2005年4月",
         "GONZO",
         "TV",
         "TVA",
+        "光宗信吉",
         "剧情",
+        "动画",
         "原创",
         "吉田伸",
         "大叔X萝莉",
         "奇幻",
+        "子安武人",
         "战斗",
+        "日本",
         "杉岛邦久",
+        "森川智之",
         "照相杀人",
         "猎奇",
+        "科幻",
+        "老少配",
         "致郁",
+        "草尾毅",
         "补番",
         "超能力",
         "速写者",
@@ -4922,6 +5760,10 @@
           "value": "2005年4月7日"
         },
         {
+          "key": "放送星期",
+          "value": "星期四"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.gonzo.co.jp/archives/speed-grapher/index.html"
         },
@@ -4942,6 +5784,10 @@
           "value": "光宗信吉"
         },
         {
+          "key": "Copyright",
+          "value": "©2005 GONZO／TAP"
+        },
+        {
           "key": "原作",
           "value": "GONZO"
         },
@@ -4959,15 +5805,67 @@
         },
         {
           "key": "美术监督",
-          "value": "衛藤功二"
+          "value": "衛藤功二；美术监修：東潤一"
         },
         {
           "key": "音响监督",
           "value": "鶴岡陽太"
         },
         {
+          "key": "动画制作",
+          "value": "GONZO"
+        },
+        {
           "key": "制作",
-          "value": "GONZO、TAP"
+          "value": "テレビ朝日"
+        },
+        {
+          "key": "製作",
+          "value": "内田康史；TAP"
+        },
+        {
+          "key": "设定",
+          "value": "奥野浩行、森久司、海老原雅夫"
+        },
+        {
+          "key": "执行制片人",
+          "value": "梶田浩司"
+        },
+        {
+          "key": "助理制片人",
+          "value": "島居理恵"
+        },
+        {
+          "key": "制片人",
+          "value": "橋本太知、西口なおみ"
+        },
+        {
+          "key": "动画制片人",
+          "value": "柴田知典"
+        },
+        {
+          "key": "宣传",
+          "value": "木立己百花；协力：海江田順子"
+        },
+        {
+          "key": "音响",
+          "value": "楽音舎（杉山好美）"
+        },
+        {
+          "key": "录音",
+          "value": "椎原操志；录音工作室：スタジオごんぐ"
+        },
+        {
+          "key": "录音助理",
+          "value": "田中文章"
+        },
+        {
+          "key": "制作管理",
+          "value": "松本淳"
+        },
+        {
+          "key": "设定制作",
+          "value": "祝悠介"
         }
       ],
       "total_episodes": 24,
@@ -5095,6 +5993,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 210354
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/7c/543047_RjrXX.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/7c/543047_RjrXX.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/33/7c/543047_RjrXX.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/7c/543047_RjrXX.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/7c/543047_RjrXX.jpg"
+          },
+          "name": "Girls on Film",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 543047
         }
       ]
     }
@@ -5120,6 +6032,7 @@
         "2005年4月",
         "J.C.STAFF",
         "TV",
+        "亚视",
         "作画崩坏",
         "原创",
         "声优GJ",
@@ -5129,6 +6042,7 @@
         "百合",
         "童年",
         "补番",
+        "轻百合",
         "黑田洋介"
       ],
       "infobox": [
@@ -5265,13 +6179,19 @@
         "东京movie",
         "东京ムービー",
         "励志",
+        "小林沙苗",
         "少女",
         "少女向",
+        "少女漫画",
+        "恋爱",
+        "日本",
         "森川智之",
         "没看全",
+        "治愈",
         "漫改",
         "漫画改",
         "玻璃假面",
+        "百合",
         "童年",
         "舞女"
       ],
@@ -5289,8 +6209,20 @@
           "value": "2005年4月5日"
         },
         {
+          "key": "放送星期",
+          "value": "星期二"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.tv-tokyo.co.jp/anime/garasunokamen/"
+        },
+        {
           "key": "播放电视台",
-          "value": "东京电视台"
+          "value": "テレビ東京"
+        },
+        {
+          "key": "其他电视台",
+          "value": "テレビ愛知 / テレビ大阪 / AT-X"
         },
         {
           "key": "播放结束",
@@ -5303,6 +6235,10 @@
         {
           "key": "音乐",
           "value": "寺嶋民哉"
+        },
+        {
+          "key": "Copyright",
+          "value": "©️2005 美内すずえ・白泉社/ガラスの仮面製作委員会"
         },
         {
           "key": "系列构成",
@@ -5325,7 +6261,7 @@
           "value": "なかのとおる"
         },
         {
-          "key": "音乐制作",
+          "key": "音乐制作人",
           "value": "藤田雅章"
         },
         {
@@ -5333,8 +6269,84 @@
           "value": "東京ムービー"
         },
         {
-          "key": "制作",
-          "value": "MEDIANET、TMS Entertainment"
+          "key": "製作",
+          "value": "テレビ東京メディアネット、トムス・エンタテインメント"
+        },
+        {
+          "key": "企画",
+          "value": "角南攻、加藤俊三、中村直樹；企画協力：久保田博、菅原弘文、中島英貴、吉田剛"
+        },
+        {
+          "key": "制片人",
+          "value": "八田紳作、松元理人"
+        },
+        {
+          "key": "助理制片人",
+          "value": "日向泰隆、市井美帆"
+        },
+        {
+          "key": "特别鸣谢",
+          "value": "吉田諭司、関雅彦、内山晴人、深沢幹彦、京楽太郎、上村豊彦"
+        },
+        {
+          "key": "录音",
+          "value": "伊藤晋子；录音调整：なしもとりょうこ；录音工作室：HALF H・P STUDIO"
+        },
+        {
+          "key": "音响",
+          "value": "HALF H・P STUDIO；音响制作担当：藤田亜紀子"
+        },
+        {
+          "key": "剪辑",
+          "value": "長坂智樹；助手：根本愛；剪辑工作室：ジェイ・フィルム"
+        },
+        {
+          "key": "特效",
+          "value": "二瓶妙子（1話-23話）→飛田妙子（24話-）、松田文子（7話）、福永淑子（7話）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "インスパイア・ホールディングス；音乐协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "音效",
+          "value": "横山正和、横山亜紀"
+        },
+        {
+          "key": "3DCG",
+          "value": "櫻田知之（1話-13話）"
+        },
+        {
+          "key": "动画制片人",
+          "value": "鶴木洋介"
+        },
+        {
+          "key": "原作",
+          "value": "美内すずえ（白泉社 花とゆめコミックス）"
+        },
+        {
+          "key": "脚本",
+          "value": "佐伯俊道、山田立、角田美和、五十嵐暁美"
+        },
+        {
+          "key": "色彩指定",
+          "value": "齋藤知津江、袴田純子、手嶋明美、加藤良高、石原智美、田中文子、島貫恵美子"
+        },
+        {
+          "key": "制作协力",
+          "value": "メルヘン社、JEC-E、マル画ファクトリー、スタジオエル"
+        },
+        {
+          "key": "制作进行",
+          "value": "阿曽孝義、高田誠、江口慎平、徳丸恵一、荒木千絵、山本清、舛本和也、相馬克仁"
+        },
+        {
+          "key": "动画检查",
+          "value": "須藤志乃、石黒光、小栗さつき、佐藤綾子、野津美智子、川口千里"
+        },
+        {
+          "key": "选曲",
+          "value": "合田豊、合田麻衣子"
         }
       ],
       "total_episodes": 51,
@@ -5354,11 +6366,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/75/44199_DIN2Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/75/44199_DIN2Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/73/75/44199_DIN2Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/75/44199_DIN2Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/75/44199_DIN2Z.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/75/44199_8JOV8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/75/44199_8JOV8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/73/75/44199_8JOV8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/75/44199_8JOV8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/75/44199_8JOV8.jpg"
           },
           "name": "ガラスの仮面",
           "name_cn": "玻璃假面",
@@ -5382,11 +6394,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/46/84592_hQ9SQ.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/46/84592_6KqFL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/46/84592_6KqFL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a7/46/84592_6KqFL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/46/84592_6KqFL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/46/84592_6KqFL.jpg"
           },
           "name": "ガラスの仮面",
           "name_cn": "玻璃假面",
@@ -5421,6 +6433,34 @@
           "relation": "不同演绎",
           "type": 2,
           "id": 191390
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/42/538015_MSZ0s.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/42/538015_MSZ0s.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6b/42/538015_MSZ0s.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/42/538015_MSZ0s.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/42/538015_MSZ0s.jpg"
+          },
+          "name": "ガラスの仮面",
+          "name_cn": "玻璃假面",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 538015
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/51/559954_hJar7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/51/559954_hJar7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/51/559954_hJar7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/51/559954_hJar7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/51/559954_hJar7.jpg"
+          },
+          "name": "Promise / no reason",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 559954
         }
       ]
     }
@@ -5450,10 +6490,13 @@
         "J.C.STAFF",
         "LOVELESS",
         "TV",
+        "アニメ",
         "不懂",
         "为什么没有第二季",
         "动画",
         "基",
+        "子安武人",
+        "小林七郎",
         "小西克幸",
         "战斗",
         "搞基",
@@ -5461,6 +6504,8 @@
         "漫改",
         "漫画改",
         "百合",
+        "皆川纯子",
+        "福山润",
         "立夏",
         "红优",
         "耽美",
@@ -5482,12 +6527,28 @@
           "value": "2005年4月6日"
         },
         {
+          "key": "放送星期",
+          "value": "星期三"
+        },
+        {
+          "key": "官方网站",
+          "value": "http://www.jcstaff.co.jp/sakuhin/nenpyo/2005/05_loveless/loveless.htm"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ朝日"
+        },
+        {
           "key": "播放结束",
           "value": "2005年6月29日"
         },
         {
           "key": "音乐",
           "value": "笹路正徳"
+        },
+        {
+          "key": "Copyright",
+          "value": "©高河ゆん・一迅社／ななつの月 TOPへ"
         },
         {
           "key": "系列构成",
@@ -5515,15 +6576,55 @@
         },
         {
           "key": "音乐制作",
-          "value": "Frontier Works"
+          "value": "Frontier Works（フロンティアワークス）"
         },
         {
           "key": "动画制作",
           "value": "J.C.STAFF"
         },
         {
+          "key": "製作",
+          "value": "ななつの月（バンダイビジュアル、ムービック、フロンティアワークス、J.C.STAFF）"
+        },
+        {
           "key": "制作",
-          "value": "ななつの月（バンダイビジュアル、ムービック、Frontier Works、J.C.STAFF）"
+          "value": "テレビ朝日"
+        },
+        {
+          "key": "音响",
+          "value": "テクノサウンド（井出美紀）"
+        },
+        {
+          "key": "录音",
+          "value": "録音調整：山田富二男"
+        },
+        {
+          "key": "录音助理",
+          "value": "鳥羽瀬縁（アオイスタジオ）"
+        },
+        {
+          "key": "音效",
+          "value": "小山健二"
+        },
+        {
+          "key": "原作",
+          "value": "高河ゆん 月刊「Comic ZERO-SUM」（一迅社刊）"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "吉川明"
+        },
+        {
+          "key": "道具设计",
+          "value": "小物设计：橘秀樹"
+        },
+        {
+          "key": "企画",
+          "value": "川城和実、安田正樹、及川武、阿部倫久"
+        },
+        {
+          "key": "制片人",
+          "value": "小林潤香、金庭こず恵、今優子、松倉友二、ヘドウィック・シュレック（テレビ朝日）"
         }
       ],
       "total_episodes": 12,
@@ -5604,6 +6705,7 @@
       "name_cn": "魔法咪路咪路Charming",
       "tags": [
         "2005",
+        "2005年4月",
         "TV",
         "恋爱",
         "搞笑",
@@ -5720,6 +6822,7 @@
         "TVB",
         "原创",
         "吉田玲子",
+        "和田薫",
         "山内重保",
         "游戏改",
         "甲虫王者",
@@ -5756,8 +6859,36 @@
           "value": "2006年3月29日"
         },
         {
+          "key": "导演",
+          "value": "山内重保"
+        },
+        {
           "key": "Copyright",
           "value": "ムシキングプロジェクト・テレビ東京"
+        },
+        {
+          "key": "执行制片人",
+          "value": "植村比呂志"
+        },
+        {
+          "key": "制片人",
+          "value": "紅谷佳和（TV TOKYO）、上田和成→木村京太郎（読売広告社）、小島哲（TMS）"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、読売広告社、トムス・エンタテインメント"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "桜井裕子"
+        },
+        {
+          "key": "原作",
+          "value": "SEGA"
+        },
+        {
+          "key": "人物设定",
+          "value": "馬越嘉彦"
         }
       ],
       "total_episodes": 52,
@@ -5914,7 +7045,9 @@
         "党争",
         "关田修",
         "动画",
+        "半年番",
         "后宫",
+        "幼驯染",
         "恋爱",
         "搞笑",
         "日本",
@@ -5927,10 +7060,12 @@
         "漫画改",
         "烂尾",
         "爱情",
+        "肉",
         "能登麻美子",
         "草莓",
         "草莓100",
-        "西野司"
+        "西野司",
+        "铃村健一"
       ],
       "infobox": [
         {
@@ -5940,6 +7075,9 @@
         {
           "key": "别名",
           "value": [
+            {
+              "v": "Strawberry 100%"
+            },
             {
               "v": "草莓百分百"
             }
@@ -5959,7 +7097,15 @@
         },
         {
           "key": "官方网站",
-          "value": "mv.avex.jp/ichigo"
+          "value": "https://mv.avex.jp/ichigo/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ朝日"
+        },
+        {
+          "key": "其他电视台",
+          "value": "秋田朝日放送・メ〜テレ・長野朝日放送・北陸朝日放送・朝日放送・山口朝日放送・愛媛朝日テレビ・長崎文化放送・大分朝日放送"
         },
         {
           "key": "播放结束",
@@ -5974,8 +7120,12 @@
           "value": "根岸貴幸"
         },
         {
+          "key": "Copyright",
+          "value": "©河下水希・集英社/いちご100％製作委員会"
+        },
+        {
           "key": "原作",
-          "value": "河下水希"
+          "value": "河下水希（集英社「週刊少年ジャンプ」連載）"
         },
         {
           "key": "企画",
@@ -6011,7 +7161,55 @@
         },
         {
           "key": "製作",
-          "value": "集英社、いちご100%製作委員会、テレビ朝日"
+          "value": "集英社、いちご100%製作委員会、テレビ朝日；高谷与志人、湯本浩"
+        },
+        {
+          "key": "协力",
+          "value": "週刊少年ジャンプ編集部"
+        },
+        {
+          "key": "音响",
+          "value": "テクノサウンド（井出美紀）"
+        },
+        {
+          "key": "制作协力",
+          "value": "スタジオマトリックス、DR TOKYO"
+        },
+        {
+          "key": "制片人",
+          "value": "渡辺直樹、鈴木祐治（1話-12話）"
+        },
+        {
+          "key": "剪辑",
+          "value": "木村佳史子；助手：神宮司由美"
+        },
+        {
+          "key": "音效",
+          "value": "小山健二"
+        },
+        {
+          "key": "录音",
+          "value": "录音调整：山田富二男；录音工作室：アオイスタジオ"
+        },
+        {
+          "key": "录音助理",
+          "value": "藤林繁"
+        },
+        {
+          "key": "设定制作",
+          "value": "小瀬敬子"
+        },
+        {
+          "key": "宣传",
+          "value": "宇梶裕司、竹内信実"
+        },
+        {
+          "key": "联合制片人",
+          "value": "松田佐栄子（テレビ朝日）（1話-12話）、桐山恵奈（1話-5話）、遠藤純一"
+        },
+        {
+          "key": "音乐制作",
+          "value": "avex mode"
         }
       ],
       "total_episodes": 24,
@@ -6019,6 +7217,7 @@
       "eps": 24,
       "meta_tags": [
         "TV",
+        "恋爱",
         "日本",
         "漫画改"
       ],
@@ -6146,17 +7345,23 @@
       "name": "勇者王ガオガイガーFINAL GRAND GLORIOUS GATHERING",
       "name_cn": "勇者王GaoGaiGar Final Grand Glorious Gathering",
       "tags": [
+        "2000s",
         "2005",
         "2005年4月",
+        "OVA",
         "SUNRISE",
         "TV",
         "TVB",
+        "五武冬史",
+        "动画",
         "勇者王",
         "原创",
+        "日本",
         "机战",
         "没看全",
         "热血",
         "燃",
+        "田中公平",
         "神作",
         "科幻",
         "童年",
@@ -6320,8 +7525,11 @@
         "2005",
         "TV",
         "原创",
+        "小学馆集英社制作",
+        "日本",
         "机兽起源",
         "机战",
+        "水野和则",
         "童年",
         "索斯机械兽"
       ],
@@ -6451,11 +7659,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/a6/26017_U93jA.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/a6/26017_U93jA.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7e/a6/26017_U93jA.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/a6/26017_U93jA.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/a6/26017_U93jA.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/a6/26017_4FiVW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/a6/26017_4FiVW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/a6/26017_4FiVW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/a6/26017_4FiVW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/a6/26017_4FiVW.jpg"
           },
           "name": "ゾイド新世紀/ゼロ",
           "name_cn": "机兽新世纪ZERO",
@@ -6553,18 +7761,31 @@
       "name": "おねがいマイメロディ",
       "name_cn": "奇幻魔法Melody",
       "tags": [
+        "2000s",
         "2005",
         "StudioComet",
         "TV",
+        "TVB",
         "原创",
         "子供向",
         "幼女向",
+        "搞笑",
+        "校园",
+        "童年",
         "魔法"
       ],
       "infobox": [
         {
           "key": "中文名",
           "value": "奇幻魔法Melody"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "我爱美乐蒂"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -6591,8 +7812,100 @@
           "value": "2006年3月26日"
         },
         {
+          "key": "导演",
+          "value": "森脇真琴"
+        },
+        {
+          "key": "音乐",
+          "value": "渡部チェル"
+        },
+        {
           "key": "Copyright",
           "value": "©1976,2005 SANRIO CO., LTD. サンリオ／ウィーヴ・テレビ大阪・マイメロディ製作委員会"
+        },
+        {
+          "key": "原案",
+          "value": "サンリオ、福嶋一芳"
+        },
+        {
+          "key": "系列构成",
+          "value": "山野辺一記（夢ヶ丘中学校文芸部名義 第1話～第26話）、山田隆司（第27話～第52話）"
+        },
+        {
+          "key": "人物设定",
+          "value": "宮川知子"
+        },
+        {
+          "key": "美术监督",
+          "value": "福田和矢、水野友紀子"
+        },
+        {
+          "key": "色彩设计",
+          "value": "石黒文子、大倉喜美子"
+        },
+        {
+          "key": "剪辑",
+          "value": "中葉由美子、村井秀明"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "吉村仁、本地大輔、高岸るみ子（第1話～第26話）、木皿陽平（第27話～第52話）"
+        },
+        {
+          "key": "音乐助理",
+          "value": "テレビ東京ミュージック（音楽協力）"
+        },
+        {
+          "key": "制片人",
+          "value": "原弘之（テレビ大阪）、渡辺和哉、可知秀幸、せきやまあきひろ"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ大阪、読売広告社、マイメロディ製作委員会"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "森脇真琴、金﨑貴臣"
+        },
+        {
+          "key": "作画监督",
+          "value": "野田康行、興村忠美、一川孝久、小泉初栄、飯田清貴、松本勝次、梶浦紳一郎、本田辰雄、野田康行、伊佐英朗、稲田真樹、飯飼一幸、武内啓、古池敏也、金子ひらく、宮崎曹、渡辺浩成、岡村正弘"
+        },
+        {
+          "key": "原画",
+          "value": "松本勝次、渋谷一彦、藤田正幸、小倉陳利、伊佐英朗、福地和浩、神本兼利、川畑えるきん、酒井和男、稲田真樹、野田康行、大宅幸男、西崎亜維、山本靖貴、上山賢太郎、小倉英嗣、中野英明、津野満代、平山貴章、渡辺敦子、堺美和、小泉初栄、高橋美香　木下由美子、高橋紀子、矢木正之、松本勝次、一町田嘉暢、冨岡寛、海老沢幸男、林祐一郎、渡辺敦子、堺美和、平山貴章、早川加寿子、真壁誠、板岡錦、中村諒子、小泉初栄、芦田豊雄、大島美和、山本靖貴"
+        },
+        {
+          "key": "脚本",
+          "value": "山野辺一記、山田隆司、江夏由結、平野靖士、待田堂子"
+        },
+        {
+          "key": "分镜",
+          "value": "森脇真琴、芦田豊雄、金﨑貴臣、大久保政雄、江島泰男、佐藤昌文、政木伸一、高林久弥、松浦錠平、夕澄慶英、麦野アイス、高柳哲司、藤原良二、青山弘、三宅雄一郎、菊池一仁、渡辺健一郎"
+        },
+        {
+          "key": "演出",
+          "value": "政木伸一、高林久弥、芦田豊雄、西村大樹、大久保政雄、江島泰男、佐藤昌文、高林久弥、西村大樹、松浦錠平、山田一夫、金﨑貴臣、横田和善、麦野アイス、廣川集一、沢井鹿智彦、菊池一仁、渡辺健一郎、いとがしんたろー"
+        },
+        {
+          "key": "演出助理",
+          "value": "山本靖貴"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "高橋美佳子、まいめろでぃーず（板倉さき、福田舞、石川梓文、岡田真菜実）"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "山田ひろし、高橋秀幸、斉藤浩志"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "渡部チェル、鈴木盛広、伊藤心太郎"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "渡部チェル、鈴木盛広、伊藤心太郎"
         }
       ],
       "total_episodes": 52,
@@ -6650,6 +7963,20 @@
           "relation": "角色出演",
           "type": 2,
           "id": 420442
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/25/524365_8izj6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/25/524365_8izj6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/28/25/524365_8izj6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/25/524365_8izj6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/25/524365_8izj6.jpg"
+          },
+          "name": "ひみつのアイプリ リング編",
+          "name_cn": "秘密的偶像公主 RING篇",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 524365
         }
       ]
     }
@@ -6859,9 +8186,21 @@
         {
           "key": "IMDb_id",
           "value": "tt4083422"
+        },
+        {
+          "key": "脚本",
+          "value": "脚本：早川正（2005 - 2007）、高橋ナツコ（2005 - 2009）、大野木寛（2005 - 2015）、与口奈津江（2005 - 2008・2015 - 2017・2020）、岡部優子（2006 - 2010）、みなみとらのすけ（2007）、富永淳一（2007 - 2015・2024）、藤本信行（2007 - 2013）、水野宗徳（2007 - 2016・2021 - 2024）、廣川浩二（2008 - 2009）、相内美生（2008 - 2018）、渡辺歩（2008）、小林英造（2010 - 2011・2016 - 2019・2021・2023）、清水東（2010 - ）、大野敏哉（2011）、井上テテ（2011）、大塩哲史（2011）、原島興子（2012）、千葉美鈴（2012 - 2016）、楠葉宏三（2012）、田中智章（2012 - 2017）、伊藤公志（2014 - ）、八鍬新之介（2015）、たかはしあつし（2015・2017）、鈴木洋介（2017 - ）、福島直浩（2017 - 2020）、佐藤大（2017 - 2020）、岡野慎吾（2017）、高橋悠也（2018 - 2019）、永野たかひろ（2019 - 2021）、内海照子（2020 - 2022・2024）、五十嵐由美（2021）、諸橋隼人（2021 - 2023）、天野慎也（2022 - 2024、2025）、綿種アヤ（2022 - 2024）、志茂文彦（2022）、田村安彦（2023）、村山功（2023 - ）、（2023）、酒井健作（2023 - 2024）、西中千晶（2023 - 2024）、神沢ミホ（2024 - ）、藤田俊哉（2025） 脚本協力\t富永淳一（2010 - 2011・2013・2015）、田中智章（2012・2016）、水野宗徳（2014）、伊藤公志（2014）、関智一（2018 - 2019）、三石琴乃（2019）、荻安理紗（2023）"
+        },
+        {
+          "key": "分镜",
+          "value": "米たにヨシトモ（2005）、善聡一郎（2005 - 2006・2010 - ）、楠葉宏三（2005 - 2007・2010 - 2017）、鈴木卓夫（2005 - 2006・2019 - 2021）、釘宮洋（2005・2009・2017・2020）、やすみ哲夫（2005）、前田康成（2005 - 2008）、塚田庄英（2005 - 2006）、安藤敏彦（2005 - 2011・2023）、古屋勝悟（2005）、玉野陽美（2005）、寺本幸代（2005 - 2006・2008 - 2009・2014・2017 - 2020・2022）、しぎのあきら（2005 - 2006）、三家本泰美（2005 - 2007）、三宅綱太郎（2005 - ）、腰繁男（2005 - 2023、2025）、荒川直樹（2005 - 2006）、木村哲（2005 - 2010・2013）、鈴木孝義（2005 - 2016）、渡辺温子（2006 - 2007）、細谷秋夫（2006 - 2007）、秦義人（2007 - 2009）、松園公（2007 - 2008）、大森雅幸（2008）、高橋渉（2008 - 2012）、矢嶋哲生（2008・2022 - 2023）、井硲清高（2008）、江島泰男（2008）、宮下新平（2008 - 2010）、三原秀憲（2008）、渡辺歩（2008 - 2010）、山岡実（2008 - 2014・2020 - 2022）、佐藤真人（2008 - 2009）、誌村宏明（2008 - 2014）、松田てつあき（2009）、藤原良二（2009・2013・2018）、八鍬新之介（2010 - 2012・2015・2017）、そ〜とめこういちろう（2010 - 2011・2016・2018 - 2021・2023 - ）、吉野芙紀（2010）、大杉宜弘（2010 - 2011・2014・2016 - 2019）、高木晴美（2010）、西田健一（2011 - 2016）、井出安軌（2011 - 2013・2016 - 2017）、今井一暁（2011 - 2016・2018・2021）、しのみやすゆき（2011 - 2012）、高柳哲司（2011・2019・2021 - 2023）、橋本アキラ（2012）、今泉賢一（2012）、吉田光春（2012）、村野佑太（2012 - 2013）、大宅光子（2012 - 2013）、矢花馨（2013）、高橋敦史（2013 - 2015・2017 - 2018・2021）、福本潔（2013）、氏家友和（2014 - ）、小原唯（2014 - 2016）、パクキョンスン[注 92]（2014 - 2015・2017 - 2023）、山本秀世（2014 - 2016）、大庭秀昭（2015）、青山弘（2015・2017）、小倉宏文（2015 - 2016・2020 - ）、堀之内元（2015）、とよしまアタル（2015）、永居慎平（2015・2022）、園田雅裕（2015）、川崎逸朗（2015）、西村昭子（2015 - 2016）、五月女誠子（2015 - 2018）、寺田和男（2016 - 2018・2020）、小柴純弥（2016 - 2017）、大野和寿（2016）、川越淳（2016・2019・2022 - 2024）、鈴木孝聡（2016 - 2017）、金子伸吾（2017・2019・2023 - 2024）、高橋謙仁（2017）、三上喜子（2017）、鳥羽明子（2017・2020）、岩田義彦（2017）、木野雄（2017・2019 - ）、山口晋（2017 - 2019）、岡野慎吾（2017 - 2018）、鈴木大司（2017 - 2022）、堂山卓見（2017 - 2019）、もりたけし（2018）、小笠原卓也（2019・2023）、佐野隆史（2019 - 2022・2024 - ）、ひのもとひろし（2019 - 2020）、くずおかひろし（2019・2021）、新井宣圭（2020）、杉島邦久（2020 - 2021）、ソエジマヤスフミ（2021）、岩岡夢子（2021 - 2024）、加藤敏幸（2021）、平池芳正（2021）、藤間謙太（2021）、森山瑠潮（2021 - ）、関野関十（2021）、八木郁乃（2021・2022）、山口務（2022）、奥田誠治（2022）、竜恩遠（2022）、小林彩（2022）、神戸佑太（2022）、森山博幸（2022）、平井峰太郎（2022 - 2024）、大島克也（2022 - ）、斉藤光（2023）、江﨑好絵（2023）、新井美穂（2024）、藤井康晶（2024）、入好さとる（2024 - ）、福田裕也（2025）"
+        },
+        {
+          "key": "演出",
+          "value": "寺本幸代（2005 - 2006・2008 - 2009・2014・2022）、善聡一郎（2005・2008・2018 - 2019・2021）、楠葉宏三（2005 - 2007・2012 - 2016）、鈴木卓夫（2005 - 2006）、釘宮洋（2005 - 2017）、やすみ哲夫[注 95]（2005）、宮本幸裕（2005 - 2006）、塚田庄英（2005 - 2010）、安藤敏彦（2005 - 2011）、古屋勝悟（2005 - 2006）、玉野陽美（2005）、三宅綱太郎（2005 - ）、佐土原武之（2005・2016 - 2017）、三家本泰美（2005 - 2007）、腰繁男（2005 - 2023、2025）、渡辺温子（2005 - 2007）、キャロライン・キング（2006）、秦義人（2007 - 2010）、細谷秋夫（2007）、矢嶋哲生（2007 - 2009）、八鍬新之介（2007 - 2012・2017）、山岡実（2007 - 2009・2013 - 2014・2020 - 2022）、松園公（2007 - 2008）、高橋渉（2008 - 2012）、江島泰男（2008）、大杉宜弘（2008・2010・2016）、佐藤真人（2008 - 2009）、鹿島典夫（2008・2021 - ）、松田てつあき（2009）、吉野芙紀（2009 - 2011）、松村樹里亜（2009 - 2011）、宮下新平（2009 - 2010）、鈴木孝義（2010 - 2012）、鈴木洋介[注 100]（2010）、今井一暁（2010 - 2016）、パクキョンスン（2011・2016・2018・2022・2023）、しのみやすゆき（2011 - 2012）、西田健一（2011 - 2016）、小原唯（2012 - 2016）、矢花馨（2012 - 2013）、吉田光春（2012・2014）、村野佑太（2012）、大宅光子（2013）、高橋敦史（2013 - 2015）、福本潔（2013）、根岸宏樹（2013）、古賀一臣（2013 - 2014）、氏家友和（2013 - ）、敷島博英（2014）、佐々木純人（2014）、鈴木孝聡（2014 - 2017）、藤田健太郎（2015）、大塚隆寛（2015）、小倉宏文（2015 - 2016）、とよしまアタル（2015）、石井希美（2015 - 2016）、横田一平（2016）、岩田義彦（2016 - 2020）、高橋謙仁（2016 - 2017）、大野和寿（2016）、三上喜子（2016 - 2017）、金子祥之（2016 - 2017）、飯村正之（2017）、五月女有作（2017 - 2021）、山口晋（2017 - 2018）、岡野慎吾（2017）、堂山卓見（2017 - 2019）、大賀まこと（2018）、八木郁乃（2018 - 2019・2021）、うえだしげる（2018）、藤倉拓也[注 97]（2018 - 2022）、形部正（2018）、鈴木大司（2018・2020 - ）、木野雄（2018 - 2019）、今村洋輝（2019）、大島克也（2019 - ）、酒井和男（2019）、岩岡夢子（2020 - 2022）、斉藤秀二（2020 - 2021）、小林彩（2020 - 2023）、白幡良志之（2021）、森山瑠潮（2021 - ）、新井美穂（2021 - 2024）、粟井重紀（2022 - ）、谷口工作（2022）、池野華乃（2022 - ）、小笠原卓也（2022・2023）、松永浩太郎（2022 - 2023）、江上潔（2023 - ）、いのうえだいすけ（2023 - ）、藤代和也（2024）、勝間田容督（2024 - ）、大江峰生（2024）、角原勇輝（2024 - ）、日下部優樹（2024 - ）、中村優香（2024）、加藤大緒（2025）"
         }
       ],
-      "total_episodes": 872,
+      "total_episodes": 892,
       "id": 18692,
       "eps": 0,
       "meta_tags": [
@@ -6877,101 +8216,759 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/4f/18692_Gilpl.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/4f/18692_Gilpl.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b4/4f/18692_Gilpl.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/4f/18692_Gilpl.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/4f/18692_Gilpl.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a2/e7/301314_T1N5c.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a2/e7/301314_T1N5c.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a2/e7/301314_T1N5c.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a2/e7/301314_T1N5c.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a2/e7/301314_T1N5c.jpg"
+          },
+          "name": "Birthday / 君と重ねたモノローグ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 301314
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/65/172268_9F5tF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/65/172268_9F5tF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/59/65/172268_9F5tF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/65/172268_9F5tF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/65/172268_9F5tF.jpg"
+          },
+          "name": "大長編ドラえもん (藤子·F·不二雄大全集)",
+          "name_cn": "哆啦A梦大长篇 (藤子·F·不二雄大全集)",
+          "relation": "书籍",
+          "type": 1,
+          "id": 172268
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/e1/472783_D57zj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/e1/472783_D57zj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/e1/472783_D57zj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/e1/472783_D57zj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/e1/472783_D57zj.jpg"
+          },
+          "name": "タイムパラドックス",
+          "name_cn": "时间悖论",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 472783
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/75/124402_cCFtN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/75/124402_cCFtN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/aa/75/124402_cCFtN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/75/124402_cCFtN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/75/124402_cCFtN.jpg"
+          },
+          "name": "360°",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 124402
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7b/ae/123469_jeLcL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7b/ae/123469_jeLcL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7b/ae/123469_jeLcL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7b/ae/123469_jeLcL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7b/ae/123469_jeLcL.jpg"
+          },
+          "name": "ドラえもん (藤子·F·不二雄大全集)",
+          "name_cn": "哆啦A梦 (藤子·F·不二雄大全集)",
+          "relation": "书籍",
+          "type": 1,
+          "id": 123469
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/a1/108423_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/a1/108423_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/a1/108423_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/a1/108423_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/a1/108423_jp.jpg"
+          },
+          "name": "ひまわりの約束",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 108423
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/40/516364_5CEqq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/40/516364_5CEqq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d2/40/516364_5CEqq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/40/516364_5CEqq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/40/516364_5CEqq.jpg"
+          },
+          "name": "ハグしちゃお",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 516364
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/cc/100699_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/cc/100699_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7e/cc/100699_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/cc/100699_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/cc/100699_jp.jpg"
+          },
+          "name": "光のシグナル",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 100699
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/16/415704_L0921.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/16/415704_L0921.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/35/16/415704_L0921.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/16/415704_L0921.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/16/415704_L0921.jpg"
+          },
+          "name": "Paradise",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 415704
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e6/7c/221717_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e6/7c/221717_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e6/7c/221717_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e6/7c/221717_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e6/7c/221717_jp.jpg"
+          },
+          "name": "僕の心をつくってよ",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 221717
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/4e/65366_reeGE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/4e/65366_reeGE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/47/4e/65366_reeGE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/4e/65366_reeGE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/4e/65366_reeGE.jpg"
+          },
+          "name": "ドラえもんカラー作品集",
+          "name_cn": "哆啦A梦彩色作品集",
+          "relation": "书籍",
+          "type": 1,
+          "id": 65366
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/34/65262_NiL35.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/34/65262_NiL35.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/84/34/65262_NiL35.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/34/65262_NiL35.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/34/65262_NiL35.jpg"
+          },
+          "name": "ドラえもん プラス",
+          "name_cn": "哆啦a梦+",
+          "relation": "书籍",
+          "type": 1,
+          "id": 65262
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/0d/61200_53KSt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/0d/61200_53KSt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4a/0d/61200_53KSt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/0d/61200_53KSt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/0d/61200_53KSt.jpg"
+          },
+          "name": "未来のミュージアム",
+          "name_cn": "未来博物馆",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 61200
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/21/399235_H0nQZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/21/399235_H0nQZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/21/399235_H0nQZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/21/399235_H0nQZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/21/399235_H0nQZ.jpg"
+          },
+          "name": "ジャイアンのスーパーリサイタル",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 399235
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/06/40461_VDvva.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/06/40461_VDvva.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e4/06/40461_VDvva.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/06/40461_VDvva.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/06/40461_VDvva.jpg"
+          },
+          "name": "夢をかなえてドラえもん",
+          "name_cn": "实现梦想的哆啦A梦",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 40461
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/e4/37916_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/e4/37916_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9c/e4/37916_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/e4/37916_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/e4/37916_jp.jpg"
+          },
+          "name": "生きてる生きてく(通常盤)",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 37916
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/b3/37460_gtg0V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/b3/37460_gtg0V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/b3/37460_gtg0V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/b3/37460_gtg0V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/b3/37460_gtg0V.jpg"
+          },
+          "name": "ドラえもん",
+          "name_cn": "哆啦A梦 大山版",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 37460
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/2e/32028_GGnJ7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/2e/32028_GGnJ7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/2e/32028_GGnJ7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/2e/32028_GGnJ7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/2e/32028_GGnJ7.jpg"
+          },
+          "name": "テレビアニメ30周年記念 ドラえもんテレビ主題歌全集",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 32028
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/93/f5/31808_b3TL4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/93/f5/31808_b3TL4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/93/f5/31808_b3TL4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/93/f5/31808_b3TL4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/93/f5/31808_b3TL4.jpg"
+          },
+          "name": "大長編ドラえもん",
+          "name_cn": "哆啦A梦大长篇",
+          "relation": "书籍",
+          "type": 1,
+          "id": 31808
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/20/27684_D4ySY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/20/27684_D4ySY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/69/20/27684_D4ySY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/20/27684_D4ySY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/20/27684_D4ySY.jpg"
           },
           "name": "ドラえもん",
           "name_cn": "哆啦A梦",
-          "relation": "主线故事",
-          "type": 2,
-          "id": 18692
+          "relation": "书籍",
+          "type": 1,
+          "id": 27684
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d9/24/56569_cTZ7l.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d9/24/56569_cTZ7l.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d9/24/56569_cTZ7l.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d9/24/56569_cTZ7l.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d9/24/56569_cTZ7l.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/04/324794_g9yG9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/04/324794_g9yG9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/04/324794_g9yG9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/04/324794_g9yG9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/04/324794_g9yG9.jpg"
           },
-          "name": "ぼくの生まれた日",
-          "name_cn": "我出生的那一天",
-          "relation": "衍生",
-          "type": 2,
-          "id": 56569
+          "name": "Universe",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 324794
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ed/c0/103718_IBy6B.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ed/c0/103718_IBy6B.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ed/c0/103718_IBy6B.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ed/c0/103718_IBy6B.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ed/c0/103718_IBy6B.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/14/272511_DIzHS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/14/272511_DIzHS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/50/14/272511_DIzHS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/14/272511_DIzHS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/14/272511_DIzHS.jpg"
           },
-          "name": "帰ってきたドラえもん",
-          "name_cn": "哆啦A梦回来了",
-          "relation": "衍生",
-          "type": 2,
-          "id": 103718
+          "name": "空へ (特別盤)",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 272511
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/08/121739_eXJK2.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/08/121739_eXJK2.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0a/08/121739_eXJK2.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/08/121739_eXJK2.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/08/121739_eXJK2.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/cf/276090_KTeT9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/cf/276090_KTeT9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/53/cf/276090_KTeT9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/cf/276090_KTeT9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/cf/276090_KTeT9.jpg"
           },
-          "name": "ドラえもん ぼく、桃太郎のなんなのさ",
-          "name_cn": "哆啦A梦：我是桃太郎的什么呢？",
-          "relation": "衍生",
-          "type": 2,
-          "id": 121739
+          "name": "THE GIFT",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 276090
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/9f/121745_vjjPY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/9f/121745_vjjPY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/15/9f/121745_vjjPY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/9f/121745_vjjPY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/9f/121745_vjjPY.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6f/3f/318550_zqsG2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6f/3f/318550_zqsG2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6f/3f/318550_zqsG2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6f/3f/318550_zqsG2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6f/3f/318550_zqsG2.jpg"
           },
-          "name": "2112年 ドラえもん誕生",
-          "name_cn": "2112年哆啦A梦的诞生",
-          "relation": "衍生",
-          "type": 2,
-          "id": 121745
+          "name": "虹",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 318550
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/d4/121747_CUNZx.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/d4/121747_CUNZx.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/81/d4/121747_CUNZx.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/d4/121747_CUNZx.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/d4/121747_CUNZx.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/23/288936_auBwB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/23/288936_auBwB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/23/288936_auBwB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/23/288936_auBwB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/23/288936_auBwB.jpg"
           },
-          "name": "のび太の結婚前夜",
-          "name_cn": "大雄的结婚前夜",
-          "relation": "衍生",
-          "type": 2,
-          "id": 121747
+          "name": "ドラえもん",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 288936
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/5c/126198_8W1qT.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/5c/126198_8W1qT.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5f/5c/126198_8W1qT.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/5c/126198_8W1qT.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/5c/126198_8W1qT.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/26/36126_D54W8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/26/36126_D54W8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2a/26/36126_D54W8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/26/36126_D54W8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/26/36126_D54W8.jpg"
           },
-          "name": "45年後… 〜未来のぼくがやって来た〜",
-          "name_cn": "哆啦A梦 45年后…～来自未来的我～",
-          "relation": "衍生",
+          "name": "ドラえもん",
+          "name_cn": "哆啦A梦 日视版",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 126198
+          "id": 36126
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/50/473_aUIaI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/20/50/473_aUIaI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/20/50/473_aUIaI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/20/50/473_aUIaI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/20/50/473_aUIaI.jpg"
+          },
+          "name": "映画ドラえもん のび太の恐竜2006",
+          "name_cn": "哆啦A梦：大雄的恐龙2006",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 473
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/f0/475_ZoRdV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/f0/475_ZoRdV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/f0/475_ZoRdV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/f0/475_ZoRdV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/f0/475_ZoRdV.jpg"
+          },
+          "name": "映画ドラえもん のび太の新魔界大冒険 〜7人の魔法使い〜",
+          "name_cn": "哆啦A梦：大雄的奇幻大冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 475
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/90/95800_3W3kM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/90/95800_3W3kM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/90/95800_3W3kM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/90/95800_3W3kM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/90/95800_3W3kM.jpg"
+          },
+          "name": "STAND BY ME ドラえもん",
+          "name_cn": "哆啦A梦：伴我同行",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 95800
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/8b/476_XEsli.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/8b/476_XEsli.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/59/8b/476_XEsli.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/8b/476_XEsli.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/8b/476_XEsli.jpg"
+          },
+          "name": "映画ドラえもん のび太と緑の巨人伝",
+          "name_cn": "哆啦A梦：大雄与绿巨人传",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 476
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/07/477_tYbYY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/07/477_tYbYY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/07/477_tYbYY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/07/477_tYbYY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/07/477_tYbYY.jpg"
+          },
+          "name": "映画ドラえもん 新・のび太の宇宙開拓史",
+          "name_cn": "哆啦A梦：新·大雄的宇宙开拓史",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 477
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/25/4558_e1tPc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/25/4558_e1tPc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/95/25/4558_e1tPc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/25/4558_e1tPc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/25/4558_e1tPc.jpg"
+          },
+          "name": "映画ドラえもん のび太の人魚大海戦",
+          "name_cn": "哆啦A梦：大雄的人鱼大海战",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 4558
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c6/b7/19130_dFnGq.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c6/b7/19130_dFnGq.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c6/b7/19130_dFnGq.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c6/b7/19130_dFnGq.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c6/b7/19130_dFnGq.jpg"
+          },
+          "name": "映画ドラえもん 新・のび太と鉄人兵団 〜はばたけ 天使たち〜",
+          "name_cn": "哆啦A梦：新·大雄与铁人兵团",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 19130
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/c6/24815_n60zl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/c6/24815_n60zl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c0/c6/24815_n60zl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/c6/24815_n60zl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/c6/24815_n60zl.jpg"
+          },
+          "name": "映画ドラえもん のび太と奇跡の島 〜アニマル アドベンチャー〜",
+          "name_cn": "哆啦A梦：大雄与奇跡之岛~动物历险记~",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 24815
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/ec/55467_YsXyK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/ec/55467_YsXyK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ae/ec/55467_YsXyK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/ec/55467_YsXyK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/ec/55467_YsXyK.jpg"
+          },
+          "name": "映画ドラえもん のび太のひみつ道具博物館",
+          "name_cn": "哆啦A梦：大雄的秘密道具博物馆",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 55467
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/43/78282_77Uh1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/43/78282_77Uh1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/43/78282_77Uh1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/43/78282_77Uh1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/43/78282_77Uh1.jpg"
+          },
+          "name": "映画ドラえもん 新・のび太の大魔境 〜ペコと5人の探検隊〜",
+          "name_cn": "哆啦A梦：新·大雄的大魔境~贝可与5人探险队~",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 78282
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/87/108093_NRNcn.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/87/108093_NRNcn.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/59/87/108093_NRNcn.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/87/108093_NRNcn.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/87/108093_NRNcn.jpg"
+          },
+          "name": "映画ドラえもん のび太の宇宙英雄記",
+          "name_cn": "哆啦A梦：大雄的宇宙英雄记",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 108093
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7b/1a/139670_H5ISE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7b/1a/139670_H5ISE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7b/1a/139670_H5ISE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7b/1a/139670_H5ISE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7b/1a/139670_H5ISE.jpg"
+          },
+          "name": "映画ドラえもん 新・のび太の日本誕生",
+          "name_cn": "哆啦A梦：新·大雄的日本诞生",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 139670
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f9/41/187132_hPITP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f9/41/187132_hPITP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f9/41/187132_hPITP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f9/41/187132_hPITP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f9/41/187132_hPITP.jpg"
+          },
+          "name": "映画ドラえもん のび太の南極カチコチ大冒険",
+          "name_cn": "哆啦A梦：大雄的南极冰冰凉大冒险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 187132
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/23/217072_GNrwc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/23/217072_GNrwc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a9/23/217072_GNrwc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/23/217072_GNrwc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/23/217072_GNrwc.jpg"
+          },
+          "name": "映画ドラえもん のび太の宝島",
+          "name_cn": "哆啦A梦：大雄的金银岛",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 217072
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/6e/263808_DqGpF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/6e/263808_DqGpF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9a/6e/263808_DqGpF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/6e/263808_DqGpF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/6e/263808_DqGpF.jpg"
+          },
+          "name": "映画ドラえもん のび太の月面探査記",
+          "name_cn": "哆啦A梦：大雄的月球探险记",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 263808
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/f5/285759_z4dsD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/f5/285759_z4dsD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/f5/285759_z4dsD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/f5/285759_z4dsD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/f5/285759_z4dsD.jpg"
+          },
+          "name": "映画ドラえもん のび太の新恐竜",
+          "name_cn": "哆啦A梦：大雄的新恐龙",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 285759
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/d1/325571_dmy0q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/d1/325571_dmy0q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/d1/325571_dmy0q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/d1/325571_dmy0q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/d1/325571_dmy0q.jpg"
+          },
+          "name": "映画ドラえもん のび太の宇宙小戦争2021",
+          "name_cn": "哆啦A梦：大雄的宇宙小战争 2021",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 325571
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/68/390873_pKrd2.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/68/390873_pKrd2.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/68/390873_pKrd2.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/68/390873_pKrd2.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/68/390873_pKrd2.jpg"
+          },
+          "name": "映画ドラえもん のび太と空の理想郷",
+          "name_cn": "哆啦A梦：大雄与天空的理想乡",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 390873
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/23/444359_T3i5x.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/23/444359_T3i5x.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/23/444359_T3i5x.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/23/444359_T3i5x.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/23/444359_T3i5x.jpg"
+          },
+          "name": "映画ドラえもん のび太の地球交響楽",
+          "name_cn": "哆啦A梦：大雄的地球交响乐",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 444359
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/a9/515422_4gK7I.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/a9/515422_4gK7I.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9f/a9/515422_4gK7I.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/a9/515422_4gK7I.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/a9/515422_4gK7I.jpg"
+          },
+          "name": "映画ドラえもん のび太の絵世界物語",
+          "name_cn": "哆啦A梦：大雄的绘画奇遇记",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 515422
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/6e/583519_Wpwh7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/6e/583519_Wpwh7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/52/6e/583519_Wpwh7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/6e/583519_Wpwh7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/6e/583519_Wpwh7.jpg"
+          },
+          "name": "映画ドラえもん 新・のび太の海底鬼岩城",
+          "name_cn": "哆啦A梦：新・大雄的海底鬼岩城",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 583519
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/3b/495441_FcWwB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/3b/495441_FcWwB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/3b/495441_FcWwB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/3b/495441_FcWwB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/3b/495441_FcWwB.jpg"
+          },
+          "name": "ドラえもん 宇宙ふしぎ大探検",
+          "name_cn": "哆啦A梦：宇宙不可思议大探险",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 495441
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7b/e9/498119_Iszgh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7b/e9/498119_Iszgh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7b/e9/498119_Iszgh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7b/e9/498119_Iszgh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7b/e9/498119_Iszgh.jpg"
+          },
+          "name": "ドラえもん 宇宙ふしぎ大探検2 〜太陽系のひみつ〜",
+          "name_cn": "哆啦A梦：宇宙不可思议大探险2 太阳系的秘密",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 498119
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/19/498187_m9Cl5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/19/498187_m9Cl5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/06/19/498187_m9Cl5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/19/498187_m9Cl5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/19/498187_m9Cl5.jpg"
+          },
+          "name": "ドラえもん 宇宙ふしぎ大探検3 〜地球のふしぎ〜",
+          "name_cn": "哆啦A梦：宇宙不可思议大探险3 不可思议的地球",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 498187
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/8a/592357_ZUGww.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/8a/592357_ZUGww.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/69/8a/592357_ZUGww.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/69/8a/592357_ZUGww.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/69/8a/592357_ZUGww.jpg"
+          },
+          "name": "プラネタリウム ドラえもん 宇宙の模型",
+          "name_cn": "天文馆哆啦A梦：宇宙的模型",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 592357
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/af/fa/247921_6R422.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/af/fa/247921_6R422.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/af/fa/247921_6R422.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/fa/247921_6R422.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/fa/247921_6R422.jpg"
+          },
+          "name": "ドラえもん のび太のヒマラヤ行進記",
+          "name_cn": "哆啦A梦·大雄的喜马拉雅行进记",
+          "relation": "其他",
+          "type": 2,
+          "id": 247921
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4a/35/183495_DMHt4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4a/35/183495_DMHt4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4a/35/183495_DMHt4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4a/35/183495_DMHt4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4a/35/183495_DMHt4.jpg"
+          },
+          "name": "ドラえもん&キテレツ大百科「コロ助のはじめてのおつかい」",
+          "name_cn": "",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 183495
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/9b/449058_4gSQ7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/9b/449058_4gSQ7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/9b/449058_4gSQ7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/9b/449058_4gSQ7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/9b/449058_4gSQ7.jpg"
+          },
+          "name": "ドラえもん＆SF短編 宇宙からのオトシダマ",
+          "name_cn": "哆啦A梦&SF短篇：从天而降的压岁钱",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 449058
         }
       ]
     }
@@ -6991,16 +8988,19 @@
       },
       "summary": "3分間で怪獣を倒す正義のヒーローになった、お馴染みしんのすけ一家が繰り広げる騒動を描いた長篇アニメーション・シリーズの第13作。監督は「劇場版 Piaキャロットへようこそ!!　～さやかの恋物語～」のムトウユージ。臼井儀人による原作コミックを基に、ムトウ監督ときむらひでふみが共同で脚本を執筆。撮影監督に「映画 クレヨンしんちゃん　嵐を呼ぶ夕陽のカスカベボーイズ」の梅田俊之があたっている。声の出演は「劇場版 金色のガッシュベル！！101番目の魔物」の矢島晶子。ゲスト出演に「ゴジラ・モスラ・キングギドラ　大怪獣総攻撃」の村井国夫",
       "name": "クレヨンしんちゃん 伝説を呼ぶブリブリ 3分ポッキリ大進撃",
-      "name_cn": "蜡笔小新 呼唤传说！三分钟嘎巴大进攻",
+      "name_cn": "蜡笔小新：3分钟百变虎口脱险",
       "tags": [
         "2005",
         "SHIN-EI",
         "アニメ",
         "シンエイ动画",
+        "ムトウユージ",
         "剧场版",
         "原创",
         "搞笑",
+        "日本",
         "映画",
+        "武藤裕治",
         "汤浅政明",
         "漫改",
         "漫画改",
@@ -7010,11 +9010,14 @@
       "infobox": [
         {
           "key": "中文名",
-          "value": "蜡笔小新 呼唤传说！三分钟嘎巴大进攻"
+          "value": "蜡笔小新：3分钟百变虎口脱险"
         },
         {
           "key": "别名",
           "value": [
+            {
+              "v": "蜡笔小新 呼唤传说！三分钟嘎巴大进攻"
+            },
             {
               "v": "蜡笔小新 呼唤传说！不理不理3分钟大进击"
             }
@@ -7095,7 +9098,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/ac/8991_qPJJ8.jpg"
           },
           "name": "クレヨンしんちゃん 嵐を呼ぶ!夕陽のカスカベボーイズ",
-          "name_cn": "蜡笔小新 呼风唤雨！夕阳下的春日部男孩",
+          "name_cn": "蜡笔小新：风起云涌！夕阳下的春日部男孩",
           "relation": "前传",
           "type": 2,
           "id": 8991
@@ -7109,7 +9112,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/69/8995_ouP5T.jpg"
           },
           "name": "クレヨンしんちゃん 伝説を呼ぶ 踊れ!アミーゴ!",
-          "name_cn": "蜡笔小新 呼唤传说！跳吧！朋友！",
+          "name_cn": "蜡笔小新：Amigo！森巴入侵计划",
           "relation": "续集",
           "type": 2,
           "id": 8995
@@ -7170,8 +9173,8 @@
         "ZARD",
         "トムス·エンタテインメント",
         "剧场版",
+        "剧情",
         "动画",
-        "动画电影",
         "原创",
         "古内一成",
         "名侦探柯南",
@@ -7196,6 +9199,14 @@
         {
           "key": "中文名",
           "value": "名侦探柯南 水平线上的阴谋"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "名侦探柯南剧场版M9"
+            }
+          ]
         },
         {
           "key": "上映年度",
@@ -7223,7 +9234,7 @@
         },
         {
           "key": "原作",
-          "value": "青山剛昌"
+          "value": "青山剛昌（小学館「週刊少年サンデー」連載中）"
         },
         {
           "key": "企画",
@@ -7258,8 +9269,88 @@
           "value": "東京ムービー（トムス・エンタテインメント）"
         },
         {
+          "key": "原案",
+          "value": "原案協力：奥山豊彦、都築伸一郎、林正人、石川昌彦"
+        },
+        {
+          "key": "美术监督",
+          "value": "渋谷幸弘；補佐：野村裕樹"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "加藤恭次"
+        },
+        {
+          "key": "音乐制作",
+          "value": "音楽協力：深井昭彦・角田博昭・冬柴正則（読売テレビエンタープライズ）"
+        },
+        {
+          "key": "助理制片人",
+          "value": "斎藤朋之、北田修一"
+        },
+        {
+          "key": "Marketing Director",
+          "value": "有馬孝真、葛西智恵"
+        },
+        {
+          "key": "文艺担当",
+          "value": "飯沢洋子"
+        },
+        {
+          "key": "动画制片人",
+          "value": "西村政行"
+        },
+        {
           "key": "製作",
-          "value": "小学館、読売テレビ放送、日本テレビ放送網、小学館プロダクション、東宝（发行）、トムス・エンタテインメント"
+          "value": "「名探偵コナン」製作委員会：株式会社小学館（藤森匠、井手靖、窪康男、備前島幹人）、読売テレビ放送株式会社（西垣慎一郎、弘中謙、三好順作、田中和美、二村真一、菊池浩志）、日本テレビ放送網株式会社（平井文宏、門屋大輔、飯沼伸之、福田和美、吉田和生、平方真由美）、株式会社小学館プロダクション（安齋進、小川健、有馬孝真、葛西智恵、山田成彦）、東宝株式会社（斎春雄、村田祐一）、株式会社トムス・エンタテインメント（吉田力雄、熊井良助、青野史郎、木田努）；植田文郎、小石川伸哉、奥田誠治、斎藤裕、藤原正道、加藤俊三"
+        },
+        {
+          "key": "分镜",
+          "value": "山本泰一郎；協力：奥脇雅晴、亀垣一、平野俊貴"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "牟田清司、清水義治、佐藤千春、かわむらあきお（河村明夫）、糸島雅彦"
+        },
+        {
+          "key": "构图",
+          "value": "Layout检查：牟田清司、清水義治、佐藤千春、かわむらあきお、糸島雅彦"
+        },
+        {
+          "key": "原画",
+          "value": "牟田清司、清水義治、鍋島修、川口隆、村中博美、早川淳一、金井次郎、増田信博、とみながまり、志村泉、星名靖男、野武洋行、井口忠一、青野厚司、名村英敏、三浦厚也、松坂定俊、小坂知、諏訪可奈恵、大島美和、福士真由美、早川加寿子、藤岡真紀、椛島洋介、高橋成之、荒木弥緒、泰野好紹、苫政三、松本澄子、細居美恵子、なかじまちゅうじ、畑良子、内田シンヤ（内田信也）、小田真弓、田中千幸（田中ちゆき）、渡部ゆかり、藤原りえ、市原圭子、談議祐子、上本英津子、佐藤哲也、長路由紀子、藤田宗克、細山正樹、児玉健二、能地清、木下由美子、中島美子、高橋紀子、大野泰江、今野宏昭、鈴木克、橋本正則、石井繁、西野大、高野裕文、桑原周枝、青山剛昌、ビッグバン、スタジオ・ムー、スタジオライブ、アニメ・アール、ダブル・アール、スタジオMAT、スタジオ・リバティ、ういん堂、ARP、ミゾ企劃"
+        },
+        {
+          "key": "补间动画",
+          "value": "スタジオ・ブーメラン（長田秀明、高橋徳詔、岸俊輔、松尾一幸、丹野宏、伊藤真紀）、スタジオMAT（奥田延、口井令佳、盛田詩絵、臼井倫子）、はだしぷろ（飯田浩美、江口崇裕、長濱富士子、石崎理美、岡野美里）、菁画舎（洞内梢、伊藤万理子、古川恵理、有福綾子、秋谷有紀恵、加藤愛仁、山田伊万里、中川富由季、大庭小枝、落合瞳、高舘秀樹）、ビッグバン（高野裕文、池田雅洋、石橋新一）、XEBEC M2、ARP、スタジオキャッツ、フロントライン、R.I.C、ミゾ企劃"
+        },
+        {
+          "key": "背景美术",
+          "value": "Y.A.P.(有)石垣プロダクション（光元博行、野村裕樹、菅野博司、李根錫、小山田有希、福島孝喜、大橋美奈子、染川真範、源恵子、鈴木梨沙、清水巧、高橋小百合、宍戸太一、田村文香、秋山祐恵）、大塚伸弘、縫部文江、伊藤朱美、川名俊英、中庄司悦子、石垣努"
+        },
+        {
+          "key": "摄影",
+          "value": "トムス・フォト（T.D.F.）（金井弘、小川隆久、白尾仁志、西山仁、伊藤敦子、根本超、小林学、佐々木明美、中小原明典、野口龍生、澤見泰治、山本三良、米屋真一、押見綾、小林健一）；協力：トムス・フォト（T.D.I.）（川田敏寛、大坪聡、大西博、中谷修、安田猛、稲葉進之介、春原幸子、関崎淳）"
+        },
+        {
+          "key": "3DCG",
+          "value": "studio A-CAT（後藤優一、矢羽田和徳、中西信棋、末岡正美、島田真宗）&A-CAT ALL STAFF"
+        },
+        {
+          "key": "动画检查",
+          "value": "谷口昌彦、鐘木勉、奥谷周子"
+        },
+        {
+          "key": "色彩指定",
+          "value": "堀川直子、上村貴子、上田みず恵"
+        },
+        {
+          "key": "制作进行",
+          "value": "清水英利子、安榮卓也、村石辰也"
+        },
+        {
+          "key": "发行",
+          "value": "東宝"
         }
       ],
       "total_episodes": 1,
@@ -7267,9 +9358,11 @@
       "eps": 1,
       "meta_tags": [
         "剧场版",
+        "悬疑",
         "日本",
         "原创",
-        "推理"
+        "推理",
+        "剧情"
       ],
       "volumes": 0,
       "series": false,
@@ -7491,6 +9584,7 @@
       "name_cn": "电影 光之美少女 Max Heart",
       "tags": [
         "2005",
+        "2005年4月",
         "precure",
         "プリキュア",
         "东映",
@@ -7499,9 +9593,12 @@
         "光之美少女",
         "剧场版",
         "原创",
+        "子供向",
         "幼女向",
         "志水淳児",
         "百合",
+        "羽原大介",
+        "补番",
         "魔法少女"
       ],
       "infobox": [
@@ -7889,6 +9986,18 @@
         {
           "key": "IMDb_id",
           "value": "tt4083422"
+        },
+        {
+          "key": "脚本",
+          "value": "脚本：早川正（2005 - 2007）、高橋ナツコ（2005 - 2009）、大野木寛（2005 - 2015）、与口奈津江（2005 - 2008・2015 - 2017・2020）、岡部優子（2006 - 2010）、みなみとらのすけ（2007）、富永淳一（2007 - 2015・2024）、藤本信行（2007 - 2013）、水野宗徳（2007 - 2016・2021 - 2024）、廣川浩二（2008 - 2009）、相内美生（2008 - 2018）、渡辺歩（2008）、小林英造（2010 - 2011・2016 - 2019・2021・2023）、清水東（2010 - ）、大野敏哉（2011）、井上テテ（2011）、大塩哲史（2011）、原島興子（2012）、千葉美鈴（2012 - 2016）、楠葉宏三（2012）、田中智章（2012 - 2017）、伊藤公志（2014 - ）、八鍬新之介（2015）、たかはしあつし（2015・2017）、鈴木洋介（2017 - ）、福島直浩（2017 - 2020）、佐藤大（2017 - 2020）、岡野慎吾（2017）、高橋悠也（2018 - 2019）、永野たかひろ（2019 - 2021）、内海照子（2020 - 2022・2024）、五十嵐由美（2021）、諸橋隼人（2021 - 2023）、天野慎也（2022 - 2024、2025）、綿種アヤ（2022 - 2024）、志茂文彦（2022）、田村安彦（2023）、村山功（2023 - ）、（2023）、酒井健作（2023 - 2024）、西中千晶（2023 - 2024）、神沢ミホ（2024 - ）、藤田俊哉（2025） 脚本協力\t富永淳一（2010 - 2011・2013・2015）、田中智章（2012・2016）、水野宗徳（2014）、伊藤公志（2014）、関智一（2018 - 2019）、三石琴乃（2019）、荻安理紗（2023）"
+        },
+        {
+          "key": "分镜",
+          "value": "米たにヨシトモ（2005）、善聡一郎（2005 - 2006・2010 - ）、楠葉宏三（2005 - 2007・2010 - 2017）、鈴木卓夫（2005 - 2006・2019 - 2021）、釘宮洋（2005・2009・2017・2020）、やすみ哲夫（2005）、前田康成（2005 - 2008）、塚田庄英（2005 - 2006）、安藤敏彦（2005 - 2011・2023）、古屋勝悟（2005）、玉野陽美（2005）、寺本幸代（2005 - 2006・2008 - 2009・2014・2017 - 2020・2022）、しぎのあきら（2005 - 2006）、三家本泰美（2005 - 2007）、三宅綱太郎（2005 - ）、腰繁男（2005 - 2023、2025）、荒川直樹（2005 - 2006）、木村哲（2005 - 2010・2013）、鈴木孝義（2005 - 2016）、渡辺温子（2006 - 2007）、細谷秋夫（2006 - 2007）、秦義人（2007 - 2009）、松園公（2007 - 2008）、大森雅幸（2008）、高橋渉（2008 - 2012）、矢嶋哲生（2008・2022 - 2023）、井硲清高（2008）、江島泰男（2008）、宮下新平（2008 - 2010）、三原秀憲（2008）、渡辺歩（2008 - 2010）、山岡実（2008 - 2014・2020 - 2022）、佐藤真人（2008 - 2009）、誌村宏明（2008 - 2014）、松田てつあき（2009）、藤原良二（2009・2013・2018）、八鍬新之介（2010 - 2012・2015・2017）、そ〜とめこういちろう（2010 - 2011・2016・2018 - 2021・2023 - ）、吉野芙紀（2010）、大杉宜弘（2010 - 2011・2014・2016 - 2019）、高木晴美（2010）、西田健一（2011 - 2016）、井出安軌（2011 - 2013・2016 - 2017）、今井一暁（2011 - 2016・2018・2021）、しのみやすゆき（2011 - 2012）、高柳哲司（2011・2019・2021 - 2023）、橋本アキラ（2012）、今泉賢一（2012）、吉田光春（2012）、村野佑太（2012 - 2013）、大宅光子（2012 - 2013）、矢花馨（2013）、高橋敦史（2013 - 2015・2017 - 2018・2021）、福本潔（2013）、氏家友和（2014 - ）、小原唯（2014 - 2016）、パクキョンスン[注 92]（2014 - 2015・2017 - 2023）、山本秀世（2014 - 2016）、大庭秀昭（2015）、青山弘（2015・2017）、小倉宏文（2015 - 2016・2020 - ）、堀之内元（2015）、とよしまアタル（2015）、永居慎平（2015・2022）、園田雅裕（2015）、川崎逸朗（2015）、西村昭子（2015 - 2016）、五月女誠子（2015 - 2018）、寺田和男（2016 - 2018・2020）、小柴純弥（2016 - 2017）、大野和寿（2016）、川越淳（2016・2019・2022 - 2024）、鈴木孝聡（2016 - 2017）、金子伸吾（2017・2019・2023 - 2024）、高橋謙仁（2017）、三上喜子（2017）、鳥羽明子（2017・2020）、岩田義彦（2017）、木野雄（2017・2019 - ）、山口晋（2017 - 2019）、岡野慎吾（2017 - 2018）、鈴木大司（2017 - 2022）、堂山卓見（2017 - 2019）、もりたけし（2018）、小笠原卓也（2019・2023）、佐野隆史（2019 - 2022・2024 - ）、ひのもとひろし（2019 - 2020）、くずおかひろし（2019・2021）、新井宣圭（2020）、杉島邦久（2020 - 2021）、ソエジマヤスフミ（2021）、岩岡夢子（2021 - 2024）、加藤敏幸（2021）、平池芳正（2021）、藤間謙太（2021）、森山瑠潮（2021 - ）、関野関十（2021）、八木郁乃（2021・2022）、山口務（2022）、奥田誠治（2022）、竜恩遠（2022）、小林彩（2022）、神戸佑太（2022）、森山博幸（2022）、平井峰太郎（2022 - 2024）、大島克也（2022 - ）、斉藤光（2023）、江﨑好絵（2023）、新井美穂（2024）、藤井康晶（2024）、入好さとる（2024 - ）、福田裕也（2025）"
+        },
+        {
+          "key": "演出",
+          "value": "寺本幸代（2005 - 2006・2008 - 2009・2014・2022）、善聡一郎（2005・2008・2018 - 2019・2021）、楠葉宏三（2005 - 2007・2012 - 2016）、鈴木卓夫（2005 - 2006）、釘宮洋（2005 - 2017）、やすみ哲夫[注 95]（2005）、宮本幸裕（2005 - 2006）、塚田庄英（2005 - 2010）、安藤敏彦（2005 - 2011）、古屋勝悟（2005 - 2006）、玉野陽美（2005）、三宅綱太郎（2005 - ）、佐土原武之（2005・2016 - 2017）、三家本泰美（2005 - 2007）、腰繁男（2005 - 2023、2025）、渡辺温子（2005 - 2007）、キャロライン・キング（2006）、秦義人（2007 - 2010）、細谷秋夫（2007）、矢嶋哲生（2007 - 2009）、八鍬新之介（2007 - 2012・2017）、山岡実（2007 - 2009・2013 - 2014・2020 - 2022）、松園公（2007 - 2008）、高橋渉（2008 - 2012）、江島泰男（2008）、大杉宜弘（2008・2010・2016）、佐藤真人（2008 - 2009）、鹿島典夫（2008・2021 - ）、松田てつあき（2009）、吉野芙紀（2009 - 2011）、松村樹里亜（2009 - 2011）、宮下新平（2009 - 2010）、鈴木孝義（2010 - 2012）、鈴木洋介[注 100]（2010）、今井一暁（2010 - 2016）、パクキョンスン（2011・2016・2018・2022・2023）、しのみやすゆき（2011 - 2012）、西田健一（2011 - 2016）、小原唯（2012 - 2016）、矢花馨（2012 - 2013）、吉田光春（2012・2014）、村野佑太（2012）、大宅光子（2013）、高橋敦史（2013 - 2015）、福本潔（2013）、根岸宏樹（2013）、古賀一臣（2013 - 2014）、氏家友和（2013 - ）、敷島博英（2014）、佐々木純人（2014）、鈴木孝聡（2014 - 2017）、藤田健太郎（2015）、大塚隆寛（2015）、小倉宏文（2015 - 2016）、とよしまアタル（2015）、石井希美（2015 - 2016）、横田一平（2016）、岩田義彦（2016 - 2020）、高橋謙仁（2016 - 2017）、大野和寿（2016）、三上喜子（2016 - 2017）、金子祥之（2016 - 2017）、飯村正之（2017）、五月女有作（2017 - 2021）、山口晋（2017 - 2018）、岡野慎吾（2017）、堂山卓見（2017 - 2019）、大賀まこと（2018）、八木郁乃（2018 - 2019・2021）、うえだしげる（2018）、藤倉拓也[注 97]（2018 - 2022）、形部正（2018）、鈴木大司（2018・2020 - ）、木野雄（2018 - 2019）、今村洋輝（2019）、大島克也（2019 - ）、酒井和男（2019）、岩岡夢子（2020 - 2022）、斉藤秀二（2020 - 2021）、小林彩（2020 - 2023）、白幡良志之（2021）、森山瑠潮（2021 - ）、新井美穂（2021 - 2024）、粟井重紀（2022 - ）、谷口工作（2022）、池野華乃（2022 - ）、小笠原卓也（2022・2023）、松永浩太郎（2022 - 2023）、江上潔（2023 - ）、いのうえだいすけ（2023 - ）、藤代和也（2024）、勝間田容督（2024 - ）、大江峰生（2024）、角原勇輝（2024 - ）、日下部優樹（2024 - ）、中村優香（2024）、加藤大緒（2025）"
         }
       ],
       "total_episodes": 892,

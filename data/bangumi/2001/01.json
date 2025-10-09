@@ -21,6 +21,8 @@
         "MADHouse",
         "TV",
         "TVB",
+        "体育",
+        "原创",
         "子供向",
         "日本",
         "木宫之龙",
@@ -30,6 +32,8 @@
         "热血",
         "竞技",
         "童年",
+        "补旧番",
+        "运动",
         "金李",
         "陀螺",
         "马克斯"
@@ -82,23 +86,27 @@
           "value": "川瀬敏文"
         },
         {
+          "key": "Copyright",
+          "value": "©HUDSON SOFT/TAKARA・ベイブレードプロジェクト・テレビ東京"
+        },
+        {
           "key": "原作",
           "value": "青木たかお（小学館「コロコロコミック」連載）"
         },
         {
-          "key": "机械设定补佐",
-          "value": "寺島慎也"
+          "key": "机械设定",
+          "value": "やまだたかひろ；辅佐：寺島慎也"
         },
         {
           "key": "录音",
-          "value": "市川修、阿部智佳子"
+          "value": "市川修、阿部智佳子（第1話～第10話）→阿部智佳子、立花康夫、松田悟（第11話～第51話）；录音工作室：タバック"
         },
         {
           "key": "音乐制作指导",
           "value": "宿利剛"
         },
         {
-          "key": "助理制片人",
+          "key": "联合制片人",
           "value": "丸山正雄、金炳憲"
         },
         {
@@ -116,6 +124,14 @@
         {
           "key": "製作",
           "value": "テレビ東京、読売広告社、d-rights"
+        },
+        {
+          "key": "音响",
+          "value": "アーツプロ；音响制作担当：大地祐子（第1話～第49話）、町田薫（第41話～第51話）"
+        },
+        {
+          "key": "音效",
+          "value": "サウンドボックス（倉橋静男）"
         }
       ],
       "total_episodes": 51,
@@ -123,7 +139,10 @@
       "eps": 51,
       "meta_tags": [
         "TV",
-        "日本"
+        "日本",
+        "运动",
+        "漫画改",
+        "子供向"
       ],
       "volumes": 0,
       "series": false,
@@ -158,6 +177,20 @@
           "relation": "续集",
           "type": 2,
           "id": 9349
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/1d/418599_KGZEW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/1d/418599_KGZEW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/1d/418599_KGZEW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/1d/418599_KGZEW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/1d/418599_KGZEW.jpg"
+          },
+          "name": "BEYBLADE X",
+          "name_cn": "霸旋陀螺 极限突破",
+          "relation": "不同世界观",
+          "type": 2,
+          "id": 418599
         },
         {
           "images": {
@@ -200,6 +233,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 487813
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1e/58/536587_LF57a.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1e/58/536587_LF57a.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1e/58/536587_LF57a.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1e/58/536587_LF57a.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1e/58/536587_LF57a.jpg"
+          },
+          "name": "「爆転シュートベイブレード」～Fighting Spirits -SONG FOR BEYBLADE",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 536587
         },
         {
           "images": {
@@ -253,11 +300,11 @@
       "date": "2001-01-06",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/a6/26017_U93jA.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/a6/26017_U93jA.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/7e/a6/26017_U93jA.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/a6/26017_U93jA.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/a6/26017_U93jA.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/7e/a6/26017_4FiVW.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7e/a6/26017_4FiVW.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/7e/a6/26017_4FiVW.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7e/a6/26017_4FiVW.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/7e/a6/26017_4FiVW.jpg"
       },
       "summary": "もはやゾイドが戦争の道具ではなくなった時代の惑星Zi。そこではゾイドバトル連盟の公正なルールのもと、ゾイド対ゾイドの戦闘競技「ゾイドバトル」が繰り広げられていた。\n　　バトルフィールドを回ってゾイドパーツを収集していたジャンク屋のビット・クラウドは、ふとしたことからチーム・ブリッツのゾイド・ライガーゼロと出会い、ゾイドバトルに参戦することになる。",
       "name": "ゾイド新世紀/ゼロ",
@@ -266,6 +313,8 @@
         "2001",
         "TV",
         "XEBEC",
+        "机兽新世纪ZERO",
+        "机战",
         "童年"
       ],
       "infobox": [
@@ -309,20 +358,86 @@
           "value": "星期六"
         },
         {
+          "key": "官方网站",
+          "value": "http://www.shopro.co.jp/tv/program/zoids/zero/"
+        },
+        {
           "key": "播放电视台",
           "value": "TBS系"
         },
         {
           "key": "播放结束",
           "value": "2001年6月30日"
+        },
+        {
+          "key": "Copyright",
+          "value": "(C)ＴＯＭＹ(C)ShoPro"
+        },
+        {
+          "key": "动画制片人",
+          "value": "下地志直、千野孝敏、平松巨規"
+        },
+        {
+          "key": "制片人",
+          "value": "中沢利洋、諸冨洋史"
+        },
+        {
+          "key": "企画",
+          "value": "丸谷嘉彦、久保雅一、吉田紀之"
+        },
+        {
+          "key": "3DCG",
+          "value": "小学館ミュージック&デジタルエンタテイメント"
+        },
+        {
+          "key": "3DCG 导演",
+          "value": "茶屋知樹"
+        },
+        {
+          "key": "3DCG制作人",
+          "value": "藤井篤"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "田中統英"
+        },
+        {
+          "key": "录音",
+          "value": "HALF H・P STUDIO、内田直継、廣岡信貴 [第10話～第26話]"
+        },
+        {
+          "key": "音响",
+          "value": "HALF H・P STUDIO（野口貴由）"
+        },
+        {
+          "key": "机械设定",
+          "value": "机械设定协力：苑田文明、大河原紀雄、大崎仁規、トミーデジタルデザインスタジオ（西久保成子、藤本栄子）、高橋久直、奥津正道"
+        },
+        {
+          "key": "美术监督",
+          "value": "朝倉千登勢；美术助手：山田勝宏"
+        },
+        {
+          "key": "协力",
+          "value": "トミーデジタルデザインスタジオ、シリコンスタジオ"
+        },
+        {
+          "key": "设定",
+          "value": "長井靖之 [第1話～第7話]；设定协力：トミー"
+        },
+        {
+          "key": "音效",
+          "value": "蔭山満"
         }
       ],
       "total_episodes": 26,
       "id": 26017,
       "eps": 26,
       "meta_tags": [
+        "机战",
         "TV",
-        "日本"
+        "日本",
+        "原创"
       ],
       "volumes": 0,
       "series": false,
@@ -424,21 +539,26 @@
       "date": "2001-01-08",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/36/3055_k4epk.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/36/3055_k4epk.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/28/36/3055_k4epk.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/36/3055_k4epk.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/36/3055_k4epk.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/28/36/3055_dGo2b.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/28/36/3055_dGo2b.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/28/36/3055_dGo2b.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/28/36/3055_dGo2b.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/28/36/3055_dGo2b.jpg"
       },
       "summary": "动画《永恒传说》根据PS版《永恒传说》改编，共13集。原作是传说系列作品中的一部，动画版精细的还原了游戏中的细腻设定和独具魅力的登场人物，白热的战斗场景与游戏中的感觉也相差无几。此外还加上了动画版原创的人物和故事，豪华的声优阵容也为本作增色不少。虽然是一部2001年出品的动画作品，但在传说系列FANS中拥有不俗的口碑，动画的成功之处在于与游戏比较结合，传闻看过该动画后会激起重新通关《永恒传说》的冲动。",
       "name": "Tales of Eternia THE ANIMATION",
       "name_cn": "永恒传说",
       "tags": [
         "2001",
+        "2001年",
+        "2001年1月",
+        "NAMCO",
         "TOE",
         "TV",
+        "Tales",
         "XEBEC",
         "传说系列",
+        "堀江由衣",
         "崩",
         "永恒传说",
         "游戏改",
@@ -469,8 +589,16 @@
           "value": "2001年1月8日"
         },
         {
+          "key": "放送星期",
+          "value": "星期一"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.mxtv.co.jp/tales/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "WOWOW"
         },
         {
           "key": "播放结束",
@@ -478,19 +606,23 @@
         },
         {
           "key": "导演",
-          "value": "豊田淳、名取佐和子"
+          "value": "うえだしげる"
         },
         {
           "key": "音乐",
-          "value": "有泽孝纪"
+          "value": "有澤孝紀"
+        },
+        {
+          "key": "Copyright",
+          "value": "©️いのまたむつみ©️NBGI"
         },
         {
           "key": "原作",
-          "value": "NAMCO"
+          "value": "NAMCO、豊田淳、名取佐和子"
         },
         {
           "key": "企画",
-          "value": "赤仓一久、磴一弘"
+          "value": "赤倉一久、磴一弘"
         },
         {
           "key": "系列构成",
@@ -510,11 +642,11 @@
         },
         {
           "key": "人物原案",
-          "value": "いのまたむつみ"
+          "value": "いのまたむつみ[猪股むつみ]"
         },
         {
-          "key": "人物设定",
-          "value": "前田明寿、山冈信一"
+          "key": "道具设计",
+          "value": "加藤初重[加藤はつえ]、山岡信一"
         },
         {
           "key": "美术监督",
@@ -530,7 +662,7 @@
         },
         {
           "key": "音响监督",
-          "value": "三间雅文、柏仓つとむ"
+          "value": "三間雅文、柏倉ツトム"
         },
         {
           "key": "动画制作",
@@ -538,7 +670,43 @@
         },
         {
           "key": "制作",
-          "value": "読売広告社･ナムコ"
+          "value": "読売広告社"
+        },
+        {
+          "key": "人物设定",
+          "value": "前田明寿"
+        },
+        {
+          "key": "执行制片人",
+          "value": "製作総指揮：大月俊倫"
+        },
+        {
+          "key": "制片人",
+          "value": "渡辺和哉、千野孝敏"
+        },
+        {
+          "key": "製作",
+          "value": "NAMCO"
+        },
+        {
+          "key": "剪辑",
+          "value": "大竹弥生；助手：板部浩章"
+        },
+        {
+          "key": "录音",
+          "value": "山田富二男；录音工作室：オムニバス・ジャパン"
+        },
+        {
+          "key": "录音助理",
+          "value": "池田裕貴"
+        },
+        {
+          "key": "音响",
+          "value": "テクノサウンド、中島朋子"
+        },
+        {
+          "key": "音效",
+          "value": "倉橋静男（サウンドボックス）"
         }
       ],
       "total_episodes": 13,
@@ -638,19 +806,26 @@
         "TV",
         "studiodeen",
         "スタジオディーン",
+        "三木真一郎",
+        "体育",
         "剧场版",
+        "动画",
         "头文字D",
         "子安武人",
         "山口史嗣",
+        "日本",
         "日本动画",
         "漂移",
         "漫改",
         "漫画改",
         "热血",
+        "燃",
         "竞技",
         "童年",
+        "续作",
         "赛车",
-        "运动"
+        "运动",
+        "青春"
       ],
       "infobox": [
         {
@@ -784,6 +959,7 @@
       "eps": 1,
       "meta_tags": [
         "剧场版",
+        "日本",
         "漫画改"
       ],
       "volumes": 0,
@@ -914,11 +1090,11 @@
       "date": "2001-01-08",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/a5/62893_27w5L.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/a5/62893_27w5L.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/82/a5/62893_27w5L.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/a5/62893_27w5L.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/a5/62893_27w5L.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/a5/62893_L6q6m.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/a5/62893_L6q6m.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/82/a5/62893_L6q6m.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/a5/62893_L6q6m.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/a5/62893_L6q6m.jpg"
       },
       "summary": "在全国空手道竞赛中，一位系白带的少年——刃牙，居然轻易地击败了连续三次夺得空手道冠军的末堂选手……究竟这个来历不明的小子是谁呢？刃牙的独门格斗技巧，造成格斗界极大的震撼，也吸引各地高手前来向他挑战，一场一场令人血脉沸腾的激战展开了……血淋淋、赤裸裸！激发原始兽性，充满官能刺激的战斗。",
       "name": "グラップラー刃牙",
@@ -927,6 +1103,7 @@
         "2001",
         "2001年",
         "2001年1月",
+        "GroupTac",
         "TV",
         "グループ·タック",
         "刃牙",
@@ -1053,17 +1230,115 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/a5/62893_27w5L.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/a5/62893_27w5L.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/82/a5/62893_27w5L.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/a5/62893_27w5L.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/a5/62893_27w5L.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/45/47646_mm9Sl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/45/47646_mm9Sl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/03/45/47646_mm9Sl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/45/47646_mm9Sl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/45/47646_mm9Sl.jpg"
           },
           "name": "グラップラー刃牙",
           "name_cn": "刃牙",
-          "relation": "前传",
+          "relation": "书籍",
+          "type": 1,
+          "id": 47646
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8a/3d/62891_72v7V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8a/3d/62891_72v7V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8a/3d/62891_72v7V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8a/3d/62891_72v7V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8a/3d/62891_72v7V.jpg"
+          },
+          "name": "グラップラー刃牙",
+          "name_cn": "刃牙 OVA",
+          "relation": "不同演绎",
           "type": 2,
-          "id": 62893
+          "id": 62891
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/df/d8/62894_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/df/d8/62894_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/df/d8/62894_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/df/d8/62894_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/df/d8/62894_jp.jpg"
+          },
+          "name": "グラップラー刃牙 オリジナル・サウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 62894
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/b5/62895_Cc8uv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/b5/62895_Cc8uv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/81/b5/62895_Cc8uv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/b5/62895_Cc8uv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/b5/62895_Cc8uv.jpg"
+          },
+          "name": "哀 believe",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 62895
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/18/62897_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/18/62897_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/18/62897_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/18/62897_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/18/62897_jp.jpg"
+          },
+          "name": "Reborn グラップラー刃牙エンディングテーマ",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 62897
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/67/62898_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/67/62898_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/67/62898_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/67/62898_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/67/62898_jp.jpg"
+          },
+          "name": "all alone",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 62898
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c7/c0/62899_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c7/c0/62899_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c7/c0/62899_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c7/c0/62899_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c7/c0/62899_jp.jpg"
+          },
+          "name": "loved...",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 62899
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fb/97/186404_jjj33.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fb/97/186404_jjj33.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fb/97/186404_jjj33.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fb/97/186404_jjj33.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fb/97/186404_jjj33.jpg"
+          },
+          "name": "刃牙道 OAD",
+          "name_cn": "刃牙道 OAD",
+          "relation": "番外篇",
+          "type": 2,
+          "id": 186404
         },
         {
           "images": {
@@ -1201,91 +1476,17 @@
     }
   },
   {
-    "title": "世界名作劇場・完結版 トラップ一家物語",
-    "date": "2001-01-01",
-    "bangumi": {
-      "date": "2001-01-01",
-      "platform": "TV",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/87/211293_3VETF.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/87/211293_3VETF.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/6b/87/211293_3VETF.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/87/211293_3VETF.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/87/211293_3VETF.jpg"
-      },
-      "summary": "91年に1年間にわたって放映されたTVシリーズを新たな視点で再編集した完結版。音楽を通じて結ばれたトラップ一家の愛情物語。あの感動の体験をもう1度。(CDジャーナル　データベースより)",
-      "name": "世界名作劇場・完結版 トラップ一家物語",
-      "name_cn": "世界名作剧场・完结版 崔普一家物语",
-      "tags": [],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "世界名作剧场・完结版 崔普一家物语"
-        },
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "世界名作剧场・完结版 音乐之声"
-            }
-          ]
-        },
-        {
-          "key": "话数",
-          "value": "2"
-        },
-        {
-          "key": "放送开始",
-          "value": "2001年"
-        },
-        {
-          "key": "发售日",
-          "value": "2002年9月21日"
-        }
-      ],
-      "total_episodes": 2,
-      "id": 211293,
-      "eps": 2,
-      "meta_tags": [
-        "TV",
-        "日本",
-        "小说改"
-      ],
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/5e/65212_pZjJJ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/5e/65212_pZjJJ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7d/5e/65212_pZjJJ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/5e/65212_pZjJJ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/5e/65212_pZjJJ.jpg"
-          },
-          "name": "トラップ一家物語",
-          "name_cn": "崔普一家物语",
-          "relation": "全集",
-          "type": 2,
-          "id": 65212
-        }
-      ]
-    }
-  },
-  {
     "title": "グラップラー刃牙",
     "date": "2001-01-08",
     "bangumi": {
       "date": "2001-01-08",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/a5/62893_27w5L.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/a5/62893_27w5L.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/82/a5/62893_27w5L.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/a5/62893_27w5L.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/a5/62893_27w5L.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/a5/62893_L6q6m.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/a5/62893_L6q6m.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/82/a5/62893_L6q6m.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/a5/62893_L6q6m.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/a5/62893_L6q6m.jpg"
       },
       "summary": "在全国空手道竞赛中，一位系白带的少年——刃牙，居然轻易地击败了连续三次夺得空手道冠军的末堂选手……究竟这个来历不明的小子是谁呢？刃牙的独门格斗技巧，造成格斗界极大的震撼，也吸引各地高手前来向他挑战，一场一场令人血脉沸腾的激战展开了……血淋淋、赤裸裸！激发原始兽性，充满官能刺激的战斗。",
       "name": "グラップラー刃牙",
@@ -1294,6 +1495,7 @@
         "2001",
         "2001年",
         "2001年1月",
+        "GroupTac",
         "TV",
         "グループ·タック",
         "刃牙",
@@ -1420,11 +1622,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/a5/62893_27w5L.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/a5/62893_27w5L.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/82/a5/62893_27w5L.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/a5/62893_27w5L.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/a5/62893_27w5L.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/a5/62893_L6q6m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/a5/62893_L6q6m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/82/a5/62893_L6q6m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/a5/62893_L6q6m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/a5/62893_L6q6m.jpg"
           },
           "name": "グラップラー刃牙",
           "name_cn": "刃牙",

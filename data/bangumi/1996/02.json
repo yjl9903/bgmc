@@ -26,6 +26,7 @@
         "东映",
         "东映アニメーション",
         "东映动画",
+        "冒险",
         "动画",
         "原创",
         "又燃又基",
@@ -41,7 +42,6 @@
         "童年",
         "童年的经典",
         "葛西治",
-        "补旧番",
         "超级撒亚人4",
         "长篇",
         "鸟山明",
@@ -81,6 +81,10 @@
           "value": "1997年11月19日"
         },
         {
+          "key": "音乐",
+          "value": "徳永暁人、菊池俊輔"
+        },
+        {
           "key": "Copyright",
           "value": "©バードスタジオ/集英社・フジテレビ・  東映アニメーション"
         },
@@ -98,11 +102,15 @@
         },
         {
           "key": "动画制作",
-          "value": "東映アニメーション"
+          "value": "東映動画（東映アニメーション）"
         },
         {
-          "key": "制作",
-          "value": "フジテレビ  東映"
+          "key": "製作",
+          "value": "フジテレビ、東映動画（東映アニメーション）"
+        },
+        {
+          "key": "系列监督",
+          "value": "葛西治"
         }
       ],
       "total_episodes": 65,
@@ -315,6 +323,20 @@
           "relation": "不同世界观",
           "type": 2,
           "id": 459435
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/d6/543599_aOtDo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/d6/543599_aOtDo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/d6/543599_aOtDo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/d6/543599_aOtDo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/d6/543599_aOtDo.jpg"
+          },
+          "name": "ドラゴンボールスーパーカードゲーム",
+          "name_cn": "龙珠超卡牌游戏",
+          "relation": "游戏",
+          "type": 4,
+          "id": 543599
         }
       ]
     }
@@ -341,16 +363,30 @@
         "TV",
         "勇者シリーズ",
         "勇者指令",
+        "勇者系列",
         "原创",
         "望月智充",
         "机战",
+        "科幻",
         "童年",
-        "萝卜"
+        "萝卜",
+        "超级系"
       ],
       "infobox": [
         {
           "key": "中文名",
           "value": "勇者指令"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "COMMAND OF BRAVES DAGWON"
+            },
+            {
+              "v": "勇者指令DAGWON"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -359,6 +395,23 @@
         {
           "key": "放送开始",
           "value": "1996年2月3日"
+        },
+        {
+          "key": "官方网站",
+          "value": [
+            {
+              "k": "勇者系列",
+              "v": "http://www.yusha.net/dagwon/"
+            },
+            {
+              "k": "Sunrise World",
+              "v": "https://sunrise-world.net/titles/pickup_011.php"
+            },
+            {
+              "k": "Sunrise",
+              "v": "https://www.sunrise-inc.co.jp/work/detail.php?cid=11"
+            }
+          ]
         },
         {
           "key": "播放电视台",
@@ -394,7 +447,7 @@
         },
         {
           "key": "动画制作",
-          "value": "サンライズ"
+          "value": "サンライズ第7スタジオ"
         },
         {
           "key": "制作",
@@ -411,6 +464,26 @@
         {
           "key": "剪辑",
           "value": "布施由美子・野尻由紀子（ＹＡスタッフ）"
+        },
+        {
+          "key": "协力",
+          "value": "大野光仁、国弘高史、八島健一、幸日佐志"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "永田守弘"
+        },
+        {
+          "key": "主动画师",
+          "value": "鈴木竜也、鈴木卓也"
+        },
+        {
+          "key": "录音",
+          "value": "調整：成清豊、成田一明、武藤雅人・杣澤佳枝"
+        },
+        {
+          "key": "演出",
+          "value": "山口祐司（DN演出）"
         }
       ],
       "total_episodes": 48,

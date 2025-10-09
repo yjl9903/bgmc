@@ -19,15 +19,26 @@
         "2022",
         "2022年10月",
         "2022年12月",
+        "2023",
         "2023年1月",
+        "GALLOP",
         "StudioGallop",
         "TV",
+        "TVA",
+        "ぎゃろっぷ",
+        "动画",
+        "喜剧",
         "大地丙太郎",
+        "奇幻",
         "搞笑",
         "日常",
+        "日本",
+        "校园",
+        "泡面",
         "泡面番",
         "漫改",
-        "漫画改"
+        "漫画改",
+        "萝卜"
       ],
       "infobox": [
         {
@@ -202,9 +213,11 @@
       "id": 385411,
       "eps": 28,
       "meta_tags": [
+        "喜剧",
         "TV",
         "日本",
-        "漫画改"
+        "漫画改",
+        "子供向"
       ],
       "volumes": 0,
       "series": false,
@@ -242,17 +255,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/db/441940_c57Ku.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/db/441940_c57Ku.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/34/db/441940_c57Ku.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/db/441940_c57Ku.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/db/441940_c57Ku.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/34/db/441940_8Sf5G.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/34/db/441940_8Sf5G.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/34/db/441940_8Sf5G.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/34/db/441940_8Sf5G.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/34/db/441940_8Sf5G.jpg"
           },
           "name": "劇場版 僕とロボコ",
           "name_cn": "剧场版 我与机器子",
           "relation": "番外篇",
           "type": 2,
           "id": 441940
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/40/532778_A542F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/40/532778_A542F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/40/532778_A542F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/40/532778_A542F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/40/532778_A542F.jpg"
+          },
+          "name": "UNION ARENA",
+          "name_cn": "携战之境",
+          "relation": "游戏",
+          "type": 4,
+          "id": 532778
         }
       ]
     }
@@ -280,12 +307,14 @@
         "WEB",
         "studiodeen",
         "ボブ白旗",
+        "マーヴィージャック",
         "七大罪",
         "剧场版",
         "奇幻",
         "战斗",
         "漫改",
         "漫画改",
+        "续集",
         "雨宫天"
       ],
       "infobox": [
@@ -408,6 +437,20 @@
           "relation": "续集",
           "type": 2,
           "id": 446249
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/8b/571426_cU09c.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/8b/571426_cU09c.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0a/8b/571426_cU09c.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/8b/571426_cU09c.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/8b/571426_cU09c.jpg"
+          },
+          "name": "七つの大罪 怨嗟のエジンバラ (Soundtrack from the Netflix Film)",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 571426
         }
       ]
     }
@@ -431,9 +474,11 @@
       "tags": [
         "2022",
         "Netflix",
+        "TV",
         "WEB",
         "ぐでたま",
         "原创",
+        "可爱",
         "搞笑",
         "治愈",
         "泡面番",
@@ -588,6 +633,7 @@
         "OVA",
         "TV",
         "剧场版",
+        "动画电影",
         "喜剧",
         "小俣真一",
         "小原好美",
@@ -595,12 +641,14 @@
         "搞笑",
         "日常",
         "日本",
+        "日本动画",
         "校园",
         "漫改",
         "漫画改",
         "狗粮",
         "畠山守",
         "神作",
+        "纯爱",
         "续作",
         "赤坂明",
         "辉夜大小姐",
@@ -644,7 +692,7 @@
         },
         {
           "key": "导演",
-          "value": "畠山守(小俣真一)"
+          "value": "畠山守（小俣真一）"
         },
         {
           "key": "人物设定",
@@ -657,6 +705,14 @@
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "音响",
+          "value": "マジックカプセル；音响制作担当：見留滉平"
+        },
+        {
+          "key": "录音助理",
+          "value": "三嶋晴子"
         }
       ],
       "total_episodes": 1,
@@ -666,6 +722,7 @@
         "剧场版",
         "校园",
         "恋爱",
+        "日本",
         "漫画改"
       ],
       "volumes": 0,
@@ -771,6 +828,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 427514
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/f5/565802_Yh9m3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/f5/565802_Yh9m3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/f5/565802_Yh9m3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/f5/565802_Yh9m3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/f5/565802_Yh9m3.jpg"
+          },
+          "name": "かぐや様は告らせたい 大人への階段",
+          "name_cn": "辉夜大小姐想让我告白 通往大人的阶梯",
+          "relation": "续集",
+          "type": 2,
+          "id": 565802
         }
       ]
     }
@@ -793,17 +864,23 @@
       "name_cn": "",
       "tags": [
         "2022",
+        "2022年10月",
         "2022年12月",
         "2023",
         "2023年1月",
+        "TV",
         "WEB",
         "YostarPictures",
+        "中国",
+        "动画",
         "国产",
+        "国创",
         "搞笑",
         "日常",
         "明日方舟",
         "泡面番",
         "游戏改",
+        "游改",
         "短片",
         "福瑞",
         "重力井动画",
@@ -825,6 +902,14 @@
         {
           "key": "官方网站",
           "value": "https://ak.hypergryph.com/lee"
+        },
+        {
+          "key": "导演",
+          "value": "杰里米(杰里米里杰)"
+        },
+        {
+          "key": "音乐",
+          "value": "杨光、黄健怡、Chris Trczinski、武勇恒、Alec Haavik、Nicholas McBride、赵可、Toby Mak、胡清文"
         },
         {
           "key": "企划",
@@ -873,10 +958,6 @@
         {
           "key": "制作统筹",
           "value": "李宇驰"
-        },
-        {
-          "key": "导演",
-          "value": "杰里米(杰里米里杰)"
         },
         {
           "key": "总作画监督",
@@ -1027,10 +1108,6 @@
           "value": "潘佳杰、李宇驰"
         },
         {
-          "key": "音乐",
-          "value": "杨光、黄健怡、Chris Trczinski、武勇恒、Alec Haavik、Nicholas McBride、赵可、Toby Mak、胡清文"
-        },
-        {
           "key": "音效混音",
           "value": "上海唧咪文化传播有限公司"
         },
@@ -1096,6 +1173,8 @@
       "eps": 6,
       "meta_tags": [
         "游戏改",
+        "日常",
+        "中国",
         "WEB"
       ],
       "volumes": 0,
@@ -1113,7 +1192,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/34/225878_ox8Ax.jpg"
           },
           "name": "明日方舟",
-          "name_cn": "",
+          "name_cn": "明日方舟",
           "relation": "游戏",
           "type": 4,
           "id": 225878
@@ -1235,7 +1314,9 @@
       "summary": "",
       "name": "映画かいけつゾロリ ラララ♪スターたんじょう",
       "name_cn": "",
-      "tags": [],
+      "tags": [
+        "剧场版"
+      ],
       "infobox": [
         {
           "key": "别名",
@@ -1316,9 +1397,15 @@
       "tags": [
         "2022",
         "2022年",
+        "2022年10月",
+        "2023",
         "A-1Pictures",
+        "A-1_Pictures",
+        "アニメ映画",
+        "丸尾みほ",
         "催泪",
         "剧场版",
+        "动画",
         "动画电影",
         "原恵一",
         "原惠一",
@@ -1327,11 +1414,16 @@
         "悬疑",
         "推理",
         "日本",
+        "日本动画",
         "校园",
         "治愈",
         "电影",
+        "表番",
         "轻小说改",
         "轻改",
+        "辻村深月",
+        "镜之孤城",
+        "霸凌",
         "青春"
       ],
       "infobox": [
@@ -1403,15 +1495,11 @@
         },
         {
           "key": "动画制片人",
-          "value": "藤田祥雄&渋谷晃尚"
-        },
-        {
-          "key": "总制片人",
-          "value": "制作概括：清水暁、加藤淳"
+          "value": "藤田祥雄、渋谷晃尚"
         },
         {
           "key": "助理制片人",
-          "value": "小布施顕介；副制片人：古橋宗太、秋田周平、片山暁穂"
+          "value": "小布施顕介"
         },
         {
           "key": "执行制片人",
@@ -1444,6 +1532,10 @@
         {
           "key": "协力",
           "value": "人设协力：板垣彰子、和田萌"
+        },
+        {
+          "key": "副制片人",
+          "value": "古橋宗太、秋田周平、片山暁穂"
         }
       ],
       "total_episodes": 1,
@@ -1525,14 +1617,17 @@
       "tags": [
         "2022",
         "OLM",
+        "OLMTEAMOTA",
         "OVA",
         "TV",
         "TVSP",
         "pokemon",
         "原创",
         "宝可梦",
+        "日本",
         "汤山邦彦",
         "游戏改",
+        "童年",
         "米村正二",
         "精灵宝可梦"
       ],
@@ -1732,20 +1827,26 @@
       "name": "THE FIRST SLAM DUNK",
       "name_cn": "灌篮高手",
       "tags": [
+        "2021",
         "2022",
         "2022年",
         "2022年12月",
         "2023",
         "3D",
+        "JUMP",
         "三渲二",
         "东映",
         "东映アニメーション",
         "东映动画",
         "井上雄彦",
+        "体育",
         "剧场版",
+        "动画",
         "动画电影",
         "日本",
         "日本动画",
+        "校园",
+        "江原康之",
         "漫改",
         "漫画改",
         "灌篮高手",
@@ -1924,6 +2025,7 @@
       "eps": 1,
       "meta_tags": [
         "剧场版",
+        "日本",
         "运动",
         "漫画改"
       ],
@@ -1963,11 +2065,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/03/407867_4AsmS.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/03/407867_4AsmS.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4b/03/407867_4AsmS.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/03/407867_4AsmS.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/03/407867_4AsmS.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4b/03/407867_bTUgF.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4b/03/407867_bTUgF.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4b/03/407867_bTUgF.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4b/03/407867_bTUgF.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4b/03/407867_bTUgF.jpg"
           },
           "name": "コリンズ",
           "name_cn": "",
@@ -2053,14 +2155,20 @@
       "tags": [
         "2022",
         "2022年10月",
+        "2022年12月",
+        "2023年1月",
         "TMS",
         "TV",
         "TelecomAnimationFilm",
         "WEB",
+        "动画",
         "原创",
         "大河内一楼",
+        "日本",
         "漫改",
         "漫画改",
+        "犯罪",
+        "畠中佑",
         "酒向大辅",
         "鲁邦三世"
       ],
@@ -2371,212 +2479,253 @@
     }
   },
   {
-    "title": "苍兰诀 下部",
-    "date": "2022-12-23",
+    "title": "小説 シンカリオンZ ヤマノテ・クライシス: ヤマノテ・クライシス",
+    "date": "2022-12-27",
     "bangumi": {
-      "date": "2022-12-23",
-      "platform": "WEB",
+      "date": "2022-12-27",
+      "platform": "小说",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/30/402540_GpgAC.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/30/402540_GpgAC.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/85/30/402540_GpgAC.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/30/402540_GpgAC.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/30/402540_GpgAC.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d8/04/494221_pl8Cy.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d8/04/494221_pl8Cy.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/d8/04/494221_pl8Cy.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d8/04/494221_pl8Cy.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d8/04/494221_pl8Cy.jpg"
+      },
+      "summary": "シンカリオンZが初の小説化!!\n\nアニメ「シンカリオン」シリーズが初の小説化!前作と「シンカリオンZ」のキャラクター達が、かつてない敵に挑む。舞台は、敵により完全封鎖された山手線の内側。主人公ハヤトとシンの最後の戦いが今、幕を開ける。",
+      "name": "小説 シンカリオンZ ヤマノテ・クライシス: ヤマノテ・クライシス",
+      "name_cn": "",
+      "tags": [],
+      "infobox": [
+        {
+          "key": "出版社",
+          "value": "小学館"
+        },
+        {
+          "key": "价格",
+          "value": "￥1,300"
+        },
+        {
+          "key": "发售日",
+          "value": "2022-12-27"
+        },
+        {
+          "key": "页数",
+          "value": "332"
+        },
+        {
+          "key": "ISBN",
+          "value": "9784091435705"
+        },
+        {
+          "key": "作者",
+          "value": "石橋大助"
+        }
+      ],
+      "total_episodes": 0,
+      "id": 494221,
+      "eps": 0,
+      "meta_tags": [],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 1,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/4a/325638_CARan.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/4a/325638_CARan.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/4a/325638_CARan.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/4a/325638_CARan.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/4a/325638_CARan.jpg"
+          },
+          "name": "新幹線変形ロボ シンカリオンＺ",
+          "name_cn": "新干线变形机器人Z",
+          "relation": "动画",
+          "type": 2,
+          "id": 325638
+        }
+      ]
+    }
+  },
+  {
+    "title": "風都探偵 The STAGE",
+    "date": "2022-12-29",
+    "bangumi": {
+      "date": "2022-12-29",
+      "platform": "演出",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/db/58/545370_PEmL0.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/db/58/545370_PEmL0.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/db/58/545370_PEmL0.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/db/58/545370_PEmL0.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/db/58/545370_PEmL0.jpg"
       },
       "summary": "",
-      "name": "苍兰诀 下部",
-      "name_cn": "",
+      "name": "風都探偵 The STAGE",
+      "name_cn": "风都侦探 The STAGE",
       "tags": [
-        "2023年1月",
-        "WEB",
-        "中国",
-        "仙侠",
-        "动画",
-        "国产",
-        "小说改",
-        "恋爱",
-        "搞笑",
-        "洛水花原",
-        "爱奇艺"
+        "悬疑",
+        "推理",
+        "日本",
+        "特摄",
+        "犯罪"
       ],
       "infobox": [
         {
-          "key": "话数",
-          "value": "12"
+          "key": "中文名",
+          "value": "风都侦探 The STAGE"
         },
         {
-          "key": "放送开始",
-          "value": "2022年12月23日"
+          "key": "集数",
+          "value": "22（东京公演）、10（大阪公演）"
         },
         {
-          "key": "放送星期",
-          "value": "星期五"
+          "key": "开始",
+          "value": "2022-12-29"
         },
         {
-          "key": "导演",
-          "value": "王昕"
+          "key": "结束",
+          "value": "2023-01-25"
         },
         {
-          "key": "出品人",
-          "value": "龚宇、王一栩、张宇成"
+          "key": "主演",
+          "value": "和田雅成、木津つばさ、能條愛未、生駒里奈、上野凱"
         },
         {
-          "key": "总监制",
-          "value": "王晓晖"
+          "key": "音乐",
+          "value": "中川幸太郎、鳴瀬シュウヘイ"
         },
         {
-          "key": "总编审",
-          "value": "王兆楠"
+          "key": "原作",
+          "value": "石ノ森章太郎"
         },
         {
-          "key": "总制片人",
-          "value": "李菲、冯文翠、谢简远   、   王一栩、张宇成"
+          "key": "制作",
+          "value": "東映"
         },
         {
-          "key": "发行总监",
-          "value": "王晓燕"
+          "key": "类型",
+          "value": "舞台剧"
         },
         {
-          "key": "编审",
-          "value": "梁萌、张若聃"
+          "key": "链接",
+          "value": [
+            {
+              "v": "https://stage-fuuto.com/"
+            }
+          ]
         },
         {
-          "key": "宣传",
-          "value": "吴婧妮、李雅璇、郝懿敏"
-        },
-        {
-          "key": "制作监制",
-          "value": "晋民、马岩、苏丽娅"
-        },
-        {
-          "key": "发行人",
-          "value": "唐雯、于翔"
-        },
-        {
-          "key": "海外发行人",
-          "value": "梁丽华、曹书翰、宋雨依、张紫薇、涂馨予、陈钰坤"
-        },
-        {
-          "key": "动画制作",
-          "value": "制作公司：上海恒星引力影视传媒有限公司；联合制作：上海花原文化传播有限公司(洛水花原)"
-        },
-        {
-          "key": "制片人",
-          "value": "王天龙、韩诚洁"
-        },
-        {
-          "key": "监制",
-          "value": "林珊、刘菁蓉"
-        },
-        {
-          "key": "文学策划",
-          "value": "赵嘉颖"
-        },
-        {
-          "key": "脚本",
-          "value": "编剧：王昕、孙旭蕾、张缘"
-        },
-        {
-          "key": "分镜",
-          "value": "王昕"
-        },
-        {
-          "key": "制片",
-          "value": "张缘、张海文、郭洋"
-        },
-        {
-          "key": "执行制片",
-          "value": "赵嘉颖"
-        },
-        {
-          "key": "宣传总监",
-          "value": "孙雅哲"
-        },
-        {
-          "key": "商务总监",
-          "value": "俞依依"
-        },
-        {
-          "key": "平面设计",
-          "value": "王禹博、李明"
-        },
-        {
-          "key": "宣传视频剪辑",
-          "value": "李梦圆"
-        },
-        {
-          "key": "设定原案",
-          "value": "王昕"
-        },
-        {
-          "key": "总作画监督",
-          "value": "赵瑛来(15,16,17,21,22,23)"
-        },
-        {
-          "key": "作画监督",
-          "value": "李龙海(13,18,19,20,24)、赵雪宁(14,18,20,24)、陈盈伃(14,18,20,24)、赵源煦(15,16,17,21,22,23)、徐晨寅(19)、徐小雯(19)、廖菲(19)、王鑫(19)、金正祐(21,22,23)、金基烨(21,22,23)、金钟宪(21,22,23)、闵贤淑(21,22,23)；作监：李育蓁(24)"
+          "key": "配角",
+          "value": "君沢ユウキ、井坂仁美、なだぎ武、相澤莉多、伊藤孝太郎、松本寛也、梅澤裕介、伊藤ナツキ、後藤恭路"
         },
         {
           "key": "演出",
-          "value": "谢伟(13,18,19,20,24)、赵雪宁(14,18,20,24)、谢家铭(14,18,20,24)；总演出导演：梁眞哲(15,16,17,21,22,23)；演出导演：梁眞哲(15,16,17,21,22,23)、安护载(15,16,17,21,22,23)、崔庆熙(21,22,23)、辛相秦(21,22,23)"
+          "value": "毛利亘宏（少年社中）"
+        },
+        {
+          "key": "编剧",
+          "value": "西駿人、毛利亘宏（少年社中）、脚本監修：三条陸"
+        },
+        {
+          "key": "执行制片人",
+          "value": "塚田英明"
+        },
+        {
+          "key": "制片人/制作人",
+          "value": "中村恒太"
+        },
+        {
+          "key": "演出地点",
+          "value": [
+            {
+              "k": "東京公演",
+              "v": "サンシャイン劇場"
+            },
+            {
+              "k": "大阪公演",
+              "v": "梅田芸術劇場 シアター・ドラマシティ"
+            }
+          ]
+        },
+        {
+          "key": "主题歌演出",
+          "value": "上木彩矢 w TAKUYA"
         }
       ],
-      "total_episodes": 12,
-      "id": 402540,
-      "eps": 12,
+      "total_episodes": 32,
+      "id": 545370,
+      "eps": 22,
       "meta_tags": [
-        "恋爱",
-        "小说改",
-        "中国",
-        "WEB"
+        "犯罪",
+        "悬疑",
+        "日本",
+        "推理",
+        "特摄",
+        "演出"
       ],
       "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,
-      "type": 2,
+      "type": 6,
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/ea/390888_jRQ7A.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/ea/390888_jRQ7A.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d3/ea/390888_jRQ7A.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/ea/390888_jRQ7A.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/ea/390888_jRQ7A.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/4b/8055_krmKN.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/4b/8055_krmKN.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/44/4b/8055_krmKN.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/4b/8055_krmKN.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/4b/8055_krmKN.jpg"
           },
-          "name": "苍兰诀",
-          "name_cn": "",
+          "name": "仮面ライダーW",
+          "name_cn": "假面骑士W",
           "relation": "前传",
-          "type": 2,
-          "id": 390888
+          "type": 6,
+          "id": 8055
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/17/423976_9OEsn.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/17/423976_9OEsn.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/83/17/423976_9OEsn.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/17/423976_9OEsn.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/17/423976_9OEsn.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/6f/221759_505o5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/6f/221759_505o5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/6f/221759_505o5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/6f/221759_505o5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/6f/221759_505o5.jpg"
           },
-          "name": "苍兰诀2",
-          "name_cn": "苍兰诀 第二季",
-          "relation": "续集",
-          "type": 2,
-          "id": 423976
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/3d/431924_7C7KK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/3d/431924_7C7KK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/54/3d/431924_7C7KK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/3d/431924_7C7KK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/3d/431924_7C7KK.jpg"
-          },
-          "name": "苍兰诀",
-          "name_cn": "",
-          "relation": "书籍",
+          "name": "風都探偵",
+          "name_cn": "风都侦探",
+          "relation": "不同版本",
           "type": 1,
-          "id": 431924
+          "id": 221759
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/98/332133_PUJQ9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/98/332133_PUJQ9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/81/98/332133_PUJQ9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/98/332133_PUJQ9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/98/332133_PUJQ9.jpg"
+          },
+          "name": "風都探偵",
+          "name_cn": "风都侦探",
+          "relation": "动画",
+          "type": 2,
+          "id": 332133
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/dc/568946_8y23v.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/dc/568946_8y23v.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/dc/568946_8y23v.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/dc/568946_8y23v.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/dc/568946_8y23v.jpg"
+          },
+          "name": "風都探偵 The STAGE オリジナルサウンドトラック",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 568946
         }
       ]
     }
@@ -2599,13 +2748,17 @@
       "name_cn": "",
       "tags": [
         "2022",
+        "2022年",
+        "2022年10月",
         "2022年12月",
         "TV",
         "WEB",
         "一人之下",
         "中国",
+        "中国动画",
         "启缘映画",
         "国产",
+        "国产动画",
         "国漫",
         "奇幻",
         "战斗",
@@ -2663,7 +2816,7 @@
         },
         {
           "key": "总导演",
-          "value": "陈烨"
+          "value": "陈烨、杨兵"
         },
         {
           "key": "分镜",
@@ -2679,71 +2832,67 @@
         },
         {
           "key": "总制片",
-          "value": "「北京启缘映画文化传播有限公司」宋光国"
+          "value": "宋光国"
         },
         {
           "key": "制片",
-          "value": "「上海一魁夺动漫文化传播有限公司」栾宏春、「北京启缘映画文化传播有限公司」兰永明、「Sunflower Studio、Shine Toon」全阳芝、「大连童梦动漫有限公司」何伟、祝慧雯"
+          "value": "栾宏春、兰永明、全阳芝、何伟、祝慧雯"
         },
         {
           "key": "剪辑",
-          "value": "「上海一魁夺动漫文化传播有限公司」陈烨、栾宏春"
+          "value": "陈烨、栾宏春"
         },
         {
           "key": "人物设定",
-          "value": "人物设定：「上海一魁夺动漫文化传播有限公司」陈淑君；人设：「北京橙逸商贸有限公司」刘畅、方立生、时晶"
+          "value": "陈淑君、刘畅、方立生、时晶"
         },
         {
           "key": "道具设计",
-          "value": "道具：「北京橙逸商贸有限公司」刘畅、方立生、时晶"
+          "value": "刘畅、方立生、时晶"
         },
         {
           "key": "美术",
-          "value": "「北京启缘映画文化传播有限公司」任静仪、成功、王祥"
+          "value": "任静仪、成功、王祥"
         },
         {
           "key": "后期合成",
-          "value": "「北京启缘映画文化传播有限公司」武泽民、戴祥、刘溅丹、徐作伟、马欢欢、崔瑞卿"
+          "value": "武泽民、戴祥、刘溅丹、徐作伟、马欢欢、崔瑞卿"
         },
         {
           "key": "翻译",
-          "value": "「北京启缘映画文化传播有限公司」姜海月、许京花"
+          "value": "姜海月、许京花"
         },
         {
           "key": "主演出",
-          "value": "总演出导演：「根动画」高文哲"
+          "value": "高文哲(总演出导演)"
         },
         {
           "key": "演出",
-          "value": "「根动画」金哲玉"
+          "value": "金哲玉"
         },
         {
           "key": "总作画监督",
-          "value": "「根动画」郑哲顺"
-        },
-        {
-          "key": "总监督",
-          "value": "「大连童梦动漫有限公司」杨兵"
+          "value": "郑哲顺"
         },
         {
           "key": "作画监督",
-          "value": "作监：「上海一魁夺动漫文化传播有限公司」陈淑君、「大连童梦动漫有限公司」陈弘毅；作画监督：「根动画」张银顺、朴润英、赵春江"
+          "value": "陈淑君、陈弘毅、张银顺、朴润英、赵春江"
         },
         {
           "key": "构图",
-          "value": "布局：「根动画」俞英美、金一心、李莹哲、李成吉"
+          "value": "布局：俞英美、金一心、李莹哲、李成吉"
         },
         {
           "key": "原画",
-          "value": "「根动画」金卫星、吴秀莲、李善英、朴慧莲、崔成今、李慧心、赵艺香、崔银实、李银星、李香、白银香、林英熙、金聪明、何青海、韩银珠、全英兰、崔春顺、吴银清、黄玉鑫、金南珠、赵静心、金贤淑、「大连童梦动漫有限公司」于淼、孙洋"
+          "value": "金卫星、吴秀莲、李善英、朴慧莲、崔成今、李慧心、赵艺香、崔银实、李银星、李香、白银香、林英熙、金聪明、何青海、韩银珠、全英兰、崔春顺、吴银清、黄玉鑫、金南珠、赵静心、金贤淑、于淼、孙洋"
         },
         {
           "key": "动画检查",
-          "value": "总动检：「无锡奕泓动画有限公司」詹院兵；动检：「大连童梦动漫有限公司」赵仕亮、徐桂华、「无锡奕泓动画有限公司」张绍闯"
+          "value": "总动检：詹院兵；仕亮、徐桂华、张绍闯"
         },
         {
           "key": "制作进行",
-          "value": "「北京启缘映画文化传播有限公司」兰永明、姜海月、「根动画」金春花、朴一顺、杨善熙、「Sunflower Studio、Shine Toon」苏国峰"
+          "value": "兰永明、姜海月、金春花、朴一顺、杨善熙、苏国峰"
         },
         {
           "key": "制作协力",
@@ -2754,20 +2903,20 @@
           "value": "金金珠（Shine Toon）"
         },
         {
-          "key": "色指定",
+          "key": "色彩指定",
           "value": "金金珠（Shine Toon）"
         },
         {
-          "key": "色检",
-          "value": "总色检：「无锡奕泓动画有限公司」严必荣；色检：金金珠（Shine Toon）、「大连童梦动漫有限公司」王惠静、杨文秀、「无锡奕泓动画有限公司」杨凡"
+          "key": "色彩检查",
+          "value": "总色检：严必荣；金金珠（Shine Toon）、王惠静、杨文秀、杨凡"
         },
         {
           "key": "美术监督",
-          "value": "美术总监「北京橙逸商贸有限公司」金百峰；美术监督：王耀东、郭铁忠、周威（光之宇动漫）"
+          "value": "金百峰(美术总监)、王耀东、郭铁忠、周威（光之宇动漫）"
         },
         {
           "key": "场景设计",
-          "value": "「北京橙逸商贸有限公司」金百峰、王磊、刘利东、孙乐、李前进、时莹"
+          "value": "金百峰、王磊、刘利东、孙乐、李前进、时莹"
         }
       ],
       "total_episodes": 12,
@@ -2928,11 +3077,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/ae/507819_9gI33.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/ae/507819_9gI33.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_9gI33.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/ae/507819_9gI33.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ae/507819_9gI33.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/ae/507819_q2J2U.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/ae/507819_q2J2U.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ee/ae/507819_q2J2U.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/ae/507819_q2J2U.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/ae/507819_q2J2U.jpg"
           },
           "name": "一人之下 第六季",
           "name_cn": "",

@@ -38,11 +38,11 @@
         "旅行",
         "日常",
         "日本",
-        "日本动画",
         "治愈",
         "漫改",
         "漫画改",
         "神作",
+        "芙莉莲",
         "葬送的芙莉莲",
         "铃木智寻",
         "魔法"
@@ -127,10 +127,6 @@
           "value": "杉山晋史"
         },
         {
-          "key": "动作作画监督",
-          "value": "岩澤亨(动作导演)"
-        },
-        {
           "key": "概念艺术",
           "value": "吉岡誠子"
         },
@@ -192,7 +188,7 @@
         },
         {
           "key": "OP・ED 分镜",
-          "value": "斎藤圭一郎（OP1）、hohobun（ED1）、吉成鋼（SPED）、村松怜那（ED2)"
+          "value": "斎藤圭一郎（OP1&2）、hohobun（ED1）、吉成鋼（SPED）、村松怜那（ED2)"
         },
         {
           "key": "原画",
@@ -215,7 +211,7 @@
           "value": "辻彩夏、北川朋哉、原科大樹、松井健人、森公太、岩澤亨、小嶋慶祐、藤本航己、刈谷暢秀、礒川和正、藤井邦雄、川崎芳樹、名取孝浩、飯野慎也、浅香守生、瀬口泉、木村拓、湯徳遥、安藤健、室井ふみえ、柿木田隼人、森大貴、イムガヒ(林嘉姬)、斎藤圭一郎"
         }
       ],
-      "total_episodes": 34,
+      "total_episodes": 35,
       "id": 400602,
       "eps": 28,
       "meta_tags": [
@@ -230,6 +226,34 @@
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/75/2d/4521_SHIrh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/75/2d/4521_SHIrh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/75/2d/4521_SHIrh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/75/2d/4521_SHIrh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/75/2d/4521_SHIrh.jpg"
+          },
+          "name": "메이플스토리",
+          "name_cn": "冒险岛",
+          "relation": "联动",
+          "type": 4,
+          "id": 4521
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d7/46/228217_eU0GM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d7/46/228217_eU0GM.jpg"
+          },
+          "name": "第五人格",
+          "name_cn": "",
+          "relation": "联动",
+          "type": 4,
+          "id": 228217
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/bd/305429_axzF3.jpg",
@@ -310,7 +334,7 @@
           },
           "name": "TVアニメ『葬送のフリーレン』公式スターティングガイド",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "其他",
           "type": 1,
           "id": 459398
         },
@@ -352,17 +376,17 @@
           },
           "name": "TVアニメ『葬送のフリーレン』公式ガイドブック ~王都からオイサーストまでの旅路~",
           "name_cn": "",
-          "relation": "书籍",
+          "relation": "其他",
           "type": 1,
           "id": 501356
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/24/515759_1lTHq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/24/515759_1lTHq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0b/24/515759_1lTHq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/24/515759_1lTHq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_1lTHq.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/24/515759_IzWoY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/24/515759_IzWoY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0b/24/515759_IzWoY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/24/515759_IzWoY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/24/515759_IzWoY.jpg"
           },
           "name": "葬送のフリーレン 第2期",
           "name_cn": "葬送的芙莉莲 第二季",
@@ -372,11 +396,25 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/92/457254_6E9f9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/92/457254_6E9f9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fe/92/457254_6E9f9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/92/457254_6E9f9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/92/457254_6E9f9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/27/535646_5GhlD.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/27/535646_5GhlD.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/27/535646_5GhlD.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/27/535646_5GhlD.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/27/535646_5GhlD.jpg"
+          },
+          "name": "小説 アニメ 葬送のフリーレン",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 535646
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/92/457254_4F402.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/92/457254_4F402.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/92/457254_4F402.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/92/457254_4F402.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/92/457254_4F402.jpg"
           },
           "name": "勇者",
           "name_cn": "",
@@ -419,16 +457,21 @@
       "name_cn": "五等分的新娘∽",
       "tags": [
         "2023",
+        "2023夏",
+        "2023年",
         "2023年7月",
         "2023年9月",
         "BiburyAnimationStudios",
         "OVA",
         "SHAFT",
         "TV",
+        "TVSP",
+        "五等分",
         "五等分的新娘",
         "党争",
         "剧场版",
         "后宫",
+        "大知庆一郎",
         "宫本幸裕",
         "恋爱",
         "搞笑",
@@ -436,8 +479,10 @@
         "日本",
         "松冈祯丞",
         "校园",
+        "水瀬いのり",
         "漫改",
         "漫画改",
+        "番外",
         "续作",
         "青春"
       ],
@@ -470,7 +515,7 @@
         },
         {
           "key": "官方网站",
-          "value": "https://www.tbs.co.jp/anime/5hanayome"
+          "value": "https://www.tbs.co.jp/anime/5hanayome/tvsp/"
         },
         {
           "key": "播放电视台",
@@ -573,8 +618,8 @@
           "value": "松川裕也"
         },
         {
-          "key": "总制片人",
-          "value": "久保田光俊（アニメーション統括）"
+          "key": "制作统括",
+          "value": "久保田光俊(アニメーション統括)"
         },
         {
           "key": "制片人",
@@ -606,7 +651,15 @@
         },
         {
           "key": "OP・ED 分镜",
-          "value": "長田寛人（OP）、梅木葵（ED）"
+          "value": "長田寛人 / 梅木葵"
+        },
+        {
+          "key": "OP・ED 演出",
+          "value": "長田寛人 / 梅木葵"
+        },
+        {
+          "key": "监修",
+          "value": "吉澤翠(OP动画监修)"
         },
         {
           "key": "副制片人",
@@ -726,6 +779,20 @@
           "relation": "其他",
           "type": 3,
           "id": 489786
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/57/492389_7bt0Z.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/57/492389_7bt0Z.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cb/57/492389_7bt0Z.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/57/492389_7bt0Z.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/57/492389_7bt0Z.jpg"
+          },
+          "name": "色褪せない気持ち",
+          "name_cn": "",
+          "relation": "角色歌",
+          "type": 3,
+          "id": 492389
         }
       ]
     }
@@ -747,6 +814,7 @@
       "name": "火の鳥 エデンの宙",
       "name_cn": "火之鸟 伊甸之宙",
       "tags": [
+        "2020s",
         "2023",
         "2023年",
         "2023年10月",
@@ -756,6 +824,8 @@
         "WEB",
         "奇幻",
         "手冢治虫",
+        "日本",
+        "期待一波",
         "漫改",
         "漫画改",
         "科幻",
@@ -795,20 +865,24 @@
           "value": "2023年9月13日"
         },
         {
-          "key": "播放结束",
-          "value": "2023年9年13日"
-        },
-        {
           "key": "在线播放平台",
           "value": "Disney+"
         },
         {
-          "key": "原作",
-          "value": "手塚治虫「火の鳥」望郷編"
+          "key": "播放结束",
+          "value": "2023年9年13日"
         },
         {
           "key": "导演",
           "value": "西見祥示郎"
+        },
+        {
+          "key": "音乐",
+          "value": "村松崇継"
+        },
+        {
+          "key": "原作",
+          "value": "手塚治虫「火の鳥」望郷編"
         },
         {
           "key": "脚本",
@@ -817,10 +891,6 @@
         {
           "key": "演出",
           "value": "斉藤亜規子"
-        },
-        {
-          "key": "音乐",
-          "value": "村松崇継"
         },
         {
           "key": "人物设定",
@@ -926,8 +996,8 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/af/6e/25896_FAsgz.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/af/6e/25896_FAsgz.jpg"
           },
-          "name": "火の鳥",
-          "name_cn": "火之鸟 朝日新闻版",
+          "name": "火の鳥（朝日ソノラマ版）",
+          "name_cn": "火之鸟",
           "relation": "书籍",
           "type": 1,
           "id": 25896
@@ -1004,11 +1074,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/6a/445678_BSBYr.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/6a/445678_BSBYr.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f2/6a/445678_BSBYr.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/6a/445678_BSBYr.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/6a/445678_BSBYr.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/6a/445678_AsZdi.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/6a/445678_AsZdi.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f2/6a/445678_AsZdi.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f2/6a/445678_AsZdi.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f2/6a/445678_AsZdi.jpg"
           },
           "name": "火の鳥 エデンの花",
           "name_cn": "火之鸟 伊甸之花",
@@ -1052,12 +1122,18 @@
       "tags": [
         "2023",
         "2023年10月",
+        "2023年秋",
         "Netflix",
+        "TV",
         "WEB",
+        "吸血鬼",
+        "奇幻",
         "恶魔城",
+        "战斗",
         "欧美",
         "游戏改",
-        "美国"
+        "美国",
+        "美国动画"
       ],
       "infobox": [
         {
@@ -1187,14 +1263,18 @@
         "2023年",
         "2023年10月",
         "2023年秋",
+        "2023秋",
         "BrainsBase",
         "TV",
         "むらた雅彦",
         "八代拓",
+        "日本",
+        "村田雅彦",
         "榎木淳弥",
         "消防",
         "漫改",
         "漫画改",
+        "热血",
         "科普",
         "职场",
         "长剧集"
@@ -1553,16 +1633,23 @@
       "name_cn": "大小姐和看门犬",
       "tags": [
         "2023",
+        "2023年",
         "2023年10月",
+        "2023秋",
         "TV",
         "projectNo.9",
         "乙女向",
+        "女性向",
         "少女漫",
         "恋爱",
+        "日本",
+        "日本动画",
+        "校园",
         "梅原裕一郎",
         "榎木淳弥",
         "漫改",
         "漫画改",
+        "皐月彩",
         "高本宣弘",
         "鬼头明里",
         "黑道"
@@ -1759,16 +1846,23 @@
         "2023",
         "2023年",
         "2023年10月",
+        "2023秋",
+        "2024",
         "SILVERLINK.",
         "TV",
         "TVA",
         "冒险",
+        "剧情",
         "奇幻",
         "小林千晃",
         "异世界",
+        "恋爱",
         "战斗",
         "日本",
         "日本动画",
+        "日漫",
+        "村濑步",
+        "村瀬歩",
         "水瀬いのり",
         "漫改",
         "漫画改",
@@ -2073,16 +2167,21 @@
       "name_cn": "极速车魂",
       "tags": [
         "2023",
+        "2023年",
         "2023年10月",
         "2023年7月",
+        "2023秋",
         "FelixFilm",
         "TV",
         "中智仁",
         "内田雄马",
         "头文字D",
+        "山下宪一",
         "日本",
+        "日本动画",
         "漫改",
         "漫画改",
+        "热血",
         "竞技",
         "赛车",
         "运动"
@@ -2254,6 +2353,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e7/73/78796_agbBL.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e7/73/78796_agbBL.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e7/73/78796_agbBL.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e7/73/78796_agbBL.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e7/73/78796_agbBL.jpg"
+          },
+          "name": "新劇場版 頭文字D Legend1 -覚醒-",
+          "name_cn": "头文字D Legend1 -觉醒-",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 78796
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/0c/224299_b2S7E.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/0c/224299_b2S7E.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/bc/0c/224299_b2S7E.jpg",
@@ -2345,19 +2458,24 @@
         "2023",
         "2023年",
         "2023年10月",
+        "2023秋",
         "TV",
         "亲情",
         "养女儿",
         "冒险",
         "厕纸",
         "台风Graphics",
+        "因想当冒险者而前往大都市的女儿已经升到了S级",
         "奇幻",
         "小说改",
         "异世界",
         "战斗",
         "搞笑",
         "日常",
+        "日本",
+        "日本动画",
         "早见沙织",
+        "未确定",
         "村田尚树",
         "治愈",
         "父女",
@@ -2617,12 +2735,17 @@
       "name": "アリスとテレスのまぼろし工場",
       "name_cn": "爱丽丝和特蕾丝的幻影工厂",
       "tags": [
+        "2020s",
         "2022",
         "2022年",
         "2023",
         "2023年",
+        "2023年10月",
         "2023年9月",
+        "2024",
         "MAPPA",
+        "东地和生",
+        "久野美咲",
         "冈田磨里",
         "冈田麿里",
         "剧场版",
@@ -2634,6 +2757,8 @@
         "恋爱",
         "日常",
         "日本",
+        "日本动画",
+        "校园",
         "横山克",
         "电影",
         "石井百合子",
@@ -2699,7 +2824,7 @@
         },
         {
           "key": "人物设定",
-          "value": "石井百合子、清水洋[副]"
+          "value": "石井百合子"
         },
         {
           "key": "总作画监督",
@@ -2711,7 +2836,7 @@
         },
         {
           "key": "色彩设计",
-          "value": "鷲田知子；色彩设计辅佐：佐藤ゆう"
+          "value": "鷲田知子"
         },
         {
           "key": "摄影监督",
@@ -2719,7 +2844,7 @@
         },
         {
           "key": "剪辑",
-          "value": "高橋歩；剪辑辅佐：大谷斉意"
+          "value": "高橋歩"
         },
         {
           "key": "製作",
@@ -2839,7 +2964,10 @@
       "name": "映画 プリキュアオールスターズF",
       "name_cn": "电影 光之美少女 All Stars F",
       "tags": [
+        "2020s",
         "2023",
+        "2023年9月",
+        "precure",
         "プリキュア",
         "东映",
         "东映アニメーション",
@@ -2848,9 +2976,12 @@
         "剧场版",
         "原创",
         "奇幻",
+        "子供向",
         "战斗",
+        "日本",
         "田中仁",
         "田中裕太",
+        "百合",
         "魔法少女"
       ],
       "infobox": [
@@ -2960,59 +3091,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/3f/297318_ZhHbR.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/3f/297318_ZhHbR.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4f/3f/297318_ZhHbR.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/3f/297318_ZhHbR.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/3f/297318_ZhHbR.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/25/196053_1JzOS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/25/196053_1JzOS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b5/25/196053_1JzOS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/25/196053_1JzOS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/25/196053_1JzOS.jpg"
           },
-          "name": "映画 プリキュアミラクルリープ みんなとの不思議な1日",
-          "name_cn": "电影 光之美少女 Miracle Leap 与大家不可思议的一天",
-          "relation": "前传",
-          "type": 2,
-          "id": 297318
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/8e/409323_8axt1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/8e/409323_8axt1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/38/8e/409323_8axt1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/8e/409323_8axt1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/8e/409323_8axt1.jpg"
-          },
-          "name": "ひろがるスカイ！プリキュア",
-          "name_cn": "开阔天空！光之美少女",
+          "name": "キラキラ☆プリキュアアラモード",
+          "name_cn": "光之美少女 食尚甜心",
           "relation": "角色出演",
           "type": 2,
-          "id": 409323
+          "id": 196053
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/40/444756_9r1S1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/40/444756_9r1S1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5b/40/444756_9r1S1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/40/444756_9r1S1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/40/444756_9r1S1.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/db/478589_1X4Y9.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/db/478589_1X4Y9.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a8/db/478589_1X4Y9.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/db/478589_1X4Y9.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/db/478589_1X4Y9.jpg"
           },
-          "name": "うれしくて／ときめき",
+          "name": "「映画プリキュアオールスターズF」フィルムコミック",
           "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 444756
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/b0/444844_b5Ozy.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/b0/444844_b5Ozy.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/4e/b0/444844_b5Ozy.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/b0/444844_b5Ozy.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/b0/444844_b5Ozy.jpg"
-          },
-          "name": "『 映画プリキュアオールスターズＦ』テーマソングシングル",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 444844
+          "relation": "书籍",
+          "type": 1,
+          "id": 478589
         },
         {
           "images": {
@@ -3030,17 +3133,283 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a8/db/478589_1X4Y9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a8/db/478589_1X4Y9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a8/db/478589_1X4Y9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a8/db/478589_1X4Y9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a8/db/478589_1X4Y9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/b0/444844_b5Ozy.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/b0/444844_b5Ozy.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4e/b0/444844_b5Ozy.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/b0/444844_b5Ozy.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/b0/444844_b5Ozy.jpg"
           },
-          "name": "「映画プリキュアオールスターズF」フィルムコミック",
+          "name": "『 映画プリキュアオールスターズＦ』テーマソングシングル",
           "name_cn": "",
-          "relation": "书籍",
-          "type": 1,
-          "id": 478589
+          "relation": "片头曲",
+          "type": 3,
+          "id": 444844
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/40/444756_9r1S1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/40/444756_9r1S1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/40/444756_9r1S1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/40/444756_9r1S1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/40/444756_9r1S1.jpg"
+          },
+          "name": "うれしくて／ときめき",
+          "name_cn": "",
+          "relation": "片尾曲",
+          "type": 3,
+          "id": 444756
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/38/8e/409323_8axt1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/38/8e/409323_8axt1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/38/8e/409323_8axt1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/38/8e/409323_8axt1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/38/8e/409323_8axt1.jpg"
+          },
+          "name": "ひろがるスカイ！プリキュア",
+          "name_cn": "开阔天空！光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 409323
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/75/364932_637zH.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/75/364932_637zH.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/75/364932_637zH.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/75/364932_637zH.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/75/364932_637zH.jpg"
+          },
+          "name": "デリシャスパーティ♡プリキュア",
+          "name_cn": "美味派对♡光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 364932
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/60/78/320857_Wagwa.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/60/78/320857_Wagwa.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/60/78/320857_Wagwa.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/60/78/320857_Wagwa.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/78/320857_Wagwa.jpg"
+          },
+          "name": "トロピカル〜ジュ！プリキュア",
+          "name_cn": "热情闪耀！光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 320857
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4f/3f/297318_dT422.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4f/3f/297318_dT422.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4f/3f/297318_dT422.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4f/3f/297318_dT422.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4f/3f/297318_dT422.jpg"
+          },
+          "name": "映画 プリキュアミラクルリープ みんなとの不思議な1日",
+          "name_cn": "电影 光之美少女 Miracle Leap 与大家不可思议的一天",
+          "relation": "前传",
+          "type": 2,
+          "id": 297318
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/40/14/297094_4TUt8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/40/14/297094_4TUt8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/40/14/297094_4TUt8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/40/14/297094_4TUt8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/40/14/297094_4TUt8.jpg"
+          },
+          "name": "ヒーリングっど♥プリキュア",
+          "name_cn": "Healin' Good ♥ 光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 297094
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/09/56/264588_X7RM5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/09/56/264588_X7RM5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/09/56/264588_X7RM5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/09/56/264588_X7RM5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/09/56/264588_X7RM5.jpg"
+          },
+          "name": "スター☆トゥインクルプリキュア",
+          "name_cn": "Star☆Twinkle 光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 264588
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/21/31/228046_THyGs.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/21/31/228046_THyGs.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/21/31/228046_THyGs.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/21/31/228046_THyGs.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/21/31/228046_THyGs.jpg"
+          },
+          "name": "HUGっと! プリキュア",
+          "name_cn": "拥抱！光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 228046
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8f/1d/1109_RqWOI.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8f/1d/1109_RqWOI.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8f/1d/1109_RqWOI.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8f/1d/1109_RqWOI.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8f/1d/1109_RqWOI.jpg"
+          },
+          "name": "フレッシュプリキュア!",
+          "name_cn": "Fresh 光之美少女！",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 1109
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/52/159826_k1X1J.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/52/159826_k1X1J.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/52/159826_k1X1J.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/52/159826_k1X1J.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/52/159826_k1X1J.jpg"
+          },
+          "name": "魔法つかいプリキュア!",
+          "name_cn": "魔法使光之美少女！",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 159826
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f5/72/119279_5v8yG.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f5/72/119279_5v8yG.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f5/72/119279_5v8yG.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f5/72/119279_5v8yG.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f5/72/119279_5v8yG.jpg"
+          },
+          "name": "Go! プリンセスプリキュア",
+          "name_cn": "Go! Princess 光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 119279
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cb/39/88348_mopoP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cb/39/88348_mopoP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cb/39/88348_mopoP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cb/39/88348_mopoP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cb/39/88348_mopoP.jpg"
+          },
+          "name": "ハピネスチャージプリキュア!",
+          "name_cn": "Happiness Charge 光之美少女！",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 88348
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/d9/55100_Wz4XE.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/d9/55100_Wz4XE.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ee/d9/55100_Wz4XE.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/d9/55100_Wz4XE.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/d9/55100_Wz4XE.jpg"
+          },
+          "name": "ドキドキ!プリキュア",
+          "name_cn": "心跳！光之美少女",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 55100
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/f6/27332_2GH2B.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/f6/27332_2GH2B.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/74/f6/27332_2GH2B.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/f6/27332_2GH2B.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/f6/27332_2GH2B.jpg"
+          },
+          "name": "スマイルプリキュア!",
+          "name_cn": "Smile 光之美少女！",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 27332
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/31/24/15958_5fzWz.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/31/24/15958_5fzWz.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/31/24/15958_5fzWz.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/31/24/15958_5fzWz.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/31/24/15958_5fzWz.jpg"
+          },
+          "name": "Yes!プリキュア5GoGo!",
+          "name_cn": "Yes! 光之美少女5 GoGo!",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 15958
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/4d/3a/15957_EGhe1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4d/3a/15957_EGhe1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/4d/3a/15957_EGhe1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4d/3a/15957_EGhe1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/4d/3a/15957_EGhe1.jpg"
+          },
+          "name": "ふたりはプリキュア Splash Star",
+          "name_cn": "光之美少女 Splash Star",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 15957
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/48/15946_3qZ5C.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/48/15946_3qZ5C.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/82/48/15946_3qZ5C.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/48/15946_3qZ5C.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/48/15946_3qZ5C.jpg"
+          },
+          "name": "ふたりはプリキュア Max Heart",
+          "name_cn": "光之美少女 Max Heart",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 15946
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/9d/11779_y7CW8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/9d/11779_y7CW8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/9d/11779_y7CW8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/9d/11779_y7CW8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/9d/11779_y7CW8.jpg"
+          },
+          "name": "スイートプリキュア♪",
+          "name_cn": "Suite 光之美少女♪",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 11779
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/c3/4124_pPP9r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/c3/4124_pPP9r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/c3/4124_pPP9r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/c3/4124_pPP9r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/c3/4124_pPP9r.jpg"
+          },
+          "name": "ハートキャッチプリキュア!",
+          "name_cn": "Heart Catch 光之美少女！",
+          "relation": "角色出演",
+          "type": 2,
+          "id": 4124
         }
       ]
     }
@@ -3250,9 +3619,11 @@
         "FLCL",
         "NUT",
         "Production.I.G",
+        "ProductionI.G",
         "TV",
         "上村泰",
-        "原创"
+        "原创",
+        "日本"
       ],
       "infobox": [
         {
@@ -3359,9 +3730,14 @@
       "tags": [
         "2023",
         "FLCL",
+        "MontBlancPictures",
         "Production.I.G",
+        "ProductionI.G",
+        "Production_I.G",
         "TV",
+        "动画(TV)",
         "原创",
+        "日本",
         "未确定",
         "青春",
         "鹤卷和哉"
@@ -3500,16 +3876,26 @@
         "2023",
         "2023年10月",
         "2023年7月",
+        "2023年9月",
+        "3D",
         "LARXENTERTAINMENT",
         "Netflix",
         "TV",
         "WEB",
+        "上江洲诚",
+        "原创",
         "岸诚二",
         "战斗",
+        "拳愿阿修罗",
+        "日本",
+        "日本动画",
+        "未确定",
         "格斗",
         "漫改",
         "漫画改",
-        "热血"
+        "热血",
+        "续作",
+        "血腥"
       ],
       "infobox": [
         {
@@ -3540,24 +3926,24 @@
           "value": "http://kengan.net/"
         },
         {
+          "key": "在线播放平台",
+          "value": "Netflix"
+        },
+        {
           "key": "播放结束",
           "value": "2023年9月21日"
+        },
+        {
+          "key": "导演",
+          "value": "岸誠二"
         },
         {
           "key": "Copyright",
           "value": "©2023 サンドロビッチ・ヤバ子，だろめおん，小学館／拳願会2"
         },
         {
-          "key": "在线播放平台",
-          "value": "Netflix"
-        },
-        {
           "key": "原作",
           "value": "サンドロビッチ・ヤバ子 / だろめおん（小学館「マンガワン」連載）"
-        },
-        {
-          "key": "导演",
-          "value": "岸誠二"
         },
         {
           "key": "人物设定",
@@ -3594,12 +3980,89 @@
         {
           "key": "助理制片人",
           "value": "鈴木遼河、北林俊哉、椿本康雄、倉科俊汰"
+        },
+        {
+          "key": "美术监督",
+          "value": "阿久澤奈緒子、下山和人"
+        },
+        {
+          "key": "美术设计",
+          "value": "阿久澤奈緒子"
+        },
+        {
+          "key": "CG 导演",
+          "value": "福島涼太"
+        },
+        {
+          "key": "摄影监督",
+          "value": "浜尾繁光"
+        },
+        {
+          "key": "色彩设计",
+          "value": "加口大朗"
+        },
+        {
+          "key": "剪辑",
+          "value": "坂本雅紀；剪辑工作室：森田編集室"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "伊藤裕史"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ポニーキャニオン"
+        },
+        {
+          "key": "动画制片人",
+          "value": "宮崎裕司"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "荒川航 / 白石慶子・Jinkyu Jeon"
+        },
+        {
+          "key": "音效",
+          "value": "奥田維城、牛黒希美"
+        },
+        {
+          "key": "录音",
+          "value": "滝沢おさむ；录音工作室：スカーレット 原宿サウンドスタジオ"
+        },
+        {
+          "key": "录音助理",
+          "value": "宇野好絵"
+        },
+        {
+          "key": "音响",
+          "value": "ダックスプロダクション；音响制作担当：岡村歩美、小栗良之"
+        },
+        {
+          "key": "宣传",
+          "value": "齋藤翠、北出光希、坂本雄司"
+        },
+        {
+          "key": "协力",
+          "value": "マンガワン編集部（豆野文俊、成田卓哉）"
+        },
+        {
+          "key": "制作助理",
+          "value": "大町義則"
+        },
+        {
+          "key": "设定制作",
+          "value": "濱田愛；辅佐：渡辺健一"
+        },
+        {
+          "key": "总作画监督",
+          "value": "五反孝幸"
         }
       ],
       "total_episodes": 12,
       "id": 375512,
       "eps": 12,
       "meta_tags": [
+        "日本",
         "漫画改",
         "战斗",
         "WEB"
@@ -3693,189 +4156,6 @@
           "relation": "续集",
           "type": 2,
           "id": 455677
-        }
-      ]
-    }
-  },
-  {
-    "title": "如果历史是一群喵 宋辽金夏篇",
-    "date": "2023-09-10",
-    "bangumi": {
-      "date": "2023-09-10",
-      "platform": "WEB",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/ee/436681_JjQUF.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/ee/436681_JjQUF.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/3e/ee/436681_JjQUF.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/ee/436681_JjQUF.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/ee/436681_JjQUF.jpg"
-      },
-      "summary": "《如果历史是一群喵》是一部以华夏历史为主线的非严谨萌系动画，作品以风趣幽默的语言对历史事件进行了重新解读，更容易为年轻人记忆和接受。在表达上，作品用现代动画的手法塑造了12只体态丰盈、造型可爱的猫咪，用它们把历史事件演绎成了精彩的历史故事。该剧不但响应了中央关于“弘扬中华优秀传统文化”的号召，还是文化创新和“寓教于乐”的一次新探索和尝试。",
-      "name": "如果历史是一群喵 宋辽金夏篇",
-      "name_cn": "",
-      "tags": [
-        "2023",
-        "WEB",
-        "历史",
-        "原创",
-        "国产",
-        "泡面番"
-      ],
-      "infobox": [
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "如果历史是一群喵 第十季"
-            }
-          ]
-        },
-        {
-          "key": "话数",
-          "value": "12"
-        },
-        {
-          "key": "放送开始",
-          "value": "2023年9月10日"
-        },
-        {
-          "key": "放送星期",
-          "value": "星期日"
-        },
-        {
-          "key": "原作",
-          "value": "肥志《如果历史是一群喵》（新浪微博@我是肥志 连载中）"
-        },
-        {
-          "key": "执行导演",
-          "value": "小铭、周周、宵夜、辉辉"
-        },
-        {
-          "key": "分镜设计",
-          "value": "白菜、韩学义"
-        },
-        {
-          "key": "美术监督",
-          "value": "鹏鹏、球球、甜甜"
-        },
-        {
-          "key": "三维辅助",
-          "value": "小雨、小涛"
-        },
-        {
-          "key": "后勤",
-          "value": "澍澍、柚柚、掰掰"
-        },
-        {
-          "key": "动画",
-          "value": "小铭、一墨、宵夜、阿鸵、辉辉、小涵、晨晨、冰冰、卓卓、小玉、卷卷、满满、港港、阿星、周周、小股、小怡、小光、阿磊、三金、熊猫"
-        },
-        {
-          "key": "美术",
-          "value": "甜甜、阿凡、阿乳、通通、蕊蕊、小丁、小甜、鸣鸣、火火、叶子、洙洙、柠柠、家家、三川、亮亮、木木、珊珊、茜茜、琳琳、蛙蛙、小莹、颖颖、詹詹、小黄"
-        },
-        {
-          "key": "音效后期",
-          "value": "包子、君君、小羊"
-        },
-        {
-          "key": "配乐",
-          "value": "（麋鹿音乐）"
-        },
-        {
-          "key": "配音导演",
-          "value": "C小调"
-        },
-        {
-          "key": "配音工作室",
-          "value": "8082 Audio"
-        },
-        {
-          "key": "原案脚本",
-          "value": "绵祺、小杰、蓝蓝、高高、燕燕、安安、诸葛"
-        },
-        {
-          "key": "总导演",
-          "value": "肥志"
-        },
-        {
-          "key": "制作",
-          "value": "萌想文化"
-        },
-        {
-          "key": "主题歌编曲",
-          "value": "Litterzy"
-        },
-        {
-          "key": "主题歌作曲",
-          "value": "Litterzy"
-        },
-        {
-          "key": "主题歌作词",
-          "value": "冥凰"
-        },
-        {
-          "key": "主题歌演出",
-          "value": "纾律"
-        }
-      ],
-      "total_episodes": 12,
-      "id": 436681,
-      "eps": 12,
-      "meta_tags": [
-        "漫画改",
-        "萌系",
-        "历史",
-        "中国",
-        "WEB"
-      ],
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/67/402739_VQ7Vq.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/67/402739_VQ7Vq.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/25/67/402739_VQ7Vq.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/67/402739_VQ7Vq.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/67/402739_VQ7Vq.jpg"
-          },
-          "name": "如果历史是一群喵 五代十国篇",
-          "name_cn": "",
-          "relation": "前传",
-          "type": 2,
-          "id": 402739
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/4d/448624_MbGZo.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/4d/448624_MbGZo.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7d/4d/448624_MbGZo.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/4d/448624_MbGZo.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/4d/448624_MbGZo.jpg"
-          },
-          "name": "如果历史是一群喵 南宋金元篇",
-          "name_cn": "",
-          "relation": "续集",
-          "type": 2,
-          "id": 448624
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/51/427224_o00tf.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/51/427224_o00tf.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/cd/51/427224_o00tf.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/51/427224_o00tf.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/51/427224_o00tf.jpg"
-          },
-          "name": "如果历史是一群喵10：宋辽金夏篇",
-          "name_cn": "",
-          "relation": "书籍",
-          "type": 1,
-          "id": 427224
         }
       ]
     }

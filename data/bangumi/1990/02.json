@@ -20,10 +20,14 @@
         "SUNRISE",
         "TV",
         "勇者シリーズ",
+        "勇者凯撒",
         "原创",
+        "平野靖士",
         "机战",
         "田中公平",
+        "科幻",
         "童年",
+        "草尾毅",
         "萝卜",
         "谷田部胜义"
       ],
@@ -85,11 +89,11 @@
           "value": "名古屋テレビ、サンライズ、東急エージェンシー"
         },
         {
-          "key": "作画监督",
+          "key": "总作画监督",
           "value": "服部憲知(作監チーフ)"
         },
         {
-          "key": "演出",
+          "key": "主演出",
           "value": "福田満夫/福田己津央(演出チーフ)"
         },
         {
@@ -103,6 +107,14 @@
         {
           "key": "助理制片人",
           "value": "古澤文邦"
+        },
+        {
+          "key": "原画",
+          "value": "加藤勇二、西山映一郎"
+        },
+        {
+          "key": "补间动画",
+          "value": "平田美奈子"
         }
       ],
       "total_episodes": 48,
@@ -198,7 +210,7 @@
           },
           "name": "スーパーロボット大戦X-Ω",
           "name_cn": "超级机器人大战X-Ω",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 141050
         },
@@ -260,11 +272,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/f0/445953_xVjX7.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/f0/445953_xVjX7.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/66/f0/445953_xVjX7.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/f0/445953_xVjX7.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/f0/445953_xVjX7.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/f0/445953_Br3B4.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/f0/445953_Br3B4.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/66/f0/445953_Br3B4.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/f0/445953_Br3B4.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/f0/445953_Br3B4.jpg"
           },
           "name": "勇者宇宙ソーグレーダー",
           "name_cn": "勇者宇宙剑奎达",
@@ -296,7 +308,7 @@
           },
           "name": "GBハロボッツ",
           "name_cn": "哈罗机器人",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 467503
         }
@@ -322,7 +334,8 @@
       "tags": [
         "1990",
         "TV",
-        "童年"
+        "童年",
+        "龙之子"
       ],
       "infobox": [
         {
@@ -349,8 +362,56 @@
           "value": "1990年2月1日"
         },
         {
+          "key": "放送星期",
+          "value": "星期四"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://tatsunoko.co.jp/works/samurai-pizza-cats/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "テレビ東京"
+        },
+        {
           "key": "播放结束",
           "value": "1991年2月12日"
+        },
+        {
+          "key": "导演",
+          "value": "岡嶋国敏（チーフディレクター）"
+        },
+        {
+          "key": "Copyright",
+          "value": "Ⓒ 創通・タツノコプロ"
+        },
+        {
+          "key": "制作协力",
+          "value": "アニメフレンド、スタジオ・タージ、スタジオみえ、ランダム、ムッシュ・オニオン、東洋動画"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、創通エージェンシー、タツノコプロ"
+        },
+        {
+          "key": "制片人",
+          "value": "清水睦夫（テレビ東京）、小泉流正勝（創通エージェンシー）、植田もとき（タツノコプロ）"
+        },
+        {
+          "key": "助理制片人",
+          "value": "大倉宏俊"
+        },
+        {
+          "key": "企画",
+          "value": "稲垣光繁（創通エージェンシー）、成嶋弘毅（タツノコプロ）"
+        },
+        {
+          "key": "执行制片人",
+          "value": "製作総指揮：九里一平"
+        },
+        {
+          "key": "原案",
+          "value": "美原轟"
         }
       ],
       "total_episodes": 52,
@@ -358,7 +419,8 @@
       "eps": 54,
       "meta_tags": [
         "TV",
-        "日本"
+        "日本",
+        "原创"
       ],
       "volumes": 0,
       "series": false,
@@ -393,6 +455,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 482984
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7a/58/539260_nbb6B.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7a/58/539260_nbb6B.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7a/58/539260_nbb6B.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7a/58/539260_nbb6B.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7a/58/539260_nbb6B.jpg"
+          },
+          "name": "Samurai Pizza Cats: Blast from the Past!",
+          "name_cn": "功夫猫党 Blast from the Past!",
+          "relation": "游戏",
+          "type": 4,
+          "id": 539260
         }
       ]
     }
@@ -415,18 +491,26 @@
       "name_cn": "恶魔人 妖鸟死丽濡篇",
       "tags": [
         "1990",
+        "1990s",
         "90年代",
+        "OH!プロダクション",
         "OH-Production",
         "OVA",
+        "不动明",
         "奇幻",
         "川井宪次",
         "恶魔人",
+        "战斗",
+        "日本",
+        "日本动画",
         "死丽濡",
         "永井豪",
         "漫改",
         "漫画改",
         "独立ova",
+        "猎奇",
         "血腥",
+        "补旧番",
         "饭田马之介"
       ],
       "infobox": [
@@ -458,6 +542,130 @@
         {
           "key": "发售日",
           "value": "1990年2月25日"
+        },
+        {
+          "key": "製作",
+          "value": "野間佐和子；講談社、バンダイ"
+        },
+        {
+          "key": "企画",
+          "value": "内田勝、三樹創作、早川忠継；協力：永井隆"
+        },
+        {
+          "key": "制片人",
+          "value": "田中利雄、鈴木良平、末吉博彦"
+        },
+        {
+          "key": "人物设定",
+          "value": "小松原一男"
+        },
+        {
+          "key": "作画监督",
+          "value": "小松原一男、安藤正浩"
+        },
+        {
+          "key": "美术监督",
+          "value": "宮前光春、海老澤一男"
+        },
+        {
+          "key": "摄影监督",
+          "value": "玉川芳行"
+        },
+        {
+          "key": "音响监督",
+          "value": "千葉繁"
+        },
+        {
+          "key": "音乐",
+          "value": "川井憲次"
+        },
+        {
+          "key": "剪辑",
+          "value": "瀬山武司；助手：足立浩"
+        },
+        {
+          "key": "原画",
+          "value": "清水洋、遠藤正明、沖浦啓之、佐藤雄三、梅津泰臣、河口俊夫、鍋島修、松原京子、金田伊功、近藤勝也、杉野左秩子、練木正宏、諸橋伸司、わたなべひろし、宮本英子、大竹紀子、加藤茂、佐藤好春、黒沢守、山川浩臣、戸倉紀元"
+        },
+        {
+          "key": "动画检查",
+          "value": "舘野仁美；動画チェック補：椎名利津子"
+        },
+        {
+          "key": "补间动画",
+          "value": "結城明宏、斉藤由合子、山中泉、松井陸容、石渡清美、大芝幹祐、川添博基、石浜真史、神原よしみ、木田葉子、増淵順子、谷平久美子、山浦由加里、鈴木ふじを、伊藤広治、長谷部あつし、竹本宣紀、株田馨、富岡隆、東誠子、手島晶子、藤村理枝、北島由美子、平瀬弘英、五味文子、川上恵美子、松本雅子、旭美輪子、岡部和美、ふくながりゅういち"
+        },
+        {
+          "key": "色彩指定",
+          "value": "西表美智代；色指定補：松下友紀子"
+        },
+        {
+          "key": "特效",
+          "value": "橋爪朋二"
+        },
+        {
+          "key": "背景美术",
+          "value": "荻庭裕文、市谷正夫、本田修、西村康浩、中原英統、服部一広、海老澤一男"
+        },
+        {
+          "key": "摄影",
+          "value": "藤倉直人、小室正一、山越康司、大貫昌男、斎藤聡司、麓雅一、久保村正樹、石塚知義、馬場重徳、伊藤誠"
+        },
+        {
+          "key": "副导演",
+          "value": "楠美直子、矢吹勉"
+        },
+        {
+          "key": "制作管理",
+          "value": "制作担当：浅利義美、山口克巳；製作担当：岩田一男、浅賀孝郎；製作担当補佐：浅野恵"
+        },
+        {
+          "key": "制片助理",
+          "value": "大橋浩一郎"
+        },
+        {
+          "key": "制作进行",
+          "value": "鷲野巣惠一"
+        },
+        {
+          "key": "制作协力",
+          "value": "トライアングルスタッフ"
+        },
+        {
+          "key": "音乐制作",
+          "value": "キングレコード"
+        },
+        {
+          "key": "音乐制作人",
+          "value": "音楽ディレクター：大月俊倫"
+        },
+        {
+          "key": "录音",
+          "value": "録音制作：オムニバスプロモーション；録音調整：井上秀司、住谷真；録音スタジオ：東京テレビセンター"
+        },
+        {
+          "key": "录音助理",
+          "value": "若林和弘"
+        },
+        {
+          "key": "音效",
+          "value": "佐藤一俊；効果助手：小野弘典"
+        },
+        {
+          "key": "导演",
+          "value": "飯田馬之介"
+        },
+        {
+          "key": "原作",
+          "value": "永井豪（講談社コミックス刊）"
+        },
+        {
+          "key": "助理制片人",
+          "value": "総指揮：永井豪"
+        },
+        {
+          "key": "片长",
+          "value": "57分钟"
         }
       ],
       "total_episodes": 1,
@@ -475,11 +683,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/2b/22956_qWzrj.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/2b/22956_qWzrj.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/79/2b/22956_qWzrj.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/2b/22956_qWzrj.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/2b/22956_qWzrj.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/2b/22956_2BeE6.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/2b/22956_2BeE6.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/79/2b/22956_2BeE6.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/2b/22956_2BeE6.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/2b/22956_2BeE6.jpg"
           },
           "name": "AMON デビルマン黙示録",
           "name_cn": "AMON 恶魔人默示录",
@@ -489,11 +697,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/4f/24153_F7W8E.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/4f/24153_F7W8E.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e0/4f/24153_F7W8E.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/4f/24153_F7W8E.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/4f/24153_F7W8E.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/4f/24153_SiCJj.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/4f/24153_SiCJj.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e0/4f/24153_SiCJj.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/4f/24153_SiCJj.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/4f/24153_SiCJj.jpg"
           },
           "name": "デビルマン 誕生編",
           "name_cn": "恶魔人 诞生篇",
@@ -528,6 +736,20 @@
           "relation": "广播剧",
           "type": 3,
           "id": 238022
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/c3/318255_2VcqV.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/c3/318255_2VcqV.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5e/c3/318255_2VcqV.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/c3/318255_2VcqV.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/c3/318255_2VcqV.jpg"
+          },
+          "name": "THE DEVILMAN",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 318255
         }
       ]
     }

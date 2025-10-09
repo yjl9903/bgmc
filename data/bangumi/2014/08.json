@@ -22,18 +22,25 @@
         "2014年8月",
         "2014年夏",
         "FanWorks",
+        "OVA",
         "TV",
+        "ファンワークス",
         "ラレコ",
+        "动画",
         "吐槽",
         "强迫症",
         "搞笑",
+        "日常",
         "日本",
         "泡面",
         "泡面番",
         "漫改",
         "漫画改",
         "猎奇",
+        "电波",
         "白石凉子",
+        "短片",
+        "神经病",
         "美食",
         "脑洞",
         "荷包蛋的蛋黄什么时候戳破才好?",
@@ -118,7 +125,7 @@
           },
           "name": "目玉焼きの黄身 いつつぶす？",
           "name_cn": "荷包蛋的蛋黄啥时戳破好？",
-          "relation": "三次元",
+          "relation": "不同演绎",
           "type": 6,
           "id": 228938
         }
@@ -184,10 +191,19 @@
               "v": "Hanamonogatari: Suruga Devil"
             },
             {
-              "v": "Monogatari Series: Second Season +α"
+              "v": "物语系列 第二季 +α"
             },
             {
-              "v": "HMG, Hanamonogatari, mng s5"
+              "v": "物语系列 2nd Season +α"
+            },
+            {
+              "v": "〈物语〉系列 第二季 +α"
+            },
+            {
+              "v": "〈物語〉シリーズ セカンドシーズン +α"
+            },
+            {
+              "v": "Monogatari Series: Second Season +α"
             }
           ]
         },
@@ -329,7 +345,11 @@
         },
         {
           "key": "OP・ED 分镜",
-          "value": "OP：鈴木利正 / ED：ウエダハジメ、会津孝幸"
+          "value": "鈴木利正 / ウエダハジメ"
+        },
+        {
+          "key": "OP・ED 演出",
+          "value": "鈴木利正 / ウエダハジメ・会津孝幸"
         }
       ],
       "total_episodes": 5,
@@ -509,12 +529,19 @@
       "name_cn": "火星异种 Bugs2号编",
       "tags": [
         "2014",
+        "2014年",
         "2014年8月",
         "LIDENFILMS",
+        "OAD",
         "OVA",
+        "奇幻",
+        "安川正吾",
         "战斗",
+        "日本",
         "日本动画",
+        "木内秀信",
         "杉田智和",
+        "村井秀清",
         "浜崎博嗣",
         "滨崎博嗣",
         "漫改",
@@ -615,8 +642,8 @@
         "SHIN-EI",
         "robot",
         "シンエイ动画",
-        "ドラえもん",
-        "ロボット",
+        "催泪",
+        "八木竜一",
         "八木龙一",
         "剧场版",
         "动画",
@@ -695,6 +722,20 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/4f/18692_Gilpl.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/4f/18692_Gilpl.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b4/4f/18692_Gilpl.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/4f/18692_Gilpl.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/4f/18692_Gilpl.jpg"
+          },
+          "name": "ドラえもん",
+          "name_cn": "哆啦A梦",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 18692
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/69/20/27684_D4ySY.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/69/20/27684_D4ySY.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/69/20/27684_D4ySY.jpg",
@@ -706,6 +747,34 @@
           "relation": "书籍",
           "type": 1,
           "id": 27684
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2a/26/36126_D54W8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2a/26/36126_D54W8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2a/26/36126_D54W8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2a/26/36126_D54W8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2a/26/36126_D54W8.jpg"
+          },
+          "name": "ドラえもん",
+          "name_cn": "哆啦A梦 日视版",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 36126
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/b3/37460_gtg0V.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/b3/37460_gtg0V.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/64/b3/37460_gtg0V.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/b3/37460_gtg0V.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/b3/37460_gtg0V.jpg"
+          },
+          "name": "ドラえもん",
+          "name_cn": "哆啦A梦 大山版",
+          "relation": "不同演绎",
+          "type": 2,
+          "id": 37460
         },
         {
           "images": {
@@ -798,6 +867,7 @@
       "name_cn": "在盛夏等待 特别篇",
       "tags": [
         "2014",
+        "2014OAD",
         "2014年",
         "2014年11月",
         "2014年7月",
@@ -808,11 +878,17 @@
         "原创",
         "在盛夏等待",
         "恋爱",
+        "户松遥",
         "日常",
+        "日本",
         "校园",
         "治愈",
         "田中将贺",
+        "田村ゆかり",
+        "番外",
+        "石原夏织",
         "科幻",
+        "续作",
         "长井龙雪",
         "阿澄佳奈",
         "青春",
@@ -936,11 +1012,18 @@
       "name_cn": "宇宙兄弟#0",
       "tags": [
         "2014",
+        "2014年",
         "2014年8月",
         "A-1Pictures",
+        "TV",
+        "アニメ映画",
         "剧场版",
+        "动画",
         "励志",
         "宇宙兄弟",
+        "平田广明",
+        "日本",
+        "渡边步",
         "渡辺歩",
         "漫改",
         "漫画改",
@@ -1086,7 +1169,9 @@
       "id": 90502,
       "eps": 1,
       "meta_tags": [
-        "剧场版"
+        "剧场版",
+        "日本",
+        "漫画改"
       ],
       "volumes": 0,
       "series": false,
@@ -1110,11 +1195,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/55/29137_JPi0Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/55/29137_JPi0Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1c/55/29137_JPi0Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/55/29137_JPi0Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/55/29137_JPi0Z.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/55/29137_GKt4H.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/55/29137_GKt4H.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1c/55/29137_GKt4H.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/55/29137_GKt4H.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/55/29137_GKt4H.jpg"
           },
           "name": "宇宙兄弟",
           "name_cn": "宇宙兄弟",
@@ -1175,18 +1260,26 @@
         "2014年8月",
         "LIDENFILMS",
         "Legend1-觉醒",
+        "SANZIGEN",
         "サンジゲン",
         "ライデンフィルム",
         "中村悠一",
+        "内田真礼",
         "剧场版",
+        "动画",
         "头文字D",
         "宫野真守",
+        "小野大辅",
         "新剧场版",
+        "日本",
+        "日本动画",
         "日高政光",
         "漫改",
         "漫画改",
+        "热血",
         "竞技",
-        "赛车"
+        "赛车",
+        "重制"
       ],
       "infobox": [
         {
@@ -1243,6 +1336,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/0d/36055_Nw936.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/0d/36055_Nw936.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/0d/36055_Nw936.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/0d/36055_Nw936.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/0d/36055_Nw936.jpg"
+          },
+          "name": "頭文字D",
+          "name_cn": "头文字D",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 36055
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/d9/111760_qmQzB.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/d9/111760_qmQzB.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/5e/d9/111760_qmQzB.jpg",
@@ -1282,6 +1389,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 118959
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ee/57/364252_U0034.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ee/57/364252_U0034.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ee/57/364252_U0034.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ee/57/364252_U0034.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ee/57/364252_U0034.jpg"
+          },
+          "name": "MFゴースト",
+          "name_cn": "极速车魂",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 364252
         }
       ]
     }
@@ -1304,23 +1425,32 @@
       "name_cn": "青春之旅 OAD",
       "tags": [
         "2014",
+        "2014年",
         "2014年8月",
         "OAD",
         "OVA",
         "Production.I.G",
         "ProductionI.G",
         "Production_I.G",
+        "TV",
         "乙女向",
+        "内田真礼",
         "吉村爱",
         "少女",
         "少女向",
         "少女漫",
         "市桥佳之",
         "恋爱",
+        "日本",
+        "日本动画",
         "校园",
         "梶裕贵",
         "漫改",
         "漫画改",
+        "番外",
+        "立川圣治",
+        "纯爱",
+        "金春智子",
         "青春",
         "青春之旅"
       ],
@@ -1413,13 +1543,19 @@
       "name_cn": "航海王：跨越艾斯之死！路飞与伙伴的誓约",
       "tags": [
         "2014",
+        "2014年8月",
         "2014年8月番",
         "JUMP",
+        "ONEPIECE",
         "OVA",
         "SP",
         "TV",
+        "TVSP",
         "东映",
         "东映animation",
+        "东映アニメーション",
+        "东映动画",
+        "中井和哉",
         "冒险",
         "剧场版",
         "原创",
@@ -1427,8 +1563,12 @@
         "女帝",
         "山口胜平",
         "战斗",
+        "日本",
         "海贼王",
-        "热血"
+        "漫改",
+        "漫画改",
+        "热血",
+        "番外"
       ],
       "infobox": [
         {
@@ -1482,7 +1622,7 @@
           },
           "name": "ONE PIECE",
           "name_cn": "航海王",
-          "relation": "全集",
+          "relation": "主线故事",
           "type": 2,
           "id": 975
         },
@@ -1535,20 +1675,30 @@
       "name_cn": "望实与君雄",
       "tags": [
         "2014",
+        "2014年",
         "2014年8月",
         "OAD",
         "OVA",
         "ZEXCS",
         "准里番",
         "卖肉",
+        "小林裕介",
+        "巨乳",
         "恋爱",
+        "搞笑",
+        "日常",
+        "日本",
+        "日本动画",
         "望实与君雄",
         "校园",
         "漫改",
         "漫画改",
         "相互欣赏",
         "神保昌登",
+        "福利",
+        "美男和小希",
         "肉",
+        "肉番",
         "里番"
       ],
       "infobox": [

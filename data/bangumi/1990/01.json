@@ -18,8 +18,14 @@
       "tags": [
         "1990",
         "TV",
+        "TVB",
         "世界名作剧场",
-        "童年"
+        "小说改",
+        "日本动画公司",
+        "爱情",
+        "童年",
+        "经典",
+        "补旧番"
       ],
       "infobox": [
         {
@@ -53,6 +59,26 @@
         {
           "key": "播放结束",
           "value": "1990年12月23日"
+        },
+        {
+          "key": "企画",
+          "value": "清水賢治、大橋益之助、佐藤昭司"
+        },
+        {
+          "key": "制片人",
+          "value": "立川善久、松土隆二"
+        },
+        {
+          "key": "美术监督",
+          "value": "森本茂"
+        },
+        {
+          "key": "脚本",
+          "value": "藤本信行、大塚汎"
+        },
+        {
+          "key": "制作管理",
+          "value": "高桑充、中島順三"
         }
       ],
       "total_episodes": 40,
@@ -69,6 +95,20 @@
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/91/98296_bSPSv.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/91/98296_bSPSv.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b5/91/98296_bSPSv.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/91/98296_bSPSv.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/91/98296_bSPSv.jpg"
+          },
+          "name": "Daddy-Long-Legs",
+          "name_cn": "长腿叔叔",
+          "relation": "书籍",
+          "type": 1,
+          "id": 98296
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/88/316624_dMHEe.jpg",
@@ -135,7 +175,9 @@
         "1990年",
         "1990年1月",
         "90年代",
+        "NipponAnimation",
         "TV",
+        "TVA",
         "TVB",
         "TV动画",
         "动画",
@@ -144,7 +186,9 @@
         "日常",
         "日本",
         "日本アニメーション",
+        "日本动画",
         "日本动画公司",
+        "校园",
         "樱桃小丸子",
         "汤浅政明",
         "没看全",
@@ -250,11 +294,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/db/28167_ggotU.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/db/28167_ggotU.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bb/db/28167_ggotU.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/db/28167_ggotU.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/db/28167_ggotU.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/db/28167_nSe66.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/db/28167_nSe66.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bb/db/28167_nSe66.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/db/28167_nSe66.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/db/28167_nSe66.jpg"
           },
           "name": "ちびまる子ちゃん わたしの好きな歌",
           "name_cn": "樱桃小丸子：我最喜欢的歌",
@@ -355,7 +399,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/60/6c/456305_J945P.jpg"
           },
           "name": "元梦之星",
-          "name_cn": "",
+          "name_cn": "元梦之星",
           "relation": "游戏",
           "type": 4,
           "id": 456305
@@ -502,6 +546,7 @@
       "name": "BE-BOP-HIGHSCHOOL",
       "name_cn": "高校生极乐传说",
       "tags": [
+        "1990",
         "OVA"
       ],
       "infobox": [

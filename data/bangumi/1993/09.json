@@ -22,9 +22,13 @@
         "OVA",
         "奇幻",
         "山寺宏一",
+        "日本",
         "浅香守生",
+        "浦畑达彦",
         "漫改",
         "漫画改",
+        "独立ova",
+        "高山南",
         "高桥留美子"
       ],
       "infobox": [
@@ -179,6 +183,9 @@
           "key": "别名",
           "value": [
             {
+              "v": "凯蒂猫 竹子公主"
+            },
+            {
               "v": "Hello Kitty`s The Bamboo Princess"
             },
             {
@@ -206,7 +213,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/c5/479677_q0qYb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/c5/479677_q0qYb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/79/c5/479677_q0qYb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/c5/479677_q0qYb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/c5/479677_q0qYb.jpg"
+          },
+          "name": "竹取物語",
+          "name_cn": "竹取物语",
+          "relation": "书籍",
+          "type": 1,
+          "id": 479677
+        }
+      ]
     }
   },
   {
@@ -227,7 +249,10 @@
       "name_cn": "为食龙少爷",
       "tags": [
         "1993",
+        "1993年9月",
         "TV",
+        "TVB",
+        "日本",
         "童年"
       ],
       "infobox": [
@@ -258,6 +283,14 @@
           "value": "1993年9月4日"
         },
         {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.nippon-animation.co.jp/work/1670/"
+        },
+        {
           "key": "播放电视台",
           "value": "毎日放送"
         },
@@ -268,6 +301,10 @@
         {
           "key": "播放结束",
           "value": "1994年8月27日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©いがらし･芝/小学館･日本アニメーション"
         }
       ],
       "total_episodes": 50,
@@ -330,7 +367,9 @@
       "summary": "天王寺大・郷力也原作の大人気漫画のオリジナルビデオアニメーションのシリーズ第１弾。主人公は、周囲から「ミナミの鬼」と恐れられる闇金を営む男・萬田銀次郎。その銀次郎に弟子入り志願したのが、極道を夢見てミナミにやってきた坂上竜一だった。銀次郎は竜一に初仕事として、ナニワ会幹部の鷲岡京三への取立てを命じる。ある日、義理場で金がないという大恥をかいた鷲岡に銀次郎は金儲けの方策として、潜りのゲーム喫茶を紹介するが……。竜一は無事、初仕事をやり遂げることができるのか？",
       "name": "難波金融伝・ミナミの帝王",
       "name_cn": "难波金融传 南街帝王",
-      "tags": [],
+      "tags": [
+        "OVA"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -382,11 +421,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/4f/80000_KQEj9.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/4f/80000_KQEj9.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/14/4f/80000_KQEj9.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/4f/80000_KQEj9.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/4f/80000_KQEj9.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/14/4f/80000_R17E1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/14/4f/80000_R17E1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/14/4f/80000_R17E1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/14/4f/80000_R17E1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/14/4f/80000_R17E1.jpg"
           },
           "name": "ミナミの帝王",
           "name_cn": "南街帝王",
@@ -414,6 +453,7 @@
       "name": "BADBOYS",
       "name_cn": "",
       "tags": [
+        "1993",
         "OVA"
       ],
       "infobox": [
@@ -444,6 +484,20 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/02/66117_rl99R.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/02/66117_rl99R.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ac/02/66117_rl99R.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/02/66117_rl99R.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/02/66117_rl99R.jpg"
+          },
+          "name": "BAD BOYS J",
+          "name_cn": "",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 66117
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/08/67462_11oAo.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/08/67462_11oAo.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/dc/08/67462_11oAo.jpg",
@@ -451,7 +505,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/08/67462_11oAo.jpg"
           },
           "name": "BADBOYS",
-          "name_cn": "",
+          "name_cn": "搞怪少年",
           "relation": "书籍",
           "type": 1,
           "id": 67462
@@ -469,6 +523,34 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 440137
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/30/537974_yiNNZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/30/537974_yiNNZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c3/30/537974_yiNNZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/30/537974_yiNNZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/30/537974_yiNNZ.jpg"
+          },
+          "name": "BADBOYS -THE MOVIE-",
+          "name_cn": "搞怪少年",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 537974
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/67/580081_gEu22.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/67/580081_gEu22.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/67/580081_gEu22.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/67/580081_gEu22.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/67/580081_gEu22.jpg"
+          },
+          "name": "BADBOYS",
+          "name_cn": "搞怪少年",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 580081
         }
       ]
     }

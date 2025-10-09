@@ -21,8 +21,10 @@
         "TV",
         "原创",
         "安彦良和",
+        "机战",
         "田中真弓",
-        "萝卜"
+        "萝卜",
+        "辻真先"
       ],
       "infobox": [
         {
@@ -50,6 +52,10 @@
           "value": "1984年9月27日"
         },
         {
+          "key": "导演",
+          "value": "安彦良和"
+        },
+        {
           "key": "音乐",
           "value": "萩田光雄"
         },
@@ -75,7 +81,7 @@
         },
         {
           "key": "摄影监督",
-          "value": "都島雅義、原正一"
+          "value": "都島雅義（1-6話）、原正一（7-26話）"
         },
         {
           "key": "色彩设计",
@@ -83,7 +89,67 @@
         },
         {
           "key": "剪辑",
-          "value": "井上編集室（井上和夫、渡瀬祐子）"
+          "value": "井上編集室（井上和夫、渡瀬祐子(10-26話)）"
+        },
+        {
+          "key": "特效",
+          "value": "山本公"
+        },
+        {
+          "key": "主演出",
+          "value": "鹿島典夫"
+        },
+        {
+          "key": "摄影",
+          "value": "結束義博、阿部照男、野田健二、奥田浩一、山田廣明、酒井晴美、笹本智子、遠藤智子"
+        },
+        {
+          "key": "背景美术",
+          "value": "安西徹夫、下野哲人、宮本清司、三浦智、今村立夫、村井弘子、高波美好、石井満、吉村俊幸、林良高、長島久美子、勝井和子、松崎ゆかり、西川増水、渡部尚美"
+        },
+        {
+          "key": "原画",
+          "value": "兵頭敬、内田順久、九月社、吉永尚之、斉藤格、田村英樹、古川達也、渡辺桂子、大原和男、桜井芳久、佐藤道雄"
+        },
+        {
+          "key": "补间动画",
+          "value": "竹ノ内節子、徳倉美枝、松野悦子、小池あゆみ、吉森一彦、竹葉潔、小川悦子、吉浜久美子、西河広実、大滝友子、福本千津子、岩柳恵美子、合田浩章、相沢まりこ、村田桃子"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "石垣真弓"
+        },
+        {
+          "key": "动画检查",
+          "value": "工藤千恵子、松野悦子"
+        },
+        {
+          "key": "色彩指定",
+          "value": "柴隆之、小西富士美、小森靖彦"
+        },
+        {
+          "key": "制作进行",
+          "value": "古澤文邦、市万田俊也、西河稔、吉村信明、播本昌志"
+        },
+        {
+          "key": "作画监督",
+          "value": "安彦良和、土器手司"
+        },
+        {
+          "key": "脚本",
+          "value": "辻真先、塚本裕美子"
+        },
+        {
+          "key": "分镜",
+          "value": "安彦良和、鹿島典夫、浜津守、小鹿英吉、吉永尚之、菊池一仁"
+        },
+        {
+          "key": "演出",
+          "value": "浜津守、鹿島典夫、小鹿英吉、浜津守、菊池一仁"
+        },
+        {
+          "key": "人物设定",
+          "value": "安彦良和"
         }
       ],
       "total_episodes": 26,
@@ -109,7 +175,7 @@
           },
           "name": "スーパーロボット大戦BX",
           "name_cn": "超级机器人大战BX",
-          "relation": "角色出演",
+          "relation": "联动",
           "type": 4,
           "id": 134396
         },
@@ -123,7 +189,7 @@
           },
           "name": "サンライズ英雄譚",
           "name_cn": "日升英雄谭",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 145455
         },
@@ -137,9 +203,23 @@
           },
           "name": "ブレイブサーガ 新章 アスタリア",
           "name_cn": "勇者传说 新章",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 445950
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8e/72/452370_MFa6o.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8e/72/452370_MFa6o.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8e/72/452370_MFa6o.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8e/72/452370_MFa6o.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8e/72/452370_MFa6o.jpg"
+          },
+          "name": "巨神ゴーグ メモリアルアートワークス",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 452370
         },
         {
           "images": {
@@ -151,7 +231,7 @@
           },
           "name": "GBハロボッツ",
           "name_cn": "哈罗机器人",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 467503
         },
@@ -193,11 +273,11 @@
       "date": "1984-04-15",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/ba/37168_252Ew.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/ba/37168_252Ew.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/16/ba/37168_252Ew.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/ba/37168_252Ew.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/ba/37168_252Ew.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/ba/37168_KOdpB.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/ba/37168_KOdpB.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/16/ba/37168_KOdpB.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/ba/37168_KOdpB.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/ba/37168_KOdpB.jpg"
       },
       "summary": "《超时空骑团》（日语：超時空騎団サザンクロス）是日本每日放送制作的‘超时空系列’第3作，自1984年4月15日至9月30日间于TBS频道每周日14:00～14:30播出的23集机器人动画。与在它之前播放的动画《超时空要塞》、《超时空世纪》合称为“超时空系列”。超时空骑团是超时空系列的第三部。\n\n21世纪末地球因战争之素导致无法居住，人类为了求生存而迈向太阳系以外拓展，并衍伸到达至光荣之星（グロリエ）开发建设新家园。在居民努力而成的一片安祥繁荣发展下，突然传至开发基地与各人造卫星的噩闻，更有支来路不明的神秘舰队在高空出现，一股诡异的气氛开始垄罩着南十字星（サザンクロス）军。而隶属于战略机甲部队第15分队的珍妮，渐渐地在激烈战斗中发堀这未知的谜底，也揭开了所住之处另段不为人晓的历史……。",
       "name": "超時空騎団サザンクロス",
@@ -205,8 +285,15 @@
       "tags": [
         "1984",
         "TV",
+        "robo",
         "原创",
+        "富沢美智恵",
+        "日本",
+        "机战",
+        "科幻",
+        "萝卜",
         "长谷川康雄",
+        "鸟海尽三",
         "龙之子"
       ],
       "infobox": [
@@ -234,6 +321,14 @@
           "value": "1984年4月15日"
         },
         {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://tatsunoko.co.jp/works/starzan-s/"
+        },
+        {
           "key": "播放电视台",
           "value": "毎日放送、TBS"
         },
@@ -242,16 +337,71 @@
           "value": "1984年9月30日"
         },
         {
+          "key": "音乐",
+          "value": "佐藤健、檀雄司"
+        },
+        {
+          "key": "Copyright",
+          "value": "©毎日放送・ビックウエスト・タツノコプロ"
+        },
+        {
           "key": "机械设定",
           "value": "小川浩、大倉宏俊、小野隆嗣"
+        },
+        {
+          "key": "製作",
+          "value": "タツノコプロ、毎日放送"
+        },
+        {
+          "key": "脚本",
+          "value": "鳥海尽三、寺田憲史、川崎知子、下河内久登"
+        },
+        {
+          "key": "分镜",
+          "value": "高野太、吉田浩、山田勝久、長尾粛、小島正幸、鈴木幹雄、矢沢則夫、康村正一、須永司、長谷川康雄、古川順康、秦義人"
+        },
+        {
+          "key": "演出",
+          "value": "高野太、長尾粛、小島正幸、鈴木幹雄、須永司、長谷川康雄、秦義人、五月女有作"
+        },
+        {
+          "key": "人物设定",
+          "value": "園田美世；副人设：ビーボォー（北爪宏幸ほか）"
+        },
+        {
+          "key": "作画监督",
+          "value": "高橋朝雄、中島忠二、鈴木英二、小泉謙三、高田三郎、野崎恒伸"
+        },
+        {
+          "key": "特效",
+          "value": "朝沼清良　村上正博、榊原豊彦"
+        },
+        {
+          "key": "制作协力",
+          "value": "AIC（第13そして第18話）、ドラゴンプロダクション（第5、第11そして第17話）、スタジオルック（第4話）"
+        },
+        {
+          "key": "剪辑",
+          "value": "谷川幸男、田代正美、田岡克美、厨川治彦、吉田ちひろ"
+        },
+        {
+          "key": "制片人",
+          "value": "中野政則"
+        },
+        {
+          "key": "企画",
+          "value": "大西良昌、井上明"
         }
       ],
       "total_episodes": 23,
       "id": 37168,
       "eps": 23,
       "meta_tags": [
+        "科幻",
+        "机战",
         "TV",
-        "日本"
+        "日本",
+        "原创"
       ],
       "volumes": 0,
       "series": false,
@@ -300,6 +450,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 329893
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/77/06/553996_wLK99.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/77/06/553996_wLK99.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/77/06/553996_wLK99.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/77/06/553996_wLK99.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/77/06/553996_wLK99.jpg"
+          },
+          "name": "星のデジャ・ブー",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 553996
         }
       ]
     }
@@ -320,7 +484,12 @@
       "summary": "20世紀末の現代、高校生の火野ヤマトは体育館で自分の名を呼ぶ巨大な「魔神」の幻影を見る。幻を振り払おうとするヤマトであったが、「魔神」とともに「見知らぬ女性」の声が聞こえたとき、ヤマトは声に歩み寄ってしまう。 　 ヤマトが「魔神」によって運ばれた先は1万年前に地殻変動で海に沈んだはずのムー大陸であった。訳が判らないヤマトに対しムーの民たちは彼を「マジンガーが選んだ救世主」と持ち上げる。彼らムーの民の守護神こそ、彼を現代から過去に運んだゴッドマジンガーであった。そんな折、ムーの民と拮抗する勢力であるドラゴニアが襲来すると、再び「魔神」の声がヤマトを呼び寄せる。ヤマトがゴッドマジンガーと融合したとき、ゴッドマジンガーはドラゴニアの恐竜軍団を撃退するのであった。",
       "name": "ゴッドマジンガー",
       "name_cn": "远古魔神",
-      "tags": [],
+      "tags": [
+        "1984",
+        "TV",
+        "榊原良子",
+        "永井豪"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -421,7 +590,9 @@
       "summary": "王位をかけて、キン肉マン最大の闘いが始まる!\n『キン肉マン』初めての長編として放映され、後に続く劇場作品の手本にもなったテレビスペシャル。原作漫画のエピソードを、メンバーの一部をアイドル超人に入れ替えて、エンターテイメントとして心ゆくまで楽しめる作品に仕上げてみせた。全編が黒澤明監督の映画『七人の侍』のパロディにもなっているので、往年の映画ファンなら、より一層楽しめるに違いない。",
       "name": "キン肉マン 決戦! 7人の正義超人vs宇宙野武士",
       "name_cn": "金肉人 决战！7人之正义超人vs宇宙野武士",
-      "tags": [],
+      "tags": [
+        "东映アニメーション"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -509,11 +680,11 @@
       "date": "1984-04-03",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/bc/108465_PykSs.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/bc/108465_PykSs.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/dd/bc/108465_PykSs.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/bc/108465_PykSs.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/bc/108465_PykSs.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/bc/108465_5X89q.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/bc/108465_5X89q.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/dd/bc/108465_5X89q.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/bc/108465_5X89q.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/bc/108465_5X89q.jpg"
       },
       "summary": "小学館の『週刊少女コミック』その他に連載された、市川みさこの少女漫画『しあわせさん』が原作。原作はゆでた家の長女たまごを主人公にした日常コメディだが、アニメは助演キャラの怪猫オヨヨを主人公にして映像化された。ゆでた家に押しかけて住み着いた太った猫のオヨヨ。オヨヨはぐうたらで意地汚い性格で、イモが大好き。マイペースを通すオヨヨにゆでた家の面々は大弱りで、とくに長女たまごは彼への闘志を燃やす。だがそんなたまごも、学校では憧れの同級生モンブランくんにお熱。恋敵のひなぎくちゃんに対抗心を燃やす。そんなたまごの内心を知ったオヨヨは……。アニメ製作は『ドラえもん』などのシンエイ動画。多くのアニメや実写番組で不条理コメディを執筆する浦沢義雄も脚本に参加。他のスタッフも健闘している。",
       "name": "オヨネコぶーにゃん",
@@ -564,18 +735,21 @@
       "date": "1984-04-09",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/46/84592_hQ9SQ.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/46/84592_hQ9SQ.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/46/84592_6KqFL.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/46/84592_6KqFL.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a7/46/84592_6KqFL.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/46/84592_6KqFL.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/46/84592_6KqFL.jpg"
       },
-      "summary": "",
+      "summary": "不慮の事故により一線を退いた大女優・月影千草に女優としての資質を見出された北島マヤは劇団つきかげに入団する。マヤはかつて月影が演じた「紅天女」を狙うべく、厳しいレッスンを受けることとなる。一方、劇団オンディーヌが誇る天才少女・姫川亜弓も、「紅天女」の座を狙っていた…\n\n　現在も連載が続く美内すずえ原作の少女マンガ史上不朽の名作を、アニメ界の巨匠・杉井ギサブローが演出。原作ファンのみならず多くのファンを獲得するに至った。",
       "name": "ガラスの仮面",
       "name_cn": "玻璃假面",
       "tags": [
         "1984",
+        "Eiken",
         "TV",
+        "励志",
+        "松岛みのり",
         "胜生真沙子"
       ],
       "infobox": [
@@ -592,8 +766,24 @@
           "value": "1984年4月9日"
         },
         {
+          "key": "放送星期",
+          "value": "星期一"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://eiken-anime.jp/works/ガラスの仮面/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "日本テレビ"
+        },
+        {
           "key": "播放结束",
           "value": "1984年9月24日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©美内すずえ／エイケン"
         }
       ],
       "total_episodes": 23,
@@ -626,11 +816,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/75/44199_DIN2Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/75/44199_DIN2Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/73/75/44199_DIN2Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/75/44199_DIN2Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/75/44199_DIN2Z.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/73/75/44199_8JOV8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/73/75/44199_8JOV8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/73/75/44199_8JOV8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/73/75/44199_8JOV8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/73/75/44199_8JOV8.jpg"
           },
           "name": "ガラスの仮面",
           "name_cn": "玻璃假面",
@@ -693,6 +883,34 @@
           "relation": "片头曲",
           "type": 3,
           "id": 282128
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/42/538015_MSZ0s.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/42/538015_MSZ0s.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/6b/42/538015_MSZ0s.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/42/538015_MSZ0s.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/42/538015_MSZ0s.jpg"
+          },
+          "name": "ガラスの仮面",
+          "name_cn": "玻璃假面",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 538015
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/51/559954_hJar7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/51/559954_hJar7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/72/51/559954_hJar7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/51/559954_hJar7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/51/559954_hJar7.jpg"
+          },
+          "name": "Promise / no reason",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 559954
         }
       ]
     }

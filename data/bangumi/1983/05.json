@@ -6,17 +6,22 @@
       "date": "1983-05-04",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/30/82321_BwDHH.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/30/82321_BwDHH.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/b4/30/82321_BwDHH.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/30/82321_BwDHH.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/30/82321_BwDHH.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/30/82321_hb2vt.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/30/82321_hb2vt.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/b4/30/82321_hb2vt.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/30/82321_hb2vt.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/30/82321_hb2vt.jpg"
       },
       "summary": "TV版第1作の劇場版，1983年9月16日に東宝系にて劇場公開。テレビ版で不備な点などを修正、変更している。また声優や主題歌、BGMも変更している。再放送で第2作、第3作と一緒に再放送されるときは、テレビ版ではなくこちらのほうが放送されることもある。",
       "name": "ナイン",
       "name_cn": "最后的冠军",
       "tags": [
-        "TV"
+        "1983",
+        "TV",
+        "グループ·タック",
+        "杉井ギサブロー",
+        "棒球",
+        "独立ova"
       ],
       "infobox": [
         {
@@ -40,11 +45,11 @@
           "value": "1984年9月5日"
         },
         {
-          "key": "助监督",
+          "key": "副导演",
           "value": "はしもとなおと"
         },
         {
-          "key": "演出助手",
+          "key": "演出助理",
           "value": "鹤田秀昭"
         },
         {
@@ -56,11 +61,11 @@
           "value": "前田庸生"
         },
         {
-          "key": "美術監督",
+          "key": "美术监督",
           "value": "大野広司、金村勝義"
         },
         {
-          "key": "色彩设定",
+          "key": "色彩设计",
           "value": "福永雅子、横山圭子"
         },
         {
@@ -137,6 +142,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 476811
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/d0/549248_B68ZQ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/d0/549248_B68ZQ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/d0/549248_B68ZQ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/d0/549248_B68ZQ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d0/549248_B68ZQ.jpg"
+          },
+          "name": "ナイン",
+          "name_cn": "最后的冠军 剧场版",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 549248
         }
       ]
     }
@@ -162,12 +181,16 @@
         "80年代",
         "TMS",
         "TMSEntertainment",
+        "TMS_Entertainment",
+        "movie",
         "出崎统",
         "出﨑统",
         "剧场版",
         "小林七郎",
+        "战斗",
         "映画",
         "杉野昭夫",
+        "森本晃司",
         "漫改",
         "漫画改",
         "长坂秀佳",
@@ -240,11 +263,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/0d/40929_9stxh.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/0d/40929_9stxh.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/01/0d/40929_9stxh.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/0d/40929_9stxh.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/0d/40929_9stxh.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/0d/40929_1VSi1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/0d/40929_1VSi1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/01/0d/40929_1VSi1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/0d/40929_1VSi1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/0d/40929_1VSi1.jpg"
           },
           "name": "ゴルゴ13",
           "name_cn": "骷髅13",
@@ -316,8 +339,10 @@
       "tags": [
         "1983",
         "TV",
+        "东映",
         "伪娘",
-        "漫画改"
+        "漫画改",
+        "间嶋里美"
       ],
       "infobox": [
         {
@@ -356,20 +381,116 @@
           "value": "1984年1月27日"
         },
         {
+          "key": "音乐",
+          "value": "西村耕次"
+        },
+        {
+          "key": "系列监督",
+          "value": "久岡敬史"
+        },
+        {
           "key": "脚本",
-          "value": "高橋健、森田信子、八木俊亜、湯川俊、かがみおさむ、久保田圭司、入江とおる、首藤剛志、大塚汎、今井俊昭、堀本卓、渡辺麻実、三宅直子、横堀昭三、今泉俊昭、北原卓"
-        },
-        {
-          "key": "脚本监修",
-          "value": "高桥健"
-        },
-        {
-          "key": "分镜/演出",
-          "value": "大貫信夫、湯川高光、池上和彦、高山秀樹、神無誠、井上修、秦泉寺博、中原収一、田代文夫、大関雅幸、小取喜好、勝井千賀雄、落合正宗、箕ノ口克己、菊池一仁、望月敬一郎、浜津守、鹿島典夫、鈴木幸雄、近藤英輔、中村憲由、杉山卓、増田光昭、矢沢則夫、大野久"
+          "value": "柳川茂、浅野佑美、土屋斗紀雄、戸田博史、筒井ともみ、首藤剛志"
         },
         {
           "key": "作画监督",
-          "value": "穐山昇、須藤修一、熊川正雄、田中平八郎、石井邦幸、湯川高光、白川忠志、高木敏夫、昆進之介、富沢和雄、鈴木英二、元藤郁子、酒井一美、福田皖、藤井晨一"
+          "value": "伊東誠、兼森義則、富沢和雄、松本清、河村信道、八島善孝、香西隆男、梅津泰臣、西城隆詞、今沢恵子、水村十司"
+        },
+        {
+          "key": "分镜",
+          "value": "久岡敬史、池田裕之、川尻善昭、石黒育、山吉康夫、高山秀樹、今沢哲男、福島和美、新田義方、笠井由勝、江幡宏之"
+        },
+        {
+          "key": "演出",
+          "value": "久岡敬史、池田裕之、川尻善昭、石黒育、山吉康夫、高山秀樹、今沢哲男、新田義方、笠井由勝、江幡宏之"
+        },
+        {
+          "key": "美术监督",
+          "value": "椋尾篁、窪田忠雄、鹿野良行、河野尋美、伊藤豊、峰村るみ子"
+        },
+        {
+          "key": "企画",
+          "value": "岡正、横山賢二"
+        },
+        {
+          "key": "原作",
+          "value": "江口寿史（集英社「週刊少年ジャンプ」連載）"
+        },
+        {
+          "key": "人物设定",
+          "value": "兼森義則"
+        },
+        {
+          "key": "美术设计",
+          "value": "窪田忠雄、椋尾篁"
+        },
+        {
+          "key": "制作管理",
+          "value": "製作担当：佐々木章"
+        },
+        {
+          "key": "企画制片人",
+          "value": "製作プロデューサー：大野清"
+        },
+        {
+          "key": "制作",
+          "value": "フジテレビ、東映"
+        },
+        {
+          "key": "剪辑",
+          "value": "吉川泰弘"
+        },
+        {
+          "key": "录音",
+          "value": "池上信照"
+        },
+        {
+          "key": "音效",
+          "value": "原田千昭"
+        },
+        {
+          "key": "音响监督",
+          "value": "本田保則"
+        },
+        {
+          "key": "主题歌作词",
+          "value": "伊藤アキラ"
+        },
+        {
+          "key": "主题歌作曲",
+          "value": "小林泉美"
+        },
+        {
+          "key": "主题歌编曲",
+          "value": "小林泉美"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "雪野ゆき、星野アイ"
+        },
+        {
+          "key": "演出助理",
+          "value": "堀川和政、江幡宏之、大武正弘、松沢正一、池田裕之"
+        },
+        {
+          "key": "原画",
+          "value": "八島善孝、横山健次、兼森義則、稲野義信、野田卓雄、上條修、菊地弘子、福土多鶴子、小曽根孝男、高田和子、今沢恵子、船塚純子、長崎重信、森山雄治、梅津泰臣、邑松明美、賀川愛、福土多鶴子、伊藤富士子、長岡康史、北久保弘之、伊東誠、星野絵美、川口弘明、尾関和彦、永瀬睦子、中村勝、河村信道、井上俊之、水田智美、渡辺章、長縄宏美、梶島正樹"
+        },
+        {
+          "key": "补间动画",
+          "value": "渡辺明美、宮川喜代美、川崎由美子、松倉利恵、森本知枝、豊美幸恵、河内由美、中村誠、藤本千珠、梅津美幸、斎藤久美子、稲垣賢吾、平修代、松下弥生、佐藤安子、石井邦俊、岡野秀彦、水野祥司、村井広宣、植木貴子、新井浩一、鈴木智子、笹原圭子、井上俊之、梶島正樹、岩井美登理、門多ひとみ、亀田真須美、濱洲英喜、中鶴勝祥、篠原静代、加々美高浩、三井洋一、稲垣孝子、中井ひろみ"
+        },
+        {
+          "key": "背景美术",
+          "value": "鹿野良行、峰村るみ子、伊藤豊、本間薫、河野尋美、橋爪冨紀子、佐藤美々、森下朋美、井原浩雄、橋本五月"
+        },
+        {
+          "key": "特效",
+          "value": "岡田良明、中島正之、橋爪朋二、熊井芳貴、石橋康全、北村喜久子"
+        },
+        {
+          "key": "摄影",
+          "value": "白井久男、石川欽一、佐野禎史、菅谷英夫、佐藤隆郎"
         }
       ],
       "total_episodes": 35,
@@ -436,8 +557,11 @@
       "tags": [
         "1983",
         "George.Lucas",
+        "冒险",
         "动作",
         "太空歌剧",
+        "奇幻",
+        "星战",
         "星球大战",
         "星球大战6:绝地归来",
         "欧美",
@@ -666,6 +790,34 @@
           "relation": "游戏",
           "type": 4,
           "id": 350912
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1c/a6/357039_4PE4O.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1c/a6/357039_4PE4O.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1c/a6/357039_4PE4O.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1c/a6/357039_4PE4O.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1c/a6/357039_4PE4O.jpg"
+          },
+          "name": "Angry Birds Star Wars",
+          "name_cn": "愤怒的小鸟星球大战版",
+          "relation": "游戏",
+          "type": 4,
+          "id": 357039
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/48/d1/382277_zx642.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/48/d1/382277_zx642.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/48/d1/382277_zx642.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/48/d1/382277_zx642.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/48/d1/382277_zx642.jpg"
+          },
+          "name": "Ahsoka",
+          "name_cn": "阿索卡",
+          "relation": "番外篇",
+          "type": 6,
+          "id": 382277
         },
         {
           "images": {

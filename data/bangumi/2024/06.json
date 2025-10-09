@@ -16,7 +16,9 @@
       "name": "まぁるい彼女と残念な彼氏",
       "name_cn": "棉花糖女孩遇上闷骚男孩",
       "tags": [
-        "2024"
+        "2024",
+        "TV",
+        "漫画改"
       ],
       "infobox": [
         {
@@ -72,7 +74,7 @@
         },
         {
           "key": "製作",
-          "value": "「まるカノ」製作委員会、Animation ID"
+          "value": "「まるカノ」製作委員会、AnimationID"
         },
         {
           "key": "主题歌演出",
@@ -131,14 +133,14 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c3/d6/505080_WwLvY.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c3/d6/505080_WwLvY.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c3/d6/505080_WwLvY.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c3/d6/505080_WwLvY.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c3/d6/505080_WwLvY.jpg"
           },
           "name": "まぁるい彼女と残念な彼氏 続編",
-          "name_cn": "",
+          "name_cn": "棉花糖女孩遇上闷骚男孩 续篇",
           "relation": "续集",
           "type": 2,
           "id": 505080
@@ -182,11 +184,15 @@
         "TMS",
         "WEB",
         "トムス·エンタテインメント",
+        "刃牙",
         "剧场版",
+        "动画",
         "动画电影",
         "岛﨑信长",
         "平野俊贵",
         "战斗",
+        "日本",
+        "格斗",
         "漫改",
         "热血"
       ],
@@ -320,7 +326,7 @@
           },
           "name": "ケンガンアシュラ",
           "name_cn": "拳愿阿修罗",
-          "relation": "主线故事",
+          "relation": "书籍",
           "type": 1,
           "id": 108564
         },
@@ -393,15 +399,20 @@
         "TV",
         "WEB",
         "codegeass",
+        "サンライズ",
         "动画",
         "原创",
         "大桥誉志光",
         "夺还的罗赛",
         "战斗",
+        "日本",
+        "日本动画",
         "木村畅",
         "机战",
         "科幻",
-        "萝卜"
+        "续作",
+        "萝卜",
+        "鲁路修"
       ],
       "infobox": [
         {
@@ -517,9 +528,23 @@
           },
           "name": "コードギアス 反逆のルルーシュ",
           "name_cn": "Code Geass 反叛的鲁路修",
-          "relation": "相同世界观",
+          "relation": "角色出演",
           "type": 2,
           "id": 793
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/ed/24593_yY4xP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/ed/24593_yY4xP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d6/ed/24593_yY4xP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/ed/24593_yY4xP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/ed/24593_yY4xP.jpg"
+          },
+          "name": "コードギアス 亡国のアキト 第1章「翼竜は舞い降りた」",
+          "name_cn": "Code Geass 亡国的阿基德 第一章「翼龙降临」",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 24593
         },
         {
           "images": {
@@ -531,7 +556,7 @@
           },
           "name": "コードギアス 双貌のオズ SIDE：オルドリン",
           "name_cn": "Code Geass 双面的奥兹 SIDE:奥尔德林",
-          "relation": "书籍",
+          "relation": "相同世界观",
           "type": 1,
           "id": 156933
         },
@@ -545,9 +570,23 @@
           },
           "name": "コードギアス 復活のルルーシュ",
           "name_cn": "Code Geass 复活的鲁路修",
-          "relation": "前传",
+          "relation": "相同世界观",
           "type": 2,
           "id": 199228
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5a/05/306532_Z9pCM.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5a/05/306532_Z9pCM.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5a/05/306532_Z9pCM.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5a/05/306532_Z9pCM.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5a/05/306532_Z9pCM.jpg"
+          },
+          "name": "コードギアス 反逆のルルーシュ ロストストーリーズ",
+          "name_cn": "Code Geass 反叛的鲁路修 Lost Stories",
+          "relation": "游戏",
+          "type": 4,
+          "id": 306532
         },
         {
           "images": {
@@ -559,51 +598,9 @@
           },
           "name": "コードギアス 奪還のロゼ 第1幕",
           "name_cn": "Code Geass 夺还的罗赛 第1幕",
-          "relation": "不同演绎",
+          "relation": "总集篇",
           "type": 2,
           "id": 321469
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ab/e0/470832_3Rg39.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ab/e0/470832_3Rg39.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ab/e0/470832_3Rg39.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ab/e0/470832_3Rg39.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ab/e0/470832_3Rg39.jpg"
-          },
-          "name": "コードギアス 奪還のロゼ 第2幕",
-          "name_cn": "Code Geass 夺还的罗赛 第2幕",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 470832
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/7d/470833_s6b18.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/7d/470833_s6b18.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/90/7d/470833_s6b18.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/7d/470833_s6b18.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/7d/470833_s6b18.jpg"
-          },
-          "name": "コードギアス 奪還のロゼ 第3幕",
-          "name_cn": "Code Geass 夺还的罗赛 第3幕",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 470833
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3b/2d/470834_cIHQb.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3b/2d/470834_cIHQb.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3b/2d/470834_cIHQb.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3b/2d/470834_cIHQb.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3b/2d/470834_cIHQb.jpg"
-          },
-          "name": "コードギアス 奪還のロゼ 最終幕",
-          "name_cn": "Code Geass 夺还的罗赛 最终幕",
-          "relation": "不同演绎",
-          "type": 2,
-          "id": 470834
         },
         {
           "images": {
@@ -632,6 +629,76 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 486286
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fe/40/532778_A542F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fe/40/532778_A542F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/fe/40/532778_A542F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fe/40/532778_A542F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fe/40/532778_A542F.jpg"
+          },
+          "name": "UNION ARENA",
+          "name_cn": "携战之境",
+          "relation": "游戏",
+          "type": 4,
+          "id": 532778
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/18/590806_2QXen.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/18/590806_2QXen.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/da/18/590806_2QXen.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/18/590806_2QXen.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/18/590806_2QXen.jpg"
+          },
+          "name": "コードギアス 新潔のアルマリア",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 590806
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ab/e0/470832_3Rg39.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ab/e0/470832_3Rg39.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ab/e0/470832_3Rg39.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ab/e0/470832_3Rg39.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ab/e0/470832_3Rg39.jpg"
+          },
+          "name": "コードギアス 奪還のロゼ 第2幕",
+          "name_cn": "Code Geass 夺还的罗赛 第2幕",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 470832
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/7d/470833_s6b18.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/7d/470833_s6b18.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/90/7d/470833_s6b18.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/7d/470833_s6b18.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/7d/470833_s6b18.jpg"
+          },
+          "name": "コードギアス 奪還のロゼ 第3幕",
+          "name_cn": "Code Geass 夺还的罗赛 第3幕",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 470833
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3b/2d/470834_cIHQb.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3b/2d/470834_cIHQb.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3b/2d/470834_cIHQb.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3b/2d/470834_cIHQb.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3b/2d/470834_cIHQb.jpg"
+          },
+          "name": "コードギアス 奪還のロゼ 最終幕",
+          "name_cn": "Code Geass 夺还的罗赛 最终幕",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 470834
         }
       ]
     }
@@ -654,14 +721,18 @@
       "name_cn": "高尔夫物语 第一季",
       "tags": [
         "2024",
+        "2024年4月",
         "2024年7月",
         "Lay-duce",
         "TV",
         "WEB",
         "久野美咲",
+        "日本",
+        "漫改",
         "漫画改",
         "运动",
-        "难波日登志"
+        "难波日登志",
+        "高尔夫"
       ],
       "infobox": [
         {
@@ -823,16 +894,19 @@
       "date": "2024-06-05",
       "platform": "WEB",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/de/1c/474905_NF1w6.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/de/1c/474905_NF1w6.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/de/1c/474905_NF1w6.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/de/1c/474905_NF1w6.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/de/1c/474905_NF1w6.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/de/1c/474905_ug024.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/de/1c/474905_ug024.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/de/1c/474905_ug024.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/de/1c/474905_ug024.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/de/1c/474905_ug024.jpg"
       },
       "summary": "あたしンち連載30周年を迎える2024年、新作アニメの制作が決定しました！\n\nタチバナ家の日常を、再びアニメーションでお楽しみいただけます！\nYouTube等での配信を予定しています。公開時期などの詳細は続報をお待ちください。",
       "name": "あたしンちNEXT",
       "name_cn": "我们这一家NEXT",
-      "tags": [],
+      "tags": [
+        "WEB",
+        "子供向"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -851,12 +925,44 @@
           "value": "https://atashinchi30th-anime.shin-ei-animation.jp/"
         },
         {
+          "key": "在线播放平台",
+          "value": "YouTube、ABEMA"
+        },
+        {
+          "key": "播放结束",
+          "value": "2024年10月5日"
+        },
+        {
+          "key": "导演",
+          "value": "のなかかずみ"
+        },
+        {
+          "key": "音乐",
+          "value": "W.m.W、桜庭銃、相良まさえ、多田彰文、中村博"
+        },
+        {
           "key": "Copyright",
           "value": "©︎けらえいこ/シンエイ"
         },
         {
           "key": "原作",
-          "value": "けらえいこ"
+          "value": "けらえいこ（朝日新聞出版刊）"
+        },
+        {
+          "key": "摄影监督",
+          "value": "梶原義大"
+        },
+        {
+          "key": "企画",
+          "value": "梅澤道彦"
+        },
+        {
+          "key": "制片人",
+          "value": "山崎香利"
+        },
+        {
+          "key": "制作主任",
+          "value": "制作デスク"
         }
       ],
       "total_episodes": 5,
@@ -935,12 +1041,15 @@
       "tags": [
         "2024",
         "2024年",
+        "2024年6月",
         "OVA",
         "Passione",
         "StudioLings",
+        "スタジオリングス",
         "パッショーネ",
         "一迅社",
         "剧场版",
+        "悬疑",
         "搞笑",
         "摇曳百合",
         "日常",
@@ -950,8 +1059,12 @@
         "治愈",
         "漫改",
         "漫画改",
+        "番外",
         "百合",
+        "续作",
         "萌",
+        "萌系",
+        "萌豚",
         "萝莉",
         "轻百合",
         "龙轮直征"
@@ -1148,11 +1261,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/cd/511934_RAl3r.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/cd/511934_RAl3r.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/25/cd/511934_RAl3r.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/cd/511934_RAl3r.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/cd/511934_RAl3r.jpg"
           },
           "name": "大室家 dear friends （特装限定版）SPECIAL CD",
           "name_cn": "",
@@ -1170,11 +1283,11 @@
       "date": "2024-06-14",
       "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/f8/476808_U4Hmm.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/f8/476808_U4Hmm.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/03/f8/476808_U4Hmm.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/f8/476808_U4Hmm.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/f8/476808_U4Hmm.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/f8/476808_BpFia.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/f8/476808_BpFia.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/03/f8/476808_BpFia.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/f8/476808_BpFia.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/f8/476808_BpFia.jpg"
       },
       "summary": "「何かを作りたい。自分が作ったモノで誰かの心を動かしたい」\n\n高校生の朝屋彼方（あさや かなた）は、MV（ミュージックビデオ）の制作に没頭していた。\n\nある夜、映像のモチーフを探して街を探索していた彼方は、\n雨の中でストリートライブをする女性に出会い、その歌に衝撃を受ける。\n\n「この歌のMVを作りたい、自分が待っていたのはこの曲だ」\nその歌声と、感情をぶつけながら歌い上げる姿に心が突き動かされた。\n\nそして翌日、彼方は教壇に立った新任教師の姿を見て驚愕する。\n\nそこにいた織重夕（おりえ ゆう）は前夜、彼方の心を突き動かしたミュージシャンだった。\n\nモノづくりを始め、その楽しさを糧に次に進む彼方と\nモノづくりを諦め、その苦しさから別の道に歩き出した夕。\n\n二人の作った作品は、それぞれに何をもたらすのだろうか。\n\n「動画を作りたいんです。先生の歌の!!」\n\n===================================\n\nこの時代にモノづくりを志す全ての人へ\n\nモノづくりの楽しさや苦しみを瑞々しく描いた本作は、脚本を『ラブライブ!』『宇宙よりも遠い場所』の花田十輝が担当、監督・演出からキャラクターデザインなど映像のほぼすべてを ぽぷりか,おはじき,まごつき で構成される映像制作チーム「Hurray!(フレイ)」の3名で作り上げた。\n\nヨルシカのMVやTVアニメ『可愛いだけじゃない式守さん』のED映像を手掛けるなど、今最も注目を集めるチームが満を持して送り出す初の劇場アニメーションは、フリー3DCGソフト「Blender」をメインツールとして制作が行われており、その独特で繊細な画作りにも注目が集まる。\n\n劇中楽曲はボカロPとしても活躍するVIVIが担当、歌唱はSpotifyが活躍を期待する次世代アーティスト 「RADAR:Early Noise 2022」にも選ばれたシンガーソングライターの菅原圭が担当しており、中性的でエモーショナルな歌声で織重夕が楽曲に込めた想いを歌い上げる。\n\n観た人達に前を向いて笑ってもらいたい。\n\nどうかあなたに、“数分間のエールを”",
       "name": "数分間のエールを",
@@ -1188,11 +1301,19 @@
         "Hurray!",
         "ぽぷりか",
         "アニメ映画",
+        "创作",
         "剧场版",
         "动画电影",
+        "励志",
         "原创",
+        "日本",
+        "日本动画",
+        "校园",
+        "治愈",
+        "电影",
         "花江夏树",
         "花田十辉",
+        "青春",
         "音乐"
       ],
       "infobox": [
@@ -1300,11 +1421,11 @@
         },
         {
           "images": {
-            "small": "",
-            "grid": "",
-            "large": "",
-            "medium": "",
-            "common": ""
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/26/523373_Hn33I.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/26/523373_Hn33I.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cc/26/523373_Hn33I.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/26/523373_Hn33I.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/26/523373_Hn33I.jpg"
           },
           "name": "シリウス",
           "name_cn": "",
@@ -1333,8 +1454,10 @@
       "name_cn": "月歌 剧场版 兔子王国",
       "tags": [
         "2024",
+        "StudioSign",
         "偶像",
-        "剧场版"
+        "剧场版",
+        "女性向"
       ],
       "infobox": [
         {
@@ -1503,7 +1626,6 @@
       "name": "ルックバック",
       "name_cn": "蓦然回首",
       "tags": [
-        "2020s",
         "2024",
         "2024年",
         "2024年4月",
@@ -1518,10 +1640,11 @@
         "励志",
         "友情",
         "奇幻",
+        "少年向",
         "押山清高",
         "日常",
         "日本",
-        "映画",
+        "校园",
         "治愈",
         "漫改",
         "漫画",
@@ -1599,7 +1722,7 @@
         },
         {
           "key": "制片人",
-          "value": "大山良、松村一人、篠崎真哉；原作担当制片人:林士平"
+          "value": "松村一人、篠崎真哉；原作担当制片人:林士平"
         },
         {
           "key": "协力",
@@ -1697,6 +1820,7 @@
         "剧场版",
         "日本",
         "漫画改",
+        "少年向",
         "剧情"
       ],
       "volumes": 0,
@@ -1767,6 +1891,7 @@
       "name": "劇場総集編ぼっち・ざ・ろっく！ Re:",
       "name_cn": "剧场总集篇孤独摇滚！ Re:",
       "tags": [
+        "2020s",
         "2024",
         "2024年",
         "2024年6月",
@@ -1775,8 +1900,6 @@
         "TV",
         "乐队",
         "剧场版",
-        "动画电影",
-        "吉田惠里香",
         "孤独摇滚",
         "总集篇",
         "搞笑",
@@ -1784,6 +1907,7 @@
         "斎藤圭一郎",
         "日常",
         "日本",
+        "日本动画",
         "校园",
         "梅原翔太",
         "治愈",
@@ -1793,7 +1917,7 @@
         "百合",
         "续作",
         "芳文社",
-        "萌",
+        "轻百",
         "轻百合",
         "青春",
         "音乐"
@@ -1911,8 +2035,8 @@
           "value": "石川達也、小林宏之"
         },
         {
-          "key": "总制片人",
-          "value": "清水暁（制作统括）"
+          "key": "制作统括",
+          "value": "清水暁"
         },
         {
           "key": "动画制片人",
@@ -1944,7 +2068,7 @@
         },
         {
           "key": "演出",
-          "value": "斎藤圭一郎、藤原佳幸、山本ゆうすけ、刈谷暢秀、川上雄介；Live导演：川上雄介"
+          "value": "斎藤圭一郎、藤原佳幸、山本ゆうすけ、刈谷暢秀、川上雄介"
         },
         {
           "key": "作画监督",
@@ -2075,7 +2199,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/63/49/500790_KPMim.jpg"
           },
           "name": "ぼっち・ざ・ろっく！ エピグラフ",
-          "name_cn": "",
+          "name_cn": "孤独摇滚！番外",
           "relation": "书籍",
           "type": 1,
           "id": 500790
@@ -2135,6 +2259,194 @@
           "relation": "角色歌",
           "type": 3,
           "id": 520345
+        }
+      ]
+    }
+  },
+  {
+    "title": "銀魂オンシアター2D 一国傾城篇",
+    "date": "2024-06-21",
+    "bangumi": {
+      "date": "2024-06-21",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/55/480096_Zcn5o.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/55/480096_Zcn5o.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/da/55/480096_Zcn5o.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/55/480096_Zcn5o.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/55/480096_Zcn5o.jpg"
+      },
+      "summary": "天女に優る美貌を持ち、諸芸においても右に出るものはなしと言われた伝説の花魁・鈴蘭。\n\n月詠を介してその伝説の花魁から逆指名での依頼を受け、浮かれ気分で吉原へとやってきた銀時の目の前に現れたのは、傾国の美姫であるという噂とは似ても似つかない、余命幾許もないであろう老婆であった。\n\n――月が出たらまた会いに来てくれる\n\n遠い昔に想い人と交わした約束を信じ、今も鈴蘭が吉原に留まり続けていることを日輪から聞かされたた銀時と月詠は、それぞれ彼女の想い人に繋がる手がかりを探し始める。程なくして万事屋一行は鈴蘭の顧客に関する噂へと辿り着くが、それは先代将軍・徳川定定に纏わるものであった。\n\n真相を確かめるべく、現将軍・徳川茂茂の妹君であるそよ姫のもとへ、親友の神楽が友達を連れて遊びに来たという口実で江戸城へと潜り込んだ銀時たち。しかし江戸城内は何者かによる幕府要人の襲撃事件が連続したことにより戒厳令がしかれており、佐々木異三郎をはじめとした見廻組一行が常に目を光らせている状況であった。\n\nどうにか城内を自由に動くためのカモフラージュとして缶蹴りを始める銀時たちであったが、蹴り上げた缶が茂茂の額に直撃。慌てて証拠隠滅を図る一行のもとへ、茂茂との面会を求めて定定が現れた。\n\nなんとか誤魔化しながら場を繋ぎつつ、時機を見て「鈴蘭を覚えていらっしゃいますか」と踏み込むことに成功した月詠であったが、そこで定定が語り始めたのは幕府を揺るがす陰謀の渦巻いた、衝撃の事実であった――",
+      "name": "銀魂オンシアター2D 一国傾城篇",
+      "name_cn": "银魂ON THEATER 2D 一国倾城篇",
+      "tags": [
+        "2024",
+        "BNPictures",
+        "SF",
+        "アニメ映画",
+        "剧场版",
+        "大和屋暁",
+        "总集篇",
+        "搞笑",
+        "日本",
+        "未发售",
+        "藤田阳一",
+        "钉宫理恵",
+        "银魂"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "银魂ON THEATER 2D 一国倾城篇"
+        },
+        {
+          "key": "上映年度",
+          "value": "2024年6月21日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://anime-gintama.com/on_theater_2d/ikkokukeisei/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©空知英秋／集英社･テレビ東京･電通･BNP･アニプレックス"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 480096,
+      "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5a/dc/47576_5gU11.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5a/dc/47576_5gU11.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5a/dc/47576_5gU11.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5a/dc/47576_5gU11.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5a/dc/47576_5gU11.jpg"
+          },
+          "name": "銀魂' 延長戦",
+          "name_cn": "银魂' 延长战",
+          "relation": "全集",
+          "type": 2,
+          "id": 47576
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/b4/453179_1njn0.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/b4/453179_1njn0.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/84/b4/453179_1njn0.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/b4/453179_1njn0.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/b4/453179_1njn0.jpg"
+          },
+          "name": "銀魂オンシアター2D バラガキ篇",
+          "name_cn": "银魂ON THEATER 2D 荆棘流氓篇",
+          "relation": "前传",
+          "type": 2,
+          "id": 453179
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/56/500060_1xm0h.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/56/500060_1xm0h.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/85/56/500060_1xm0h.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/56/500060_1xm0h.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/56/500060_1xm0h.jpg"
+          },
+          "name": "銀魂オンシアター2D 金魂篇",
+          "name_cn": "银魂ON THEATER 2D 金魂篇",
+          "relation": "续集",
+          "type": 2,
+          "id": 500060
+        }
+      ]
+    }
+  },
+  {
+    "title": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+    "date": "2024-06-28",
+    "bangumi": {
+      "date": "2024-06-28",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/38/480882_OIOvu.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/38/480882_OIOvu.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/2f/38/480882_OIOvu.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/38/480882_OIOvu.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/38/480882_OIOvu.jpg"
+      },
+      "summary": "ばいきんまんが愛と勇気の戦士に!?\nある日、一冊の絵本を見つけたばいきんまん。\n絵本から「愛と勇気の戦士ばいきんまん、助けにきて！！」と声が聞こえ、\n絵本の中に吸い込まれてしまいます。\n砂漠の先に広がる大きな森で出会ったのは、森の妖精・ルルン。\n怖がりで勇気が出せないルルンは、森で大暴れする\n“すいとるゾウ”をやっつけてほしいとばいきんまんにお願いします。\n最初は嫌がりながらも、諦めずに立ち向かうばいきんまんの姿に\nルルンは勇気がわいてきます。\nしかし、すいとるゾウの強さに大苦戦！\n絶体絶命のピンチの中、ばいきんまんはルルンに\n「アンパンマンを呼んでこい！」と伝えるのでした ―― 。\nアンパンマンとばいきんまんが力を合わせて大活躍！\nさぁ！今年の夏は、みんなで一緒に〈絵本の世界〉を大冒険しよう！",
+      "name": "それいけ！アンパンマン ばいきんまんとえほんのルルン",
+      "name_cn": "面包超人 细菌人与绘本的森林妖精",
+      "tags": [
+        "剧场版"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "面包超人 细菌人与绘本的森林妖精"
+        },
+        {
+          "key": "上映年度",
+          "value": "2024年6月28日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://anpan-movie.com/2024/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©やなせたかし／フレーベル館・TMS・NTV ©やなせたかし／アンパンマン製作委員会2024"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "やなせたかし（フレーベル館刊）"
+        },
+        {
+          "key": "製作",
+          "value": "アンパンマン製作委員会2024"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 480882,
+      "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dd/52/81562_FMs3F.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dd/52/81562_FMs3F.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/dd/52/81562_FMs3F.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dd/52/81562_FMs3F.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dd/52/81562_FMs3F.jpg"
+          },
+          "name": "それいけ!アンパンマン",
+          "name_cn": "面包超人",
+          "relation": "主线故事",
+          "type": 2,
+          "id": 81562
         }
       ]
     }
@@ -2279,204 +2591,6 @@
           "relation": "前传",
           "type": 2,
           "id": 426274
-        }
-      ]
-    }
-  },
-  {
-    "title": "銀魂オンシアター2D 一国傾城篇",
-    "date": "2024-06-21",
-    "bangumi": {
-      "date": "2024-06-21",
-      "platform": "剧场版",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/da/55/480096_Zcn5o.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/da/55/480096_Zcn5o.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/da/55/480096_Zcn5o.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/da/55/480096_Zcn5o.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/da/55/480096_Zcn5o.jpg"
-      },
-      "summary": "天女に優る美貌を持ち、諸芸においても右に出るものはなしと言われた伝説の花魁・鈴蘭。\n\n月詠を介してその伝説の花魁から逆指名での依頼を受け、浮かれ気分で吉原へとやってきた銀時の目の前に現れたのは、傾国の美姫であるという噂とは似ても似つかない、余命幾許もないであろう老婆であった。\n\n――月が出たらまた会いに来てくれる\n\n遠い昔に想い人と交わした約束を信じ、今も鈴蘭が吉原に留まり続けていることを日輪から聞かされたた銀時と月詠は、それぞれ彼女の想い人に繋がる手がかりを探し始める。程なくして万事屋一行は鈴蘭の顧客に関する噂へと辿り着くが、それは先代将軍・徳川定定に纏わるものであった。\n\n真相を確かめるべく、現将軍・徳川茂茂の妹君であるそよ姫のもとへ、親友の神楽が友達を連れて遊びに来たという口実で江戸城へと潜り込んだ銀時たち。しかし江戸城内は何者かによる幕府要人の襲撃事件が連続したことにより戒厳令がしかれており、佐々木異三郎をはじめとした見廻組一行が常に目を光らせている状況であった。\n\nどうにか城内を自由に動くためのカモフラージュとして缶蹴りを始める銀時たちであったが、蹴り上げた缶が茂茂の額に直撃。慌てて証拠隠滅を図る一行のもとへ、茂茂との面会を求めて定定が現れた。\n\nなんとか誤魔化しながら場を繋ぎつつ、時機を見て「鈴蘭を覚えていらっしゃいますか」と踏み込むことに成功した月詠であったが、そこで定定が語り始めたのは幕府を揺るがす陰謀の渦巻いた、衝撃の事実であった――",
-      "name": "銀魂オンシアター2D 一国傾城篇",
-      "name_cn": "银魂ON THEATER 2D 一国倾城篇",
-      "tags": [
-        "2024",
-        "BNPictures",
-        "剧场版"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "银魂ON THEATER 2D 一国倾城篇"
-        },
-        {
-          "key": "上映年度",
-          "value": "2024年6月21日"
-        },
-        {
-          "key": "官方网站",
-          "value": "https://anime-gintama.com/on_theater_2d/ikkokukeisei/"
-        },
-        {
-          "key": "Copyright",
-          "value": "©空知英秋／集英社･テレビ東京･電通･BNP･アニプレックス"
-        },
-        {
-          "key": "话数",
-          "value": "1"
-        }
-      ],
-      "total_episodes": 1,
-      "id": 480096,
-      "eps": 1,
-      "meta_tags": [
-        "剧场版"
-      ],
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5a/dc/47576_5gU11.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5a/dc/47576_5gU11.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5a/dc/47576_5gU11.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5a/dc/47576_5gU11.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5a/dc/47576_5gU11.jpg"
-          },
-          "name": "銀魂' 延長戦",
-          "name_cn": "银魂' 延长战",
-          "relation": "全集",
-          "type": 2,
-          "id": 47576
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/b4/453179_1njn0.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/b4/453179_1njn0.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/84/b4/453179_1njn0.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/b4/453179_1njn0.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/b4/453179_1njn0.jpg"
-          },
-          "name": "銀魂オンシアター2D バラガキ篇",
-          "name_cn": "银魂ON THEATER 2D 荆棘流氓篇",
-          "relation": "前传",
-          "type": 2,
-          "id": 453179
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/56/500060_1xm0h.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/56/500060_1xm0h.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/85/56/500060_1xm0h.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/56/500060_1xm0h.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/56/500060_1xm0h.jpg"
-          },
-          "name": "銀魂オンシアター2D 金魂篇",
-          "name_cn": "银魂ON THEATER 2D 金魂篇",
-          "relation": "续集",
-          "type": 2,
-          "id": 500060
-        }
-      ]
-    }
-  },
-  {
-    "title": "是王者啊？第3季 有求必应星之队",
-    "date": "2024-06-13",
-    "bangumi": {
-      "date": "2024-06-13",
-      "platform": "WEB",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/8c/462295_L1n55.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/8c/462295_L1n55.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/d2/8c/462295_L1n55.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/8c/462295_L1n55.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/8c/462295_L1n55.jpg"
-      },
-      "summary": "在神秘的东方幻想世界中，稷下学院作为王者大陆的最高学府，吸引着众多的求学者。在这里，一个名为“星之队”的小组是特别的存在，但因某些缘由他们面临着解散。在一次偶然帮助学妹解决机关问题中，星之队成员们运用各自的专长协助作战，化解危机。队长曜再次呼吁组员重整出发，组成“有求必应”互助小组，面向校园的同窗，帮助大家解决各种问题。本季故事随着“星之队”展开，结合稷下校园的大小事、展现出成员们搞笑且治愈的日常，以及难能可贵的友情羁绊。",
-      "name": "是王者啊？第3季 有求必应星之队",
-      "name_cn": "是王者啊？ 第三季",
-      "tags": [
-        "国产",
-        "泡面番"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "是王者啊？ 第三季"
-        },
-        {
-          "key": "话数",
-          "value": "13"
-        },
-        {
-          "key": "放送开始",
-          "value": "2024年6月13日"
-        },
-        {
-          "key": "放送星期",
-          "value": "星期四"
-        }
-      ],
-      "total_episodes": 13,
-      "id": 462295,
-      "eps": 13,
-      "meta_tags": [
-        "游戏改",
-        "日常",
-        "中国",
-        "WEB"
-      ],
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/72/00/194792_0bB66.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/72/00/194792_0bB66.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/72/00/194792_0bB66.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/72/00/194792_0bB66.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/72/00/194792_0bB66.jpg"
-          },
-          "name": "王者荣耀",
-          "name_cn": "王者荣耀",
-          "relation": "游戏",
-          "type": 4,
-          "id": 194792
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/62/407308_g9aLY.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/20/62/407308_g9aLY.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/20/62/407308_g9aLY.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/20/62/407308_g9aLY.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/20/62/407308_g9aLY.jpg"
-          },
-          "name": "是王者啊？第2季 云中不完全剿匪日记",
-          "name_cn": "是王者啊？ 第二季",
-          "relation": "前传",
-          "type": 2,
-          "id": 407308
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/b3/479011_W1S3Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/b3/479011_W1S3Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7f/b3/479011_W1S3Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/b3/479011_W1S3Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/b3/479011_W1S3Z.jpg"
-          },
-          "name": "是王者啊？第4季 牡丹香幽大理寺",
-          "name_cn": "是王者啊？ 第四季",
-          "relation": "续集",
-          "type": 2,
-          "id": 479011
         }
       ]
     }

@@ -29,7 +29,6 @@
         "剧场版",
         "剧情",
         "奇幻",
-        "悬疑",
         "战争",
         "战斗",
         "日本",
@@ -38,6 +37,7 @@
         "泽野弘之",
         "漫改",
         "漫画改",
+        "濑古浩司",
         "瀬古浩司",
         "热血",
         "神作",
@@ -298,10 +298,14 @@
       "name_cn": "关于养猫我一直是新手 第二季",
       "tags": [
         "2023",
+        "2023年",
         "2023年4月",
         "STUDIOPUYUKAI",
         "TV",
+        "WEB",
         "日常",
+        "日本",
+        "泡面",
         "泡面番",
         "漫改",
         "漫画改",
@@ -794,7 +798,10 @@
       "summary": "都会的で色鮮やかな描写で、80年代に大ブームを巻き起こした「ハートカクテル」。\n作者わたせせいぞうさんが20年ぶりに書き下ろした新作をアニメ化！",
       "name": "ハートカクテル カラフル",
       "name_cn": "心情鸡尾酒 Colorful",
-      "tags": [],
+      "tags": [
+        "TV",
+        "治愈"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -1007,13 +1014,12 @@
         "TRIGGER",
         "ssss",
         "剧场版",
-        "动画电影",
         "原创",
         "古立特",
         "奇幻",
         "恋爱",
         "战斗",
-        "日本动画",
+        "日本",
         "机战",
         "校园",
         "热血",
@@ -1021,6 +1027,7 @@
         "特摄改",
         "电影",
         "科幻",
+        "续作",
         "萝卜",
         "长谷川圭一",
         "雨宫哲",
@@ -1073,7 +1080,7 @@
         },
         {
           "key": "人物设定",
-          "value": "坂本勝；次要人物：中村真由美"
+          "value": "坂本勝"
         },
         {
           "key": "音乐",
@@ -1131,6 +1138,7 @@
         "科幻",
         "剧场版",
         "机战",
+        "日本",
         "原创"
       ],
       "volumes": 0,
@@ -1139,6 +1147,34 @@
       "nsfw": false,
       "type": 2,
       "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/33/208559_6jzc1.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/33/208559_6jzc1.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/33/208559_6jzc1.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/33/208559_6jzc1.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/33/208559_6jzc1.jpg"
+          },
+          "name": "碧蓝航线",
+          "name_cn": "碧蓝航线",
+          "relation": "游戏",
+          "type": 4,
+          "id": 208559
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0a/c2/218220_CZEc7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0a/c2/218220_CZEc7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0a/c2/218220_CZEc7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0a/c2/218220_CZEc7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0a/c2/218220_CZEc7.jpg"
+          },
+          "name": "戦姫絶唱シンフォギアXD UNLIMITED",
+          "name_cn": "战姬绝唱SYMPHOGEAR XD UNLIMITED",
+          "relation": "联动",
+          "type": 4,
+          "id": 218220
+        },
         {
           "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/1b/de/410153_v1SY3.jpg",
@@ -1239,6 +1275,34 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e5/25/547491_9299f.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e5/25/547491_9299f.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e5/25/547491_9299f.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e5/25/547491_9299f.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e5/25/547491_9299f.jpg"
+          },
+          "name": "グリッドマン ユニバース ヒロインイラストアーカイブ",
+          "name_cn": "",
+          "relation": "画集",
+          "type": 1,
+          "id": 547491
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/e4/581232_WuVVZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/e4/581232_WuVVZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/84/e4/581232_WuVVZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/e4/581232_WuVVZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/e4/581232_WuVVZ.jpg"
+          },
+          "name": "『グリッドマン ユニバース』SPECIAL EVENT＜怪獣共生思想＞",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 6,
+          "id": 581232
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/78/218712_c2Db6.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/78/218712_c2Db6.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/d1/78/218712_c2Db6.jpg",
@@ -1253,20 +1317,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/80/410936_6LYUT.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/80/410936_6LYUT.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/83/80/410936_6LYUT.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/80/410936_6LYUT.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/80/410936_6LYUT.jpg"
-          },
-          "name": "劇場総集編 SSSS.GRIDMAN",
-          "name_cn": "剧场总集篇 SSSS.古立特",
-          "relation": "前传",
-          "type": 2,
-          "id": 410936
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/11/296367_yPic1.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/11/296367_yPic1.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a1/11/296367_yPic1.jpg",
@@ -1278,20 +1328,6 @@
           "relation": "前传",
           "type": 2,
           "id": 296367
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b1/a5/410938_XJtGx.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b1/a5/410938_XJtGx.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b1/a5/410938_XJtGx.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b1/a5/410938_XJtGx.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b1/a5/410938_XJtGx.jpg"
-          },
-          "name": "劇場総集編 SSSS.DYNAZENON",
-          "name_cn": "剧场总集篇 SSSS.电光机王",
-          "relation": "前传",
-          "type": 2,
-          "id": 410938
         }
       ]
     }
@@ -1317,12 +1353,18 @@
         "Production.I.G",
         "ProductionI.G",
         "剧场版",
+        "动画电影",
         "吉村清子",
         "奇幻",
         "子供向",
+        "小说改",
+        "日本",
+        "正太",
         "浜名孝行",
         "滨名孝行",
+        "漫改",
         "漫画改",
+        "石见舞菜香",
         "萝莉",
         "魔法"
       ],
@@ -1476,7 +1518,9 @@
       "name": "爆丸レジェンズ",
       "name_cn": "爆丸传奇",
       "tags": [
-        "WEB"
+        "2023",
+        "WEB",
+        "子供向"
       ],
       "infobox": [
         {
@@ -1635,18 +1679,26 @@
       "name_cn": "哆啦A梦：大雄与天空的理想乡",
       "tags": [
         "2023",
+        "2023年",
         "SHIN-EI",
         "シンエイ动画",
         "冒险",
         "剧场版",
+        "动画电影",
         "原创",
         "古沢良太",
         "哆啦A梦",
+        "喜剧",
         "堂山卓见",
+        "子供向",
+        "搞笑",
+        "新锐动画",
         "日本",
         "日本动画",
+        "未发售",
         "治愈",
         "漫画改",
+        "电影",
         "科幻",
         "童年"
       ],
@@ -1869,6 +1921,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/41/d1/325571_dmy0q.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/41/d1/325571_dmy0q.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/41/d1/325571_dmy0q.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/41/d1/325571_dmy0q.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/41/d1/325571_dmy0q.jpg"
+          },
+          "name": "映画ドラえもん のび太の宇宙小戦争2021",
+          "name_cn": "哆啦A梦：大雄的宇宙小战争 2021",
+          "relation": "前传",
+          "type": 2,
+          "id": 325571
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/16/415704_L0921.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/16/415704_L0921.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/35/16/415704_L0921.jpg",
@@ -1922,6 +1988,20 @@
           "relation": "书籍",
           "type": 1,
           "id": 423290
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/23/444359_T3i5x.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/23/444359_T3i5x.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/99/23/444359_T3i5x.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/23/444359_T3i5x.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/23/444359_T3i5x.jpg"
+          },
+          "name": "映画ドラえもん のび太の地球交響楽",
+          "name_cn": "哆啦A梦：大雄的地球交响乐",
+          "relation": "续集",
+          "type": 2,
+          "id": 444359
         }
       ]
     }
@@ -1952,6 +2032,7 @@
         "宫岛善博",
         "总集篇",
         "恋爱",
+        "日本",
         "机战",
         "特摄",
         "科幻",
@@ -2163,6 +2244,136 @@
     }
   },
   {
+    "title": "劇場版アルゴナビス AXIA",
+    "date": "2023-03-24",
+    "bangumi": {
+      "date": "2023-03-24",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/87/348384_v9JH8.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/87/348384_v9JH8.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/4e/87/348384_v9JH8.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/87/348384_v9JH8.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/87/348384_v9JH8.jpg"
+      },
+      "summary": "札幌を中心に活動する5人組実力派バンド「GYROAXIA（ジャイロアクシア）」。\n東京進出が決まった彼らだが、絶えず意見は衝突し、まとまりきれずにいた。\nそんな中、突如ネットに流れる「GYROAXIA 解散」の噂。\n困惑し離散していくメンバー。\n一方、Vo.旭 那由多は自分を捨てた父 伊龍恒河と過ごした幼少期を思い出し、なぜ自分がバンドにこだわり音楽を続けているのか、探そうとするのだが…",
+      "name": "劇場版アルゴナビス AXIA",
+      "name_cn": "剧场版ARGONAVIS AXIA",
+      "tags": [
+        "2023",
+        "サンジゲン",
+        "三次元",
+        "乐队",
+        "剧场版",
+        "红优",
+        "音乐"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "剧场版ARGONAVIS AXIA"
+        },
+        {
+          "key": "上映年度",
+          "value": "2023年3月24日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://movie.argo-bdp.com/"
+        },
+        {
+          "key": "Copyright",
+          "value": "©ARGONAVIS MOVIE project."
+        },
+        {
+          "key": "导演",
+          "value": "森川滋（紅優）"
+        },
+        {
+          "key": "製作",
+          "value": "ブシロード ウルトラスーパーピクチャーズ"
+        },
+        {
+          "key": "配給",
+          "value": "ブシロードムーブ"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 348384,
+      "eps": 1,
+      "meta_tags": [
+        "剧场版"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/af/294202_XJkjk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/af/294202_XJkjk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/97/af/294202_XJkjk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/af/294202_XJkjk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/af/294202_XJkjk.jpg"
+          },
+          "name": "アルゴナビス from BanG Dream! ANIMATION",
+          "name_cn": "ARGONAVIS from BanG Dream! ANIMATION",
+          "relation": "前传",
+          "type": 2,
+          "id": 294202
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/cc/337274_133r8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/cc/337274_133r8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/56/cc/337274_133r8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/cc/337274_133r8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/cc/337274_133r8.jpg"
+          },
+          "name": "劇場版アルゴナビス 流星のオブリガート",
+          "name_cn": "剧场版 ARGONAVIS 流星的obbligato",
+          "relation": "前传",
+          "type": 2,
+          "id": 337274
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/7c/368003_Ac7yK.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/7c/368003_Ac7yK.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/b8/7c/368003_Ac7yK.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/7c/368003_Ac7yK.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/7c/368003_Ac7yK.jpg"
+          },
+          "name": "Freestyle",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 368003
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/17/452994_P7OgP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/17/452994_P7OgP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2f/17/452994_P7OgP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/17/452994_P7OgP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/17/452994_P7OgP.jpg"
+          },
+          "name": "劇場版アルゴナビス AXIA 特典CD",
+          "name_cn": "",
+          "relation": "原声集",
+          "type": 3,
+          "id": 452994
+        }
+      ]
+    }
+  },
+  {
     "title": "かぐや様は告らせたい-ファーストキッスは終わらない-",
     "date": "2023-03-31",
     "bangumi": {
@@ -2179,7 +2390,6 @@
       "name": "かぐや様は告らせたい-ファーストキッスは終わらない-",
       "name_cn": "辉夜大小姐想让我告白-初吻不会结束-",
       "tags": [
-        "2020s",
         "2023",
         "2023年",
         "2023年3月",
@@ -2201,6 +2411,7 @@
         "漫画改",
         "畠山守",
         "神作",
+        "纯爱",
         "续作",
         "赤坂アカ",
         "赤坂明",
@@ -2259,7 +2470,7 @@
         },
         {
           "key": "导演",
-          "value": "畠山守(小俣真一)"
+          "value": "畠山守（小俣真一）"
         },
         {
           "key": "Copyright",
@@ -2267,7 +2478,7 @@
         },
         {
           "key": "原作",
-          "value": "赤坂アカ （集英社「週刊ヤングジャンプ」連載）"
+          "value": "赤坂アカ（集英社「週刊ヤングジャンプ」連載）"
         },
         {
           "key": "人物设定",
@@ -2287,7 +2498,7 @@
         },
         {
           "key": "企画",
-          "value": "岩上敦宏、瓶子吉久、弓矢政法、丸山博雄；企画协力：三宅将典、淀明子、鈴木健太、岡田武士"
+          "value": "岩上敦宏、瓶子吉久、弓矢政法、丸山博雄"
         },
         {
           "key": "制片人",
@@ -2298,8 +2509,8 @@
           "value": "菊池雄一郎"
         },
         {
-          "key": "助理制片人",
-          "value": "副制片人：高山幹弘、深川活水、神田亮太、松岡晃平"
+          "key": "副制片人",
+          "value": "高山幹弘、深川活水、神田亮太、松岡晃平"
         },
         {
           "key": "音乐制作",
@@ -2332,6 +2543,18 @@
         {
           "key": "OP・ED 分镜",
           "value": "菊池貴行(OP) / 小俣真一(ED)"
+        },
+        {
+          "key": "企画协力",
+          "value": "三宅将典、淀明子、鈴木健太、岡田武士"
+        },
+        {
+          "key": "音响",
+          "value": "マジックカプセル；音响制作担当：見留滉平"
+        },
+        {
+          "key": "录音助理",
+          "value": "三嶋晴子"
         }
       ],
       "total_episodes": 4,
@@ -2447,6 +2670,20 @@
           "relation": "原声集",
           "type": 3,
           "id": 427514
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/f5/565802_Yh9m3.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/f5/565802_Yh9m3.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9b/f5/565802_Yh9m3.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/f5/565802_Yh9m3.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/f5/565802_Yh9m3.jpg"
+          },
+          "name": "かぐや様は告らせたい 大人への階段",
+          "name_cn": "辉夜大小姐想让我告白 通往大人的阶梯",
+          "relation": "续集",
+          "type": 2,
+          "id": 565802
         }
       ]
     }
@@ -2467,7 +2704,9 @@
       "summary": "",
       "name": "RWBY Chibi Season 4",
       "name_cn": "",
-      "tags": [],
+      "tags": [
+        "搞笑"
+      ],
       "infobox": [
         {
           "key": "话数",
@@ -2501,131 +2740,6 @@
           "relation": "前传",
           "type": 2,
           "id": 237133
-        }
-      ]
-    }
-  },
-  {
-    "title": "劇場版アルゴナビス AXIA",
-    "date": "2023-03-24",
-    "bangumi": {
-      "date": "2023-03-24",
-      "platform": "剧场版",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/4e/87/348384_v9JH8.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/4e/87/348384_v9JH8.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/4e/87/348384_v9JH8.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/4e/87/348384_v9JH8.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/4e/87/348384_v9JH8.jpg"
-      },
-      "summary": "札幌を中心に活動する5人組実力派バンド「GYROAXIA（ジャイロアクシア）」。\n東京進出が決まった彼らだが、絶えず意見は衝突し、まとまりきれずにいた。\nそんな中、突如ネットに流れる「GYROAXIA 解散」の噂。\n困惑し離散していくメンバー。\n一方、Vo.旭 那由多は自分を捨てた父 伊龍恒河と過ごした幼少期を思い出し、なぜ自分がバンドにこだわり音楽を続けているのか、探そうとするのだが…",
-      "name": "劇場版アルゴナビス AXIA",
-      "name_cn": "剧场版ARGONAVIS AXIA",
-      "tags": [
-        "2023",
-        "剧场版"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "剧场版ARGONAVIS AXIA"
-        },
-        {
-          "key": "上映年度",
-          "value": "2023年3月24日"
-        },
-        {
-          "key": "官方网站",
-          "value": "https://movie.argo-bdp.com/"
-        },
-        {
-          "key": "Copyright",
-          "value": "©ARGONAVIS MOVIE project."
-        },
-        {
-          "key": "导演",
-          "value": "森川滋（紅優）"
-        },
-        {
-          "key": "製作",
-          "value": "ブシロード ウルトラスーパーピクチャーズ"
-        },
-        {
-          "key": "配給",
-          "value": "ブシロードムーブ"
-        },
-        {
-          "key": "话数",
-          "value": "1"
-        }
-      ],
-      "total_episodes": 1,
-      "id": 348384,
-      "eps": 1,
-      "meta_tags": [
-        "剧场版"
-      ],
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/af/294202_XJkjk.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/af/294202_XJkjk.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/97/af/294202_XJkjk.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/af/294202_XJkjk.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/af/294202_XJkjk.jpg"
-          },
-          "name": "アルゴナビス from BanG Dream! ANIMATION",
-          "name_cn": "ARGONAVIS from BanG Dream! ANIMATION",
-          "relation": "前传",
-          "type": 2,
-          "id": 294202
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/56/cc/337274_133r8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/56/cc/337274_133r8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/56/cc/337274_133r8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/56/cc/337274_133r8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/56/cc/337274_133r8.jpg"
-          },
-          "name": "劇場版アルゴナビス 流星のオブリガート",
-          "name_cn": "剧场版 ARGONAVIS 流星的obbligato",
-          "relation": "前传",
-          "type": 2,
-          "id": 337274
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/7c/368003_Ac7yK.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/7c/368003_Ac7yK.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b8/7c/368003_Ac7yK.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/7c/368003_Ac7yK.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/7c/368003_Ac7yK.jpg"
-          },
-          "name": "Freestyle",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 368003
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2f/17/452994_P7OgP.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2f/17/452994_P7OgP.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2f/17/452994_P7OgP.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2f/17/452994_P7OgP.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2f/17/452994_P7OgP.jpg"
-          },
-          "name": "劇場版アルゴナビス AXIA 特典CD",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 452994
         }
       ]
     }
@@ -2788,7 +2902,10 @@
       "summary": "歌唱比赛夺冠后，秦泽发现自己落入了合约陷阱，如果不签约就会面临巨额索赔。繁重的工作和行业的黑幕，让秦泽疲惫不堪甚至产生了自我怀疑。秦雅放弃歌手身份专心投入到演艺事业中，剧组中国际影后露露的加入，给秦雅带来了不小的麻烦……这一切的背后是谁在操控？隐藏着怎样的阴谋？姐弟二人又能否不忘初心克服重重困难实现各自的梦想呢……",
       "name": "今天开始闪耀登场",
       "name_cn": "今天开始闪耀登场",
-      "tags": [],
+      "tags": [
+        "中国",
+        "国产"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -2815,18 +2932,20 @@
           "value": "https://www.iqiyi.com/a_23b4rf82twp.html"
         },
         {
-          "key": "总导演",
-          "value": "于沺"
-        },
-        {
           "key": "导演",
           "value": "曹刚、赵斌"
+        },
+        {
+          "key": "总导演",
+          "value": "于沺"
         }
       ],
       "total_episodes": 15,
       "id": 308731,
       "eps": 15,
       "meta_tags": [
+        "漫画改",
+        "中国",
         "WEB"
       ],
       "volumes": 0,

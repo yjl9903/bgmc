@@ -17,6 +17,7 @@
       "name_cn": "北斗神拳",
       "tags": [
         "1984",
+        "1984年10月",
         "80年代",
         "JUMP",
         "TV",
@@ -24,16 +25,21 @@
         "世纪末",
         "东映",
         "东映アニメーション",
+        "东映动画",
         "你已经死了",
         "你的死兆星在天上闪耀",
         "北斗神拳",
+        "废土",
         "战斗",
+        "日本",
+        "没看全",
         "没看完",
         "漫改",
         "漫画改",
         "热血",
         "爆衫",
         "童年",
+        "经典",
         "芦田豊雄",
         "补旧番"
       ],
@@ -71,16 +77,20 @@
           "value": "1984年10月4日"
         },
         {
+          "key": "放送星期",
+          "value": "星期四"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://lineup.toei-anim.co.jp/ja/tv/hokuto/"
+        },
+        {
           "key": "播放电视台",
           "value": "フジテレビ系列"
         },
         {
           "key": "播放结束",
           "value": "1987年3月5日"
-        },
-        {
-          "key": "导演",
-          "value": "芦田豊雄"
         },
         {
           "key": "原作",
@@ -101,6 +111,10 @@
         {
           "key": "製作",
           "value": "東映、フジテレビ"
+        },
+        {
+          "key": "系列监督",
+          "value": "芦田豊雄"
         }
       ],
       "total_episodes": 109,
@@ -148,11 +162,25 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/ae/454438_dyNnt.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/ae/454438_dyNnt.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/50/ae/454438_dyNnt.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/ae/454438_dyNnt.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/ae/454438_dyNnt.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5d/ed/461970_mdNwS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5d/ed/461970_mdNwS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5d/ed/461970_mdNwS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5d/ed/461970_mdNwS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5d/ed/461970_mdNwS.jpg"
+          },
+          "name": "Fist of the North Star",
+          "name_cn": "北斗神拳 真人版",
+          "relation": "不同演绎",
+          "type": 6,
+          "id": 461970
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/ae/454438_N7hj5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/ae/454438_N7hj5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/50/ae/454438_N7hj5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/ae/454438_N7hj5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/ae/454438_N7hj5.jpg"
           },
           "name": "北斗の拳 -FIST OF THE NORTH STAR-",
           "name_cn": "北斗神拳 -FIST OF THE NORTH STAR-",
@@ -460,7 +488,11 @@
       "name": "超力ロボ ガラット",
       "name_cn": "超力机器人伽拉特",
       "tags": [
-        "TV"
+        "1984",
+        "SUNRISE",
+        "TV",
+        "robo",
+        "神田武幸"
       ],
       "infobox": [
         {
@@ -586,10 +618,16 @@
       "name_cn": "机甲界卡利安",
       "tags": [
         "1984",
+        "1984年10月",
+        "80s",
         "SUNRISE",
         "TV",
+        "五武冬史",
         "原创",
+        "日本",
         "机战",
+        "科幻",
+        "菊池英博",
         "萝卜",
         "高桥良辅"
       ],
@@ -680,7 +718,7 @@
           },
           "name": "スーパーロボット大戦BX",
           "name_cn": "超级机器人大战BX",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 134396
         },
@@ -694,7 +732,7 @@
           },
           "name": "スーパーロボット大戦X-Ω",
           "name_cn": "超级机器人大战X-Ω",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 141050
         },
@@ -708,7 +746,7 @@
           },
           "name": "サンライズ英雄譚",
           "name_cn": "日升英雄谭",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 145455
         },
@@ -750,7 +788,7 @@
           },
           "name": "新世代ロボット戦記ブレイブサーガ",
           "name_cn": "勇者传说",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 182011
         },
@@ -764,7 +802,7 @@
           },
           "name": "ブレイブサーガ2",
           "name_cn": "勇者传说2",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 348260
         },
@@ -798,13 +836,27 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e1/14/452369_VIEvS.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e1/14/452369_VIEvS.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e1/14/452369_VIEvS.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e1/14/452369_VIEvS.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e1/14/452369_VIEvS.jpg"
+          },
+          "name": "機甲界ガリアン コンプリートアートワークス",
+          "name_cn": "",
+          "relation": "书籍",
+          "type": 1,
+          "id": 452369
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/df/477233_i0J4t.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/df/477233_i0J4t.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/84/df/477233_i0J4t.jpg",
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/df/477233_i0J4t.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/df/477233_i0J4t.jpg"
           },
-          "name": "ガリアン サウンド エフェクト",
+          "name": "機甲界ガリアン サウンドエフェクトピクチャーシート",
           "name_cn": "机甲界卡利安 音效",
           "relation": "原声集",
           "type": 3,
@@ -823,6 +875,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 502989
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3e/1f/536258_uZf88.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3e/1f/536258_uZf88.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3e/1f/536258_uZf88.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3e/1f/536258_uZf88.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3e/1f/536258_uZf88.jpg"
+          },
+          "name": "バトルオブサンライズ",
+          "name_cn": "Sunrise大战",
+          "relation": "游戏",
+          "type": 4,
+          "id": 536258
         }
       ]
     }
@@ -873,6 +939,20 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ca/0e/300370_rkOIg.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ca/0e/300370_rkOIg.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/ca/0e/300370_rkOIg.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/0e/300370_rkOIg.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/0e/300370_rkOIg.jpg"
+          },
+          "name": "あした天気になあれ",
+          "name_cn": "新好小子",
+          "relation": "书籍",
+          "type": 1,
+          "id": 300370
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/49/470790_6711h.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/49/470790_6711h.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/16/49/470790_6711h.jpg",
@@ -884,6 +964,99 @@
           "relation": "片头曲",
           "type": 3,
           "id": 470790
+        }
+      ]
+    }
+  },
+  {
+    "title": "魔法の天使クリィミーマミ 永遠のワンスモア",
+    "date": "1984-10-28",
+    "bangumi": {
+      "date": "1984-10-28",
+      "platform": "OVA",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/1f/108939_XwE36.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/1f/108939_XwE36.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/82/1f/108939_XwE36.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/1f/108939_XwE36.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/1f/108939_XwE36.jpg"
+      },
+      "summary": "アニメ会社ぴえろ（当時はスタジオぴえろ）の魔法少女アニメ第1弾『魔法の天使クリィミーマミ』の後日談を描いたOVA。\n　人気アイドル歌手のクリィミーマミが突然の引退をしてから2ヶ月が経過。マミの正体である森沢優は普通の女の子として生活し、かつての相棒ネガとポジに似たノラネコを見つけてそれぞれノラネガとノラポジと命名する。だがその一方、マミの所属していた芸能プロ・パルテノンプロダクションではマミが復帰すると報道。もちろん優や彼女のボーイフレンドの俊夫にとっても初耳だった。この真相を追うべく調べる優たちだが、その前には謎の少女・早川愛の姿が？\n　本作はTVシリーズで完結した作品のその後を完全新作のOVAで描くという趣向の嚆矢的存在。作画スタッフのひとりはTVシリーズでも評判の高かったアニメーターの後藤真砂子が務めている。",
+      "name": "魔法の天使クリィミーマミ 永遠のワンスモア",
+      "name_cn": "我是小甜甜 永远的再一次",
+      "tags": [
+        "1984",
+        "IDOL",
+        "OVA",
+        "StudioPierrot",
+        "Studio_Pierrot",
+        "ぴえろ",
+        "伊藤和典",
+        "原创",
+        "小林治",
+        "日本动画"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "我是小甜甜 永远的再一次"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        },
+        {
+          "key": "发售日",
+          "value": "1984年10月28日"
+        },
+        {
+          "key": "备注",
+          "value": "TVシリーズの総集編+続編"
+        },
+        {
+          "key": "片长",
+          "value": "85分"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 108939,
+      "eps": 1,
+      "meta_tags": [
+        "OVA"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/06/10560_L297U.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/06/10560_L297U.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/18/06/10560_L297U.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/06/10560_L297U.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/06/10560_L297U.jpg"
+          },
+          "name": "魔法の天使クリィミーマミ",
+          "name_cn": "我是小甜甜",
+          "relation": "前传",
+          "type": 2,
+          "id": 10560
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/cd/91/108938_0TKWW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cd/91/108938_0TKWW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/cd/91/108938_0TKWW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cd/91/108938_0TKWW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/cd/91/108938_0TKWW.jpg"
+          },
+          "name": "魔法の天使クリィミーマミ ロング・グッドバイ",
+          "name_cn": "我是小甜甜 漫长的告别",
+          "relation": "续集",
+          "type": 2,
+          "id": 108938
         }
       ]
     }

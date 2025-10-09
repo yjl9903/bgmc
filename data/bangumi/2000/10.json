@@ -6,11 +6,11 @@
       "date": "2000-10-04",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/d2/10418_UbqUE.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/d2/10418_UbqUE.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/6b/d2/10418_UbqUE.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/d2/10418_UbqUE.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/d2/10418_UbqUE.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/6b/d2/10418_z1Nn9.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6b/d2/10418_z1Nn9.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/6b/d2/10418_z1Nn9.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6b/d2/10418_z1Nn9.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/6b/d2/10418_z1Nn9.jpg"
       },
       "summary": "17年前，一名少女从外太空而来 , 手上拿著传动指挥器并晕倒在海滩上。17年后 , 刚搬来星见町的小五学生草雉北斗在偶然之下 , 认识了熟练功夫的出云银河。同时 , 机械帝国加鲁法亦从宇宙飞来 , 威胁地球的安危。之后 , 就有一大群加鲁法机械兽 , 从月球的螺旋城飞来攻击人类。银河和北斗在逃亡时 , 突然遇到了秘密组织 GEAR 的传动战士电童。电童与他们产生了感应 , 并挑选了他们成为驾驶员。在原先的驾驶员薇嘉的指导下 , 他们成功战胜了加鲁法机械兽 , 从此亦兼负上守护地球的责任。",
       "name": "GEAR戦士電童",
@@ -21,12 +21,19 @@
         "SRW参战",
         "SUNRISE",
         "TV",
+        "robot",
+        "サンライズ",
+        "ロボット",
+        "両泽千晶",
+        "原创",
+        "子供向",
         "小学生",
         "机器人",
         "机战",
         "机战参战番",
         "电童",
         "福田己津央",
+        "科幻",
         "萝卜"
       ],
       "infobox": [
@@ -49,6 +56,10 @@
         {
           "key": "放送开始",
           "value": "2000年10月4日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期三"
         },
         {
           "key": "官方网站",
@@ -112,7 +123,7 @@
         },
         {
           "key": "机械设定",
-          "value": "阿久津潤一（ビークラフト）、今石進、大輪充、戸部隆一 機獣デザイン：久行宏和"
+          "value": "阿久津潤一[主机设]（ビークラフト）、今石進、大輪充、戸部隆一；機獣デザイン：久行宏和"
         },
         {
           "key": "剪辑",
@@ -156,7 +167,7 @@
         },
         {
           "key": "分镜",
-          "value": "小原正和、日高政光、飛鳥京作、南康宏、山口晋、渡邊哲哉、山中英治、細田雅弘、紅優、菱川直樹、谷口悟朗、福田己津央、小野学、高木茂樹、川島宏"
+          "value": "小原正和、日高政光、飛鳥京作、南康宏、山口晋、渡邊哲哉、山中英治、細田雅弘、紅優（森川滋）、菱川直樹、谷口悟朗、福田己津央、小野学、高木茂樹、川島宏"
         },
         {
           "key": "演出",
@@ -183,8 +194,11 @@
       "id": 10418,
       "eps": 38,
       "meta_tags": [
+        "机战",
         "TV",
-        "日本"
+        "日本",
+        "原创",
+        "子供向"
       ],
       "volumes": 0,
       "series": false,
@@ -202,7 +216,7 @@
           },
           "name": "スーパーロボット大戦R",
           "name_cn": "超级机器人大战R",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 9677
         },
@@ -216,7 +230,7 @@
           },
           "name": "スーパーロボット大戦MX",
           "name_cn": "超级机器人大战MX",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 20186
         },
@@ -356,7 +370,7 @@
           },
           "name": "スーパーロボット大戦X-Ω",
           "name_cn": "超级机器人大战X-Ω",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 141050
         },
@@ -384,7 +398,7 @@
           },
           "name": "スーパーロボット大戦Card Chronicle",
           "name_cn": "超级机器人大战Card Chronicle",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 391873
         }
@@ -411,6 +425,7 @@
         "2000",
         "2000年10月",
         "TV",
+        "东京movie",
         "东京ムービー",
         "感谢亚视",
         "游戏改",
@@ -456,6 +471,18 @@
         {
           "key": "原作",
           "value": "ATLUS"
+        },
+        {
+          "key": "製作",
+          "value": "中部日本放送（CBCテレビ）、電通、トムス・エンタテインメント"
+        },
+        {
+          "key": "企画",
+          "value": "加藤直次（CBC）、岡田耕始（ATLUS）、渡辺哲也（電通）"
+        },
+        {
+          "key": "制片人",
+          "value": "加藤直次（CBC）、山西太平（電通） 、尾﨑穏通（TMS）"
         }
       ],
       "total_episodes": 50,
@@ -485,6 +512,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 17018
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/26/35980_6OUxC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/26/35980_6OUxC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d6/26/35980_6OUxC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/26/35980_6OUxC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/26/35980_6OUxC.jpg"
+          },
+          "name": "真・女神転生Dチルドレン ライト&ダーク",
+          "name_cn": "真女神转生 恶魔之子 光与暗",
+          "relation": "相同世界观",
+          "type": 2,
+          "id": 35980
         },
         {
           "images": {
@@ -527,20 +568,6 @@
           "relation": "插入歌",
           "type": 3,
           "id": 51182
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/ce/51496_355oV.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/ce/51496_355oV.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9d/ce/51496_355oV.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/ce/51496_355oV.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/ce/51496_355oV.jpg"
-          },
-          "name": "ジャック・ブラザースの迷路でヒーホー!",
-          "name_cn": "",
-          "relation": "游戏",
-          "type": 4,
-          "id": 51496
         },
         {
           "images": {
@@ -631,7 +658,10 @@
       "summary": "『サイバーシックス』(Cybersix)は、日本とカナダの合同作品であるテレビアニメ。原作はアルゼンチンのカルロス・トゥリージョ&カルロス・メグリア作の同名コミック。\n\n悪を愛する科学者・フォン・リヒター博士によって作られたサイバーシックスは、人間の心を持ったバイオロイド（人造人間）。彼女は愛する人々と街を守るため、リヒターの放つ怪物と戦いを繰り広げる。",
       "name": "サイバーシックス",
       "name_cn": "人造人6号",
-      "tags": [],
+      "tags": [
+        "TV",
+        "欧美"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -702,15 +732,20 @@
         "2000",
         "MADHouse",
         "TV",
+        "三间雅文",
         "今堀恒雄",
         "体育",
         "战斗",
         "拳击",
+        "日本",
         "漫改",
         "漫画改",
         "热血",
         "燃",
         "竞技",
+        "童年",
+        "第一神拳",
+        "经典",
         "补旧番",
         "补番",
         "西村聡",
@@ -742,6 +777,10 @@
         {
           "key": "放送开始",
           "value": "2000年10月3日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期二"
         },
         {
           "key": "播放电视台",
@@ -790,6 +829,26 @@
         {
           "key": "动画制作",
           "value": "MADHOUSE"
+        },
+        {
+          "key": "动画制片人",
+          "value": "吉本聡、諸澤昌男"
+        },
+        {
+          "key": "企画",
+          "value": "伊藤和明、伊藤梅男；企画协力：野内雅宏、今西陽介、西村浩（1話-52話）→山口健二（53話-76話）（週刊少年マガジン編集部）"
+        },
+        {
+          "key": "制片人",
+          "value": "山下洋、大島満、田村学、丸山正雄"
+        },
+        {
+          "key": "OP・ED 分镜",
+          "value": "高柳滋仁（OP1）、杉井ギサブローと西村聡（OP2）、筱雅律（OP3）/ 大橋誉志光と西村聡（ED1）、杉浦幸次と増原光幸（ED2）、神志那弘志（ED3）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "千石一成、組橋彩"
         }
       ],
       "total_episodes": 76,
@@ -798,7 +857,9 @@
       "meta_tags": [
         "TV",
         "日本",
-        "漫画改"
+        "运动",
+        "漫画改",
+        "战斗"
       ],
       "volumes": 0,
       "series": false,
@@ -953,12 +1014,15 @@
       "name_cn": "银河冒险战记",
       "tags": [
         "2000",
+        "2000年10月",
         "GONZO",
         "TV",
         "TVA",
+        "robo",
         "原创",
         "后宫",
         "嘉数由美",
+        "日本",
         "机战",
         "男女战争",
         "科幻",
@@ -1010,8 +1074,12 @@
           "value": "もりたけし"
         },
         {
+          "key": "Copyright",
+          "value": "©2000 もりたけし・GONZO／KADOKAWA"
+        },
+        {
           "key": "原作",
-          "value": "もりたけし、GONZO"
+          "value": "もりたけし・GONZO"
         },
         {
           "key": "系列构成",
@@ -1031,21 +1099,75 @@
         },
         {
           "key": "机械设定",
-          "value": "宮尾佳和、海老川兼武"
+          "value": "海老川兼武、宮尾佳和、川原智弘"
         },
         {
           "key": "动画制作",
           "value": "GONZO"
         },
         {
-          "key": "制作",
-          "value": "メディアファクトリー、dentsu GONZO"
+          "key": "製作",
+          "value": "メディアファクトリー、電通、GDH；香山哲、村濱章司"
+        },
+        {
+          "key": "企画",
+          "value": "もりたけし・GONZO；企画协力：飯田馬之介、樋口真嗣"
+        },
+        {
+          "key": "制片人",
+          "value": "永田勝治、石川真一郎、池田和彦"
+        },
+        {
+          "key": "音响",
+          "value": "楽音舎（杉山好美）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "IMAGINE；音乐製作：メディアファクトリー"
+        },
+        {
+          "key": "动画制片人",
+          "value": "植野修也"
+        },
+        {
+          "key": "助理制片人",
+          "value": "中伸介、堀内麻紀"
+        },
+        {
+          "key": "制作管理",
+          "value": "梶田浩司、中島伸治"
+        },
+        {
+          "key": "录音助理",
+          "value": "椎原操志"
+        },
+        {
+          "key": "录音",
+          "value": "矢野さとし；录音工作室：スタジオごんぐ"
+        },
+        {
+          "key": "3DCG 导演",
+          "value": "河野達也、鈴木朗；3D机械导演：渡辺哲也"
+        },
+        {
+          "key": "机械作画监督",
+          "value": "川原智弘、増尾昭一"
+        },
+        {
+          "key": "音效",
+          "value": "山田稔"
+        },
+        {
+          "key": "剪辑",
+          "value": "重村健吾"
         }
       ],
       "total_episodes": 13,
       "id": 8700,
       "eps": 13,
       "meta_tags": [
+        "科幻",
+        "机战",
         "TV",
         "日本",
         "原创"
@@ -1186,8 +1308,16 @@
           "value": "2000年10月16日"
         },
         {
+          "key": "放送星期",
+          "value": "星期一"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.sunrise-inc.co.jp/yasya/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "読売テレビ/日本テレビ系列"
         },
         {
           "key": "播放结束",
@@ -1200,6 +1330,10 @@
         {
           "key": "音乐",
           "value": "和田薫（サウンドトラックス：avex mode）"
+        },
+        {
+          "key": "Copyright",
+          "value": "©高橋留美子/小学館・読売テレビ・サンライズ 2000"
         },
         {
           "key": "美术监督",
@@ -1286,7 +1420,7 @@
           "value": "菱沼義仁、佐久間信一、池田晶子、戸部敦夫、滝口禎一、中島理恵、佐藤陵、中島里恵、重田敦司、野口寛明、谷圭司、中山岳洋、滝川和男、荒木英樹、竹内浩志、倉田綾子、山本直子、池田晶子、八崎健二、中西麻実子、高橋久美子"
         }
       ],
-      "total_episodes": 167,
+      "total_episodes": 181,
       "id": 2784,
       "eps": 167,
       "meta_tags": [
@@ -1304,31 +1438,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/4a/89568_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/4a/89568_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d2/4a/89568_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/4a/89568_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/4a/89568_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/eb/114531_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/eb/114531_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/f1/eb/114531_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/eb/114531_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/eb/114531_jp.jpg"
           },
-          "name": "TVアニメーション「犬夜叉」ドラマアルバムスペシャル 犬夜叉 紅と白の歌合戦!~犬夜叉版~",
+          "name": "SO CRAZY / Come",
           "name_cn": "",
-          "relation": "广播剧",
+          "relation": "片尾曲",
           "type": 3,
-          "id": 89568
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/dc/60603_ztx0A.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/dc/60603_ztx0A.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/88/dc/60603_ztx0A.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/dc/60603_ztx0A.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/dc/60603_ztx0A.jpg"
-          },
-          "name": "One Day,One Dream",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 60603
+          "id": 114531
         },
         {
           "images": {
@@ -1486,17 +1606,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/37/60484_w0wzB.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/37/60484_w0wzB.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/37/60484_w0wzB.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/37/60484_w0wzB.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/37/60484_w0wzB.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/4a/89568_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/4a/89568_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d2/4a/89568_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/4a/89568_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/4a/89568_jp.jpg"
           },
-          "name": "CHANGE THE WORLD",
+          "name": "TVアニメーション「犬夜叉」ドラマアルバムスペシャル 犬夜叉 紅と白の歌合戦!~犬夜叉版~",
           "name_cn": "",
-          "relation": "片头曲",
+          "relation": "广播剧",
           "type": 3,
-          "id": 60484
+          "id": 89568
         },
         {
           "images": {
@@ -1514,17 +1634,17 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f1/eb/114531_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f1/eb/114531_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f1/eb/114531_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f1/eb/114531_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f1/eb/114531_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/dc/60603_ztx0A.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/dc/60603_ztx0A.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/88/dc/60603_ztx0A.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/dc/60603_ztx0A.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/dc/60603_ztx0A.jpg"
           },
-          "name": "SO CRAZY / Come",
+          "name": "One Day,One Dream",
           "name_cn": "",
-          "relation": "片尾曲",
+          "relation": "片头曲",
           "type": 3,
-          "id": 114531
+          "id": 60603
         },
         {
           "images": {
@@ -1581,6 +1701,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 192010
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/aa/96/236789_IXSx8.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/aa/96/236789_IXSx8.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/aa/96/236789_IXSx8.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/aa/96/236789_IXSx8.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/aa/96/236789_IXSx8.jpg"
+          },
+          "name": "犬夜叉 寻玉の旅",
+          "name_cn": "犬夜叉 寻玉之旅",
+          "relation": "游戏",
+          "type": 4,
+          "id": 236789
         },
         {
           "images": {
@@ -1668,17 +1802,31 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/65/22884_5zQY5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/65/22884_5zQY5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7d/65/22884_5zQY5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/65/22884_5zQY5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/65/22884_5zQY5.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/18/552789_QESjt.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/18/552789_QESjt.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/51/18/552789_QESjt.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/18/552789_QESjt.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/18/552789_QESjt.jpg"
           },
-          "name": "犬夜叉～奈落の罠!迷いの森の招待状～",
-          "name_cn": "奈落的陷阱 迷之森林的招待状",
+          "name": "犬夜叉-奈落之战",
+          "name_cn": "",
           "relation": "游戏",
           "type": 4,
-          "id": 22884
+          "id": 552789
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/9e/22885_e94qP.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/9e/22885_e94qP.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/29/9e/22885_e94qP.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/9e/22885_e94qP.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/9e/22885_e94qP.jpg"
+          },
+          "name": "犬夜叉 〜風雲絵巻〜",
+          "name_cn": "犬夜叉：风云绘卷",
+          "relation": "游戏",
+          "type": 4,
+          "id": 22885
         },
         {
           "images": {
@@ -1780,6 +1928,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7d/65/22884_5zQY5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7d/65/22884_5zQY5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7d/65/22884_5zQY5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7d/65/22884_5zQY5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7d/65/22884_5zQY5.jpg"
+          },
+          "name": "犬夜叉～奈落の罠!迷いの森の招待状～",
+          "name_cn": "奈落的陷阱 迷之森林的招待状",
+          "relation": "游戏",
+          "type": 4,
+          "id": 22884
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/e2/2785_5IaII.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/e2/2785_5IaII.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/5b/e2/2785_5IaII.jpg",
@@ -1791,20 +1953,6 @@
           "relation": "续集",
           "type": 2,
           "id": 2785
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/29/9e/22885_e94qP.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/29/9e/22885_e94qP.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/29/9e/22885_e94qP.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/29/9e/22885_e94qP.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/29/9e/22885_e94qP.jpg"
-          },
-          "name": "犬夜叉 〜風雲絵巻〜",
-          "name_cn": "犬夜叉：风云绘卷",
-          "relation": "游戏",
-          "type": 4,
-          "id": 22885
         },
         {
           "images": {
@@ -1917,6 +2065,20 @@
           "relation": "片尾曲",
           "type": 3,
           "id": 60379
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/37/60484_w0wzB.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/37/60484_w0wzB.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/37/60484_w0wzB.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/37/60484_w0wzB.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/37/60484_w0wzB.jpg"
+          },
+          "name": "CHANGE THE WORLD",
+          "name_cn": "",
+          "relation": "片头曲",
+          "type": 3,
+          "id": 60484
         },
         {
           "images": {
@@ -2051,19 +2213,26 @@
       "name_cn": "万有引力",
       "tags": [
         "2000",
+        "2000年",
         "2000年10月",
         "BL",
         "TV",
         "studiodeen",
+        "アニメ",
+        "スタジオディーン",
         "万有引力",
+        "三木真一郎",
         "井上和彦",
         "关智一",
         "基",
         "好基友",
         "山口胜平",
+        "手",
+        "日本",
         "曲子美",
         "横手美智子",
         "歌",
+        "漫改",
         "漫画改",
         "耽美",
         "耽美系",
@@ -2092,8 +2261,12 @@
           "value": "2000年10月4日"
         },
         {
+          "key": "放送星期",
+          "value": "星期三"
+        },
+        {
           "key": "官方网站",
-          "value": "http://www.sonymusic.co.jp/Animation/gravi/"
+          "value": "https://www.aniplex.co.jp/gravi/"
         },
         {
           "key": "播放电视台",
@@ -2112,12 +2285,20 @@
           "value": "ボブ白旗"
         },
         {
+          "key": "音乐",
+          "value": "浅倉大介；音乐监督：児玉隆"
+        },
+        {
+          "key": "Copyright",
+          "value": "(C)村上真紀／幻冬舎コミックス　(C)2000 村上真紀／幻冬舎コミックス、ソニー・マガジンズ、アニプレックス"
+        },
+        {
           "key": "原作",
-          "value": "村上真紀"
+          "value": "村上真紀(ソニー・マガジンズ「コミックきみとぼく」連載)"
         },
         {
           "key": "企画",
-          "value": "石川顺惠、佐野总一郎"
+          "value": "石川順恵、佐野総一郎"
         },
         {
           "key": "系列构成",
@@ -2136,12 +2317,24 @@
           "value": "坂本信人"
         },
         {
-          "key": "音响监督",
-          "value": "児玉隆"
-        },
-        {
           "key": "音乐制作",
           "value": "Blueone Music"
+        },
+        {
+          "key": "制片人",
+          "value": "知久正弘、増島由美子"
+        },
+        {
+          "key": "音响",
+          "value": "SPE・ビジュアルワークス〔1-6,8-10〕、SME・ビジュアルワークス〔7,11-〕"
+        },
+        {
+          "key": "执行制片人",
+          "value": "河野巌、白川隆三"
+        },
+        {
+          "key": "动画制片人",
+          "value": "制作制片人：石井義光"
         }
       ],
       "total_episodes": 13,
@@ -2349,10 +2542,15 @@
       "name_cn": "人造人间Kikaider",
       "tags": [
         "2000",
+        "2000s",
+        "2000年10月",
         "RADIX",
+        "StudioOX",
         "TV",
         "人造人",
         "冈村天斋",
+        "日本",
+        "漫改",
         "漫画改",
         "石ノ森章太郎",
         "科幻",
@@ -2394,58 +2592,83 @@
           "value": "http://www.sonymusic.co.jp/Animation/Kikaider/"
         },
         {
+          "key": "播放电视台",
+          "value": "キッズステーション"
+        },
+        {
           "key": "播放结束",
           "value": "2001年1月8日"
+        },
+        {
+          "key": "导演",
+          "value": "岡村天斎"
+        },
+        {
+          "key": "音乐",
+          "value": "見岳章"
+        },
+        {
+          "key": "Copyright",
+          "value": "©️2000 石森プロ／SMEビジュアルワークス･BT"
         },
         {
           "key": "原作",
           "value": "石ノ森章太郎"
         },
         {
-          "key": "製作協力",
-          "value": "東映、バンダイ"
+          "key": "製作",
+          "value": "SME・ビジュアルワークス；製作协力：東映、バンダイ"
         },
         {
           "key": "执行制片人",
           "value": "勝股英夫、小野寺章"
         },
         {
-          "key": "スーパーバイザー",
+          "key": "监修",
           "value": "早瀬マサト（石森プロ）"
         },
         {
-          "key": "撮影監督",
+          "key": "摄影监督",
           "value": "長牛豊"
         },
         {
-          "key": "編集",
+          "key": "剪辑",
           "value": "岡田輝満"
         },
         {
-          "key": "音響制作",
+          "key": "音响",
           "value": "SME・ビジュアルワークス"
         },
         {
-          "key": "アフレコ演出",
+          "key": "配音监督",
           "value": "井上和彦"
         },
         {
-          "key": "効果",
+          "key": "音效",
           "value": "野口透（アニメサウンド）"
         },
         {
-          "key": "音楽監督",
-          "value": "中武敬文"
+          "key": "音响监督",
+          "value": "音乐监督：中武敬文"
         },
         {
-          "key": "ラインプロデューサー",
-          "value": "久保田光俊"
+          "key": "动画制片人",
+          "value": "现场制片人：植田もとき、松元文一、久保田光俊"
+        },
+        {
+          "key": "色彩设计",
+          "value": "友野亜紀子、川崎アイ子"
+        },
+        {
+          "key": "设定",
+          "value": "小川浩"
         }
       ],
       "total_episodes": 13,
       "id": 18457,
       "eps": 13,
       "meta_tags": [
+        "科幻",
         "TV",
         "日本",
         "漫画改"
@@ -2547,10 +2770,15 @@
       "name_cn": "懦弱鬼哈利",
       "tags": [
         "2000",
+        "A.P.P.P.",
         "TV",
+        "原创",
+        "桥本晋治",
         "独特的",
+        "田边修",
         "补旧番",
-        "超能"
+        "超能",
+        "风格"
       ],
       "infobox": [
         {
@@ -2635,11 +2863,17 @@
         "Studio-Pierrot",
         "StudioPierrot",
         "TV",
+        "ぴえろ",
+        "动画",
         "原创",
         "学校怪谈",
         "小说改",
         "川上伦子",
+        "怪谈",
+        "恐怖",
+        "日本",
         "校园",
+        "猎奇",
         "经典",
         "补旧番",
         "阿部记之",
@@ -2701,7 +2935,7 @@
           "value": "和田薫"
         },
         {
-          "key": "原案",
+          "key": "原作",
           "value": "『学校の怪談』常光徹（講談社KK文庫）"
         },
         {
@@ -2717,12 +2951,8 @@
           "value": "橋本裕志"
         },
         {
-          "key": "角色设计",
-          "value": "大西雅也"
-        },
-        {
-          "key": "辅助角色设计",
-          "value": "北山真理"
+          "key": "人物设定",
+          "value": "大西雅也；副人设：北山真理"
         },
         {
           "key": "美术监督",
@@ -2741,23 +2971,23 @@
           "value": "福島敏行"
         },
         {
-          "key": "编集",
+          "key": "剪辑",
           "value": "植松淳一"
         },
         {
-          "key": "音响效果",
+          "key": "音效",
           "value": "武藤晶子"
         },
         {
-          "key": "音响制作",
+          "key": "音响",
           "value": "ザックプロモーション"
         },
         {
-          "key": "发行",
+          "key": "制片人",
           "value": "中村百合子、勝股英夫、萩野賢"
         },
         {
-          "key": "制作",
+          "key": "製作",
           "value": "フジテレビ、SPEビジュアルワークス、スタジオぴえろ"
         }
       ],
@@ -3015,15 +3245,23 @@
       "name_cn": "沉默的未知",
       "tags": [
         "2000",
+        "2000年10月",
+        "SF",
         "SUNRISE",
         "TV",
+        "TVA",
+        "robo",
+        "サンライズ",
         "井上喜久子",
+        "保志総一朗",
         "内涵",
         "内涵片",
         "原创",
         "复仇",
         "子安武人",
         "山口宏",
+        "日本",
+        "服部克久",
         "机战",
         "村濑修功",
         "桑岛法子",
@@ -3065,6 +3303,10 @@
           "value": "星期四"
         },
         {
+          "key": "官方网站",
+          "value": "https://sunrise-world.net/titles/pickup_028.php https://www.sunrise-inc.co.jp/work/detail.php?cid=28"
+        },
+        {
           "key": "播放电视台",
           "value": "テレビ東京"
         },
@@ -3079,6 +3321,10 @@
         {
           "key": "音乐",
           "value": "服部克久、長谷川晃一郎[DJ K.HASEGAWA（KH-R）]"
+        },
+        {
+          "key": "Copyright",
+          "value": "©サンライズ・フライングドッグ"
         },
         {
           "key": "原案",
@@ -3288,7 +3534,11 @@
         "2000",
         "TV",
         "东映",
+        "东映アニメーション",
+        "中村光毅",
         "大冢周夫",
+        "智斗",
+        "漫画改",
         "胜负师传说",
         "补旧番",
         "西沢信孝",
@@ -3342,6 +3592,10 @@
         {
           "key": "播放结束",
           "value": "2001年3月24日"
+        },
+        {
+          "key": "导演",
+          "value": "チーフディレクター：西沢信孝"
         },
         {
           "key": "音乐",
@@ -3451,6 +3705,8 @@
       "name_cn": "暗之末裔",
       "tags": [
         "2000",
+        "2000年",
+        "2000年10月",
         "BL",
         "J.C.STAFF",
         "TV",
@@ -3458,15 +3714,20 @@
         "井上和彦",
         "关俊彦",
         "基",
+        "奇幻",
         "奸情",
         "搅基",
+        "日本",
         "暗之末裔",
         "松下容子",
         "森川智之",
+        "漫改",
         "漫画改",
         "美型",
         "耽美",
         "腐",
+        "草尾毅",
+        "速水奖",
         "鬼畜"
       ],
       "infobox": [
@@ -3509,8 +3770,12 @@
           "value": "2000年10月2日"
         },
         {
+          "key": "放送星期",
+          "value": "星期一"
+        },
+        {
           "key": "官方网站",
-          "value": "www.jcstaff.co.jp/sakuhin/nenpyo/2000/02_yami/yami.htm"
+          "value": "http://www.jcstaff.co.jp/sakuhin/nenpyo/2000/02_yami/yami.htm"
         },
         {
           "key": "播放电视台",
@@ -3523,6 +3788,14 @@
         {
           "key": "导演",
           "value": "ときたひろこ"
+        },
+        {
+          "key": "音乐",
+          "value": "斉藤恒芳"
+        },
+        {
+          "key": "Copyright",
+          "value": "© 松下容子・白泉社／闇の末裔製作委員会"
         },
         {
           "key": "原作",
@@ -3541,8 +3814,52 @@
           "value": "J.C.STAFF"
         },
         {
-          "key": "制作",
+          "key": "製作",
           "value": "闇の末裔製作委員会（白泉社、ムービック、キングレコード）"
+        },
+        {
+          "key": "制片人",
+          "value": "森山敦、松倉友二"
+        },
+        {
+          "key": "企画",
+          "value": "矢倉孝裕、沢登昌樹"
+        },
+        {
+          "key": "助理制片人",
+          "value": "茂呂奈津子"
+        },
+        {
+          "key": "美术监督",
+          "value": "東潤一"
+        },
+        {
+          "key": "摄影监督",
+          "value": "田中英行"
+        },
+        {
+          "key": "协力",
+          "value": "高田英之、大塚美苗"
+        },
+        {
+          "key": "音响",
+          "value": "オーディオ タナカ"
+        },
+        {
+          "key": "录音",
+          "value": "小原吉男；录音工作室：タバック"
+        },
+        {
+          "key": "音效",
+          "value": "今野康之（スワラプロ）"
+        },
+        {
+          "key": "音乐制作",
+          "value": "STAR CHILD"
+        },
+        {
+          "key": "剪辑",
+          "value": "西山茂"
         }
       ],
       "total_episodes": 13,
@@ -3597,31 +3914,40 @@
       "date": "2000-10-21",
       "platform": "剧场版",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/ff/2080_Eo4g1.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/ff/2080_Eo4g1.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/54/ff/2080_Eo4g1.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/ff/2080_Eo4g1.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/ff/2080_Eo4g1.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/54/ff/2080_pBMGe.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/54/ff/2080_pBMGe.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/54/ff/2080_pBMGe.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/54/ff/2080_pBMGe.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/54/ff/2080_pBMGe.jpg"
       },
       "summary": "塞莱斯蒂安是被封印在月亮上的神属男子。本故事就是从他再次出现在昔日女弟子贝尔坦蒂面前开始的。曾担任最高位神之一的时间守护神贝尔坦蒂老师的他，据说也曾在天界最高评议会上占有一席之地。他为何会被封印呢？原来神也有自己的苦恼。 \n　　另一位人物摩根。她与主人公一起行动，但并不意味她会听从塞莱斯蒂安。在她时悲时怒的表情背后，摩根到底在想些什么呢？ \n　　“这部动画的制作花费了大量的时间和精力。想当初我是看了各种动画片之后决定从事动画制作工作的，如果有人因为看了这部作品而产生与我当时一样的想法，对我来说是最开心不过的了。我相信这部投入了极大热情的作品不会辜负观众的期待”合田导演对动漫迷们自信地说。 \n　　女神一直在那里……",
       "name": "ああっ女神さまっ",
       "name_cn": "剧场版 我的女神",
       "tags": [
         "2000",
+        "2000年",
         "AIC",
+        "Bell",
         "Belldandy",
         "井上喜久子",
         "剧场版",
+        "动画",
         "合田浩章",
         "后宫",
+        "奇幻",
+        "少女系",
         "恋爱",
         "我的女神",
+        "日本",
+        "日本动画",
+        "松原秀典",
         "永远的17岁",
         "治愈",
         "漫改",
         "漫画改",
         "神作",
         "藤岛康介",
+        "补旧番",
         "跨界"
       ],
       "infobox": [
@@ -3709,11 +4035,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/96/4217_3iRRa.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/96/4217_3iRRa.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/81/96/4217_3iRRa.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/96/4217_3iRRa.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/96/4217_3iRRa.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/81/96/4217_SE77m.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/81/96/4217_SE77m.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/81/96/4217_SE77m.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/81/96/4217_SE77m.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/81/96/4217_SE77m.jpg"
           },
           "name": "ああっ女神さまっ",
           "name_cn": "我的女神",
@@ -3784,10 +4110,15 @@
       "name_cn": "无敌王",
       "tags": [
         "2000",
+        "2000年10月",
+        "2000年十月番",
         "E&GFILMS",
         "TV",
         "robo",
-        "补旧番"
+        "林原めぐみ",
+        "渡部高志",
+        "补旧番",
+        "长谷川胜己"
       ],
       "infobox": [
         {
@@ -3966,6 +4297,74 @@
       "meta_tags": [
         "TV",
         "日本"
+      ],
+      "volumes": 0,
+      "series": false,
+      "locked": false,
+      "nsfw": false,
+      "type": 2,
+      "relations": []
+    }
+  },
+  {
+    "title": "太陽の法",
+    "date": "2000-10-28",
+    "bangumi": {
+      "date": "2000-10-28",
+      "platform": "剧场版",
+      "images": {
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/29/68748_12wlt.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/29/68748_12wlt.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/a0/29/68748_12wlt.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/29/68748_12wlt.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/29/68748_12wlt.jpg"
+      },
+      "summary": "1億2千万年前、サタンが反乱を起こし地上は混乱に陥る。至高の霊的存在、エル・カンターレは、自分の分身を地上に送り、新世紀の創造と新文明の構築を図っていく――。大川隆法のベストセラー小説をアニメ化。宇宙創造から現代へ、1000億年に渡る人類誕生の神秘をスケール感豊かに描く。原作をベースに、太陽の法シナリオ・プロジェクトが脚色。アニメーション・ディレクターに石山貴明、撮影監督は『逮捕しちゃうぞ the MOVIE』の吉田光伸が努める。",
+      "name": "太陽の法",
+      "name_cn": "太阳之法",
+      "tags": [
+        "2000",
+        "剧场版",
+        "原创",
+        "大川隆法"
+      ],
+      "infobox": [
+        {
+          "key": "中文名",
+          "value": "太阳之法"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "太陽の法 エル・カンターレへの道"
+            },
+            {
+              "v": "The Laws of the Sun"
+            },
+            {
+              "v": "Taiyou no Hou: El Cantare e no Michi"
+            }
+          ]
+        },
+        {
+          "key": "上映年度",
+          "value": "2000年10月28日"
+        },
+        {
+          "key": "片长",
+          "value": "104分"
+        },
+        {
+          "key": "话数",
+          "value": "1"
+        }
+      ],
+      "total_episodes": 1,
+      "id": 68748,
+      "eps": 1,
+      "meta_tags": [
+        "剧场版"
       ],
       "volumes": 0,
       "series": false,
