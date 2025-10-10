@@ -1,134 +1,68 @@
 # yuc
-## Fetch yuc.wiki
-- infer Turkey! -> 保龄球少女！ (id: 413567)
-- infer 死灵之子的宇宙恐怖秀 -> 死灵之子的宇宙恐怖秀 (id: 528147)
-- infer 阴阳回天 Re:Birth -> 阴阳回天 Re:Birth (id: 541945)
-- infer BULLET/BULLET -> 弹速狂飙 (id: 408467)
-- infer 美男高校地球防卫部 High Collar -> 美男高校地球防卫部High collar！ (id: 544967)
-- infer 阿松 第4期 -> 阿松 第四季 (id: 497881)
-- infer 石纪元 第4期 Part.2 -> 石纪元 科学与未来 第2部分 (id: 508003)
-- infer 坂本日常 Part.2 -> 坂本日常 第2部分 (id: 524005)
-- infer 胆大党 第2期 -> 胆大党 第二季 (id: 529431)
-- infer 怪兽8号 第2期 -> 怪兽8号 第二季 (id: 501844)
-- infer 碧蓝之海 第2期 -> 碧蓝之海 第二季 (id: 515880)
-- infer 可爱史莱姆噗尼露 第2期 -> 噗妮露是可爱史莱姆 第二季 (id: 530115)
-- infer 彻夜之歌 第2期 -> 彻夜之歌 第二季 (id: 484623)
-- infer 新 地狱老师 -> 地狱老师 (id: 504524)
-- infer 废渊战鬼 -> 废渊战鬼 (id: 498947)
-- infer 桃源暗鬼 -> 桃源暗鬼 (id: 493546)
-- infer Clevatess魔兽之王与婴儿与尸之勇者 -> 克雷瓦提斯-魔兽之王与婴儿与尸之勇者- (id: 502142)
-- infer 失神勇者与暗杀公主 -> 气绝勇者与暗杀公主 (id: 536363)
-- infer 活死喵之夜 -> 活死喵之夜 (id: 481745)
-- infer 最近的侦探真没用 -> 最近的侦探真没用 (id: 509216)
-- infer 禁止入內的鼹鼠 -> 禁止出入的鼹鼠 (id: 524289)
-- infer 章鱼噼的原罪 -> 章鱼哔的原罪 (id: 527620)
-- infer 光死去的夏天 -> 光死去的夏天 (id: 496086)
-- infer 去唱卡拉OK吧 -> 去K歌吧！ (id: 519956)
-- infer 为你着迷 -> 为你着迷 (id: 519958)
-- infer 为丑女献上花束 -> 为丑女献上花束。 (id: 406857)
-- infer 费马的料理 -> 费马的料理 (id: 531945)
-- infer 双人单身露营 -> 双人单身露营 (id: 531344)
-- infer 雨天遇见狸 -> 和雨和你 (id: 509062)
-- infer 薰香花朵凛然绽放 -> 薰香花朵凛然绽放 (id: 513345)
-- infer 渡君的XX即将崩坏 -> 渡君的XX即将崩坏 (id: 455454)
-- infer 帝乃三姐妹原来很好搞定 -> 帝乃三姐妹原来很好搞定。 (id: 502272)
-- infer 美食广场明天见 -> 明天，美食广场见。 (id: 528438)
-- infer 与游戏中心的少女异文化交流的故事 -> 与游戏中心的少女异文化交流的故事 (id: 510256)
-- infer 坏女孩 -> 不良少女 (id: 501614)
-- infer 瑠璃的宝石 -> 琉璃的宝石 (id: 512190)
-- infer 小城日常 -> 小城日常 (id: 514358)
-- infer 盾之勇者成名录 第4期 -> 盾之勇者成名录 第四季 (id: 476542)
-- infer 转生七王子的魔法全解 第2期 -> 转生为第七王子，随心所欲的魔法学习之路 第二季 (id: 499656)
-- infer 转生成自动贩卖机的我今天也在迷宫徘徊 第2期 -> 转生成自动贩卖机的我今天也在迷宫徘徊 第二季 (id: 455617)
-- infer 沉默魔女的秘密 -> Silent Witch 沉默魔女的秘密 (id: 506677)
-- infer 公爵千金的家庭教师 -> 公爵千金的家庭教师 (id: 459616)
-- infer 欢迎来到流放者食堂 -> 欢迎光临流放者食堂！ (id: 528831)
-- infer 水属性的魔法使 -> 水属性的魔法师 (id: 532403)
-- infer 强者的新传说 -> 强者的新传说 (id: 404909)
-- infer 异世界默示录麦诺格拉 -> 异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～ (id: 500825)
-- infer 肥宅勇者 -> 肥宅勇者 (id: 524593)
-- infer 落魄千金被姐姐的原未婚夫溺爱 -> 衣衫褴褛的大小姐受到姐姐前未婚夫的宠爱 (id: 505782)
-- infer 我怎么可能成为你的恋人不行不行 (※不是不可能) -> 我怎么可能成为你的恋人，不行不行！(※不是不可能！？) (id: 524707)
-- infer 利维坦号战记 -> 利维坦号战记 (id: 497923)
-- infer 9-nine- 支配者的王冠 -> 9-nine- 支配者的王冠 (id: 496973)
-- infer 拔作岛 -> 拔作岛 (id: 477825)
-- infer 神椿市建设中 -> 神椿市建设中。 (id: 475032)
-- infer 歌声是法式千层酥 -> 歌声是千层派 (id: 441670)
-- infer 学校不教的重要事项 ->  (id: 559674)
-- infer 噗尼轮轮 第3期 -> 噗尼轮轮 噗尼3 (id: 546442)
-- infer 碧蓝之海第2期 -> 碧蓝之海 第二季 (id: 515880)
-- infer 死灵之子的宇宙恐怖秀 -> 死灵之子的宇宙恐怖秀 (id: 528147)
-- infer 最近的侦探真没用 -> 最近的侦探真没用 (id: 509216)
-- infer 阿松第4期 -> 阿松 第四季 (id: 497881)
-- infer Turkey! -> 保龄球少女！ (id: 413567)
-- infer 转生成自动贩卖机第2期 -> 转生成自动贩卖机的我今天也在迷宫徘徊 第二季 (id: 455617)
-- infer 强者的新传说 -> 强者的新传说 (id: 404909)
-- infer 盾之勇者成名录第4期 -> 盾之勇者成名录 第四季 (id: 476542)
-- infer 转生七王子的魔法全解 第2期 -> 转生为第七王子，随心所欲的魔法学习之路 第二季 (id: 499656)
-- infer 帝乃三姐妹原来很好搞定 -> 帝乃三姐妹原来很好搞定。 (id: 502272)
-- infer 胆大党第2期 -> 胆大党 第二季 (id: 529431)
-- infer 神椿市建设中 -> 神椿市建设中。 (id: 475032)
-- infer 双人单身露营 -> 双人单身露营 (id: 531344)
-- infer 歌声是法式千层酥 -> 歌声是千层派 (id: 441670)
-- infer 去唱卡拉OK吧 -> 去K歌吧！ (id: 519956)
-- infer 为你着迷 -> 为你着迷 (id: 519958)
-- infer 为丑女献上花束 -> 为丑女献上花束。 (id: 406857)
-- infer 渡君的XX即将崩坏 -> 渡君的XX即将崩坏 (id: 455454)
-- infer 彻夜之歌第2期 -> 彻夜之歌 第二季 (id: 484623)
-- infer 桃源暗鬼 -> 桃源暗鬼 (id: 493546)
-- infer 拔作岛 -> 拔作岛 (id: 477825)
-- infer 费马的料理 -> 费马的料理 (id: 531945)
-- infer 坏女孩 -> 不良少女 (id: 501614)
-- infer 薰香花朵凛然绽放 -> 薰香花朵凛然绽放 (id: 513345)
-- infer 光死去的夏天 -> 光死去的夏天 (id: 496086)
-- infer 雨天遇见狸 -> 和雨和你 (id: 509062)
-- infer 公爵千金的家庭教师 -> 公爵千金的家庭教师 (id: 459616)
-- infer 怪兽8号第2期 -> 怪兽8号 第二季 (id: 501844)
-- infer 可爱史莱姆噗尼露第2期 -> 噗妮露是可爱史莱姆 第二季 (id: 530115)
-- infer 异世界默示录麦诺格拉 -> 异世界默示录米诺戈拉 ～从灭亡的文明开始的世界征服～ (id: 500825)
-- infer 活死喵之夜 -> 活死喵之夜 (id: 481745)
-- infer 与游戏中心的少女异文化交流的故事 -> 与游戏中心的少女异文化交流的故事 (id: 510256)
-- infer 肥宅勇者 -> 肥宅勇者 (id: 524593)
-- infer 废渊战鬼 -> 废渊战鬼 (id: 498947)
-- infer 小城日常 -> 小城日常 (id: 514358)
-- infer 章鱼噼的原罪 -> 章鱼哔的原罪 (id: 527620)
-- infer 利维坦号战记 -> 利维坦号战记 (id: 497923)
-- infer BULLET/BULLET -> 弹速狂飙 (id: 408467)
 ## Error
-- can not find 新 吊带袜天使 or New PANTY&STOCKING with GARTERBELT
-- can not find 卡片战斗先导者 Divinez Deluxe决胜篇 or カードファイト!! ヴァンガード Divinez デラックス決勝編
-- can not find 租借女友 第4期 Part.1 or 彼女、お借りします 第4期
-- can not find 杜鹃的婚约 第2期 or カッコウの許嫁 第2期
-- can not find 更衣人偶坠入爱河 第2期 or その着せ替え人形は恋をする 第2期
-- can not find 地缚少年花子君 第2期 Part.2 or 地縛少年花子くん 2期 第2クール
-- can not find 稗记舞咏/寻神的旅途 or ハイガクラ
-- can not find 异人旅馆 or HOTEL INHUMANS
-- can not find 青春猪头少年不会梦到圣诞服女郎 or 青春ブタ野郎はサンタクロースの夢を見ない
-- can not find 被勇者队伍开除的白魔导师被S级冒险者捡到 or 勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる
-- can not find 明日方舟 焰烬曙明 or アークナイツ 焔燼曙明/RISE FROM EMBER
-- can not infer calendar bangumi 美食广场明天见
-- can not infer calendar bangumi 禁止入內的鼹鼠
-- can not infer calendar bangumi 美男高校地球防卫部 High Collar
-- can not infer calendar bangumi 我怎么可能成为你的恋人 不行不行(※不是不可能)
-- can not infer calendar bangumi 坂本日常Part.2
-- can not infer calendar bangumi 租借女友第4期 Part.1
-- can not infer calendar bangumi 杜鹃的婚约第2期
-- can not infer calendar bangumi Clevatess 魔兽之王与婴儿与尸之勇者
-- can not infer calendar bangumi 新地狱老师
-- can not infer calendar bangumi 阴阳回天Re:Birth
-- can not infer calendar bangumi 新吊带袜天使
-- can not infer calendar bangumi 欢迎来到流放者食堂
-- can not infer calendar bangumi 水属性的魔法使
-- can not infer calendar bangumi 明日方舟焰烬曙明
-- can not infer calendar bangumi 沉默魔女的秘密
-- can not infer calendar bangumi 落魄千金被姐姐的原未婚夫溺爱
-- can not infer calendar bangumi 卡片战斗先导者DivinezDeluxe 决胜篇
-- can not infer calendar bangumi 新剑勇传说
-- can not infer calendar bangumi 9-nine-支配者的王冠
-- can not infer calendar bangumi 失神勇者与暗杀公主
-- can not infer calendar bangumi 被勇者队伍开除的白魔导师
-- can not infer calendar bangumi 青春猪头少年不会梦到圣诞服女郎
-- can not infer calendar bangumi 更衣人偶坠入爱河第2期
-- can not infer calendar bangumi 地缚少年花子君第2期 Part.2
-- can not infer calendar bangumi 瑠璃的宝石
-- can not infer calendar bangumi 异人旅馆(杀手旅店)
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/5150bb69652792bbe061104a28651ca9512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/ae4cfb6a90be2998c1fae5df11370def512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/4131aaeb773363f7a96b28a9e4ebd18b512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/ef1373ed315d93041f715b934ad58fe0512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/4b060baf16f4dfd963887a494d99453e512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/01d1319ff557bfb111cf8a864be195af512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/097aae05b1a4cdd2f2a4a4724b523a33512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/8e81cdb69b82b8393d53914a22b112c2512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/3514cf956c14b6990a24036625f02a1a512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/d04b0cb775e4141d57579f31c592161e512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/030cd9bf96b9906cb0abe53236222265512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/76909fee83dbbfe3b23ab8b88eed371f512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/c7bae39fa4c211aff3245ebcbb9d4018512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/a3528c3b348255bd58fbeecc6524b49e512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/fa34ac083f6b432dc4dd2c5ac77b1bc7512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/4b39dc76d4732973f423d79687c12376512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/429da80ffa0a6d0d107dbb8b8aa5f4de512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/1f69329fcadb72424dc1afe5b3a1ff5c512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/f6804e292d0ee48dfe3de0dc5551e09d512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/c440a7942e90bddf22554e1d41586e2c512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/74712f343ab1db1430c503fd3b103a2b512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/ed6c19a9a77ab68084fae62556fdfb18512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/9a23bcdbaadc25a20f2f0232e4c33eb6512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/d46584f7063a0a5669977e8feb051c18512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/4560fb326799438183b7fb5e2ca4ab15512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/84bc30ea644dcacfcb4cfe6b8b3c0ef8512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/d3b4421cbe3f1db6bbf05ce44ebff4bf512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/461bee6be47412b281722eca812b1f0c512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/ac17ee44d3d2f1dec7331b3dec6d50cb512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/cc60edbb28ebf6bdb28fb37edf896792512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/2cf655905f66a0b0b320062c16b57d5b512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/443b8082e781354314e44874d876e6d7512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/ecc3a7df7dd430617728685e8d583bfc512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/eb346c4ca7da56a54d8e5ebb25bbba39512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/b6e9bd42d6d77fed7c4920875ba983e6512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/879a774a954be3b222bf852ec41ce377512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/ee44b0f0d1e1562b99cfe6626cc0eac7512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/5413373393a8f4705ce1cadb1fd3e249512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/91200765253580986b68d7c5fc734c69512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/108ba0617265c5ca2e29147511f6ced9512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/e5ff54bbbbe3695b7f85d803e56b74cb512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/7fb1cc02456c9ea218439c4f3000a892512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/20b88af552290b183d2b1a4215d4886f512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/47961158e6671c9a00bb626a332cba4a512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/3911f30cc4588b4bc11c888fd3b932bc512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/67efca262d74acfd9db479e5f9a574ac512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/b661a00fc6abf011d52e14c17785efbd512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/a1333f99ae5798c3b6f24e082ac1dfaa512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/8159050d10d7c693731841d51542e5c7512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/1201f463c3d62527ba86f6ceb4ca9dd4512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/6c6188c5b0b6bcfe00f3d7da93a9076a512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/635d2f4a57a4ee02044c47721f8fa141512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/121eaf1a4dc9fecb15201af71e8a4fb6512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/4d9e8b08578056c5a5ee358da7751f3e512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/2c4d7890c4f0e1b148b4dd8013fac235512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/a88359ea2f79ffbd9111ccbdf77be3bd512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/cc933d14a9e04acdb9da251ac1ca1295512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/20b74f594369a268526f6c00678f132f512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/71c5af4331f576b3e0de5fb48edd9d76512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/68d28992076a15195745a0be6c2a221f512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/2c5783e92f8f86fc6ad1963959766243512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/af1d58936499fb2da583d79414f0f058512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/798a278ace59b311842ae32e3ec2da80512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/48e8c1c3f5db8be34eadaf9ec361069a512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/5eceabc27e74f98337e75720bbfab92c512995925.jpg
+- unknown calendar item undefined http://i0.hdslb.com/bfs/new_dyn/827418edb0f810f8dd9bd67b5beeae5a512995925.jpg
