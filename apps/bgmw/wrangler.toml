@@ -4,3 +4,9 @@ main = "src/worker.ts"
 
 [vars]
 # Placeholder bindings – configure actual resources per environment.
+
+[[d1_databases]]
+binding = "DATABASE"
+database_name = "bgmx"
+database_id = "cbc17a91-7ede-435b-82bf-45449d3968a0"
+migrations_dir = "drizzle"

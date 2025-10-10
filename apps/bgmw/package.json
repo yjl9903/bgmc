@@ -27,20 +27,29 @@
   },
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
+  "bin": {
+    "bgmw": "./cli.mjs"
+  },
   "files": [
     "*.mjs",
+    "drizzle",
     "dist"
   ],
   "scripts": {
     "build": "tsdown",
     "deploy": "wrangler deploy",
     "dev": "wrangler dev src/index.ts",
+    "drizzle": "drizzle-kit",
+    "drizzle:generate": "drizzle-kit generate",
+    "d1:migrate": "wrangler d1 migrations apply DATABASE",
     "format": "prettier --write 'src/**/*.ts'",
     "release": "release-it",
     "test:ci": "wrangler deploy --dry-run"
   },
   "dependencies": {
-    "hono": "^4.5.4"
+    "@hono/node-server": "1.19.5",
+    "drizzle-orm": "0.44.6",
+    "hono": "4.5.4"
   },
   "engines": {
     "node": ">=v20.8.0"

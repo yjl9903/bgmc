@@ -4,6 +4,7 @@ import { logger } from 'hono/logger';
 import type { AppEnv } from './env';
 
 import { healthRoute } from './routes/health';
+import { connectDatabase } from './database';
 
 export const createApp = () => {
   const app = new Hono<AppEnv>();
@@ -12,7 +13,9 @@ export const createApp = () => {
 
   app.use('*', async (c, next) => {
     c.set('requestId', crypto.randomUUID());
-    c.set('executionContext', c.executionCtx);
+
+    const database = await connectDatabase(c.env.DATABASE);
+    c.set('database', database);
 
     await next();
   });

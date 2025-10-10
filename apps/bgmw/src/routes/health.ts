@@ -12,7 +12,10 @@ router.get('/health', (c) => {
       ok: true,
       timestamp: new Date()
     },
-    200
+    200,
+    {
+      'x-request-id': requestId
+    }
   );
 });
 

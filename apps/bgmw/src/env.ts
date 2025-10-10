@@ -1,15 +1,14 @@
 /// <reference types="@cloudflare/workers-types" />
 
+import type { Database } from './database';
+
 export type ServiceBindings = {
-  BANGUMI_DB: D1Database;
-  TMDB_DB: D1Database;
-  REVISIONS_DB: D1Database;
-  LOGS: KVNamespace;
+  DATABASE: D1Database;
 };
 
 export type AppVariables = {
   requestId: string;
-  executionContext?: ExecutionContext;
+  database: Database;
 };
 
 export type AppEnv = {
