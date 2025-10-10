@@ -4,8 +4,8 @@
   "type": "module",
   "scripts": {
     "bgmc": "tsx packages/bgmc/src/cli.ts",
-    "bgmx": "tsx packages/bgmx/src/cli.ts",
     "bgmd": "tsx packages/scraper/src/cli.ts",
+    "bgmx": "tsx packages/bgmx/src/cli.ts",
     "build": "turbo run build",
     "dev": "turbo run dev --parallel",
     "format": "turbo run format --parallel",
@@ -21,6 +21,7 @@
     "postversion": "turbo run build"
   },
   "devDependencies": {
+    "@cloudflare/workers-types": "^4.20251008.0",
     "@total-typescript/ts-reset": "^0.6.1",
     "@types/node": "^22.18.9",
     "bangumi-data": ">=0.3.184",
@@ -28,12 +29,13 @@
     "prettier": "^3.6.2",
     "release-it": "^16.2.1",
     "rimraf": "^6.0.1",
+    "tsdown": "^0.15.6",
     "tsx": "^4.20.6",
     "turbo": "^2.5.8",
     "typescript": "^5.9.3",
-    "unbuild": "^3.6.1",
     "vite": "^7.1.9",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.4",
+    "wrangler": "^4.42.2"
   },
   "packageManager": "pnpm@10.18.2",
   "engines": {

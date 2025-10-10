@@ -22,29 +22,29 @@
   "type": "module",
   "exports": {
     ".": {
-      "require": "./data/index.json",
+      "types": "./index.d.ts",
       "import": "./data/index.json",
-      "types": "./index.d.ts"
+      "require": "./data/index.json"
     },
     "./full": {
-      "require": "./data/full.json",
+      "types": "./full.d.ts",
       "import": "./data/full.json",
-      "types": "./full.d.ts"
+      "require": "./data/full.json"
     },
     "./calendar": {
-      "require": "./data/calendar.json",
+      "types": "./calendar.d.ts",
       "import": "./data/calendar.json",
-      "types": "./calendar.d.ts"
+      "require": "./data/calendar.json"
     },
     "./transform": {
-      "require": "./dist/transform.cjs",
+      "types": "./dist/transform.d.ts",
       "import": "./dist/transform.mjs",
-      "types": "./dist/transform.d.ts"
+      "require": "./dist/transform.cjs"
     },
     "./types": {
-      "require": "./dist/types.cjs",
+      "types": "./dist/types.d.ts",
       "import": "./dist/types.mjs",
-      "types": "./dist/types.d.ts"
+      "require": "./dist/types.cjs"
     }
   },
   "main": "data/index.json",
@@ -64,8 +64,8 @@
     "*.d.ts"
   ],
   "scripts": {
-    "build": "tsx ../bgmx/src/cli.ts --root ../.. build && unbuild",
-    "format": "prettier --write src/**/*.ts test/**/*.ts",
+    "build": "tsx ../../apps/bgmx/src/cli.ts --root ../.. build && tsdown",
+    "format": "prettier --write 'src/**/*.ts' 'test/**/*.ts'",
     "release": "release-it",
     "test": "vitest",
     "test:ci": "vitest --run",

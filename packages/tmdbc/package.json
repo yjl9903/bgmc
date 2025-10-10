@@ -19,18 +19,18 @@
   "type": "module",
   "exports": {
     ".": {
-      "require": "./dist/index.cjs",
-      "import": "./dist/index.mjs",
-      "types": "./dist/index.d.ts"
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
     },
     "./types": {
-      "require": "./dist/types.cjs",
-      "import": "./dist/types.mjs",
-      "types": "./dist/types.d.ts"
+      "types": "./dist/types.d.ts",
+      "import": "./dist/types.js",
+      "require": "./dist/types.cjs"
     }
   },
   "main": "dist/index.cjs",
-  "module": "dist/index.mjs",
+  "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "typesVersions": {
     "*": {
@@ -48,8 +48,8 @@
     "dist"
   ],
   "scripts": {
-    "build": "unbuild",
-    "format": "prettier --write src/**/*.ts test/**/*.ts",
+    "build": "tsdown",
+    "format": "prettier --write 'src/**/*.ts' 'test/**/*.ts'",
     "release": "release-it",
     "test": "vitest",
     "test:ci": "vitest --run",

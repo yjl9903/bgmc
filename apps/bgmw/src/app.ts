@@ -37,7 +37,7 @@ export const createApp = () => {
   app.onError((err, c) => {
     const requestId = c.get('requestId');
 
-    console.error('[bgmw] unhandled error', requestId, err);
+    console.error('[bgmw] unhandled error', err, { requestId });
 
     return c.json(
       {

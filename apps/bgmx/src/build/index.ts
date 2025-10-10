@@ -6,7 +6,7 @@ import { BgmClient } from 'bgmc';
 
 import type { FullBangumi } from 'bgmc/types';
 
-import { transform } from '../../../bgmd/src/transform';
+import { transform } from '../../../../packages/bgmd/src/transform';
 
 import type { Context } from '../types';
 

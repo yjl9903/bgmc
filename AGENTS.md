@@ -8,7 +8,7 @@ The monorepo is managed with pnpm workspaces and Turbo. Core packages live under
 
 - `pnpm install` — install workspace dependencies (Node 20.8+ required).
 - `pnpm dev` — run package-level `dev` tasks in parallel via Turbo when a package defines them.
-- `pnpm build` — execute `unbuild`-based builds for every package and produce outputs in `dist/`.
+- `pnpm build` — execute `tsdown`-based builds for every package and produce outputs in `dist/`.
 - `pnpm typecheck` — run TypeScript checks, ensuring generated `.d.ts` remain valid.
 - `pnpm test:ci` — execute Vitest suites (`vitest --run`) after build and typecheck.
 - `pnpm <script>` or `pnpm -C packages/<name> <script>` — target package-specific commands (example: `pnpm -C packages/bgmc test`).
