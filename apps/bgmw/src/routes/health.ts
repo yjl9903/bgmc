@@ -14,7 +14,7 @@ router.get('/health', (c) => {
     },
     200,
     {
-      'x-request-id': requestId
+      'X-Request-Id': requestId
     }
   );
 });

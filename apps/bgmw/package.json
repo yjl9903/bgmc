@@ -37,17 +37,18 @@
   ],
   "scripts": {
     "build": "tsdown",
+    "d1:migrate": "wrangler d1 migrations apply DATABASE",
     "deploy": "wrangler deploy",
     "dev": "wrangler dev src/index.ts",
     "drizzle": "drizzle-kit",
     "drizzle:generate": "drizzle-kit generate",
-    "d1:migrate": "wrangler d1 migrations apply DATABASE",
     "format": "prettier --write 'src/**/*.ts'",
     "release": "release-it",
     "test:ci": "wrangler deploy --dry-run"
   },
   "dependencies": {
     "@hono/node-server": "1.19.5",
+    "bgmc": "workspace:*",
     "drizzle-orm": "0.44.6",
     "hono": "4.5.4"
   },

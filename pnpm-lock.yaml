@@ -70,6 +70,9 @@ importers:
       '@hono/node-server':
         specifier: 1.19.5
         version: 1.19.5(hono@4.5.4)
+      bgmc:
+        specifier: workspace:*
+        version: link:../../packages/bgmc
       drizzle-orm:
         specifier: 0.44.6
         version: 0.44.6(@cloudflare/workers-types@4.20251008.0)

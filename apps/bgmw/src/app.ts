@@ -4,6 +4,7 @@ import { logger } from 'hono/logger';
 import type { AppEnv } from './env';
 
 import { healthRoute } from './routes/health';
+import { bangumiRoute } from './routes/bangumi';
 import { connectDatabase } from './database';
 
 export const createApp = () => {
@@ -21,6 +22,7 @@ export const createApp = () => {
   });
 
   app.route('/', healthRoute);
+  app.route('/', bangumiRoute);
 
   app.notFound((c) => {
     const requestId = c.get('requestId');
@@ -32,7 +34,7 @@ export const createApp = () => {
       },
       404,
       {
-        'x-request-id': requestId
+        'X-Request-Id': requestId
       }
     );
   });
@@ -49,7 +51,7 @@ export const createApp = () => {
       },
       500,
       {
-        'x-request-id': requestId
+        'X-Request-Id': requestId
       }
     );
   });

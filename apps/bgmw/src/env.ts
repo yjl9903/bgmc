@@ -3,6 +3,7 @@
 import type { Database } from './database';
 
 export type ServiceBindings = {
+  SECRET: string;
   DATABASE: D1Database;
 };
 
