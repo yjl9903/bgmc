@@ -1,6 +1,6 @@
 name = "bgm"
 compatibility_date = "2024-10-01"
-main = "src/index.ts"
+main = "src/worker.ts"
 
 [vars]
 # Placeholder bindings – configure actual resources per environment.
