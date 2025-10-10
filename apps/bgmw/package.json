@@ -1,0 +1,64 @@
+{
+  "name": "bgmw",
+  "version": "0.0.3",
+  "description": "Cloudflare Worker API surface for bgmc data services",
+  "keywords": [
+    "bgmc",
+    "cloudflare",
+    "hono"
+  ],
+  "homepage": "https://github.com/yjl9903/bgmc#readme",
+  "bugs": {
+    "url": "https://github.com/yjl9903/bgmc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjl9903/bgmc.git"
+  },
+  "license": "MIT",
+  "author": "XLor",
+  "sideEffects": false,
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs"
+    }
+  },
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "*.mjs",
+    "dist"
+  ],
+  "scripts": {
+    "build": "unbuild",
+    "dev": "wrangler dev src/index.ts",
+    "format": "prettier --write src/**/*.ts",
+    "release": "release-it"
+  },
+  "dependencies": {
+    "hono": "^4.5.4"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241018.0",
+    "wrangler": "^3.80.1"
+  },
+  "engines": {
+    "node": ">=v20.8.0"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore(bgmw): release v${version}",
+      "tag": false,
+      "push": true
+    },
+    "npm": {
+      "publish": true
+    },
+    "hooks": {
+      "after:version": "pnpm run build",
+      "before:init": "pnpm run build"
+    }
+  }
+}
