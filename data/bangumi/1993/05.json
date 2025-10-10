@@ -4,7 +4,7 @@
     "date": "1993-05-05",
     "bangumi": {
       "date": "1993-05-05",
-      "platform": "剧场版",
+      "platform": "TV",
       "images": {
         "small": "https://lain.bgm.tv/r/200/pic/cover/l/3d/c4/513_Any5s.jpg",
         "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3d/c4/513_Any5s.jpg",
@@ -36,7 +36,6 @@
         "少男少女",
         "恋爱",
         "日本",
-        "日本动画",
         "望月智充",
         "校园",
         "氷室冴子",
@@ -44,6 +43,7 @@
         "爱情",
         "电影",
         "轻小说改",
+        "轻改",
         "近藤胜也",
         "青春"
       ],
@@ -73,20 +73,28 @@
           ]
         },
         {
-          "key": "上映年度",
-          "value": "1993年5月5日"
-        },
-        {
-          "key": "片长",
-          "value": "72分钟"
-        },
-        {
           "key": "话数",
           "value": "1"
         },
         {
+          "key": "放送开始",
+          "value": "1993年5月5日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.ghibli.jp/works/umi/"
+        },
+        {
+          "key": "播放电视台",
+          "value": "日本テレビ"
+        },
+        {
           "key": "导演",
           "value": "望月智充"
+        },
+        {
+          "key": "片长",
+          "value": "72分钟"
         },
         {
           "key": "脚本",
@@ -94,15 +102,19 @@
         },
         {
           "key": "原作",
-          "value": "氷室冴子"
+          "value": "氷室冴子（徳間書店刊）"
+        },
+        {
+          "key": "人物设定",
+          "value": "近藤勝也"
         }
       ],
       "total_episodes": 1,
       "id": 513,
       "eps": 1,
       "meta_tags": [
-        "剧场版",
         "校园",
+        "TV",
         "恋爱",
         "日本",
         "小说改"
@@ -277,11 +289,11 @@
       "date": "1993-05-21",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/58/93047_dw5S3.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/58/93047_dw5S3.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/86/58/93047_dw5S3.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/58/93047_dw5S3.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/58/93047_dw5S3.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/86/58/93047_Jj2bz.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/86/58/93047_Jj2bz.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/86/58/93047_Jj2bz.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/86/58/93047_Jj2bz.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/86/58/93047_Jj2bz.jpg"
       },
       "summary": "「この橋で出会った者は別れ別れになっても再び会える」という言い伝えがある橋の上で、モモは一人の少年と出会う。少年は橋の言い伝えを信じ誰かを待っていたが、待ち人に会えずあきらめかけていた。モモは言い伝えが本当だと証明するために、少年と再会の約束をする。\nそれから、モモは約束を果たすため橋に通い続ける。季節が移りゆく中、少年を待ち続けるモモは橋の上で起きる出会いと別れを見つめ続けていく。",
       "name": "MINKY MOMO IN 夢にかける橋",
@@ -290,8 +302,10 @@
         "1993",
         "OVA",
         "原创",
+        "林原めぐみ",
         "汤山邦彦",
         "苇PRODUCTION",
+        "长谷川智树",
         "首藤刚志"
       ],
       "infobox": [

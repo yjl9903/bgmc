@@ -18,7 +18,10 @@
       "tags": [
         "2000",
         "OVA",
-        "后宫"
+        "东映",
+        "东映アニメーション",
+        "后宫",
+        "漫改"
       ],
       "infobox": [
         {
@@ -43,11 +46,11 @@
         },
         {
           "key": "导演",
-          "value": "貝澤幸男、小坂春女、芝田浩樹、門田英彦"
+          "value": "貝澤幸男(1,4-5,8)、小坂春女(2-3)、芝田浩樹(6)、門田英彦(7)"
         },
         {
           "key": "监修",
-          "value": "貝澤幸男"
+          "value": "貝澤幸男(2-3,6,7)"
         },
         {
           "key": "脚本",
@@ -94,6 +97,7 @@
       "id": 207622,
       "eps": 8,
       "meta_tags": [
+        "日本",
         "OVA"
       ],
       "volumes": 0,
@@ -111,10 +115,24 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/e8/47/10182_w2WXY.jpg"
           },
           "name": "まもって守護月天!",
-          "name_cn": "守护月天！",
+          "name_cn": "守护月天",
           "relation": "不同演绎",
           "type": 2,
           "id": 10182
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9a/4c/214600_FM7Qp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9a/4c/214600_FM7Qp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/9a/4c/214600_FM7Qp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9a/4c/214600_FM7Qp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9a/4c/214600_FM7Qp.jpg"
+          },
+          "name": "まもって守護月天!",
+          "name_cn": "守护月天！",
+          "relation": "书籍",
+          "type": 1,
+          "id": 214600
         }
       ]
     }
@@ -137,10 +155,16 @@
       "name_cn": "银河英雄传说外传 夺还者",
       "tags": [
         "2000",
+        "2000年",
+        "KittyFilm",
         "OVA",
+        "SF",
+        "キティ·フィルム",
+        "动画",
         "太空歌剧",
         "小说改",
         "战争",
+        "日本",
         "田中芳树",
         "石黑升",
         "石黒升",
@@ -290,10 +314,14 @@
         "GAL改",
         "OVA",
         "ピンクパイナップル",
+        "一股浓浓的Gal风",
+        "吉冈たかを",
         "小西克幸",
         "平静",
+        "游戏改",
         "爱情",
         "神奇少女",
+        "自来熟萝莉",
         "里番"
       ],
       "infobox": [
@@ -365,22 +393,7 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/36/67752_VK6C6.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/20/36/67752_VK6C6.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/20/36/67752_VK6C6.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/20/36/67752_VK6C6.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/20/36/67752_VK6C6.jpg"
-          },
-          "name": "リフレインブルー",
-          "name_cn": "蓝色乐章",
-          "relation": "游戏",
-          "type": 4,
-          "id": 67752
-        }
-      ]
+      "relations": []
     }
   }
 ]

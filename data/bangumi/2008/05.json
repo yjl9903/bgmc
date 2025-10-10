@@ -19,6 +19,7 @@
         "2007",
         "2007年12月",
         "2008",
+        "2008年",
         "2008年5月",
         "AIC",
         "Boy无关",
@@ -29,8 +30,8 @@
         "WEB",
         "candyboy",
         "ほしかわたかふみ",
-        "加藤英美里",
         "原创",
+        "喜剧",
         "声优GJ",
         "姐妹",
         "姐妹爱",
@@ -40,7 +41,6 @@
         "星川孝文",
         "校园",
         "治愈",
-        "漫改",
         "甜蜜",
         "生天目仁美",
         "百合",
@@ -62,7 +62,7 @@
         },
         {
           "key": "话数",
-          "value": "9"
+          "value": "7"
         },
         {
           "key": "放送开始",
@@ -115,14 +115,21 @@
       ],
       "total_episodes": 9,
       "id": 2829,
-      "eps": 9,
+      "eps": 7,
       "meta_tags": [
         "喜剧",
+        "喜剧",
+        "百合",
         "百合",
         "校园",
+        "校园",
+        "日本",
         "日本",
         "原创",
+        "原创",
         "GL",
+        "GL",
+        "WEB",
         "WEB"
       ],
       "volumes": 0,
@@ -278,15 +285,15 @@
         },
         {
           "key": "原作",
-          "value": "奈須きのこ「空の境界」(講談社ノベルス)"
+          "value": "奈須きのこ"
         },
         {
           "key": "人物设定",
-          "value": "須藤友徳 / 滝口禎一"
+          "value": "須藤友徳、滝口禎一"
         },
         {
           "key": "作画监督",
-          "value": "須藤友徳 / 滝口禎一"
+          "value": "須藤友徳、滝口禎一"
         },
         {
           "key": "企画",
@@ -331,17 +338,17 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/74/65084_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/74/65084_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0d/74/65084_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/74/65084_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/74/65084_jp.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/c9/65102_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/c9/65102_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/a0/c9/65102_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/c9/65102_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/c9/65102_jp.jpg"
           },
-          "name": "DJCD 空の境界 the Garden of tellers",
+          "name": "DJCD 空の境界 the Garden of listeners 第1巻",
           "name_cn": "",
           "relation": "其他",
           "type": 3,
-          "id": 65084
+          "id": 65102
         },
         {
           "images": {
@@ -485,20 +492,6 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a0/c9/65102_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a0/c9/65102_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a0/c9/65102_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a0/c9/65102_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a0/c9/65102_jp.jpg"
-          },
-          "name": "DJCD 空の境界 the Garden of listeners 第1巻",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 65102
-        },
-        {
-          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/f2/20/767_T9VD9.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f2/20/767_T9VD9.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/f2/20/767_T9VD9.jpg",
@@ -513,6 +506,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/74/65084_jp.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/74/65084_jp.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/0d/74/65084_jp.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/74/65084_jp.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/74/65084_jp.jpg"
+          },
+          "name": "DJCD 空の境界 the Garden of tellers",
+          "name_cn": "",
+          "relation": "其他",
+          "type": 3,
+          "id": 65084
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/2e/1b/65083_jp.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2e/1b/65083_jp.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/2e/1b/65083_jp.jpg",
@@ -524,20 +531,6 @@
           "relation": "其他",
           "type": 3,
           "id": 65083
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a3/4d/62660_ffg0s.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a3/4d/62660_ffg0s.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a3/4d/62660_ffg0s.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a3/4d/62660_ffg0s.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a3/4d/62660_ffg0s.jpg"
-          },
-          "name": "空の境界 the Garden of sinners",
-          "name_cn": "空之境界  the Garden of sinners",
-          "relation": "书籍",
-          "type": 1,
-          "id": 62660
         },
         {
           "images": {
@@ -671,9 +664,16 @@
       "name": "ef - a tale of melodies. ~prologue~",
       "name_cn": "悠久之翼2Prologue",
       "tags": [
+        "2008",
+        "GAL改",
         "OVA",
         "SHAFT",
-        "大沼心"
+        "minori",
+        "大沼心",
+        "悠久之翼",
+        "新房昭之",
+        "游戏改",
+        "短篇"
       ],
       "infobox": [
         {

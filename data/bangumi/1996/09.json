@@ -19,8 +19,10 @@
         "1996",
         "3D",
         "90年代",
+        "Hasbro",
         "TV",
         "儿时回忆",
+        "动画",
         "原创",
         "变形金刚",
         "国语配音版",
@@ -31,6 +33,7 @@
         "童年",
         "经典",
         "美国",
+        "美国动画",
         "萝卜",
         "超能勇士"
       ],
@@ -98,11 +101,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/1e/1639_U99Wm.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/1e/1639_U99Wm.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/3c/1e/1639_U99Wm.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/1e/1639_U99Wm.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/1e/1639_U99Wm.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/1e/1639_9JPHh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/1e/1639_9JPHh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/3c/1e/1639_9JPHh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/1e/1639_9JPHh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/1e/1639_9JPHh.jpg"
           },
           "name": "The Transformers",
           "name_cn": "变形金刚（G1）",
@@ -257,9 +260,11 @@
       "name_cn": "无家可归的孩子蕾米",
       "tags": [
         "1996",
+        "1996年",
         "TV",
         "世界名作剧场",
         "小说改",
+        "岛田満",
         "日本アニメーション",
         "星仔走天涯",
         "楠叶宏三",
@@ -296,12 +301,24 @@
           "value": "1996年9月1日"
         },
         {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://www.nippon-animation.co.jp/work/1751/"
+        },
+        {
           "key": "播放电视台",
           "value": "富士电视台"
         },
         {
           "key": "播放结束",
           "value": "1997年3月23日"
+        },
+        {
+          "key": "Copyright",
+          "value": "©NIPPON ANIMATION CO., LTD"
         }
       ],
       "total_episodes": 26,
@@ -373,6 +390,20 @@
           "relation": "片头曲",
           "type": 3,
           "id": 65646
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/92/380927_1NH42.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/92/380927_1NH42.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/5b/92/380927_1NH42.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/92/380927_1NH42.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/92/380927_1NH42.jpg"
+          },
+          "name": "Sans famille",
+          "name_cn": "苦儿流浪记",
+          "relation": "书籍",
+          "type": 1,
+          "id": 380927
         }
       ]
     }
@@ -396,16 +427,20 @@
       "tags": [
         "1996",
         "TV",
+        "TVA",
         "东映",
         "少女向",
         "山内重保",
         "恋爱",
         "搞笑",
+        "日本动画",
         "校园",
         "流星花园",
         "漫改",
         "漫画改",
-        "童年"
+        "漫画改编",
+        "童年",
+        "马越嘉彦"
       ],
       "infobox": [
         {
@@ -429,6 +464,10 @@
           "value": "1996年9月8日"
         },
         {
+          "key": "放送星期",
+          "value": "星期日"
+        },
+        {
           "key": "官方网站",
           "value": "http://www.toei-anim.co.jp/tv/hanadan/"
         },
@@ -441,12 +480,32 @@
           "value": "1997年8月31日"
         },
         {
+          "key": "Copyright",
+          "value": "©神尾葉子／集英社・ＡＢＣ・東映アニメーション"
+        },
+        {
           "key": "原作",
           "value": "神尾葉子"
         },
         {
           "key": "演出助手",
           "value": "長峯達也、古賀豪、伊藤尚往"
+        },
+        {
+          "key": "系列监督",
+          "value": "山内重保"
+        },
+        {
+          "key": "製作",
+          "value": "ABC（朝日放送テレビ）、ASATSU（アサツー ディ・ケイ）、東映"
+        },
+        {
+          "key": "制片人",
+          "value": "小林哲（ABC）、亀山泰夫（ASATSU） 、堀内孝（ASATSU）、関弘美"
+        },
+        {
+          "key": "音响监督",
+          "value": "選曲：茅原万起子"
         }
       ],
       "total_episodes": 51,
@@ -596,14 +655,18 @@
       "name_cn": "新破里拳Polimar",
       "tags": [
         "1996",
+        "90年代",
         "J.C.STAFF",
         "OVA",
         "原创",
         "新房昭之",
         "梅津泰臣",
+        "独立ova",
         "石浜真史",
+        "破里拳Polimar",
         "科幻",
-        "龙之子"
+        "龙之子",
+        "龙之子Production"
       ],
       "infobox": [
         {
@@ -780,477 +843,6 @@
           "relation": "原声集",
           "type": 3,
           "id": 506305
-        }
-      ]
-    }
-  },
-  {
-    "title": "サクラ大戦",
-    "date": "1996-09-27",
-    "bangumi": {
-      "date": "1996-09-27",
-      "platform": "游戏",
-      "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/25/7708_3m4g9.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/25/7708_3m4g9.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/84/25/7708_3m4g9.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/25/7708_3m4g9.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/25/7708_3m4g9.jpg"
-      },
-      "summary": "樱花大战，是日本世嘉公司发行的系列游戏作品。1996年9月27日，樱花大战首次登场于SEGA Saturn电视游戏平台上，其最大的特点是完美融合了恋爱养成类游戏和策略类游戏要素，结合源于日本宝冢歌剧的文化因素，获得了极高的人气。其续作也陆续在SEGA Saturn，Dreamcast，PlayStation 2等电视游戏平台和个人电脑上推出。樱花大战还包括真人舞台剧、动画、漫画等在内的一系列衍生作品。",
-      "name": "サクラ大戦",
-      "name_cn": "樱花大战",
-      "tags": [
-        "1996",
-        "AVG",
-        "GAL",
-        "Galgame",
-        "PC",
-        "PSP",
-        "SEGA",
-        "SLG",
-        "SRPG",
-        "SS",
-        "サクラ大戦",
-        "大神",
-        "恋爱",
-        "樱花大战",
-        "游戏性",
-        "童年回忆",
-        "童年回忆(大雾"
-      ],
-      "infobox": [
-        {
-          "key": "中文名",
-          "value": "樱花大战"
-        },
-        {
-          "key": "别名",
-          "value": [
-            {
-              "v": "Sakura Wars"
-            },
-            {
-              "v": "Sakura Taisen"
-            }
-          ]
-        },
-        {
-          "key": "平台",
-          "value": "SS,PC,DC"
-        },
-        {
-          "key": "游戏类型",
-          "value": "AVG/SLG"
-        },
-        {
-          "key": "发行日期",
-          "value": "1996-09-27"
-        },
-        {
-          "key": "website",
-          "value": "http://www.sakura-taisen.com/"
-        },
-        {
-          "key": "游戏开发商",
-          "value": "SEGA"
-        }
-      ],
-      "total_episodes": 0,
-      "id": 7708,
-      "eps": 0,
-      "meta_tags": [
-        "AVG",
-        "Galgame",
-        "PC",
-        "SLG",
-        "游戏",
-        "DC",
-        "SS"
-      ],
-      "volumes": 0,
-      "series": false,
-      "locked": false,
-      "nsfw": false,
-      "type": 4,
-      "relations": [
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ae/5a/42481_wwl9M.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ae/5a/42481_wwl9M.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ae/5a/42481_wwl9M.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ae/5a/42481_wwl9M.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ae/5a/42481_wwl9M.jpg"
-          },
-          "name": "サクラ大戦 蒸気蓄音館",
-          "name_cn": "",
-          "relation": "原声集",
-          "type": 3,
-          "id": 42481
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/ca/477067_4rAZy.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/ca/477067_4rAZy.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ef/ca/477067_4rAZy.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/ca/477067_4rAZy.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/ca/477067_4rAZy.jpg"
-          },
-          "name": "サクラ大戦 原画&設定資料集",
-          "name_cn": "",
-          "relation": "画集",
-          "type": 1,
-          "id": 477067
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/44/314239_qFQe4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/44/314239_qFQe4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8d/44/314239_qFQe4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/44/314239_qFQe4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/44/314239_qFQe4.jpg"
-          },
-          "name": "サクラ革命 ～華咲く乙女たち～",
-          "name_cn": "樱花革命 ～华咲的少女们～",
-          "relation": "游戏",
-          "type": 4,
-          "id": 314239
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/f4/256076_2cvld.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/f4/256076_2cvld.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/83/f4/256076_2cvld.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/f4/256076_2cvld.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/f4/256076_2cvld.jpg"
-          },
-          "name": "梦幻模拟战手游",
-          "name_cn": "梦幻模拟战手游",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 256076
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/de/195728_heHPe.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/de/195728_heHPe.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/17/de/195728_heHPe.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/de/195728_heHPe.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/de/195728_heHPe.jpg"
-          },
-          "name": "STAR OCEAN: anamnesis",
-          "name_cn": "星之海洋：记忆",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 195728
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c1/0e/133715_u9M7C.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c1/0e/133715_u9M7C.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/c1/0e/133715_u9M7C.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c1/0e/133715_u9M7C.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c1/0e/133715_u9M7C.jpg"
-          },
-          "name": "プロジェクト クロスゾーン2：ブレイブニューワールド",
-          "name_cn": "交叉领域计划2：美丽新世界",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 133715
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7c/53/124456_6H609.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7c/53/124456_6H609.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/7c/53/124456_6H609.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7c/53/124456_6H609.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7c/53/124456_6H609.jpg"
-          },
-          "name": "サクラ大戦 太正恋歌",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 1,
-          "id": 124456
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/6c/124447_gr3N3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/6c/124447_gr3N3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/fa/6c/124447_gr3N3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/6c/124447_gr3N3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/6c/124447_gr3N3.jpg"
-          },
-          "name": "サクラ大戦",
-          "name_cn": "樱花大战",
-          "relation": "书籍",
-          "type": 1,
-          "id": 124447
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/90/17/124441_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/90/17/124441_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/90/17/124441_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/90/17/124441_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/90/17/124441_jp.jpg"
-          },
-          "name": "サクラ大戦ショウ劇場",
-          "name_cn": "樱花大战show剧场",
-          "relation": "其他",
-          "type": 1,
-          "id": 124441
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/92/ad/85101_I7jI8.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/92/ad/85101_I7jI8.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/92/ad/85101_I7jI8.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/92/ad/85101_I7jI8.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/92/ad/85101_I7jI8.jpg"
-          },
-          "name": "サクラ大戦 15th Anniversary 太正浪漫グラフ",
-          "name_cn": "櫻花大戰 15th Anniversary 太正浪漫畫報",
-          "relation": "单行本",
-          "type": 1,
-          "id": 85101
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1d/85/56826_QFKaX.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1d/85/56826_QFKaX.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1d/85/56826_QFKaX.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1d/85/56826_QFKaX.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1d/85/56826_QFKaX.jpg"
-          },
-          "name": "サクラ大戦 前夜",
-          "name_cn": "樱花大战 前夜",
-          "relation": "其他",
-          "type": 1,
-          "id": 56826
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/9e/bd/55627_HahZa.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9e/bd/55627_HahZa.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/9e/bd/55627_HahZa.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9e/bd/55627_HahZa.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/9e/bd/55627_HahZa.jpg"
-          },
-          "name": "花咲く乙女",
-          "name_cn": "",
-          "relation": "片尾曲",
-          "type": 3,
-          "id": 55627
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/e4/54984_koZK1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/e4/54984_koZK1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/dc/e4/54984_koZK1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/e4/54984_koZK1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/e4/54984_koZK1.jpg"
-          },
-          "name": "サクラ大戦 漫画版",
-          "name_cn": "樱花大战 漫画版",
-          "relation": "书籍",
-          "type": 1,
-          "id": 54984
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/99/fb/42492_ROxD5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/99/fb/42492_ROxD5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/99/fb/42492_ROxD5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/99/fb/42492_ROxD5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/99/fb/42492_ROxD5.jpg"
-          },
-          "name": "サクラ大戦 ドラマCD全集",
-          "name_cn": "",
-          "relation": "广播剧",
-          "type": 3,
-          "id": 42492
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/5a/4b/391_6989D.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5a/4b/391_6989D.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/5a/4b/391_6989D.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5a/4b/391_6989D.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/5a/4b/391_6989D.jpg"
-          },
-          "name": "ドラマチックダンジョン サクラ大戦 〜君あるがため〜",
-          "name_cn": "樱花大战 因为有你",
-          "relation": "资料片、外传",
-          "type": 4,
-          "id": 391
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/3a/42479_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/3a/42479_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f7/3a/42479_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/3a/42479_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/3a/42479_jp.jpg"
-          },
-          "name": "檄!帝国華撃団",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 42479
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0e/84/42468_jp.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0e/84/42468_jp.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0e/84/42468_jp.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0e/84/42468_jp.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0e/84/42468_jp.jpg"
-          },
-          "name": "檄!帝国華撃団全集",
-          "name_cn": "",
-          "relation": "片头曲",
-          "type": 3,
-          "id": 42468
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/a4/fa/39258_r5b47.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a4/fa/39258_r5b47.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/a4/fa/39258_r5b47.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a4/fa/39258_r5b47.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/a4/fa/39258_r5b47.jpg"
-          },
-          "name": "サクラ大戦１＆２",
-          "name_cn": "樱花大战 1&2",
-          "relation": "游戏",
-          "type": 4,
-          "id": 39258
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/35/6c/39251_8tFeE.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/35/6c/39251_8tFeE.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/35/6c/39251_8tFeE.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/35/6c/39251_8tFeE.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/35/6c/39251_8tFeE.jpg"
-          },
-          "name": "サクラ大戦GB 檄・花組入隊!",
-          "name_cn": "樱花大战GB 檄・花组入队!",
-          "relation": "资料片、外传",
-          "type": 4,
-          "id": 39251
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/46/39245_AaNQa.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/46/39245_AaNQa.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/97/46/39245_AaNQa.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/46/39245_AaNQa.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/46/39245_AaNQa.jpg"
-          },
-          "name": "サクラ大戦 花組対戦コラムス",
-          "name_cn": "樱花大战 花组对战",
-          "relation": "资料片、外传",
-          "type": 4,
-          "id": 39245
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/ea/68/35496_F48Zz.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ea/68/35496_F48Zz.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/ea/68/35496_F48Zz.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ea/68/35496_F48Zz.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/68/35496_F48Zz.jpg"
-          },
-          "name": "プロジェクト クロスゾーン",
-          "name_cn": "交叉领域计划",
-          "relation": "角色出演",
-          "type": 4,
-          "id": 35496
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/b4/c0/20929_Pg3It.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b4/c0/20929_Pg3It.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/b4/c0/20929_Pg3It.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b4/c0/20929_Pg3It.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/b4/c0/20929_Pg3It.jpg"
-          },
-          "name": "サクラ大戦 桜華絢爛",
-          "name_cn": "樱花大战 樱华绚烂",
-          "relation": "动画",
-          "type": 2,
-          "id": 20929
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e3/3b/16438_6UJO3.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e3/3b/16438_6UJO3.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e3/3b/16438_6UJO3.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e3/3b/16438_6UJO3.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e3/3b/16438_6UJO3.jpg"
-          },
-          "name": "サクラ大戦 ～熱き血潮～",
-          "name_cn": "樱花大战 ～炽热之血～",
-          "relation": "不同演绎",
-          "type": 4,
-          "id": 16438
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/9c/7709_99Y9Z.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/9c/7709_99Y9Z.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/0f/9c/7709_99Y9Z.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0f/9c/7709_99Y9Z.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/0f/9c/7709_99Y9Z.jpg"
-          },
-          "name": "サクラ大戦2 〜君、死にたもうことなかれ〜",
-          "name_cn": "樱花大战2 ～愿君平安～",
-          "relation": "续集",
-          "type": 4,
-          "id": 7709
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/c0/2060_eFEIZ.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/c0/2060_eFEIZ.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/f8/c0/2060_eFEIZ.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/c0/2060_eFEIZ.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/c0/2060_eFEIZ.jpg"
-          },
-          "name": "サクラ大戦",
-          "name_cn": "樱花大战",
-          "relation": "动画",
-          "type": 2,
-          "id": 2060
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/74/21/14711_Ll28g.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/74/21/14711_Ll28g.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/74/21/14711_Ll28g.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/74/21/14711_Ll28g.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/74/21/14711_Ll28g.jpg"
-          },
-          "name": "サクラ大戦 全曲集 COMPLETE SONG BOX",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 14711
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/57/6c/42474_o88LR.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/57/6c/42474_o88LR.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/57/6c/42474_o88LR.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/57/6c/42474_o88LR.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/57/6c/42474_o88LR.jpg"
-          },
-          "name": "サクラ大戦・全曲集 2002~2006",
-          "name_cn": "",
-          "relation": "其他",
-          "type": 3,
-          "id": 42474
         }
       ]
     }
