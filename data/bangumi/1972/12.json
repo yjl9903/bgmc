@@ -6,11 +6,11 @@
       "date": "1972-12-03",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/96/10390_p0b08.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/96/10390_p0b08.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/7f/96/10390_p0b08.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/96/10390_p0b08.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/96/10390_p0b08.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/96/10390_zbk7j.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/96/10390_zbk7j.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/7f/96/10390_zbk7j.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/96/10390_zbk7j.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/96/10390_zbk7j.jpg"
       },
       "summary": "本作为开创现今日本动画史上搭乘式巨大机器人类型作品的始祖，对于后来所繁衍出的各式各样变化题材分流作品的影响极其深远。由于其透过多重媒体所整合的复合行销手法，在当年很快地便成功地烙印至少年观众们的心里，也造就了诸多玩具商品的销售奇迹，特别是剧中的虚构金属‘超合金’一辞，后被用于特指一系列日系机器人动漫相关的科幻作品玩具周边品牌上，至今仍有各系列不断发售，且深受高龄层玩家喜爱。",
       "name": "マジンガーZ",
@@ -18,12 +18,16 @@
       "tags": [
         "1972",
         "TV",
+        "robo",
         "东映",
         "东映アニメーション",
         "东映动画",
         "地狱博士",
+        "日本",
+        "机器人",
         "机战",
         "永井豪",
+        "石丸博也",
         "科幻",
         "萝卜",
         "补旧番",
@@ -90,6 +94,7 @@
       "id": 10390,
       "eps": 92,
       "meta_tags": [
+        "机战",
         "TV",
         "日本"
       ],
@@ -109,9 +114,23 @@
           },
           "name": "スーパーロボット大戦64",
           "name_cn": "超级机器人大战64",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 308448
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/10/134040_ZJL4E.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/10/134040_ZJL4E.jpg"
+          },
+          "name": "第2次スーパーロボット大戦α",
+          "name_cn": "第2次超级机器人大战α",
+          "relation": "联动",
+          "type": 4,
+          "id": 134040
         },
         {
           "images": {
@@ -123,7 +142,7 @@
           },
           "name": "スーパーロボット大戦X-Ω",
           "name_cn": "超级机器人大战X-Ω",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 141050
         },
@@ -136,7 +155,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/67/d4/178733_TLFhW.jpg"
           },
           "name": "マジンガーZ",
-          "name_cn": "超无敌铁金刚",
+          "name_cn": "魔神Z",
           "relation": "书籍",
           "type": 1,
           "id": 178733
@@ -151,7 +170,7 @@
           },
           "name": "スーパーロボット大戦COMPACT",
           "name_cn": "超级机器人大战COMPACT",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208853
         },
@@ -165,7 +184,7 @@
           },
           "name": "スーパーロボット大戦COMPACT2 第1部:地上激動篇",
           "name_cn": "超级机器人大战COMPACT2 地上激动篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208854
         },
@@ -179,7 +198,7 @@
           },
           "name": "スーパーロボット大戦COMPACT2 第2部:宇宙激震篇",
           "name_cn": "超级机器人大战COMPACT2 宇宙激震篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208855
         },
@@ -193,7 +212,7 @@
           },
           "name": "スーパーロボット大戦COMPACT2 第3部:銀河決戦篇",
           "name_cn": "超级机器人大战COMPACT2 银河决战篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 208856
         },
@@ -221,7 +240,7 @@
           },
           "name": "机动战队",
           "name_cn": "",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 214577
         },
@@ -249,7 +268,7 @@
           },
           "name": "スーパーロボット大戦EX",
           "name_cn": "超级机器人大战EX",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 219909
         },
@@ -263,7 +282,7 @@
           },
           "name": "スーパーロボット大戦F完結編",
           "name_cn": "超级机器人大战F完结篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 260925
         },
@@ -277,7 +296,7 @@
           },
           "name": "第3次スーパーロボット大戦",
           "name_cn": "第3次超级机器人大战",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 261045
         },
@@ -291,23 +310,23 @@
           },
           "name": "第4次スーパーロボット大戦",
           "name_cn": "第4次超级机器人大战",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 261047
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/d0/10/134040_ZJL4E.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d0/10/134040_ZJL4E.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/d0/10/134040_ZJL4E.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d0/10/134040_ZJL4E.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/d0/10/134040_ZJL4E.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/67/131676_YY3la.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/67/131676_YY3la.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/1a/67/131676_YY3la.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/67/131676_YY3la.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/67/131676_YY3la.jpg"
           },
-          "name": "第2次スーパーロボット大戦α",
-          "name_cn": "第2次超级机器人大战α",
+          "name": "スーパーロボット大戦NEO",
+          "name_cn": "超级机器人大战NEO",
           "relation": "游戏",
           "type": 4,
-          "id": 134040
+          "id": 131676
         },
         {
           "images": {
@@ -319,21 +338,21 @@
           },
           "name": "スーパーロボット大戦コンプリートボックス",
           "name_cn": "超级机器人大战Complete Box",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 325934
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/4c/325936_5kjS4.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/4c/325936_5kjS4.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/8d/4c/325936_5kjS4.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/4c/325936_5kjS4.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/4c/325936_5kjS4.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/8d/4c/325936_LA3tc.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8d/4c/325936_LA3tc.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/8d/4c/325936_LA3tc.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8d/4c/325936_LA3tc.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/8d/4c/325936_LA3tc.jpg"
           },
           "name": "新スーパーロボット大戦",
           "name_cn": "新超级机器人大战",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 325936
         },
@@ -361,7 +380,7 @@
           },
           "name": "スーパーロボット大戦Z スペシャルディスク",
           "name_cn": "超级机器人大战Z 特别篇",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 331794
         },
@@ -375,7 +394,7 @@
           },
           "name": "スーパーロボット大戦Scramble Commander",
           "name_cn": "超级机器人大战：特勤司令官",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 339375
         },
@@ -389,7 +408,7 @@
           },
           "name": "スーパーロボット大戦Scramble Commander the 2nd",
           "name_cn": "超级机器人大战：特勤司令官2",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 339381
         },
@@ -403,7 +422,7 @@
           },
           "name": "第2次スーパーロボット大戦G",
           "name_cn": "第2次超级机器人大战G",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 348525
         },
@@ -501,7 +520,7 @@
           },
           "name": "スーパーロボット大戦α外伝",
           "name_cn": "超级机器人大战α外传",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 48842
         },
@@ -515,7 +534,7 @@
           },
           "name": "スーパーロボット大戦K",
           "name_cn": "超级机器人大战K",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 906
         },
@@ -527,7 +546,7 @@
             "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ca/e8/3637_F5f0G.jpg",
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ca/e8/3637_F5f0G.jpg"
           },
-          "name": "真マジンガー 衝撃! Z編",
+          "name": "真マジンガー 衝撃！Z編",
           "name_cn": "真魔神 冲击！Z篇",
           "relation": "不同世界观",
           "type": 2,
@@ -543,7 +562,7 @@
           },
           "name": "スーパーロボット大戦R",
           "name_cn": "超级机器人大战R",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 9677
         },
@@ -585,7 +604,7 @@
           },
           "name": "スーパーロボット大戦MX",
           "name_cn": "超级机器人大战MX",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 20186
         },
@@ -599,7 +618,7 @@
           },
           "name": "第3次スーパーロボット大戦α 終焉の銀河へ",
           "name_cn": "第3次超级机器人大战α 去往终焉的银河",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 20202
         },
@@ -612,7 +631,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/3d/26907_XSxrJ.jpg"
           },
           "name": "マジンガーZ",
-          "name_cn": "无敌铁金刚",
+          "name_cn": "魔神Z",
           "relation": "书籍",
           "type": 1,
           "id": 26907
@@ -655,7 +674,7 @@
           },
           "name": "スーパーロボット大戦D",
           "name_cn": "超级机器人大战D",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 38490
         },
@@ -669,7 +688,7 @@
           },
           "name": "スーパーロボット大戦",
           "name_cn": "超级机器人大战",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 41580
         },
@@ -683,7 +702,7 @@
           },
           "name": "スーパーロボット大戦COMPACT3",
           "name_cn": "超级机器人大战COMPACT3",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 44520
         },
@@ -697,7 +716,7 @@
           },
           "name": "スーパーロボット大戦Z",
           "name_cn": "超级机器人大战Z",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 144
         },
@@ -725,7 +744,7 @@
           },
           "name": "第2次スーパーロボット大戦",
           "name_cn": "第2次超级机器人大战",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 56977
         },
@@ -739,7 +758,7 @@
           },
           "name": "スーパーロボット大戦リンクバトラー",
           "name_cn": "超级机器人大战Link Battler",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 58750
         },
@@ -753,7 +772,7 @@
           },
           "name": "スーパーロボット大戦A",
           "name_cn": "超级机器人大战A",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 72802
         },
@@ -809,7 +828,7 @@
           },
           "name": "スーパーロボット大戦IMPACT",
           "name_cn": "超级机器人大战Impact",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 98593
         },
@@ -865,23 +884,23 @@
           },
           "name": "スーパーロボット大戦F",
           "name_cn": "超级机器人大战F",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 120059
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/1a/67/131676_YY3la.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1a/67/131676_YY3la.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/1a/67/131676_YY3la.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1a/67/131676_YY3la.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/1a/67/131676_YY3la.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/d1/128805_o2OFZ.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/d1/128805_o2OFZ.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c5/d1/128805_o2OFZ.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/d1/128805_o2OFZ.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/d1/128805_o2OFZ.jpg"
           },
-          "name": "スーパーロボット大戦NEO",
-          "name_cn": "超级机器人大战NEO",
+          "name": "バトルドッジボール 闘球大激突!",
+          "name_cn": "SD躲避球 斗球大激突",
           "relation": "游戏",
           "type": 4,
-          "id": 131676
+          "id": 128805
         }
       ]
     }
@@ -903,6 +922,7 @@
       "name": "パンダコパンダ",
       "name_cn": "熊猫家族",
       "tags": [
+        "1970s",
         "1972",
         "TMS",
         "TMSEntertainment",
@@ -914,8 +934,10 @@
         "子供向",
         "宫崎骏",
         "日本",
+        "治愈",
         "熊猫家族",
         "电影",
+        "短片",
         "高畑勋",
         "高畑勲"
       ],
@@ -958,6 +980,38 @@
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "美术监督",
+          "value": "福田尚朗"
+        },
+        {
+          "key": "摄影监督",
+          "value": "清水達正"
+        },
+        {
+          "key": "原画",
+          "value": "河内日出夫、中村英一、近藤喜文、田中勉、北原健二、青木雄三（青木悠三）、鈴木基司、本多敏行、本木久年、宮崎駿、香西隆男、才田俊次、小泉謙三、山口泰弘、村田耕一、我妻宏、荒木伸吾"
+        },
+        {
+          "key": "补间动画",
+          "value": "平田珠代、上のめぐみ、有原誠治、大竹伸一、山田道代（山田みちしろ）、堀江孝男、福富博、福原兼節、春貴健二、須田裕美子、千葉雅子、湊和雄、高橋道子、本居武士、田中トモコ、前田みのる（前田実）、村田マリ子、窪田正史、後上義隆、島田和義、菊地弘子、中村清、森本和枝、鶴谷和子、原完治、児玉弘子、品川丈夫、坂下優子"
+        },
+        {
+          "key": "背景美术",
+          "value": "現代制作集団（伊藤雅人、五十嵐広子、千葉康之、吉沢久美子、佐藤悦夫、本間優美子、谷博次、滝池昇、野崎俊郎、北川公子、藤塚明男）"
+        },
+        {
+          "key": "摄影",
+          "value": "東京アニメーションフィルム（三沢勝治）、若菜章夫、大和田亨、若菜三樹夫"
+        },
+        {
+          "key": "制作进行",
+          "value": "真田芳房、熊崎哲男"
+        },
+        {
+          "key": "配給",
+          "value": "東宝"
         }
       ],
       "total_episodes": 1,
@@ -965,7 +1019,10 @@
       "eps": 1,
       "meta_tags": [
         "剧场版",
-        "原创"
+        "日本",
+        "原创",
+        "冒险",
+        "剧情"
       ],
       "volumes": 0,
       "series": false,

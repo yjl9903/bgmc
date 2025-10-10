@@ -21,6 +21,9 @@
         "TV",
         "勇者シリーズ",
         "原创",
+        "平野靖士",
+        "机战",
+        "松本保典",
         "科幻",
         "童年",
         "萝卜",
@@ -266,6 +269,20 @@
           "relation": "游戏",
           "type": 4,
           "id": 467503
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/2e/551642_7Jj7w.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/2e/551642_7Jj7w.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/15/2e/551642_7Jj7w.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/2e/551642_7Jj7w.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/2e/551642_7Jj7w.jpg"
+          },
+          "name": "太陽の勇者ファイバード バーニングファイバード発動編",
+          "name_cn": "太阳勇者 燃烧的火鸟发动篇",
+          "relation": "衍生",
+          "type": 2,
+          "id": 551642
         }
       ]
     }
@@ -277,11 +294,11 @@
       "date": "1991-02-19",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/12/81581_0804W.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/12/81581_0804W.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/64/12/81581_0804W.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/12/81581_0804W.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/12/81581_0804W.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/64/12/81581_mmWiZ.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/64/12/81581_mmWiZ.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/64/12/81581_mmWiZ.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/64/12/81581_mmWiZ.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/64/12/81581_mmWiZ.jpg"
       },
       "summary": "今より遠くない未来、人々は高度に発達したロボット技術の恩恵を受けて、平和に暮らしていた。そんなおり、Dr.バグ率いるスクラップ団が地球に破壊と混乱を招くべく活動を開始。彼の野望を打ち砕く立ち上がったのは、天神林ファミリーが経営するロボットの開発＆レンタルの老舗の会社『ぷかりんカンパニー』。子供たちで構成されたレスキュー隊『セイバーキッズ』が、Dr.バグの野望を打ち砕いていくのであった。",
       "name": "緊急発進セイバーキッズ",
@@ -291,6 +308,14 @@
         {
           "key": "中文名",
           "value": "装甲拯救队"
+        },
+        {
+          "key": "别名",
+          "value": [
+            {
+              "v": "Kinkyū Hasshin Saver Kids"
+            }
+          ]
         },
         {
           "key": "话数",
@@ -303,12 +328,53 @@
         {
           "key": "播放结束",
           "value": "1992年2月11日"
+        },
+        {
+          "key": "导演",
+          "value": "亀垣一（チーフディレクター）"
+        },
+        {
+          "key": "音乐",
+          "value": "加藤みちあき、飛澤宏元"
+        },
+        {
+          "key": "製作",
+          "value": "テレビ東京、創通エージェンシー、東京ムービー新社"
+        },
+        {
+          "key": "机械设定",
+          "value": "STUDIO OX（鈴木典孝、福地仁、小川洋、杉田篤彦）；机械设定监修：大塚康生"
+        },
+        {
+          "key": "制片人",
+          "value": "清水睦夫(テレビ東京) 、小水流正勝(創通エージェンシー)、岩田幹宏(東京ムービー新社)"
+        },
+        {
+          "key": "音乐制作",
+          "value": "キング・スターチャイルド"
+        },
+        {
+          "key": "音响",
+          "value": "オーディオ・プランニング・ユー"
+        },
+        {
+          "key": "现象",
+          "value": "東京現像所"
+        },
+        {
+          "key": "剪辑",
+          "value": "高橋和子"
+        },
+        {
+          "key": "企画",
+          "value": "稲垣光繁、飯岡順一"
         }
       ],
       "total_episodes": 50,
       "id": 81581,
       "eps": 50,
       "meta_tags": [
+        "机战",
         "TV",
         "日本"
       ],
@@ -354,7 +420,14 @@
       "tags": [
         "1991",
         "TV",
+        "东映",
+        "东映アニメーション",
+        "日本",
+        "日本动画",
+        "机战",
         "永井豪",
+        "盖塔",
+        "盖塔Go",
         "神谷明",
         "草尾毅",
         "萝卜"
@@ -499,7 +572,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/62/5e/314777_0tZP5.jpg"
           },
           "name": "ゲッターロボ號 文庫版",
-          "name_cn": "",
+          "name_cn": "盖塔机器人号 文库版",
           "relation": "书籍",
           "type": 1,
           "id": 314777
@@ -513,7 +586,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/1c/315253_7z48y.jpg"
           },
           "name": "ゲッターロボ號",
-          "name_cn": "盖特机器人号",
+          "name_cn": "盖塔机器人号",
           "relation": "书籍",
           "type": 1,
           "id": 315253

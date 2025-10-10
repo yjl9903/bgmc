@@ -21,10 +21,13 @@
         "MemoriesOff",
         "OVA",
         "剧场版",
+        "崩",
         "崩!",
         "恋爱",
         "日本",
         "校园",
+        "游戏",
+        "游戏改",
         "秋之回忆"
       ],
       "infobox": [
@@ -54,7 +57,7 @@
         },
         {
           "key": "导演",
-          "value": "横田和（1巻）、岡崎幸男（2・3巻）"
+          "value": "横田和(1)、岡崎幸男(2,3)"
         },
         {
           "key": "脚本",
@@ -70,19 +73,19 @@
         },
         {
           "key": "分镜",
-          "value": "横田和（1・3巻）、渡辺純央（2巻）、前島健一（2巻）"
+          "value": "横田和(1,3)、渡辺純央(2)、前島健一(2)"
         },
         {
           "key": "演出",
-          "value": "横田和（1巻）、岡崎幸男（2・3巻）"
+          "value": "横田和(1)、岡崎幸男(2,3)"
         },
         {
           "key": "总作画监督",
-          "value": "中井準（1・3巻）"
+          "value": "中井準(1,3)"
         },
         {
           "key": "作画监督",
-          "value": "渡辺純子（1巻）、江角涼子（2巻）、斎藤浩信（3巻）"
+          "value": "渡辺純子(1)、江角涼子(2)、斎藤浩信(3)"
         },
         {
           "key": "美术监督",
@@ -159,16 +162,18 @@
       "date": "2001-11-20",
       "platform": "WEB",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/d1/61958_9hi30.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/d1/61958_9hi30.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/51/d1/61958_9hi30.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/d1/61958_9hi30.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/d1/61958_9hi30.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/51/d1/61958_09KAc.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/51/d1/61958_09KAc.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/51/d1/61958_09KAc.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/51/d1/61958_09KAc.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/51/d1/61958_09KAc.jpg"
       },
       "summary": "21世纪初，世界警察为了应对国际化犯罪而在内华达州设立巨大地下监狱“Neo Purgatory”。公元2026年，民间警备会社“Guard of Rose”的少女所乘搭的直升机突然受到美军的攻击，随后坠落到Neo Purgatory。为了保存性命，少女们开始了逃生之旅……",
       "name": "シックス・エンジェルズ",
       "name_cn": "六天使",
-      "tags": [],
+      "tags": [
+        "OVA"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -214,7 +219,22 @@
       "locked": false,
       "nsfw": false,
       "type": 2,
-      "relations": []
+      "relations": [
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/c8/e9/590660_osxOh.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c8/e9/590660_osxOh.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/c8/e9/590660_osxOh.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c8/e9/590660_osxOh.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/c8/e9/590660_osxOh.jpg"
+          },
+          "name": "シックス・エンジェルズ 劇場版",
+          "name_cn": "六天使 剧场版",
+          "relation": "总集篇",
+          "type": 2,
+          "id": 590660
+        }
+      ]
     }
   },
   {
@@ -234,11 +254,20 @@
       "name": "キカイダー01 THE ANIMATION",
       "name_cn": "电脑奇侠 01",
       "tags": [
+        "2000s",
         "2001",
         "OVA",
         "StudioOX",
+        "スタジオOX",
+        "元永庆太郎",
+        "大西信介",
+        "战斗",
+        "日本动画",
+        "漫改",
         "漫画改",
-        "石ノ森章太郎"
+        "独立ova",
+        "石ノ森章太郎",
+        "科幻"
       ],
       "infobox": [
         {
@@ -281,7 +310,7 @@
           "value": "井上和彦"
         },
         {
-          "key": "効果",
+          "key": "音效",
           "value": "野口透"
         },
         {
@@ -289,11 +318,11 @@
           "value": "中武敬文"
         },
         {
-          "key": "アニメーション制作",
-          "value": "スタジオOX"
+          "key": "动画制作",
+          "value": "スタジオＯＸ"
         },
         {
-          "key": "エグゼクティブ・プロデューサー",
+          "key": "执行制片人",
           "value": "小野寺章"
         },
         {

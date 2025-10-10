@@ -6,16 +6,21 @@
       "date": "1977-02-03",
       "platform": "TV",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/2b/89331_mxAhL.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/2b/89331_mxAhL.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/94/2b/89331_mxAhL.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/2b/89331_mxAhL.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/2b/89331_mxAhL.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/2b/89331_K91LL.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/2b/89331_K91LL.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/94/2b/89331_K91LL.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/2b/89331_K91LL.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/2b/89331_K91LL.jpg"
       },
       "summary": "東映動画（東映アニメーション）が『鉄腕アトム』の70年代リメイクを狙って制作した作品。旧・虫プロのスタッフも多く参集した。2015年、科学省長官・山之上博士は高性能の少年ロボット・ジェッターマルスを誕生させる。だがマルスを戦士にしようとする山之上と、その親友でマルスに慈 しみの優しさを与えたい川下博士は対立。心を持ったマルスは少女アンドロイド美里との触れ合いなどから、色々なことを学んでいく。",
       "name": "ジェッターマルス",
       "name_cn": "铁臂马鲁斯",
-      "tags": [],
+      "tags": [
+        "TV",
+        "TVA",
+        "手冢治虫",
+        "漫画改"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -46,6 +51,10 @@
         {
           "key": "播放结束",
           "value": "1977年9月15日"
+        },
+        {
+          "key": "导演",
+          "value": "チーフディレクター：りんたろう"
         }
       ],
       "total_episodes": 27,

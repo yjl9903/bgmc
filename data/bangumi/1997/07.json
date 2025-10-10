@@ -75,6 +75,10 @@
           "value": "87分"
         },
         {
+          "key": "Copyright",
+          "value": "©1997 GAINAX／EVA製作委員会"
+        },
+        {
           "key": "话数",
           "value": "2"
         },
@@ -100,7 +104,7 @@
         },
         {
           "key": "分镜",
-          "value": "鶴巻和哉(25)、樋口真嗣(25-26)、摩砂雪(25)、庵野秀明(26)、甚目喜一（佐藤順一）(26)"
+          "value": "鶴巻和哉(25)、樋口真嗣(25-26)、摩砂雪(25)、庵野秀明(26)、甚目喜一 [ 佐藤順一 ] (26)"
         },
         {
           "key": "演出",
@@ -133,6 +137,34 @@
         {
           "key": "原画",
           "value": "野田武広"
+        },
+        {
+          "key": "音乐制作",
+          "value": "STAR CHILD；协力：テレビ東京ミュージック"
+        },
+        {
+          "key": "录音",
+          "value": "住谷真；录音工作室：東京テレビセンター"
+        },
+        {
+          "key": "录音助理",
+          "value": "佐竹徹也、森本桂一郎"
+        },
+        {
+          "key": "音效",
+          "value": "野口透（アニメサウンド）"
+        },
+        {
+          "key": "音响",
+          "value": "オーディオ タナカ"
+        },
+        {
+          "key": "剪辑",
+          "value": "三木幸子；助手：中野ちひろ、津留洋子、石山かつみ"
+        },
+        {
+          "key": "摄影监督",
+          "value": "白井久男；摄影助监督：黒田洋一"
         }
       ],
       "total_episodes": 2,
@@ -153,17 +185,31 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/26/17041_1QqSC.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/26/17041_1QqSC.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/94/26/17041_1QqSC.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/26/17041_1QqSC.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/26/17041_1QqSC.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/ac/20186_9a3Z5.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/ac/20186_9a3Z5.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/12/ac/20186_9a3Z5.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/ac/20186_9a3Z5.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/ac/20186_9a3Z5.jpg"
           },
-          "name": "スーパーロボット大戦α",
-          "name_cn": "超级机器人大战α",
-          "relation": "游戏",
+          "name": "スーパーロボット大戦MX",
+          "name_cn": "超级机器人大战MX",
+          "relation": "联动",
           "type": 4,
-          "id": 17041
+          "id": 20186
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/bf/552953_R9o5M.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/bf/552953_R9o5M.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/24/bf/552953_R9o5M.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/bf/552953_R9o5M.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/bf/552953_R9o5M.jpg"
+          },
+          "name": "EVANGELION:30+； 30th ANNIVERSARY OF EVANGELION",
+          "name_cn": "",
+          "relation": "三次元",
+          "type": 6,
+          "id": 552953
         },
         {
           "images": {
@@ -315,23 +361,9 @@
           },
           "name": "第3次スーパーロボット大戦α 終焉の銀河へ",
           "name_cn": "第3次超级机器人大战α 去往终焉的银河",
-          "relation": "游戏",
+          "relation": "联动",
           "type": 4,
           "id": 20202
-        },
-        {
-          "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/12/ac/20186_9a3Z5.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/12/ac/20186_9a3Z5.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/12/ac/20186_9a3Z5.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/12/ac/20186_9a3Z5.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/12/ac/20186_9a3Z5.jpg"
-          },
-          "name": "スーパーロボット大戦MX",
-          "name_cn": "超级机器人大战MX",
-          "relation": "游戏",
-          "type": 4,
-          "id": 20186
         },
         {
           "images": {
@@ -349,6 +381,20 @@
         },
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/94/26/17041_1QqSC.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/94/26/17041_1QqSC.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/94/26/17041_1QqSC.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/94/26/17041_1QqSC.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/94/26/17041_1QqSC.jpg"
+          },
+          "name": "スーパーロボット大戦α",
+          "name_cn": "超级机器人大战α",
+          "relation": "联动",
+          "type": 4,
+          "id": 17041
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/ef/15164_Mvzh2.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/ef/15164_Mvzh2.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/a7/ef/15164_Mvzh2.jpg",
@@ -356,7 +402,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/ef/15164_Mvzh2.jpg"
           },
           "name": "THE END OF EVANGELION",
-          "name_cn": "《新世纪福音战士剧场版：THE END OF EVANGELION》原声音乐",
+          "name_cn": "《THE END OF EVANGELION》原声音乐",
           "relation": "原声集",
           "type": 3,
           "id": 15164
@@ -520,7 +566,9 @@
       "summary": "",
       "name": "ゲゲゲの鬼太郎 妖怪特急! まぼろしの汽車",
       "name_cn": "鬼太郎 妖怪特快车! 魔幻火车",
-      "tags": [],
+      "tags": [
+        "剧场版"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -596,7 +644,9 @@
       "name_cn": "地狱老师 恐怖的暑假！妖海传说",
       "tags": [
         "1997",
+        "东映アニメーション",
         "剧场版",
+        "笠原留美",
         "置鲶龙太郎"
       ],
       "infobox": [
@@ -631,11 +681,11 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/d3/25602_JBTJs.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/d3/25602_JBTJs.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/2c/d3/25602_JBTJs.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/d3/25602_JBTJs.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/d3/25602_JBTJs.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/d3/25602_cUuWW.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/d3/25602_cUuWW.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/2c/d3/25602_cUuWW.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/d3/25602_cUuWW.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/d3/25602_cUuWW.jpg"
           },
           "name": "地獄先生ぬ〜べ〜",
           "name_cn": "地狱老师",
@@ -685,6 +735,7 @@
         "スタジオジブリ",
         "久石譲",
         "久石让",
+        "冒险",
         "剧场版",
         "动画电影",
         "原创",
@@ -692,9 +743,8 @@
         "奇幻",
         "宫崎骏",
         "幽灵公主",
+        "战斗",
         "日本",
-        "日本动画",
-        "映画",
         "气势宏大",
         "治愈",
         "环保",
@@ -739,15 +789,15 @@
         },
         {
           "key": "官方网站",
-          "value": "http://www.ntv.co.jp/ghibli/"
+          "value": "https://www.ghibli.jp/works/mononoke/"
         },
         {
           "key": "Copyright",
-          "value": "吉卜力工作室"
+          "value": "© 1997 Hayao Miyazaki/Studio Ghibli, ND"
         },
         {
           "key": "作画监督",
-          "value": "安藤雅司 , 高坂希太郎 , 近藤喜文"
+          "value": "安藤雅司、高坂希太郎、近藤喜文"
         },
         {
           "key": "话数",
@@ -756,6 +806,82 @@
         {
           "key": "导演",
           "value": "宮崎駿"
+        },
+        {
+          "key": "原作",
+          "value": "宮崎駿"
+        },
+        {
+          "key": "其他上映日期",
+          "value": "2025年5月1日(中国大陆4K修复版)"
+        },
+        {
+          "key": "製作",
+          "value": "氏家齊一郎、成田豊；「もののけ姫」製作委員会【徳間書店（小金井道宏、室井實、塚原昇、伊藤純子）、日本テレビ放送網（坂田信久、伊藤和明、長崎佳子、藤本鈴子、野元佳子、門屋大輔、紙谷知子）、電通（百瀬伸夫、野田考也、勝田祥三、青柳教載、福山亮一、曽我有信）、スタジオジブリ（古林繁、荒井章吉、一村晃夫、洞口朋紀、駒形正吾、藤津英子）】；製作担当：奥田誠治"
+        },
+        {
+          "key": "制作",
+          "value": "山下辰巳、藤井睦夫"
+        },
+        {
+          "key": "插入歌演出",
+          "value": "新倉芳美（新倉よしみ）、木村真紀、下成佐登子"
+        },
+        {
+          "key": "原画",
+          "value": "大塚伸治、篠原征子、森友典子、賀川愛、小西賢一、遠藤正明、清水洋、粟田務、箕輪博子、三原三千雄（三原三千夫）、大谷敦子、稲村武志、芳尾英明、二木真希子、山田憲一、笹木信作、山森英司、吉田健一、松瀬勝、桑名郁朗、松尾真理子、河口俊夫、野田武広、杉野左秩子、近藤勝也、金田伊功、Telecom Animation Film（田中敦子）"
+        },
+        {
+          "key": "动画检查",
+          "value": "舘野仁美、中村勝利、斎藤昌哉、中込利恵、小野田和由"
+        },
+        {
+          "key": "补间动画",
+          "value": "手島晶子、大村まゆみ、北島由美子、真野鈴子、坂野方子、柴田和子、倉田美鈴、沢九里、鈴木麻紀子、鈴木まり子、菊池華、鶴岡耕次郎、田村篤、野口美律、藤井香織、米林宏昌、矢地久子、山田珠美、川田学、佐光幸恵、アレキサンドラ・ワエラウフ、ダビッド・エンシナス、東誠子、山浦由加里、西戸スミエ、槇田喜代子、富沢恵子、コマサ、土岐弥生、柴田絵里子、長嶋陽子、椎名律子、岩柳恵美子、藤森まや、近藤梨恵、常木志伸、西河広美、渡辺恵子、谷平久美子、矢野守彦、古屋浩美、安達昌彦、山本まゆみ、中山大介、田辺正恵、新留理恵、松下敦子、手塚寛子、原口ちはる、Telecom Animation Film（飯盛夏子、渡邊奈津子、矢沢真由、東樹葉子、中路景子、毛利志乃舞、小高雅子、上田峰子、板垣伸、安留博子、富野昌江、式部美代子、与沢桂子、平井和子、藤倉雅代、宇田明彦）"
+        },
+        {
+          "key": "协力",
+          "value": "読売新聞社；作画协力：アニメトロトロ、OH!プロダクション、スタジオコクピット、スタジオたくらんけ、グループどんぐり"
+        },
+        {
+          "key": "美术监督",
+          "value": "山本二三、田中直哉、武重洋二、黒田聡、男鹿和雄"
+        },
+        {
+          "key": "背景美术",
+          "value": "吉田昇、春日井直美、長縄恭子、斉藤久恵、伊奈涼子、平原さやか、荒井貞幸、太田清美、谷口淳一、長田昌子、佐々木洋明、田村盛揮（田村せいき）"
+        },
+        {
+          "key": "特效",
+          "value": "谷藤薫児、橋爪朋二、村上正博、榊原豊彦、谷口久美子"
+        },
+        {
+          "key": "色彩指定",
+          "value": "井関真代、森奈緒美、守屋加奈子"
+        },
+        {
+          "key": "摄影",
+          "value": "藪田順二、高橋わたる、古城環"
+        },
+        {
+          "key": "音乐制作",
+          "value": "ワンダーシティ（山下幸郎、滝川透）、スタジオジブリ（稲城和実）"
+        },
+        {
+          "key": "3DCG",
+          "value": "菅野嘉則、百瀬義行、片塰満則、井上雅史"
+        },
+        {
+          "key": "剪辑",
+          "value": "瀬山武司；助手：水田経子、内田恵、田村眞子"
+        },
+        {
+          "key": "演出助理",
+          "value": "有冨興二、石曽根正勝"
+        },
+        {
+          "key": "配給",
+          "value": "東宝"
         }
       ],
       "total_episodes": 1,
@@ -765,7 +891,8 @@
         "剧场版",
         "日本",
         "奇幻",
-        "原创"
+        "原创",
+        "冒险"
       ],
       "volumes": 0,
       "series": false,
@@ -990,16 +1117,21 @@
       "name_cn": "烈火之炎",
       "tags": [
         "1997",
+        "StudioPierrot",
         "TV",
         "studioぴえろ",
+        "ぴえろ",
         "励志",
         "安西信行",
         "少年",
         "崩",
         "打斗",
+        "日本",
         "漫画改",
         "热血",
         "经典",
+        "补旧番",
+        "补番",
         "魔幻"
       ],
       "infobox": [
@@ -1028,6 +1160,14 @@
         {
           "key": "放送开始",
           "value": "1997年7月19日"
+        },
+        {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
+          "key": "官方网站",
+          "value": "https://pierrot.jp/archive/1995/tv90_17.html"
         },
         {
           "key": "播放电视台",
@@ -1158,11 +1298,11 @@
       "date": "1997-07-25",
       "platform": "OVA",
       "images": {
-        "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/42/39543_liI56.jpg",
-        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/42/39543_liI56.jpg",
-        "large": "https://lain.bgm.tv/pic/cover/l/24/42/39543_liI56.jpg",
-        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/42/39543_liI56.jpg",
-        "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/42/39543_liI56.jpg"
+        "small": "https://lain.bgm.tv/r/200/pic/cover/l/24/42/39543_tL91L.jpg",
+        "grid": "https://lain.bgm.tv/r/100/pic/cover/l/24/42/39543_tL91L.jpg",
+        "large": "https://lain.bgm.tv/pic/cover/l/24/42/39543_tL91L.jpg",
+        "medium": "https://lain.bgm.tv/r/800/pic/cover/l/24/42/39543_tL91L.jpg",
+        "common": "https://lain.bgm.tv/r/400/pic/cover/l/24/42/39543_tL91L.jpg"
       },
       "summary": "魔法骑士的OVA 一共有三话，内容跟TV版大不相同，但都是讲述三个平凡少女来到魔法世界的故事。\n　　具体来讲有以下不同：\n　　· 光、风、海 一开始就是好朋友\n　　· 菲力欧变成了坏人\n　　· 人物服饰都变了\n　　· 出现了叫圣兽的东西，可以变成魔神\n　　· 公主和导师都变大人了\n　　总的来讲，魔法骑士OVA的内容基本上是与TV版无关的，不过是将人物造型及名称挪用过来了，就像 翼年代记 和 魔卡少女樱 差不多。看的时候难免会和TV版联系到一起，引人遐想。",
       "name": "レイアース",
@@ -1171,10 +1311,14 @@
         "1997",
         "CLAMP",
         "OVA",
+        "TMS",
         "TMSEntertainment",
         "佐桥俊彦",
         "奇幻",
         "平野俊贵",
+        "幻想",
+        "日本",
+        "机战",
         "漫改",
         "漫画改",
         "萝卜"
@@ -1287,11 +1431,16 @@
       "name_cn": "四驱兄弟WGP 暴走四驱大追踪",
       "tags": [
         "1997",
+        "1997年",
         "TV",
         "XEBEC",
+        "アミノテツロー",
         "剧场版",
+        "动画",
         "四驱兄弟",
+        "日本",
         "日本动画",
+        "漫画改",
         "童年"
       ],
       "infobox": [
@@ -1348,11 +1497,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/3b/47759_61jRv.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/3b/47759_61jRv.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/47/3b/47759_61jRv.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/3b/47759_61jRv.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/3b/47759_61jRv.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/47/3b/47759_VEc3x.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/47/3b/47759_VEc3x.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/47/3b/47759_VEc3x.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/47/3b/47759_VEc3x.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/47/3b/47759_VEc3x.jpg"
           },
           "name": "爆走兄弟レッツ&ゴー!!WGP",
           "name_cn": "四驱兄弟WGP",
@@ -1394,7 +1543,9 @@
       "name": "竜機伝承",
       "name_cn": "龙机传承",
       "tags": [
-        "OVA"
+        "1997",
+        "OVA",
+        "独立ova"
       ],
       "infobox": [
         {
@@ -1432,13 +1583,13 @@
       "relations": [
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/12/3506_hkJcG.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/12/3506_hkJcG.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/e0/12/3506_hkJcG.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/12/3506_hkJcG.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/12/3506_hkJcG.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/e0/12/3506_Qq9n7.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e0/12/3506_Qq9n7.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/e0/12/3506_Qq9n7.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e0/12/3506_Qq9n7.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/e0/12/3506_Qq9n7.jpg"
           },
-          "name": "竜機伝承PLUS",
+          "name": "竜機伝承 －ドラグーン－",
           "name_cn": "龙机传承",
           "relation": "游戏",
           "type": 4,
@@ -1448,7 +1599,7 @@
     }
   },
   {
-    "title": "キューティーハニーF",
+    "title": "劇場版 キューティーハニーF",
     "date": "1997-07-12",
     "bangumi": {
       "date": "1997-07-12",
@@ -1461,11 +1612,16 @@
         "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/2c/233647_N6nHl.jpg"
       },
       "summary": "古代蝶が導くと言われる秘宝をめぐって巻き起こる、愛の光を持つ乙女・キューティーハニーと悪の組織・パンサークローとの戦いを描いたジュブナイル・アニメーション。監督は佐々木憲世。永井豪による人気コミックをベースに、「スペシャルプレゼント　亜美ちゃんの初恋　美少女戦士セーラームーンSuperS外伝」の山口亮太が脚本を執筆。“'97夏・東映アニメフェア”の中の1本として公開された。",
-      "name": "キューティーハニーF",
+      "name": "劇場版 キューティーハニーF",
       "name_cn": "甜心战士F 剧场版",
       "tags": [
         "1997",
-        "剧场版"
+        "东映",
+        "剧场版",
+        "永井豪",
+        "永野爱",
+        "甜心战士",
+        "魔法少女"
       ],
       "infobox": [
         {
@@ -1475,9 +1631,6 @@
         {
           "key": "别名",
           "value": [
-            {
-              "v": "劇場版 キューティーハニーF"
-            },
             {
               "v": "劇場版 キューティーハニーF 「伝説の蝶にしのびよる魔の手!愛と正義の剣で戦え、ハニー!!」"
             }
@@ -1494,6 +1647,114 @@
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "永井豪、飯坂友佳子（作・画）"
+        },
+        {
+          "key": "製作",
+          "value": "高岩淡、泊懋"
+        },
+        {
+          "key": "企画",
+          "value": "東伊里弥"
+        },
+        {
+          "key": "脚本",
+          "value": "山口亮太"
+        },
+        {
+          "key": "音乐",
+          "value": "佐橋俊彦"
+        },
+        {
+          "key": "制作管理",
+          "value": "製作担当：高梨洋一"
+        },
+        {
+          "key": "摄影监督",
+          "value": "片山幸男"
+        },
+        {
+          "key": "剪辑",
+          "value": "吉川泰弘"
+        },
+        {
+          "key": "录音",
+          "value": "立花康夫"
+        },
+        {
+          "key": "美术监督",
+          "value": "窪田忠雄"
+        },
+        {
+          "key": "作画监督",
+          "value": "伊東美奈子"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "増田信博、冨田与四一"
+        },
+        {
+          "key": "导演",
+          "value": "佐々木憲世"
+        },
+        {
+          "key": "原画",
+          "value": "青井清年、石川晋吾、木下ゆうき、鎌田均、都丸保、富田美穂子、梨沢孝司、長崎重信、小田不二夫、原田節子、池田裕治、瀬川みずほ、林康弘、山下高明、安藤正浩"
+        },
+        {
+          "key": "动画检查",
+          "value": "福井智子"
+        },
+        {
+          "key": "补间动画",
+          "value": "富田美香、深本泰永、平尾昌子、赤木康乃、岸裕弥、月岡英明、中川義久、松井誠、風間克行、中村大介、吉山隆士、庄司勇一郎"
+        },
+        {
+          "key": "构图",
+          "value": "下川忠海、坂木功治"
+        },
+        {
+          "key": "背景美术",
+          "value": "伊藤信治、小浜美代子、阿野聰、加藤靖忠、青井孝、菱沼由典、芳野満雄、塩崎広光、佐藤美幸、須和田真"
+        },
+        {
+          "key": "色彩指定",
+          "value": "森田博"
+        },
+        {
+          "key": "特效",
+          "value": "平尾千秋、勝岡稔夫、佐藤章二、下川信裕、太田直"
+        },
+        {
+          "key": "摄影",
+          "value": "濱木淳、細田民男、清水政夫、武井利晴、坂西勝、高橋基、田代儀幸、安藤茂、中得覚、梶原裕美子、小谷野武、若尾卓見、沼子哲也、石井吉忠"
+        },
+        {
+          "key": "音效",
+          "value": "今野康之；助手：鶴田こずえ"
+        },
+        {
+          "key": "录音助理",
+          "value": "国分政嗣"
+        },
+        {
+          "key": "副导演",
+          "value": "立仙裕俊"
+        },
+        {
+          "key": "制作进行",
+          "value": "藤岡和実"
+        },
+        {
+          "key": "制作协力",
+          "value": "ムッシュオニオンプロダクション、葦プロダクション、スタジオ九魔、はだしぷろ、ラストハウス、スタジオOM、スタジオポッケ、スノーライトスタッフ、動画工房、GREEN、ECHOスタジオ、EEI-TOEI"
+        },
+        {
+          "key": "动画制作",
+          "value": "東映アニメーション"
         }
       ],
       "total_episodes": 1,
@@ -1541,7 +1802,9 @@
       "summary": "「カレーパンマンとまほうのふで」\nなんでも真っ黒にしてしまう「まほうのふで」をばいきん仙人から手に入れたばいきんまんは、筆から飛び出す“まっくろおばけ”を使って、町中を汚してしまいました。アンパンマンの顔もジャムおじさんの顔も、パン工場もたちまち、まっくろです。ピンチのアンパンマンに代わってカレーパンマンがまっくろおばけとたたかうのですが…！\n\n「しょくぱんまんとにせしょくぱんまん号」\nしょくぱんまんはいつでもどこでもモテモテ。それを見てイライラしたドキンちゃんに八つ当たりされたばいきんまんは、しょくぱんまんをやっつけるために”にせしょくぱんまん号”を作ってしまいます。何も知らないしょくぱんまんを乗せて、にせしょくぱんまん号は町中を大暴走！大パニックの町にかけつけたアンパンマンはなんとかしょくぱんまんを車の中から助け出しますが、にせしょくぱんまん号は止まりません…！",
       "name": "それいけ!アンパンマン ぼくらはヒーロー",
       "name_cn": "面包超人：我们是英雄",
-      "tags": [],
+      "tags": [
+        "剧场版"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -1670,7 +1933,9 @@
       "summary": "ある日、遠足にやってきたアンパンマン達は、空から落ちてきたあめふりおにと孫娘のアメちゃんを助け出す。二人からの話によると、ばいきんまんが虹の玉を盗んでしまい、すなおとこも出現して虹の星が砂漠化してめちゃくちゃになってしまったとの事。\n\n二人の案内で虹の星に向かったアンパンマン達。ところが、すなおとこはやがて虹の星を支配しようとばいきんまんを裏切り、トライアングルを使ってしょくぱんまん、カレーパンマン、ばいきんまん達をピラミッドに変えてしまう。ピラミッドの姿にされて時間が経つと石になってしまう。さらには虹の星の住人であるレインボー王子や虹の子達も、そしてジャムおじさんやメロンパンナ達もピラミッドに変えられてしまい絶体絶命!\n\n果たしてアンパンマンは、すなおとこの弱点である水を探し出して、すなおとこの野望を止めることができるだろうか?",
       "name": "それいけ!アンパンマン 虹のピラミッド",
       "name_cn": "面包超人：彩虹金字塔",
-      "tags": [],
+      "tags": [
+        "剧场版"
+      ],
       "infobox": [
         {
           "key": "中文名",
@@ -1962,7 +2227,8 @@
       "name": "機動戦士ガンダムF90",
       "name_cn": "机动战士高达F90",
       "tags": [
-        "漫画"
+        "漫画",
+        "高达"
       ],
       "infobox": [
         {
@@ -1970,12 +2236,12 @@
           "value": "机动战士高达F90"
         },
         {
-          "key": "原作",
-          "value": "山口宏"
-        },
-        {
           "key": "作画",
           "value": "中原れい"
+        },
+        {
+          "key": "原作",
+          "value": "山口宏"
         },
         {
           "key": "出版社",
@@ -1990,10 +2256,6 @@
           "value": "1997-07-15"
         },
         {
-          "key": "册数",
-          "value": "1"
-        },
-        {
           "key": "话数",
           "value": "8"
         }
@@ -2001,8 +2263,10 @@
       "total_episodes": 0,
       "id": 241734,
       "eps": 8,
-      "meta_tags": [],
-      "volumes": 1,
+      "meta_tags": [
+        "单行本"
+      ],
+      "volumes": 0,
       "series": false,
       "locked": false,
       "nsfw": false,

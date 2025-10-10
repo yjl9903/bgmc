@@ -660,7 +660,7 @@
     }
   },
   {
-    "title": "悪偶 ‐天才人形‐",
+    "title": "天才玩偶",
     "date": "2018-07-06",
     "bangumi": {
       "id": "242737"
@@ -673,7 +673,10 @@
         "backdrop_path": "/hFQ7Sb9r51gXzzhtifNjee09nt1.jpg",
         "genre_ids": [
           16,
-          9648
+          9648,
+          10759,
+          18,
+          10765
         ],
         "id": 80836,
         "origin_country": [
@@ -1845,37 +1848,6 @@
         ],
         "release_date": "2018-07-25",
         "video": false
-      }
-    }
-  },
-  {
-    "title": "非人哉 Part.2",
-    "date": "2018-07-26",
-    "bangumi": {
-      "id": "312629"
-    },
-    "tmdb": {
-      "id": 94039,
-      "type": "tv",
-      "season": 1,
-      "search": {
-        "adult": false,
-        "backdrop_path": "/1BOhfoHofz8bso0fQTvXFuEd30O.jpg",
-        "genre_ids": [
-          16,
-          35,
-          10765
-        ],
-        "id": 94039,
-        "origin_country": [
-          "CN"
-        ],
-        "original_language": "zh",
-        "original_name": "非人哉",
-        "overview": "分子互动和企鹅影视出品的同名改编动画，坐拥数百万粉丝，微博阅读量超10亿的人气国漫动画，脑洞大开，笑点密集，萌点爆棚，展现中国神仙妖怪当代生活的爆笑日常。",
-        "poster_path": "/doKJa4rZoSbMskhe9RdJODSwFvS.jpg",
-        "first_air_date": "2018-03-29",
-        "name": "非人哉"
       }
     }
   },

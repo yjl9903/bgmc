@@ -20,12 +20,17 @@
         "1996年",
         "TV",
         "TVB",
+        "三束光",
         "东映",
         "东映アニメーション",
+        "东映动画",
         "五十岚卓哉",
         "变身",
+        "奇幻",
+        "日本",
         "武内直子",
         "水手服",
+        "漫改",
         "漫画改",
         "童年",
         "经典",
@@ -76,10 +81,6 @@
           "value": "1997年2月8日"
         },
         {
-          "key": "导演",
-          "value": "五十嵐卓哉"
-        },
-        {
           "key": "音乐",
           "value": "有澤孝紀"
         },
@@ -106,6 +107,10 @@
         {
           "key": "制作",
           "value": "テレビ朝日、東映、東映エージエンシー"
+        },
+        {
+          "key": "系列监督",
+          "value": "五十嵐卓哉"
         }
       ],
       "total_episodes": 34,
@@ -264,11 +269,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/25/5433_55mM1.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/25/5433_55mM1.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/bf/25/5433_55mM1.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/25/5433_55mM1.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/25/5433_55mM1.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/bf/25/5433_HBu67.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bf/25/5433_HBu67.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/bf/25/5433_HBu67.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bf/25/5433_HBu67.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/bf/25/5433_HBu67.jpg"
           },
           "name": "美少女戦士セーラームーンSuperS",
           "name_cn": "美少女战士SuperS",
@@ -425,7 +430,10 @@
         "1996",
         "TV",
         "TVB",
+        "TV动画",
         "便便藏",
+        "感动",
+        "日本",
         "热血",
         "童年",
         "赛马"
@@ -452,16 +460,36 @@
           "value": "1996年3月2日"
         },
         {
+          "key": "放送星期",
+          "value": "星期六"
+        },
+        {
           "key": "官方网站",
-          "value": "http://pierrot.jp/title/makibaoh/"
+          "value": "https://pierrot.jp/archive/1995/tv90_12.html"
+        },
+        {
+          "key": "播放电视台",
+          "value": "フジテレビ系"
         },
         {
           "key": "播放结束",
           "value": "1997年7月12日"
         },
         {
+          "key": "Copyright",
+          "value": "©つの丸・スタジオ将軍／集英社・ぴえろ"
+        },
+        {
           "key": "原作",
-          "value": "つの丸"
+          "value": "つの丸 週刊少年ジャンプ連載 (集英社)"
+        },
+        {
+          "key": "摄影监督",
+          "value": "福島敏行→宮川晴年"
+        },
+        {
+          "key": "制片人",
+          "value": "金田耕司、瀧山麻土香〔23-〕(フジテレビ) 、萩野賢(スタジオぴえろ)"
         }
       ],
       "total_episodes": 61,
@@ -487,7 +515,7 @@
             "common": "https://lain.bgm.tv/r/400/pic/cover/l/ea/80/73978_7cJ2g.jpg"
           },
           "name": "みどりのマキバオー",
-          "name_cn": "闪电怪马",
+          "name_cn": "热斗小马",
           "relation": "书籍",
           "type": 1,
           "id": 73978
@@ -541,16 +569,20 @@
       "name_cn": "龙珠 最强之道",
       "tags": [
         "1996",
+        "JUMP",
         "东映",
         "东映アニメーション",
+        "冒险",
         "剧场版",
         "动画",
+        "奇幻",
         "山内重保",
         "战斗",
         "日本",
         "漫改",
         "漫画改",
         "热血",
+        "科幻",
         "龙珠"
       ],
       "infobox": [
@@ -571,24 +603,81 @@
           "value": "1996年3月2日"
         },
         {
-          "key": "製作総指揮",
-          "value": "高岩淡、安齊富夫、泊懋"
-        },
-        {
-          "key": "美術デザイン",
-          "value": "辻忠直"
+          "key": "片长",
+          "value": "79分钟"
         },
         {
           "key": "话数",
           "value": "1"
+        },
+        {
+          "key": "原作",
+          "value": "鳥山明（集英社・ジャンプコミックス刊）"
+        },
+        {
+          "key": "製作",
+          "value": "東映（高岩淡）、集英社（安齋富夫）、東映アニメーション（泊懋）"
+        },
+        {
+          "key": "企画",
+          "value": "森下孝三、蛭田成一、清水賢治、金田耕司（フジテレビ）、週刊少年ジャンプ；製作担当：杉本隆一"
+        },
+        {
+          "key": "主题歌演出",
+          "value": "FIELD OF VIEW"
+        },
+        {
+          "key": "剪辑",
+          "value": "福光伸一"
+        },
+        {
+          "key": "录音",
+          "value": "二宮健治"
+        },
+        {
+          "key": "原画",
+          "value": "大山康彦、志田直俊、上田明美、舘直樹、細田守、鎌田均、須田正己、小田不二夫、窪秀巳、相澤昌弘（相澤伽月）、北野義宏、滝川和男、木下ゆうき、内野明雄、渡邊義弘、小泉昇、入江篤、島貫正弘、木下和栄、三浦和也、駒井一也、梨沢孝司、大西陽一、伊藤尚往、増田信博、中山久司（森久司）、中山勝一、上野ケン、高橋英樹、村尾実（ムラオミノル）、嶋川竜太郎、山下高明、松本清、的場茂夫、阿部隆、久田和也、市川吉幸、なかじまちゅうじ、青井清年、菅野利之、本田隆、黒石崇裕、直井正博、青山充、星川信芳、八島善孝、敷島博英、長崎重信、林康弘、石川修、高木淳、山室直儀"
+        },
+        {
+          "key": "作画监督助理",
+          "value": "久田和也、井手武生、稲上晃、菅野利之、宮原直樹、北野義宏、島貫正弘、山下高明、駒井一也、伊藤尚往、稲葉仁、冨田与四一、苫政三、芹田明雄"
+        },
+        {
+          "key": "补间动画",
+          "value": "馬渡久史、岸祐弥、佐藤恭子、有田京子、篠原悦子、土手あづさ、阿部親幸、松島陽子、大宮ルミ子、山本勉、山田美代子、宮崎康子、白川孝子、桐山和子、武藤一郎、國井啓、皆川智之、菅野由美子、仲條久美、岩井明美、竹森由加、末田久子、田中紀子、川口準之祐、佐藤美加、赤間てる子、渡辺美佐、栗飯原美子、小原智恵子、橘美穂"
+        },
+        {
+          "key": "动画检查",
+          "value": "堀越久美子、永富美智子、原田伸之、山田真紀、野口恵美"
+        },
+        {
+          "key": "背景美术",
+          "value": "伊藤雅人、松本健治、徳重賢、渡辺佳人、鈴木慶太、南澤貞子、藤井かおり、高橋智子、石原信明、清水彩、芳野満雄、佐藤美幸、大関恒雄、坂木功治、大原盛仁"
+        },
+        {
+          "key": "摄影",
+          "value": "清水政夫、片山幸男、細田民男、武井利晴、福井政利、高橋基、田代儀幸、濵木淳、安藤茂、中得覚、梶原裕美子、小谷野武、若尾卓見、沼子哲也、石井吉忠"
+        },
+        {
+          "key": "协力",
+          "value": "青二プロダクション、進藤プロダクション、菁画舎、スタジオライブ、ラストハウス、ムッシュオニオンプロダクション、アドコスモ、メルヘン社、動画工房、はだしぷろ、スタジオ座円洞、ドラゴンプロダクション、Kプロダクション、きのプロダクション、玉沢動画舎、スタジオ・イースター、EEI-TOEI、ECHO、葦プロダクション、TASCO上海、スタジオOM青森ワークス、スタジオポッケ、アニメハウス、三晃プロダクション、IMG、ACCプロダクション、トランス・アーツ、スタジオジブリ"
+        },
+        {
+          "key": "发行",
+          "value": "東映"
         }
       ],
       "total_episodes": 1,
       "id": 48944,
       "eps": 1,
       "meta_tags": [
+        "科幻",
         "剧场版",
-        "漫画改"
+        "日本",
+        "奇幻",
+        "漫画改",
+        "战斗",
+        "冒险"
       ],
       "volumes": 0,
       "series": false,
@@ -673,19 +762,23 @@
       "name_cn": "哆啦A梦：大雄与银河超特急",
       "tags": [
         "1996",
+        "1996年3月",
         "SHIN-EI",
         "シンエイ动画",
         "ドラえもん",
         "剧场版",
         "哆啦A梦",
+        "战斗",
         "搞笑",
         "日本",
+        "日本动画",
         "映画",
         "漫改",
         "漫画改",
         "科幻",
         "童年",
         "童年回忆",
+        "芝山努",
         "藤子·F·不二雄"
       ],
       "infobox": [
@@ -833,6 +926,34 @@
       "relations": [
         {
           "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/1f/455_2oqQo.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/1f/455_2oqQo.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/82/1f/455_2oqQo.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/1f/455_2oqQo.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/1f/455_2oqQo.jpg"
+          },
+          "name": "ドラえもん のび太の創世日記",
+          "name_cn": "哆啦A梦：大雄的创世日记",
+          "relation": "前传",
+          "type": 2,
+          "id": 455
+        },
+        {
+          "images": {
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/7f/e1/459_y6nBk.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/7f/e1/459_y6nBk.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/7f/e1/459_y6nBk.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/7f/e1/459_y6nBk.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/7f/e1/459_y6nBk.jpg"
+          },
+          "name": "ドラえもん のび太のねじ巻き都市冒険記",
+          "name_cn": "哆啦A梦：大雄的钥匙城历险记",
+          "relation": "续集",
+          "type": 2,
+          "id": 459
+        },
+        {
+          "images": {
             "small": "https://lain.bgm.tv/r/200/pic/cover/l/0f/06/32084_RlFIl.jpg",
             "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0f/06/32084_RlFIl.jpg",
             "large": "https://lain.bgm.tv/pic/cover/l/0f/06/32084_RlFIl.jpg",
@@ -908,10 +1029,15 @@
       "name_cn": "我的麻理",
       "tags": [
         "1996",
+        "1996年",
+        "90年代",
         "OVA",
+        "StudioPierrot",
+        "ぴえろ",
         "兄妹",
         "小丑社",
         "恋爱",
+        "搞笑",
         "望月智充",
         "机器人",
         "梦",
@@ -1039,6 +1165,7 @@
       "name_cn": "宇宙战舰山本洋子",
       "tags": [
         "1996",
+        "90年代",
         "J.C.STAFF",
         "OVA",
         "T-UP",
@@ -1046,9 +1173,12 @@
         "宫村优子",
         "小说改",
         "新房昭之",
+        "机战",
+        "林原めぐみ",
         "林原惠美",
         "科幻",
-        "轻小说改"
+        "轻小说改",
+        "轻改"
       ],
       "infobox": [
         {
@@ -1100,11 +1230,11 @@
         },
         {
           "key": "机械设定",
-          "value": "浜崎賢一、安藤正浩"
+          "value": "浜崎賢一、安藤正浩；副机设：桝田浩史(STAGE2)"
         },
         {
           "key": "美术监督",
-          "value": "廣瀬義憲（STAGE 1、3）、吉田昇（STAGE 2）"
+          "value": "廣瀬義憲(STAGE 1/3)、吉田昇(STAGE 2)"
         },
         {
           "key": "摄影监督",
@@ -1136,19 +1266,19 @@
         },
         {
           "key": "脚本",
-          "value": "松原談治、関島眞頼、河原ゆうじ"
+          "value": "松原談治(1)、関島眞頼(2)、河原ゆうじ(3)"
         },
         {
           "key": "分镜",
-          "value": "新房昭之、大橋誉志光、中山勝一"
+          "value": "新房昭之(1,3)、大橋誉志光(1)、中山勝一(2)"
         },
         {
           "key": "演出",
-          "value": "大橋誉志光、下田正美、新房昭之"
+          "value": "大橋誉志光(1)、下田正美(2)、新房昭之(3)"
         },
         {
           "key": "作画监督",
-          "value": "亀井幹太、山川吉樹"
+          "value": "人物作画监督：亀井幹太、山川良志信(山川吉樹)"
         },
         {
           "key": "机械作画监督",
@@ -1291,12 +1421,15 @@
       "name_cn": "哆啦美与哆啦A梦七小子的机器人学校七不思议",
       "tags": [
         "1996",
+        "1996年3月",
+        "OVA",
         "SHIN-EI",
         "シンエイ动画",
         "ドラえもん",
         "剧场版",
         "哆啦A梦",
         "哆啦美",
+        "搞笑",
         "映画",
         "漫改",
         "漫画改",
@@ -1375,11 +1508,11 @@
         },
         {
           "images": {
-            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/d4/84232_6g26y.jpg",
-            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/d4/84232_6g26y.jpg",
-            "large": "https://lain.bgm.tv/pic/cover/l/78/d4/84232_6g26y.jpg",
-            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/d4/84232_6g26y.jpg",
-            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/d4/84232_6g26y.jpg"
+            "small": "https://lain.bgm.tv/r/200/pic/cover/l/78/d4/84232_m9M6n.jpg",
+            "grid": "https://lain.bgm.tv/r/100/pic/cover/l/78/d4/84232_m9M6n.jpg",
+            "large": "https://lain.bgm.tv/pic/cover/l/78/d4/84232_m9M6n.jpg",
+            "medium": "https://lain.bgm.tv/r/800/pic/cover/l/78/d4/84232_m9M6n.jpg",
+            "common": "https://lain.bgm.tv/r/400/pic/cover/l/78/d4/84232_m9M6n.jpg"
           },
           "name": "ザ・ドラえもんズ",
           "name_cn": "哆啦A梦历险记",
