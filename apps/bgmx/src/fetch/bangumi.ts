@@ -14,7 +14,7 @@ import { OfflineBangumi, type BangumiItem } from '../offline';
 export async function fetchBangumiData(ctx: Context) {
   await fs.ensureDir(ctx.bangumiRoot);
 
-  const client = new BgmClient(fetch);
+  const client = new BgmClient();
   const bangumiDB = new OfflineBangumi(ctx.bangumiRoot);
 
   await bangumiDB.load();

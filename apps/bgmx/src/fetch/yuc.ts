@@ -2,13 +2,13 @@ import fs from 'fs-extra';
 import path from 'node:path';
 import { JSDOM } from 'jsdom';
 
-import { BgmClient, getSubjectAlias } from 'bgmc';
+import { getSubjectAlias } from 'bgmc';
+import { normalizeTitle, trimSeason } from 'bgmt';
 
 import type { Context } from '../types';
 
-import { OfflineBangumi } from '../offline';
-import { normalizeTitle, trimSeason } from 'bgmt';
 import { YucRewriter } from '../rewrite';
+import { OfflineBangumi } from '../offline';
 
 export interface YucItem {
   id: number;
@@ -264,7 +264,6 @@ function createBangumiMatcher(
   year: number,
   month: number
 ) {
-  const client = new BgmClient(fetch);
   const d1 = `${year}-${String(month).padStart(2, '0')}`;
   const d2 = `${month === 1 ? year - 1 : year}-${String(month === 1 ? 12 : month - 1).padStart(2, '0')}`;
   const d3 = `${month === 12 ? year + 1 : year}-${String(month === 12 ? 1 : month + 1).padStart(2, '0')}`;

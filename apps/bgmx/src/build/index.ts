@@ -102,7 +102,7 @@ export async function buildData(ctx: Context) {
   }
 
   async function buildBangumiCalendar(output: string) {
-    const client = new BgmClient(fetch);
+    const client = new BgmClient();
     const calendar = await client.calendar();
 
     const bangumis: FullBangumi[][] = [[], [], [], [], [], [], []];

@@ -1,6 +1,6 @@
 import type { MiddlewareHandler } from 'hono';
 
-import type { AppEnv } from '../env';
+import type { AppEnv } from '../../env';
 
 const unauthorizedResponse = (c: Parameters<MiddlewareHandler<AppEnv>>[0]) => {
   const requestId = c.get('requestId');
@@ -17,7 +17,7 @@ const unauthorizedResponse = (c: Parameters<MiddlewareHandler<AppEnv>>[0]) => {
   );
 };
 
-export const authMiddleware: MiddlewareHandler<AppEnv> = async (c, next) => {
+export const authorization: MiddlewareHandler<AppEnv> = async (c, next) => {
   const authorization = c.req.header('Authorization');
   const secret = c.env.SECRET;
 

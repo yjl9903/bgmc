@@ -1,5 +1,7 @@
 /// <reference types="@cloudflare/workers-types" />
 
+import type { Context as HonoContext } from 'hono';
+
 import type { Database } from './database';
 
 export type ServiceBindings = {
@@ -16,3 +18,5 @@ export type AppEnv = {
   Bindings: ServiceBindings;
   Variables: AppVariables;
 };
+
+export type Context = HonoContext<AppEnv>;

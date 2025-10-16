@@ -70,15 +70,33 @@ importers:
       '@hono/node-server':
         specifier: 1.19.5
         version: 1.19.5(hono@4.5.4)
+      '@hono/zod-validator':
+        specifier: 0.7.4
+        version: 0.7.4(hono@4.5.4)(zod@4.1.12)
       bgmc:
         specifier: workspace:*
         version: link:../../packages/bgmc
+      bgmt:
+        specifier: workspace:*
+        version: link:../../packages/bgmt
+      bgmx:
+        specifier: workspace:*
+        version: link:../bgmx
       drizzle-orm:
         specifier: 0.44.6
         version: 0.44.6(@cloudflare/workers-types@4.20251011.0)
       hono:
         specifier: 4.5.4
         version: 4.5.4
+      p-limit:
+        specifier: 7.1.1
+        version: 7.1.1
+      tmdbc:
+        specifier: workspace:*
+        version: link:../../packages/tmdbc
+      zod:
+        specifier: 4.1.12
+        version: 4.1.12
 
   apps/bgmx:
     dependencies:
@@ -772,6 +790,12 @@ packages:
     engines: {node: '>=18.14.1'}
     peerDependencies:
       hono: ^4
+
+  '@hono/zod-validator@0.7.4':
+    resolution: {integrity: sha512-biKGn3BRJVaftZlIPMyK+HCe/UHAjJ6sH0UyXe3+v0OcgVr9xfImDROTJFLtn9e3XEEAHGZIM9U6evu85abm8Q==}
+    peerDependencies:
+      hono: '>=3.9.0'
+      zod: ^3.25.0 || ^4.0.0
 
   '@iarna/toml@2.2.5':
     resolution: {integrity: sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==}
@@ -2721,6 +2745,10 @@ packages:
     resolution: {integrity: sha512-mlVgR3PGuzlo0MmTdk4cXqXWlwQDLnONTAg6sm62XkMJEiRxN3GL3SffkYvqwonbkJBcrI7Uvv5Zh9yjvn2iUw==}
     engines: {node: '>=12.20'}
 
+  p-limit@7.1.1:
+    resolution: {integrity: sha512-i8PyM2JnsNChVSYWLr2BAjNoLi0BAYC+wecOnZnVV+YSNJkzP7cWmvI34dk0WArWfH9KwBHNoZI3P3MppImlIA==}
+    engines: {node: '>=20'}
+
   pac-proxy-agent@7.0.1:
     resolution: {integrity: sha512-ASV8yU4LLKBAjqIPMbrgtaKIvxQri/yh2OpI+S6hVa9JRkUI3Y3NPFbfngDtY7oFtSMD3w31Xns89mDa3Feo5A==}
     engines: {node: '>= 14'}
@@ -3613,6 +3641,10 @@ packages:
     resolution: {integrity: sha512-tVpsJW7DdjecAiFpbIB1e3qxIQsE6NoPc5/eTdrbbIC4h0LVsWhnoa3g+m2HclBIujHzsxZ4VJVA+GUuc2/LBw==}
     engines: {node: '>=12'}
 
+  yocto-queue@1.2.1:
+    resolution: {integrity: sha512-AyeEbWOu/TAXdxlV9wmGcR0+yh2j3vYPGOECcIj2S7MkrLyC7ne+oye2BKTItt0ii2PHk4cDy+95+LshzbXnGg==}
+    engines: {node: '>=12.20'}
+
   youch-core@0.3.3:
     resolution: {integrity: sha512-ho7XuGjLaJ2hWHoK8yFnsUGy2Y5uDpqSTq1FkHLK4/oqKtyUU1AFbOOxY4IpC9f0fTLjwYbslUz0Po5BpD1wrA==}
 
@@ -3621,6 +3653,9 @@ packages:
 
   zod@3.22.3:
     resolution: {integrity: sha512-EjIevzuJRiRPbVH4mGc8nApb/lVLKVpmUhAaR5R5doKGfAnGJ6Gr3CViAVjP+4FWSxCsybeWQdcgCtbX+7oZug==}
+
+  zod@4.1.12:
+    resolution: {integrity: sha512-JInaHOamG8pt5+Ey8kGmdcAcg3OL9reK8ltczgHTAwNhMys/6ThXHityHxVV2p3fkw/c+MAvBHFVYHFZDmjMCQ==}
 
 snapshots:
 
@@ -3980,6 +4015,11 @@ snapshots:
   '@hono/node-server@1.19.5(hono@4.5.4)':
     dependencies:
       hono: 4.5.4
+
+  '@hono/zod-validator@0.7.4(hono@4.5.4)(zod@4.1.12)':
+    dependencies:
+      hono: 4.5.4
+      zod: 4.1.12
 
   '@iarna/toml@2.2.5': {}
 
@@ -5893,6 +5933,10 @@ snapshots:
 
   p-cancelable@3.0.0: {}
 
+  p-limit@7.1.1:
+    dependencies:
+      yocto-queue: 1.2.1
+
   pac-proxy-agent@7.0.1:
     dependencies:
       '@tootallnate/quickjs-emscripten': 0.23.0
@@ -6867,6 +6911,8 @@ snapshots:
 
   yargs-parser@21.1.1: {}
 
+  yocto-queue@1.2.1: {}
+
   youch-core@0.3.3:
     dependencies:
       '@poppinss/exception': 1.2.2
@@ -6881,3 +6927,5 @@ snapshots:
       youch-core: 0.3.3
 
   zod@3.22.3: {}
+
+  zod@4.1.12: {}

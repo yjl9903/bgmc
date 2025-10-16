@@ -6,7 +6,7 @@ import { BgmClient } from './client';
 
 const cli = breadc('bgmc', { version });
 
-const client = new BgmClient(fetch);
+const client = new BgmClient();
 
 cli.command('subject <id>', 'Get Subject').action(async (id, _options) => {
   const subject = await client.subject(+id);

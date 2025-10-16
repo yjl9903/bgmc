@@ -40,7 +40,17 @@ export interface BgmClientInit {
 
   userAgent?: string;
 
-  maxRetry?: number;
+  /**
+   * @default 0
+   */
+  retry?: number;
+
+  /**
+   * @default 2000
+   */
+  retryTimeout?: number;
+
+  fetch?: typeof globalThis.fetch;
 }
 
 export class BgmClient {
@@ -48,18 +58,16 @@ export class BgmClient {
 
   public userAgent;
 
-  private readonly maxRetry;
+  private readonly fetch: typeof globalThis.fetch | null | undefined;
 
-  private readonly fetch: (request: RequestInfo, init?: RequestInit) => Promise<Response>;
+  private readonly init: BgmClientInit;
 
-  constructor(
-    fetch: (request: RequestInfo, init?: RequestInit) => Promise<Response>,
-    { baseURL, userAgent, maxRetry = 5 }: BgmClientInit = {}
-  ) {
-    this.fetch = fetch;
+  constructor(init: BgmClientInit = {}) {
+    const { baseURL, userAgent } = init;
+    this.fetch = init.fetch;
     this.baseURL = baseURL || 'https://api.bgm.tv';
     this.userAgent = userAgent || `bgmc/${version} (https://www.npmjs.com/package/bgmc)`;
-    this.maxRetry = maxRetry <= 0 ? Number.MAX_SAFE_INTEGER : maxRetry;
+    this.init = { ...init };
   }
 
   public calendar() {
@@ -113,10 +121,10 @@ export class BgmClient {
         url.searchParams.set(key, String(value));
       }
     }
-    const maxRetry = this.maxRetry;
-    for (let i = 0; i < maxRetry; i++) {
+    const maxRetry = this.init.retry ?? 0;
+    for (let i = 0; i <= maxRetry; i++) {
       try {
-        const resp = await this.fetch(url.toString(), {
+        const resp = await (this.fetch ?? fetch)(url.toString(), {
           headers: { 'User-Agent': this.userAgent }
         });
         if (!resp.ok || resp.status !== 200) {
@@ -130,8 +138,11 @@ export class BgmClient {
             throw err;
           }
         }
-        if (i + 1 === maxRetry) {
+        if (i === maxRetry) {
           throw err;
+        }
+        if (this.init.retryTimeout) {
+          await new Promise((resolve) => setTimeout(resolve, this.init.retryTimeout));
         }
       }
     }

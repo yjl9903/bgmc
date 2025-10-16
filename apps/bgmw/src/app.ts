@@ -13,29 +13,27 @@ export const createApp = () => {
   app.use('*', logger());
 
   app.use('*', async (c, next) => {
-    c.set('requestId', crypto.randomUUID());
+    const requestId = crypto.randomUUID();
+    c.set('requestId', requestId);
 
     const database = await connectDatabase(c.env.DATABASE);
     c.set('database', database);
 
     await next();
+
+    c.res.headers.set('X-Request-Id', requestId);
   });
 
   app.route('/', healthRoute);
   app.route('/', bangumiRoute);
 
   app.notFound((c) => {
-    const requestId = c.get('requestId');
-
     return c.json(
       {
         ok: false,
         error: 'Not Found'
       },
-      404,
-      {
-        'X-Request-Id': requestId
-      }
+      404
     );
   });
 
@@ -49,10 +47,7 @@ export const createApp = () => {
         ok: false,
         error: 'Internal Server Error'
       },
-      500,
-      {
-        'X-Request-Id': requestId
-      }
+      500
     );
   });
 

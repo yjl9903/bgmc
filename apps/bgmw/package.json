@@ -39,7 +39,7 @@
     "build": "tsdown",
     "d1:migrate": "wrangler d1 migrations apply DATABASE",
     "deploy": "wrangler deploy",
-    "dev": "wrangler dev src/index.ts",
+    "dev": "wrangler dev src/worker.ts",
     "drizzle": "drizzle-kit",
     "drizzle:generate": "drizzle-kit generate",
     "format": "prettier --write 'src/**/*.ts'",
@@ -48,9 +48,15 @@
   },
   "dependencies": {
     "@hono/node-server": "1.19.5",
+    "@hono/zod-validator": "0.7.4",
     "bgmc": "workspace:*",
+    "bgmt": "workspace:*",
+    "bgmx": "workspace:*",
     "drizzle-orm": "0.44.6",
-    "hono": "4.5.4"
+    "hono": "4.5.4",
+    "p-limit": "7.1.1",
+    "tmdbc": "workspace:*",
+    "zod": "4.1.12"
   },
   "engines": {
     "node": ">=v20.8.0"

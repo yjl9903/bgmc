@@ -1,75 +1,90 @@
+import { z } from 'zod';
 import { Hono } from 'hono';
-import { BgmClient, BgmFetchError } from 'bgmc';
+
+import { BgmFetchError } from 'bgmc';
 
 import type { AppEnv } from '../env';
 
+import { client, fetchAndUpdateBangumiSubject } from '../bangumi';
+
+import { zValidator } from './middlewares/zod';
+import { authorization } from './middlewares/auth';
+
 const router = new Hono<AppEnv>();
 
-const client = new BgmClient((...args) => globalThis.fetch(...args));
-
-router.get('/bangumi/subject/:id', async (c) => {
+// 查询 bangumi calendar
+router.get('/bangumi/calendar', async (c) => {
   const timestamp = new Date();
-  const requestId = c.get('requestId');
-  const idParam = c.req.param('id');
-  const subjectId = Number.parseInt(idParam, 10);
+  const calendar = await client.calendar();
 
-  if (!Number.isFinite(subjectId) || subjectId <= 0) {
-    return c.json(
-      {
-        ok: false,
-        error: 'Invalid subject id'
-      },
-      400,
-      {
-        'X-Request-Id': requestId
+  return c.json({
+    ok: true,
+    timestamp,
+    data: calendar
+  });
+});
+
+// 查询 bangumi subject
+router.get(
+  '/bangumi/subject/:id',
+  zValidator('param', z.object({ id: z.coerce.number().gt(0) })),
+  async (c) => {
+    const timestamp = new Date();
+    const requestId = c.get('requestId');
+    const subjectId = c.req.valid('param').id;
+
+    try {
+      const data = await client.subject(subjectId);
+
+      return c.json(
+        {
+          ok: true,
+          timestamp,
+          data
+        },
+        200
+      );
+    } catch (error) {
+      if (error instanceof BgmFetchError && error.response.status === 404) {
+        return c.json(
+          {
+            ok: false,
+            timestamp,
+            error: 'Subject not found'
+          },
+          404
+        );
       }
-    );
-  }
 
-  try {
-    const data = await client.subject(subjectId);
+      console.error('[bgmw] failed to fetch subject', error, {
+        requestId,
+        subjectId
+      });
 
-    return c.json(
-      {
-        ok: true,
-        data,
-        timestamp
-      },
-      200,
-      {
-        'X-Request-Id': requestId
-      }
-    );
-  } catch (error) {
-    if (error instanceof BgmFetchError && error.response.status === 404) {
       return c.json(
         {
           ok: false,
-          error: 'Subject not found'
+          timestamp,
+          error: 'Failed to fetch subject'
         },
-        404,
-        {
-          'X-Request-Id': requestId
-        }
+        502
       );
     }
-
-    console.error('[bgmw] failed to fetch subject', error, {
-      requestId,
-      subjectId
-    });
-
-    return c.json(
-      {
-        ok: false,
-        error: 'Failed to fetch subject'
-      },
-      502,
-      {
-        'X-Request-Id': requestId
-      }
-    );
   }
-});
+);
+
+// 提交更新 bangumi subject
+router.post(
+  '/bangumi/subject/:id',
+  authorization,
+  zValidator('param', z.object({ id: z.coerce.number().gt(0) })),
+  async (c) => {
+    const subjectId = c.req.valid('param').id;
+
+    const resp = await fetchAndUpdateBangumiSubject(c, subjectId);
+
+    return c.json(resp);
+  }
+);
 
 export const bangumiRoute = router;
