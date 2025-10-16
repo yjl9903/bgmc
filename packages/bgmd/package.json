@@ -64,7 +64,8 @@
     "*.d.ts"
   ],
   "scripts": {
-    "build": "tsx ../../apps/bgmx/src/cli.ts --root ../.. build && tsdown",
+    "build": "tsdown",
+    "build:legacy": "tsx ../../apps/bgmx/src/cli.ts --root ../.. build && tsdown",
     "format": "prettier --write 'src/**/*.ts' 'test/**/*.ts'",
     "release": "release-it",
     "test": "vitest",

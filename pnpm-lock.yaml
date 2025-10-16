@@ -16,9 +16,6 @@ importers:
       '@cloudflare/workers-types':
         specifier: ^4.20251011.0
         version: 4.20251011.0
-      '@total-typescript/ts-reset':
-        specifier: ^0.6.1
-        version: 0.6.1
       '@types/node':
         specifier: ^22.18.10
         version: 22.18.10
@@ -103,9 +100,6 @@ importers:
       '@onekuma/map':
         specifier: ^0.1.10
         version: 0.1.10
-      '@total-typescript/ts-reset':
-        specifier: ^0.6.1
-        version: 0.6.1
       bangumi-data:
         specifier: '>=0.3.184'
         version: 0.3.184
@@ -124,6 +118,9 @@ importers:
       date-fns:
         specifier: ^4.1.0
         version: 4.1.0
+      dotenv:
+        specifier: ^17.2.3
+        version: 17.2.3
       fastest-levenshtein:
         specifier: ^1.0.16
         version: 1.0.16
@@ -1250,9 +1247,6 @@ packages:
 
   '@tootallnate/quickjs-emscripten@0.23.0':
     resolution: {integrity: sha512-C5Mc6rdnsaJDjO3UpGW/CQTHtCKaYlScZTly4JIu97Jxo/odCiH0ITnDXSJPTOrEKk/ycSZ0AOgTmkDtkOsvIA==}
-
-  '@total-typescript/ts-reset@0.6.1':
-    resolution: {integrity: sha512-cka47fVSo6lfQDIATYqb/vO1nvFfbPw7uWLayIXIhGETj0wcOOlrlkobOMDNQOFr9QOafegUPq13V2+6vtD7yg==}
 
   '@tybys/wasm-util@0.10.1':
     resolution: {integrity: sha512-9tTaPJLSiejZKx+Bmog4uSubteqTvFrVrURwkmHixBo0G4seD0zUxp98E1DzUBJxLQ3NPwXrGKDiVjwx/DpPsg==}
@@ -4392,8 +4386,6 @@ snapshots:
       defer-to-connect: 2.0.1
 
   '@tootallnate/quickjs-emscripten@0.23.0': {}
-
-  '@total-typescript/ts-reset@0.6.1': {}
 
   '@tybys/wasm-util@0.10.1':
     dependencies:

@@ -80,6 +80,8 @@ export async function updateDatabaseBangumi(
   try {
     const database = ctx.get('database');
 
+    const now = new Date();
+
     const resp = await database
       .insert(bangumis)
       .values({
@@ -87,7 +89,8 @@ export async function updateDatabaseBangumi(
         data: payload.data,
         persons: payload.persons,
         characters: payload.characters,
-        subjects: payload.subjects
+        subjects: payload.subjects,
+        updatedAt: now
       })
       .onConflictDoUpdate({
         target: bangumis.id,
@@ -95,7 +98,8 @@ export async function updateDatabaseBangumi(
           data: payload.data,
           persons: payload.persons,
           characters: payload.characters,
-          subjects: payload.subjects
+          subjects: payload.subjects,
+          updatedAt: now
         }
       })
       .returning({ id: bangumis.id });

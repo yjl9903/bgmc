@@ -1,3 +1,1 @@
-export * from './build';
-
-export * from './fetch';
+export const hello = 1;
