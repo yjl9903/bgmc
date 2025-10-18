@@ -3,7 +3,7 @@ import 'dotenv/config';
 import pLimit from 'p-limit';
 import { breadc } from 'breadc';
 import { consola } from 'consola';
-import { items as bangumiDataItems } from 'bangumi-data';
+import { items as bangumiDataItems } from 'bangumi-data' with { type: 'json' };
 
 import { getSubjectDisplayName } from 'bgmt';
 
