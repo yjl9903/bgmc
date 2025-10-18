@@ -1,9 +1,166 @@
 import 'dotenv/config';
 
+import pLimit from 'p-limit';
 import { breadc } from 'breadc';
 import { consola } from 'consola';
+import { items as bangumiDataItems } from 'bangumi-data';
 
-const cli = breadc('bgmx');
+import { getSubjectDisplayName } from 'bgmt';
+
+import { version } from '../package.json';
+
+import { dumpDataBy } from './commands';
+import { type DatabaseBangumi, fetchAndUpdateBangumiSubject, fetchBangumiSubjects } from './client';
+
+const cli = breadc('bgmx', { version }).option('-s, --secret <string>', 'API 密钥');
+
+cli
+  .command('fetch bangumi', '拉取并更新所有 bangumi 条目数据')
+  .option('--log <file>', '日志文件, 默认值: fetch-bangumi.md')
+  .option('--out-dir <directory>', '输出目录, 默认值: data/bangumi')
+  .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
+  .action(async (options) => {
+    const secret = options.secret ?? process.env.SECRET;
+    if (!secret) {
+      consola.warn('未提供 API 密钥，将无法更新数据');
+    }
+
+    const executing = new Set<number>();
+    const updated = new Map<number, DatabaseBangumi>();
+    const unknown: typeof bangumiDataItems = [];
+    const errors = new Map<number, any>();
+
+    const limit = pLimit(options.concurrency);
+    const tasks: Promise<DatabaseBangumi | undefined>[] = [];
+
+    const doUpdate = async (bgmId: number) => {
+      try {
+        const resp = await fetchAndUpdateBangumiSubject(bgmId, { secret });
+
+        updated.set(bgmId, resp);
+        errors.delete(bgmId);
+
+        return resp;
+      } catch (error) {
+        console.error(`更新 ${bgmId} 失败:`, error);
+
+        executing.delete(bgmId);
+        errors.set(bgmId, error);
+
+        return undefined;
+      }
+    };
+
+    // 1. 更新服务端的所有 bangumi 条目
+    for await (const subject of fetchBangumiSubjects()) {
+      console.info(`${getSubjectDisplayName(subject.data)} (id: ${subject.id})`);
+
+      executing.add(subject.id);
+
+      if (secret) {
+        tasks.push(limit(() => doUpdate(subject.id)));
+      }
+    }
+
+    await Promise.all(tasks);
+
+    // 2. 更新 bangumi-data 出现的条目
+    for (const item of bangumiDataItems) {
+      const bgmId = item.sites.find((site) => site.site === 'bangumi')?.id;
+      if (bgmId) {
+        if (!executing.has(+bgmId)) {
+          console.info(`${item.title} (id: ${bgmId})`);
+
+          executing.add(+bgmId);
+
+          if (secret) {
+            tasks.push(limit(() => doUpdate(+bgmId)));
+          }
+        }
+      } else {
+        console.error(`缺失 bangumi 信息:`, item.title);
+        unknown.push(item);
+      }
+    }
+
+    await Promise.all(tasks);
+
+    // 3. 数据持久化
+    const bangumis = [...updated.values()];
+    await dumpDataBy(
+      options.outDir ?? 'data/bangumi',
+      bangumis,
+      (item) => {
+        const date = item.data.date;
+        if (date) {
+          const [year, month] = date.split('-');
+          return `${year}/${month}`;
+        } else {
+          return 'tbd';
+        }
+      },
+      (a, b) => a.id - b.id
+    );
+
+    // 4. 写入错误日志
+    {
+      const logFile = options.log ?? 'fetch-bangumi.md';
+      const content: string[] = [];
+
+      content.push('## bgmx fetch bangumi');
+      content.push(``);
+      if (unknown.length > 0) {
+        content.push(`### bangumi-data`);
+        content.push(``);
+        for (const item of unknown) {
+          content.push(`- 缺失 bangumi 信息: ${item.title}`);
+        }
+        content.push(``);
+      }
+      if (errors.size > 0) {
+        content.push(`### 更新错误`);
+        content.push(``);
+        for (const [bgmId, error] of errors) {
+          content.push(`- 更新失败 ${bgmId} : ${error.message}`);
+        }
+        content.push(``);
+      }
+
+      const { writeFile } = await import('node:fs/promises');
+      await writeFile(logFile, content.join('\n'), 'utf-8');
+    }
+
+    console.info(`更新结束, 成功更新 ${updated.size} 条，失败 ${errors.size} 条`);
+  });
+
+cli
+  .command('fetch tmdb', '拉取并更新所有 tmdb 条目数据')
+  .option('--log <file>', '日志文件')
+  .option('--out-dir <directory>', '输出目录')
+  .action(async (options) => {
+    const secret = options.secret ?? process.env.SECRET;
+  });
+
+cli
+  .command('fetch subject', '拉取所有 bgmx 条目数据')
+  .option('--log <file>', '日志文件')
+  .option('--out-dir <directory>', '输出目录')
+  .action(async (options) => {
+    const secret = options.secret ?? process.env.SECRET;
+  });
+
+cli
+  .command('subject <id>', '拉取并更新 subject')
+  .option('-i, --interactive', '交互式更新数据')
+  .action(async (id, options) => {
+    const secret = options.secret ?? process.env.SECRET;
+
+    const resp = await fetchAndUpdateBangumiSubject(+id, {
+      secret
+    });
+
+    console.log(resp);
+  });
 
 if (process.stdin.isTTY) {
   consola.wrapConsole();
