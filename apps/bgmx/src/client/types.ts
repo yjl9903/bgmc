@@ -40,11 +40,6 @@ export type FetchOptions = {
   secret?: string;
 
   /**
-   * Extra request headers
-   */
-  headers?: Record<string, string | ReadonlyArray<string>>;
-
-  /**
    * Hooks
    */
   hooks?: {

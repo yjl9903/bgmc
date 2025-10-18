@@ -159,7 +159,7 @@ router.post(
         z.object({
           id: z.coerce.number().int().gt(0),
           platform: z.enum(['tv', 'web']),
-          weekday: z.coerce.number().int().min(0).max(6).nullable()
+          weekday: z.coerce.number().int().min(0).max(6).nullable().optional().default(null)
         })
       )
     })

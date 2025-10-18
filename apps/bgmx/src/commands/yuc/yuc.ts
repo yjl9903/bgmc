@@ -36,7 +36,29 @@ export async function fetchYucData(options: FetchYucDataOptions) {
   const session = options.force ? undefined : await readSession(sessionFile);
   const { items, calendar, web } = session ?? (await fetchYucPage(year, month));
 
-  return { session: sessionFile, year, month, items, calendar, web };
+  let valid = true;
+  for (const item of items) {
+    if (item.id === -1) {
+      valid = false;
+      break;
+    }
+  }
+  for (const row of calendar) {
+    for (const item of row) {
+      if (item.id === -1) {
+        valid = false;
+        break;
+      }
+    }
+  }
+  for (const item of web) {
+    if (item.id === -1) {
+      valid = false;
+      break;
+    }
+  }
+
+  return { session: sessionFile, year, month, items, calendar, web, valid };
 }
 
 export async function readSession(file: string): Promise<

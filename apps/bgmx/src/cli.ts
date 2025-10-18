@@ -216,55 +216,57 @@ cli
       force: options.force
     });
 
-    const subjects: DatabaseSubject[] = [];
-    for await (const subject of fetchSubjects()) {
-      subjects.push(subject);
-    }
-    subjects.sort((a, b) =>
-      a.data.onair_date && b.data.onair_date
-        ? new Date(b.data.onair_date).getTime() - new Date(a.data.onair_date).getTime()
-        : b.id - a.id
-    );
-
-    const match = async (item: { id: number }, names: string[]) => {
-      if (item.id === -1) {
-        const id = matchBgmId(subjects, names, { year: data.year, month: data.month });
-        item.id = id;
+    if (!data.valid) {
+      const subjects: DatabaseSubject[] = [];
+      for await (const subject of fetchSubjects()) {
+        subjects.push(subject);
       }
+      subjects.sort((a, b) =>
+        a.data.onair_date && b.data.onair_date
+          ? new Date(b.data.onair_date).getTime() - new Date(a.data.onair_date).getTime()
+          : b.id - a.id
+      );
 
-      if (item.id !== -1) {
-        const subject = subjects.find((s) => s.id === item.id);
-        if (subject) {
-          console.info(
-            `${names[0]} -> ${subject.title} (id: ${subject.id}, ${subject.data.onair_date ?? '?'})`
-          );
-        } else {
-          console.error(`unknown subject ${item.id}`);
+      const match = async (item: { id: number }, names: string[]) => {
+        if (item.id === -1) {
+          const id = matchBgmId(subjects, names, { year: data.year, month: data.month });
+          item.id = id;
         }
 
-        if (secret && options.update) {
-          await fetchAndUpdateBangumiSubject(item.id, {
-            secret
-          });
+        if (item.id !== -1) {
+          const subject = subjects.find((s) => s.id === item.id);
+          if (subject) {
+            console.info(
+              `${names[0]} -> ${subject.title} (id: ${subject.id}, ${subject.data.onair_date ?? '?'})`
+            );
+          } else {
+            console.error(`unknown subject ${item.id}`);
+          }
+
+          if (secret && options.update) {
+            await fetchAndUpdateBangumiSubject(item.id, {
+              secret
+            });
+          }
+        }
+      };
+
+      for (const item of data.items) {
+        await match(item, [item.name_cn, item.name_jp]);
+      }
+      for (const row of data.calendar) {
+        for (const item of row) {
+          await match(item, [item.name]);
         }
       }
-    };
-
-    for (const item of data.items) {
-      await match(item, [item.name_cn, item.name_jp]);
-    }
-    for (const row of data.calendar) {
-      for (const item of row) {
+      for (const item of data.web) {
         await match(item, [item.name]);
       }
-    }
-    for (const item of data.web) {
-      await match(item, [item.name]);
-    }
 
-    await writeSession(data.session, data);
+      await writeSession(data.session, data);
 
-    consola.success('抓取周历数据成功');
+      consola.success('抓取周历数据成功');
+    }
 
     const calendar: CalendarInput[] = [];
     for (let i = 0; i < data.calendar.length; i++) {

@@ -23,7 +23,7 @@ export async function fetchAPI<T>(
           : options.signal;
 
       // @ts-ignore
-      const headers = new Headers(options.headers);
+      const headers = new Headers(init?.headers);
       if (options.secret) {
         headers.set('Authorization', `Bearer ${options.secret}`);
       }

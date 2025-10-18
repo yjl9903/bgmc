@@ -36,7 +36,11 @@ export async function updateCalendar(
 ): Promise<void> {
   const resp = await fetchAPI<any>(
     `/calendar`,
-    { method: 'POST', body: JSON.stringify(calendar) },
+    {
+      method: 'POST',
+      body: JSON.stringify({ calendar }),
+      headers: { 'Content-Type': 'application/json' }
+    },
     options
   );
   if (resp.ok) {
