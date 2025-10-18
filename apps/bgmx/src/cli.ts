@@ -13,11 +13,13 @@ import { version } from '../package.json';
 import { formatDatetime } from './utils';
 import {
   dumpDataBy,
+  dumpCalendar,
   matchBgmId,
   fetchYucData,
   writeSession,
   printSubject,
-  printBangumiSubject
+  printBangumiSubject,
+  printCalendar
 } from './commands';
 import {
   type DatabaseBangumi,
@@ -31,7 +33,9 @@ import {
   updateCalendar
 } from './client';
 
-const cli = breadc('bgmx', { version }).option('-s, --secret <string>', 'API 密钥');
+const cli = breadc('bgmx', { version })
+  .option('--base-url <url>', 'API 地址, 默认值: https://bgm.animes.garden')
+  .option('-s, --secret <string>', 'API 密钥');
 
 cli
   .command('sync subject', '拉取所有 bgmx 条目数据')
@@ -70,7 +74,10 @@ cli
 
     const doUpdate = async (bgmId: number) => {
       try {
-        const resp = await fetchAndUpdateBangumiSubject(bgmId, { secret });
+        const resp = await fetchAndUpdateBangumiSubject(bgmId, {
+          baseURL: options.baseUrl,
+          secret
+        });
 
         updated.set(bgmId, resp);
         errors.delete(bgmId);
@@ -87,7 +94,7 @@ cli
     };
 
     // 1. 更新服务端的所有 bangumi 条目
-    for await (const subject of fetchBangumiSubjects()) {
+    for await (const subject of fetchBangumiSubjects({ baseURL: options.baseUrl })) {
       console.info(`${getSubjectDisplayName(subject.data)} (id: ${subject.id})`);
 
       executing.add(subject.id);
@@ -245,6 +252,7 @@ cli
 
           if (secret && options.update) {
             await fetchAndUpdateBangumiSubject(item.id, {
+              baseURL: options.baseUrl,
               secret
             });
           }
@@ -288,8 +296,21 @@ cli
       });
     }
     if (secret && options.update) {
-      await updateCalendar(calendar, { secret });
+      await updateCalendar(calendar, { baseURL: options.baseUrl, secret });
       consola.success('更新周历数据成功');
+    }
+  });
+
+cli
+  .command('calendar', '拉取当前周历数据')
+  .option('--out <file>', '输出目标文件')
+  .action(async (options) => {
+    const resp = await fetchCalendar({ baseURL: options.baseUrl });
+
+    printCalendar(resp.calendar, resp.web);
+
+    if (options.out) {
+      await dumpCalendar(options.out, resp.calendar, resp.web);
     }
   });
 
@@ -297,6 +318,7 @@ cli.command('subject <id>', '查询 bgmx 条目').action(async (id, options) => 
   const secret = options.secret ?? process.env.SECRET;
 
   const resp = await fetchSubject(+id, {
+    baseURL: options.baseUrl,
     secret
   });
 
@@ -307,6 +329,7 @@ cli.command('garden <id>', '查询条目对应的 AnimeGarden 资源').action(as
   const secret = options.secret ?? process.env.SECRET;
 
   const subject = await fetchSubject(+id, {
+    baseURL: options.baseUrl,
     secret
   });
 
@@ -324,15 +347,11 @@ cli.command('bangumi subject <id>', '查询并更新 bangumi 条目').action(asy
   const secret = options.secret ?? process.env.SECRET;
 
   const resp = await fetchAndUpdateBangumiSubject(+id, {
+    baseURL: options.baseUrl,
     secret
   });
 
   printBangumiSubject(resp);
-});
-
-cli.command('calendar', '拉取当前周历数据').action(async (options) => {
-  const resp = await fetchCalendar();
-  console.log(resp);
 });
 
 if (process.stdin.isTTY) {

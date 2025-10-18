@@ -7,3 +7,6 @@ GET http://localhost:8787/bangumi/subject/528438
 ### post bangumi subject
 POST http://localhost:8787/bangumi/subject/528438
 Authorization: Bearer 123456
+
+### get calendar
+GET http://localhost:8787/calendar

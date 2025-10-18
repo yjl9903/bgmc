@@ -2,7 +2,7 @@ import { bold } from '@breadc/color';
 
 import { getSubjectAlias } from 'bgmt';
 
-import type { DatabaseBangumi, DatabaseSubject } from '../client';
+import type { CalendarSubject, DatabaseBangumi, DatabaseSubject } from '../client';
 
 import { formatDatetime } from '../utils';
 
@@ -65,4 +65,20 @@ export function printSubject(data: DatabaseSubject) {
   console.log(`${label('updated')}  ${formatDatetime(new Date(data.updatedAt))}`);
 
   // console.log(subject);
+}
+
+export function printCalendar(calendar: CalendarSubject[][], web: CalendarSubject[]) {
+  for (let i = 0; i < calendar.length; i++) {
+    console.log(bold(['周一', '周二', '周三', '周四', '周五', '周六', '周日'][i]));
+    for (const item of calendar[i]) {
+      console.log(`${item.title}`);
+    }
+    console.log();
+  }
+
+  console.log();
+  console.log(`${bold('web')}`);
+  for (const item of web) {
+    console.log(`${item.title}`);
+  }
 }

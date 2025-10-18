@@ -1,7 +1,8 @@
 export type {
   Bangumi as DatabaseBangumi,
   Subject as DatabaseSubject,
-  CalendarInput
+  CalendarInput,
+  CalendarSubject
 } from '../../../bgmw/src/schema/subject';
 
 export type FetchOptions = {

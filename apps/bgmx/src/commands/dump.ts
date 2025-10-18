@@ -1,6 +1,8 @@
 import path from 'node:path';
 import { mkdir, writeFile } from 'node:fs/promises';
 
+import type { CalendarSubject } from '../client';
+
 export async function dumpDataBy<T>(
   rootDir: string,
   data: T[],
@@ -29,4 +31,12 @@ export async function dumpDataBy<T>(
       await writeFile(filePath, JSON.stringify(items.sort(sortBy), null, 2), 'utf-8');
     })
   );
+}
+
+export async function dumpCalendar(
+  file: string,
+  calendar: CalendarSubject[][],
+  web: CalendarSubject[]
+) {
+  await writeFile(file, JSON.stringify({ calendar, web }, null, 2), 'utf-8');
 }

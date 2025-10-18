@@ -5,7 +5,7 @@ import { asc, gt, eq } from 'drizzle-orm';
 import type { AppEnv } from '../env';
 
 import { updateCalendar } from '../subject';
-import { calendars, subjects } from '../schema';
+import { type CalendarSubject, calendars, subjects } from '../schema';
 
 import { zValidator } from './middlewares/zod';
 import { authorization } from './middlewares/auth';
@@ -123,16 +123,36 @@ router.get('/calendar', async (c) => {
   const database = c.get('database');
 
   try {
-    const data = await database
+    const resp = await database
       .select()
       .from(calendars)
       .where(eq(calendars.isActive, true))
-      .orderBy(asc(subjects.id));
+      .innerJoin(subjects, eq(calendars.id, subjects.id))
+      .orderBy(asc(calendars.id));
+
+    const calendar: CalendarSubject[][] = [[], [], [], [], [], [], []];
+    const web: CalendarSubject[] = [];
+
+    for (const item of resp) {
+      const subject: CalendarSubject = {
+        ...item.subjects,
+        platform: item.calendars.platform,
+        weekday: item.calendars.weekday
+      };
+      if (item.calendars.platform === 'tv' && item.calendars.weekday !== null) {
+        calendar[item.calendars.weekday]?.push(subject);
+      } else {
+        web.push(subject);
+      }
+    }
 
     return c.json({
       ok: true,
       timestamp,
-      data
+      data: {
+        calendar,
+        web
+      }
     });
   } catch (error) {
     console.error('[bgmw] failed to fetch calendar', error, { requestId });

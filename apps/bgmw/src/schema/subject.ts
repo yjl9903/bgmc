@@ -49,3 +49,8 @@ export const calendars = sqliteTable('calendars', {
 });
 
 export type CalendarInput = Omit<Required<typeof calendars.$inferInsert>, 'isActive'>;
+
+export type CalendarSubject = Subject & {
+  platform: 'tv' | 'web';
+  weekday: number | undefined | null;
+};
