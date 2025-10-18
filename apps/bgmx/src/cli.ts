@@ -9,15 +9,16 @@ import { getSubjectDisplayName } from 'bgmt';
 
 import { version } from '../package.json';
 
-import { dumpDataBy, printBangumiSubject } from './commands';
+import { dumpDataBy, printBangumiSubject, printSubject } from './commands';
 import { type DatabaseBangumi, fetchAndUpdateBangumiSubject, fetchBangumiSubjects } from './client';
+import { fetchSubject } from './client/subject';
 
 const cli = breadc('bgmx', { version }).option('-s, --secret <string>', 'API 密钥');
 
 cli
-  .command('fetch subject', '拉取所有 bgmx 条目数据')
+  .command('sync subject', '拉取所有 bgmx 条目数据')
   .option('--update', '是否更新数据, 默认值: true', { default: true })
-  .option('--log <file>', '日志文件, 默认值: fetch-subject.md')
+  .option('--log <file>', '日志文件, 默认值: sync-subject.md')
   .option('--out-dir <directory>', '输出目录, 默认值: data/subject')
   .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
@@ -29,9 +30,9 @@ cli
   });
 
 cli
-  .command('fetch bangumi', '拉取并更新所有 bangumi 条目数据')
+  .command('sync bangumi', '拉取并更新所有 bangumi 条目数据')
   .option('--update', '是否更新数据, 默认值: true', { default: true })
-  .option('--log <file>', '日志文件, 默认值: fetch-bangumi.md')
+  .option('--log <file>', '日志文件, 默认值: sync-bangumi.md')
   .option('--out-dir <directory>', '输出目录, 默认值: data/bangumi')
   .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
@@ -130,7 +131,7 @@ cli
 
     // 5. 写入错误日志
     {
-      const logFile = options.log ?? 'fetch-bangumi.md';
+      const logFile = options.log ?? 'sync-bangumi.md';
       const content: string[] = [];
 
       content.push('## bgmx fetch bangumi');
@@ -164,9 +165,9 @@ cli
   });
 
 cli
-  .command('fetch tmdb', '拉取并更新所有 tmdb 条目数据')
+  .command('sync tmdb', '拉取并更新所有 tmdb 条目数据')
   .option('--update', '是否更新数据, 默认值: true', { default: true })
-  .option('--log <file>', '日志文件, 默认值: fetch-tmdb.md')
+  .option('--log <file>', '日志文件, 默认值: sync-tmdb.md')
   .option('--out-dir <directory>', '输出目录, 默认值: data/tmdb')
   .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
@@ -177,9 +178,17 @@ cli
     }
   });
 
-cli.command('subject <id>', '拉取并更新 bgmx 条目').action(async (id, options) => {});
+cli.command('subject <id>', '查询 bgmx 条目').action(async (id, options) => {
+  const secret = options.secret ?? process.env.SECRET;
 
-cli.command('bangumi subject <id>', '拉取并更新 bangumi 条目').action(async (id, options) => {
+  const resp = await fetchSubject(+id, {
+    secret
+  });
+
+  printSubject(resp);
+});
+
+cli.command('bangumi subject <id>', '查询并更新 bangumi 条目').action(async (id, options) => {
   const secret = options.secret ?? process.env.SECRET;
 
   const resp = await fetchAndUpdateBangumiSubject(+id, {

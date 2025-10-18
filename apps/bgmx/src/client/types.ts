@@ -1,4 +1,7 @@
-export type { Bangumi as DatabaseBangumi } from '../../../bgmw/src/schema/subject';
+export type {
+  Bangumi as DatabaseBangumi,
+  Subject as DatabaseSubject
+} from '../../../bgmw/src/schema/subject';
 
 export type FetchOptions = {
   /**

@@ -8,14 +8,15 @@ import { applyRevisions } from './revision';
  * 组合 subject 信息
  */
 export function createDatabaseSubject(bangumi: DatabaseBangumi, revisions: Revision[]) {
+  const title = decodeSubjectTitle(getSubjectDisplayName(bangumi.data));
   const alias = getSubjectAlias(bangumi.data);
 
   const subject: Subject = {
     id: bangumi.id,
-    title: getSubjectDisplayName(bangumi.data),
+    title,
     data: {
       id: bangumi.id,
-      title: decodeSubjectTitle(bangumi.data.name),
+      title,
       platform: bangumi.data.platform,
       onair_date: bangumi.data.date,
       alias,
