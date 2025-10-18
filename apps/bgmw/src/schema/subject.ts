@@ -39,11 +39,13 @@ export const subjects = sqliteTable('subjects', {
 
 export type Subject = typeof subjects.$inferSelect;
 
-export const calendar = sqliteTable('calendars', {
+export const calendars = sqliteTable('calendars', {
   id: integer('id')
     .primaryKey()
     .references(() => subjects.id),
-  weekday: integer('weekday').notNull(),
-  isActive: integer('is_active', { mode: 'boolean' }).notNull().default(false),
-  onairAt: integer('onair_at', { mode: 'timestamp' }).notNull()
+  platform: text('platform').$type<'tv' | 'web'>().notNull(),
+  weekday: integer('weekday'),
+  isActive: integer('is_active', { mode: 'boolean' }).notNull().default(false)
 });
+
+export type CalendarInput = Omit<Required<typeof calendars.$inferInsert>, 'isActive'>;

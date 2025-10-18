@@ -1,4 +1,4 @@
-import type { FetchOptions, DatabaseSubject } from './types';
+import type { FetchOptions, DatabaseSubject, CalendarInput } from './types';
 
 import { fetchAPI } from './base';
 
@@ -28,4 +28,27 @@ export async function* fetchSubjects(options: FetchOptions = {}): AsyncGenerator
       throw new Error(`Fetch subjects failed`, { cause: resp });
     }
   }
+}
+
+export async function updateCalendar(
+  calendar: CalendarInput[],
+  options: FetchOptions = {}
+): Promise<void> {
+  const resp = await fetchAPI<any>(
+    `/calendar`,
+    { method: 'POST', body: JSON.stringify(calendar) },
+    options
+  );
+  if (resp.ok) {
+    return;
+  }
+  throw new Error(`Update calendar failed`, { cause: resp });
+}
+
+export async function fetchCalendar(options: FetchOptions = {}) {
+  const resp = await fetchAPI<any>(`/calendar`, {}, options);
+  if (resp.ok) {
+    return;
+  }
+  throw new Error(`Update calendar failed`, { cause: resp });
 }

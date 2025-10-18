@@ -22,18 +22,16 @@ import {
 import {
   type DatabaseBangumi,
   type DatabaseSubject,
+  type CalendarInput,
   fetchAndUpdateBangumiSubject,
   fetchBangumiSubjects,
   fetchSubject,
-  fetchSubjects
+  fetchSubjects,
+  fetchCalendar,
+  updateCalendar
 } from './client';
 
 const cli = breadc('bgmx', { version }).option('-s, --secret <string>', 'API 密钥');
-
-cli
-  .command('calendar', '拉取当前周历数据')
-  .option('--session <file>', `会话文件, 默认值: calendar-{year}-{month}.yaml`)
-  .action(async (options) => {});
 
 cli
   .command('sync subject', '拉取所有 bgmx 条目数据')
@@ -243,6 +241,12 @@ cli
         } else {
           console.error(`unknown subject ${item.id}`);
         }
+
+        if (secret && options.update) {
+          await fetchAndUpdateBangumiSubject(item.id, {
+            secret
+          });
+        }
       }
     };
 
@@ -259,6 +263,32 @@ cli
     }
 
     await writeSession(data.session, data);
+
+    console.log('抓取周历数据成功');
+
+    const calendar: CalendarInput[] = [];
+    for (let i = 0; i < data.calendar.length; i++) {
+      const row = data.calendar[i];
+      for (const item of row) {
+        calendar.push({
+          id: item.id,
+          platform: 'tv',
+          weekday: i
+        });
+      }
+    }
+    for (let i = 0; i < data.web.length; i++) {
+      const item = data.web[i];
+      calendar.push({
+        id: item.id,
+        platform: 'web',
+        weekday: null
+      });
+    }
+    if (secret && options.update) {
+      await updateCalendar(calendar, { secret });
+      console.log('更新周历数据成功');
+    }
   });
 
 cli.command('subject <id>', '查询 bgmx 条目').action(async (id, options) => {
@@ -296,6 +326,11 @@ cli.command('bangumi subject <id>', '查询并更新 bangumi 条目').action(asy
   });
 
   printBangumiSubject(resp);
+});
+
+cli.command('calendar', '拉取当前周历数据').action(async (options) => {
+  const resp = await fetchCalendar();
+  console.log(resp);
 });
 
 if (process.stdin.isTTY) {

@@ -1,12 +1,14 @@
 import { z } from 'zod';
-import { asc, gt } from 'drizzle-orm';
 import { Hono } from 'hono';
+import { asc, gt, eq } from 'drizzle-orm';
 
 import type { AppEnv } from '../env';
 
-import { subjects } from '../schema/subject';
+import { updateCalendar } from '../subject';
+import { calendars, subjects } from '../schema';
 
 import { zValidator } from './middlewares/zod';
+import { authorization } from './middlewares/auth';
 
 const router = new Hono<AppEnv>();
 
@@ -56,7 +58,7 @@ router.get(
           timestamp,
           error: 'Failed to fetch subject'
         },
-        502
+        500
       );
     }
   }
@@ -108,7 +110,96 @@ router.get(
           timestamp,
           error: 'Failed to fetch subject list'
         },
-        502
+        500
+      );
+    }
+  }
+);
+
+// 查询 calendar
+router.get('/calendar', async (c) => {
+  const timestamp = new Date();
+  const requestId = c.get('requestId');
+  const database = c.get('database');
+
+  try {
+    const data = await database
+      .select()
+      .from(calendars)
+      .where(eq(calendars.isActive, true))
+      .orderBy(asc(subjects.id));
+
+    return c.json({
+      ok: true,
+      timestamp,
+      data
+    });
+  } catch (error) {
+    console.error('[bgmw] failed to fetch calendar', error, { requestId });
+
+    return c.json(
+      {
+        ok: false,
+        timestamp,
+        error: 'Failed to fetch calendar'
+      },
+      500
+    );
+  }
+});
+
+// 更新 calendar
+router.post(
+  '/calendar',
+  authorization,
+  zValidator(
+    'json',
+    z.object({
+      calendar: z.array(
+        z.object({
+          id: z.coerce.number().int().gt(0),
+          platform: z.enum(['tv', 'web']),
+          weekday: z.coerce.number().int().min(0).max(6).nullable()
+        })
+      )
+    })
+  ),
+  async (c) => {
+    const timestamp = new Date();
+    const requestId = c.get('requestId');
+
+    try {
+      const resp = await updateCalendar(c, c.req.valid('json').calendar);
+
+      if (resp.ok) {
+        return c.json(
+          {
+            ok: true,
+            timestamp,
+            data: resp.data
+          },
+          200
+        );
+      } else {
+        return c.json(
+          {
+            ok: false,
+            timestamp,
+            error: resp.error?.message ?? 'Unknown error'
+          },
+          500
+        );
+      }
+    } catch (error) {
+      console.error('[bgmw] failed to update calendar', error, { requestId });
+
+      return c.json(
+        {
+          ok: false,
+          timestamp,
+          error: 'Failed to update calendar'
+        },
+        500
       );
     }
   }

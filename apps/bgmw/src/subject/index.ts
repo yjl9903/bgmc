@@ -1,7 +1,12 @@
 import { eq } from 'drizzle-orm';
 
 import type { Context } from '../env';
-import { type Bangumi as DatabaseBangumi, subjects as subjectsSchema } from '../schema';
+import {
+  type Bangumi as DatabaseBangumi,
+  type CalendarInput,
+  subjects as subjectsSchema,
+  calendars as calendarsSchema
+} from '../schema';
 
 import { deepEqual } from './utils';
 import { createDatabaseSubject } from './subject';
@@ -68,4 +73,69 @@ export async function updateSubject(ctx: Context, bangumi: DatabaseBangumi) {
       data: subject
     };
   }
+}
+
+export async function updateCalendar(ctx: Context, calendar: CalendarInput[]) {
+  const database = ctx.get('database');
+
+  await database
+    .update(calendarsSchema)
+    .set({ isActive: false })
+    .where(eq(calendarsSchema.isActive, true));
+
+  await database
+    .insert(calendarsSchema)
+    .values(
+      calendar.map((c) => ({
+        id: c.id,
+        platform: c.platform,
+        weekday: c.weekday,
+        isActive: true
+      }))
+    )
+    .onConflictDoUpdate({
+      target: calendarsSchema.id,
+      set: {
+        isActive: true
+      }
+    })
+    .returning({
+      id: calendarsSchema.id,
+      platform: calendarsSchema.platform,
+      weekday: calendarsSchema.weekday,
+      isActive: calendarsSchema.isActive
+    });
+
+  const resp = await database
+    .select()
+    .from(calendarsSchema)
+    .where(eq(calendarsSchema.isActive, true))
+    .orderBy(calendarsSchema.id);
+
+  calendar.sort((a, b) => a.id - b.id);
+
+  if (resp.length === calendar.length) {
+    for (let i = 0; i < resp.length; i++) {
+      if (resp[i].id === calendar[i].id) {
+        if (resp[i].platform !== calendar[i].platform || resp[i].weekday !== calendar[i].weekday) {
+          resp[i].platform = calendar[i].platform;
+          resp[i].weekday = calendar[i].weekday;
+
+          await database
+            .update(calendarsSchema)
+            .set({
+              platform: calendar[i].platform,
+              weekday: calendar[i].weekday
+            })
+            .where(eq(calendarsSchema.id, resp[i].id));
+        }
+      }
+    }
+    return { ok: true, data: resp };
+  }
+
+  return {
+    ok: false,
+    error: new Error('incorrect calendar data')
+  };
 }
