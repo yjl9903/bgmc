@@ -3,17 +3,37 @@ import 'dotenv/config';
 import pLimit from 'p-limit';
 import { breadc } from 'breadc';
 import { consola } from 'consola';
+import { fetchResources } from '@animegarden/client';
 import bangumiData from 'bangumi-data' with { type: 'json' };
 
 import { getSubjectDisplayName } from 'bgmt';
 
 import { version } from '../package.json';
 
-import { dumpDataBy, printBangumiSubject, printSubject } from './commands';
-import { type DatabaseBangumi, fetchAndUpdateBangumiSubject, fetchBangumiSubjects } from './client';
-import { fetchSubject } from './client/subject';
+import { formatDatetime } from './utils';
+import {
+  dumpDataBy,
+  matchBgmId,
+  fetchYucData,
+  writeSession,
+  printSubject,
+  printBangumiSubject
+} from './commands';
+import {
+  type DatabaseBangumi,
+  type DatabaseSubject,
+  fetchAndUpdateBangumiSubject,
+  fetchBangumiSubjects,
+  fetchSubject,
+  fetchSubjects
+} from './client';
 
 const cli = breadc('bgmx', { version }).option('-s, --secret <string>', 'API 密钥');
+
+cli
+  .command('calendar', '拉取当前周历数据')
+  .option('--session <file>', `会话文件, 默认值: calendar-{year}-{month}.yaml`)
+  .action(async (options) => {});
 
 cli
   .command('sync subject', '拉取所有 bgmx 条目数据')
@@ -178,6 +198,69 @@ cli
     }
   });
 
+cli
+  .command('sync yuc', '拉取并更新 yuc.wiki 周历数据')
+  .option('--update', '是否更新数据, 默认值: true', { default: true })
+  .option('--session <file>', `会话文件, 默认值: yuc-{year}-{month}.yaml`)
+  .option('--force', '强制更新数据, 默认值: false')
+  .option('--year <year>', '年份, 默认值: ' + new Date().getFullYear())
+  .option('--month <month>', '月份, 可选值: 1, 4, 7, 10')
+  .action(async (options) => {
+    const secret = options.secret ?? process.env.SECRET;
+    if (!secret && options.update) {
+      consola.warn('未提供 API 密钥，将无法更新数据');
+    }
+
+    const data = await fetchYucData({
+      year: options.year ? +options.year : undefined,
+      month: options.month ? +options.month : undefined,
+      session: options.session,
+      force: options.force
+    });
+
+    const subjects: DatabaseSubject[] = [];
+    for await (const subject of fetchSubjects()) {
+      subjects.push(subject);
+    }
+    subjects.sort((a, b) =>
+      a.data.onair_date && b.data.onair_date
+        ? new Date(b.data.onair_date).getTime() - new Date(a.data.onair_date).getTime()
+        : b.id - a.id
+    );
+
+    const match = async (item: { id: number }, names: string[]) => {
+      if (item.id === -1) {
+        const id = matchBgmId(subjects, names, { year: data.year, month: data.month });
+        item.id = id;
+      }
+
+      if (item.id !== -1) {
+        const subject = subjects.find((s) => s.id === item.id);
+        if (subject) {
+          console.info(
+            `${names[0]} -> ${subject.title} (id: ${subject.id}, ${subject.data.onair_date ?? '?'})`
+          );
+        } else {
+          console.error(`unknown subject ${item.id}`);
+        }
+      }
+    };
+
+    for (const item of data.items) {
+      await match(item, [item.name_cn, item.name_jp]);
+    }
+    for (const row of data.calendar) {
+      for (const item of row) {
+        await match(item, [item.name]);
+      }
+    }
+    for (const item of data.web) {
+      await match(item, [item.name]);
+    }
+
+    await writeSession(data.session, data);
+  });
+
 cli.command('subject <id>', '查询 bgmx 条目').action(async (id, options) => {
   const secret = options.secret ?? process.env.SECRET;
 
@@ -186,6 +269,23 @@ cli.command('subject <id>', '查询 bgmx 条目').action(async (id, options) => 
   });
 
   printSubject(resp);
+});
+
+cli.command('garden <id>', '查询条目对应的 AnimeGarden 资源').action(async (id, options) => {
+  const secret = options.secret ?? process.env.SECRET;
+
+  const subject = await fetchSubject(+id, {
+    secret
+  });
+
+  const resp = await fetchResources({
+    include: subject.search.include,
+    exclude: subject.search.exclude
+  });
+
+  for (const resource of resp.resources) {
+    console.log(`${resource.title} ${formatDatetime(resource.createdAt)}`);
+  }
 });
 
 cli.command('bangumi subject <id>', '查询并更新 bangumi 条目').action(async (id, options) => {

@@ -4,6 +4,8 @@ import { getSubjectAlias } from 'bgmt';
 
 import type { DatabaseBangumi, DatabaseSubject } from '../client';
 
+import { formatDatetime } from '../utils';
+
 export function printBangumiSubject(bangumi: DatabaseBangumi) {
   const subject = bangumi.data;
 
@@ -27,16 +29,7 @@ export function printBangumiSubject(bangumi: DatabaseBangumi) {
     }
   }
 
-  console.log(
-    `${label('updated')}  ${new Intl.DateTimeFormat('sv-SE', {
-      year: 'numeric',
-      month: '2-digit',
-      day: '2-digit',
-      hour: '2-digit',
-      minute: '2-digit',
-      hour12: false
-    }).format(new Date(bangumi.updatedAt))}`
-  );
+  console.log(`${label('updated')}  ${formatDatetime(new Date(bangumi.updatedAt))}`);
 
   // console.log(subject);
 }
@@ -69,16 +62,7 @@ export function printSubject(data: DatabaseSubject) {
     }
   }
 
-  console.log(
-    `${label('updated')}  ${new Intl.DateTimeFormat('sv-SE', {
-      year: 'numeric',
-      month: '2-digit',
-      day: '2-digit',
-      hour: '2-digit',
-      minute: '2-digit',
-      hour12: false
-    }).format(new Date(data.updatedAt))}`
-  );
+  console.log(`${label('updated')}  ${formatDatetime(new Date(data.updatedAt))}`);
 
   // console.log(subject);
 }

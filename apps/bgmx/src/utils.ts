@@ -25,3 +25,14 @@ export function sleep(timeout?: number) {
     setTimeout(() => res(), timeout);
   });
 }
+
+export function formatDatetime(date: Date) {
+  return new Intl.DateTimeFormat('sv-SE', {
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false
+  }).format(date);
+}

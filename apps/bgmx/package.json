@@ -38,6 +38,7 @@
     "release": "release-it"
   },
   "dependencies": {
+    "@animegarden/client": "^0.5.2",
     "@breadc/color": "^0.9.7",
     "@onekuma/map": "^0.1.10",
     "bangumi-data": ">=0.3.184",
@@ -53,7 +54,8 @@
     "p-limit": "7.1.1",
     "rimraf": "^6.0.1",
     "tmdbc": "workspace:*",
-    "undici": "^7.16.0"
+    "undici": "^7.16.0",
+    "yaml": "^2.8.1"
   },
   "devDependencies": {
     "@types/jsdom": "^27.0.0"
