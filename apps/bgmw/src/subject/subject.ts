@@ -27,7 +27,7 @@ export function createDatabaseSubject(bangumi: DatabaseBangumi, revisions: Revis
       summary: bangumi.data.summary,
       poster: bangumi.data.images.large,
       images: getSubjectImages(bangumi),
-      tags: normalizeTags(bangumi.data.tags, { count: 3 })
+      tags: normalizeTags(bangumi.data.tags, { count: 10 })
     },
     search: {
       include: alias
