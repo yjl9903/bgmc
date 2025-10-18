@@ -20,6 +20,7 @@ cli
   .option('--log <file>', '日志文件, 默认值: fetch-bangumi.md')
   .option('--out-dir <directory>', '输出目录, 默认值: data/bangumi')
   .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
+  .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
     if (!secret && options.update) {
@@ -88,7 +89,15 @@ cli
 
     await Promise.all(tasks);
 
-    // 3. 数据持久化
+    // 3. 重试
+    for (let turn = 0; turn < options.retry && errors.size > 0; turn++) {
+      for (const bgmId of errors.keys()) {
+        tasks.push(limit(() => doUpdate(bgmId)));
+      }
+      await Promise.all(tasks);
+    }
+
+    // 4. 数据持久化
     const bangumis = [...updated.values()];
     await dumpDataBy(
       options.outDir ?? 'data/bangumi',
@@ -105,7 +114,7 @@ cli
       (a, b) => a.id - b.id
     );
 
-    // 4. 写入错误日志
+    // 5. 写入错误日志
     {
       const logFile = options.log ?? 'fetch-bangumi.md';
       const content: string[] = [];
@@ -142,16 +151,22 @@ cli
 
 cli
   .command('fetch tmdb', '拉取并更新所有 tmdb 条目数据')
-  .option('--log <file>', '日志文件')
-  .option('--out-dir <directory>', '输出目录')
+  .option('--update', '是否更新数据, 默认值: true', { default: true })
+  .option('--log <file>', '日志文件, 默认值: fetch-bangumi.md')
+  .option('--out-dir <directory>', '输出目录, 默认值: data/bangumi')
+  .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
+  .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
   });
 
 cli
   .command('fetch subject', '拉取所有 bgmx 条目数据')
-  .option('--log <file>', '日志文件')
-  .option('--out-dir <directory>', '输出目录')
+  .option('--update', '是否更新数据, 默认值: true', { default: true })
+  .option('--log <file>', '日志文件, 默认值: fetch-bangumi.md')
+  .option('--out-dir <directory>', '输出目录, 默认值: data/bangumi')
+  .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
+  .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
   });
