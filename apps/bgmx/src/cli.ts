@@ -16,12 +16,13 @@ const cli = breadc('bgmx', { version }).option('-s, --secret <string>', 'API 密
 
 cli
   .command('fetch bangumi', '拉取并更新所有 bangumi 条目数据')
+  .option('--update', '是否更新数据, 默认值: true', { default: true })
   .option('--log <file>', '日志文件, 默认值: fetch-bangumi.md')
   .option('--out-dir <directory>', '输出目录, 默认值: data/bangumi')
   .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
-    if (!secret) {
+    if (!secret && options.update) {
       consola.warn('未提供 API 密钥，将无法更新数据');
     }
 
@@ -57,8 +58,10 @@ cli
 
       executing.add(subject.id);
 
-      if (secret) {
+      if (options.update && secret) {
         tasks.push(limit(() => doUpdate(subject.id)));
+      } else {
+        updated.set(subject.id, subject);
       }
     }
 
@@ -73,7 +76,7 @@ cli
 
           executing.add(+bgmId);
 
-          if (secret) {
+          if (options.update && secret) {
             tasks.push(limit(() => doUpdate(+bgmId)));
           }
         }
@@ -130,7 +133,11 @@ cli
       await writeFile(logFile, content.join('\n'), 'utf-8');
     }
 
-    console.info(`更新结束, 成功更新 ${updated.size} 条，失败 ${errors.size} 条`);
+    if (options.update) {
+      console.info(`更新结束, 成功更新 ${updated.size} 条，失败 ${errors.size} 条`);
+    } else {
+      console.info(`成功拉取 ${updated.size} 条数据`);
+    }
   });
 
 cli
