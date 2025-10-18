@@ -1,11 +1,10 @@
 {
-  "name": "@bgmc/monorepo",
+  "name": "@bgmx/monorepo",
   "private": true,
   "type": "module",
   "scripts": {
     "bgmc": "tsx packages/bgmc/src/cli.ts",
-    "bgmd": "tsx packages/scraper/src/cli.ts",
-    "bgmx": "tsx packages/bgmx/src/cli.ts",
+    "bgmx": "tsx apps/bgmx/src/cli.ts",
     "build": "turbo run build",
     "deploy:bgmw": "pnpm -C apps/bgmw run deploy",
     "dev": "turbo run dev --parallel",

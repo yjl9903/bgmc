@@ -1,5 +1,3 @@
-import type { RelatedSubject, SubjectCharacters, SubjectInformation, SubjectPersons } from 'bgmc';
-
 import type { Context } from '../env';
 
 import { bangumis, type Bangumi as DatabaseBangumi } from '../schema/subject';
@@ -9,10 +7,7 @@ import { client } from './client';
 export type FetchAndUpdateBangumiSubjectResult =
   | {
       ok: true;
-      subject: SubjectInformation;
-      persons: SubjectPersons;
-      characters: SubjectCharacters;
-      subjects: RelatedSubject[];
+      data: DatabaseBangumi;
     }
   | {
       ok: false;
@@ -44,17 +39,14 @@ export async function fetchAndUpdateBangumiSubject(
       subjects
     });
 
-    if (updated.ok) {
+    if (updated.ok && updated.data) {
       console.log('[bgmw]', 'updated database bangumi', bgmId, updated);
 
       // 3. TODO: Update subject
 
       return {
         ok: true,
-        subject,
-        persons,
-        characters,
-        subjects
+        data: updated.data
       };
     } else {
       return {
@@ -82,16 +74,18 @@ export async function updateDatabaseBangumi(
 
     const now = new Date();
 
+    const row: DatabaseBangumi = {
+      id: bgmId,
+      data: payload.data,
+      persons: payload.persons,
+      characters: payload.characters,
+      subjects: payload.subjects,
+      updatedAt: now
+    };
+
     const resp = await database
       .insert(bangumis)
-      .values({
-        id: bgmId,
-        data: payload.data,
-        persons: payload.persons,
-        characters: payload.characters,
-        subjects: payload.subjects,
-        updatedAt: now
-      })
+      .values(row)
       .onConflictDoUpdate({
         target: bangumis.id,
         set: {
@@ -105,8 +99,8 @@ export async function updateDatabaseBangumi(
       .returning({ id: bangumis.id });
 
     return {
-      ok: resp.length > 0 ? true : false,
-      id: resp[0]?.id
+      ok: resp.length > 0 && resp[0]?.id === bgmId ? true : false,
+      data: row
     };
   } catch (error) {
     console.error('[bgmw]', 'failed to update bangumi', error);

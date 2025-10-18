@@ -1,10 +1,12 @@
 import { z } from 'zod';
 import { Hono } from 'hono';
+import { asc, gt } from 'drizzle-orm';
 
 import { BgmFetchError } from 'bgmc';
 
 import type { AppEnv } from '../env';
 
+import { bangumis } from '../schema/subject';
 import { client, fetchAndUpdateBangumiSubject } from '../bangumi';
 
 import { zValidator } from './middlewares/zod';
@@ -83,7 +85,60 @@ router.post(
 
     const resp = await fetchAndUpdateBangumiSubject(c, subjectId);
 
-    return c.json(resp);
+    return c.json(resp, resp.ok ? 200 : 502);
+  }
+);
+
+// 查询数据库中全部 bangumi 数据
+router.get(
+  '/bangumi/subjects',
+  zValidator(
+    'query',
+    z.object({
+      cursor: z.coerce.number().int().min(0).default(0),
+      limit: z.coerce.number().int().positive().max(1000).default(100)
+    })
+  ),
+  async (c) => {
+    const timestamp = new Date();
+    const requestId = c.get('requestId');
+
+    try {
+      const { cursor, limit } = c.req.valid('query');
+
+      const database = c.get('database');
+
+      const data = await database
+        .select()
+        .from(bangumis)
+        .where(gt(bangumis.id, cursor))
+        .orderBy(asc(bangumis.id))
+        .limit(limit);
+
+      const nextCursor =
+        data.length === limit && data.length > 0 ? (data[data.length - 1]?.id ?? null) : null;
+
+      return c.json(
+        {
+          ok: true,
+          timestamp,
+          data,
+          nextCursor
+        },
+        200
+      );
+    } catch (error) {
+      console.error('[bgmw] failed to fetch bangumis', error, { requestId });
+
+      return c.json(
+        {
+          ok: false,
+          timestamp,
+          error: 'Failed to fetch bangumi list'
+        },
+        502
+      );
+    }
   }
 );
 
