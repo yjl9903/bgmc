@@ -3,7 +3,7 @@ import 'dotenv/config';
 import pLimit from 'p-limit';
 import { breadc } from 'breadc';
 import { consola } from 'consola';
-import { items as bangumiDataItems } from 'bangumi-data' with { type: 'json' };
+import bangumiData from 'bangumi-data' with { type: 'json' };
 
 import { getSubjectDisplayName } from 'bgmt';
 
@@ -27,7 +27,7 @@ cli
 
     const executing = new Set<number>();
     const updated = new Map<number, DatabaseBangumi>();
-    const unknown: typeof bangumiDataItems = [];
+    const unknown: typeof bangumiData.items = [];
     const errors = new Map<number, any>();
 
     const limit = pLimit(options.concurrency);
@@ -65,7 +65,7 @@ cli
     await Promise.all(tasks);
 
     // 2. 更新 bangumi-data 出现的条目
-    for (const item of bangumiDataItems) {
+    for (const item of bangumiData.items) {
       const bgmId = item.sites.find((site) => site.site === 'bangumi')?.id;
       if (bgmId) {
         if (!executing.has(+bgmId)) {
