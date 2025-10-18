@@ -3,8 +3,9 @@ import { logger } from 'hono/logger';
 
 import type { AppEnv } from './env';
 
-import { healthRoute } from './routes/health';
 import { bangumiRoute } from './routes/bangumi';
+import { healthRoute } from './routes/health';
+import { subjectRoute } from './routes/subject';
 import { connectDatabase } from './database';
 
 export const createApp = () => {
@@ -26,6 +27,7 @@ export const createApp = () => {
 
   app.route('/', healthRoute);
   app.route('/', bangumiRoute);
+  app.route('/', subjectRoute);
 
   app.notFound((c) => {
     return c.json(

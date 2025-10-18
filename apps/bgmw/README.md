@@ -15,6 +15,13 @@ npm i -g bgmw
 bgmw
 ```
 
+## Database
+
+```bash
+pnpm -C apps/bgmw drizzle:generate
+pnpm -C apps/bgmw d1:migrate --remote
+```
+
 ## License
 
 MIT License © 2024 [XLor](https://github.com/yjl9903)

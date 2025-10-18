@@ -1,5 +1,6 @@
 import type { Context } from '../env';
 
+import { updateSubject } from '../subject';
 import { bangumis, type Bangumi as DatabaseBangumi } from '../schema/subject';
 
 import { client } from './client';
@@ -42,7 +43,8 @@ export async function fetchAndUpdateBangumiSubject(
     if (updated.ok && updated.data) {
       console.log('[bgmw]', 'updated database bangumi', bgmId, updated);
 
-      // 3. TODO: Update subject
+      // 3. Update subject
+      await updateSubject(ctx, updated.data);
 
       return {
         ok: true,

@@ -44,7 +44,7 @@
     "drizzle:generate": "drizzle-kit generate",
     "format": "prettier --write 'src/**/*.ts'",
     "release": "release-it",
-    "test:ci": "wrangler deploy --dry-run"
+    "test:ci": "vitest --run && wrangler deploy --dry-run"
   },
   "dependencies": {
     "@hono/node-server": "1.19.5",

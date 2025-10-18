@@ -24,5 +24,18 @@ export function getSubjectAlias(subject: Pick<SubjectInformation, 'infobox' | 'n
   const aliasBox =
     subject.infobox?.filter((box) => ['别名', '中文名', '英文名'].includes(box.key)) ?? [];
   const translations = aliasBox?.flatMap((box) => getSubjectInfoboxArray(box)) ?? [];
-  return [...new Set([subject.name, subject.name_cn, ...translations].filter(Boolean))];
+  return [
+    ...new Set(
+      [subject.name, subject.name_cn, ...translations].filter(Boolean).map(decodeSubjectTitle)
+    )
+  ].sort();
+}
+
+// Fix `&quot;Oshi no Ko&quot; 2` -> `"Oshi no Ko" 2`
+export function decodeSubjectTitle(name: string) {
+  return name
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
 }
