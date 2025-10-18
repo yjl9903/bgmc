@@ -97,6 +97,9 @@ importers:
 
   apps/bgmx:
     dependencies:
+      '@breadc/color':
+        specifier: ^0.9.7
+        version: 0.9.7
       '@onekuma/map':
         specifier: ^0.1.10
         version: 0.1.10

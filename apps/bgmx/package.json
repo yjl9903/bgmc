@@ -38,6 +38,7 @@
     "release": "release-it"
   },
   "dependencies": {
+    "@breadc/color": "^0.9.7",
     "@onekuma/map": "^0.1.10",
     "bangumi-data": ">=0.3.184",
     "bgmc": "workspace:*",

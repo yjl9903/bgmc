@@ -9,10 +9,24 @@ import { getSubjectDisplayName } from 'bgmt';
 
 import { version } from '../package.json';
 
-import { dumpDataBy } from './commands';
+import { dumpDataBy, printBangumiSubject } from './commands';
 import { type DatabaseBangumi, fetchAndUpdateBangumiSubject, fetchBangumiSubjects } from './client';
 
 const cli = breadc('bgmx', { version }).option('-s, --secret <string>', 'API 密钥');
+
+cli
+  .command('fetch subject', '拉取所有 bgmx 条目数据')
+  .option('--update', '是否更新数据, 默认值: true', { default: true })
+  .option('--log <file>', '日志文件, 默认值: fetch-subject.md')
+  .option('--out-dir <directory>', '输出目录, 默认值: data/subject')
+  .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
+  .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
+  .action(async (options) => {
+    const secret = options.secret ?? process.env.SECRET;
+    if (!secret && options.update) {
+      consola.warn('未提供 API 密钥，将无法更新数据');
+    }
+  });
 
 cli
   .command('fetch bangumi', '拉取并更新所有 bangumi 条目数据')
@@ -163,32 +177,17 @@ cli
     }
   });
 
-cli
-  .command('fetch subject', '拉取所有 bgmx 条目数据')
-  .option('--update', '是否更新数据, 默认值: true', { default: true })
-  .option('--log <file>', '日志文件, 默认值: fetch-subject.md')
-  .option('--out-dir <directory>', '输出目录, 默认值: data/subject')
-  .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
-  .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
-  .action(async (options) => {
-    const secret = options.secret ?? process.env.SECRET;
-    if (!secret && options.update) {
-      consola.warn('未提供 API 密钥，将无法更新数据');
-    }
+cli.command('subject <id>', '拉取并更新 bgmx 条目').action(async (id, options) => {});
+
+cli.command('bangumi subject <id>', '拉取并更新 bangumi 条目').action(async (id, options) => {
+  const secret = options.secret ?? process.env.SECRET;
+
+  const resp = await fetchAndUpdateBangumiSubject(+id, {
+    secret
   });
 
-cli
-  .command('subject <id>', '拉取并更新 subject')
-  .option('-i, --interactive', '交互式更新数据')
-  .action(async (id, options) => {
-    const secret = options.secret ?? process.env.SECRET;
-
-    const resp = await fetchAndUpdateBangumiSubject(+id, {
-      secret
-    });
-
-    console.log(resp);
-  });
+  printBangumiSubject(resp);
+});
 
 if (process.stdin.isTTY) {
   consola.wrapConsole();

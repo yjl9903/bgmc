@@ -1,8 +1,8 @@
 import type { Item } from 'bangumi-data';
 import type { PartialDeep } from 'type-fest';
 
-import { trimSeason } from 'bgmt';
-import { type SubjectInformation, getSubjectAlias } from 'bgmc';
+import type { SubjectInformation } from 'bgmc';
+import { trimSeason, getSubjectAlias } from 'bgmt';
 
 import type { FullBangumi } from './types';
 

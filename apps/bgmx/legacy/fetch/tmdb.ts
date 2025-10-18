@@ -1,7 +1,7 @@
 import fs from 'fs-extra';
 import path from 'node:path';
 
-import { getSubjectAlias } from 'bgmc';
+import { getSubjectAlias } from 'bgmt';
 import {
   TMDBClient,
   type SearchResultItem,

@@ -2,8 +2,7 @@ import fs from 'fs-extra';
 import path from 'node:path';
 import { JSDOM } from 'jsdom';
 
-import { getSubjectAlias } from 'bgmc';
-import { normalizeTitle, trimSeason } from 'bgmt';
+import { normalizeTitle, trimSeason, getSubjectAlias } from 'bgmt';
 
 import type { Context } from '../types';
 
