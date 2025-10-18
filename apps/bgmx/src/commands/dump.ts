@@ -38,5 +38,20 @@ export async function dumpCalendar(
   calendar: CalendarSubject[][],
   web: CalendarSubject[]
 ) {
-  await writeFile(file, JSON.stringify({ calendar, web }, null, 2), 'utf-8');
+  const transform = (item: CalendarSubject) => ({
+    id: item.id,
+    title: item.title,
+    platform: item.data.platform,
+    onair_date: item.data.onair_date,
+    rating: item.data.rating,
+    poster: item.data.poster,
+    tags: item.data.tags,
+    search: item.search
+  });
+
+  await writeFile(
+    file,
+    JSON.stringify({ calendar: calendar.map((r) => r.map(transform)), web: web.map(transform) }),
+    'utf-8'
+  );
 }

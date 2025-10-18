@@ -71,14 +71,13 @@ export function printCalendar(calendar: CalendarSubject[][], web: CalendarSubjec
   for (let i = 0; i < calendar.length; i++) {
     console.log(bold(['周一', '周二', '周三', '周四', '周五', '周六', '周日'][i]));
     for (const item of calendar[i]) {
-      console.log(`${item.title}`);
+      console.log(`${item.title} (id: ${item.id}, ${item.data.onair_date})`);
     }
     console.log();
   }
 
-  console.log();
   console.log(`${bold('web')}`);
   for (const item of web) {
-    console.log(`${item.title}`);
+    console.log(`${item.title} (id: ${item.id}, ${item.data.onair_date})`);
   }
 }
