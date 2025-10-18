@@ -152,23 +152,29 @@ cli
 cli
   .command('fetch tmdb', '拉取并更新所有 tmdb 条目数据')
   .option('--update', '是否更新数据, 默认值: true', { default: true })
-  .option('--log <file>', '日志文件, 默认值: fetch-bangumi.md')
-  .option('--out-dir <directory>', '输出目录, 默认值: data/bangumi')
+  .option('--log <file>', '日志文件, 默认值: fetch-tmdb.md')
+  .option('--out-dir <directory>', '输出目录, 默认值: data/tmdb')
   .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
+    if (!secret && options.update) {
+      consola.warn('未提供 API 密钥，将无法更新数据');
+    }
   });
 
 cli
   .command('fetch subject', '拉取所有 bgmx 条目数据')
   .option('--update', '是否更新数据, 默认值: true', { default: true })
-  .option('--log <file>', '日志文件, 默认值: fetch-bangumi.md')
-  .option('--out-dir <directory>', '输出目录, 默认值: data/bangumi')
+  .option('--log <file>', '日志文件, 默认值: fetch-subject.md')
+  .option('--out-dir <directory>', '输出目录, 默认值: data/subject')
   .option('--concurrency <number>', '并发数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .option('--retry <number>', '重试次数, 默认值: 3', { cast: (v) => (v ? +v : 3) })
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
+    if (!secret && options.update) {
+      consola.warn('未提供 API 密钥，将无法更新数据');
+    }
   });
 
 cli
