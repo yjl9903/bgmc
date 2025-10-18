@@ -43,7 +43,7 @@ cli
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
     if (!secret && options.update) {
-      consola.warn('未提供 API 密钥，将无法更新数据');
+      console.warn('未提供 API 密钥，将无法更新数据');
     }
   });
 
@@ -57,7 +57,7 @@ cli
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
     if (!secret && options.update) {
-      consola.warn('未提供 API 密钥，将无法更新数据');
+      console.warn('未提供 API 密钥，将无法更新数据');
     }
 
     const executing = new Set<number>();
@@ -192,7 +192,7 @@ cli
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
     if (!secret && options.update) {
-      consola.warn('未提供 API 密钥，将无法更新数据');
+      console.warn('未提供 API 密钥，将无法更新数据');
     }
   });
 
@@ -206,7 +206,7 @@ cli
   .action(async (options) => {
     const secret = options.secret ?? process.env.SECRET;
     if (!secret && options.update) {
-      consola.warn('未提供 API 密钥，将无法更新数据');
+      console.warn('未提供 API 密钥，将无法更新数据');
     }
 
     const data = await fetchYucData({
@@ -264,7 +264,7 @@ cli
 
     await writeSession(data.session, data);
 
-    console.log('抓取周历数据成功');
+    consola.success('抓取周历数据成功');
 
     const calendar: CalendarInput[] = [];
     for (let i = 0; i < data.calendar.length; i++) {
@@ -287,7 +287,7 @@ cli
     }
     if (secret && options.update) {
       await updateCalendar(calendar, { secret });
-      console.log('更新周历数据成功');
+      consola.success('更新周历数据成功');
     }
   });
 

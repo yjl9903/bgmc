@@ -7,6 +7,8 @@ export const zValidator: typeof originalZodValidator = (
 ) => {
   return originalZodValidator(type, schema, (result, c) => {
     if (!result.success) {
+      console.error('[bgmw]', 'zod validation error', result.error, result.data);
+
       return c.json({
         ok: false,
         timestamp: new Date(),
